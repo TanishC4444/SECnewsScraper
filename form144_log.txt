@@ -115,3 +115,5 @@
 2025-07-29 21:19:36 | MCGRATH RENTCORP | Officer | Shares: 7000 | Value: $879,534.0 | Percent: 0.028442% | Link: https://www.sec.gov/Archives/edgar/data/752714/000192109425000841/0001921094-25-000841.txt
 2025-07-29 21:19:37 | PACCAR INC | Officer | Shares: 39965 | Value: $3,977,333.0 | Percent: 0.007613% | Link: https://www.sec.gov/Archives/edgar/data/1664294/000192109425000840/0001921094-25-000840.txt
 2025-07-29 21:19:38 | PACCAR INC | Officer | Shares: 39965 | Value: $3,977,333.0 | Percent: 0.007613% | Link: https://www.sec.gov/Archives/edgar/data/75362/000192109425000840/0001921094-25-000840.txt
+2025-07-29 21:38:56 | SOUTHERN MISSOURI BANCORP, INC. | Director | Shares: 10000 | Value: $563,041.72 | Percent: 0.088500% | Link: https://www.sec.gov/Archives/edgar/data/1961768/000141588925020476/0001415889-25-020476.txt
+2025-07-29 21:38:57 | SOUTHERN MISSOURI BANCORP, INC. | Director | Shares: 10000 | Value: $563,041.72 | Percent: 0.088500% | Link: https://www.sec.gov/Archives/edgar/data/916907/000141588925020476/0001415889-25-020476.txt
