@@ -61,3 +61,7 @@
 2025-07-29 15:01:12 | Wintrust Financial Corporation | Officer | Shares: 14942 | Value: $1,973,987.62 | Percent: 0.022322% | Link: https://www.sec.gov/Archives/edgar/data/1015328/000101532825000176/0001015328-25-000176.txt
 2025-07-29 15:34:39 | TIMBERLAND BANCORP INC | Officer | Shares: 7000 | Value: $232,050.0 | Percent: 0.088593% | Link: https://www.sec.gov/Archives/edgar/data/2007067/000195917325004795/0001959173-25-004795.txt
 2025-07-29 15:34:41 | TIMBERLAND BANCORP INC | Officer | Shares: 7000 | Value: $232,050.0 | Percent: 0.088593% | Link: https://www.sec.gov/Archives/edgar/data/1046050/000195917325004795/0001959173-25-004795.txt
+2025-07-29 15:53:01 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/1889263/000194984625000330/0001949846-25-000330.txt
+2025-07-29 15:53:03 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000330/0001949846-25-000330.txt
+2025-07-29 15:53:06 | RADIAN GROUP INC | Officer | Shares: 20000 | Value: $676,200.0 | Percent: 0.014888% | Link: https://www.sec.gov/Archives/edgar/data/1699782/000195917325004797/0001959173-25-004797.txt
+2025-07-29 15:53:07 | RADIAN GROUP INC | Officer | Shares: 20000 | Value: $676,200.0 | Percent: 0.014888% | Link: https://www.sec.gov/Archives/edgar/data/890926/000195917325004797/0001959173-25-004797.txt
