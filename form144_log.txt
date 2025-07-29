@@ -59,3 +59,5 @@
 2025-07-29 15:01:05 | L3HARRIS TECHNOLOGIES, INC. /DE/ | Officer | Shares: 72000 | Value: $19,528,200.0 | Percent: 0.038483% | Link: https://www.sec.gov/Archives/edgar/data/202058/000195917325004793/0001959173-25-004793.txt
 2025-07-29 15:01:09 | Wintrust Financial Corporation | Officer | Shares: 14942 | Value: $1,973,987.62 | Percent: 0.022322% | Link: https://www.sec.gov/Archives/edgar/data/1244276/000101532825000176/0001015328-25-000176.txt
 2025-07-29 15:01:12 | Wintrust Financial Corporation | Officer | Shares: 14942 | Value: $1,973,987.62 | Percent: 0.022322% | Link: https://www.sec.gov/Archives/edgar/data/1015328/000101532825000176/0001015328-25-000176.txt
+2025-07-29 15:34:39 | TIMBERLAND BANCORP INC | Officer | Shares: 7000 | Value: $232,050.0 | Percent: 0.088593% | Link: https://www.sec.gov/Archives/edgar/data/2007067/000195917325004795/0001959173-25-004795.txt
+2025-07-29 15:34:41 | TIMBERLAND BANCORP INC | Officer | Shares: 7000 | Value: $232,050.0 | Percent: 0.088593% | Link: https://www.sec.gov/Archives/edgar/data/1046050/000195917325004795/0001959173-25-004795.txt
