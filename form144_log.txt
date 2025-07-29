@@ -65,3 +65,5 @@
 2025-07-29 15:53:03 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000330/0001949846-25-000330.txt
 2025-07-29 15:53:06 | RADIAN GROUP INC | Officer | Shares: 20000 | Value: $676,200.0 | Percent: 0.014888% | Link: https://www.sec.gov/Archives/edgar/data/1699782/000195917325004797/0001959173-25-004797.txt
 2025-07-29 15:53:07 | RADIAN GROUP INC | Officer | Shares: 20000 | Value: $676,200.0 | Percent: 0.014888% | Link: https://www.sec.gov/Archives/edgar/data/890926/000195917325004797/0001959173-25-004797.txt
+2025-07-29 17:11:16 | Veritex Holdings, Inc. | Director | Shares: 7279 | Value: $233,947.06 | Percent: 0.013412% | Link: https://www.sec.gov/Archives/edgar/data/1629039/000195917325004799/0001959173-25-004799.txt
+2025-07-29 17:11:17 | Veritex Holdings, Inc. | Director | Shares: 7279 | Value: $233,947.06 | Percent: 0.013412% | Link: https://www.sec.gov/Archives/edgar/data/1501570/000195917325004799/0001959173-25-004799.txt
