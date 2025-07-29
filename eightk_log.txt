@@ -83,3 +83,6 @@
 2025-07-29 14:12:57 | 8-K - United States Commodity Index Funds Trust (0001479247) (Filer) | 2025-07-29T09:53:39-04:00 | https://www.sec.gov/Archives/edgar/data/1479247/000110465925071488/0001104659-25-071488.txt
 2025-07-29 14:13:01 | 8-K - United States Oil Fund, LP (0001327068) (Filer) | 2025-07-29T09:52:26-04:00 | https://www.sec.gov/Archives/edgar/data/1327068/000110465925071486/0001104659-25-071486.txt
 2025-07-29 14:13:04 | 8-K - United States Brent Oil Fund, LP (0001472494) (Filer) | 2025-07-29T09:49:12-04:00 | https://www.sec.gov/Archives/edgar/data/1472494/000110465925071484/0001104659-25-071484.txt
+2025-07-29 15:00:50 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-07-29T10:59:03-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025099434/0000950170-25-099434.txt
+2025-07-29 15:00:53 | 8-K - SMC Entertainment, Inc. (0001497230) (Filer) | 2025-07-29T10:51:49-04:00 | https://www.sec.gov/Archives/edgar/data/1497230/000165495425008584/0001654954-25-008584.txt
+2025-07-29 15:00:58 | 8-K - PROCTER & GAMBLE Co (0000080424) (Filer) | 2025-07-29T10:51:39-04:00 | https://www.sec.gov/Archives/edgar/data/80424/000008042425000069/0000080424-25-000069.txt

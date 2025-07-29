@@ -55,3 +55,7 @@
 2025-07-29 14:44:55 | Dell Technologies Inc. | Director | Shares: 30000 | Value: $4,050,000.0 | Percent: 0.008831% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325004791/0001959173-25-004791.txt
 2025-07-29 14:44:59 | O REILLY AUTOMOTIVE INC | Officer | Shares: 29505 | Value: $2,898,866.25 | Percent: 0.051773% | Link: https://www.sec.gov/Archives/edgar/data/1926778/000195917325004790/0001959173-25-004790.txt
 2025-07-29 14:45:01 | O REILLY AUTOMOTIVE INC | Officer | Shares: 29505 | Value: $2,898,866.25 | Percent: 0.051773% | Link: https://www.sec.gov/Archives/edgar/data/898173/000195917325004790/0001959173-25-004790.txt
+2025-07-29 15:01:02 | L3HARRIS TECHNOLOGIES, INC. /DE/ | Officer | Shares: 72000 | Value: $19,528,200.0 | Percent: 0.038483% | Link: https://www.sec.gov/Archives/edgar/data/1194001/000195917325004793/0001959173-25-004793.txt
+2025-07-29 15:01:05 | L3HARRIS TECHNOLOGIES, INC. /DE/ | Officer | Shares: 72000 | Value: $19,528,200.0 | Percent: 0.038483% | Link: https://www.sec.gov/Archives/edgar/data/202058/000195917325004793/0001959173-25-004793.txt
+2025-07-29 15:01:09 | Wintrust Financial Corporation | Officer | Shares: 14942 | Value: $1,973,987.62 | Percent: 0.022322% | Link: https://www.sec.gov/Archives/edgar/data/1244276/000101532825000176/0001015328-25-000176.txt
+2025-07-29 15:01:12 | Wintrust Financial Corporation | Officer | Shares: 14942 | Value: $1,973,987.62 | Percent: 0.022322% | Link: https://www.sec.gov/Archives/edgar/data/1015328/000101532825000176/0001015328-25-000176.txt
