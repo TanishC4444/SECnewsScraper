@@ -230,7 +230,7 @@ def get_quarterly_data_table(ticker):
         """
 
 def get_stock_data_and_chart(ticker):
-    """Get comprehensive stock stats and create professional chart"""
+    """Get comprehensive stock stats and create professional chart with white text"""
     try:
         ticker = ticker.strip().lstrip('$')
         stock = yf.Ticker(ticker)
@@ -242,11 +242,11 @@ def get_stock_data_and_chart(ticker):
         hist_3m = stock.history(period="3mo")
         hist_1y = stock.history(period="1y")
         
-        # ADD THIS SECTION - Check for empty data
+        # Check for empty data
         if hist_5d.empty or hist_1m.empty:
             return None, None
             
-        # ADD THIS SECTION - Calculate price changes
+        # Calculate price changes
         last_price = hist_5d['Close'].iloc[-1]
         prev_close = info.get('previousClose')
         pct_change = ((last_price - prev_close) / prev_close * 100) if prev_close else None
@@ -262,7 +262,7 @@ def get_stock_data_and_chart(ticker):
             ytd_start = hist_1y['Close'].iloc[0]
             ytd_change = ((last_price - ytd_start) / ytd_start * 100)
         
-        # ADD THIS SECTION - Create the chart
+        # Create the chart with WHITE TEXT
         plt.style.use('dark_background')
         fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(14, 10), 
                                       gridspec_kw={'height_ratios': [3, 1]})
@@ -280,18 +280,18 @@ def get_stock_data_and_chart(ticker):
         ax2.bar(hist_1m.index, hist_1m['Volume'], 
                alpha=0.6, color=volume_color, width=0.8)
         
-        # Styling for price chart
+        # Styling for price chart - WHITE TEXT
         ax1.set_title(f'{ticker} - 30 Day Performance & Volume', 
                      fontsize=20, fontweight='bold', color='white', pad=20)
-        ax1.set_ylabel('Price ($)', fontsize=14, color='#8e9297')
+        ax1.set_ylabel('Price ($)', fontsize=14, color='white')  # Changed to white
         ax1.grid(True, alpha=0.2, color='#5f6368')
-        ax1.tick_params(colors='#8e9297', labelsize=12)
+        ax1.tick_params(colors='white', labelsize=12)  # Changed to white
         
-        # Styling for volume chart
-        ax2.set_ylabel('Volume', fontsize=12, color='#8e9297')
-        ax2.set_xlabel('Date', fontsize=14, color='#8e9297')
+        # Styling for volume chart - WHITE TEXT
+        ax2.set_ylabel('Volume', fontsize=12, color='white')  # Changed to white
+        ax2.set_xlabel('Date', fontsize=14, color='white')    # Changed to white
         ax2.grid(True, alpha=0.2, color='#5f6368')
-        ax2.tick_params(colors='#8e9297', labelsize=10)
+        ax2.tick_params(colors='white', labelsize=10)  # Changed to white
         
         # Add price annotation
         change_symbol = "▲" if pct_change and pct_change > 0 else "▼"
@@ -307,7 +307,7 @@ def get_stock_data_and_chart(ticker):
             ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%d'))
             ax.xaxis.set_major_locator(mdates.WeekdayLocator(interval=1))
         
-        plt.setp(ax2.xaxis.get_majorticklabels(), rotation=45)
+        plt.setp(ax2.xaxis.get_majorticklabels(), rotation=45, color='white')  # Added white color
         plt.tight_layout()
         
         # Convert to base64
@@ -319,7 +319,7 @@ def get_stock_data_and_chart(ticker):
         plt.close()
         plt.style.use('default')
         
-        # Get quarterly HTML
+        # Get quarterly HTML with WHITE TEXT
         quarterly_html = get_quarterly_data_table(ticker)
         
         # Enhanced metrics
@@ -336,7 +336,7 @@ def get_stock_data_and_chart(ticker):
         change_color = "#00ff88" if pct_change and pct_change > 0 else "#ff4757"
         change_arrow = "▲" if pct_change and pct_change > 0 else "▼"
         
-        # Create comprehensive stock HTML
+        # Create comprehensive stock HTML with WHITE TEXT
         stock_html = f"""
         <div style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); 
                     padding: 30px; border-radius: 15px; margin: 25px 0; 
@@ -351,26 +351,26 @@ def get_stock_data_and_chart(ticker):
             <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin-bottom: 25px;">
                 <div style="text-align: center; padding: 18px; background: rgba(255,255,255,0.1); 
                            border-radius: 12px; border: 2px solid rgba(255,255,255,0.2);">
-                    <h4 style="margin: 0; color: #bdc3c7; font-size: 13px; text-transform: uppercase;">Current Price</h4>
-                    <p style="font-size: 24px; margin: 8px 0 0 0; font-weight: bold;">${last_price:.2f}</p>
+                    <h4 style="margin: 0; color: white; font-size: 13px; text-transform: uppercase;">Current Price</h4>
+                    <p style="font-size: 24px; margin: 8px 0 0 0; font-weight: bold; color: white;">${last_price:.2f}</p>
                 </div>
                 <div style="text-align: center; padding: 18px; background: rgba(255,255,255,0.1); 
                            border-radius: 12px; border: 2px solid rgba(255,255,255,0.2);">
-                    <h4 style="margin: 0; color: #bdc3c7; font-size: 13px; text-transform: uppercase;">Daily Change</h4>
+                    <h4 style="margin: 0; color: white; font-size: 13px; text-transform: uppercase;">Daily Change</h4>
                     <p style="font-size: 20px; margin: 8px 0 0 0; font-weight: bold; color: {change_color};">
                         {change_arrow} {pct_change:.2f}%
                     </p>
                 </div>
                 <div style="text-align: center; padding: 18px; background: rgba(255,255,255,0.1); 
                            border-radius: 12px; border: 2px solid rgba(255,255,255,0.2);">
-                    <h4 style="margin: 0; color: #bdc3c7; font-size: 13px; text-transform: uppercase;">QTD Change</h4>
+                    <h4 style="margin: 0; color: white; font-size: 13px; text-transform: uppercase;">QTD Change</h4>
                     <p style="font-size: 18px; margin: 8px 0 0 0; font-weight: bold; color: {qtd_color};">
                         {f"{qtd_change:+.1f}%" if qtd_change else "N/A"}
                     </p>
                 </div>
                 <div style="text-align: center; padding: 18px; background: rgba(255,255,255,0.1); 
                            border-radius: 12px; border: 2px solid rgba(255,255,255,0.2);">
-                    <h4 style="margin: 0; color: #bdc3c7; font-size: 13px; text-transform: uppercase;">YTD Change</h4>
+                    <h4 style="margin: 0; color: white; font-size: 13px; text-transform: uppercase;">YTD Change</h4>
                     <p style="font-size: 18px; margin: 8px 0 0 0; font-weight: bold; color: {ytd_color};">
                         {f"{ytd_change:+.1f}%" if ytd_change else "N/A"}
                     </p>
@@ -379,26 +379,26 @@ def get_stock_data_and_chart(ticker):
             
             <!-- Company Fundamentals -->
             <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; margin: 20px 0;">
-                <h4 style="margin: 0 0 15px 0; color: #ecf0f1; font-size: 18px; text-align: center;">
+                <h4 style="margin: 0 0 15px 0; color: white; font-size: 18px; text-align: center;">
                     🏢 Company Fundamentals
                 </h4>
                 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
                     <div>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>Market Cap:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>Market Cap:</strong> 
                            {f"${market_cap/1e9:.1f}B" if market_cap else "N/A"}</p>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>P/E Ratio:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>P/E Ratio:</strong> 
                            {f"{pe_ratio:.2f}" if pe_ratio else "N/A"}</p>
                     </div>
                     <div>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>P/B Ratio:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>P/B Ratio:</strong> 
                            {f"{pb_ratio:.2f}" if pb_ratio else "N/A"}</p>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>Beta:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>Beta:</strong> 
                            {f"{beta:.2f}" if beta else "N/A"}</p>
                     </div>
                     <div>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>Dividend Yield:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>Dividend Yield:</strong> 
                            {f"{dividend_yield*100:.2f}%" if dividend_yield else "N/A"}</p>
-                        <p style="margin: 8px 0; font-size: 15px;"><strong>Volume:</strong> 
+                        <p style="margin: 8px 0; font-size: 15px; color: white;"><strong>Volume:</strong> 
                            {f"{volume:,}" if volume else "N/A"}</p>
                     </div>
                 </div>
@@ -406,19 +406,19 @@ def get_stock_data_and_chart(ticker):
             
             <!-- Trading Ranges -->
             <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; margin: 20px 0;">
-                <h4 style="margin: 0 0 15px 0; color: #ecf0f1; font-size: 18px; text-align: center;">
+                <h4 style="margin: 0 0 15px 0; color: white; font-size: 18px; text-align: center;">
                     📊 Trading Ranges
                 </h4>
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
                     <div style="text-align: center;">
-                        <p style="margin: 0; color: #bdc3c7; font-size: 14px;">TODAY'S RANGE</p>
-                        <p style="font-size: 18px; margin: 8px 0; font-weight: bold;">
+                        <p style="margin: 0; color: white; font-size: 14px;">TODAY'S RANGE</p>
+                        <p style="font-size: 18px; margin: 8px 0; font-weight: bold; color: white;">
                             ${info.get('dayLow', 'N/A')} - ${info.get('dayHigh', 'N/A')}
                         </p>
                     </div>
                     <div style="text-align: center;">
-                        <p style="margin: 0; color: #bdc3c7; font-size: 14px;">52-WEEK RANGE</p>
-                        <p style="font-size: 18px; margin: 8px 0; font-weight: bold;">
+                        <p style="margin: 0; color: white; font-size: 14px;">52-WEEK RANGE</p>
+                        <p style="font-size: 18px; margin: 8px 0; font-weight: bold; color: white;">
                             ${info.get('fiftyTwoWeekLow', 'N/A')} - ${info.get('fiftyTwoWeekHigh', 'N/A')}
                         </p>
                     </div>
@@ -581,6 +581,71 @@ eight_k_items_info = {
     "8.01": ("❓ Other Events", "🟡", "WATCH"),
     "9.01": ("📄 Financial Statements", "🟢", "NEUTRAL"),
 }
+filing_explanations = {
+    "S-1": {
+        "name": "Initial Public Offering Registration",
+        "description": "Companies use this to register securities for their first public sale (IPO). It contains detailed business information, financials, and risk factors.",
+        "signal": "🚀 IPO COMING",
+        "color": "#4CAF50",
+        "significance": "MAJOR - Company going public"
+    },
+    "S-1MEF": {
+        "name": "S-1 Amendment (MEF = Most Recent Amendment)",
+        "description": "Updates to the original S-1 filing, often includes pricing information, final share counts, or updated financials before IPO launch.",
+        "signal": "📋 IPO UPDATE",
+        "color": "#2196F3", 
+        "significance": "HIGH - IPO details finalized"
+    },
+    "S-3": {
+        "name": "Shelf Registration",
+        "description": "Allows established companies to register securities they may sell over the next 3 years without filing new registration statements each time.",
+        "signal": "📦 SHELF REGISTRATION",
+        "color": "#FF9800",
+        "significance": "MEDIUM - Future fundraising prepared"
+    },
+    "S-4": {
+        "name": "Merger/Acquisition Registration",
+        "description": "Used when companies issue securities in connection with mergers, acquisitions, or business combinations.",
+        "signal": "🤝 M&A ACTIVITY",
+        "color": "#9C27B0",
+        "significance": "MAJOR - Corporate restructuring"
+    },
+    "S-8": {
+        "name": "Employee Stock Plan Registration", 
+        "description": "Registers securities offered to employees through stock option plans, employee stock purchase plans, or similar arrangements.",
+        "signal": "👥 EMPLOYEE STOCK PLAN",
+        "color": "#607D8B",
+        "significance": "LOW - Routine employee benefits"
+    },
+    "S-11": {
+        "name": "Real Estate Investment Trust (REIT) Registration",
+        "description": "Specifically for real estate companies and REITs going public or issuing new securities.",
+        "signal": "🏢 REIT OFFERING",
+        "color": "#795548",
+        "significance": "MEDIUM - Real estate investment"
+    },
+    "F-1": {
+        "name": "Foreign Company IPO Registration",
+        "description": "Similar to S-1 but for foreign companies seeking to list on US exchanges for the first time.",
+        "signal": "🌍 FOREIGN IPO",
+        "color": "#3F51B5",
+        "significance": "MAJOR - International expansion"
+    },
+    "F-3": {
+        "name": "Foreign Company Shelf Registration",
+        "description": "Shelf registration for foreign companies that are already public in their home country.",
+        "signal": "🌍 FOREIGN SHELF",
+        "color": "#FF5722",
+        "significance": "MEDIUM - International fundraising"
+    },
+    "EFFECT": {
+        "name": "Registration Effectiveness Notice",
+        "description": "SEC declares the registration statement effective, meaning the company can now legally sell securities to the public.",
+        "signal": "✅ APPROVED TO SELL",
+        "color": "#4CAF50",
+        "significance": "CRITICAL - Trading can begin"
+    }
+}
 
 def extract_company_name(title):
     """Extract clean company name from filing title"""
@@ -609,6 +674,86 @@ def get_filings(form_type, count=5):
             "updated": updated
         })
     return filings
+
+def get_filing_explanation(form_type):
+    """Get detailed explanation for any filing type"""
+    # Clean the form type (remove MEF suffix for lookup)
+    clean_form = form_type.replace("MEF", "").strip()
+    
+    if clean_form in filing_explanations:
+        return filing_explanations[clean_form]
+    elif form_type in filing_explanations:  # Check exact match (for S-1MEF)
+        return filing_explanations[form_type]
+    else:
+        return {
+            "name": f"{form_type} Filing",
+            "description": "SEC registration or disclosure document",
+            "signal": "📄 SEC FILING",
+            "color": "#6C757D",
+            "significance": "UNKNOWN - Check filing details"
+        }
+
+def create_filing_explanation_section(form_type):
+    """Create an explanation section for the filing type"""
+    explanation = get_filing_explanation(form_type)
+    
+    return f"""
+    <div style="background: linear-gradient(135deg, {explanation['color']}20, {explanation['color']}10); 
+                padding: 20px; border-radius: 10px; margin: 20px 0; 
+                border-left: 4px solid {explanation['color']};">
+        <div style="display: flex; align-items: center; margin-bottom: 15px;">
+            <h3 style="margin: 0; color: {explanation['color']}; font-size: 20px; font-weight: bold;">
+                {explanation['signal']} {explanation['name']}
+            </h3>
+            <span style="margin-left: auto; padding: 4px 12px; background: {explanation['color']}; 
+                         color: white; border-radius: 20px; font-size: 12px; font-weight: bold;">
+                {explanation['significance']}
+            </span>
+        </div>
+        <p style="margin: 0; color: #333; font-size: 16px; line-height: 1.5;">
+            💡 <strong>What this means:</strong> {explanation['description']}
+        </p>
+    </div>
+    """
+
+# Enhanced EFFECT processing to detect underlying form types
+def get_effect_text_and_type_enhanced(index_link):
+    """Enhanced version that detects and explains underlying form types"""
+    match = re.search(r'/data/(\d+)/(\d{10,})/', index_link)
+    if not match:
+        return None, None, None, None
+    
+    cik, accession = match.groups()
+    effect_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{accession}/xslEFFECTX01/primary_doc.xml"
+
+    resp = requests.get(effect_url, headers=headers)
+    if resp.status_code != 200:
+        return None, None, None, None
+
+    try:
+        root = ET.fromstring(resp.content)
+        text_content = " ".join([elem.text.strip() for elem in root.iter() if elem.text and elem.text.strip()])
+        form_type = next((elem.text.strip() for elem in root.iter() if elem.tag.lower().endswith("formtype") and elem.text), None)
+        eff_date = next((elem.text.strip() for elem in root.iter() if elem.tag.lower().endswith("effectivedate") and elem.text), None)
+        
+        # Get explanation for the underlying form
+        explanation = get_filing_explanation(form_type) if form_type else None
+        
+        return text_content, form_type, eff_date, explanation
+        
+    except ET.ParseError:
+        soup = BeautifulSoup(resp.content, "html.parser")
+        text_content = soup.get_text(separator=" ", strip=True)
+        form_type_match = re.search(r"Form:\s*([A-Z0-9\-]+)", text_content)
+        date_match = re.search(r"Effectiveness Date:\s*([A-Za-z]+\s+\d{1,2},\s+\d{4})", text_content)
+        form_type = form_type_match.group(1) if form_type_match else None
+        eff_date = date_match.group(1) if date_match else None
+        
+        # Get explanation for the underlying form
+        explanation = get_filing_explanation(form_type) if form_type else None
+        
+        return text_content, form_type, eff_date, explanation
+
 
 def convert_to_txt_link(index_url):
     return index_url.replace("-index.htm", ".txt")
@@ -646,6 +791,10 @@ def summarize_items_enhanced(items):
         header = lines[0].strip()
         body = " ".join(lines[1:]).strip()
         
+        # Skip if body is empty or too short (less than 10 characters)
+        if not body or len(body) < 10:
+            continue
+            
         match = re.search(r"Item\s+(\d+\.\d+)", header)
         if match:
             item_num = match.group(1)
@@ -755,13 +904,99 @@ def format_sec_filing_date(updated_string):
         return formatted, dt_et
     except:
         return updated_string, None
+    
+def send_batch_email(all_filings, all_charts):
+    """Send a single email with all new filings compiled together"""
+    if not all_filings:
+        print("No new filings to send")
+        return
+    
+    # Count filings by type
+    filing_counts = {}
+    for filing in all_filings:
+        form_type = filing['form_type']
+        filing_counts[form_type] = filing_counts.get(form_type, 0) + 1
+    
+    # Create summary for subject line
+    summary_parts = []
+    for form_type, count in filing_counts.items():
+        summary_parts.append(f"{count} {form_type}")
+    
+    subject = f"📋 SEC Filings Update: {', '.join(summary_parts)}"
+    
+    # Create email header
+    html_body = f"""
+    <html>
+    <body style="font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5;">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+                    color: white; padding: 25px; border-radius: 15px; text-align: center; margin-bottom: 30px;">
+            <h1 style="margin: 0; font-size: 32px;">📋 SEC Filings Summary</h1>
+            <p style="margin: 10px 0 0 0; font-size: 18px;">
+                {len(all_filings)} new filing{'s' if len(all_filings) != 1 else ''} found
+            </p>
+            <p style="margin: 5px 0 0 0; font-size: 16px; opacity: 0.9;">
+                Run Date: {datetime.now().strftime('%B %d, %Y at %I:%M %p ET')}
+            </p>
+        </div>
+    """
+    
+    # Add each filing section
+    for i, filing in enumerate(all_filings):
+        # Add separator between filings (except for first one)
+        if i > 0:
+            html_body += """
+            <div style="height: 2px; background: linear-gradient(to right, transparent, #ddd, transparent); 
+                        margin: 40px 0;"></div>
+            """
+        
+        html_body += filing['html_content']
+    
+    # Close HTML
+    html_body += """
+    </body>
+    </html>
+    """
+    
+    # Send email with all charts
+    send_html_email_with_charts(subject, html_body, all_charts)
+
+def send_html_email_with_charts(subject, html_body, charts_dict):
+    """Send HTML email with multiple embedded charts"""
+    msg = MIMEMultipart('related')
+    msg["From"] = EMAIL_ADDRESS
+    msg["To"] = RECIPIENT_EMAIL
+    msg["Subject"] = subject
+    
+    # Add HTML content
+    msg_alternative = MIMEMultipart('alternative')
+    msg_alternative.attach(MIMEText("HTML email not supported", 'plain'))
+    msg_alternative.attach(MIMEText(html_body, 'html'))
+    msg.attach(msg_alternative)
+    
+    # Add all charts
+    for chart_id, chart_base64 in charts_dict.items():
+        if chart_base64:
+            chart_data = base64.b64decode(chart_base64)
+            chart_image = MIMEImage(chart_data)
+            chart_image.add_header('Content-ID', f'<{chart_id}>')
+            msg.attach(chart_image)
+    
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as smtp:
+        smtp.starttls()
+        smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
+        smtp.send_message(msg)
 
 if __name__ == "__main__":
     form_types = ["EFFECT", "S-1MEF", "8-k", "144"]
     notified = load_notified()
     
+    # Collect all new filings
+    all_filings = []
+    all_charts = {}
+    chart_counter = 0
+    
     for form in form_types:
-        print(f"\nLatest filings for form type: {form.upper()}")
+        print(f"\nChecking filings for form type: {form.upper()}")
         filings = get_filings(form, count=1)
 
         for f in filings:
@@ -772,49 +1007,67 @@ if __name__ == "__main__":
                 entry_id = f"{form}-{f['link']}"
             
             if entry_id in notified:
+                print(f"Already notified for {entry_id}")
                 continue
 
-            elif form == "S-1MEF":
+            filing_data = None
+            
+            if form == "S-1MEF":
                 company_name = extract_company_name(f['title'])
                 
                 # Get stock data
                 ticker = get_ticker_from_name(company_name)
                 chart_base64, stock_html = None, ""
+                chart_id = None
+                
                 if ticker:
                     chart_base64, stock_html = get_stock_data_and_chart(ticker)
-                
-                html_body = f"""
-                <html>
-                <body style="font-family: Arial, sans-serif; margin: 20px;">
+                    if chart_base64:
+                        chart_counter += 1
+                        chart_id = f"stock_chart_{chart_counter}"
+                        all_charts[chart_id] = chart_base64
+                        # Update the stock_html to use the unique chart ID
+                        stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
+
+                explanation_html = create_filing_explanation_section("S-1MEF")
+    
+                html_content = f"""
+                <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
+                            box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
                     <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-                                color: white; padding: 25px; border-radius: 10px; text-align: center;">
-                        <h1 style="margin: 0; font-size: 28px;">📋 S-1MEF FILING</h1>
-                        <h2 style="margin: 10px 0 0 0; font-size: 32px; font-weight: bold;">{company_name}</h2>
+                                color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+                        <h2 style="margin: 0; font-size: 24px;">📋 S-1MEF FILING</h2>
+                        <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
                     </div>
                     
+                    {explanation_html}
+                    
                     {create_filing_info_section(f['updated'], "IPO AMENDMENT FILED", 
-                           "Company updated their IPO registration - possible pricing/timing changes", 
-                           "#2196f3")}
+                        "Company updated their IPO registration - possible pricing/timing changes", 
+                        "#2196f3")}
                     
                     {stock_html}
                     
                     <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; 
                             border-left: 6px solid #2196f3;">
-                        <p style="font-size: 16px; margin: 0;"><strong>📅 Filed:</strong> {f['updated']}</p>
+                        <p style="font-size: 16px; margin: 0; color: #333;"><strong>📅 Filed:</strong> {f['updated']}</p>
                     </div>
                     {create_links_section(f['link'])}
-                </body>
-                </html>
+                </div>
                 """
                 
-                send_html_email_with_chart(f"📋 S-1MEF: {company_name}", html_body, chart_base64)
-                save_notified(entry_id)
-                log_to_file(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {company_name} | {f['updated']} | {f['link']}")
+                filing_data = {
+                    'form_type': 'S-1MEF',
+                    'company': company_name,
+                    'html_content': html_content,
+                    'entry_id': entry_id
+                }
 
             elif form == "EFFECT":
-                text, underlying_form, eff_date = get_effect_text_and_type(f['link'])
+                # Use the enhanced function instead
+                text, underlying_form, eff_date, form_explanation = get_effect_text_and_type_enhanced(f['link'])
                 
-                # Skip N-2 forms (mutual fund/closed-end fund registrations)
+                # Skip N-2 forms
                 if underlying_form and underlying_form.upper() == "N-2":
                     print(f"Skipping N-2 EFFECT filing: {f['title']}")
                     continue
@@ -824,37 +1077,72 @@ if __name__ == "__main__":
                 # Get stock data
                 ticker = get_ticker_from_name(company_name)
                 chart_base64, stock_html = None, ""
+                chart_id = None
+                
                 if ticker:
                     chart_base64, stock_html = get_stock_data_and_chart(ticker)
+                    if chart_base64:
+                        chart_counter += 1
+                        chart_id = f"stock_chart_{chart_counter}"
+                        all_charts[chart_id] = chart_base64
+                        stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
                 
-                html_body = f"""
-                <html>
-                <body style="font-family: Arial, sans-serif; margin: 20px;">
+                # Create explanation section for the underlying form
+                explanation_html = ""
+                if form_explanation:
+                    explanation_html = f"""
+                    <div style="background: linear-gradient(135deg, {form_explanation['color']}20, {form_explanation['color']}10); 
+                                padding: 20px; border-radius: 10px; margin: 20px 0; 
+                                border-left: 4px solid {form_explanation['color']};">
+                        <div style="display: flex; align-items: center; margin-bottom: 15px; flex-wrap: wrap;">
+                            <h3 style="margin: 0; color: {form_explanation['color']}; font-size: 18px; font-weight: bold;">
+                                {form_explanation['signal']} {form_explanation['name']} - NOW EFFECTIVE
+                            </h3>
+                            <span style="margin-left: auto; padding: 4px 12px; background: {form_explanation['color']}; 
+                                        color: white; border-radius: 20px; font-size: 12px; font-weight: bold;">
+                                {form_explanation['significance']}
+                            </span>
+                        </div>
+                        <p style="margin: 0; color: #333; font-size: 15px; line-height: 1.5;">
+                            💡 <strong>What this means:</strong> {form_explanation['description']} 
+                            <strong>The SEC has now approved this registration, allowing the company to proceed with their offering.</strong>
+                        </p>
+                    </div>
+                    """
+                
+                html_content = f"""
+                <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
+                            box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
                     <div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); 
-                                color: white; padding: 25px; border-radius: 10px; text-align: center;">
-                        <h1 style="margin: 0; font-size: 28px;">✅ EFFECT FILING</h1>
-                        <h2 style="margin: 10px 0 0 0; font-size: 32px; font-weight: bold;">{company_name}</h2>
+                                color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+                        <h2 style="margin: 0; font-size: 24px;">✅ EFFECT FILING</h2>
+                        <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
                     </div>
                     
+                    {explanation_html}
+                    
                     {create_filing_info_section(f['updated'], "REGISTRATION EFFECTIVE", 
-                           "Company can now legally sell securities to public", 
-                           "#4caf50")}
+                        "Company can now legally sell securities to public", 
+                        "#4caf50")}
                     
                     {stock_html}
                     
                     <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; 
                             border-left: 6px solid #4caf50;">
-                        <p style="font-size: 16px; margin: 5px 0;"><strong>📋 Underlying Form:</strong> {underlying_form}</p>
-                        <p style="font-size: 16px; margin: 5px 0;"><strong>✅ Effective Date:</strong> {eff_date}</p>
-                        <p style="font-size: 16px; margin: 5px 0;"><strong>📅 Filed:</strong> {f['updated']}</p>
+                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📋 Underlying Form:</strong> {underlying_form}</p>
+                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>✅ Effective Date:</strong> {eff_date}</p>
+                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📅 Filed:</strong> {f['updated']}</p>
                     </div>
                     {create_links_section(f['link'])}
-                </body>
-                </html>
+                </div>
                 """
                 
-                send_html_email_with_chart(f"✅ EFFECT: {company_name}", html_body, chart_base64)
-                save_notified(entry_id)
+                filing_data = {
+                    'form_type': 'EFFECT',
+                    'company': company_name,
+                    'html_content': html_content,
+                    'entry_id': entry_id
+                }
 
             elif form == "8-k":
                 txt_url = convert_to_txt_link(f['link'])
@@ -872,28 +1160,35 @@ if __name__ == "__main__":
                     # Get stock data
                     ticker = get_ticker_from_name(company_name)
                     chart_base64, stock_html = None, ""
+                    chart_id = None
+                    
                     if ticker:
                         chart_base64, stock_html = get_stock_data_and_chart(ticker)
+                        if chart_base64:
+                            chart_counter += 1
+                            chart_id = f"stock_chart_{chart_counter}"
+                            all_charts[chart_id] = chart_base64
+                            stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
                     
                     items_html = ""
                     for s in summaries:
                         items_html += f"""
-                        <div style="margin: 15px 0; padding: 20px; background: white; 
-                                    border-left: 6px solid {s['color']}; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-                            <h3 style="margin: 0 0 10px 0; color: {s['color']}; font-size: 20px;">
+                        <div style="margin: 15px 0; padding: 20px; background: #f8f9fa; 
+                                    border-left: 6px solid {s['color']}; border-radius: 5px;">
+                            <h4 style="margin: 0 0 10px 0; color: {s['color']}; font-size: 18px;">
                                 {s['emoji']} Item {s['item']}: {s['description']}
-                            </h3>
-                            <div style="color: #333; font-size: 15px; line-height: 1.5;">{s['text']}</div>
+                            </h4>
+                            <div style="color: #333; font-size: 14px; line-height: 1.5;">{s['text']}</div>
                         </div>
                         """
                     
-                    html_body = f"""
-                    <html>
-                    <body style="font-family: Arial, sans-serif; margin: 20px;">
+                    html_content = f"""
+                    <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
+                                box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
                         <div style="background: linear-gradient(135deg, #fc466b 0%, #3f5efb 100%); 
-                                    color: white; padding: 25px; border-radius: 10px; text-align: center;">
-                            <h1 style="margin: 0; font-size: 28px;">⚡ 8-K FILING</h1>
-                            <h2 style="margin: 10px 0 0 0; font-size: 32px; font-weight: bold;">{company_name}</h2>
+                                    color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+                            <h2 style="margin: 0; font-size: 24px;">⚡ 8-K FILING</h2>
+                            <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
                         </div>
                         
                         {create_filing_info_section(f['updated'], overall_signal, 
@@ -903,21 +1198,25 @@ if __name__ == "__main__":
                         {stock_html}
                         
                         <div style="margin-top: 25px;">
-                            <h3 style="font-size: 22px; margin-bottom: 20px;">📋 Events Reported:</h3>
+                            <h4 style="font-size: 20px; margin-bottom: 15px; color: #333;">📋 Events Reported:</h4>
                             {items_html}
                         </div>
                         
                         {create_links_section(f['link'], txt_url)}
-                    </body>
-                    </html>
+                    </div>
                     """
                     
-                    send_html_email_with_chart(f"⚡ 8-K {overall_signal}: {company_name}", html_body, chart_base64)
-                    save_notified(entry_id)
+                    filing_data = {
+                        'form_type': '8-K',
+                        'company': company_name,
+                        'html_content': html_content,
+                        'entry_id': entry_id
+                    }
+                    
                     log_to_file8k(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {f['title']} | {f['updated']} | {txt_url}")
 
                 except Exception as e:
-                    print(f"Failed to fetch {txt_url}: {e}")
+                    print(f"Failed to process 8-K {txt_url}: {e}")
 
             elif form == "144":
                 txt_url = convert_to_txt_link(f['link'])
@@ -930,55 +1229,112 @@ if __name__ == "__main__":
                         # Get stock data
                         ticker = get_ticker_from_name(company_name)
                         chart_base64, stock_html = None, ""
+                        chart_id = None
+                        
                         if ticker:
                             chart_base64, stock_html = get_stock_data_and_chart(ticker)
+                            if chart_base64:
+                                chart_counter += 1
+                                chart_id = f"stock_chart_{chart_counter}"
+                                all_charts[chart_id] = chart_base64
+                                stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
                         
-                        html_body = f"""
-                        <html>
-                        <body style="font-family: Arial, sans-serif; margin: 20px;">
+                        # Add Form 144 explanation
+                        form144_explanation = """
+                        <div style="background: linear-gradient(135deg, #ff9a9e20, #ff9a9e10); 
+                                    padding: 20px; border-radius: 10px; margin: 20px 0; 
+                                    border-left: 4px solid #ff9a9e;">
+                            <div style="display: flex; align-items: center; margin-bottom: 15px; flex-wrap: wrap;">
+                                <h3 style="margin: 0; color: #ff9a9e; font-size: 18px; font-weight: bold;">
+                                    📉 INSIDER TRADING NOTICE Form 144
+                                </h3>
+                                <span style="margin-left: auto; padding: 4px 12px; background: #ff9a9e; 
+                                            color: white; border-radius: 20px; font-size: 12px; font-weight: bold;">
+                                    MARKET IMPACT
+                                </span>
+                            </div>
+                            <p style="margin: 0; color: #333; font-size: 15px; line-height: 1.5;">
+                                💡 <strong>What this means:</strong> Corporate insiders (executives, directors, or large shareholders) 
+                                must file Form 144 before selling restricted or control securities. Large sales can indicate 
+                                insider sentiment about the company's prospects and may impact stock price through increased supply.
+                            </p>
+                        </div>
+                        """
+                        
+                        html_content = f"""
+                        <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
+                                    box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
                             <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); 
-                                        color: #333; padding: 25px; border-radius: 10px; text-align: center;">
-                                <h1 style="margin: 0; font-size: 28px;">📉 FORM 144 FILING</h1>
-                                <h2 style="margin: 10px 0 0 0; font-size: 32px; font-weight: bold;">{company_name}</h2>
+                                        color: #333; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+                                <h2 style="margin: 0; font-size: 24px;">📉 FORM 144 FILING</h2>
+                                <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
                             </div>
                             
+                            {form144_explanation}
+                            
                             {create_filing_info_section(f['updated'], signal_text.replace('🔴 ', '').replace('🟠 ', '').replace('🟡 ', '').replace('🔵 ', ''), 
-                           "Insider stock sale reported - potential market impact", 
-                           signal_color)}
+                        "Insider stock sale reported - potential market impact", 
+                        signal_color)}
                             
                             {stock_html}
                             
-                            <div style="margin-top: 25px; background: white; padding: 25px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-                                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+                            <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
+                                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
                                     <div>
-                                        <h3 style="margin: 0 0 15px 0; color: #333; font-size: 20px;">👤 Seller</h3>
-                                        <p style="font-size: 18px; margin: 5px 0;"><strong>Relationship:</strong> {data['relationship']}</p>
+                                        <h4 style="margin: 0 0 10px 0; color: #333; font-size: 18px;">👤 Seller</h4>
+                                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>Relationship:</strong> {data['relationship']}</p>
                                     </div>
                                     
                                     <div>
-                                        <h3 style="margin: 0 0 15px 0; color: #333; font-size: 20px;">📊 Sale Details</h3>
-                                        <p style="font-size: 18px; margin: 5px 0;"><strong>Shares Sold:</strong> {data['shares_sold']:,}</p>
-                                        <p style="font-size: 18px; margin: 5px 0;"><strong>Market Value:</strong> ${data['market_value']:,.0f}</p>
-                                        <p style="font-size: 18px; margin: 5px 0;"><strong>% of Company:</strong> {data['pct_of_company']}%</p>
+                                        <h4 style="margin: 0 0 10px 0; color: #333; font-size: 18px;">📊 Sale Details</h4>
+                                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>Shares Sold:</strong> {data['shares_sold']:,}</p>
+                                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>Market Value:</strong> ${data['market_value']:,.0f}</p>
+                                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>% of Company:</strong> {data['pct_of_company']}%</p>
                                     </div>
                                 </div>
                             </div>
                             
                             {create_links_section(f['link'], txt_url)}
-                        </body>
-                        </html>
+                        </div>
                         """
                         
-                        send_html_email_with_chart(f"📉 FORM 144: {company_name} ({data['shares_sold']:,} shares)", html_body, chart_base64)
-                        save_notified(entry_id)
+                        filing_data = {
+                            'form_type': '144',
+                            'company': company_name,
+                            'html_content': html_content,
+                            'entry_id': entry_id
+                        }
                         
                         log_entry = (f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | "
-                                   f"{data['issuer']} | {data['relationship']} | "
-                                   f"Shares: {data['shares_sold']} | "
-                                   f"Value: ${data['market_value']:,} | "
-                                   f"Percent: {data['pct_of_company']}% | "
-                                   f"Link: {txt_url}")
+                                f"{data['issuer']} | {data['relationship']} | "
+                                f"Shares: {data['shares_sold']} | "
+                                f"Value: ${data['market_value']:,} | "
+                                f"Percent: {data['pct_of_company']}% | "
+                                f"Link: {txt_url}")
                         log_form144(log_entry)
 
                 except Exception as e:
                     print(f"Error parsing Form 144: {e}")
+            
+            # Add filing to batch if we have data
+            if filing_data:
+                all_filings.append(filing_data)
+                print(f"Added {filing_data['form_type']} filing for {filing_data['company']}")
+    
+    # Send batch email if we have new filings
+    if all_filings:
+        print(f"\nSending batch email with {len(all_filings)} filings...")
+        send_batch_email(all_filings, all_charts)
+        
+        # Mark all as notified after successful email send
+        for filing in all_filings:
+            save_notified(filing['entry_id'])
+            
+        # Log S-1MEF entries
+        for filing in all_filings:
+            if filing['form_type'] == 'S-1MEF':
+                log_to_file(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {filing['company']} | BATCH EMAIL")
+                
+        print("✅ Batch email sent successfully!")
+    else:
+        print("No new filings found.")
