@@ -76,3 +76,10 @@
 2025-07-29 13:49:21 | 8-K - Enertopia Corp. (0001346022) (Filer) | 2025-07-29T09:35:30-04:00 | https://www.sec.gov/Archives/edgar/data/1346022/000106299325013223/0001062993-25-013223.txt
 2025-07-29 13:49:23 | 8-K - TRIMAS CORP (0000842633) (Filer) | 2025-07-29T09:35:28-04:00 | https://www.sec.gov/Archives/edgar/data/842633/000084263325000113/0000842633-25-000113.txt
 2025-07-29 13:49:25 | 8-K - Monogram Technologies Inc. (0001769759) (Filer) | 2025-07-29T09:31:14-04:00 | https://www.sec.gov/Archives/edgar/data/1769759/000110465925071470/0001104659-25-071470.txt
+2025-07-29 14:12:45 | 8-K - Federal Home Loan Bank of Indianapolis (0001331754) (Filer) | 2025-07-29T10:11:42-04:00 | https://www.sec.gov/Archives/edgar/data/1331754/000133175425000155/0001331754-25-000155.txt
+2025-07-29 14:12:49 | 8-K - Eagle Bancorp Montana, Inc. (0001478454) (Filer) | 2025-07-29T10:01:19-04:00 | https://www.sec.gov/Archives/edgar/data/1478454/000117184325004766/0001171843-25-004766.txt
+2025-07-29 14:12:52 | 8-K - WELLTOWER INC. (0000766704) (Filer) | 2025-07-29T10:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/766704/000119312525167447/0001193125-25-167447.txt
+2025-07-29 14:12:56 | 8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer) | 2025-07-29T09:54:17-04:00 | https://www.sec.gov/Archives/edgar/data/2050260/000205026025000067/0002050260-25-000067.txt
+2025-07-29 14:12:57 | 8-K - United States Commodity Index Funds Trust (0001479247) (Filer) | 2025-07-29T09:53:39-04:00 | https://www.sec.gov/Archives/edgar/data/1479247/000110465925071488/0001104659-25-071488.txt
+2025-07-29 14:13:01 | 8-K - United States Oil Fund, LP (0001327068) (Filer) | 2025-07-29T09:52:26-04:00 | https://www.sec.gov/Archives/edgar/data/1327068/000110465925071486/0001104659-25-071486.txt
+2025-07-29 14:13:04 | 8-K - United States Brent Oil Fund, LP (0001472494) (Filer) | 2025-07-29T09:49:12-04:00 | https://www.sec.gov/Archives/edgar/data/1472494/000110465925071484/0001104659-25-071484.txt
