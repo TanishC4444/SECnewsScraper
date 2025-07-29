@@ -16,11 +16,13 @@ from io import BytesIO
 from datetime import datetime
 import pytz
 import pandas as pd
+import os
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_ADDRESS = "tanishchauhan4444@gmail.com"
-EMAIL_PASSWORD = "smgj lhbr xioz lqwu"
+# Replace the hardcoded password with environment variable
+EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD', 'smgj lhbr xioz lqwu')
 RECIPIENT_EMAIL = "tanishchauhan4444@gmail.com"
 
 NOTIFIED_LOG = "notified_log.txt"
