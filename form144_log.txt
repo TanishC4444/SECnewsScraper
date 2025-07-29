@@ -109,3 +109,9 @@
 2025-07-29 20:56:52 | NVIDIA CORP | Officer | Shares: 75000 | Value: $13,279,432.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000839/0001921094-25-000839.txt
 2025-07-29 20:56:55 | KNOWLES CORPORATION | Officer | Shares: 10000 | Value: $209,418.98 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/1745084/000195004725005255/0001950047-25-005255.txt
 2025-07-29 20:56:56 | KNOWLES CORPORATION | Officer | Shares: 10000 | Value: $209,418.98 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/1587523/000195004725005255/0001950047-25-005255.txt
+2025-07-29 21:19:33 | MCGRATH RENTCORP | Officer | Shares: 14577 | Value: $1,844,648.0 | Percent: 0.059228% | Link: https://www.sec.gov/Archives/edgar/data/1226137/000192109425000842/0001921094-25-000842.txt
+2025-07-29 21:19:34 | MCGRATH RENTCORP | Officer | Shares: 14577 | Value: $1,844,648.0 | Percent: 0.059228% | Link: https://www.sec.gov/Archives/edgar/data/752714/000192109425000842/0001921094-25-000842.txt
+2025-07-29 21:19:35 | MCGRATH RENTCORP | Officer | Shares: 7000 | Value: $879,534.0 | Percent: 0.028442% | Link: https://www.sec.gov/Archives/edgar/data/1231890/000192109425000841/0001921094-25-000841.txt
+2025-07-29 21:19:36 | MCGRATH RENTCORP | Officer | Shares: 7000 | Value: $879,534.0 | Percent: 0.028442% | Link: https://www.sec.gov/Archives/edgar/data/752714/000192109425000841/0001921094-25-000841.txt
+2025-07-29 21:19:37 | PACCAR INC | Officer | Shares: 39965 | Value: $3,977,333.0 | Percent: 0.007613% | Link: https://www.sec.gov/Archives/edgar/data/1664294/000192109425000840/0001921094-25-000840.txt
+2025-07-29 21:19:38 | PACCAR INC | Officer | Shares: 39965 | Value: $3,977,333.0 | Percent: 0.007613% | Link: https://www.sec.gov/Archives/edgar/data/75362/000192109425000840/0001921094-25-000840.txt

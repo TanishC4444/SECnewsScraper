@@ -151,3 +151,10 @@
 2025-07-29 20:56:36 | 8-K - NEW ERA HELIUM INC. (0002028336) (Filer) | 2025-07-29T16:55:04-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025068761/0001213900-25-068761.txt
 2025-07-29 20:56:38 | 8-K - Envoy Medical, Inc. (0001840877) (Filer) | 2025-07-29T16:54:59-04:00 | https://www.sec.gov/Archives/edgar/data/1840877/000121390025068760/0001213900-25-068760.txt
 2025-07-29 20:56:41 | 8-K - Salarius Pharmaceuticals, Inc. (0001615219) (Filer) | 2025-07-29T16:54:50-04:00 | https://www.sec.gov/Archives/edgar/data/1615219/000161521925000078/0001615219-25-000078.txt
+2025-07-29 21:19:25 | 8-K - InvenTrust Properties Corp. (0001307748) (Filer) | 2025-07-29T17:18:42-04:00 | https://www.sec.gov/Archives/edgar/data/1307748/000130774825000151/0001307748-25-000151.txt
+2025-07-29 21:19:25 | 8-K/A - Excelerate Energy, Inc. (0001888447) (Filer) | 2025-07-29T17:16:55-04:00 | https://www.sec.gov/Archives/edgar/data/1888447/000095017025099738/0000950170-25-099738.txt
+2025-07-29 21:19:26 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-07-29T17:16:09-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000164117225021421/0001641172-25-021421.txt
+2025-07-29 21:19:28 | 8-K - Uniti Group Inc. (0001620280) (Filer) | 2025-07-29T17:15:49-04:00 | https://www.sec.gov/Archives/edgar/data/1620280/000095010325009446/0000950103-25-009446.txt
+2025-07-29 21:19:30 | 8-K - Sound Financial Bancorp, Inc. (0001541119) (Filer) | 2025-07-29T17:15:20-04:00 | https://www.sec.gov/Archives/edgar/data/1541119/000154111925000031/0001541119-25-000031.txt
+2025-07-29 21:19:30 | 8-K - LG&E & KU Energy LLC (0001518339) (Filer) | 2025-07-29T17:13:30-04:00 | https://www.sec.gov/Archives/edgar/data/1518339/000092222425000030/0000922224-25-000030.txt
+2025-07-29 21:19:32 | 8-K - PPL Corp (0000922224) (Filer) | 2025-07-29T17:13:30-04:00 | https://www.sec.gov/Archives/edgar/data/922224/000092222425000030/0000922224-25-000030.txt
