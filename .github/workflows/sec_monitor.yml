@@ -28,7 +28,7 @@ jobs:
     - name: Run SEC monitoring script
       env:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-      run: python test.py
+      run: python main.py
     
     - name: Upload log files (optional)
       uses: actions/upload-artifact@v4
