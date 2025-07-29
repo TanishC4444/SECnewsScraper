@@ -66,3 +66,13 @@
 2025-07-29 13:03:19 | 8-K - UFP INDUSTRIES INC (0000912767) (Filer) | 2025-07-29T08:38:58-04:00 | https://www.sec.gov/Archives/edgar/data/912767/000091276725000034/0000912767-25-000034.txt
 2025-07-29 13:03:21 | 8-K - Everus Construction Group, Inc. (0002015845) (Filer) | 2025-07-29T08:38:35-04:00 | https://www.sec.gov/Archives/edgar/data/2015845/000201584525000065/0002015845-25-000065.txt
 2025-07-29 13:03:25 | 8-K - Cherry Hill Mortgage Investment Corp (0001571776) (Filer) | 2025-07-29T08:38:06-04:00 | https://www.sec.gov/Archives/edgar/data/1571776/000114036125027686/0001140361-25-027686.txt
+2025-07-29 13:49:05 | 8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer) | 2025-07-29T09:48:14-04:00 | https://www.sec.gov/Archives/edgar/data/1405513/000110465925071482/0001104659-25-071482.txt
+2025-07-29 13:49:06 | 8-K - CONSUMERS BANCORP INC /OH/ (0001006830) (Filer) | 2025-07-29T09:47:46-04:00 | https://www.sec.gov/Archives/edgar/data/1006830/000143774925023737/0001437749-25-023737.txt
+2025-07-29 13:49:11 | 8-K - United States Gasoline Fund, LP (0001396878) (Filer) | 2025-07-29T09:47:42-04:00 | https://www.sec.gov/Archives/edgar/data/1396878/000110465925071479/0001104659-25-071479.txt
+2025-07-29 13:49:13 | 8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer) | 2025-07-29T09:47:13-04:00 | https://www.sec.gov/Archives/edgar/data/1405528/000110465925071478/0001104659-25-071478.txt
+2025-07-29 13:49:15 | 8-K - United States Natural Gas Fund, LP (0001376227) (Filer) | 2025-07-29T09:46:49-04:00 | https://www.sec.gov/Archives/edgar/data/1376227/000110465925071477/0001104659-25-071477.txt
+2025-07-29 13:49:16 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-07-29T09:42:36-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000141/0001326771-25-000141.txt
+2025-07-29 13:49:18 | 8-K/A - EyePoint Pharmaceuticals, Inc. (0001314102) (Filer) | 2025-07-29T09:35:49-04:00 | https://www.sec.gov/Archives/edgar/data/1314102/000095017025099413/0000950170-25-099413.txt
+2025-07-29 13:49:21 | 8-K - Enertopia Corp. (0001346022) (Filer) | 2025-07-29T09:35:30-04:00 | https://www.sec.gov/Archives/edgar/data/1346022/000106299325013223/0001062993-25-013223.txt
+2025-07-29 13:49:23 | 8-K - TRIMAS CORP (0000842633) (Filer) | 2025-07-29T09:35:28-04:00 | https://www.sec.gov/Archives/edgar/data/842633/000084263325000113/0000842633-25-000113.txt
+2025-07-29 13:49:25 | 8-K - Monogram Technologies Inc. (0001769759) (Filer) | 2025-07-29T09:31:14-04:00 | https://www.sec.gov/Archives/edgar/data/1769759/000110465925071470/0001104659-25-071470.txt
