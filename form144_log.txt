@@ -49,3 +49,5 @@
 2025-07-29 00:25:40 | Raytech Holding Ltd | 10% owner, Chairman, CEO and director | Shares: 5957725 | Value: $15,609,239.5 | Percent: 13.665108% | Link: https://www.sec.gov/Archives/edgar/data/1948443/000121390025068333/0001213900-25-068333.txt
 2025-07-29 11:26:04 | UroGen Pharma Ltd. | Officer | Shares: 7522 | Value: $142,541.9 | Percent: 0.016314% | Link: https://www.sec.gov/Archives/edgar/data/1821479/000197640825000248/0001976408-25-000248.txt
 2025-07-29 11:26:05 | UroGen Pharma Ltd. | Officer | Shares: 7522 | Value: $142,541.9 | Percent: 0.016314% | Link: https://www.sec.gov/Archives/edgar/data/1668243/000197640825000248/0001976408-25-000248.txt
+2025-07-29 11:40:58 | UroGen Pharma Ltd. | Officer | Shares: 5149 | Value: $97,573.55 | Percent: 0.011167% | Link: https://www.sec.gov/Archives/edgar/data/1763581/000197640825000249/0001976408-25-000249.txt
+2025-07-29 11:41:01 | UroGen Pharma Ltd. | Officer | Shares: 5149 | Value: $97,573.55 | Percent: 0.011167% | Link: https://www.sec.gov/Archives/edgar/data/1668243/000197640825000249/0001976408-25-000249.txt
