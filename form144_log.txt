@@ -87,3 +87,13 @@
 2025-07-29 19:55:22 | GLOBE LIFE INC. | Officer | Shares: 35000 | Value: $4,958,800.0 | Percent: 0.043340% | Link: https://www.sec.gov/Archives/edgar/data/320335/000199937125010174/0001999371-25-010174.txt
 2025-07-29 19:55:23 | SCHWAB CHARLES CORP | Director | Shares: 173876 | Value: $17,186,387.0 | Percent: 0.009570% | Link: https://www.sec.gov/Archives/edgar/data/1296479/000194984625000332/0001949846-25-000332.txt
 2025-07-29 19:55:24 | SCHWAB CHARLES CORP | Director | Shares: 173876 | Value: $17,186,387.0 | Percent: 0.009570% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000332/0001949846-25-000332.txt
+2025-07-29 20:19:43 | RYDER SYSTEM INC | Officer | Shares: 22063 | Value: $3,984,390.68 | Percent: 0.054088% | Link: https://www.sec.gov/Archives/edgar/data/1216931/000195917325004809/0001959173-25-004809.txt
+2025-07-29 20:19:44 | RYDER SYSTEM INC | Officer | Shares: 22063 | Value: $3,984,390.68 | Percent: 0.054088% | Link: https://www.sec.gov/Archives/edgar/data/85961/000195917325004809/0001959173-25-004809.txt
+2025-07-29 20:19:46 | SKYWEST INC | Officer | Shares: 7000 | Value: $816,719.0 | Percent: 0.017336% | Link: https://www.sec.gov/Archives/edgar/data/1521262/000192109425000838/0001921094-25-000838.txt
+2025-07-29 20:19:47 | SKYWEST INC | Officer | Shares: 7000 | Value: $816,719.0 | Percent: 0.017336% | Link: https://www.sec.gov/Archives/edgar/data/793733/000192109425000838/0001921094-25-000838.txt
+2025-07-29 20:19:48 | Carvana Co. | 10% Shareholder | Shares: 500000 | Value: $168,165,000.0 | Percent: 0.370306% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000196858225000640/0001968582-25-000640.txt
+2025-07-29 20:19:49 | Carvana Co. | 10% Shareholder | Shares: 500000 | Value: $168,165,000.0 | Percent: 0.370306% | Link: https://www.sec.gov/Archives/edgar/data/1017608/000196858225000640/0001968582-25-000640.txt
+2025-07-29 20:19:50 | SKYWEST INC | Officer | Shares: 17000 | Value: $2,010,368.0 | Percent: 0.042102% | Link: https://www.sec.gov/Archives/edgar/data/1608311/000192109425000837/0001921094-25-000837.txt
+2025-07-29 20:19:51 | SKYWEST INC | Officer | Shares: 17000 | Value: $2,010,368.0 | Percent: 0.042102% | Link: https://www.sec.gov/Archives/edgar/data/793733/000192109425000837/0001921094-25-000837.txt
+2025-07-29 20:19:53 | Eos Energy Enterprises, Inc. | Officer | Shares: 17500 | Value: $103,880.0 | Percent: 0.007689% | Link: https://www.sec.gov/Archives/edgar/data/1991521/000196922325000538/0001969223-25-000538.txt
+2025-07-29 20:19:54 | Eos Energy Enterprises, Inc. | Officer | Shares: 17500 | Value: $103,880.0 | Percent: 0.007689% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000538/0001969223-25-000538.txt
