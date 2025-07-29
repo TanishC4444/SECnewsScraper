@@ -51,3 +51,7 @@
 2025-07-29 11:26:05 | UroGen Pharma Ltd. | Officer | Shares: 7522 | Value: $142,541.9 | Percent: 0.016314% | Link: https://www.sec.gov/Archives/edgar/data/1668243/000197640825000248/0001976408-25-000248.txt
 2025-07-29 11:40:58 | UroGen Pharma Ltd. | Officer | Shares: 5149 | Value: $97,573.55 | Percent: 0.011167% | Link: https://www.sec.gov/Archives/edgar/data/1763581/000197640825000249/0001976408-25-000249.txt
 2025-07-29 11:41:01 | UroGen Pharma Ltd. | Officer | Shares: 5149 | Value: $97,573.55 | Percent: 0.011167% | Link: https://www.sec.gov/Archives/edgar/data/1668243/000197640825000249/0001976408-25-000249.txt
+2025-07-29 14:44:53 | Dell Technologies Inc. | Director | Shares: 30000 | Value: $4,050,000.0 | Percent: 0.008831% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325004791/0001959173-25-004791.txt
+2025-07-29 14:44:55 | Dell Technologies Inc. | Director | Shares: 30000 | Value: $4,050,000.0 | Percent: 0.008831% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325004791/0001959173-25-004791.txt
+2025-07-29 14:44:59 | O REILLY AUTOMOTIVE INC | Officer | Shares: 29505 | Value: $2,898,866.25 | Percent: 0.051773% | Link: https://www.sec.gov/Archives/edgar/data/1926778/000195917325004790/0001959173-25-004790.txt
+2025-07-29 14:45:01 | O REILLY AUTOMOTIVE INC | Officer | Shares: 29505 | Value: $2,898,866.25 | Percent: 0.051773% | Link: https://www.sec.gov/Archives/edgar/data/898173/000195917325004790/0001959173-25-004790.txt
