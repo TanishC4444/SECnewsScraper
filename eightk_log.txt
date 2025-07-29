@@ -99,3 +99,11 @@
 2025-07-29 17:53:58 | 8-K - AMERISERV FINANCIAL INC /PA/ (0000707605) (Filer) | 2025-07-29T13:50:53-04:00 | https://www.sec.gov/Archives/edgar/data/707605/000110465925071635/0001104659-25-071635.txt
 2025-07-29 18:20:36 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-07-29T14:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000137/0001331757-25-000137.txt
 2025-07-29 18:20:37 | 8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer) | 2025-07-29T14:00:00-04:00 | https://www.sec.gov/Archives/edgar/data/1950803/000119312525167875/0001193125-25-167875.txt
+2025-07-29 18:53:08 | 8-K - Goldman Sachs Real Estate Finance Trust Inc (0002027537) (Filer) | 2025-07-29T14:49:30-04:00 | https://www.sec.gov/Archives/edgar/data/2027537/000119312525167903/0001193125-25-167903.txt
+2025-07-29 18:53:09 | 8-K - STRUCTURED PRODUCTS CORP TIERS PRI PRO CER TR SE FFH 2001-12 (0001283450) (Filer) | 2025-07-29T14:47:58-04:00 | https://www.sec.gov/Archives/edgar/data/1283450/000106823825000163/0001068238-25-000163.txt
+2025-07-29 18:53:09 | 8-K - Ford Credit Auto Lease Trust 2025-B (0002076811) (Filer) | 2025-07-29T14:43:04-04:00 | https://www.sec.gov/Archives/edgar/data/2076811/000110465925071667/0001104659-25-071667.txt
+2025-07-29 18:53:10 | 8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer) | 2025-07-29T14:43:04-04:00 | https://www.sec.gov/Archives/edgar/data/1519881/000110465925071667/0001104659-25-071667.txt
+2025-07-29 18:53:11 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-07-29T14:42:45-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425008604/0001654954-25-008604.txt
+2025-07-29 18:53:13 | 8-K - DeFi Development Corp. (0001805526) (Filer) | 2025-07-29T14:42:12-04:00 | https://www.sec.gov/Archives/edgar/data/1805526/000121390025068632/0001213900-25-068632.txt
+2025-07-29 18:53:18 | 8-K - Voip-pal.com Inc (0001410738) (Filer) | 2025-07-29T14:42:03-04:00 | https://www.sec.gov/Archives/edgar/data/1410738/000164117225021325/0001641172-25-021325.txt
+2025-07-29 18:53:20 | 8-K - Chilean Cobalt Corp. (0001727255) (Filer) | 2025-07-29T14:22:02-04:00 | https://www.sec.gov/Archives/edgar/data/1727255/000168316825005482/0001683168-25-005482.txt
