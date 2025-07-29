@@ -97,3 +97,7 @@
 2025-07-29 20:19:51 | SKYWEST INC | Officer | Shares: 17000 | Value: $2,010,368.0 | Percent: 0.042102% | Link: https://www.sec.gov/Archives/edgar/data/793733/000192109425000837/0001921094-25-000837.txt
 2025-07-29 20:19:53 | Eos Energy Enterprises, Inc. | Officer | Shares: 17500 | Value: $103,880.0 | Percent: 0.007689% | Link: https://www.sec.gov/Archives/edgar/data/1991521/000196922325000538/0001969223-25-000538.txt
 2025-07-29 20:19:54 | Eos Energy Enterprises, Inc. | Officer | Shares: 17500 | Value: $103,880.0 | Percent: 0.007689% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000538/0001969223-25-000538.txt
+2025-07-29 20:42:51 | Pure Storage, Inc. | Director | Shares: 9007 | Value: $535,015.8 | Percent: 0.002756% | Link: https://www.sec.gov/Archives/edgar/data/1651902/000195004725005253/0001950047-25-005253.txt
+2025-07-29 20:42:53 | Pure Storage, Inc. | Director | Shares: 9007 | Value: $535,015.8 | Percent: 0.002756% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725005253/0001950047-25-005253.txt
+2025-07-29 20:42:56 | Arteris, Inc. | Director | Shares: 82405 | Value: $778,727.25 | Percent: 0.196306% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725005250/0001950047-25-005250.txt
+2025-07-29 20:42:58 | Arteris, Inc. | Director | Shares: 82405 | Value: $778,727.25 | Percent: 0.196306% | Link: https://www.sec.gov/Archives/edgar/data/1184563/000195004725005250/0001950047-25-005250.txt
