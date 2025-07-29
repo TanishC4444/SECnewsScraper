@@ -101,3 +101,11 @@
 2025-07-29 20:42:53 | Pure Storage, Inc. | Director | Shares: 9007 | Value: $535,015.8 | Percent: 0.002756% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725005253/0001950047-25-005253.txt
 2025-07-29 20:42:56 | Arteris, Inc. | Director | Shares: 82405 | Value: $778,727.25 | Percent: 0.196306% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725005250/0001950047-25-005250.txt
 2025-07-29 20:42:58 | Arteris, Inc. | Director | Shares: 82405 | Value: $778,727.25 | Percent: 0.196306% | Link: https://www.sec.gov/Archives/edgar/data/1184563/000195004725005250/0001950047-25-005250.txt
+2025-07-29 20:56:43 | TRIMAS CORP | Former Officer and Director | Shares: 63965 | Value: $2,241,703.4 | Percent: 0.157388% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195917325004813/0001959173-25-004813.txt
+2025-07-29 20:56:44 | TRIMAS CORP | Former Officer and Director | Shares: 63965 | Value: $2,241,703.4 | Percent: 0.157388% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004813/0001959173-25-004813.txt
+2025-07-29 20:56:47 | Centessa Pharmaceuticals plc | Officer | Shares: 8322 | Value: $127,909.14 | Percent: 0.006228% | Link: https://www.sec.gov/Archives/edgar/data/2074392/000196922325000540/0001969223-25-000540.txt
+2025-07-29 20:56:48 | Centessa Pharmaceuticals plc | Officer | Shares: 8322 | Value: $127,909.14 | Percent: 0.006228% | Link: https://www.sec.gov/Archives/edgar/data/1847903/000196922325000540/0001969223-25-000540.txt
+2025-07-29 20:56:51 | NVIDIA CORP | Officer | Shares: 75000 | Value: $13,279,432.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000839/0001921094-25-000839.txt
+2025-07-29 20:56:52 | NVIDIA CORP | Officer | Shares: 75000 | Value: $13,279,432.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000839/0001921094-25-000839.txt
+2025-07-29 20:56:55 | KNOWLES CORPORATION | Officer | Shares: 10000 | Value: $209,418.98 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/1745084/000195004725005255/0001950047-25-005255.txt
+2025-07-29 20:56:56 | KNOWLES CORPORATION | Officer | Shares: 10000 | Value: $209,418.98 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/1587523/000195004725005255/0001950047-25-005255.txt
