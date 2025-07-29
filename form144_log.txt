@@ -79,3 +79,5 @@
 2025-07-29 13:51:32 | T-Mobile US, Inc. | Officer | Shares: 12300 | Value: $2,961,807.0 | Percent: 0.001093% | Link: https://www.sec.gov/Archives/edgar/data/1283699/000195917325004803/0001959173-25-004803.txt
 2025-07-29 14:07:01 | TRIMAS CORP | Former Director | Shares: 20628 | Value: $706,569.68 | Percent: 0.050743% | Link: https://www.sec.gov/Archives/edgar/data/1761809/000195917325004806/0001959173-25-004806.txt
 2025-07-29 14:07:02 | TRIMAS CORP | Former Director | Shares: 20628 | Value: $706,569.68 | Percent: 0.050743% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004806/0001959173-25-004806.txt
+2025-07-29 19:46:21 | Bancorp, Inc. | Officer | Shares: 300000 | Value: $19,530,000.0 | Percent: 0.642261% | Link: https://www.sec.gov/Archives/edgar/data/1676084/000197407825000228/0001974078-25-000228.txt
+2025-07-29 19:46:22 | Bancorp, Inc. | Officer | Shares: 300000 | Value: $19,530,000.0 | Percent: 0.642261% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000197407825000228/0001974078-25-000228.txt
