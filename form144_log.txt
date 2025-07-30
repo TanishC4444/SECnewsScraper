@@ -117,3 +117,5 @@
 2025-07-29 21:19:38 | PACCAR INC | Officer | Shares: 39965 | Value: $3,977,333.0 | Percent: 0.007613% | Link: https://www.sec.gov/Archives/edgar/data/75362/000192109425000840/0001921094-25-000840.txt
 2025-07-29 21:38:56 | SOUTHERN MISSOURI BANCORP, INC. | Director | Shares: 10000 | Value: $563,041.72 | Percent: 0.088500% | Link: https://www.sec.gov/Archives/edgar/data/1961768/000141588925020476/0001415889-25-020476.txt
 2025-07-29 21:38:57 | SOUTHERN MISSOURI BANCORP, INC. | Director | Shares: 10000 | Value: $563,041.72 | Percent: 0.088500% | Link: https://www.sec.gov/Archives/edgar/data/916907/000141588925020476/0001415889-25-020476.txt
+2025-07-30 01:01:08 | Arlo Technologies, Inc. | Director | Shares: 25380 | Value: $414,709.2 | Percent: 0.024545% | Link: https://www.sec.gov/Archives/edgar/data/1736946/000162828025036526/0001628280-25-036526.txt
+2025-07-30 01:01:09 | Arlo Technologies, Inc. | Director | Shares: 25380 | Value: $414,709.2 | Percent: 0.024545% | Link: https://www.sec.gov/Archives/edgar/data/1654733/000162828025036526/0001628280-25-036526.txt
