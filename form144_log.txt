@@ -185,3 +185,6 @@
 2025-07-30 21:41:02 | ROYAL CARIBBEAN CRUISES LTD | Officer | Shares: 5207 | Value: $1,715,565.91 | Percent: 0.001917% | Link: https://www.sec.gov/Archives/edgar/data/884887/000195004725005274/0001950047-25-005274.txt
 2025-07-30 21:41:02 | Mineralys Therapeutics, Inc. | Officer | Shares: 59925 | Value: $884,370.1 | Percent: 0.091944% | Link: https://www.sec.gov/Archives/edgar/data/1933414/000196430625000294/0001964306-25-000294.txt
 2025-07-30 21:41:03 | Mineralys Therapeutics, Inc. | Officer | Shares: 59925 | Value: $884,370.1 | Percent: 0.091944% | Link: https://www.sec.gov/Archives/edgar/data/1693134/000196430625000294/0001964306-25-000294.txt
+2025-07-30 21:51:56 | GRAYSCALE LITECOIN TRUST (LTC) | Affiliate | Shares: 7000 | Value: $61,600.0 | Percent: 0.028863% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000245/0001977454-25-000245.txt
+2025-07-30 21:51:57 | GRAYSCALE SOLANA TRUST (SOL) | Affiliate | Shares: 6700 | Value: $99,585.45 | Percent: 0.092656% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000242/0001977454-25-000242.txt
+2025-07-30 21:51:58 | GRAYSCALE SOLANA TRUST (SOL) | Affiliate | Shares: 6700 | Value: $99,585.45 | Percent: 0.092656% | Link: https://www.sec.gov/Archives/edgar/data/1896677/000197745425000242/0001977454-25-000242.txt
