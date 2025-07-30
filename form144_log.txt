@@ -131,3 +131,7 @@
 2025-07-30 15:11:38 | fuboTV Inc. /FL | Director | Shares: 100000 | Value: $391,927.22 | Percent: 0.029279% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325004818/0001959173-25-004818.txt
 2025-07-30 15:38:07 | TELEDYNE TECHNOLOGIES INC | President and CEO | Shares: 6735 | Value: $3,720,953.0 | Percent: 0.014364% | Link: https://www.sec.gov/Archives/edgar/data/1555599/000197337925000205/0001973379-25-000205.txt
 2025-07-30 15:38:08 | TELEDYNE TECHNOLOGIES INC | President and CEO | Shares: 6735 | Value: $3,720,953.0 | Percent: 0.014364% | Link: https://www.sec.gov/Archives/edgar/data/1094285/000197337925000205/0001973379-25-000205.txt
+2025-07-30 15:54:22 | Veritex Holdings, Inc. | Former Officer | Shares: 31078 | Value: $1,017,929.16 | Percent: 0.057264% | Link: https://www.sec.gov/Archives/edgar/data/1543671/000195917325004819/0001959173-25-004819.txt
+2025-07-30 15:54:23 | Veritex Holdings, Inc. | Former Officer | Shares: 31078 | Value: $1,017,929.16 | Percent: 0.057264% | Link: https://www.sec.gov/Archives/edgar/data/1501570/000195917325004819/0001959173-25-004819.txt
+2025-07-30 15:54:24 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/1889263/000194984625000333/0001949846-25-000333.txt
+2025-07-30 15:54:25 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000333/0001949846-25-000333.txt
