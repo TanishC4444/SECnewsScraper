@@ -135,3 +135,9 @@
 2025-07-30 15:54:23 | Veritex Holdings, Inc. | Former Officer | Shares: 31078 | Value: $1,017,929.16 | Percent: 0.057264% | Link: https://www.sec.gov/Archives/edgar/data/1501570/000195917325004819/0001959173-25-004819.txt
 2025-07-30 15:54:24 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/1889263/000194984625000333/0001949846-25-000333.txt
 2025-07-30 15:54:25 | SCHWAB CHARLES CORP | Officer | Shares: 20500 | Value: $2,032,850.0 | Percent: 0.001128% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000333/0001949846-25-000333.txt
+2025-07-30 16:19:01 | Corning Incorporated | Officer | Shares: 36240 | Value: $2,256,330.0 | Percent: 0.004231% | Link: https://www.sec.gov/Archives/edgar/data/1824828/000196922325000541/0001969223-25-000541.txt
+2025-07-30 16:19:02 | Corning Incorporated | Officer | Shares: 36240 | Value: $2,256,330.0 | Percent: 0.004231% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000541/0001969223-25-000541.txt
+2025-07-30 16:19:05 | Bridgewater Bancshares Inc | Officer | Shares: 50000 | Value: $803,000.0 | Percent: 0.182015% | Link: https://www.sec.gov/Archives/edgar/data/1733126/000196856425000002/0001968564-25-000002.txt
+2025-07-30 16:19:06 | Bridgewater Bancshares Inc | Officer | Shares: 50000 | Value: $803,000.0 | Percent: 0.182015% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000002/0001968564-25-000002.txt
+2025-07-30 16:19:08 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162311% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195917325004820/0001959173-25-004820.txt
+2025-07-30 16:19:10 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162311% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004820/0001959173-25-004820.txt
