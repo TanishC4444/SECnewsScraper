@@ -141,3 +141,5 @@
 2025-07-30 16:19:06 | Bridgewater Bancshares Inc | Officer | Shares: 50000 | Value: $803,000.0 | Percent: 0.182015% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000002/0001968564-25-000002.txt
 2025-07-30 16:19:08 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162311% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195917325004820/0001959173-25-004820.txt
 2025-07-30 16:19:10 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162311% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004820/0001959173-25-004820.txt
+2025-07-30 16:47:12 | Corning Incorporated | Officer | Shares: 16646 | Value: $270,331.04 | Percent: 0.001944% | Link: https://www.sec.gov/Archives/edgar/data/1508144/000196922325000542/0001969223-25-000542.txt
+2025-07-30 16:47:12 | Corning Incorporated | Officer | Shares: 16646 | Value: $270,331.04 | Percent: 0.001944% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000542/0001969223-25-000542.txt
