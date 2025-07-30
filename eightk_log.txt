@@ -297,3 +297,12 @@
 2025-07-30 20:58:04 | 8-K - Franklin BSP Realty Trust, Inc. (0001562528) (Filer) | 2025-07-30T16:51:13-04:00 | https://www.sec.gov/Archives/edgar/data/1562528/000156252825000033/0001562528-25-000033.txt
 2025-07-30 20:58:06 | 8-K - NATIONAL FUEL GAS CO (0000070145) (Filer) | 2025-07-30T16:50:45-04:00 | https://www.sec.gov/Archives/edgar/data/70145/000119312525169337/0001193125-25-169337.txt
 2025-07-30 20:58:06 | 8-K - RUSH ENTERPRISES INC \TX\ (0001012019) (Filer) | 2025-07-30T16:49:40-04:00 | https://www.sec.gov/Archives/edgar/data/1012019/000143774925023984/0001437749-25-023984.txt
+2025-07-30 21:23:15 | 8-K - Dragonfly Energy Holdings Corp. (0001847986) (Filer) | 2025-07-30T17:20:31-04:00 | https://www.sec.gov/Archives/edgar/data/1847986/000164117225021587/0001641172-25-021587.txt
+2025-07-30 21:23:15 | 8-K - Federal Home Loan Bank of San Francisco (0001316944) (Filer) | 2025-07-30T17:19:14-04:00 | https://www.sec.gov/Archives/edgar/data/1316944/000131694425000156/0001316944-25-000156.txt
+2025-07-30 21:23:16 | 8-K - Brag House Holdings, Inc. (0001903595) (Filer) | 2025-07-30T17:16:05-04:00 | https://www.sec.gov/Archives/edgar/data/1903595/000121390025069378/0001213900-25-069378.txt
+2025-07-30 21:23:18 | 8-K - Syra Health Corp (0001922335) (Filer) | 2025-07-30T17:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1922335/000164117225021576/0001641172-25-021576.txt
+2025-07-30 21:23:18 | 8-K - PROTHENA CORP PUBLIC LTD CO (0001559053) (Filer) | 2025-07-30T17:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1559053/000119312525169367/0001193125-25-169367.txt
+2025-07-30 21:23:19 | 8-K - Compass, Inc. (0001563190) (Filer) | 2025-07-30T17:15:23-04:00 | https://www.sec.gov/Archives/edgar/data/1563190/000156319025000154/0001563190-25-000154.txt
+2025-07-30 21:23:22 | 8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer) | 2025-07-30T17:13:54-04:00 | https://www.sec.gov/Archives/edgar/data/1559998/000164117225021575/0001641172-25-021575.txt
+2025-07-30 21:23:23 | 8-K - Verisk Analytics, Inc. (0001442145) (Filer) | 2025-07-30T17:13:45-04:00 | https://www.sec.gov/Archives/edgar/data/1442145/000095010325009565/0000950103-25-009565.txt
+2025-07-30 21:23:25 | 8-K - TETRA TECH INC (0000831641) (Filer) | 2025-07-30T17:12:01-04:00 | https://www.sec.gov/Archives/edgar/data/831641/000110465925072237/0001104659-25-072237.txt
