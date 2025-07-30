@@ -270,3 +270,4 @@
 2025-07-30 19:00:58 | 8-K - Exeter Select Automobile Receivables Trust 2025-2 (0002073963) (Filer) | 2025-07-30T14:47:53-04:00 | https://www.sec.gov/Archives/edgar/data/2073963/000092963825002823/0000929638-25-002823.txt
 2025-07-30 19:00:59 | 8-K - EFCAR, LLC (0001654238) (Filer) | 2025-07-30T14:47:53-04:00 | https://www.sec.gov/Archives/edgar/data/1654238/000092963825002823/0000929638-25-002823.txt
 2025-07-30 19:26:33 | 8-K - GBank Financial Holdings Inc. (0001791145) (Filer) | 2025-07-30T15:02:37-04:00 | https://www.sec.gov/Archives/edgar/data/1791145/000095017025100141/0000950170-25-100141.txt
+2025-07-30 19:49:47 | 8-K - Monogram Technologies Inc. (0001769759) (Filer) | 2025-07-30T15:48:17-04:00 | https://www.sec.gov/Archives/edgar/data/1769759/000110465925072134/0001104659-25-072134.txt
