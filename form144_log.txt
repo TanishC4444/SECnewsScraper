@@ -123,3 +123,7 @@
 2025-07-30 03:06:33 | Solaris Energy Infrastructure, Inc. | 10% Owner | Shares: 4000000 | Value: $121,200,000.0 | Percent: 5.922180% | Link: https://www.sec.gov/Archives/edgar/data/1697500/000095017025099851/0000950170-25-099851.txt
 2025-07-30 03:06:35 | STEEL DYNAMICS INC | Officer | Shares: 12000 | Value: $1,562,760.0 | Percent: 0.008083% | Link: https://www.sec.gov/Archives/edgar/data/1607477/000160747725000001/0001607477-25-000001.txt
 2025-07-30 03:06:35 | STEEL DYNAMICS INC | Officer | Shares: 12000 | Value: $1,562,760.0 | Percent: 0.008083% | Link: https://www.sec.gov/Archives/edgar/data/1022671/000160747725000001/0001607477-25-000001.txt
+2025-07-30 14:52:26 | ENTERGY CORP /DE/ | Officer | Shares: 21160 | Value: $1,908,632.0 | Percent: 0.004912% | Link: https://www.sec.gov/Archives/edgar/data/1953766/000195917325004817/0001959173-25-004817.txt
+2025-07-30 14:52:26 | ENTERGY CORP /DE/ | Officer | Shares: 21160 | Value: $1,908,632.0 | Percent: 0.004912% | Link: https://www.sec.gov/Archives/edgar/data/65984/000195917325004817/0001959173-25-004817.txt
+2025-07-30 14:52:28 | HERSHEY CO | Officer | Shares: 19290 | Value: $3,742,260.0 | Percent: 0.013035% | Link: https://www.sec.gov/Archives/edgar/data/1323734/000195917325004816/0001959173-25-004816.txt
+2025-07-30 14:52:29 | HERSHEY CO | Officer | Shares: 19290 | Value: $3,742,260.0 | Percent: 0.013035% | Link: https://www.sec.gov/Archives/edgar/data/47111/000195917325004816/0001959173-25-004816.txt
