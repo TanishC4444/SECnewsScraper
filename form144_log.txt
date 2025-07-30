@@ -143,3 +143,11 @@
 2025-07-30 16:19:10 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162311% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004820/0001959173-25-004820.txt
 2025-07-30 16:47:12 | Corning Incorporated | Officer | Shares: 16646 | Value: $270,331.04 | Percent: 0.001944% | Link: https://www.sec.gov/Archives/edgar/data/1508144/000196922325000542/0001969223-25-000542.txt
 2025-07-30 16:47:12 | Corning Incorporated | Officer | Shares: 16646 | Value: $270,331.04 | Percent: 0.001944% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000542/0001969223-25-000542.txt
+2025-07-30 17:31:43 | GLOBE LIFE INC. | Co-CEO | Shares: 25000 | Value: $3,546,000.0 | Percent: 0.030861% | Link: https://www.sec.gov/Archives/edgar/data/1270842/000199937125010262/0001999371-25-010262.txt
+2025-07-30 17:31:44 | GLOBE LIFE INC. | Co-CEO | Shares: 25000 | Value: $3,546,000.0 | Percent: 0.030861% | Link: https://www.sec.gov/Archives/edgar/data/320335/000199937125010262/0001999371-25-010262.txt
+2025-07-30 17:31:46 | Corning Incorporated | Officer | Shares: 14879 | Value: $927,942.67 | Percent: 0.001737% | Link: https://www.sec.gov/Archives/edgar/data/2034226/000196922325000543/0001969223-25-000543.txt
+2025-07-30 17:31:47 | Corning Incorporated | Officer | Shares: 14879 | Value: $927,942.67 | Percent: 0.001737% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000543/0001969223-25-000543.txt
+2025-07-30 17:31:47 | fuboTV Inc. /FL | Director | Shares: 18167 | Value: $76,695.58 | Percent: 0.005319% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325004822/0001959173-25-004822.txt
+2025-07-30 17:31:47 | fuboTV Inc. /FL | Director | Shares: 18167 | Value: $76,695.58 | Percent: 0.005319% | Link: https://www.sec.gov/Archives/edgar/data/1277070/000195917325004822/0001959173-25-004822.txt
+2025-07-30 17:31:49 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162351% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195917325004821/0001959173-25-004821.txt
+2025-07-30 17:31:49 | TRIMAS CORP | Former Officer &amp; Director | Shares: 65982 | Value: $2,332,930.37 | Percent: 0.162351% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004821/0001959173-25-004821.txt
