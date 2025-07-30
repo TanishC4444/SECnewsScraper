@@ -177,3 +177,7 @@
 2025-07-30 20:46:34 | Northern Trust Corporation | Affiliate | Shares: 7602 | Value: $1,000,727.28 | Percent: 0.003908% | Link: https://www.sec.gov/Archives/edgar/data/73124/000170597625000003/0001705976-25-000003.txt
 2025-07-30 20:46:36 | Pure Storage, Inc. | Director | Shares: 127068 | Value: $7,544,027.16 | Percent: 0.038879% | Link: https://www.sec.gov/Archives/edgar/data/1651902/000195004725005273/0001950047-25-005273.txt
 2025-07-30 20:46:37 | Pure Storage, Inc. | Director | Shares: 127068 | Value: $7,544,027.16 | Percent: 0.038879% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725005273/0001950047-25-005273.txt
+2025-07-30 20:58:08 | NVIDIA CORP | Officer | Shares: 75000 | Value: $13,405,473.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000849/0001921094-25-000849.txt
+2025-07-30 20:58:09 | NVIDIA CORP | Officer | Shares: 75000 | Value: $13,405,473.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000849/0001921094-25-000849.txt
+2025-07-30 20:58:10 | Ladder Capital Corp | Member of immediate family of any of the foregoing | Shares: 34578 | Value: $384,572.0 | Percent: 0.027128% | Link: https://www.sec.gov/Archives/edgar/data/1642191/000196530125000107/0001965301-25-000107.txt
+2025-07-30 20:58:12 | Ladder Capital Corp | Member of immediate family of any of the foregoing | Shares: 34578 | Value: $384,572.0 | Percent: 0.027128% | Link: https://www.sec.gov/Archives/edgar/data/1577670/000196530125000107/0001965301-25-000107.txt
