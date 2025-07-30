@@ -188,3 +188,5 @@
 2025-07-30 21:51:56 | GRAYSCALE LITECOIN TRUST (LTC) | Affiliate | Shares: 7000 | Value: $61,600.0 | Percent: 0.028863% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000245/0001977454-25-000245.txt
 2025-07-30 21:51:57 | GRAYSCALE SOLANA TRUST (SOL) | Affiliate | Shares: 6700 | Value: $99,585.45 | Percent: 0.092656% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000242/0001977454-25-000242.txt
 2025-07-30 21:51:58 | GRAYSCALE SOLANA TRUST (SOL) | Affiliate | Shares: 6700 | Value: $99,585.45 | Percent: 0.092656% | Link: https://www.sec.gov/Archives/edgar/data/1896677/000197745425000242/0001977454-25-000242.txt
+2025-07-30 22:36:12 | BlackRock, Inc. | Officer | Shares: 17142 | Value: $19,207,562.19 | Percent: 0.011065% | Link: https://www.sec.gov/Archives/edgar/data/2012383/000196625525000007/0001966255-25-000007.txt
+2025-07-30 22:36:13 | BlackRock, Inc. | Officer | Shares: 17142 | Value: $19,207,562.19 | Percent: 0.011065% | Link: https://www.sec.gov/Archives/edgar/data/1059240/000196625525000007/0001966255-25-000007.txt
