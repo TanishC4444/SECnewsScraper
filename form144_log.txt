@@ -157,3 +157,7 @@
 2025-07-30 19:01:04 | Grayscale Horizen Trust (ZEN) | 10% Stockholder | Shares: 33942 | Value: $28,919.0 | Percent: 0.297083% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000027/0001976415-25-000027.txt
 2025-07-30 19:01:05 | Grayscale Horizen Trust (ZEN) | 10% Stockholder | Shares: 13475 | Value: $11,481.0 | Percent: 0.117942% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000026/0001976415-25-000026.txt
 2025-07-30 19:01:06 | Grayscale Horizen Trust (ZEN) | 10% Stockholder | Shares: 13475 | Value: $11,481.0 | Percent: 0.117942% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000026/0001976415-25-000026.txt
+2025-07-30 19:26:39 | fuboTV Inc. /FL | Director | Shares: 66061 | Value: $281,236.2 | Percent: 0.019342% | Link: https://www.sec.gov/Archives/edgar/data/1820371/000195917325004823/0001959173-25-004823.txt
+2025-07-30 19:26:39 | fuboTV Inc. /FL | Director | Shares: 66061 | Value: $281,236.2 | Percent: 0.019342% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325004823/0001959173-25-004823.txt
+2025-07-30 19:26:41 | CINTAS CORP | Director | Shares: 5084 | Value: $1,132,105.12 | Percent: 0.001259% | Link: https://www.sec.gov/Archives/edgar/data/1184472/000196530125000105/0001965301-25-000105.txt
+2025-07-30 19:26:42 | CINTAS CORP | Director | Shares: 5084 | Value: $1,132,105.12 | Percent: 0.001259% | Link: https://www.sec.gov/Archives/edgar/data/723254/000196530125000105/0001965301-25-000105.txt
