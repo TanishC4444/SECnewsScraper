@@ -239,3 +239,8 @@
 2025-07-30 13:42:05 | 8-K - Rein Therapeutics, Inc. (0001420565) (Filer) | 2025-07-30T09:04:36-04:00 | https://www.sec.gov/Archives/edgar/data/1420565/000119312525168830/0001193125-25-168830.txt
 2025-07-30 14:01:51 | 8-K - Community West Bancshares (0001127371) (Filer) | 2025-07-30T09:55:27-04:00 | https://www.sec.gov/Archives/edgar/data/1127371/000162828025036579/0001628280-25-036579.txt
 2025-07-30 14:01:53 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-07-30T09:43:55-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225005317/0001477932-25-005317.txt
+2025-07-30 14:31:57 | 8-K - BioNexus Gene Lab Corp (0001737523) (Filer) | 2025-07-30T10:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1737523/000147793225005322/0001477932-25-005322.txt
+2025-07-30 14:31:57 | 8-K - Nuveen Churchill Private Capital Income Fund (0001911066) (Filer) | 2025-07-30T10:27:46-04:00 | https://www.sec.gov/Archives/edgar/data/1911066/000162828025036597/0001628280-25-036597.txt
+2025-07-30 14:31:58 | 8-K - Blue Foundry Bancorp (0001846017) (Filer) | 2025-07-30T10:04:58-04:00 | https://www.sec.gov/Archives/edgar/data/1846017/000162828025036585/0001628280-25-036585.txt
+2025-07-30 14:32:00 | 8-K - Chefs' Warehouse, Inc. (0001517175) (Filer) | 2025-07-30T10:04:37-04:00 | https://www.sec.gov/Archives/edgar/data/1517175/000162828025036584/0001628280-25-036584.txt
+2025-07-30 14:32:02 | 8-K - Eagle Bancorp Montana, Inc. (0001478454) (Filer) | 2025-07-30T10:03:09-04:00 | https://www.sec.gov/Archives/edgar/data/1478454/000143774925023881/0001437749-25-023881.txt
