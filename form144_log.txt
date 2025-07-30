@@ -129,3 +129,5 @@
 2025-07-30 14:52:29 | HERSHEY CO | Officer | Shares: 19290 | Value: $3,742,260.0 | Percent: 0.013035% | Link: https://www.sec.gov/Archives/edgar/data/47111/000195917325004816/0001959173-25-004816.txt
 2025-07-30 15:11:38 | fuboTV Inc. /FL | Director | Shares: 100000 | Value: $391,927.22 | Percent: 0.029279% | Link: https://www.sec.gov/Archives/edgar/data/1825118/000195917325004818/0001959173-25-004818.txt
 2025-07-30 15:11:38 | fuboTV Inc. /FL | Director | Shares: 100000 | Value: $391,927.22 | Percent: 0.029279% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325004818/0001959173-25-004818.txt
+2025-07-30 15:38:07 | TELEDYNE TECHNOLOGIES INC | President and CEO | Shares: 6735 | Value: $3,720,953.0 | Percent: 0.014364% | Link: https://www.sec.gov/Archives/edgar/data/1555599/000197337925000205/0001973379-25-000205.txt
+2025-07-30 15:38:08 | TELEDYNE TECHNOLOGIES INC | President and CEO | Shares: 6735 | Value: $3,720,953.0 | Percent: 0.014364% | Link: https://www.sec.gov/Archives/edgar/data/1094285/000197337925000205/0001973379-25-000205.txt
