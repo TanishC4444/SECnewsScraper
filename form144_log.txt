@@ -119,3 +119,7 @@
 2025-07-29 21:38:57 | SOUTHERN MISSOURI BANCORP, INC. | Director | Shares: 10000 | Value: $563,041.72 | Percent: 0.088500% | Link: https://www.sec.gov/Archives/edgar/data/916907/000141588925020476/0001415889-25-020476.txt
 2025-07-30 01:01:08 | Arlo Technologies, Inc. | Director | Shares: 25380 | Value: $414,709.2 | Percent: 0.024545% | Link: https://www.sec.gov/Archives/edgar/data/1736946/000162828025036526/0001628280-25-036526.txt
 2025-07-30 01:01:09 | Arlo Technologies, Inc. | Director | Shares: 25380 | Value: $414,709.2 | Percent: 0.024545% | Link: https://www.sec.gov/Archives/edgar/data/1654733/000162828025036526/0001628280-25-036526.txt
+2025-07-30 03:06:32 | Solaris Energy Infrastructure, Inc. | 10% Owner | Shares: 4000000 | Value: $121,200,000.0 | Percent: 5.922180% | Link: https://www.sec.gov/Archives/edgar/data/2036326/000095017025099851/0000950170-25-099851.txt
+2025-07-30 03:06:33 | Solaris Energy Infrastructure, Inc. | 10% Owner | Shares: 4000000 | Value: $121,200,000.0 | Percent: 5.922180% | Link: https://www.sec.gov/Archives/edgar/data/1697500/000095017025099851/0000950170-25-099851.txt
+2025-07-30 03:06:35 | STEEL DYNAMICS INC | Officer | Shares: 12000 | Value: $1,562,760.0 | Percent: 0.008083% | Link: https://www.sec.gov/Archives/edgar/data/1607477/000160747725000001/0001607477-25-000001.txt
+2025-07-30 03:06:35 | STEEL DYNAMICS INC | Officer | Shares: 12000 | Value: $1,562,760.0 | Percent: 0.008083% | Link: https://www.sec.gov/Archives/edgar/data/1022671/000160747725000001/0001607477-25-000001.txt
