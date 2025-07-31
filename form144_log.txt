@@ -198,3 +198,5 @@
 2025-07-31 14:34:04 | Residual 10-Year CLAT UA FDGJR Living Trust | 10% Stockholder | Shares: 349217 | Value: $3,094,062.62 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/850429/000195917325004833/0001959173-25-004833.txt
 2025-07-31 15:15:38 | Chi Michael | Officer | Shares: 26350 | Value: $1,765,450.0 | Percent: 0.012230% | Link: https://www.sec.gov/Archives/edgar/data/1965903/000195917325004837/0001959173-25-004837.txt
 2025-07-31 15:15:40 | Chi Michael | Officer | Shares: 26350 | Value: $1,765,450.0 | Percent: 0.012230% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325004837/0001959173-25-004837.txt
+2025-07-31 15:56:11 | Behr Allen C | Officer | Shares: 8021 | Value: $1,150,050.98 | Percent: 0.003476% | Link: https://www.sec.gov/Archives/edgar/data/1812083/000195917325004838/0001959173-25-004838.txt
+2025-07-31 15:56:13 | Behr Allen C | Officer | Shares: 8021 | Value: $1,150,050.98 | Percent: 0.003476% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325004838/0001959173-25-004838.txt
