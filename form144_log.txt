@@ -216,3 +216,5 @@
 2025-07-31 19:29:47 | Salzman Simeon | Chief Financial Officer | Shares: 25486 | Value: $25,807.13 | Percent: 0.035125% | Link: https://www.sec.gov/Archives/edgar/data/1755953/000197337925000206/0001973379-25-000206.txt
 2025-07-31 19:29:49 | Scalia Christopher M | Former Officer | Shares: 13972 | Value: $2,627,405.59 | Percent: 0.009433% | Link: https://www.sec.gov/Archives/edgar/data/1798898/000195917325004843/0001959173-25-004843.txt
 2025-07-31 19:29:50 | Scalia Christopher M | Former Officer | Shares: 13972 | Value: $2,627,405.59 | Percent: 0.009433% | Link: https://www.sec.gov/Archives/edgar/data/47111/000195917325004843/0001959173-25-004843.txt
+2025-07-31 19:43:35 | AMATO THOMAS A | Former Officer &amp; Director | Shares: 36705 | Value: $1,298,130.71 | Percent: 0.090314% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195917325004844/0001959173-25-004844.txt
+2025-07-31 19:43:36 | AMATO THOMAS A | Former Officer &amp; Director | Shares: 36705 | Value: $1,298,130.71 | Percent: 0.090314% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004844/0001959173-25-004844.txt
