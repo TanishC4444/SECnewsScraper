@@ -192,3 +192,7 @@
 2025-07-30 22:36:13 | BlackRock, Inc. | Officer | Shares: 17142 | Value: $19,207,562.19 | Percent: 0.011065% | Link: https://www.sec.gov/Archives/edgar/data/1059240/000196625525000007/0001966255-25-000007.txt
 2025-07-31 13:46:58 | Murdock Wendy J. | Former Director | Shares: 5432 | Value: $530,978.0 | Percent: 0.001841% | Link: https://www.sec.gov/Archives/edgar/data/1670711/000195917325004830/0001959173-25-004830.txt
 2025-07-31 13:47:04 | Murdock Wendy J. | Former Director | Shares: 5432 | Value: $530,978.0 | Percent: 0.001841% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325004830/0001959173-25-004830.txt
+2025-07-31 14:32:53 | Valdes Angela | Officer | Shares: 10098 | Value: $217,431.12 | Percent: 0.016360% | Link: https://www.sec.gov/Archives/edgar/data/1689796/000195917325004834/0001959173-25-004834.txt
+2025-07-31 14:33:22 | Valdes Angela | Officer | Shares: 10098 | Value: $217,431.12 | Percent: 0.016360% | Link: https://www.sec.gov/Archives/edgar/data/1498256/000195917325004834/0001959173-25-004834.txt
+2025-07-31 14:33:56 | Residual 10-Year CLAT UA FDGJR Living Trust | 10% Stockholder | Shares: 349217 | Value: $3,094,062.62 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/1995606/000195917325004833/0001959173-25-004833.txt
+2025-07-31 14:34:04 | Residual 10-Year CLAT UA FDGJR Living Trust | 10% Stockholder | Shares: 349217 | Value: $3,094,062.62 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/850429/000195917325004833/0001959173-25-004833.txt
