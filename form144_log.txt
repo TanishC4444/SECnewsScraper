@@ -234,3 +234,5 @@
 2025-07-31 21:13:25 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,495,364.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000852/0001921094-25-000852.txt
 2025-07-31 21:34:09 | Zuckerberg Mark | Officer | Shares: 15847 | Value: $12,318,736.0 | Percent: 0.000731% | Link: https://www.sec.gov/Archives/edgar/data/1548760/000192109425000853/0001921094-25-000853.txt
 2025-07-31 21:34:10 | Zuckerberg Mark | Officer | Shares: 15847 | Value: $12,318,736.0 | Percent: 0.000731% | Link: https://www.sec.gov/Archives/edgar/data/1326801/000192109425000853/0001921094-25-000853.txt
+2025-07-31 21:49:01 | Goldsteen Mitchell B. | Affiliate | Shares: 25776 | Value: $46,118.42 | Percent: 0.075014% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000105407425000117/0001054074-25-000117.txt
+2025-07-31 21:49:02 | Goldsteen Mitchell B. | Affiliate | Shares: 25776 | Value: $46,118.42 | Percent: 0.075014% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000105407425000117/0001054074-25-000117.txt
