@@ -238,3 +238,5 @@
 2025-07-31 21:49:02 | Goldsteen Mitchell B. | Affiliate | Shares: 25776 | Value: $46,118.42 | Percent: 0.075014% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000105407425000117/0001054074-25-000117.txt
 2025-07-31 21:58:23 | Peterson Michael | Officer | Shares: 12500 | Value: $1,106,317.0 | Percent: 0.010111% | Link: https://www.sec.gov/Archives/edgar/data/1745371/000192109425000854/0001921094-25-000854.txt
 2025-07-31 21:58:24 | Peterson Michael | Officer | Shares: 12500 | Value: $1,106,317.0 | Percent: 0.010111% | Link: https://www.sec.gov/Archives/edgar/data/350894/000192109425000854/0001921094-25-000854.txt
+2025-07-31 22:24:55 | Hannover Holdings S.A. | Affiliate | Shares: 43057 | Value: $144,835.0 | Percent: 0.047563% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000647/0001968582-25-000647.txt
+2025-07-31 22:24:56 | Hannover Holdings S.A. | Affiliate | Shares: 43057 | Value: $144,835.0 | Percent: 0.047563% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000647/0001968582-25-000647.txt
