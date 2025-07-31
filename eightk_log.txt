@@ -409,3 +409,6 @@
 2025-07-31 17:11:55 | 8-K - BLUSKY AI INC. (0001416090) (Filer) | 2025-07-31T12:57:24-04:00 | https://www.sec.gov/Archives/edgar/data/1416090/000109690625001211/0001096906-25-001211.txt
 2025-07-31 17:36:25 | 8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer) | 2025-07-31T13:17:33-04:00 | https://www.sec.gov/Archives/edgar/data/1946997/000194699725000111/0001946997-25-000111.txt
 2025-07-31 17:36:26 | 8-K - Elite Health Systems Inc. (0001089815) (Filer) | 2025-07-31T13:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1089815/000143774925024116/0001437749-25-024116.txt
+2025-07-31 17:51:58 | 8-K - TIAA REAL ESTATE ACCOUNT (0000946155) (Filer) | 2025-07-31T13:42:59-04:00 | https://www.sec.gov/Archives/edgar/data/946155/000094615525000003/0000946155-25-000003.txt
+2025-07-31 17:51:58 | 8-K - KKR FS Income Trust (0001930679) (Filer) | 2025-07-31T13:42:01-04:00 | https://www.sec.gov/Archives/edgar/data/1930679/000110465925072597/0001104659-25-072597.txt
+2025-07-31 17:51:59 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-07-31T13:39:42-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000145/0001326771-25-000145.txt

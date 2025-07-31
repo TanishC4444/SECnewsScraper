@@ -204,3 +204,5 @@
 2025-07-31 16:25:54 | Xanders George Laucks | Officer | Shares: 8350 | Value: $185,871.0 | Percent: 0.013528% | Link: https://www.sec.gov/Archives/edgar/data/1689796/000194984625000334/0001949846-25-000334.txt
 2025-07-31 16:26:02 | MONROE CAROLYN | Officer | Shares: 6849 | Value: $250,125.48 | Percent: 0.002771% | Link: https://www.sec.gov/Archives/edgar/data/1990341/000195917325004839/0001959173-25-004839.txt
 2025-07-31 16:26:02 | MONROE CAROLYN | Officer | Shares: 6849 | Value: $250,125.48 | Percent: 0.002771% | Link: https://www.sec.gov/Archives/edgar/data/74260/000195917325004839/0001959173-25-004839.txt
+2025-07-31 17:52:01 | CAPPELLO ALEXANDER L | Director | Shares: 12388 | Value: $813,017.44 | Percent: 0.025012% | Link: https://www.sec.gov/Archives/edgar/data/1193532/000195779925000143/0001957799-25-000143.txt
+2025-07-31 17:52:02 | CAPPELLO ALEXANDER L | Director | Shares: 12388 | Value: $813,017.44 | Percent: 0.025012% | Link: https://www.sec.gov/Archives/edgar/data/887596/000195779925000143/0001957799-25-000143.txt
