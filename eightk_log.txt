@@ -458,3 +458,11 @@
 2025-07-31 21:13:08 | 8-K - Arthur J. Gallagher & Co. (0000354190) (Filer) | 2025-07-31T17:07:20-04:00 | https://www.sec.gov/Archives/edgar/data/354190/000119312525170602/0001193125-25-170602.txt
 2025-07-31 21:13:11 | 8-K - APTARGROUP, INC. (0000896622) (Filer) | 2025-07-31T17:06:50-04:00 | https://www.sec.gov/Archives/edgar/data/896622/000089662225000026/0000896622-25-000026.txt
 2025-07-31 21:13:18 | 8-K - Precipio, Inc. (0001043961) (Filer) | 2025-07-31T17:06:11-04:00 | https://www.sec.gov/Archives/edgar/data/1043961/000110465925072760/0001104659-25-072760.txt
+2025-07-31 21:33:55 | 8-K - POWER SOLUTIONS INTERNATIONAL, INC. (0001137091) (Filer) | 2025-07-31T17:29:47-04:00 | https://www.sec.gov/Archives/edgar/data/1137091/000119312525170640/0001193125-25-170640.txt
+2025-07-31 21:33:57 | 8-K - Douglas Elliman Inc. (0001878897) (Filer) | 2025-07-31T17:29:36-04:00 | https://www.sec.gov/Archives/edgar/data/1878897/000187889725000046/0001878897-25-000046.txt
+2025-07-31 21:33:58 | 8-K - Core Natural Resources, Inc. (0001710366) (Filer) | 2025-07-31T17:29:26-04:00 | https://www.sec.gov/Archives/edgar/data/1710366/000119312525170639/0001193125-25-170639.txt
+2025-07-31 21:34:00 | 8-K - Fat Brands, Inc (0001705012) (Filer) | 2025-07-31T17:26:33-04:00 | https://www.sec.gov/Archives/edgar/data/1705012/000164117225021786/0001641172-25-021786.txt
+2025-07-31 21:34:05 | 8-K - ASGN Inc (0000890564) (Filer) | 2025-07-31T17:21:34-04:00 | https://www.sec.gov/Archives/edgar/data/890564/000089056425000042/0000890564-25-000042.txt
+2025-07-31 21:34:06 | 8-K - Mill City Ventures III, Ltd (0001425355) (Filer) | 2025-07-31T17:20:09-04:00 | https://www.sec.gov/Archives/edgar/data/1425355/000165495425008758/0001654954-25-008758.txt
+2025-07-31 21:34:07 | 8-K - Avidia Bancorp, Inc. (0002058758) (Filer) | 2025-07-31T17:19:04-04:00 | https://www.sec.gov/Archives/edgar/data/2058758/000094337425000352/0000943374-25-000352.txt
+2025-07-31 21:34:07 | 8-K - Verizon Master Trust (0001844964) (Filer) | 2025-07-31T17:18:37-04:00 | https://www.sec.gov/Archives/edgar/data/1844964/000092963825002838/0000929638-25-002838.txt
