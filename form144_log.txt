@@ -220,3 +220,7 @@
 2025-07-31 19:43:36 | AMATO THOMAS A | Former Officer &amp; Director | Shares: 36705 | Value: $1,298,130.71 | Percent: 0.090314% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195917325004844/0001959173-25-004844.txt
 2025-07-31 20:13:07 | AMATO THOMAS A | Former President, CEO and Director | Shares: 13900 | Value: $489,988.5 | Percent: 0.034201% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195779925000144/0001957799-25-000144.txt
 2025-07-31 20:13:08 | AMATO THOMAS A | Former President, CEO and Director | Shares: 13900 | Value: $489,988.5 | Percent: 0.034201% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195779925000144/0001957799-25-000144.txt
+2025-07-31 20:38:25 | MICHAEL LUCARELI | Officer | Shares: 26439 | Value: $3,003,999.18 | Percent: 0.050464% | Link: https://www.sec.gov/Archives/edgar/data/1496134/000195004725005296/0001950047-25-005296.txt
+2025-07-31 20:38:26 | MICHAEL LUCARELI | Officer | Shares: 26439 | Value: $3,003,999.18 | Percent: 0.050464% | Link: https://www.sec.gov/Archives/edgar/data/67347/000195004725005296/0001950047-25-005296.txt
+2025-07-31 20:38:28 | Lesinski, Thomas F. | Officer | Shares: 45000 | Value: $228,150.0 | Percent: 0.048059% | Link: https://www.sec.gov/Archives/edgar/data/1629303/000095017025100940/0000950170-25-100940.txt
+2025-07-31 20:38:29 | Lesinski, Thomas F. | Officer | Shares: 45000 | Value: $228,150.0 | Percent: 0.048059% | Link: https://www.sec.gov/Archives/edgar/data/1377630/000095017025100940/0000950170-25-100940.txt
