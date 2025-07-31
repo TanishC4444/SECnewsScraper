@@ -449,3 +449,12 @@
 2025-07-31 20:54:09 | 8-K - BGO Industrial Real Estate Income Trust, Inc. (0001942722) (Filer) | 2025-07-31T16:45:45-04:00 | https://www.sec.gov/Archives/edgar/data/1942722/000194272225000035/0001942722-25-000035.txt
 2025-07-31 20:54:11 | 8-K - Virtu Financial, Inc. (0001592386) (Filer) | 2025-07-31T16:44:27-04:00 | https://www.sec.gov/Archives/edgar/data/1592386/000095014225002061/0000950142-25-002061.txt
 2025-07-31 20:54:12 | 8-K - Huron Consulting Group Inc. (0001289848) (Filer) | 2025-07-31T16:42:50-04:00 | https://www.sec.gov/Archives/edgar/data/1289848/000128984825000189/0001289848-25-000189.txt
+2025-07-31 21:12:54 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-07-31T17:12:30-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000149315225011527/0001493152-25-011527.txt
+2025-07-31 21:12:56 | 8-K - ESSA Pharma Inc. (0001633932) (Filer) | 2025-07-31T17:11:29-04:00 | https://www.sec.gov/Archives/edgar/data/1633932/000110465925072771/0001104659-25-072771.txt
+2025-07-31 21:12:59 | 8-K - Nuburu, Inc. (0001814215) (Filer) | 2025-07-31T17:10:27-04:00 | https://www.sec.gov/Archives/edgar/data/1814215/000095017025101000/0000950170-25-101000.txt
+2025-07-31 21:13:01 | 8-K - UNIVERSAL ELECTRONICS INC (0000101984) (Filer) | 2025-07-31T17:08:40-04:00 | https://www.sec.gov/Archives/edgar/data/101984/000010198425000182/0000101984-25-000182.txt
+2025-07-31 21:13:03 | 8-K - UNITEDHEALTH GROUP INC (0000731766) (Filer) | 2025-07-31T17:08:18-04:00 | https://www.sec.gov/Archives/edgar/data/731766/000073176625000232/0000731766-25-000232.txt
+2025-07-31 21:13:05 | 8-K - Windstream Parent, Inc. (0002020795) (Filer) | 2025-07-31T17:08:17-04:00 | https://www.sec.gov/Archives/edgar/data/2020795/000110465925072765/0001104659-25-072765.txt
+2025-07-31 21:13:08 | 8-K - Arthur J. Gallagher & Co. (0000354190) (Filer) | 2025-07-31T17:07:20-04:00 | https://www.sec.gov/Archives/edgar/data/354190/000119312525170602/0001193125-25-170602.txt
+2025-07-31 21:13:11 | 8-K - APTARGROUP, INC. (0000896622) (Filer) | 2025-07-31T17:06:50-04:00 | https://www.sec.gov/Archives/edgar/data/896622/000089662225000026/0000896622-25-000026.txt
+2025-07-31 21:13:18 | 8-K - Precipio, Inc. (0001043961) (Filer) | 2025-07-31T17:06:11-04:00 | https://www.sec.gov/Archives/edgar/data/1043961/000110465925072760/0001104659-25-072760.txt

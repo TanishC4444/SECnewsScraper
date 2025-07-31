@@ -228,3 +228,7 @@
 2025-07-31 20:54:20 | EILEEN Patricia Paterson | Director | Shares: 9500 | Value: $2,482,962.75 | Percent: 0.015966% | Link: https://www.sec.gov/Archives/edgar/data/108312/000195004725005302/0001950047-25-005302.txt
 2025-07-31 20:54:21 | SUDHANSHU CHHABRA | Officer | Shares: 108930 | Value: $4,750,580.05 | Percent: 0.065012% | Link: https://www.sec.gov/Archives/edgar/data/1680387/000195004725005301/0001950047-25-005301.txt
 2025-07-31 20:54:22 | SUDHANSHU CHHABRA | Officer | Shares: 108930 | Value: $4,750,580.05 | Percent: 0.065012% | Link: https://www.sec.gov/Archives/edgar/data/1439288/000195004725005301/0001950047-25-005301.txt
+2025-07-31 21:13:21 | Alexander Mark David | Member of immediate family of any of the foregoing | Shares: 30000 | Value: $327,772.0 | Percent: 0.023537% | Link: https://www.sec.gov/Archives/edgar/data/1642191/000196530125000109/0001965301-25-000109.txt
+2025-07-31 21:13:22 | Alexander Mark David | Member of immediate family of any of the foregoing | Shares: 30000 | Value: $327,772.0 | Percent: 0.023537% | Link: https://www.sec.gov/Archives/edgar/data/1577670/000196530125000109/0001965301-25-000109.txt
+2025-07-31 21:13:24 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,495,364.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000852/0001921094-25-000852.txt
+2025-07-31 21:13:25 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,495,364.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000852/0001921094-25-000852.txt
