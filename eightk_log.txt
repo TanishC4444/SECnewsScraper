@@ -423,3 +423,13 @@
 2025-07-31 18:49:19 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-07-31T14:18:17-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000145/0001325814-25-000145.txt
 2025-07-31 19:43:32 | 8-K - MUELLER INDUSTRIES INC (0000089439) (Filer) | 2025-07-31T15:40:55-04:00 | https://www.sec.gov/Archives/edgar/data/89439/000008943925000050/0000089439-25-000050.txt
 2025-07-31 19:52:42 | 8-K - REGENEREX PHARMA, INC. (0001357878) (Filer) | 2025-07-31T15:44:28-04:00 | https://www.sec.gov/Archives/edgar/data/1357878/000147237525000083/0001472375-25-000083.txt
+2025-07-31 20:12:34 | 8-K - ILLUMINA, INC. (0001110803) (Filer) | 2025-07-31T16:11:41-04:00 | https://www.sec.gov/Archives/edgar/data/1110803/000111080325000057/0001110803-25-000057.txt
+2025-07-31 20:12:37 | 8-K - Safety Shot, Inc. (0001760903) (Filer) | 2025-07-31T16:11:37-04:00 | https://www.sec.gov/Archives/edgar/data/1760903/000164117225021736/0001641172-25-021736.txt
+2025-07-31 20:12:39 | 8-K - El Pollo Loco Holdings, Inc. (0001606366) (Filer) | 2025-07-31T16:11:25-04:00 | https://www.sec.gov/Archives/edgar/data/1606366/000160636625000035/0001606366-25-000035.txt
+2025-07-31 20:12:42 | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | 2025-07-31T16:11:23-04:00 | https://www.sec.gov/Archives/edgar/data/88205/000008820525000059/0000088205-25-000059.txt
+2025-07-31 20:12:45 | 8-K - ROKU, INC (0001428439) (Filer) | 2025-07-31T16:11:18-04:00 | https://www.sec.gov/Archives/edgar/data/1428439/000142843925000035/0001428439-25-000035.txt
+2025-07-31 20:12:51 | 8-K - Healthcare Realty Trust Inc (0001360604) (Filer) | 2025-07-31T16:11:15-04:00 | https://www.sec.gov/Archives/edgar/data/1360604/000136060425000093/0001360604-25-000093.txt
+2025-07-31 20:12:53 | 8-K - Silvercrest Asset Management Group Inc. (0001549966) (Filer) | 2025-07-31T16:10:52-04:00 | https://www.sec.gov/Archives/edgar/data/1549966/000095017025100905/0000950170-25-100905.txt
+2025-07-31 20:12:57 | 8-K - Mind Medicine (MindMed) Inc. (0001813814) (Filer) | 2025-07-31T16:10:41-04:00 | https://www.sec.gov/Archives/edgar/data/1813814/000095017025100902/0000950170-25-100902.txt
+2025-07-31 20:13:01 | 8-K - LPL Financial Holdings Inc. (0001397911) (Filer) | 2025-07-31T16:10:40-04:00 | https://www.sec.gov/Archives/edgar/data/1397911/000139791125000119/0001397911-25-000119.txt
+2025-07-31 20:13:03 | 8-K - Matson, Inc. (0000003453) (Filer) | 2025-07-31T16:10:31-04:00 | https://www.sec.gov/Archives/edgar/data/3453/000155837025009890/0001558370-25-009890.txt
