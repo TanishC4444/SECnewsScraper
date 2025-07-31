@@ -415,3 +415,9 @@
 2025-07-31 18:13:31 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-07-31T13:59:41-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000139/0001331757-25-000139.txt
 2025-07-31 18:13:34 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-07-31T13:52:24-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000079/0001756761-25-000079.txt
 2025-07-31 18:13:34 | 8-K - KKR FS Income Trust Select (0001975736) (Filer) | 2025-07-31T13:51:50-04:00 | https://www.sec.gov/Archives/edgar/data/1975736/000110465925072604/0001104659-25-072604.txt
+2025-07-31 18:49:15 | 8-K - Third Harmonic Bio, Inc. (0001923840) (Filer) | 2025-07-31T14:40:34-04:00 | https://www.sec.gov/Archives/edgar/data/1923840/000119312525170428/0001193125-25-170428.txt
+2025-07-31 18:49:17 | 8-K - NEW PEOPLES BANKSHARES INC (0001163389) (Filer) | 2025-07-31T14:39:12-04:00 | https://www.sec.gov/Archives/edgar/data/1163389/000190359625000366/0001903596-25-000366.txt
+2025-07-31 18:49:17 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-07-31T14:36:32-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000173/0001331465-25-000173.txt
+2025-07-31 18:49:17 | 8-K - Londax Corp. (0001985554) (Filer) | 2025-07-31T14:19:45-04:00 | https://www.sec.gov/Archives/edgar/data/1985554/000168316825005544/0001683168-25-005544.txt
+2025-07-31 18:49:19 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-07-31T14:19:08-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000114036125028159/0001140361-25-028159.txt
+2025-07-31 18:49:19 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-07-31T14:18:17-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000145/0001325814-25-000145.txt

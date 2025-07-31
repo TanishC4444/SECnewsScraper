@@ -208,3 +208,5 @@
 2025-07-31 17:52:02 | CAPPELLO ALEXANDER L | Director | Shares: 12388 | Value: $813,017.44 | Percent: 0.025012% | Link: https://www.sec.gov/Archives/edgar/data/887596/000195779925000143/0001957799-25-000143.txt
 2025-07-31 18:13:34 | Kochavatr John Teeruk | Officer | Shares: 6000 | Value: $246,942.5 | Percent: 0.005476% | Link: https://www.sec.gov/Archives/edgar/data/1729984/000195917325004841/0001959173-25-004841.txt
 2025-07-31 18:13:35 | Kochavatr John Teeruk | Officer | Shares: 6000 | Value: $246,942.5 | Percent: 0.005476% | Link: https://www.sec.gov/Archives/edgar/data/784977/000195917325004841/0001959173-25-004841.txt
+2025-07-31 18:49:22 | KONOWIECKI JOSEPH S | Officer | Shares: 25000 | Value: $398,750.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000200731725000766/0002007317-25-000766.txt
+2025-07-31 18:49:22 | KONOWIECKI JOSEPH S | Officer | Shares: 25000 | Value: $398,750.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1209523/000200731725000766/0002007317-25-000766.txt
