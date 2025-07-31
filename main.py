@@ -932,7 +932,8 @@ def parse_form144(txt_url):
         match = re.search(rf"<{tag}>(.*?)</{tag}>", content)
         return match.group(1).strip() if match else None
 
-    issuer = extract("issuerName")
+    company = extract("issuerName")
+    issuer = extract("nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold")
     relationship = extract("relationshipToIssuer")
     shares = extract("noOfUnitsSold")
     market_value = extract("aggregateMarketValue")
@@ -945,6 +946,7 @@ def parse_form144(txt_url):
     pct_str = f"{pct:.6f}"
 
     return {
+        "company": company,
         "issuer": issuer,
         "relationship": relationship,
         "shares_sold": int(shares),
@@ -1298,7 +1300,7 @@ if __name__ == "__main__":
                 try:
                     data = parse_form144(txt_url)
                     if data and data['shares_sold'] > 5000:
-                        company_name = data['issuer']
+                        company_name = data['company']
                         signal_text, signal_color = get_insider_signal(data['relationship'], data['pct_of_company'])
                         
                         # Get stock data
@@ -1357,6 +1359,7 @@ if __name__ == "__main__":
                                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
                                     <div>
                                         <h4 style="margin: 0 0 10px 0; color: #333; font-size: 18px;">👤 Seller</h4>
+                                        <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>Issuer:</strong> {data['issuer']}</p>
                                         <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>Relationship:</strong> {data['relationship']}</p>
                                     </div>
                                     
