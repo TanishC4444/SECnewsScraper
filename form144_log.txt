@@ -210,3 +210,9 @@
 2025-07-31 18:13:35 | Kochavatr John Teeruk | Officer | Shares: 6000 | Value: $246,942.5 | Percent: 0.005476% | Link: https://www.sec.gov/Archives/edgar/data/784977/000195917325004841/0001959173-25-004841.txt
 2025-07-31 18:49:22 | KONOWIECKI JOSEPH S | Officer | Shares: 25000 | Value: $398,750.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000200731725000766/0002007317-25-000766.txt
 2025-07-31 18:49:22 | KONOWIECKI JOSEPH S | Officer | Shares: 25000 | Value: $398,750.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1209523/000200731725000766/0002007317-25-000766.txt
+2025-07-31 19:29:44 | GUTTERMAN STEVEN D. | Chief Executive Officer | Shares: 149086 | Value: $153,106.57 | Percent: 0.205472% | Link: https://www.sec.gov/Archives/edgar/data/1755953/000197337925000207/0001973379-25-000207.txt
+2025-07-31 19:29:45 | GUTTERMAN STEVEN D. | Chief Executive Officer | Shares: 149086 | Value: $153,106.57 | Percent: 0.205472% | Link: https://www.sec.gov/Archives/edgar/data/1430007/000197337925000207/0001973379-25-000207.txt
+2025-07-31 19:29:46 | Salzman Simeon | Chief Financial Officer | Shares: 25486 | Value: $25,807.13 | Percent: 0.035125% | Link: https://www.sec.gov/Archives/edgar/data/1834571/000197337925000206/0001973379-25-000206.txt
+2025-07-31 19:29:47 | Salzman Simeon | Chief Financial Officer | Shares: 25486 | Value: $25,807.13 | Percent: 0.035125% | Link: https://www.sec.gov/Archives/edgar/data/1755953/000197337925000206/0001973379-25-000206.txt
+2025-07-31 19:29:49 | Scalia Christopher M | Former Officer | Shares: 13972 | Value: $2,627,405.59 | Percent: 0.009433% | Link: https://www.sec.gov/Archives/edgar/data/1798898/000195917325004843/0001959173-25-004843.txt
+2025-07-31 19:29:50 | Scalia Christopher M | Former Officer | Shares: 13972 | Value: $2,627,405.59 | Percent: 0.009433% | Link: https://www.sec.gov/Archives/edgar/data/47111/000195917325004843/0001959173-25-004843.txt
