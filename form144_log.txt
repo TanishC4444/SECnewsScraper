@@ -224,3 +224,7 @@
 2025-07-31 20:38:26 | MICHAEL LUCARELI | Officer | Shares: 26439 | Value: $3,003,999.18 | Percent: 0.050464% | Link: https://www.sec.gov/Archives/edgar/data/67347/000195004725005296/0001950047-25-005296.txt
 2025-07-31 20:38:28 | Lesinski, Thomas F. | Officer | Shares: 45000 | Value: $228,150.0 | Percent: 0.048059% | Link: https://www.sec.gov/Archives/edgar/data/1629303/000095017025100940/0000950170-25-100940.txt
 2025-07-31 20:38:29 | Lesinski, Thomas F. | Officer | Shares: 45000 | Value: $228,150.0 | Percent: 0.048059% | Link: https://www.sec.gov/Archives/edgar/data/1377630/000095017025100940/0000950170-25-100940.txt
+2025-07-31 20:54:19 | EILEEN Patricia Paterson | Director | Shares: 9500 | Value: $2,482,962.75 | Percent: 0.015966% | Link: https://www.sec.gov/Archives/edgar/data/1635474/000195004725005302/0001950047-25-005302.txt
+2025-07-31 20:54:20 | EILEEN Patricia Paterson | Director | Shares: 9500 | Value: $2,482,962.75 | Percent: 0.015966% | Link: https://www.sec.gov/Archives/edgar/data/108312/000195004725005302/0001950047-25-005302.txt
+2025-07-31 20:54:21 | SUDHANSHU CHHABRA | Officer | Shares: 108930 | Value: $4,750,580.05 | Percent: 0.065012% | Link: https://www.sec.gov/Archives/edgar/data/1680387/000195004725005301/0001950047-25-005301.txt
+2025-07-31 20:54:22 | SUDHANSHU CHHABRA | Officer | Shares: 108930 | Value: $4,750,580.05 | Percent: 0.065012% | Link: https://www.sec.gov/Archives/edgar/data/1439288/000195004725005301/0001950047-25-005301.txt
