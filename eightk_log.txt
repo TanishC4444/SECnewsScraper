@@ -381,3 +381,11 @@
 2025-07-31 13:01:30 | 8-K - bioAffinity Technologies, Inc. (0001712762) (Filer) | 2025-07-31T08:48:44-04:00 | https://www.sec.gov/Archives/edgar/data/1712762/000164117225021677/0001641172-25-021677.txt
 2025-07-31 13:01:31 | 8-K - PATRICK INDUSTRIES INC (0000076605) (Filer) | 2025-07-31T08:48:22-04:00 | https://www.sec.gov/Archives/edgar/data/76605/000007660525000172/0000076605-25-000172.txt
 2025-07-31 13:01:31 | 8-K/A - EQUINIX INC (0001101239) (Filer) | 2025-07-31T08:41:48-04:00 | https://www.sec.gov/Archives/edgar/data/1101239/000110123925000035/0001101239-25-000035.txt
+2025-07-31 13:45:34 | 8-K - PEOPLES FINANCIAL SERVICES CORP. (0001056943) (Filer) | 2025-07-31T09:40:28-04:00 | https://www.sec.gov/Archives/edgar/data/1056943/000155837025009850/0001558370-25-009850.txt
+2025-07-31 13:45:46 | 8-K - Bogota Financial Corp. (0001787414) (Filer) | 2025-07-31T09:33:27-04:00 | https://www.sec.gov/Archives/edgar/data/1787414/000094337425000346/0000943374-25-000346.txt
+2025-07-31 13:45:57 | 8-K - TRINITY INDUSTRIES INC (0000099780) (Filer) | 2025-07-31T09:32:23-04:00 | https://www.sec.gov/Archives/edgar/data/99780/000009978025000097/0000099780-25-000097.txt
+2025-07-31 13:46:08 | 8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer) | 2025-07-31T09:31:02-04:00 | https://www.sec.gov/Archives/edgar/data/1993004/000199300425000122/0001993004-25-000122.txt
+2025-07-31 13:46:21 | 8-K - Acurx Pharmaceuticals, Inc. (0001736243) (Filer) | 2025-07-31T09:29:00-04:00 | https://www.sec.gov/Archives/edgar/data/1736243/000110465925072529/0001104659-25-072529.txt
+2025-07-31 13:46:34 | 8-K - Dream Finders Homes, Inc. (0001825088) (Filer) | 2025-07-31T09:26:31-04:00 | https://www.sec.gov/Archives/edgar/data/1825088/000182508825000050/0001825088-25-000050.txt
+2025-07-31 13:46:47 | 8-K - Four Corners Property Trust, Inc. (0001650132) (Filer) | 2025-07-31T09:25:27-04:00 | https://www.sec.gov/Archives/edgar/data/1650132/000095017025100577/0000950170-25-100577.txt
+2025-07-31 13:46:47 | 8-K - Blue Acquisition Corp/Cayman (0002059654) (Filer) | 2025-07-31T09:24:25-04:00 | https://www.sec.gov/Archives/edgar/data/2059654/000118518525000873/0001185185-25-000873.txt
