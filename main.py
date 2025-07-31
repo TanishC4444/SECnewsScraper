@@ -1391,6 +1391,120 @@ if __name__ == "__main__":
                 except Exception as e:
                     print(f"Error parsing Form 144: {e}")
             
+            elif form == "SD":
+                txt_url = convert_to_txt_link(f['link'])
+                try:
+                    sd_data = parse_sd_filing(txt_url, f['link'])
+                    company_name = extract_company_name(f['title'])
+                    signal_text, signal_color = get_sd_signal(sd_data)
+                    
+                    # Get stock data
+                    ticker = get_ticker_from_name(company_name)
+                    chart_base64, stock_html = None, ""
+                    chart_id = None
+                    
+                    if ticker:
+                        chart_base64, stock_html = get_stock_data_and_chart(ticker)
+                        if chart_base64:
+                            chart_counter += 1
+                            chart_id = f"stock_chart_{chart_counter}"
+                            all_charts[chart_id] = chart_base64
+                            stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
+                    
+                    # Create SD explanation section
+                    sd_explanation = """
+                    <div style="background: linear-gradient(135deg, #8B451320, #8B451310); 
+                                padding: 20px; border-radius: 10px; margin: 20px 0; 
+                                border-left: 4px solid #8B4513;">
+                        <div style="display: flex; align-items: center; margin-bottom: 15px; flex-wrap: wrap;">
+                            <h3 style="margin: 0; color: #8B4513; font-size: 18px; font-weight: bold;">
+                                ⛏️ CONFLICT MINERALS DISCLOSURE (Form SD)
+                            </h3>
+                            <span style="margin-left: auto; padding: 4px 12px; background: #8B4513; 
+                                        color: white; border-radius: 20px; font-size: 12px; font-weight: bold;">
+                                ESG COMPLIANCE
+                            </span>
+                        </div>
+                        <p style="margin: 0; color: #333; font-size: 15px; line-height: 1.5;">
+                            💡 <strong>What this means:</strong> Companies must annually disclose whether their products contain 
+                            conflict minerals (tin, tantalum, tungsten, gold) and if so, whether these minerals originated from 
+                            the Democratic Republic of Congo or adjoining countries. This helps investors assess ESG risks and 
+                            supply chain responsibility.
+                        </p>
+                    </div>
+                    """
+                    
+                    # Build minerals details
+                    minerals_html = ""
+                    if sd_data and sd_data['minerals']:
+                        minerals_list = ", ".join(sd_data['minerals'])
+                        minerals_html = f"""
+                        <div style="background: #f0f8ff; padding: 15px; border-radius: 8px; margin: 15px 0; 
+                                    border-left: 4px solid #4682B4;">
+                            <h4 style="margin: 0 0 10px 0; color: #4682B4; font-size: 16px;">⛏️ Minerals Reported</h4>
+                            <p style="margin: 0; color: #333; font-size: 14px;"><strong>Contains:</strong> {minerals_list}</p>
+                            <p style="margin: 5px 0 0 0; color: #333; font-size: 14px;"><strong>DRC Status:</strong> {sd_data['drc_status']}</p>
+                            {f'<p style="margin: 5px 0 0 0; color: #333; font-size: 14px;"><strong>Supply Chain Audit:</strong> {"Yes" if sd_data["smelter_audit"] else "Not Mentioned"}</p>' if sd_data['smelter_audit'] is not None else ''}
+                        </div>
+                        """
+                    elif sd_data:
+                        minerals_html = f"""
+                        <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0;">
+                            <p style="margin: 0; color: #666; font-size: 14px; text-align: center;">
+                                Status: {sd_data['drc_status']}
+                            </p>
+                        </div>
+                        """
+                    
+                    html_content = f"""
+                    <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
+                                box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+                        <div style="background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%); 
+                                    color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
+                            <h2 style="margin: 0; font-size: 24px;">⛏️ SD FILING</h2>
+                            <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
+                        </div>
+                        
+                        {sd_explanation}
+                        
+                        {create_filing_info_section(f['updated'], signal_text.replace('✅ ', '').replace('⚠️ ', '').replace('🔍 ', '').replace('📋 ', ''), 
+                            "Annual conflict minerals disclosure - ESG compliance reporting", 
+                            signal_color)}
+                        
+                        {stock_html}
+                        
+                        {minerals_html}
+                        
+                        <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; 
+                                border-left: 6px solid #8B4513;">
+                            <h4 style="margin: 0 0 10px 0; color: #333; font-size: 18px;">📋 Filing Details</h4>
+                            <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📅 Filed:</strong> {f['updated']}</p>
+                            <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📄 Form Type:</strong> Specialized Disclosure (SD)</p>
+                            <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>🎯 Purpose:</strong> Conflict Minerals Compliance</p>
+                        </div>
+                        
+                        {create_links_section(f['link'], txt_url)}
+                    </div>
+                    """
+                    
+                    filing_data = {
+                        'form_type': 'SD',
+                        'company': company_name,
+                        'html_content': html_content,
+                        'entry_id': entry_id
+                    }
+                    
+                    # Log SD filing
+                    log_entry = (f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | "
+                            f"{company_name} | "
+                            f"DRC Status: {sd_data['drc_status'] if sd_data else 'Unknown'} | "
+                            f"Minerals: {', '.join(sd_data['minerals']) if sd_data and sd_data['minerals'] else 'None'} | "
+                            f"Link: {txt_url}")
+                    log_sd_filing(log_entry)
+
+                except Exception as e:
+                    print(f"Error processing SD filing: {e}")
+
             # Add filing to batch if we have data
             if filing_data:
                 all_filings.append(filing_data)
@@ -1411,118 +1525,5 @@ if __name__ == "__main__":
                 log_to_file(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {filing['company']} | BATCH EMAIL")
                 
         print("✅ Batch email sent successfully!")
-    elif form == "SD":
-        txt_url = convert_to_txt_link(f['link'])
-        try:
-            sd_data = parse_sd_filing(txt_url, f['link'])
-            company_name = extract_company_name(f['title'])
-            signal_text, signal_color = get_sd_signal(sd_data)
-            
-            # Get stock data
-            ticker = get_ticker_from_name(company_name)
-            chart_base64, stock_html = None, ""
-            chart_id = None
-            
-            if ticker:
-                chart_base64, stock_html = get_stock_data_and_chart(ticker)
-                if chart_base64:
-                    chart_counter += 1
-                    chart_id = f"stock_chart_{chart_counter}"
-                    all_charts[chart_id] = chart_base64
-                    stock_html = stock_html.replace('cid:stock_chart', f'cid:{chart_id}')
-            
-            # Create SD explanation section
-            sd_explanation = """
-            <div style="background: linear-gradient(135deg, #8B451320, #8B451310); 
-                        padding: 20px; border-radius: 10px; margin: 20px 0; 
-                        border-left: 4px solid #8B4513;">
-                <div style="display: flex; align-items: center; margin-bottom: 15px; flex-wrap: wrap;">
-                    <h3 style="margin: 0; color: #8B4513; font-size: 18px; font-weight: bold;">
-                        ⛏️ CONFLICT MINERALS DISCLOSURE (Form SD)
-                    </h3>
-                    <span style="margin-left: auto; padding: 4px 12px; background: #8B4513; 
-                                color: white; border-radius: 20px; font-size: 12px; font-weight: bold;">
-                        ESG COMPLIANCE
-                    </span>
-                </div>
-                <p style="margin: 0; color: #333; font-size: 15px; line-height: 1.5;">
-                    💡 <strong>What this means:</strong> Companies must annually disclose whether their products contain 
-                    conflict minerals (tin, tantalum, tungsten, gold) and if so, whether these minerals originated from 
-                    the Democratic Republic of Congo or adjoining countries. This helps investors assess ESG risks and 
-                    supply chain responsibility.
-                </p>
-            </div>
-            """
-            
-            # Build minerals details
-            minerals_html = ""
-            if sd_data and sd_data['minerals']:
-                minerals_list = ", ".join(sd_data['minerals'])
-                minerals_html = f"""
-                <div style="background: #f0f8ff; padding: 15px; border-radius: 8px; margin: 15px 0; 
-                            border-left: 4px solid #4682B4;">
-                    <h4 style="margin: 0 0 10px 0; color: #4682B4; font-size: 16px;">⛏️ Minerals Reported</h4>
-                    <p style="margin: 0; color: #333; font-size: 14px;"><strong>Contains:</strong> {minerals_list}</p>
-                    <p style="margin: 5px 0 0 0; color: #333; font-size: 14px;"><strong>DRC Status:</strong> {sd_data['drc_status']}</p>
-                    {f'<p style="margin: 5px 0 0 0; color: #333; font-size: 14px;"><strong>Supply Chain Audit:</strong> {"Yes" if sd_data["smelter_audit"] else "Not Mentioned"}</p>' if sd_data['smelter_audit'] is not None else ''}
-                </div>
-                """
-            elif sd_data:
-                minerals_html = f"""
-                <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0;">
-                    <p style="margin: 0; color: #666; font-size: 14px; text-align: center;">
-                        Status: {sd_data['drc_status']}
-                    </p>
-                </div>
-                """
-            
-            html_content = f"""
-            <div style="background: white; padding: 25px; border-radius: 15px; margin: 20px 0; 
-                        box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-                <div style="background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%); 
-                            color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 20px;">
-                    <h2 style="margin: 0; font-size: 24px;">⛏️ SD FILING</h2>
-                    <h3 style="margin: 10px 0 0 0; font-size: 28px; font-weight: bold;">{company_name}</h3>
-                </div>
-                
-                {sd_explanation}
-                
-                {create_filing_info_section(f['updated'], signal_text.replace('✅ ', '').replace('⚠️ ', '').replace('🔍 ', '').replace('📋 ', ''), 
-                    "Annual conflict minerals disclosure - ESG compliance reporting", 
-                    signal_color)}
-                
-                {stock_html}
-                
-                {minerals_html}
-                
-                <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; 
-                        border-left: 6px solid #8B4513;">
-                    <h4 style="margin: 0 0 10px 0; color: #333; font-size: 18px;">📋 Filing Details</h4>
-                    <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📅 Filed:</strong> {f['updated']}</p>
-                    <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>📄 Form Type:</strong> Specialized Disclosure (SD)</p>
-                    <p style="font-size: 16px; margin: 5px 0; color: #333;"><strong>🎯 Purpose:</strong> Conflict Minerals Compliance</p>
-                </div>
-                
-                {create_links_section(f['link'], txt_url)}
-            </div>
-            """
-            
-            filing_data = {
-                'form_type': 'SD',
-                'company': company_name,
-                'html_content': html_content,
-                'entry_id': entry_id
-            }
-            
-            # Log SD filing
-            log_entry = (f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | "
-                    f"{company_name} | "
-                    f"DRC Status: {sd_data['drc_status'] if sd_data else 'Unknown'} | "
-                    f"Minerals: {', '.join(sd_data['minerals']) if sd_data and sd_data['minerals'] else 'None'} | "
-                    f"Link: {txt_url}")
-            log_sd_filing(log_entry)
-
-        except Exception as e:
-            print(f"Error processing SD filing: {e}")
     else:
         print("No new filings found.")
