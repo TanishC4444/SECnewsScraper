@@ -517,3 +517,12 @@
 2025-08-01 12:58:44 | 8-K - Athene Holding Ltd. (0001527469) (Filer) | 2025-08-01T08:36:45-04:00 | https://www.sec.gov/Archives/edgar/data/1527469/000152746925000050/0001527469-25-000050.txt
 2025-08-01 12:58:46 | 8-K - Apollo Global Management, Inc. (0001858681) (Filer) | 2025-08-01T08:35:29-04:00 | https://www.sec.gov/Archives/edgar/data/1858681/000185868125000110/0001858681-25-000110.txt
 2025-08-01 12:58:47 | 8-K - IRADIMED CORP (0001325618) (Filer) | 2025-08-01T08:32:35-04:00 | https://www.sec.gov/Archives/edgar/data/1325618/000155837025009933/0001558370-25-009933.txt
+2025-08-01 13:41:34 | 8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer) | 2025-08-01T09:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1559998/000164117225021840/0001641172-25-021840.txt
+2025-08-01 13:41:35 | 8-K - Allogene Therapeutics, Inc. (0001737287) (Filer) | 2025-08-01T09:24:48-04:00 | https://www.sec.gov/Archives/edgar/data/1737287/000119312525171091/0001193125-25-171091.txt
+2025-08-01 13:41:37 | 8-K - Mill City Ventures III, Ltd (0001425355) (Filer) | 2025-08-01T09:24:05-04:00 | https://www.sec.gov/Archives/edgar/data/1425355/000165495425008785/0001654954-25-008785.txt
+2025-08-01 13:41:39 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-01T09:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025070323/0001213900-25-070323.txt
+2025-08-01 13:41:42 | 8-K - LPL Financial Holdings Inc. (0001397911) (Filer) | 2025-08-01T09:11:15-04:00 | https://www.sec.gov/Archives/edgar/data/1397911/000119312525171084/0001193125-25-171084.txt
+2025-08-01 13:41:43 | 8-K - RBC Bearings INC (0001324948) (Filer) | 2025-08-01T09:05:42-04:00 | https://www.sec.gov/Archives/edgar/data/1324948/000121390025070319/0001213900-25-070319.txt
+2025-08-01 13:41:51 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-08-01T09:01:55-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000124/0001788230-25-000124.txt
+2025-08-01 13:41:52 | 8-K - AMERICAS CARMART INC (0000799850) (Filer) | 2025-08-01T09:00:49-04:00 | https://www.sec.gov/Archives/edgar/data/799850/000117184325004954/0001171843-25-004954.txt
+2025-08-01 13:41:53 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-08-01T09:00:37-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000118/0001314152-25-000118.txt
