@@ -280,3 +280,5 @@
 2025-08-01 18:34:58 | Michael Majors | Executive Officer | Shares: 10000 | Value: $1,404,700.0 | Percent: 0.012344% | Link: https://www.sec.gov/Archives/edgar/data/320335/000199937125010487/0001999371-25-010487.txt
 2025-08-01 18:34:59 | DeMare James P | Officer | Shares: 148391 | Value: $7,021,862.0 | Percent: 0.002003% | Link: https://www.sec.gov/Archives/edgar/data/1889024/000200731725000774/0002007317-25-000774.txt
 2025-08-01 18:35:01 | DeMare James P | Officer | Shares: 148391 | Value: $7,021,862.0 | Percent: 0.002003% | Link: https://www.sec.gov/Archives/edgar/data/70858/000200731725000774/0002007317-25-000774.txt
+2025-08-01 18:57:44 | Witteveen Merel | Former Officer | Shares: 14642 | Value: $334,549.2 | Percent: 0.011187% | Link: https://www.sec.gov/Archives/edgar/data/2028706/000200731725000775/0002007317-25-000775.txt
+2025-08-01 18:57:46 | Witteveen Merel | Former Officer | Shares: 14642 | Value: $334,549.2 | Percent: 0.011187% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000200731725000775/0002007317-25-000775.txt
