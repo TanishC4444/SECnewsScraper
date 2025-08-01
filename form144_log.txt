@@ -276,3 +276,7 @@
 2025-08-01 17:45:16 | Melissa Reiff | Director | Shares: 6909 | Value: $414,540.0 | Percent: 0.006971% | Link: https://www.sec.gov/Archives/edgar/data/1370637/000196922325000545/0001969223-25-000545.txt
 2025-08-01 17:57:55 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $10,589,146.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000197325125000051/0001973251-25-000051.txt
 2025-08-01 17:57:56 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $10,589,146.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000051/0001973251-25-000051.txt
+2025-08-01 18:34:57 | Michael Majors | Executive Officer | Shares: 10000 | Value: $1,404,700.0 | Percent: 0.012344% | Link: https://www.sec.gov/Archives/edgar/data/1426922/000199937125010487/0001999371-25-010487.txt
+2025-08-01 18:34:58 | Michael Majors | Executive Officer | Shares: 10000 | Value: $1,404,700.0 | Percent: 0.012344% | Link: https://www.sec.gov/Archives/edgar/data/320335/000199937125010487/0001999371-25-010487.txt
+2025-08-01 18:34:59 | DeMare James P | Officer | Shares: 148391 | Value: $7,021,862.0 | Percent: 0.002003% | Link: https://www.sec.gov/Archives/edgar/data/1889024/000200731725000774/0002007317-25-000774.txt
+2025-08-01 18:35:01 | DeMare James P | Officer | Shares: 148391 | Value: $7,021,862.0 | Percent: 0.002003% | Link: https://www.sec.gov/Archives/edgar/data/70858/000200731725000774/0002007317-25-000774.txt
