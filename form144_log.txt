@@ -252,3 +252,5 @@
 2025-08-01 14:31:00 | Zales Samuel | Officer | Shares: 10000 | Value: $322,900.0 | Percent: 0.011816% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325004857/0001959173-25-004857.txt
 2025-08-01 14:31:02 | Kidd Mark | Officer | Shares: 6000 | Value: $583,200.0 | Percent: 0.002034% | Link: https://www.sec.gov/Archives/edgar/data/1732058/000195917325004855/0001959173-25-004855.txt
 2025-08-01 14:31:03 | Kidd Mark | Officer | Shares: 6000 | Value: $583,200.0 | Percent: 0.002034% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325004855/0001959173-25-004855.txt
+2025-08-01 15:00:17 | McIntosh Greg W | Officer | Shares: 17339 | Value: $1,685,350.8 | Percent: 0.005877% | Link: https://www.sec.gov/Archives/edgar/data/1769841/000195917325004863/0001959173-25-004863.txt
+2025-08-01 15:00:18 | McIntosh Greg W | Officer | Shares: 17339 | Value: $1,685,350.8 | Percent: 0.005877% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325004863/0001959173-25-004863.txt
