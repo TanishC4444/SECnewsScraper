@@ -326,3 +326,5 @@
 2025-08-01 21:56:37 | STEPHEN J PRIEST | No longer an executive with Ebay. | Shares: 51009 | Value: $4,605,434.28 | Percent: 0.011162% | Link: https://www.sec.gov/Archives/edgar/data/1065088/000195004725005370/0001950047-25-005370.txt
 2025-08-01 22:19:30 | SUMNER WARING | Officer | Shares: 56100 | Value: $4,295,391.87 | Percent: 0.040003% | Link: https://www.sec.gov/Archives/edgar/data/1243198/000195004725005375/0001950047-25-005375.txt
 2025-08-01 22:19:31 | SUMNER WARING | Officer | Shares: 56100 | Value: $4,295,391.87 | Percent: 0.040003% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005375/0001950047-25-005375.txt
+2025-08-01 23:35:57 | BAN SENG TEH | Officer | Shares: 5905 | Value: $915,275.0 | Percent: 0.002777% | Link: https://www.sec.gov/Archives/edgar/data/1801425/000195004725005376/0001950047-25-005376.txt
+2025-08-01 23:35:57 | BAN SENG TEH | Officer | Shares: 5905 | Value: $915,275.0 | Percent: 0.002777% | Link: https://www.sec.gov/Archives/edgar/data/1137789/000195004725005376/0001950047-25-005376.txt
