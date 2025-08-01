@@ -268,3 +268,5 @@
 2025-08-01 16:37:09 | NAYLOR JEFFREY G | Director | Shares: 10000 | Value: $675,000.0 | Percent: 0.002688% | Link: https://www.sec.gov/Archives/edgar/data/1191210/000195917325004874/0001959173-25-004874.txt
 2025-08-01 16:37:11 | Vidal Daniel | Officer | Shares: 9000 | Value: $17,579.57 | Percent: 0.011194% | Link: https://www.sec.gov/Archives/edgar/data/1891862/000200731725000771/0002007317-25-000771.txt
 2025-08-01 16:37:12 | Vidal Daniel | Officer | Shares: 9000 | Value: $17,579.57 | Percent: 0.011194% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000200731725000771/0002007317-25-000771.txt
+2025-08-01 17:24:16 | RIZAI MATTHEW M | &gt;10% of voting rights | Shares: 50000 | Value: $3,882,500.0 | Percent: 0.089718% | Link: https://www.sec.gov/Archives/edgar/data/1445305/000200731725000773/0002007317-25-000773.txt
+2025-08-01 17:24:17 | RIZAI MATTHEW M | &gt;10% of voting rights | Shares: 50000 | Value: $3,882,500.0 | Percent: 0.089718% | Link: https://www.sec.gov/Archives/edgar/data/1013631/000200731725000773/0002007317-25-000773.txt
