@@ -320,3 +320,7 @@
 2025-08-01 21:47:35 | Cootey Stephen Lawrence | Officer | Shares: 121400 | Value: $7,289,031.41 | Percent: 0.202022% | Link: https://www.sec.gov/Archives/edgar/data/1347961/000196430625000301/0001964306-25-000301.txt
 2025-08-01 21:47:36 | Welch Jeffrey T | Officer | Shares: 56653 | Value: $3,412,384.3 | Percent: 0.094277% | Link: https://www.sec.gov/Archives/edgar/data/1708624/000196430625000300/0001964306-25-000300.txt
 2025-08-01 21:47:37 | Welch Jeffrey T | Officer | Shares: 56653 | Value: $3,412,384.3 | Percent: 0.094277% | Link: https://www.sec.gov/Archives/edgar/data/1653653/000196430625000300/0001964306-25-000300.txt
+2025-08-01 21:56:35 | EDWARD GARCIA | used to be an Executive | Shares: 95299 | Value: $8,744,245.51 | Percent: 0.020853% | Link: https://www.sec.gov/Archives/edgar/data/1928645/000195004725005371/0001950047-25-005371.txt
+2025-08-01 21:56:36 | EDWARD GARCIA | used to be an Executive | Shares: 95299 | Value: $8,744,245.51 | Percent: 0.020853% | Link: https://www.sec.gov/Archives/edgar/data/1065088/000195004725005371/0001950047-25-005371.txt
+2025-08-01 21:56:36 | STEPHEN J PRIEST | No longer an executive with Ebay. | Shares: 51009 | Value: $4,605,434.28 | Percent: 0.011162% | Link: https://www.sec.gov/Archives/edgar/data/1699419/000195004725005370/0001950047-25-005370.txt
+2025-08-01 21:56:37 | STEPHEN J PRIEST | No longer an executive with Ebay. | Shares: 51009 | Value: $4,605,434.28 | Percent: 0.011162% | Link: https://www.sec.gov/Archives/edgar/data/1065088/000195004725005370/0001950047-25-005370.txt
