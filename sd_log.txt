@@ -1,1 +1,2 @@
 2025-07-31 08:53:27 | DCG International Investments Ltd. | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000241/0001977454-25-000241.txt
+2025-08-01 20:14:21 | SD | DRC Status: Unknown | Minerals: Tin, Tantalum, Tungsten, Gold | Link: https://www.sec.gov/Archives/edgar/data/1774170/000164117225021890/0001641172-25-021890.txt

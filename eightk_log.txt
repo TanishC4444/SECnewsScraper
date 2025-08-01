@@ -557,3 +557,9 @@
 2025-08-01 19:31:37 | 8-K - Ares Core Infrastructure Fund (0002031750) (Filer) | 2025-08-01T15:23:01-04:00 | https://www.sec.gov/Archives/edgar/data/2031750/000162828025037214/0001628280-25-037214.txt
 2025-08-01 19:44:09 | 8-K - Airsculpt Technologies, Inc. (0001870940) (Filer) | 2025-08-01T15:38:52-04:00 | https://www.sec.gov/Archives/edgar/data/1870940/000187094025000029/0001870940-25-000029.txt
 2025-08-01 19:44:10 | 8-K - Lafayette Square USA, Inc. (0001849089) (Filer) | 2025-08-01T15:35:54-04:00 | https://www.sec.gov/Archives/edgar/data/1849089/000110465925073092/0001104659-25-073092.txt
+2025-08-01 20:13:51 | 8-K - DANA Inc (0000026780) (Filer) | 2025-08-01T16:11:06-04:00 | https://www.sec.gov/Archives/edgar/data/26780/000095014225002072/0000950142-25-002072.txt
+2025-08-01 20:13:54 | 8-K - Perspective Therapeutics, Inc. (0000728387) (Filer) | 2025-08-01T16:07:36-04:00 | https://www.sec.gov/Archives/edgar/data/728387/000095017025101414/0000950170-25-101414.txt
+2025-08-01 20:13:56 | 8-K - Oxford Square Capital Corp. (0001259429) (Filer) | 2025-08-01T16:05:55-04:00 | https://www.sec.gov/Archives/edgar/data/1259429/000121390025070608/0001213900-25-070608.txt
+2025-08-01 20:13:58 | 8-K - LAKELAND INDUSTRIES INC (0000798081) (Filer) | 2025-08-01T16:05:51-04:00 | https://www.sec.gov/Archives/edgar/data/798081/000165495425008858/0001654954-25-008858.txt
+2025-08-01 20:14:00 | 8-K - Twin Vee PowerCats, Co. (0001855509) (Filer) | 2025-08-01T16:05:46-04:00 | https://www.sec.gov/Archives/edgar/data/1855509/000173112225001060/0001731122-25-001060.txt
+2025-08-01 20:14:02 | 8-K - NEXGEL, INC. (0001468929) (Filer) | 2025-08-01T16:05:45-04:00 | https://www.sec.gov/Archives/edgar/data/1468929/000164117225021893/0001641172-25-021893.txt
