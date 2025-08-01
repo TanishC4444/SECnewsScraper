@@ -284,3 +284,5 @@
 2025-08-01 18:57:46 | Witteveen Merel | Former Officer | Shares: 14642 | Value: $334,549.2 | Percent: 0.011187% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000200731725000775/0002007317-25-000775.txt
 2025-08-01 19:31:39 | COZADD BRUCE C | Officer | Shares: 9000 | Value: $1,096,210.0 | Percent: 0.014603% | Link: https://www.sec.gov/Archives/edgar/data/1232524/000200731725000777/0002007317-25-000777.txt
 2025-08-01 19:31:40 | COZADD BRUCE C | Officer | Shares: 9000 | Value: $1,096,210.0 | Percent: 0.014603% | Link: https://www.sec.gov/Archives/edgar/data/1193210/000200731725000777/0002007317-25-000777.txt
+2025-08-01 19:44:12 | Lowsley Denise | Officer | Shares: 5626 | Value: $946,032.72 | Percent: 0.015728% | Link: https://www.sec.gov/Archives/edgar/data/1572984/000195917325004882/0001959173-25-004882.txt
+2025-08-01 19:44:13 | Lowsley Denise | Officer | Shares: 5626 | Value: $946,032.72 | Percent: 0.015728% | Link: https://www.sec.gov/Archives/edgar/data/944695/000195917325004882/0001959173-25-004882.txt
