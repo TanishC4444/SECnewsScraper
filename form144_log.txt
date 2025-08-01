@@ -302,3 +302,9 @@
 2025-08-01 20:53:46 | Hannover Holdings S.A. | Affiliate | Shares: 33296 | Value: $110,995.0 | Percent: 0.036780% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000658/0001968582-25-000658.txt
 2025-08-01 20:53:48 | JOHN LETO | Officer | Shares: 50000 | Value: $3,017,410.0 | Percent: 0.107044% | Link: https://www.sec.gov/Archives/edgar/data/1681776/000195004725005361/0001950047-25-005361.txt
 2025-08-01 20:53:49 | JOHN LETO | Officer | Shares: 50000 | Value: $3,017,410.0 | Percent: 0.107044% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000195004725005361/0001950047-25-005361.txt
+2025-08-01 21:12:34 | MARISA CARONA | Officer | Shares: 11938 | Value: $4,421,109.34 | Percent: 0.042752% | Link: https://www.sec.gov/Archives/edgar/data/1848776/000195004725005367/0001950047-25-005367.txt
+2025-08-01 21:12:35 | MARISA CARONA | Officer | Shares: 11938 | Value: $4,421,109.34 | Percent: 0.042752% | Link: https://www.sec.gov/Archives/edgar/data/1636222/000195004725005367/0001950047-25-005367.txt
+2025-08-01 21:12:36 | Digital Currency Group, Inc. | Affiliate | Shares: 13734 | Value: $10,025.82 | Percent: 0.120209% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000092/0001652536-25-000092.txt
+2025-08-01 21:12:37 | Digital Currency Group, Inc. | Affiliate | Shares: 13734 | Value: $10,025.82 | Percent: 0.120209% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000092/0001652536-25-000092.txt
+2025-08-01 21:12:38 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,049,777.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000860/0001921094-25-000860.txt
+2025-08-01 21:12:39 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,049,777.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000860/0001921094-25-000860.txt
