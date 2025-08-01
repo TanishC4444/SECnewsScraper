@@ -274,3 +274,5 @@
 2025-08-01 17:45:15 | Merilee Buckley | Officer | Shares: 5817 | Value: $349,020.0 | Percent: 0.005869% | Link: https://www.sec.gov/Archives/edgar/data/1370637/000196922325000546/0001969223-25-000546.txt
 2025-08-01 17:45:16 | Melissa Reiff | Director | Shares: 6909 | Value: $414,540.0 | Percent: 0.006971% | Link: https://www.sec.gov/Archives/edgar/data/1589723/000196922325000545/0001969223-25-000545.txt
 2025-08-01 17:45:16 | Melissa Reiff | Director | Shares: 6909 | Value: $414,540.0 | Percent: 0.006971% | Link: https://www.sec.gov/Archives/edgar/data/1370637/000196922325000545/0001969223-25-000545.txt
+2025-08-01 17:57:55 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $10,589,146.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000197325125000051/0001973251-25-000051.txt
+2025-08-01 17:57:56 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $10,589,146.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000051/0001973251-25-000051.txt
