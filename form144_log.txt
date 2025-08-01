@@ -244,3 +244,5 @@
 2025-07-31 22:45:27 | Mark E. Jones | Executive Chairman | Shares: 300000 | Value: $27,435,000.0 | Percent: 1.183387% | Link: https://www.sec.gov/Archives/edgar/data/1726978/000196858225000648/0001968582-25-000648.txt
 2025-08-01 11:23:24 | Bussy Nir | Officer | Shares: 27858 | Value: $80,091.75 | Percent: 0.343749% | Link: https://www.sec.gov/Archives/edgar/data/2054654/000197640825000250/0001976408-25-000250.txt
 2025-08-01 11:23:25 | Bussy Nir | Officer | Shares: 27858 | Value: $80,091.75 | Percent: 0.343749% | Link: https://www.sec.gov/Archives/edgar/data/1872964/000197640825000250/0001976408-25-000250.txt
+2025-08-01 12:58:49 | MCNALLY KATHLEEN | Officer | Shares: 10253 | Value: $106,631.0 | Percent: 0.082941% | Link: https://www.sec.gov/Archives/edgar/data/1191361/000195917325004852/0001959173-25-004852.txt
+2025-08-01 12:58:50 | MCNALLY KATHLEEN | Officer | Shares: 10253 | Value: $106,631.0 | Percent: 0.082941% | Link: https://www.sec.gov/Archives/edgar/data/355948/000195917325004852/0001959173-25-004852.txt
