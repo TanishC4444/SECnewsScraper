@@ -328,3 +328,5 @@
 2025-08-01 22:19:31 | SUMNER WARING | Officer | Shares: 56100 | Value: $4,295,391.87 | Percent: 0.040003% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005375/0001950047-25-005375.txt
 2025-08-01 23:35:57 | BAN SENG TEH | Officer | Shares: 5905 | Value: $915,275.0 | Percent: 0.002777% | Link: https://www.sec.gov/Archives/edgar/data/1801425/000195004725005376/0001950047-25-005376.txt
 2025-08-01 23:35:57 | BAN SENG TEH | Officer | Shares: 5905 | Value: $915,275.0 | Percent: 0.002777% | Link: https://www.sec.gov/Archives/edgar/data/1137789/000195004725005376/0001950047-25-005376.txt
+2025-08-01 23:58:37 | STETZ MATTIAS | Officer | Shares: 30000 | Value: $579,117.0 | Percent: 0.031728% | Link: https://www.sec.gov/Archives/edgar/data/1835040/000200731725000783/0002007317-25-000783.txt
+2025-08-01 23:58:37 | STETZ MATTIAS | Officer | Shares: 30000 | Value: $579,117.0 | Percent: 0.031728% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725000783/0002007317-25-000783.txt
