@@ -258,3 +258,13 @@
 2025-08-01 15:31:57 | MOEHN MICHAEL L | Officer | Shares: 6500 | Value: $666,510.0 | Percent: 0.002405% | Link: https://www.sec.gov/Archives/edgar/data/1002910/000195917325004870/0001959173-25-004870.txt
 2025-08-01 15:49:21 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,323,783.58 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1834366/000200731725000770/0002007317-25-000770.txt
 2025-08-01 15:49:22 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,323,783.58 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725000770/0002007317-25-000770.txt
+2025-08-01 16:36:57 | Meaney William L | Officer | Shares: 69125 | Value: $6,718,950.0 | Percent: 0.023429% | Link: https://www.sec.gov/Archives/edgar/data/1566391/000195917325004877/0001959173-25-004877.txt
+2025-08-01 16:36:59 | Meaney William L | Officer | Shares: 69125 | Value: $6,718,950.0 | Percent: 0.023429% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325004877/0001959173-25-004877.txt
+2025-08-01 16:37:01 | DeRowe Olek | Officer | Shares: 30000 | Value: $1,891,200.0 | Percent: 0.064226% | Link: https://www.sec.gov/Archives/edgar/data/1912463/000195917325004876/0001959173-25-004876.txt
+2025-08-01 16:37:02 | DeRowe Olek | Officer | Shares: 30000 | Value: $1,891,200.0 | Percent: 0.064226% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000195917325004876/0001959173-25-004876.txt
+2025-08-01 16:37:04 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,160,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1979088/000195917325004875/0001959173-25-004875.txt
+2025-08-01 16:37:06 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,160,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325004875/0001959173-25-004875.txt
+2025-08-01 16:37:08 | NAYLOR JEFFREY G | Director | Shares: 10000 | Value: $675,000.0 | Percent: 0.002688% | Link: https://www.sec.gov/Archives/edgar/data/1601712/000195917325004874/0001959173-25-004874.txt
+2025-08-01 16:37:09 | NAYLOR JEFFREY G | Director | Shares: 10000 | Value: $675,000.0 | Percent: 0.002688% | Link: https://www.sec.gov/Archives/edgar/data/1191210/000195917325004874/0001959173-25-004874.txt
+2025-08-01 16:37:11 | Vidal Daniel | Officer | Shares: 9000 | Value: $17,579.57 | Percent: 0.011194% | Link: https://www.sec.gov/Archives/edgar/data/1891862/000200731725000771/0002007317-25-000771.txt
+2025-08-01 16:37:12 | Vidal Daniel | Officer | Shares: 9000 | Value: $17,579.57 | Percent: 0.011194% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000200731725000771/0002007317-25-000771.txt
