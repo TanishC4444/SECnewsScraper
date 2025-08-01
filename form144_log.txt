@@ -308,3 +308,11 @@
 2025-08-01 21:12:37 | Digital Currency Group, Inc. | Affiliate | Shares: 13734 | Value: $10,025.82 | Percent: 0.120209% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000092/0001652536-25-000092.txt
 2025-08-01 21:12:38 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,049,777.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000860/0001921094-25-000860.txt
 2025-08-01 21:12:39 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,049,777.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000860/0001921094-25-000860.txt
+2025-08-01 21:33:13 | CAFARO DEBRA A | Officer | Shares: 10322 | Value: $695,722.37 | Percent: 0.002271% | Link: https://www.sec.gov/Archives/edgar/data/1215188/000196430625000299/0001964306-25-000299.txt
+2025-08-01 21:33:14 | CAFARO DEBRA A | Officer | Shares: 10322 | Value: $695,722.37 | Percent: 0.002271% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000299/0001964306-25-000299.txt
+2025-08-01 21:33:15 | STEVE THOMPSON | Officer | Shares: 15906 | Value: $1,324,225.4 | Percent: 0.019837% | Link: https://www.sec.gov/Archives/edgar/data/1664330/000195004725005369/0001950047-25-005369.txt
+2025-08-01 21:33:16 | STEVE THOMPSON | Officer | Shares: 15906 | Value: $1,324,225.4 | Percent: 0.019837% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195004725005369/0001950047-25-005369.txt
+2025-08-01 21:33:18 | Klurfeld Jason | Officer | Shares: 5500 | Value: $1,572,154.25 | Percent: 0.014227% | Link: https://www.sec.gov/Archives/edgar/data/1729982/000196430625000298/0001964306-25-000298.txt
+2025-08-01 21:33:19 | Klurfeld Jason | Officer | Shares: 5500 | Value: $1,572,154.25 | Percent: 0.014227% | Link: https://www.sec.gov/Archives/edgar/data/1360901/000196430625000298/0001964306-25-000298.txt
+2025-08-01 21:33:20 | Theodore Bogich | Officer | Shares: 16497 | Value: $1,372,243.56 | Percent: 0.020574% | Link: https://www.sec.gov/Archives/edgar/data/1664714/000195004725005368/0001950047-25-005368.txt
+2025-08-01 21:33:20 | Theodore Bogich | Officer | Shares: 16497 | Value: $1,372,243.56 | Percent: 0.020574% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195004725005368/0001950047-25-005368.txt
