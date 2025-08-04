@@ -362,3 +362,7 @@
 2025-08-04 19:25:03 | Wong Andrea L | Director | Shares: 5770 | Value: $747,242.49 | Percent: 0.000895% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325004909/0001959173-25-004909.txt
 2025-08-04 19:25:06 | Paddock David | Officer | Shares: 6170 | Value: $1,926,644.82 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/2018088/000195917325004908/0001959173-25-004908.txt
 2025-08-04 19:25:07 | Paddock David | Officer | Shares: 6170 | Value: $1,926,644.82 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/40533/000195917325004908/0001959173-25-004908.txt
+2025-08-04 19:51:03 | Guarini George J. | Officer | Shares: 27877 | Value: $758,533.17 | Percent: 0.250464% | Link: https://www.sec.gov/Archives/edgar/data/1738193/000194984625000338/0001949846-25-000338.txt
+2025-08-04 19:51:04 | Guarini George J. | Officer | Shares: 27877 | Value: $758,533.17 | Percent: 0.250464% | Link: https://www.sec.gov/Archives/edgar/data/1730984/000194984625000338/0001949846-25-000338.txt
+2025-08-04 19:51:06 | Watanabe Todd | Officer | Shares: 11547 | Value: $165,429.0 | Percent: 0.009687% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000200731725000788/0002007317-25-000788.txt
+2025-08-04 19:51:06 | Watanabe Todd | Officer | Shares: 11547 | Value: $165,429.0 | Percent: 0.009687% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725000788/0002007317-25-000788.txt
