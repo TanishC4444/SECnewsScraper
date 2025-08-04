@@ -384,3 +384,11 @@
 2025-08-04 20:50:08 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $504,739.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000669/0001968582-25-000669.txt
 2025-08-04 20:50:10 | Hagedorn Partnership, L.P. | 10% Stockholder | Shares: 70000 | Value: $4,349,421.0 | Percent: 0.121286% | Link: https://www.sec.gov/Archives/edgar/data/945527/000200731725000794/0002007317-25-000794.txt
 2025-08-04 20:50:11 | Hagedorn Partnership, L.P. | 10% Stockholder | Shares: 70000 | Value: $4,349,421.0 | Percent: 0.121286% | Link: https://www.sec.gov/Archives/edgar/data/825542/000200731725000794/0002007317-25-000794.txt
+2025-08-04 20:59:12 | TAHL CINDY | Officer | Shares: 9037 | Value: $9,572.89 | Percent: 0.007883% | Link: https://www.sec.gov/Archives/edgar/data/1655472/000195917325004933/0001959173-25-004933.txt
+2025-08-04 20:59:12 | TAHL CINDY | Officer | Shares: 9037 | Value: $9,572.89 | Percent: 0.007883% | Link: https://www.sec.gov/Archives/edgar/data/1434316/000195917325004933/0001959173-25-004933.txt
+2025-08-04 20:59:14 | JULIE ANNE LOEGER | Officer | Shares: 75952 | Value: $7,082,372.1 | Percent: 0.016620% | Link: https://www.sec.gov/Archives/edgar/data/1641126/000195004725005422/0001950047-25-005422.txt
+2025-08-04 20:59:14 | JULIE ANNE LOEGER | Officer | Shares: 75952 | Value: $7,082,372.1 | Percent: 0.016620% | Link: https://www.sec.gov/Archives/edgar/data/1065088/000195004725005422/0001950047-25-005422.txt
+2025-08-04 20:59:15 | Mansueto Joseph D | Officer | Shares: 100000 | Value: $27,277,470.0 | Percent: 0.237092% | Link: https://www.sec.gov/Archives/edgar/data/1324069/000192109425000872/0001921094-25-000872.txt
+2025-08-04 20:59:16 | Mansueto Joseph D | Officer | Shares: 100000 | Value: $27,277,470.0 | Percent: 0.237092% | Link: https://www.sec.gov/Archives/edgar/data/1289419/000192109425000872/0001921094-25-000872.txt
+2025-08-04 20:59:17 | DOWNES SEAN P | Director | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000230/0001974078-25-000230.txt
+2025-08-04 20:59:18 | DOWNES SEAN P | Director | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000230/0001974078-25-000230.txt
