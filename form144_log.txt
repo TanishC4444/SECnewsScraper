@@ -394,3 +394,11 @@
 2025-08-04 20:59:18 | DOWNES SEAN P | Director | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000230/0001974078-25-000230.txt
 2025-08-04 21:27:28 | James H. Graves | Affiliate | Shares: 6000 | Value: $786,480.0 | Percent: 0.013524% | Link: https://www.sec.gov/Archives/edgar/data/1168703/000196858225000671/0001968582-25-000671.txt
 2025-08-04 21:27:29 | James H. Graves | Affiliate | Shares: 6000 | Value: $786,480.0 | Percent: 0.013524% | Link: https://www.sec.gov/Archives/edgar/data/840489/000196858225000671/0001968582-25-000671.txt
+2025-08-04 21:44:48 | Douglas Cifu | Affiliate | Shares: 788061 | Value: $34,178,205.57 | Percent: 0.931760% | Link: https://www.sec.gov/Archives/edgar/data/1592386/000196858225000673/0001968582-25-000673.txt
+2025-08-04 21:44:49 | Douglas Cifu | Affiliate | Shares: 788061 | Value: $34,178,205.57 | Percent: 0.931760% | Link: https://www.sec.gov/Archives/edgar/data/1573283/000196858225000673/0001968582-25-000673.txt
+2025-08-04 21:44:50 | Matthew Blake McRae | Officer | Shares: 14288 | Value: $227,193.0 | Percent: 0.013818% | Link: https://www.sec.gov/Archives/edgar/data/1736946/000162828025037499/0001628280-25-037499.txt
+2025-08-04 21:44:52 | Matthew Blake McRae | Officer | Shares: 14288 | Value: $227,193.0 | Percent: 0.013818% | Link: https://www.sec.gov/Archives/edgar/data/1654733/000162828025037499/0001628280-25-037499.txt
+2025-08-04 21:44:54 | Probst Robert F | Officer | Shares: 29691 | Value: $2,033,586.8 | Percent: 0.006533% | Link: https://www.sec.gov/Archives/edgar/data/1531510/000200731725000797/0002007317-25-000797.txt
+2025-08-04 21:44:55 | Probst Robert F | Officer | Shares: 29691 | Value: $2,033,586.8 | Percent: 0.006533% | Link: https://www.sec.gov/Archives/edgar/data/740260/000200731725000797/0002007317-25-000797.txt
+2025-08-04 21:44:57 | Jordan Schur | Former Affiliate (Affiliate of Ex 10% Owner SHOT) | Shares: 818000 | Value: $6,192,260.0 | Percent: 2.444125% | Link: https://www.sec.gov/Archives/edgar/data/2019002/000164117225022089/0001641172-25-022089.txt
+2025-08-04 21:44:58 | Jordan Schur | Former Affiliate (Affiliate of Ex 10% Owner SHOT) | Shares: 818000 | Value: $6,192,260.0 | Percent: 2.444125% | Link: https://www.sec.gov/Archives/edgar/data/1956744/000164117225022089/0001641172-25-022089.txt
