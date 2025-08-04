@@ -392,3 +392,5 @@
 2025-08-04 20:59:16 | Mansueto Joseph D | Officer | Shares: 100000 | Value: $27,277,470.0 | Percent: 0.237092% | Link: https://www.sec.gov/Archives/edgar/data/1289419/000192109425000872/0001921094-25-000872.txt
 2025-08-04 20:59:17 | DOWNES SEAN P | Director | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000230/0001974078-25-000230.txt
 2025-08-04 20:59:18 | DOWNES SEAN P | Director | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000230/0001974078-25-000230.txt
+2025-08-04 21:27:28 | James H. Graves | Affiliate | Shares: 6000 | Value: $786,480.0 | Percent: 0.013524% | Link: https://www.sec.gov/Archives/edgar/data/1168703/000196858225000671/0001968582-25-000671.txt
+2025-08-04 21:27:29 | James H. Graves | Affiliate | Shares: 6000 | Value: $786,480.0 | Percent: 0.013524% | Link: https://www.sec.gov/Archives/edgar/data/840489/000196858225000671/0001968582-25-000671.txt
