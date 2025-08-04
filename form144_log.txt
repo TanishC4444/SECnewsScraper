@@ -338,3 +338,7 @@
 2025-08-04 14:49:26 | Robusto Dino | Officer | Shares: 6250 | Value: $281,250.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325004888/0001959173-25-004888.txt
 2025-08-04 15:53:02 | Lammers Jon D. | Officer | Shares: 119694 | Value: $10,709,848.5 | Percent: 0.074368% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325004895/0001959173-25-004895.txt
 2025-08-04 15:53:03 | Lammers Jon D. | Officer | Shares: 119694 | Value: $10,709,848.5 | Percent: 0.074368% | Link: https://www.sec.gov/Archives/edgar/data/1554944/000195917325004895/0001959173-25-004895.txt
+2025-08-04 16:15:08 | Parker Herbert K | Director | Shares: 20597 | Value: $1,851,354.0 | Percent: 0.012797% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325004897/0001959173-25-004897.txt
+2025-08-04 16:15:09 | Parker Herbert K | Director | Shares: 20597 | Value: $1,851,354.0 | Percent: 0.012797% | Link: https://www.sec.gov/Archives/edgar/data/1436496/000195917325004897/0001959173-25-004897.txt
+2025-08-04 16:15:10 | WALLACE MICHAEL W | Officer | Shares: 10000 | Value: $183,600.0 | Percent: 0.048565% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000336/0001949846-25-000336.txt
+2025-08-04 16:15:11 | WALLACE MICHAEL W | Officer | Shares: 10000 | Value: $183,600.0 | Percent: 0.048565% | Link: https://www.sec.gov/Archives/edgar/data/1070123/000194984625000336/0001949846-25-000336.txt
