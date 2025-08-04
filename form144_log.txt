@@ -332,3 +332,5 @@
 2025-08-01 23:58:37 | STETZ MATTIAS | Officer | Shares: 30000 | Value: $579,117.0 | Percent: 0.031728% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725000783/0002007317-25-000783.txt
 2025-08-04 10:45:36 | Chun Yin Ling | Director | Shares: 800000 | Value: $2,208,000.0 | Percent: 1.834943% | Link: https://www.sec.gov/Archives/edgar/data/2079750/000121390025070856/0001213900-25-070856.txt
 2025-08-04 10:45:36 | Chun Yin Ling | Director | Shares: 800000 | Value: $2,208,000.0 | Percent: 1.834943% | Link: https://www.sec.gov/Archives/edgar/data/1948443/000121390025070856/0001213900-25-070856.txt
+2025-08-04 14:19:19 | Malloy Lavell Juan II | Officer | Shares: 32000 | Value: $39,040.0 | Percent: 0.295678% | Link: https://www.sec.gov/Archives/edgar/data/1999220/000194984625000335/0001949846-25-000335.txt
+2025-08-04 14:19:20 | Malloy Lavell Juan II | Officer | Shares: 32000 | Value: $39,040.0 | Percent: 0.295678% | Link: https://www.sec.gov/Archives/edgar/data/1903595/000194984625000335/0001949846-25-000335.txt
