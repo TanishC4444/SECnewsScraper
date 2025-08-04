@@ -348,3 +348,5 @@
 2025-08-04 17:14:26 | Costello Beth Ann | Officer | Shares: 35340 | Value: $4,364,490.0 | Percent: 0.012569% | Link: https://www.sec.gov/Archives/edgar/data/874766/000195917325004900/0001959173-25-004900.txt
 2025-08-04 17:14:28 | Hagen Erin | Officer | Shares: 5043 | Value: $157,240.74 | Percent: 0.002725% | Link: https://www.sec.gov/Archives/edgar/data/2022960/000195917325004899/0001959173-25-004899.txt
 2025-08-04 17:14:29 | Hagen Erin | Officer | Shares: 5043 | Value: $157,240.74 | Percent: 0.002725% | Link: https://www.sec.gov/Archives/edgar/data/866291/000195917325004899/0001959173-25-004899.txt
+2025-08-04 17:57:02 | Choi Justin C | Officer | Shares: 334515 | Value: $5,552,949.0 | Percent: 0.151005% | Link: https://www.sec.gov/Archives/edgar/data/1517228/000195917325004902/0001959173-25-004902.txt
+2025-08-04 17:57:03 | Choi Justin C | Officer | Shares: 334515 | Value: $5,552,949.0 | Percent: 0.151005% | Link: https://www.sec.gov/Archives/edgar/data/1355816/000195917325004902/0001959173-25-004902.txt
