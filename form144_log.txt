@@ -406,3 +406,5 @@
 2025-08-04 22:15:57 | Mohammad Abu Gahzaleh | Former Affiliate | Shares: 188070 | Value: $7,013,130.0 | Percent: 0.392017% | Link: https://www.sec.gov/Archives/edgar/data/1047340/000196858225000675/0001968582-25-000675.txt
 2025-08-04 22:15:59 | SVEN ANTE LUNDBERG | Director | Shares: 29432 | Value: $61,589.4 | Percent: 0.023553% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000195004725005423/0001950047-25-005423.txt
 2025-08-04 22:15:59 | SVEN ANTE LUNDBERG | Director | Shares: 29432 | Value: $61,589.4 | Percent: 0.023553% | Link: https://www.sec.gov/Archives/edgar/data/1682126/000195004725005423/0001950047-25-005423.txt
+2025-08-04 22:42:32 | Howson Dave | Former Officer | Shares: 6100 | Value: $1,513,654.0 | Percent: 0.005832% | Link: https://www.sec.gov/Archives/edgar/data/1797922/000195917325004940/0001959173-25-004940.txt
+2025-08-04 22:42:33 | Howson Dave | Former Officer | Shares: 6100 | Value: $1,513,654.0 | Percent: 0.005832% | Link: https://www.sec.gov/Archives/edgar/data/1374310/000195917325004940/0001959173-25-004940.txt
