@@ -356,3 +356,9 @@
 2025-08-04 18:33:23 | Hicks Zackery A | Officer | Shares: 15038 | Value: $2,005,667.44 | Percent: 0.004532% | Link: https://www.sec.gov/Archives/edgar/data/55785/000200731725000784/0002007317-25-000784.txt
 2025-08-04 18:59:06 | Medway Richard A. | Officer | Shares: 15000 | Value: $172,200.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1977271/000195917325004904/0001959173-25-004904.txt
 2025-08-04 18:59:07 | Medway Richard A. | Officer | Shares: 15000 | Value: $172,200.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325004904/0001959173-25-004904.txt
+2025-08-04 19:24:59 | Desmond Sean | Officer | Shares: 9550 | Value: $262,101.66 | Percent: 0.008237% | Link: https://www.sec.gov/Archives/edgar/data/1902733/000195917325004912/0001959173-25-004912.txt
+2025-08-04 19:25:00 | Desmond Sean | Officer | Shares: 9550 | Value: $262,101.66 | Percent: 0.008237% | Link: https://www.sec.gov/Archives/edgar/data/1815194/000195917325004912/0001959173-25-004912.txt
+2025-08-04 19:25:01 | Wong Andrea L | Director | Shares: 5770 | Value: $747,242.49 | Percent: 0.000895% | Link: https://www.sec.gov/Archives/edgar/data/1490754/000195917325004909/0001959173-25-004909.txt
+2025-08-04 19:25:03 | Wong Andrea L | Director | Shares: 5770 | Value: $747,242.49 | Percent: 0.000895% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325004909/0001959173-25-004909.txt
+2025-08-04 19:25:06 | Paddock David | Officer | Shares: 6170 | Value: $1,926,644.82 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/2018088/000195917325004908/0001959173-25-004908.txt
+2025-08-04 19:25:07 | Paddock David | Officer | Shares: 6170 | Value: $1,926,644.82 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/40533/000195917325004908/0001959173-25-004908.txt
