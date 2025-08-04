@@ -354,3 +354,5 @@
 2025-08-04 18:33:19 | Mertz Elinor | Officer | Shares: 6250 | Value: $806,875.0 | Percent: 0.001448% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325004903/0001959173-25-004903.txt
 2025-08-04 18:33:21 | Hicks Zackery A | Officer | Shares: 15038 | Value: $2,005,667.44 | Percent: 0.004532% | Link: https://www.sec.gov/Archives/edgar/data/1757126/000200731725000784/0002007317-25-000784.txt
 2025-08-04 18:33:23 | Hicks Zackery A | Officer | Shares: 15038 | Value: $2,005,667.44 | Percent: 0.004532% | Link: https://www.sec.gov/Archives/edgar/data/55785/000200731725000784/0002007317-25-000784.txt
+2025-08-04 18:59:06 | Medway Richard A. | Officer | Shares: 15000 | Value: $172,200.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1977271/000195917325004904/0001959173-25-004904.txt
+2025-08-04 18:59:07 | Medway Richard A. | Officer | Shares: 15000 | Value: $172,200.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325004904/0001959173-25-004904.txt
