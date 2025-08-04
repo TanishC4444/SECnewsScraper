@@ -366,3 +366,13 @@
 2025-08-04 19:51:04 | Guarini George J. | Officer | Shares: 27877 | Value: $758,533.17 | Percent: 0.250464% | Link: https://www.sec.gov/Archives/edgar/data/1730984/000194984625000338/0001949846-25-000338.txt
 2025-08-04 19:51:06 | Watanabe Todd | Officer | Shares: 11547 | Value: $165,429.0 | Percent: 0.009687% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000200731725000788/0002007317-25-000788.txt
 2025-08-04 19:51:06 | Watanabe Todd | Officer | Shares: 11547 | Value: $165,429.0 | Percent: 0.009687% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725000788/0002007317-25-000788.txt
+2025-08-04 20:33:31 | Philip Jasper | Officer | Shares: 12847 | Value: $2,022,000.0 | Percent: 0.000960% | Link: https://www.sec.gov/Archives/edgar/data/1559248/000196922325000556/0001969223-25-000556.txt
+2025-08-04 20:33:32 | Philip Jasper | Officer | Shares: 12847 | Value: $2,022,000.0 | Percent: 0.000960% | Link: https://www.sec.gov/Archives/edgar/data/101829/000196922325000556/0001969223-25-000556.txt
+2025-08-04 20:33:34 | DANIEL MCGAHN | Officer | Shares: 100849 | Value: $5,495,574.64 | Percent: 0.223310% | Link: https://www.sec.gov/Archives/edgar/data/1425153/000195004725005417/0001950047-25-005417.txt
+2025-08-04 20:33:36 | DANIEL MCGAHN | Officer | Shares: 100849 | Value: $5,495,574.64 | Percent: 0.223310% | Link: https://www.sec.gov/Archives/edgar/data/880807/000195004725005417/0001950047-25-005417.txt
+2025-08-04 20:33:38 | DANIEL P KRUEGER | Officer | Shares: 5930 | Value: $659,031.74 | Percent: 0.001842% | Link: https://www.sec.gov/Archives/edgar/data/1762620/000195004725005416/0001950047-25-005416.txt
+2025-08-04 20:33:39 | DANIEL P KRUEGER | Officer | Shares: 5930 | Value: $659,031.74 | Percent: 0.001842% | Link: https://www.sec.gov/Archives/edgar/data/783325/000195004725005416/0001950047-25-005416.txt
+2025-08-04 20:33:42 | Braeside Investments, LLC | Affiliate of Director (1) | Shares: 147885 | Value: $2,737,351.35 | Percent: 0.718205% | Link: https://www.sec.gov/Archives/edgar/data/1427683/000131586325000559/0001315863-25-000559.txt
+2025-08-04 20:33:43 | Braeside Investments, LLC | Affiliate of Director (1) | Shares: 147885 | Value: $2,737,351.35 | Percent: 0.718205% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000131586325000559/0001315863-25-000559.txt
+2025-08-04 20:33:45 | Flammer Martina M.D. | Officer | Shares: 8715 | Value: $954,031.0 | Percent: 0.004785% | Link: https://www.sec.gov/Archives/edgar/data/1796960/000200731725000789/0002007317-25-000789.txt
+2025-08-04 20:33:46 | Flammer Martina M.D. | Officer | Shares: 8715 | Value: $954,031.0 | Percent: 0.004785% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725000789/0002007317-25-000789.txt
