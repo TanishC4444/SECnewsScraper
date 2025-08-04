@@ -342,3 +342,5 @@
 2025-08-04 16:15:09 | Parker Herbert K | Director | Shares: 20597 | Value: $1,851,354.0 | Percent: 0.012797% | Link: https://www.sec.gov/Archives/edgar/data/1436496/000195917325004897/0001959173-25-004897.txt
 2025-08-04 16:15:10 | WALLACE MICHAEL W | Officer | Shares: 10000 | Value: $183,600.0 | Percent: 0.048565% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000336/0001949846-25-000336.txt
 2025-08-04 16:15:11 | WALLACE MICHAEL W | Officer | Shares: 10000 | Value: $183,600.0 | Percent: 0.048565% | Link: https://www.sec.gov/Archives/edgar/data/1070123/000194984625000336/0001949846-25-000336.txt
+2025-08-04 16:49:38 | Rice Calvin | Officer | Shares: 7457 | Value: $139,667.0 | Percent: 0.036215% | Link: https://www.sec.gov/Archives/edgar/data/1757839/000194984625000337/0001949846-25-000337.txt
+2025-08-04 16:49:39 | Rice Calvin | Officer | Shares: 7457 | Value: $139,667.0 | Percent: 0.036215% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000337/0001949846-25-000337.txt
