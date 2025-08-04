@@ -402,3 +402,7 @@
 2025-08-04 21:44:55 | Probst Robert F | Officer | Shares: 29691 | Value: $2,033,586.8 | Percent: 0.006533% | Link: https://www.sec.gov/Archives/edgar/data/740260/000200731725000797/0002007317-25-000797.txt
 2025-08-04 21:44:57 | Jordan Schur | Former Affiliate (Affiliate of Ex 10% Owner SHOT) | Shares: 818000 | Value: $6,192,260.0 | Percent: 2.444125% | Link: https://www.sec.gov/Archives/edgar/data/2019002/000164117225022089/0001641172-25-022089.txt
 2025-08-04 21:44:58 | Jordan Schur | Former Affiliate (Affiliate of Ex 10% Owner SHOT) | Shares: 818000 | Value: $6,192,260.0 | Percent: 2.444125% | Link: https://www.sec.gov/Archives/edgar/data/1956744/000164117225022089/0001641172-25-022089.txt
+2025-08-04 22:15:56 | Mohammad Abu Gahzaleh | Former Affiliate | Shares: 188070 | Value: $7,013,130.0 | Percent: 0.392017% | Link: https://www.sec.gov/Archives/edgar/data/1418036/000196858225000675/0001968582-25-000675.txt
+2025-08-04 22:15:57 | Mohammad Abu Gahzaleh | Former Affiliate | Shares: 188070 | Value: $7,013,130.0 | Percent: 0.392017% | Link: https://www.sec.gov/Archives/edgar/data/1047340/000196858225000675/0001968582-25-000675.txt
+2025-08-04 22:15:59 | SVEN ANTE LUNDBERG | Director | Shares: 29432 | Value: $61,589.4 | Percent: 0.023553% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000195004725005423/0001950047-25-005423.txt
+2025-08-04 22:15:59 | SVEN ANTE LUNDBERG | Director | Shares: 29432 | Value: $61,589.4 | Percent: 0.023553% | Link: https://www.sec.gov/Archives/edgar/data/1682126/000195004725005423/0001950047-25-005423.txt
