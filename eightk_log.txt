@@ -614,3 +614,7 @@
 2025-08-04 10:45:32 | 8-K - Crown Electrokinetics Corp. (0001761696) (Filer) | 2025-08-04T06:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1761696/000121390025070862/0001213900-25-070862.txt
 2025-08-04 10:45:34 | 8-K - Emerald Holding, Inc. (0001579214) (Filer) | 2025-08-04T06:25:33-04:00 | https://www.sec.gov/Archives/edgar/data/1579214/000095017025101601/0000950170-25-101601.txt
 2025-08-04 10:45:35 | 8-K - CNA FINANCIAL CORP (0000021175) (Filer) | 2025-08-04T06:13:54-04:00 | https://www.sec.gov/Archives/edgar/data/21175/000002117525000072/0000021175-25-000072.txt
+2025-08-04 11:00:10 | 8-K - Joby Aviation, Inc. (0001819848) (Filer) | 2025-08-04T06:59:43-04:00 | https://www.sec.gov/Archives/edgar/data/1819848/000181984825000490/0001819848-25-000490.txt
+2025-08-04 11:00:12 | 8-K - HARLEY-DAVIDSON, INC. (0000793952) (Filer) | 2025-08-04T06:55:14-04:00 | https://www.sec.gov/Archives/edgar/data/793952/000079395225000166/0000793952-25-000166.txt
+2025-08-04 11:00:14 | 8-K - Elme Communities (0000104894) (Filer) | 2025-08-04T06:53:26-04:00 | https://www.sec.gov/Archives/edgar/data/104894/000119312525172118/0001193125-25-172118.txt
+2025-08-04 11:00:17 | 8-K - DuPont de Nemours, Inc. (0001666700) (Filer) | 2025-08-04T06:50:41-04:00 | https://www.sec.gov/Archives/edgar/data/1666700/000166670025000035/0001666700-25-000035.txt
