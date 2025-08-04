@@ -651,3 +651,13 @@
 2025-08-04 12:22:27 | 8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer) | 2025-08-04T08:00:36-04:00 | https://www.sec.gov/Archives/edgar/data/813762/000110465925073382/0001104659-25-073382.txt
 2025-08-04 12:22:30 | 8-K - MICROSTRATEGY Inc (0001050446) (Filer) | 2025-08-04T08:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1050446/000095017025101634/0000950170-25-101634.txt
 2025-08-04 12:22:31 | 8-K - SunCoke Energy, Inc. (0001514705) (Filer) | 2025-08-04T08:00:18-04:00 | https://www.sec.gov/Archives/edgar/data/1514705/000151470525000021/0001514705-25-000021.txt
+2025-08-04 13:12:57 | 8-K - Grayscale Ethereum Trust ETF (0001725210) (Filer) | 2025-08-04T09:12:28-04:00 | https://www.sec.gov/Archives/edgar/data/1725210/000095017025101662/0000950170-25-101662.txt
+2025-08-04 13:12:59 | 8-K - Grayscale Bitcoin Mini Trust ETF (0002015034) (Filer) | 2025-08-04T09:12:09-04:00 | https://www.sec.gov/Archives/edgar/data/2015034/000095017025101661/0000950170-25-101661.txt
+2025-08-04 13:13:01 | 8-K - Grayscale Horizen Trust (ZEN) (0001748945) (Filer) | 2025-08-04T09:11:49-04:00 | https://www.sec.gov/Archives/edgar/data/1748945/000095017025101660/0000950170-25-101660.txt
+2025-08-04 13:13:03 | 8-K - Grayscale Litecoin Trust (LTC) (0001732406) (Filer) | 2025-08-04T09:11:23-04:00 | https://www.sec.gov/Archives/edgar/data/1732406/000095017025101658/0000950170-25-101658.txt
+2025-08-04 13:13:05 | 8-K - Dynamix Corp (0002028699) (Filer) | 2025-08-04T09:11:02-04:00 | https://www.sec.gov/Archives/edgar/data/2028699/000121390025070903/0001213900-25-070903.txt
+2025-08-04 13:13:06 | 8-K - Grayscale Stellar Lumens Trust (XLM) (0001761325) (Filer) | 2025-08-04T09:10:58-04:00 | https://www.sec.gov/Archives/edgar/data/1761325/000095017025101657/0000950170-25-101657.txt
+2025-08-04 13:13:12 | 8-K - HNI CORP (0000048287) (Filer) | 2025-08-04T09:10:50-04:00 | https://www.sec.gov/Archives/edgar/data/48287/000095010325009762/0000950103-25-009762.txt
+2025-08-04 13:13:14 | 8-K - Grayscale Bitcoin Cash Trust (BCH) (0001732409) (Filer) | 2025-08-04T09:10:42-04:00 | https://www.sec.gov/Archives/edgar/data/1732409/000095017025101656/0000950170-25-101656.txt
+2025-08-04 13:13:16 | 8-K - Grayscale Zcash Trust (ZEC) (0001720265) (Filer) | 2025-08-04T09:10:37-04:00 | https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655.txt
+2025-08-04 13:13:19 | 8-K - CF BANKSHARES INC. (0001070680) (Filer) | 2025-08-04T09:03:36-04:00 | https://www.sec.gov/Archives/edgar/data/1070680/000095017025101652/0000950170-25-101652.txt
