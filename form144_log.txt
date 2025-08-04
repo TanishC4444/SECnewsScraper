@@ -336,3 +336,5 @@
 2025-08-04 14:19:20 | Malloy Lavell Juan II | Officer | Shares: 32000 | Value: $39,040.0 | Percent: 0.295678% | Link: https://www.sec.gov/Archives/edgar/data/1903595/000194984625000335/0001949846-25-000335.txt
 2025-08-04 14:49:25 | Robusto Dino | Officer | Shares: 6250 | Value: $281,250.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/1348889/000195917325004888/0001959173-25-004888.txt
 2025-08-04 14:49:26 | Robusto Dino | Officer | Shares: 6250 | Value: $281,250.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325004888/0001959173-25-004888.txt
+2025-08-04 15:53:02 | Lammers Jon D. | Officer | Shares: 119694 | Value: $10,709,848.5 | Percent: 0.074368% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325004895/0001959173-25-004895.txt
+2025-08-04 15:53:03 | Lammers Jon D. | Officer | Shares: 119694 | Value: $10,709,848.5 | Percent: 0.074368% | Link: https://www.sec.gov/Archives/edgar/data/1554944/000195917325004895/0001959173-25-004895.txt
