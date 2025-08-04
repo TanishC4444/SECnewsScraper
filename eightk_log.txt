@@ -596,3 +596,13 @@
 2025-08-01 21:33:10 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-08-01T17:20:41-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125028427/0001140361-25-028427.txt
 2025-08-01 21:33:11 | 8-K - BlackRock TCP Capital Corp. (0001370755) (Filer) | 2025-08-01T17:18:52-04:00 | https://www.sec.gov/Archives/edgar/data/1370755/000113322825007947/0001133228-25-007947.txt
 2025-08-01 21:33:12 | 8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer) | 2025-08-01T17:18:46-04:00 | https://www.sec.gov/Archives/edgar/data/1950803/000119312525171781/0001193125-25-171781.txt
+2025-08-04 10:12:32 | 8-K - WATERS CORP /DE/ (0001000697) (Filer) | 2025-08-04T06:08:35-04:00 | https://www.sec.gov/Archives/edgar/data/1000697/000119312525172076/0001193125-25-172076.txt
+2025-08-04 10:12:34 | 8-K - SiriusPoint Ltd (0001576018) (Filer) | 2025-08-04T06:08:10-04:00 | https://www.sec.gov/Archives/edgar/data/1576018/000157601825000031/0001576018-25-000031.txt
+2025-08-04 10:12:36 | 8-K - LOEWS CORP (0000060086) (Filer) | 2025-08-04T06:04:48-04:00 | https://www.sec.gov/Archives/edgar/data/60086/000006008625000164/0000060086-25-000164.txt
+2025-08-04 10:12:37 | 8-K - Tesla, Inc. (0001318605) (Filer) | 2025-08-04T06:03:14-04:00 | https://www.sec.gov/Archives/edgar/data/1318605/000110465925073263/0001104659-25-073263.txt
+2025-08-04 10:12:38 | 8-K - DIAMONDHEAD CASINO CORP (0000844887) (Filer) | 2025-08-04T06:02:54-04:00 | https://www.sec.gov/Archives/edgar/data/844887/000164117225021981/0001641172-25-021981.txt
+2025-08-04 10:12:40 | 8-K - HighPeak Energy, Inc. (0001792849) (Filer) | 2025-08-04T06:01:33-04:00 | https://www.sec.gov/Archives/edgar/data/1792849/000143774925024452/0001437749-25-024452.txt
+2025-08-04 10:12:40 | 8-K/A - Forge Global Holdings, Inc. (0001827821) (Filer) | 2025-08-01T21:47:06-04:00 | https://www.sec.gov/Archives/edgar/data/1827821/000162828025037291/0001628280-25-037291.txt
+2025-08-04 10:12:42 | 8-K - Lazydays Holdings, Inc. (0001721741) (Filer) | 2025-08-01T20:03:58-04:00 | https://www.sec.gov/Archives/edgar/data/1721741/000164117225021971/0001641172-25-021971.txt
+2025-08-04 10:12:43 | 8-K - XCEL ENERGY INC (0000072903) (Filer) | 2025-08-01T19:23:41-04:00 | https://www.sec.gov/Archives/edgar/data/72903/000119312525171827/0001193125-25-171827.txt
+2025-08-04 10:12:45 | 8-K - Nexalin Technology, Inc. (0001527352) (Filer) | 2025-08-01T18:48:28-04:00 | https://www.sec.gov/Archives/edgar/data/1527352/000182912625005715/0001829126-25-005715.txt
