@@ -661,3 +661,11 @@
 2025-08-04 13:13:14 | 8-K - Grayscale Bitcoin Cash Trust (BCH) (0001732409) (Filer) | 2025-08-04T09:10:42-04:00 | https://www.sec.gov/Archives/edgar/data/1732409/000095017025101656/0000950170-25-101656.txt
 2025-08-04 13:13:16 | 8-K - Grayscale Zcash Trust (ZEC) (0001720265) (Filer) | 2025-08-04T09:10:37-04:00 | https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655.txt
 2025-08-04 13:13:19 | 8-K - CF BANKSHARES INC. (0001070680) (Filer) | 2025-08-04T09:03:36-04:00 | https://www.sec.gov/Archives/edgar/data/1070680/000095017025101652/0000950170-25-101652.txt
+2025-08-04 13:54:14 | 8-K - INSPIRE VETERINARY PARTNERS, INC. (0001939365) (Filer) | 2025-08-04T09:43:55-04:00 | https://www.sec.gov/Archives/edgar/data/1939365/000121390025070932/0001213900-25-070932.txt
+2025-08-04 13:54:15 | 8-K - AstroNova, Inc. (0000008146) (Filer) | 2025-08-04T09:29:46-04:00 | https://www.sec.gov/Archives/edgar/data/8146/000119312525172259/0001193125-25-172259.txt
+2025-08-04 13:54:17 | 8-K - Construction Partners, Inc. (0001718227) (Filer) | 2025-08-04T09:15:45-04:00 | https://www.sec.gov/Archives/edgar/data/1718227/000171822725000074/0001718227-25-000074.txt
+2025-08-04 13:54:19 | 8-K - STEELCASE INC (0001050825) (Filer) | 2025-08-04T09:14:05-04:00 | https://www.sec.gov/Archives/edgar/data/1050825/000119312525172239/0001193125-25-172239.txt
+2025-08-04 13:54:20 | 8-K - Grayscale Ethereum Classic Trust (ETC) (0001705181) (Filer) | 2025-08-04T09:14:00-04:00 | https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667.txt
+2025-08-04 13:54:20 | 8-K - Grayscale Digital Large Cap Fund LLC (0001729997) (Filer) | 2025-08-04T09:13:22-04:00 | https://www.sec.gov/Archives/edgar/data/1729997/000095017025101666/0000950170-25-101666.txt
+2025-08-04 13:54:21 | 8-K - Grayscale Ethereum Mini Trust ETF (0002020455) (Filer) | 2025-08-04T09:12:52-04:00 | https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664.txt
+2025-08-04 13:54:24 | 8-K - Grayscale Bitcoin Trust ETF (0001588489) (Filer) | 2025-08-04T09:12:41-04:00 | https://www.sec.gov/Archives/edgar/data/1588489/000095017025101663/0000950170-25-101663.txt
