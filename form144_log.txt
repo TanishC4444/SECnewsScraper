@@ -344,3 +344,7 @@
 2025-08-04 16:15:11 | WALLACE MICHAEL W | Officer | Shares: 10000 | Value: $183,600.0 | Percent: 0.048565% | Link: https://www.sec.gov/Archives/edgar/data/1070123/000194984625000336/0001949846-25-000336.txt
 2025-08-04 16:49:38 | Rice Calvin | Officer | Shares: 7457 | Value: $139,667.0 | Percent: 0.036215% | Link: https://www.sec.gov/Archives/edgar/data/1757839/000194984625000337/0001949846-25-000337.txt
 2025-08-04 16:49:39 | Rice Calvin | Officer | Shares: 7457 | Value: $139,667.0 | Percent: 0.036215% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000337/0001949846-25-000337.txt
+2025-08-04 17:14:25 | Costello Beth Ann | Officer | Shares: 35340 | Value: $4,364,490.0 | Percent: 0.012569% | Link: https://www.sec.gov/Archives/edgar/data/1399852/000195917325004900/0001959173-25-004900.txt
+2025-08-04 17:14:26 | Costello Beth Ann | Officer | Shares: 35340 | Value: $4,364,490.0 | Percent: 0.012569% | Link: https://www.sec.gov/Archives/edgar/data/874766/000195917325004900/0001959173-25-004900.txt
+2025-08-04 17:14:28 | Hagen Erin | Officer | Shares: 5043 | Value: $157,240.74 | Percent: 0.002725% | Link: https://www.sec.gov/Archives/edgar/data/2022960/000195917325004899/0001959173-25-004899.txt
+2025-08-04 17:14:29 | Hagen Erin | Officer | Shares: 5043 | Value: $157,240.74 | Percent: 0.002725% | Link: https://www.sec.gov/Archives/edgar/data/866291/000195917325004899/0001959173-25-004899.txt
