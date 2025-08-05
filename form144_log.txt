@@ -505,3 +505,5 @@
 2025-08-05 23:22:15 | DK GIVING TRUST | Affiliate | Shares: 1489038 | Value: $677,303,825.0 | Percent: 0.597412% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000684/0001968582-25-000684.txt
 2025-08-05 23:40:22 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $517,410.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000685/0001968582-25-000685.txt
 2025-08-05 23:40:22 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $517,410.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000685/0001968582-25-000685.txt
+2025-08-05 23:52:30 | George Robert Kurtz | CEO | Shares: 42267 | Value: $19,039,859.0 | Percent: 0.016958% | Link: https://www.sec.gov/Archives/edgar/data/1778564/000196858225000687/0001968582-25-000687.txt
+2025-08-05 23:52:31 | George Robert Kurtz | CEO | Shares: 42267 | Value: $19,039,859.0 | Percent: 0.016958% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000687/0001968582-25-000687.txt
