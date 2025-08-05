@@ -412,3 +412,5 @@
 2025-08-04 23:18:53 | BHJH Master Trust LLC | Affiliate | Shares: 402200 | Value: $65,988,954.0 | Percent: 1.142825% | Link: https://www.sec.gov/Archives/edgar/data/723612/000196858225000677/0001968582-25-000677.txt
 2025-08-04 23:18:55 | BRESSLER BENJAMIN | Officer | Shares: 7567 | Value: $98,471.23 | Percent: 0.013832% | Link: https://www.sec.gov/Archives/edgar/data/1674110/000195779925000149/0001957799-25-000149.txt
 2025-08-04 23:18:55 | BRESSLER BENJAMIN | Officer | Shares: 7567 | Value: $98,471.23 | Percent: 0.013832% | Link: https://www.sec.gov/Archives/edgar/data/1512499/000195779925000149/0001957799-25-000149.txt
+2025-08-05 02:31:27 | Sarah Oughtred | Officer | Shares: 99834 | Value: $617,972.46 | Percent: 0.064715% | Link: https://www.sec.gov/Archives/edgar/data/2029049/000162828025037565/0001628280-25-037565.txt
+2025-08-05 02:31:28 | Sarah Oughtred | Officer | Shares: 99834 | Value: $617,972.46 | Percent: 0.064715% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025037565/0001628280-25-037565.txt
