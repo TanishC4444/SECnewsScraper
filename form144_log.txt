@@ -501,3 +501,5 @@
 2025-08-05 22:45:22 | WEISNER AIMEE S | Former Director | Shares: 13491 | Value: $362,523.41 | Percent: 0.027240% | Link: https://www.sec.gov/Archives/edgar/data/718937/000200731725000805/0002007317-25-000805.txt
 2025-08-05 22:45:23 | PK GIVING TRUST | Affiliate | Shares: 1219788 | Value: $554,832,770.0 | Percent: 0.489387% | Link: https://www.sec.gov/Archives/edgar/data/1984948/000196858225000682/0001968582-25-000682.txt
 2025-08-05 22:45:24 | PK GIVING TRUST | Affiliate | Shares: 1219788 | Value: $554,832,770.0 | Percent: 0.489387% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000682/0001968582-25-000682.txt
+2025-08-05 23:22:14 | DK GIVING TRUST | Affiliate | Shares: 1489038 | Value: $677,303,825.0 | Percent: 0.597412% | Link: https://www.sec.gov/Archives/edgar/data/1984947/000196858225000684/0001968582-25-000684.txt
+2025-08-05 23:22:15 | DK GIVING TRUST | Affiliate | Shares: 1489038 | Value: $677,303,825.0 | Percent: 0.597412% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000684/0001968582-25-000684.txt
