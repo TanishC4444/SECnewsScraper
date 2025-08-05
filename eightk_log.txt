@@ -722,3 +722,12 @@
 2025-08-04 21:44:42 | 8-K - XBP Global Holdings, Inc. (0001839530) (Filer) | 2025-08-04T17:29:17-04:00 | https://www.sec.gov/Archives/edgar/data/1839530/000110465925073718/0001104659-25-073718.txt
 2025-08-04 21:44:45 | 8-K - Avidia Bancorp, Inc. (0002058758) (Filer) | 2025-08-04T17:27:51-04:00 | https://www.sec.gov/Archives/edgar/data/2058758/000095017025102159/0000950170-25-102159.txt
 2025-08-04 21:44:45 | 8-K - Safe & Green Development Corp (0001959023) (Filer) | 2025-08-04T17:27:07-04:00 | https://www.sec.gov/Archives/edgar/data/1959023/000121390025071490/0001213900-25-071490.txt
+2025-08-05 10:33:20 | 8-K - CATERPILLAR INC (0000018230) (Filer) | 2025-08-05T06:32:10-04:00 | https://www.sec.gov/Archives/edgar/data/18230/000001823025000037/0000018230-25-000037.txt
+2025-08-05 10:33:22 | 8-K - BALL Corp (0000009389) (Filer) | 2025-08-05T06:31:44-04:00 | https://www.sec.gov/Archives/edgar/data/9389/000000938925000015/0000009389-25-000015.txt
+2025-08-05 10:33:24 | 8-K - Apollo Global Management, Inc. (0001858681) (Filer) | 2025-08-05T06:31:32-04:00 | https://www.sec.gov/Archives/edgar/data/1858681/000185868125000113/0001858681-25-000113.txt
+2025-08-05 10:33:25 | 8-K - RECURSION PHARMACEUTICALS, INC. (0001601830) (Filer) | 2025-08-05T06:31:30-04:00 | https://www.sec.gov/Archives/edgar/data/1601830/000160183025000126/0001601830-25-000126.txt
+2025-08-05 10:33:26 | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | 2025-08-05T06:30:51-04:00 | https://www.sec.gov/Archives/edgar/data/877212/000110465925073878/0001104659-25-073878.txt
+2025-08-05 10:33:28 | 8-K - InfuSystem Holdings, Inc (0001337013) (Filer) | 2025-08-05T06:29:43-04:00 | https://www.sec.gov/Archives/edgar/data/1337013/000162828025037582/0001628280-25-037582.txt
+2025-08-05 10:33:30 | 8-K - Safety Shot, Inc. (0001760903) (Filer) | 2025-08-05T06:15:55-04:00 | https://www.sec.gov/Archives/edgar/data/1760903/000164117225022136/0001641172-25-022136.txt
+2025-08-05 10:33:31 | 8-K - Amneal Pharmaceuticals, Inc. (0001723128) (Filer) | 2025-08-05T06:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1723128/000172312825000037/0001723128-25-000037.txt
+2025-08-05 10:33:32 | 8-K - Flowco Holdings Inc. (0002035149) (Filer) | 2025-08-05T06:15:20-04:00 | https://www.sec.gov/Archives/edgar/data/2035149/000095017025102358/0000950170-25-102358.txt
