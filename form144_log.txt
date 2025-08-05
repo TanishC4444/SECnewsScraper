@@ -472,3 +472,11 @@
 2025-08-05 20:36:39 | Michael Barkin | Director | Shares: 40000 | Value: $1,280,000.0 | Percent: 0.043353% | Link: https://www.sec.gov/Archives/edgar/data/1571970/000196858225000679/0001968582-25-000679.txt
 2025-08-05 20:36:40 | ALEXIS T. LE-QUOC | Director | Shares: 41468 | Value: $5,769,442.84 | Percent: 0.012979% | Link: https://www.sec.gov/Archives/edgar/data/1783984/000195004725005451/0001950047-25-005451.txt
 2025-08-05 20:36:41 | ALEXIS T. LE-QUOC | Director | Shares: 41468 | Value: $5,769,442.84 | Percent: 0.012979% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725005451/0001950047-25-005451.txt
+2025-08-05 20:52:46 | MARK JEFFREY RUBASH | Director | Shares: 15000 | Value: $2,408,109.0 | Percent: 0.046689% | Link: https://www.sec.gov/Archives/edgar/data/1388658/000195004725005461/0001950047-25-005461.txt
+2025-08-05 20:52:47 | MARK JEFFREY RUBASH | Director | Shares: 15000 | Value: $2,408,109.0 | Percent: 0.046689% | Link: https://www.sec.gov/Archives/edgar/data/1209186/000195004725005461/0001950047-25-005461.txt
+2025-08-05 20:52:48 | LAURENT MOLL | Officer | Shares: 34400 | Value: $325,080.0 | Percent: 0.081948% | Link: https://www.sec.gov/Archives/edgar/data/1888601/000195004725005460/0001950047-25-005460.txt
+2025-08-05 20:52:49 | LAURENT MOLL | Officer | Shares: 34400 | Value: $325,080.0 | Percent: 0.081948% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725005460/0001950047-25-005460.txt
+2025-08-05 20:52:50 | K. CHARLES JANAC | Director | Shares: 94245 | Value: $890,615.25 | Percent: 0.224512% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725005459/0001950047-25-005459.txt
+2025-08-05 20:52:51 | K. CHARLES JANAC | Director | Shares: 94245 | Value: $890,615.25 | Percent: 0.224512% | Link: https://www.sec.gov/Archives/edgar/data/1068987/000195004725005459/0001950047-25-005459.txt
+2025-08-05 20:52:51 | Parang Touraj | Officer | Shares: 5565 | Value: $59,212.16 | Percent: 0.009743% | Link: https://www.sec.gov/Archives/edgar/data/1983441/000197407825000236/0001974078-25-000236.txt
+2025-08-05 20:52:51 | Parang Touraj | Officer | Shares: 5565 | Value: $59,212.16 | Percent: 0.009743% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000236/0001974078-25-000236.txt
