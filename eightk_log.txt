@@ -731,3 +731,13 @@
 2025-08-05 10:33:30 | 8-K - Safety Shot, Inc. (0001760903) (Filer) | 2025-08-05T06:15:55-04:00 | https://www.sec.gov/Archives/edgar/data/1760903/000164117225022136/0001641172-25-022136.txt
 2025-08-05 10:33:31 | 8-K - Amneal Pharmaceuticals, Inc. (0001723128) (Filer) | 2025-08-05T06:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1723128/000172312825000037/0001723128-25-000037.txt
 2025-08-05 10:33:32 | 8-K - Flowco Holdings Inc. (0002035149) (Filer) | 2025-08-05T06:15:20-04:00 | https://www.sec.gov/Archives/edgar/data/2035149/000095017025102358/0000950170-25-102358.txt
+2025-08-05 10:54:29 | 8-K - Duke Energy CORP (0001326160) (Filer) | 2025-08-05T06:51:53-04:00 | https://www.sec.gov/Archives/edgar/data/1326160/000110465925073897/0001104659-25-073897.txt
+2025-08-05 10:54:30 | 8-K - PROGRESS ENERGY INC (0001094093) (Filer) | 2025-08-05T06:51:53-04:00 | https://www.sec.gov/Archives/edgar/data/1094093/000110465925073897/0001104659-25-073897.txt
+2025-08-05 10:54:31 | 8-K - DUKE ENERGY FLORIDA, LLC (0000037637) (Filer) | 2025-08-05T06:51:53-04:00 | https://www.sec.gov/Archives/edgar/data/37637/000110465925073897/0001104659-25-073897.txt
+2025-08-05 10:54:32 | 8-K - Azenta, Inc. (0000933974) (Filer) | 2025-08-05T06:50:45-04:00 | https://www.sec.gov/Archives/edgar/data/933974/000143774925024705/0001437749-25-024705.txt
+2025-08-05 10:54:33 | 8-K - Life Time Group Holdings, Inc. (0001869198) (Filer) | 2025-08-05T06:50:27-04:00 | https://www.sec.gov/Archives/edgar/data/1869198/000186919825000033/0001869198-25-000033.txt
+2025-08-05 10:54:35 | 8-K - Pediatrix Medical Group, Inc. (0000893949) (Filer) | 2025-08-05T06:50:27-04:00 | https://www.sec.gov/Archives/edgar/data/893949/000095017025102375/0000950170-25-102375.txt
+2025-08-05 10:54:36 | 8-K - TopBuild Corp (0001633931) (Filer) | 2025-08-05T06:50:15-04:00 | https://www.sec.gov/Archives/edgar/data/1633931/000155837025010172/0001558370-25-010172.txt
+2025-08-05 10:54:37 | 8-K - AVANOS MEDICAL, INC. (0001606498) (Filer) | 2025-08-05T06:49:38-04:00 | https://www.sec.gov/Archives/edgar/data/1606498/000160649825000106/0001606498-25-000106.txt
+2025-08-05 10:54:38 | 8-K - Vivid Seats Inc. (0001856031) (Filer) | 2025-08-05T06:46:56-04:00 | https://www.sec.gov/Archives/edgar/data/1856031/000095017025102372/0000950170-25-102372.txt
+2025-08-05 10:54:40 | 8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer) | 2025-08-05T06:45:31-04:00 | https://www.sec.gov/Archives/edgar/data/1368458/000119312525173016/0001193125-25-173016.txt
