@@ -851,3 +851,13 @@
 2025-08-05 21:10:22 | 8-K - HARLEY-DAVIDSON CUSTOMER FUNDING CORP. (0001114926) (Filer) | 2025-08-05T17:02:58-04:00 | https://www.sec.gov/Archives/edgar/data/1114926/000110465925074270/0001104659-25-074270.txt
 2025-08-05 21:10:24 | 8-K - MOSAIC CO (0001285785) (Filer) | 2025-08-05T17:02:02-04:00 | https://www.sec.gov/Archives/edgar/data/1285785/000162828025037916/0001628280-25-037916.txt
 2025-08-05 21:10:26 | 8-K - Limbach Holdings, Inc. (0001606163) (Filer) | 2025-08-05T17:02:01-04:00 | https://www.sec.gov/Archives/edgar/data/1606163/000162828025037915/0001628280-25-037915.txt
+2025-08-05 21:33:25 | 8-K - Beneficient (0001775734) (Filer) | 2025-08-05T17:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1775734/000164117225022297/0001641172-25-022297.txt
+2025-08-05 21:33:26 | 8-K - Katapult Holdings, Inc. (0001785424) (Filer) | 2025-08-05T17:28:49-04:00 | https://www.sec.gov/Archives/edgar/data/1785424/000095010325009941/0000950103-25-009941.txt
+2025-08-05 21:33:28 | 8-K - Digital Turbine, Inc. (0000317788) (Filer) | 2025-08-05T17:27:02-04:00 | https://www.sec.gov/Archives/edgar/data/317788/000162828025037955/0001628280-25-037955.txt
+2025-08-05 21:33:29 | 8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer) | 2025-08-05T17:26:04-04:00 | https://www.sec.gov/Archives/edgar/data/1930147/000182912625005820/0001829126-25-005820.txt
+2025-08-05 21:33:30 | 8-K - Trio Petroleum Corp. (0001898766) (Filer) | 2025-08-05T17:24:32-04:00 | https://www.sec.gov/Archives/edgar/data/1898766/000164117225022292/0001641172-25-022292.txt
+2025-08-05 21:33:32 | 8-K - HARLEY-DAVIDSON, INC. (0000793952) (Filer) | 2025-08-05T17:22:34-04:00 | https://www.sec.gov/Archives/edgar/data/793952/000110465925074301/0001104659-25-074301.txt
+2025-08-05 21:33:34 | 8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer) | 2025-08-05T17:21:51-04:00 | https://www.sec.gov/Archives/edgar/data/813762/000110465925074299/0001104659-25-074299.txt
+2025-08-05 21:33:35 | 8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer) | 2025-08-05T17:21:37-04:00 | https://www.sec.gov/Archives/edgar/data/1655050/000119312525173633/0001193125-25-173633.txt
+2025-08-05 21:33:36 | 8-K - SurgePays, Inc. (0001392694) (Filer) | 2025-08-05T17:20:57-04:00 | https://www.sec.gov/Archives/edgar/data/1392694/000164117225022288/0001641172-25-022288.txt
+2025-08-05 21:33:38 | 8-K - ChampionsGate Acquisition Corp (0002024460) (Filer) | 2025-08-05T17:20:26-04:00 | https://www.sec.gov/Archives/edgar/data/2024460/000121390025072180/0001213900-25-072180.txt

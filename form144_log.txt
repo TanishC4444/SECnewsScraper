@@ -488,3 +488,9 @@
 2025-08-05 21:10:33 | QUENTIN BLACKFORD | Officer | Shares: 30000 | Value: $4,816,190.87 | Percent: 0.093377% | Link: https://www.sec.gov/Archives/edgar/data/1388658/000195004725005466/0001950047-25-005466.txt
 2025-08-05 21:10:35 | Baratta Joseph | Officer | Shares: 100000 | Value: $16,736,019.97 | Percent: 0.013705% | Link: https://www.sec.gov/Archives/edgar/data/1574706/000196430625000306/0001964306-25-000306.txt
 2025-08-05 21:10:36 | Baratta Joseph | Officer | Shares: 100000 | Value: $16,736,019.97 | Percent: 0.013705% | Link: https://www.sec.gov/Archives/edgar/data/1393818/000196430625000306/0001964306-25-000306.txt
+2025-08-05 21:33:39 | Tessari Eben | Officer | Shares: 138614 | Value: $4,602,409.0 | Percent: 0.318851% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425000879/0001921094-25-000879.txt
+2025-08-05 21:33:40 | Tessari Eben | Officer | Shares: 138614 | Value: $4,602,409.0 | Percent: 0.318851% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425000879/0001921094-25-000879.txt
+2025-08-05 21:33:42 | TYSON MARSHALL | Officer | Shares: 18092 | Value: $269,688.68 | Percent: 0.012226% | Link: https://www.sec.gov/Archives/edgar/data/1666669/000195004725005468/0001950047-25-005468.txt
+2025-08-05 21:33:42 | TYSON MARSHALL | Officer | Shares: 18092 | Value: $269,688.68 | Percent: 0.012226% | Link: https://www.sec.gov/Archives/edgar/data/1350653/000195004725005468/0001950047-25-005468.txt
+2025-08-05 21:33:44 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,367,984.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000878/0001921094-25-000878.txt
+2025-08-05 21:33:46 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,367,984.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000878/0001921094-25-000878.txt
