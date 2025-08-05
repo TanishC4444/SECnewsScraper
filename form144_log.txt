@@ -464,3 +464,11 @@
 2025-08-05 20:13:33 | Agiri Oluwagbemileke Yusuf | Officer | Shares: 5738 | Value: $7,061.0 | Percent: 0.002395% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000158/0001972481-25-000158.txt
 2025-08-05 20:13:35 | GIOVANNI MARIA DOLCI | Officer | Shares: 6500 | Value: $162,468.15 | Percent: 0.012086% | Link: https://www.sec.gov/Archives/edgar/data/1801887/000195004725005431/0001950047-25-005431.txt
 2025-08-05 20:13:36 | GIOVANNI MARIA DOLCI | Officer | Shares: 6500 | Value: $162,468.15 | Percent: 0.012086% | Link: https://www.sec.gov/Archives/edgar/data/921582/000195004725005431/0001950047-25-005431.txt
+2025-08-05 20:36:32 | WETHERBEE ROBERT S | Officer | Shares: 50000 | Value: $3,733,125.22 | Percent: 0.036276% | Link: https://www.sec.gov/Archives/edgar/data/1572385/000195917325004964/0001959173-25-004964.txt
+2025-08-05 20:36:33 | WETHERBEE ROBERT S | Officer | Shares: 50000 | Value: $3,733,125.22 | Percent: 0.036276% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325004964/0001959173-25-004964.txt
+2025-08-05 20:36:35 | Stephen Beatie Williams | Director | Shares: 20000 | Value: $563,200.0 | Percent: 0.002261% | Link: https://www.sec.gov/Archives/edgar/data/2027327/000095010325009926/0000950103-25-009926.txt
+2025-08-05 20:36:37 | Stephen Beatie Williams | Director | Shares: 20000 | Value: $563,200.0 | Percent: 0.002261% | Link: https://www.sec.gov/Archives/edgar/data/1969373/000095010325009926/0000950103-25-009926.txt
+2025-08-05 20:36:38 | Michael Barkin | Director | Shares: 40000 | Value: $1,280,000.0 | Percent: 0.043353% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000196858225000679/0001968582-25-000679.txt
+2025-08-05 20:36:39 | Michael Barkin | Director | Shares: 40000 | Value: $1,280,000.0 | Percent: 0.043353% | Link: https://www.sec.gov/Archives/edgar/data/1571970/000196858225000679/0001968582-25-000679.txt
+2025-08-05 20:36:40 | ALEXIS T. LE-QUOC | Director | Shares: 41468 | Value: $5,769,442.84 | Percent: 0.012979% | Link: https://www.sec.gov/Archives/edgar/data/1783984/000195004725005451/0001950047-25-005451.txt
+2025-08-05 20:36:41 | ALEXIS T. LE-QUOC | Director | Shares: 41468 | Value: $5,769,442.84 | Percent: 0.012979% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725005451/0001950047-25-005451.txt
