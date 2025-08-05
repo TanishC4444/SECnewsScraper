@@ -422,3 +422,5 @@
 2025-08-05 14:56:16 | Shah Niraj | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325004949/0001959173-25-004949.txt
 2025-08-05 14:56:18 | Lee Anthony P | Director | Shares: 66000 | Value: $8,538,466.2 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1834988/000195917325004948/0001959173-25-004948.txt
 2025-08-05 14:56:19 | Lee Anthony P | Director | Shares: 66000 | Value: $8,538,466.2 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325004948/0001959173-25-004948.txt
+2025-08-05 15:43:53 | Kang Andrew | Officer | Shares: 6250 | Value: $2,414,500.63 | Percent: 0.002368% | Link: https://www.sec.gov/Archives/edgar/data/1825170/000195917325004951/0001959173-25-004951.txt
+2025-08-05 15:43:54 | Kang Andrew | Officer | Shares: 6250 | Value: $2,414,500.63 | Percent: 0.002368% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325004951/0001959173-25-004951.txt
