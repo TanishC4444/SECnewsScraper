@@ -741,3 +741,13 @@
 2025-08-05 10:54:37 | 8-K - AVANOS MEDICAL, INC. (0001606498) (Filer) | 2025-08-05T06:49:38-04:00 | https://www.sec.gov/Archives/edgar/data/1606498/000160649825000106/0001606498-25-000106.txt
 2025-08-05 10:54:38 | 8-K - Vivid Seats Inc. (0001856031) (Filer) | 2025-08-05T06:46:56-04:00 | https://www.sec.gov/Archives/edgar/data/1856031/000095017025102372/0000950170-25-102372.txt
 2025-08-05 10:54:40 | 8-K - Sally Beauty Holdings, Inc. (0001368458) (Filer) | 2025-08-05T06:45:31-04:00 | https://www.sec.gov/Archives/edgar/data/1368458/000119312525173016/0001193125-25-173016.txt
+2025-08-05 11:14:22 | 8-K - LCI INDUSTRIES (0000763744) (Filer) | 2025-08-05T07:11:41-04:00 | https://www.sec.gov/Archives/edgar/data/763744/000076374425000124/0000763744-25-000124.txt
+2025-08-05 11:14:23 | 8-K - AdaptHealth Corp. (0001725255) (Filer) | 2025-08-05T07:11:34-04:00 | https://www.sec.gov/Archives/edgar/data/1725255/000162828025037598/0001628280-25-037598.txt
+2025-08-05 11:14:25 | 8-K - Coinbase Global, Inc. (0001679788) (Filer) | 2025-08-05T07:10:34-04:00 | https://www.sec.gov/Archives/edgar/data/1679788/000167978825000163/0001679788-25-000163.txt
+2025-08-05 11:14:26 | 8-K - Neuronetics, Inc. (0001227636) (Filer) | 2025-08-05T07:10:23-04:00 | https://www.sec.gov/Archives/edgar/data/1227636/000119312525173033/0001193125-25-173033.txt
+2025-08-05 11:14:27 | 8-K - AdaptHealth Corp. (0001725255) (Filer) | 2025-08-05T07:08:45-04:00 | https://www.sec.gov/Archives/edgar/data/1725255/000110465925073912/0001104659-25-073912.txt
+2025-08-05 11:14:29 | 8-K - Elicio Therapeutics, Inc. (0001601485) (Filer) | 2025-08-05T07:08:36-04:00 | https://www.sec.gov/Archives/edgar/data/1601485/000160148525000099/0001601485-25-000099.txt
+2025-08-05 11:14:30 | 8-K - PFIZER INC (0000078003) (Filer) | 2025-08-05T07:08:22-04:00 | https://www.sec.gov/Archives/edgar/data/78003/000007800325000136/0000078003-25-000136.txt
+2025-08-05 11:14:32 | 8-K - Archer-Daniels-Midland Co (0000007084) (Filer) | 2025-08-05T07:08:22-04:00 | https://www.sec.gov/Archives/edgar/data/7084/000000708425000040/0000007084-25-000040.txt
+2025-08-05 11:14:34 | 8-K - Galaxy Digital Inc. (0001859392) (Filer) | 2025-08-05T07:07:16-04:00 | https://www.sec.gov/Archives/edgar/data/1859392/000185939225000032/0001859392-25-000032.txt
+2025-08-05 11:14:35 | 8-K - Beam Therapeutics Inc. (0001745999) (Filer) | 2025-08-05T07:07:12-04:00 | https://www.sec.gov/Archives/edgar/data/1745999/000095017025102389/0000950170-25-102389.txt
