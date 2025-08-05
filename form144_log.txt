@@ -418,3 +418,7 @@
 2025-08-05 14:01:36 | Sicilia Michael D. | Officer | Shares: 15880 | Value: $4,041,142.4 | Percent: 0.000565% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325004942/0001959173-25-004942.txt
 2025-08-05 14:34:53 | Mehta Satish | Officer | Shares: 8727 | Value: $312,601.14 | Percent: 0.004464% | Link: https://www.sec.gov/Archives/edgar/data/1778095/000195917325004945/0001959173-25-004945.txt
 2025-08-05 14:34:54 | Mehta Satish | Officer | Shares: 8727 | Value: $312,601.14 | Percent: 0.004464% | Link: https://www.sec.gov/Archives/edgar/data/1766502/000195917325004945/0001959173-25-004945.txt
+2025-08-05 14:56:16 | Shah Niraj | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1620093/000195917325004949/0001959173-25-004949.txt
+2025-08-05 14:56:16 | Shah Niraj | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325004949/0001959173-25-004949.txt
+2025-08-05 14:56:18 | Lee Anthony P | Director | Shares: 66000 | Value: $8,538,466.2 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1834988/000195917325004948/0001959173-25-004948.txt
+2025-08-05 14:56:19 | Lee Anthony P | Director | Shares: 66000 | Value: $8,538,466.2 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325004948/0001959173-25-004948.txt
