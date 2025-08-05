@@ -424,3 +424,9 @@
 2025-08-05 14:56:19 | Lee Anthony P | Director | Shares: 66000 | Value: $8,538,466.2 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325004948/0001959173-25-004948.txt
 2025-08-05 15:43:53 | Kang Andrew | Officer | Shares: 6250 | Value: $2,414,500.63 | Percent: 0.002368% | Link: https://www.sec.gov/Archives/edgar/data/1825170/000195917325004951/0001959173-25-004951.txt
 2025-08-05 15:43:54 | Kang Andrew | Officer | Shares: 6250 | Value: $2,414,500.63 | Percent: 0.002368% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325004951/0001959173-25-004951.txt
+2025-08-05 15:54:36 | Clapprood Tom | Officer | Shares: 15000 | Value: $670,177.98 | Percent: 0.014519% | Link: https://www.sec.gov/Archives/edgar/data/1982122/000200731725000799/0002007317-25-000799.txt
+2025-08-05 15:54:37 | Clapprood Tom | Officer | Shares: 15000 | Value: $670,177.98 | Percent: 0.014519% | Link: https://www.sec.gov/Archives/edgar/data/1116942/000200731725000799/0002007317-25-000799.txt
+2025-08-05 15:54:38 | WIERBICKI PAUL | Director | Shares: 35000 | Value: $678,757.21 | Percent: 0.036711% | Link: https://www.sec.gov/Archives/edgar/data/1834368/000195779925000150/0001957799-25-000150.txt
+2025-08-05 15:54:39 | WIERBICKI PAUL | Director | Shares: 35000 | Value: $678,757.21 | Percent: 0.036711% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000195779925000150/0001957799-25-000150.txt
+2025-08-05 15:54:40 | Conine Steven | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1620052/000195917325004952/0001959173-25-004952.txt
+2025-08-05 15:54:41 | Conine Steven | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325004952/0001959173-25-004952.txt
