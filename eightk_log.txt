@@ -791,3 +791,6 @@
 2025-08-05 13:32:56 | 8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer) | 2025-08-05T09:12:45-04:00 | https://www.sec.gov/Archives/edgar/data/1939433/000193943325000105/0001939433-25-000105.txt
 2025-08-05 13:32:58 | 8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer) | 2025-08-05T09:12:16-04:00 | https://www.sec.gov/Archives/edgar/data/1937993/000121390025071764/0001213900-25-071764.txt
 2025-08-05 13:32:59 | 8-K - Vigil Neuroscience, Inc. (0001827087) (Filer) | 2025-08-05T09:07:17-04:00 | https://www.sec.gov/Archives/edgar/data/1827087/000119312525173134/0001193125-25-173134.txt
+2025-08-05 14:34:47 | 8-K - LINDBLAD EXPEDITIONS HOLDINGS, INC. (0001512499) (Filer) | 2025-08-05T10:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/1512499/000110465925074020/0001104659-25-074020.txt
+2025-08-05 14:34:49 | 8-K - Global Asset Management Group, Inc. (0000055234) (Filer) | 2025-08-05T10:25:06-04:00 | https://www.sec.gov/Archives/edgar/data/55234/000147793225005453/0001477932-25-005453.txt
+2025-08-05 14:34:51 | 8-K - STANDARD MOTOR PRODUCTS, INC. (0000093389) (Filer) | 2025-08-05T10:02:35-04:00 | https://www.sec.gov/Archives/edgar/data/93389/000009338925000063/0000093389-25-000063.txt
