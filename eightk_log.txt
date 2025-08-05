@@ -761,3 +761,12 @@
 2025-08-05 11:33:39 | 8-K - Ranpak Holdings Corp. (0001712463) (Filer) | 2025-08-05T07:30:19-04:00 | https://www.sec.gov/Archives/edgar/data/1712463/000162828025037605/0001628280-25-037605.txt
 2025-08-05 11:33:41 | 8-K - Foghorn Therapeutics Inc. (0001822462) (Filer) | 2025-08-05T07:30:12-04:00 | https://www.sec.gov/Archives/edgar/data/1822462/000162828025037603/0001628280-25-037603.txt
 2025-08-05 11:33:42 | 8-K - Westlake Chemical Partners LP (0001604665) (Filer) | 2025-08-05T07:25:31-04:00 | https://www.sec.gov/Archives/edgar/data/1604665/000160466525000029/0001604665-25-000029.txt
+2025-08-05 11:47:59 | 8-K - Global Business Travel Group, Inc. (0001820872) (Filer) | 2025-08-05T07:47:10-04:00 | https://www.sec.gov/Archives/edgar/data/1820872/000182087225000027/0001820872-25-000027.txt
+2025-08-05 11:48:01 | 8-K - Organon & Co. (0001821825) (Filer) | 2025-08-05T07:44:59-04:00 | https://www.sec.gov/Archives/edgar/data/1821825/000110465925073929/0001104659-25-073929.txt
+2025-08-05 11:48:03 | 8-K - SILICON LABORATORIES INC. (0001038074) (Filer) | 2025-08-05T07:42:09-04:00 | https://www.sec.gov/Archives/edgar/data/1038074/000103807425000012/0001038074-25-000012.txt
+2025-08-05 11:48:05 | 8-K - CUMMINS INC (0000026172) (Filer) | 2025-08-05T07:39:48-04:00 | https://www.sec.gov/Archives/edgar/data/26172/000002617225000029/0000026172-25-000029.txt
+2025-08-05 11:48:06 | 8-K - Exodus Movement, Inc. (0001821534) (Filer) | 2025-08-05T07:37:27-04:00 | https://www.sec.gov/Archives/edgar/data/1821534/000095017025102405/0000950170-25-102405.txt
+2025-08-05 11:48:08 | 8-K - Aquaron Acquisition Corp. (0001861063) (Filer) | 2025-08-05T07:37:11-04:00 | https://www.sec.gov/Archives/edgar/data/1861063/000121390025071735/0001213900-25-071735.txt
+2025-08-05 11:48:09 | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | 2025-08-05T07:36:59-04:00 | https://www.sec.gov/Archives/edgar/data/877212/000087721225000129/0000877212-25-000129.txt
+2025-08-05 11:48:11 | 8-K - Alight, Inc. / Delaware (0001809104) (Filer) | 2025-08-05T07:36:47-04:00 | https://www.sec.gov/Archives/edgar/data/1809104/000162828025037609/0001628280-25-037609.txt
+2025-08-05 11:48:12 | 8-K - Surgery Partners, Inc. (0001638833) (Filer) | 2025-08-05T07:34:10-04:00 | https://www.sec.gov/Archives/edgar/data/1638833/000163883325000132/0001638833-25-000132.txt
