@@ -430,3 +430,5 @@
 2025-08-05 15:54:39 | WIERBICKI PAUL | Director | Shares: 35000 | Value: $678,757.21 | Percent: 0.036711% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000195779925000150/0001957799-25-000150.txt
 2025-08-05 15:54:40 | Conine Steven | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1620052/000195917325004952/0001959173-25-004952.txt
 2025-08-05 15:54:41 | Conine Steven | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325004952/0001959173-25-004952.txt
+2025-08-05 16:17:04 | Akerib Avidan | Officer | Shares: 100000 | Value: $390,000.0 | Percent: 0.358781% | Link: https://www.sec.gov/Archives/edgar/data/1932651/000197337925000212/0001973379-25-000212.txt
+2025-08-05 16:17:07 | Akerib Avidan | Officer | Shares: 100000 | Value: $390,000.0 | Percent: 0.358781% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000212/0001973379-25-000212.txt
