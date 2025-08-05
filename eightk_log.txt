@@ -842,3 +842,12 @@
 2025-08-05 20:52:41 | 8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer) | 2025-08-05T16:48:50-04:00 | https://www.sec.gov/Archives/edgar/data/1914496/000191449625000085/0001914496-25-000085.txt
 2025-08-05 20:52:41 | 8-K - BlackRock Monticello Debt Real Estate Investment Trust (0002049595) (Filer) | 2025-08-05T16:48:32-04:00 | https://www.sec.gov/Archives/edgar/data/2049595/000119312525173584/0001193125-25-173584.txt
 2025-08-05 20:52:43 | 8-K - California Resources Corp (0001609253) (Filer) | 2025-08-05T16:48:23-04:00 | https://www.sec.gov/Archives/edgar/data/1609253/000160925325000066/0001609253-25-000066.txt
+2025-08-05 21:10:18 | 8-K - Apollo Infrastructure Co LLC (0001971381) (Filer) | 2025-08-05T17:08:05-04:00 | https://www.sec.gov/Archives/edgar/data/1971381/000095017025103208/0000950170-25-103208.txt
+2025-08-05 21:10:19 | 8-K - CUMBERLAND PHARMACEUTICALS INC (0001087294) (Filer) | 2025-08-05T17:05:48-04:00 | https://www.sec.gov/Archives/edgar/data/1087294/000162828025037923/0001628280-25-037923.txt
+2025-08-05 21:10:19 | 8-K - Harley-Davidson Motorcycle Trust 2024-B (0002034427) (Filer) | 2025-08-05T17:04:33-04:00 | https://www.sec.gov/Archives/edgar/data/2034427/000110465925074274/0001104659-25-074274.txt
+2025-08-05 21:10:20 | 8-K - HARLEY-DAVIDSON CUSTOMER FUNDING CORP. (0001114926) (Filer) | 2025-08-05T17:04:33-04:00 | https://www.sec.gov/Archives/edgar/data/1114926/000110465925074274/0001104659-25-074274.txt
+2025-08-05 21:10:21 | 8-K - Travel & Leisure Co. (0001361658) (Filer) | 2025-08-05T17:03:13-04:00 | https://www.sec.gov/Archives/edgar/data/1361658/000136165825000285/0001361658-25-000285.txt
+2025-08-05 21:10:22 | 8-K - Harley-Davidson Motorcycle Trust 2023-B (0001989332) (Filer) | 2025-08-05T17:02:58-04:00 | https://www.sec.gov/Archives/edgar/data/1989332/000110465925074270/0001104659-25-074270.txt
+2025-08-05 21:10:22 | 8-K - HARLEY-DAVIDSON CUSTOMER FUNDING CORP. (0001114926) (Filer) | 2025-08-05T17:02:58-04:00 | https://www.sec.gov/Archives/edgar/data/1114926/000110465925074270/0001104659-25-074270.txt
+2025-08-05 21:10:24 | 8-K - MOSAIC CO (0001285785) (Filer) | 2025-08-05T17:02:02-04:00 | https://www.sec.gov/Archives/edgar/data/1285785/000162828025037916/0001628280-25-037916.txt
+2025-08-05 21:10:26 | 8-K - Limbach Holdings, Inc. (0001606163) (Filer) | 2025-08-05T17:02:01-04:00 | https://www.sec.gov/Archives/edgar/data/1606163/000162828025037915/0001628280-25-037915.txt

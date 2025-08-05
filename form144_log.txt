@@ -480,3 +480,11 @@
 2025-08-05 20:52:51 | K. CHARLES JANAC | Director | Shares: 94245 | Value: $890,615.25 | Percent: 0.224512% | Link: https://www.sec.gov/Archives/edgar/data/1068987/000195004725005459/0001950047-25-005459.txt
 2025-08-05 20:52:51 | Parang Touraj | Officer | Shares: 5565 | Value: $59,212.16 | Percent: 0.009743% | Link: https://www.sec.gov/Archives/edgar/data/1983441/000197407825000236/0001974078-25-000236.txt
 2025-08-05 20:52:51 | Parang Touraj | Officer | Shares: 5565 | Value: $59,212.16 | Percent: 0.009743% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000236/0001974078-25-000236.txt
+2025-08-05 21:10:28 | Abraham Chad R | Officer | Shares: 10000 | Value: $3,193,317.0 | Percent: 0.056317% | Link: https://www.sec.gov/Archives/edgar/data/1538591/000192109425000877/0001921094-25-000877.txt
+2025-08-05 21:10:29 | Abraham Chad R | Officer | Shares: 10000 | Value: $3,193,317.0 | Percent: 0.056317% | Link: https://www.sec.gov/Archives/edgar/data/1230245/000192109425000877/0001921094-25-000877.txt
+2025-08-05 21:10:30 | SCOTT LISH | Officer | Shares: 16666 | Value: $247,823.42 | Percent: 0.011262% | Link: https://www.sec.gov/Archives/edgar/data/1831608/000195004725005467/0001950047-25-005467.txt
+2025-08-05 21:10:31 | SCOTT LISH | Officer | Shares: 16666 | Value: $247,823.42 | Percent: 0.011262% | Link: https://www.sec.gov/Archives/edgar/data/1350653/000195004725005467/0001950047-25-005467.txt
+2025-08-05 21:10:32 | QUENTIN BLACKFORD | Officer | Shares: 30000 | Value: $4,816,190.87 | Percent: 0.093377% | Link: https://www.sec.gov/Archives/edgar/data/1612451/000195004725005466/0001950047-25-005466.txt
+2025-08-05 21:10:33 | QUENTIN BLACKFORD | Officer | Shares: 30000 | Value: $4,816,190.87 | Percent: 0.093377% | Link: https://www.sec.gov/Archives/edgar/data/1388658/000195004725005466/0001950047-25-005466.txt
+2025-08-05 21:10:35 | Baratta Joseph | Officer | Shares: 100000 | Value: $16,736,019.97 | Percent: 0.013705% | Link: https://www.sec.gov/Archives/edgar/data/1574706/000196430625000306/0001964306-25-000306.txt
+2025-08-05 21:10:36 | Baratta Joseph | Officer | Shares: 100000 | Value: $16,736,019.97 | Percent: 0.013705% | Link: https://www.sec.gov/Archives/edgar/data/1393818/000196430625000306/0001964306-25-000306.txt
