@@ -442,3 +442,9 @@
 2025-08-05 17:42:39 | Starr Robert D. | Officer | Shares: 6175 | Value: $360,928.0 | Percent: 0.020932% | Link: https://www.sec.gov/Archives/edgar/data/819793/000195917325004955/0001959173-25-004955.txt
 2025-08-05 17:55:35 | de Cardenas Alberto | Officer | Shares: 20000 | Value: $3,600,000.0 | Percent: 0.025346% | Link: https://www.sec.gov/Archives/edgar/data/1250037/000200731725000800/0002007317-25-000800.txt
 2025-08-05 17:55:36 | de Cardenas Alberto | Officer | Shares: 20000 | Value: $3,600,000.0 | Percent: 0.025346% | Link: https://www.sec.gov/Archives/edgar/data/15615/000200731725000800/0002007317-25-000800.txt
+2025-08-05 18:28:44 | Schlosser John W | Officer | Shares: 18498 | Value: $493,434.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1570469/000196530125000111/0001965301-25-000111.txt
+2025-08-05 18:28:45 | Schlosser John W | Officer | Shares: 18498 | Value: $493,434.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1506307/000196530125000111/0001965301-25-000111.txt
+2025-08-05 18:28:47 | Hudson Daniel A. | Officer | Shares: 10000 | Value: $575,641.0 | Percent: 0.020205% | Link: https://www.sec.gov/Archives/edgar/data/1797578/000194984625000341/0001949846-25-000341.txt
+2025-08-05 18:28:49 | Hudson Daniel A. | Officer | Shares: 10000 | Value: $575,641.0 | Percent: 0.020205% | Link: https://www.sec.gov/Archives/edgar/data/98222/000194984625000341/0001949846-25-000341.txt
+2025-08-05 18:28:52 | Rice Calvin | Officer | Shares: 14736 | Value: $270,552.0 | Percent: 0.071566% | Link: https://www.sec.gov/Archives/edgar/data/1757839/000194984625000340/0001949846-25-000340.txt
+2025-08-05 18:28:53 | Rice Calvin | Officer | Shares: 14736 | Value: $270,552.0 | Percent: 0.071566% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000340/0001949846-25-000340.txt
