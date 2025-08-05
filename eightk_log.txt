@@ -751,3 +751,13 @@
 2025-08-05 11:14:32 | 8-K - Archer-Daniels-Midland Co (0000007084) (Filer) | 2025-08-05T07:08:22-04:00 | https://www.sec.gov/Archives/edgar/data/7084/000000708425000040/0000007084-25-000040.txt
 2025-08-05 11:14:34 | 8-K - Galaxy Digital Inc. (0001859392) (Filer) | 2025-08-05T07:07:16-04:00 | https://www.sec.gov/Archives/edgar/data/1859392/000185939225000032/0001859392-25-000032.txt
 2025-08-05 11:14:35 | 8-K - Beam Therapeutics Inc. (0001745999) (Filer) | 2025-08-05T07:07:12-04:00 | https://www.sec.gov/Archives/edgar/data/1745999/000095017025102389/0000950170-25-102389.txt
+2025-08-05 11:33:29 | 8-K - ROYAL GOLD INC (0000085535) (Filer) | 2025-08-05T07:32:15-04:00 | https://www.sec.gov/Archives/edgar/data/85535/000008553525000112/0000085535-25-000112.txt
+2025-08-05 11:33:31 | 8-K - Hillman Solutions Corp. (0001822492) (Filer) | 2025-08-05T07:31:54-04:00 | https://www.sec.gov/Archives/edgar/data/1822492/000182249225000170/0001822492-25-000170.txt
+2025-08-05 11:33:32 | 8-K - Frontdoor, Inc. (0001727263) (Filer) | 2025-08-05T07:31:08-04:00 | https://www.sec.gov/Archives/edgar/data/1727263/000095017025102402/0000950170-25-102402.txt
+2025-08-05 11:33:33 | 8-K - Sensei Biotherapeutics, Inc. (0001829802) (Filer) | 2025-08-05T07:31:05-04:00 | https://www.sec.gov/Archives/edgar/data/1829802/000119312525173043/0001193125-25-173043.txt
+2025-08-05 11:33:35 | 8-K - Viatris Inc (0001792044) (Filer) | 2025-08-05T07:30:48-04:00 | https://www.sec.gov/Archives/edgar/data/1792044/000114036125028739/0001140361-25-028739.txt
+2025-08-05 11:33:37 | 8-K - ADTRAN Holdings, Inc. (0000926282) (Filer) | 2025-08-05T07:30:44-04:00 | https://www.sec.gov/Archives/edgar/data/926282/000095017025102401/0000950170-25-102401.txt
+2025-08-05 11:33:38 | 8-K - Vera Therapeutics, Inc. (0001831828) (Filer) | 2025-08-05T07:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/1831828/000095017025102399/0000950170-25-102399.txt
+2025-08-05 11:33:39 | 8-K - Ranpak Holdings Corp. (0001712463) (Filer) | 2025-08-05T07:30:19-04:00 | https://www.sec.gov/Archives/edgar/data/1712463/000162828025037605/0001628280-25-037605.txt
+2025-08-05 11:33:41 | 8-K - Foghorn Therapeutics Inc. (0001822462) (Filer) | 2025-08-05T07:30:12-04:00 | https://www.sec.gov/Archives/edgar/data/1822462/000162828025037603/0001628280-25-037603.txt
+2025-08-05 11:33:42 | 8-K - Westlake Chemical Partners LP (0001604665) (Filer) | 2025-08-05T07:25:31-04:00 | https://www.sec.gov/Archives/edgar/data/1604665/000160466525000029/0001604665-25-000029.txt
