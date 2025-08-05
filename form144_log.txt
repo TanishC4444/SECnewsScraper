@@ -452,3 +452,5 @@
 2025-08-05 19:26:14 | Klein Matthew B. | Officer | Shares: 10739 | Value: $555,662.71 | Percent: 0.013550% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325004958/0001959173-25-004958.txt
 2025-08-05 19:26:17 | Fisher Carl M. | Officer | Shares: 18206 | Value: $808,093.34 | Percent: 0.013649% | Link: https://www.sec.gov/Archives/edgar/data/1983680/000195917325004957/0001959173-25-004957.txt
 2025-08-05 19:26:18 | Fisher Carl M. | Officer | Shares: 18206 | Value: $808,093.34 | Percent: 0.013649% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000195917325004957/0001959173-25-004957.txt
+2025-08-05 19:42:16 | Zawoyski Sara E | Officer | Shares: 22109 | Value: $1,979,567.46 | Percent: 0.013737% | Link: https://www.sec.gov/Archives/edgar/data/1790401/000195917325004959/0001959173-25-004959.txt
+2025-08-05 19:42:17 | Zawoyski Sara E | Officer | Shares: 22109 | Value: $1,979,567.46 | Percent: 0.013737% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325004959/0001959173-25-004959.txt

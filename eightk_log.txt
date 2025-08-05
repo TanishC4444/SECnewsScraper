@@ -813,3 +813,4 @@
 2025-08-05 19:26:08 | 8-K - Main Street Capital CORP (0001396440) (Filer) | 2025-08-05T15:16:38-04:00 | https://www.sec.gov/Archives/edgar/data/1396440/000139644025000094/0001396440-25-000094.txt
 2025-08-05 19:26:08 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-05T15:15:53-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009037/0001654954-25-009037.txt
 2025-08-05 19:26:10 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-08-05T15:05:32-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000015/0002035428-25-000015.txt
+2025-08-05 19:42:14 | 8-K - Tennessee Valley Authority (0001376986) (Filer) | 2025-08-05T15:35:14-04:00 | https://www.sec.gov/Archives/edgar/data/1376986/000137698625000047/0001376986-25-000047.txt
