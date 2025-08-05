@@ -432,3 +432,9 @@
 2025-08-05 15:54:41 | Conine Steven | Officer | Shares: 8000 | Value: $600,000.0 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325004952/0001959173-25-004952.txt
 2025-08-05 16:17:04 | Akerib Avidan | Officer | Shares: 100000 | Value: $390,000.0 | Percent: 0.358781% | Link: https://www.sec.gov/Archives/edgar/data/1932651/000197337925000212/0001973379-25-000212.txt
 2025-08-05 16:17:07 | Akerib Avidan | Officer | Shares: 100000 | Value: $390,000.0 | Percent: 0.358781% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000212/0001973379-25-000212.txt
+2025-08-05 17:20:36 | Reske James R | Officer | Shares: 39774 | Value: $659,453.0 | Percent: 0.037907% | Link: https://www.sec.gov/Archives/edgar/data/1435648/000071253725000103/0000712537-25-000103.txt
+2025-08-05 17:20:37 | Reske James R | Officer | Shares: 39774 | Value: $659,453.0 | Percent: 0.037907% | Link: https://www.sec.gov/Archives/edgar/data/712537/000071253725000103/0000712537-25-000103.txt
+2025-08-05 17:20:38 | Guyer William | Officer | Shares: 20000 | Value: $1,435,400.0 | Percent: 0.018861% | Link: https://www.sec.gov/Archives/edgar/data/1879013/000197325125000052/0001973251-25-000052.txt
+2025-08-05 17:20:39 | Guyer William | Officer | Shares: 20000 | Value: $1,435,400.0 | Percent: 0.018861% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000052/0001973251-25-000052.txt
+2025-08-05 17:20:41 | Podbere Burt W. | Officer | Shares: 11883 | Value: $5,412,282.28 | Percent: 0.004768% | Link: https://www.sec.gov/Archives/edgar/data/1778610/000195917325004953/0001959173-25-004953.txt
+2025-08-05 17:20:42 | Podbere Burt W. | Officer | Shares: 11883 | Value: $5,412,282.28 | Percent: 0.004768% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000195917325004953/0001959173-25-004953.txt
