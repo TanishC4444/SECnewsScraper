@@ -810,3 +810,6 @@
 2025-08-05 16:57:02 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-08-05T12:45:53-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000141/0001331757-25-000141.txt
 2025-08-05 18:58:49 | 8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer) | 2025-08-05T14:49:44-04:00 | https://www.sec.gov/Archives/edgar/data/2026738/000095017025102837/0000950170-25-102837.txt
 2025-08-05 18:58:49 | 8-K - Barings Private Credit Corp (0001859919) (Filer) | 2025-08-05T14:40:15-04:00 | https://www.sec.gov/Archives/edgar/data/1859919/000185991925000063/0001859919-25-000063.txt
+2025-08-05 19:26:08 | 8-K - Main Street Capital CORP (0001396440) (Filer) | 2025-08-05T15:16:38-04:00 | https://www.sec.gov/Archives/edgar/data/1396440/000139644025000094/0001396440-25-000094.txt
+2025-08-05 19:26:08 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-05T15:15:53-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009037/0001654954-25-009037.txt
+2025-08-05 19:26:10 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-08-05T15:05:32-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000015/0002035428-25-000015.txt

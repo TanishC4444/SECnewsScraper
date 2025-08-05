@@ -448,3 +448,7 @@
 2025-08-05 18:28:49 | Hudson Daniel A. | Officer | Shares: 10000 | Value: $575,641.0 | Percent: 0.020205% | Link: https://www.sec.gov/Archives/edgar/data/98222/000194984625000341/0001949846-25-000341.txt
 2025-08-05 18:28:52 | Rice Calvin | Officer | Shares: 14736 | Value: $270,552.0 | Percent: 0.071566% | Link: https://www.sec.gov/Archives/edgar/data/1757839/000194984625000340/0001949846-25-000340.txt
 2025-08-05 18:28:53 | Rice Calvin | Officer | Shares: 14736 | Value: $270,552.0 | Percent: 0.071566% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000340/0001949846-25-000340.txt
+2025-08-05 19:26:13 | Klein Matthew B. | Officer | Shares: 10739 | Value: $555,662.71 | Percent: 0.013550% | Link: https://www.sec.gov/Archives/edgar/data/1808968/000195917325004958/0001959173-25-004958.txt
+2025-08-05 19:26:14 | Klein Matthew B. | Officer | Shares: 10739 | Value: $555,662.71 | Percent: 0.013550% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325004958/0001959173-25-004958.txt
+2025-08-05 19:26:17 | Fisher Carl M. | Officer | Shares: 18206 | Value: $808,093.34 | Percent: 0.013649% | Link: https://www.sec.gov/Archives/edgar/data/1983680/000195917325004957/0001959173-25-004957.txt
+2025-08-05 19:26:18 | Fisher Carl M. | Officer | Shares: 18206 | Value: $808,093.34 | Percent: 0.013649% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000195917325004957/0001959173-25-004957.txt
