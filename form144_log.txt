@@ -438,3 +438,5 @@
 2025-08-05 17:20:39 | Guyer William | Officer | Shares: 20000 | Value: $1,435,400.0 | Percent: 0.018861% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000052/0001973251-25-000052.txt
 2025-08-05 17:20:41 | Podbere Burt W. | Officer | Shares: 11883 | Value: $5,412,282.28 | Percent: 0.004768% | Link: https://www.sec.gov/Archives/edgar/data/1778610/000195917325004953/0001959173-25-004953.txt
 2025-08-05 17:20:42 | Podbere Burt W. | Officer | Shares: 11883 | Value: $5,412,282.28 | Percent: 0.004768% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000195917325004953/0001959173-25-004953.txt
+2025-08-05 17:42:39 | Starr Robert D. | Officer | Shares: 6175 | Value: $360,928.0 | Percent: 0.020932% | Link: https://www.sec.gov/Archives/edgar/data/1574914/000195917325004955/0001959173-25-004955.txt
+2025-08-05 17:42:39 | Starr Robert D. | Officer | Shares: 6175 | Value: $360,928.0 | Percent: 0.020932% | Link: https://www.sec.gov/Archives/edgar/data/819793/000195917325004955/0001959173-25-004955.txt
