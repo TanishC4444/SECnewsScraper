@@ -815,3 +815,12 @@
 2025-08-05 19:26:10 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-08-05T15:05:32-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000015/0002035428-25-000015.txt
 2025-08-05 19:42:14 | 8-K - Tennessee Valley Authority (0001376986) (Filer) | 2025-08-05T15:35:14-04:00 | https://www.sec.gov/Archives/edgar/data/1376986/000137698625000047/0001376986-25-000047.txt
 2025-08-05 19:53:01 | 8-K - ARTESIAN RESOURCES CORP (0000863110) (Filer) | 2025-08-05T15:46:51-04:00 | https://www.sec.gov/Archives/edgar/data/863110/000086311025000052/0000863110-25-000052.txt
+2025-08-05 20:13:12 | 8-K - Baldwin Insurance Group, Inc. (0001781755) (Filer) | 2025-08-05T16:12:35-04:00 | https://www.sec.gov/Archives/edgar/data/1781755/000178175525000094/0001781755-25-000094.txt
+2025-08-05 20:13:14 | 8-K - Porch Group, Inc. (0001784535) (Filer) | 2025-08-05T16:12:27-04:00 | https://www.sec.gov/Archives/edgar/data/1784535/000178453525000093/0001784535-25-000093.txt
+2025-08-05 20:13:16 | 8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer) | 2025-08-05T16:12:25-04:00 | https://www.sec.gov/Archives/edgar/data/1819928/000155837025010291/0001558370-25-010291.txt
+2025-08-05 20:13:17 | 8-K - Match Group, Inc. (0000891103) (Filer) | 2025-08-05T16:12:15-04:00 | https://www.sec.gov/Archives/edgar/data/891103/000089110325000122/0000891103-25-000122.txt
+2025-08-05 20:13:19 | 8-K - Coupang, Inc. (0001834584) (Filer) | 2025-08-05T16:12:04-04:00 | https://www.sec.gov/Archives/edgar/data/1834584/000183458425000156/0001834584-25-000156.txt
+2025-08-05 20:13:20 | 8-K - Toast, Inc. (0001650164) (Filer) | 2025-08-05T16:12:01-04:00 | https://www.sec.gov/Archives/edgar/data/1650164/000165016425000288/0001650164-25-000288.txt
+2025-08-05 20:13:22 | 8-K - QuidelOrtho Corp (0001906324) (Filer) | 2025-08-05T16:11:59-04:00 | https://www.sec.gov/Archives/edgar/data/1906324/000190632425000150/0001906324-25-000150.txt
+2025-08-05 20:13:24 | 8-K - Douglas Emmett Inc (0001364250) (Filer) | 2025-08-05T16:11:33-04:00 | https://www.sec.gov/Archives/edgar/data/1364250/000136425025000033/0001364250-25-000033.txt
+2025-08-05 20:13:25 | 8-K - Klaviyo, Inc. (0001835830) (Filer) | 2025-08-05T16:11:31-04:00 | https://www.sec.gov/Archives/edgar/data/1835830/000183583025000083/0001835830-25-000083.txt

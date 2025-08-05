@@ -454,3 +454,13 @@
 2025-08-05 19:26:18 | Fisher Carl M. | Officer | Shares: 18206 | Value: $808,093.34 | Percent: 0.013649% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000195917325004957/0001959173-25-004957.txt
 2025-08-05 19:42:16 | Zawoyski Sara E | Officer | Shares: 22109 | Value: $1,979,567.46 | Percent: 0.013737% | Link: https://www.sec.gov/Archives/edgar/data/1790401/000195917325004959/0001959173-25-004959.txt
 2025-08-05 19:42:17 | Zawoyski Sara E | Officer | Shares: 22109 | Value: $1,979,567.46 | Percent: 0.013737% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325004959/0001959173-25-004959.txt
+2025-08-05 20:13:27 | PAUL BREAUX | Officer | Shares: 15000 | Value: $5,429,478.0 | Percent: 0.010863% | Link: https://www.sec.gov/Archives/edgar/data/1700545/000195004725005432/0001950047-25-005432.txt
+2025-08-05 20:13:28 | PAUL BREAUX | Officer | Shares: 15000 | Value: $5,429,478.0 | Percent: 0.010863% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000195004725005432/0001950047-25-005432.txt
+2025-08-05 20:13:29 | Bowron Kimberly T | Officer | Shares: 28500 | Value: $35,072.0 | Percent: 0.011897% | Link: https://www.sec.gov/Archives/edgar/data/1866673/000197248125000160/0001972481-25-000160.txt
+2025-08-05 20:13:30 | Bowron Kimberly T | Officer | Shares: 28500 | Value: $35,072.0 | Percent: 0.011897% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000160/0001972481-25-000160.txt
+2025-08-05 20:13:31 | Bloom Paul D | Officer | Shares: 42073 | Value: $51,359.0 | Percent: 0.017562% | Link: https://www.sec.gov/Archives/edgar/data/1854032/000197248125000159/0001972481-25-000159.txt
+2025-08-05 20:13:32 | Bloom Paul D | Officer | Shares: 42073 | Value: $51,359.0 | Percent: 0.017562% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000159/0001972481-25-000159.txt
+2025-08-05 20:13:32 | Agiri Oluwagbemileke Yusuf | Officer | Shares: 5738 | Value: $7,061.0 | Percent: 0.002395% | Link: https://www.sec.gov/Archives/edgar/data/2071241/000197248125000158/0001972481-25-000158.txt
+2025-08-05 20:13:33 | Agiri Oluwagbemileke Yusuf | Officer | Shares: 5738 | Value: $7,061.0 | Percent: 0.002395% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000158/0001972481-25-000158.txt
+2025-08-05 20:13:35 | GIOVANNI MARIA DOLCI | Officer | Shares: 6500 | Value: $162,468.15 | Percent: 0.012086% | Link: https://www.sec.gov/Archives/edgar/data/1801887/000195004725005431/0001950047-25-005431.txt
+2025-08-05 20:13:36 | GIOVANNI MARIA DOLCI | Officer | Shares: 6500 | Value: $162,468.15 | Percent: 0.012086% | Link: https://www.sec.gov/Archives/edgar/data/921582/000195004725005431/0001950047-25-005431.txt
