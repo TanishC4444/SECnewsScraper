@@ -503,3 +503,5 @@
 2025-08-05 22:45:24 | PK GIVING TRUST | Affiliate | Shares: 1219788 | Value: $554,832,770.0 | Percent: 0.489387% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000682/0001968582-25-000682.txt
 2025-08-05 23:22:14 | DK GIVING TRUST | Affiliate | Shares: 1489038 | Value: $677,303,825.0 | Percent: 0.597412% | Link: https://www.sec.gov/Archives/edgar/data/1984947/000196858225000684/0001968582-25-000684.txt
 2025-08-05 23:22:15 | DK GIVING TRUST | Affiliate | Shares: 1489038 | Value: $677,303,825.0 | Percent: 0.597412% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000684/0001968582-25-000684.txt
+2025-08-05 23:40:22 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $517,410.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000685/0001968582-25-000685.txt
+2025-08-05 23:40:22 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $517,410.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000685/0001968582-25-000685.txt
