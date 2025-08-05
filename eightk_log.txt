@@ -770,3 +770,5 @@
 2025-08-05 11:48:09 | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | 2025-08-05T07:36:59-04:00 | https://www.sec.gov/Archives/edgar/data/877212/000087721225000129/0000877212-25-000129.txt
 2025-08-05 11:48:11 | 8-K - Alight, Inc. / Delaware (0001809104) (Filer) | 2025-08-05T07:36:47-04:00 | https://www.sec.gov/Archives/edgar/data/1809104/000162828025037609/0001628280-25-037609.txt
 2025-08-05 11:48:12 | 8-K - Surgery Partners, Inc. (0001638833) (Filer) | 2025-08-05T07:34:10-04:00 | https://www.sec.gov/Archives/edgar/data/1638833/000163883325000132/0001638833-25-000132.txt
+2025-08-05 11:57:04 | 8-K - Frontier Group Holdings, Inc. (0001670076) (Filer) | 2025-08-05T07:55:29-04:00 | https://www.sec.gov/Archives/edgar/data/1670076/000167007625000151/0001670076-25-000151.txt
+2025-08-05 11:57:06 | 8-K - Knife River Corp (0001955520) (Filer) | 2025-08-05T07:50:34-04:00 | https://www.sec.gov/Archives/edgar/data/1955520/000195552025000057/0001955520-25-000057.txt
