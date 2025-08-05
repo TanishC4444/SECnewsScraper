@@ -782,3 +782,12 @@
 2025-08-05 12:48:53 | 8-K - DANA Inc (0000026780) (Filer) | 2025-08-05T08:34:11-04:00 | https://www.sec.gov/Archives/edgar/data/26780/000119312525173087/0001193125-25-173087.txt
 2025-08-05 12:48:54 | 8-K - LGI Homes, Inc. (0001580670) (Filer) | 2025-08-05T08:32:19-04:00 | https://www.sec.gov/Archives/edgar/data/1580670/000158067025000055/0001580670-25-000055.txt
 2025-08-05 12:48:56 | 8-K - NNN REIT, INC. (0000751364) (Filer) | 2025-08-05T08:31:47-04:00 | https://www.sec.gov/Archives/edgar/data/751364/000095017025102425/0000950170-25-102425.txt
+2025-08-05 13:32:48 | 8-K - Y-mAbs Therapeutics, Inc. (0001722964) (Filer) | 2025-08-05T09:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/1722964/000110465925073993/0001104659-25-073993.txt
+2025-08-05 13:32:49 | 8-K - EQV Ventures Acquisition Corp. (0002021042) (Filer) | 2025-08-05T09:27:57-04:00 | https://www.sec.gov/Archives/edgar/data/2021042/000121390025071771/0001213900-25-071771.txt
+2025-08-05 13:32:51 | 8-K - AYRO, Inc. (0001086745) (Filer) | 2025-08-05T09:20:52-04:00 | https://www.sec.gov/Archives/edgar/data/1086745/000164117225022163/0001641172-25-022163.txt
+2025-08-05 13:32:53 | 8-K - Otter Tail Corp (0001466593) (Filer) | 2025-08-05T09:20:24-04:00 | https://www.sec.gov/Archives/edgar/data/1466593/000146659325000102/0001466593-25-000102.txt
+2025-08-05 13:32:53 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-08-05T09:19:55-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025102462/0000950170-25-102462.txt
+2025-08-05 13:32:55 | 8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer) | 2025-08-05T09:16:26-04:00 | https://www.sec.gov/Archives/edgar/data/813762/000110465925073987/0001104659-25-073987.txt
+2025-08-05 13:32:56 | 8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer) | 2025-08-05T09:12:45-04:00 | https://www.sec.gov/Archives/edgar/data/1939433/000193943325000105/0001939433-25-000105.txt
+2025-08-05 13:32:58 | 8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer) | 2025-08-05T09:12:16-04:00 | https://www.sec.gov/Archives/edgar/data/1937993/000121390025071764/0001213900-25-071764.txt
+2025-08-05 13:32:59 | 8-K - Vigil Neuroscience, Inc. (0001827087) (Filer) | 2025-08-05T09:07:17-04:00 | https://www.sec.gov/Archives/edgar/data/1827087/000119312525173134/0001193125-25-173134.txt
