@@ -497,3 +497,7 @@
 2025-08-05 21:48:24 | LAUREEN E SEEGER | Officer | Shares: 61721 | Value: $18,360,040.94 | Percent: 0.008869% | Link: https://www.sec.gov/Archives/edgar/data/1357325/000195004725005469/0001950047-25-005469.txt
 2025-08-05 21:48:25 | LAUREEN E SEEGER | Officer | Shares: 61721 | Value: $18,360,040.94 | Percent: 0.008869% | Link: https://www.sec.gov/Archives/edgar/data/4962/000195004725005469/0001950047-25-005469.txt
 2025-08-05 21:48:26 | DCG International Investments Ltd | Affiliate | Shares: 5500 | Value: $76,890.0 | Percent: 0.076061% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000278/0001977454-25-000278.txt
+2025-08-05 22:45:21 | WEISNER AIMEE S | Former Director | Shares: 13491 | Value: $362,523.41 | Percent: 0.027240% | Link: https://www.sec.gov/Archives/edgar/data/1227308/000200731725000805/0002007317-25-000805.txt
+2025-08-05 22:45:22 | WEISNER AIMEE S | Former Director | Shares: 13491 | Value: $362,523.41 | Percent: 0.027240% | Link: https://www.sec.gov/Archives/edgar/data/718937/000200731725000805/0002007317-25-000805.txt
+2025-08-05 22:45:23 | PK GIVING TRUST | Affiliate | Shares: 1219788 | Value: $554,832,770.0 | Percent: 0.489387% | Link: https://www.sec.gov/Archives/edgar/data/1984948/000196858225000682/0001968582-25-000682.txt
+2025-08-05 22:45:24 | PK GIVING TRUST | Affiliate | Shares: 1219788 | Value: $554,832,770.0 | Percent: 0.489387% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000682/0001968582-25-000682.txt
