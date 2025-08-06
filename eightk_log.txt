@@ -861,3 +861,12 @@
 2025-08-05 21:33:35 | 8-K - Bain Capital Specialty Finance, Inc. (0001655050) (Filer) | 2025-08-05T17:21:37-04:00 | https://www.sec.gov/Archives/edgar/data/1655050/000119312525173633/0001193125-25-173633.txt
 2025-08-05 21:33:36 | 8-K - SurgePays, Inc. (0001392694) (Filer) | 2025-08-05T17:20:57-04:00 | https://www.sec.gov/Archives/edgar/data/1392694/000164117225022288/0001641172-25-022288.txt
 2025-08-05 21:33:38 | 8-K - ChampionsGate Acquisition Corp (0002024460) (Filer) | 2025-08-05T17:20:26-04:00 | https://www.sec.gov/Archives/edgar/data/2024460/000121390025072180/0001213900-25-072180.txt
+2025-08-06 10:20:08 | 8-K - Trulieve Cannabis Corp. (0001754195) (Filer) | 2025-08-06T06:17:46-04:00 | https://www.sec.gov/Archives/edgar/data/1754195/000175419525000051/0001754195-25-000051.txt
+2025-08-06 10:20:09 | 8-K - Global Net Lease, Inc. (0001526113) (Filer) | 2025-08-06T06:15:52-04:00 | https://www.sec.gov/Archives/edgar/data/1526113/000110465925074482/0001104659-25-074482.txt
+2025-08-06 10:20:12 | 8-K - Eve Holding, Inc. (0001823652) (Filer) | 2025-08-06T06:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/1823652/000155485525000901/0001554855-25-000901.txt
+2025-08-06 10:20:13 | 8-K - INNOSPEC INC. (0001054905) (Filer) | 2025-08-06T06:07:39-04:00 | https://www.sec.gov/Archives/edgar/data/1054905/000119312525173932/0001193125-25-173932.txt
+2025-08-06 10:20:14 | 8-K - National Vision Holdings, Inc. (0001710155) (Filer) | 2025-08-06T06:07:10-04:00 | https://www.sec.gov/Archives/edgar/data/1710155/000171015525000042/0001710155-25-000042.txt
+2025-08-06 10:20:16 | 8-K - LivaNova PLC (0001639691) (Filer) | 2025-08-06T06:07:09-04:00 | https://www.sec.gov/Archives/edgar/data/1639691/000163969125000099/0001639691-25-000099.txt
+2025-08-06 10:20:17 | 8-K - Claritev Corp (0001793229) (Filer) | 2025-08-06T06:06:40-04:00 | https://www.sec.gov/Archives/edgar/data/1793229/000179322925000132/0001793229-25-000132.txt
+2025-08-06 10:20:18 | 8-K - Oscar Health, Inc. (0001568651) (Filer) | 2025-08-06T06:06:32-04:00 | https://www.sec.gov/Archives/edgar/data/1568651/000156865125000021/0001568651-25-000021.txt
+2025-08-06 10:20:20 | 8-K - Taboola.com Ltd. (0001840502) (Filer) | 2025-08-06T06:05:42-04:00 | https://www.sec.gov/Archives/edgar/data/1840502/000114036125029000/0001140361-25-029000.txt
