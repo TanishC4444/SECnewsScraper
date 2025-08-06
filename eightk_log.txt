@@ -940,3 +940,7 @@
 2025-08-06 13:54:43 | 8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer) | 2025-08-06T09:15:37-04:00 | https://www.sec.gov/Archives/edgar/data/1725430/000149315225011634/0001493152-25-011634.txt
 2025-08-06 13:54:44 | 8-K - Envirotech Vehicles, Inc. (0001563568) (Filer) | 2025-08-06T09:15:15-04:00 | https://www.sec.gov/Archives/edgar/data/1563568/000143774925024973/0001437749-25-024973.txt
 2025-08-06 14:47:51 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-08-06T10:22:32-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000095017025103625/0000950170-25-103625.txt
+2025-08-06 15:34:20 | 8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer) | 2025-08-06T11:33:40-04:00 | https://www.sec.gov/Archives/edgar/data/1331451/000133145125000158/0001331451-25-000158.txt
+2025-08-06 15:34:22 | 8-K - MasterBrand, Inc. (0001941365) (Filer) | 2025-08-06T11:29:43-04:00 | https://www.sec.gov/Archives/edgar/data/1941365/000114036125029079/0001140361-25-029079.txt
+2025-08-06 15:34:24 | 8-K - Cosmos Health Inc. (0001474167) (Filer) | 2025-08-06T11:29:11-04:00 | https://www.sec.gov/Archives/edgar/data/1474167/000147793225005501/0001477932-25-005501.txt
+2025-08-06 15:34:25 | 8-K - MRC GLOBAL INC. (0001439095) (Filer) | 2025-08-06T11:17:07-04:00 | https://www.sec.gov/Archives/edgar/data/1439095/000143774925024994/0001437749-25-024994.txt

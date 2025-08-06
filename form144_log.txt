@@ -513,3 +513,5 @@
 2025-08-06 13:54:48 | Gray Lindsay E. | Former Officer | Shares: 15075 | Value: $240,446.25 | Percent: 0.015377% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325004970/0001959173-25-004970.txt
 2025-08-06 14:47:54 | Parish Douglas J. | Director | Shares: 7500 | Value: $114,150.0 | Percent: 0.027302% | Link: https://www.sec.gov/Archives/edgar/data/1745268/000196856425000003/0001968564-25-000003.txt
 2025-08-06 14:47:55 | Parish Douglas J. | Director | Shares: 7500 | Value: $114,150.0 | Percent: 0.027302% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000003/0001968564-25-000003.txt
+2025-08-06 15:34:27 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,501,531.88 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1298675/000197249025000010/0001972490-25-000010.txt
+2025-08-06 15:34:28 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,501,531.88 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1185498/000197249025000010/0001972490-25-000010.txt
