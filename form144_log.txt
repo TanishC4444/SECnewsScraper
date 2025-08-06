@@ -539,3 +539,5 @@
 2025-08-06 19:26:17 | Utzschneider Lisa | Officer | Shares: 9922 | Value: $80,523.98 | Percent: 0.006013% | Link: https://www.sec.gov/Archives/edgar/data/1651659/000195917325004985/0001959173-25-004985.txt
 2025-08-06 19:26:18 | Topper David Joseph | Former Officer | Shares: 53187 | Value: $797,446.0 | Percent: 0.044619% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725000811/0002007317-25-000811.txt
 2025-08-06 19:26:19 | Topper David Joseph | Former Officer | Shares: 53187 | Value: $797,446.0 | Percent: 0.044619% | Link: https://www.sec.gov/Archives/edgar/data/1740378/000200731725000811/0002007317-25-000811.txt
+2025-08-06 19:51:15 | Freeders James C | Officer | Shares: 12125 | Value: $1,656,956.26 | Percent: 0.018945% | Link: https://www.sec.gov/Archives/edgar/data/1699929/000195917325004986/0001959173-25-004986.txt
+2025-08-06 19:51:16 | Freeders James C | Officer | Shares: 12125 | Value: $1,656,956.26 | Percent: 0.018945% | Link: https://www.sec.gov/Archives/edgar/data/775158/000195917325004986/0001959173-25-004986.txt
