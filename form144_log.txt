@@ -569,3 +569,5 @@
 2025-08-06 22:11:13 | Lee Yew Hon | Officer | Shares: 150000 | Value: $235,000.0 | Percent: 0.252489% | Link: https://www.sec.gov/Archives/edgar/data/1602409/000152013825000242/0001520138-25-000242.txt
 2025-08-06 22:38:22 | Eric Javidi | Former Officer | Shares: 324504 | Value: $2,109,276.0 | Percent: 0.124880% | Link: https://www.sec.gov/Archives/edgar/data/1831317/000196922325000569/0001969223-25-000569.txt
 2025-08-06 22:38:23 | Eric Javidi | Former Officer | Shares: 324504 | Value: $2,109,276.0 | Percent: 0.124880% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000569/0001969223-25-000569.txt
+2025-08-06 22:53:40 | Geveden Rex D | Officer | Shares: 25000 | Value: $4,475,097.0 | Percent: 0.027353% | Link: https://www.sec.gov/Archives/edgar/data/1486957/000192109425000892/0001921094-25-000892.txt
+2025-08-06 22:53:41 | Geveden Rex D | Officer | Shares: 25000 | Value: $4,475,097.0 | Percent: 0.027353% | Link: https://www.sec.gov/Archives/edgar/data/1408482/000192109425000892/0001921094-25-000892.txt
