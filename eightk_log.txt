@@ -951,3 +951,5 @@
 2025-08-06 17:29:50 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-08-06T13:18:53-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525174256/0001193125-25-174256.txt
 2025-08-06 17:29:50 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-08-06T13:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000095017025103733/0000950170-25-103733.txt
 2025-08-06 17:29:51 | 8-K - Karat Packaging Inc. (0001758021) (Filer) | 2025-08-06T12:59:51-04:00 | https://www.sec.gov/Archives/edgar/data/1758021/000162828025038193/0001628280-25-038193.txt
+2025-08-06 17:49:42 | 8-K - American Water Works Company, Inc. (0001410636) (Filer) | 2025-08-06T13:45:43-04:00 | https://www.sec.gov/Archives/edgar/data/1410636/000119312525174298/0001193125-25-174298.txt
+2025-08-06 17:49:44 | 8-K - Edwards Lifesciences Corp (0001099800) (Filer) | 2025-08-06T13:43:31-04:00 | https://www.sec.gov/Archives/edgar/data/1099800/000109980025000046/0001099800-25-000046.txt
