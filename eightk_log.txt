@@ -939,3 +939,4 @@
 2025-08-06 13:54:41 | 8-K - BEST SPAC I Acquisition Corp. (0002051587) (Filer) | 2025-08-06T09:15:51-04:00 | https://www.sec.gov/Archives/edgar/data/2051587/000121390025072337/0001213900-25-072337.txt
 2025-08-06 13:54:43 | 8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer) | 2025-08-06T09:15:37-04:00 | https://www.sec.gov/Archives/edgar/data/1725430/000149315225011634/0001493152-25-011634.txt
 2025-08-06 13:54:44 | 8-K - Envirotech Vehicles, Inc. (0001563568) (Filer) | 2025-08-06T09:15:15-04:00 | https://www.sec.gov/Archives/edgar/data/1563568/000143774925024973/0001437749-25-024973.txt
+2025-08-06 14:47:51 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-08-06T10:22:32-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000095017025103625/0000950170-25-103625.txt
