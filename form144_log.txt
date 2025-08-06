@@ -555,3 +555,5 @@
 2025-08-06 20:50:36 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $517,921.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000698/0001968582-25-000698.txt
 2025-08-06 20:50:37 | Digital Currency Group, Inc. | Affiliate | Shares: 5886 | Value: $4,473.36 | Percent: 0.051518% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000102/0001652536-25-000102.txt
 2025-08-06 20:50:38 | Digital Currency Group, Inc. | Affiliate | Shares: 42857 | Value: $184,405.1 | Percent: 0.090947% | Link: https://www.sec.gov/Archives/edgar/data/1732409/000165253625000100/0001652536-25-000100.txt
+2025-08-06 21:00:26 | CASPER MARC N | Officer | Shares: 10000 | Value: $4,518,206.73 | Percent: 0.002648% | Link: https://www.sec.gov/Archives/edgar/data/1216055/000195917325004995/0001959173-25-004995.txt
+2025-08-06 21:00:27 | CASPER MARC N | Officer | Shares: 10000 | Value: $4,518,206.73 | Percent: 0.002648% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325004995/0001959173-25-004995.txt
