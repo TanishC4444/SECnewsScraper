@@ -561,3 +561,7 @@
 2025-08-06 21:27:05 | MCLAUGHLIN KEVIN F | Director | Shares: 7000 | Value: $251,456.85 | Percent: 0.013872% | Link: https://www.sec.gov/Archives/edgar/data/887359/000195917325004997/0001959173-25-004997.txt
 2025-08-06 21:27:06 | Goldsteen Mitchell B. | AFFILIATE | Shares: 5092 | Value: $8,841.24 | Percent: 0.014437% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000002/0000011790-25-000002.txt
 2025-08-06 21:27:07 | Goldsteen Mitchell B. | AFFILIATE | Shares: 5092 | Value: $8,841.24 | Percent: 0.014437% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000002/0000011790-25-000002.txt
+2025-08-06 21:42:16 | Paolini John F. | Officer | Shares: 29325 | Value: $954,476.0 | Percent: 0.067456% | Link: https://www.sec.gov/Archives/edgar/data/1741533/000192109425000890/0001921094-25-000890.txt
+2025-08-06 21:42:17 | Paolini John F. | Officer | Shares: 29325 | Value: $954,476.0 | Percent: 0.067456% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425000890/0001921094-25-000890.txt
+2025-08-06 21:42:19 | Abraham Chad R | Officer | Shares: 8000 | Value: $2,589,674.0 | Percent: 0.045222% | Link: https://www.sec.gov/Archives/edgar/data/1538591/000192109425000889/0001921094-25-000889.txt
+2025-08-06 21:42:20 | Abraham Chad R | Officer | Shares: 8000 | Value: $2,589,674.0 | Percent: 0.045222% | Link: https://www.sec.gov/Archives/edgar/data/1230245/000192109425000889/0001921094-25-000889.txt
