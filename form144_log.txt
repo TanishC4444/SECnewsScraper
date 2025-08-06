@@ -535,3 +535,7 @@
 2025-08-06 18:39:18 | Goodell Timothy B. | Officer | Shares: 12500 | Value: $528,296.65 | Percent: 0.010704% | Link: https://www.sec.gov/Archives/edgar/data/1453244/000195917325004983/0001959173-25-004983.txt
 2025-08-06 19:00:33 | Kirk Wilson | Officer | Shares: 20000 | Value: $1,100,000.0 | Percent: 0.015293% | Link: https://www.sec.gov/Archives/edgar/data/1654776/000196922325000565/0001969223-25-000565.txt
 2025-08-06 19:00:34 | Kirk Wilson | Officer | Shares: 20000 | Value: $1,100,000.0 | Percent: 0.015293% | Link: https://www.sec.gov/Archives/edgar/data/30625/000196922325000565/0001969223-25-000565.txt
+2025-08-06 19:26:16 | Utzschneider Lisa | Officer | Shares: 9922 | Value: $80,523.98 | Percent: 0.006013% | Link: https://www.sec.gov/Archives/edgar/data/1842718/000195917325004985/0001959173-25-004985.txt
+2025-08-06 19:26:17 | Utzschneider Lisa | Officer | Shares: 9922 | Value: $80,523.98 | Percent: 0.006013% | Link: https://www.sec.gov/Archives/edgar/data/1651659/000195917325004985/0001959173-25-004985.txt
+2025-08-06 19:26:18 | Topper David Joseph | Former Officer | Shares: 53187 | Value: $797,446.0 | Percent: 0.044619% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725000811/0002007317-25-000811.txt
+2025-08-06 19:26:19 | Topper David Joseph | Former Officer | Shares: 53187 | Value: $797,446.0 | Percent: 0.044619% | Link: https://www.sec.gov/Archives/edgar/data/1740378/000200731725000811/0002007317-25-000811.txt
