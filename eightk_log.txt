@@ -948,3 +948,6 @@
 2025-08-06 16:38:54 | 8-K - MGE ENERGY INC (0001161728) (Filer) | 2025-08-06T12:01:32-04:00 | https://www.sec.gov/Archives/edgar/data/1161728/000095017025103696/0000950170-25-103696.txt
 2025-08-06 16:38:55 | 8-K - MADISON GAS & ELECTRIC CO (0000061339) (Filer) | 2025-08-06T12:01:32-04:00 | https://www.sec.gov/Archives/edgar/data/61339/000095017025103696/0000950170-25-103696.txt
 2025-08-06 16:38:56 | 8-K - Nexscient, Inc. (0001976663) (Filer) | 2025-08-06T12:01:20-04:00 | https://www.sec.gov/Archives/edgar/data/1976663/000147793225005504/0001477932-25-005504.txt
+2025-08-06 17:29:50 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-08-06T13:18:53-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525174256/0001193125-25-174256.txt
+2025-08-06 17:29:50 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-08-06T13:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000095017025103733/0000950170-25-103733.txt
+2025-08-06 17:29:51 | 8-K - Karat Packaging Inc. (0001758021) (Filer) | 2025-08-06T12:59:51-04:00 | https://www.sec.gov/Archives/edgar/data/1758021/000162828025038193/0001628280-25-038193.txt

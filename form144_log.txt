@@ -523,3 +523,5 @@
 2025-08-06 16:38:59 | VANHYFTE CURTIS | Officer | Shares: 9754 | Value: $636,158.6 | Percent: 0.009868% | Link: https://www.sec.gov/Archives/edgar/data/1562476/000195917325004978/0001959173-25-004978.txt
 2025-08-06 16:38:59 | Tabolt Brian | Officer | Shares: 7015 | Value: $477,161.0 | Percent: 0.000639% | Link: https://www.sec.gov/Archives/edgar/data/1600664/000195917325004977/0001959173-25-004977.txt
 2025-08-06 16:38:59 | Tabolt Brian | Officer | Shares: 7015 | Value: $477,161.0 | Percent: 0.000639% | Link: https://www.sec.gov/Archives/edgar/data/1164727/000195917325004977/0001959173-25-004977.txt
+2025-08-06 17:29:53 | Carroll Patrick Harrison | Officer | Shares: 60000 | Value: $3,214,880.58 | Percent: 0.027568% | Link: https://www.sec.gov/Archives/edgar/data/1839736/000195917325004980/0001959173-25-004980.txt
+2025-08-06 17:29:54 | Carroll Patrick Harrison | Officer | Shares: 60000 | Value: $3,214,880.58 | Percent: 0.027568% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325004980/0001959173-25-004980.txt
