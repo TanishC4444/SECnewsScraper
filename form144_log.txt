@@ -515,3 +515,7 @@
 2025-08-06 14:47:55 | Parish Douglas J. | Director | Shares: 7500 | Value: $114,150.0 | Percent: 0.027302% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000003/0001968564-25-000003.txt
 2025-08-06 15:34:27 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,501,531.88 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1298675/000197249025000010/0001972490-25-000010.txt
 2025-08-06 15:34:28 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,501,531.88 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1185498/000197249025000010/0001972490-25-000010.txt
+2025-08-06 15:51:37 | LeMaitre George W | Officer | Shares: 100000 | Value: $9,350,530.0 | Percent: 0.441744% | Link: https://www.sec.gov/Archives/edgar/data/1365737/000194984625000342/0001949846-25-000342.txt
+2025-08-06 15:51:38 | LeMaitre George W | Officer | Shares: 100000 | Value: $9,350,530.0 | Percent: 0.441744% | Link: https://www.sec.gov/Archives/edgar/data/1158895/000194984625000342/0001949846-25-000342.txt
+2025-08-06 15:51:40 | Brown Erin Elizabeth | Officer | Shares: 350000 | Value: $9,443,842.22 | Percent: 0.203015% | Link: https://www.sec.gov/Archives/edgar/data/2053086/000195917325004974/0001959173-25-004974.txt
+2025-08-06 15:51:40 | Brown Erin Elizabeth | Officer | Shares: 350000 | Value: $9,443,842.22 | Percent: 0.203015% | Link: https://www.sec.gov/Archives/edgar/data/1859392/000195917325004974/0001959173-25-004974.txt
