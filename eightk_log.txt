@@ -912,3 +912,13 @@
 2025-08-06 11:53:02 | 8-K - Clearway Energy LLC (0001637757) (Filer) | 2025-08-06T07:45:06-04:00 | https://www.sec.gov/Archives/edgar/data/1637757/000110465925074526/0001104659-25-074526.txt
 2025-08-06 11:53:04 | 8-K - Bioventus Inc. (0001665988) (Filer) | 2025-08-06T07:42:43-04:00 | https://www.sec.gov/Archives/edgar/data/1665988/000166598825000016/0001665988-25-000016.txt
 2025-08-06 11:53:05 | 8-K - Clearway Energy, Inc. (0001567683) (Filer) | 2025-08-06T07:42:22-04:00 | https://www.sec.gov/Archives/edgar/data/1567683/000110465925074522/0001104659-25-074522.txt
+2025-08-06 12:23:54 | 8-K - PINNACLE WEST CAPITAL CORP (0000764622) (Filer) | 2025-08-06T08:23:01-04:00 | https://www.sec.gov/Archives/edgar/data/764622/000076462225000070/0000764622-25-000070.txt
+2025-08-06 12:23:55 | 8-K - ARIZONA PUBLIC SERVICE CO (0000007286) (Filer) | 2025-08-06T08:23:01-04:00 | https://www.sec.gov/Archives/edgar/data/7286/000076462225000070/0000764622-25-000070.txt
+2025-08-06 12:23:56 | 8-K - Turning Point Brands, Inc. (0001290677) (Filer) | 2025-08-06T08:15:18-04:00 | https://www.sec.gov/Archives/edgar/data/1290677/000143774925024957/0001437749-25-024957.txt
+2025-08-06 12:23:58 | 8-K - Golden Matrix Group, Inc. (0001437925) (Filer) | 2025-08-06T08:10:34-04:00 | https://www.sec.gov/Archives/edgar/data/1437925/000147793225005491/0001477932-25-005491.txt
+2025-08-06 12:23:59 | 8-K - Centuri Holdings, Inc. (0001981599) (Filer) | 2025-08-06T08:08:22-04:00 | https://www.sec.gov/Archives/edgar/data/1981599/000198159925000045/0001981599-25-000045.txt
+2025-08-06 12:24:00 | 8-K - Astria Therapeutics, Inc. (0001454789) (Filer) | 2025-08-06T08:07:17-04:00 | https://www.sec.gov/Archives/edgar/data/1454789/000110465925074530/0001104659-25-074530.txt
+2025-08-06 12:24:01 | 8-K - SmartRent, Inc. (0001837014) (Filer) | 2025-08-06T08:05:35-04:00 | https://www.sec.gov/Archives/edgar/data/1837014/000095017025103551/0000950170-25-103551.txt
+2025-08-06 12:24:03 | 8-K - Pulmatrix, Inc. (0001574235) (Filer) | 2025-08-06T08:05:31-04:00 | https://www.sec.gov/Archives/edgar/data/1574235/000164117225022354/0001641172-25-022354.txt
+2025-08-06 12:24:04 | 8-K - DOMINOS PIZZA INC (0001286681) (Filer) | 2025-08-06T08:05:26-04:00 | https://www.sec.gov/Archives/edgar/data/1286681/000119312525174015/0001193125-25-174015.txt
+2025-08-06 12:24:05 | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | 2025-08-06T08:05:16-04:00 | https://www.sec.gov/Archives/edgar/data/1692115/000169211525000139/0001692115-25-000139.txt
