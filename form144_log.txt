@@ -557,3 +557,7 @@
 2025-08-06 20:50:38 | Digital Currency Group, Inc. | Affiliate | Shares: 42857 | Value: $184,405.1 | Percent: 0.090947% | Link: https://www.sec.gov/Archives/edgar/data/1732409/000165253625000100/0001652536-25-000100.txt
 2025-08-06 21:00:26 | CASPER MARC N | Officer | Shares: 10000 | Value: $4,518,206.73 | Percent: 0.002648% | Link: https://www.sec.gov/Archives/edgar/data/1216055/000195917325004995/0001959173-25-004995.txt
 2025-08-06 21:00:27 | CASPER MARC N | Officer | Shares: 10000 | Value: $4,518,206.73 | Percent: 0.002648% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325004995/0001959173-25-004995.txt
+2025-08-06 21:27:04 | MCLAUGHLIN KEVIN F | Director | Shares: 7000 | Value: $251,456.85 | Percent: 0.013872% | Link: https://www.sec.gov/Archives/edgar/data/1214938/000195917325004997/0001959173-25-004997.txt
+2025-08-06 21:27:05 | MCLAUGHLIN KEVIN F | Director | Shares: 7000 | Value: $251,456.85 | Percent: 0.013872% | Link: https://www.sec.gov/Archives/edgar/data/887359/000195917325004997/0001959173-25-004997.txt
+2025-08-06 21:27:06 | Goldsteen Mitchell B. | AFFILIATE | Shares: 5092 | Value: $8,841.24 | Percent: 0.014437% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000002/0000011790-25-000002.txt
+2025-08-06 21:27:07 | Goldsteen Mitchell B. | AFFILIATE | Shares: 5092 | Value: $8,841.24 | Percent: 0.014437% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000002/0000011790-25-000002.txt
