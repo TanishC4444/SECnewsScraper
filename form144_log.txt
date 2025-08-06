@@ -509,3 +509,5 @@
 2025-08-05 23:52:31 | George Robert Kurtz | CEO | Shares: 42267 | Value: $19,039,859.0 | Percent: 0.016958% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000687/0001968582-25-000687.txt
 2025-08-06 02:59:40 | SACHIN J. MEHRA | Officer | Shares: 6758 | Value: $3,850,775.98 | Percent: 0.000753% | Link: https://www.sec.gov/Archives/edgar/data/1427531/000195004725005470/0001950047-25-005470.txt
 2025-08-06 02:59:41 | SACHIN J. MEHRA | Officer | Shares: 6758 | Value: $3,850,775.98 | Percent: 0.000753% | Link: https://www.sec.gov/Archives/edgar/data/1141391/000195004725005470/0001950047-25-005470.txt
+2025-08-06 13:54:47 | Gray Lindsay E. | Former Officer | Shares: 15075 | Value: $240,446.25 | Percent: 0.015377% | Link: https://www.sec.gov/Archives/edgar/data/1779708/000195917325004970/0001959173-25-004970.txt
+2025-08-06 13:54:48 | Gray Lindsay E. | Former Officer | Shares: 15075 | Value: $240,446.25 | Percent: 0.015377% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325004970/0001959173-25-004970.txt
