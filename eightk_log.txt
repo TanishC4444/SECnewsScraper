@@ -953,3 +953,4 @@
 2025-08-06 17:29:51 | 8-K - Karat Packaging Inc. (0001758021) (Filer) | 2025-08-06T12:59:51-04:00 | https://www.sec.gov/Archives/edgar/data/1758021/000162828025038193/0001628280-25-038193.txt
 2025-08-06 17:49:42 | 8-K - American Water Works Company, Inc. (0001410636) (Filer) | 2025-08-06T13:45:43-04:00 | https://www.sec.gov/Archives/edgar/data/1410636/000119312525174298/0001193125-25-174298.txt
 2025-08-06 17:49:44 | 8-K - Edwards Lifesciences Corp (0001099800) (Filer) | 2025-08-06T13:43:31-04:00 | https://www.sec.gov/Archives/edgar/data/1099800/000109980025000046/0001099800-25-000046.txt
+2025-08-06 19:00:31 | 8-K - SERVICE CORP INTERNATIONAL (0000089089) (Filer) | 2025-08-06T14:44:57-04:00 | https://www.sec.gov/Archives/edgar/data/89089/000008908925000070/0000089089-25-000070.txt

@@ -533,3 +533,5 @@
 2025-08-06 18:39:15 | Bell Blake R | Officer | Shares: 18000 | Value: $2,122,096.39 | Percent: 0.013144% | Link: https://www.sec.gov/Archives/edgar/data/746515/000195917325004984/0001959173-25-004984.txt
 2025-08-06 18:39:18 | Goodell Timothy B. | Officer | Shares: 12500 | Value: $528,296.65 | Percent: 0.010704% | Link: https://www.sec.gov/Archives/edgar/data/1789832/000195917325004983/0001959173-25-004983.txt
 2025-08-06 18:39:18 | Goodell Timothy B. | Officer | Shares: 12500 | Value: $528,296.65 | Percent: 0.010704% | Link: https://www.sec.gov/Archives/edgar/data/1453244/000195917325004983/0001959173-25-004983.txt
+2025-08-06 19:00:33 | Kirk Wilson | Officer | Shares: 20000 | Value: $1,100,000.0 | Percent: 0.015293% | Link: https://www.sec.gov/Archives/edgar/data/1654776/000196922325000565/0001969223-25-000565.txt
+2025-08-06 19:00:34 | Kirk Wilson | Officer | Shares: 20000 | Value: $1,100,000.0 | Percent: 0.015293% | Link: https://www.sec.gov/Archives/edgar/data/30625/000196922325000565/0001969223-25-000565.txt
