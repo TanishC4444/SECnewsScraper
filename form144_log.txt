@@ -519,3 +519,7 @@
 2025-08-06 15:51:38 | LeMaitre George W | Officer | Shares: 100000 | Value: $9,350,530.0 | Percent: 0.441744% | Link: https://www.sec.gov/Archives/edgar/data/1158895/000194984625000342/0001949846-25-000342.txt
 2025-08-06 15:51:40 | Brown Erin Elizabeth | Officer | Shares: 350000 | Value: $9,443,842.22 | Percent: 0.203015% | Link: https://www.sec.gov/Archives/edgar/data/2053086/000195917325004974/0001959173-25-004974.txt
 2025-08-06 15:51:40 | Brown Erin Elizabeth | Officer | Shares: 350000 | Value: $9,443,842.22 | Percent: 0.203015% | Link: https://www.sec.gov/Archives/edgar/data/1859392/000195917325004974/0001959173-25-004974.txt
+2025-08-06 16:38:58 | VANHYFTE CURTIS | Officer | Shares: 9754 | Value: $636,158.6 | Percent: 0.009868% | Link: https://www.sec.gov/Archives/edgar/data/1976212/000195917325004978/0001959173-25-004978.txt
+2025-08-06 16:38:59 | VANHYFTE CURTIS | Officer | Shares: 9754 | Value: $636,158.6 | Percent: 0.009868% | Link: https://www.sec.gov/Archives/edgar/data/1562476/000195917325004978/0001959173-25-004978.txt
+2025-08-06 16:38:59 | Tabolt Brian | Officer | Shares: 7015 | Value: $477,161.0 | Percent: 0.000639% | Link: https://www.sec.gov/Archives/edgar/data/1600664/000195917325004977/0001959173-25-004977.txt
+2025-08-06 16:38:59 | Tabolt Brian | Officer | Shares: 7015 | Value: $477,161.0 | Percent: 0.000639% | Link: https://www.sec.gov/Archives/edgar/data/1164727/000195917325004977/0001959173-25-004977.txt
