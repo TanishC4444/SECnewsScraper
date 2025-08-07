@@ -571,3 +571,9 @@
 2025-08-06 22:38:23 | Eric Javidi | Former Officer | Shares: 324504 | Value: $2,109,276.0 | Percent: 0.124880% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000569/0001969223-25-000569.txt
 2025-08-06 22:53:40 | Geveden Rex D | Officer | Shares: 25000 | Value: $4,475,097.0 | Percent: 0.027353% | Link: https://www.sec.gov/Archives/edgar/data/1486957/000192109425000892/0001921094-25-000892.txt
 2025-08-06 22:53:41 | Geveden Rex D | Officer | Shares: 25000 | Value: $4,475,097.0 | Percent: 0.027353% | Link: https://www.sec.gov/Archives/edgar/data/1408482/000192109425000892/0001921094-25-000892.txt
+2025-08-07 02:07:06 | Family Trust No. C5 DTD 5/27/22 | Stockholder | Shares: 758207 | Value: $15,338,527.61 | Percent: 0.318520% | Link: https://www.sec.gov/Archives/edgar/data/1989510/000200731725000813/0002007317-25-000813.txt
+2025-08-07 02:07:07 | Family Trust No. C5 DTD 5/27/22 | Stockholder | Shares: 758207 | Value: $15,338,527.61 | Percent: 0.318520% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000200731725000813/0002007317-25-000813.txt
+2025-08-07 02:07:08 | CK Hutchison Holdings | Affiliate | Shares: 644844 | Value: $9,922,988.0 | Percent: 0.035707% | Link: https://www.sec.gov/Archives/edgar/data/1696588/000095017025104477/0000950170-25-104477.txt
+2025-08-07 02:07:09 | CK Hutchison Holdings | Affiliate | Shares: 644844 | Value: $9,922,988.0 | Percent: 0.035707% | Link: https://www.sec.gov/Archives/edgar/data/1475260/000095017025104477/0000950170-25-104477.txt
+2025-08-07 02:07:11 | IKAV Impact S.a r.l. | Former Affiliate | Shares: 1500000 | Value: $74,550,000.0 | Percent: 1.682085% | Link: https://www.sec.gov/Archives/edgar/data/2028159/000110465925074834/0001104659-25-074834.txt
+2025-08-07 02:07:12 | IKAV Impact S.a r.l. | Former Affiliate | Shares: 1500000 | Value: $74,550,000.0 | Percent: 1.682085% | Link: https://www.sec.gov/Archives/edgar/data/1609253/000110465925074834/0001104659-25-074834.txt
