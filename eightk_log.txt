@@ -1087,3 +1087,4 @@
 2025-08-07 15:31:19 | 8-K - Goldman Sachs Real Estate Finance Trust Inc (0002027537) (Filer) | 2025-08-07T11:27:27-04:00 | https://www.sec.gov/Archives/edgar/data/2027537/000119312525175185/0001193125-25-175185.txt
 2025-08-07 15:31:23 | 8-K - Essential Utilities, Inc. (0000078128) (Filer) | 2025-08-07T11:18:32-04:00 | https://www.sec.gov/Archives/edgar/data/78128/000155278125000248/0001552781-25-000248.txt
 2025-08-07 15:31:25 | 8-K - Arrive AI Inc. (0001818274) (Filer) | 2025-08-07T11:01:23-04:00 | https://www.sec.gov/Archives/edgar/data/1818274/000164117225022543/0001641172-25-022543.txt
+2025-08-07 15:59:35 | 8-K - LIVE VENTURES Inc (0001045742) (Filer) | 2025-08-07T11:51:22-04:00 | https://www.sec.gov/Archives/edgar/data/1045742/000162828025038699/0001628280-25-038699.txt
