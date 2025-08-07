@@ -617,3 +617,5 @@
 2025-08-07 18:30:55 | Mandy Tenner | EVP &amp; General Counsel | Shares: 5242 | Value: $143,683.0 | Percent: 0.017410% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000199937125010803/0001999371-25-010803.txt
 2025-08-07 18:59:14 | Buck Robert M | Officer | Shares: 7350 | Value: $3,051,637.73 | Percent: 0.026120% | Link: https://www.sec.gov/Archives/edgar/data/1644960/000195917325005027/0001959173-25-005027.txt
 2025-08-07 18:59:14 | Buck Robert M | Officer | Shares: 7350 | Value: $3,051,637.73 | Percent: 0.026120% | Link: https://www.sec.gov/Archives/edgar/data/1633931/000195917325005027/0001959173-25-005027.txt
+2025-08-07 19:25:08 | Shreves Kenneth W | Officer | Shares: 11846 | Value: $640,696.34 | Percent: 0.037358% | Link: https://www.sec.gov/Archives/edgar/data/1832461/000200731725000817/0002007317-25-000817.txt
+2025-08-07 19:25:09 | Shreves Kenneth W | Officer | Shares: 11846 | Value: $640,696.34 | Percent: 0.037358% | Link: https://www.sec.gov/Archives/edgar/data/1601548/000200731725000817/0002007317-25-000817.txt
