@@ -1112,3 +1112,4 @@
 2025-08-07 19:24:57 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-08-07T15:10:30-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000027/0001976927-25-000027.txt
 2025-08-07 19:25:03 | 8-K - Sealy Industrial Partners IV, LP (0001929017) (Filer) | 2025-08-07T15:04:43-04:00 | https://www.sec.gov/Archives/edgar/data/1929017/000095017025104879/0000950170-25-104879.txt
 2025-08-07 19:25:04 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-07T14:59:50-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000170/0001325878-25-000170.txt
+2025-08-07 19:37:57 | 8-K/A - CYTTA CORP. (0001383088) (Filer) | 2025-08-07T15:34:43-04:00 | https://www.sec.gov/Archives/edgar/data/1383088/000147793225005539/0001477932-25-005539.txt
