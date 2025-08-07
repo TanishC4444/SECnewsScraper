@@ -1135,3 +1135,12 @@
 2025-08-07 20:46:11 | 8-K - XPLR Infrastructure, LP (0001603145) (Filer) | 2025-08-07T16:42:31-04:00 | https://www.sec.gov/Archives/edgar/data/1603145/000160314525000038/0001603145-25-000038.txt
 2025-08-07 20:46:12 | 8-K - WM TECHNOLOGY, INC. (0001779474) (Filer) | 2025-08-07T16:41:53-04:00 | https://www.sec.gov/Archives/edgar/data/1779474/000177947425000034/0001779474-25-000034.txt
 2025-08-07 20:46:16 | 8-K - Pangaea Logistics Solutions Ltd. (0001606909) (Filer) | 2025-08-07T16:40:37-04:00 | https://www.sec.gov/Archives/edgar/data/1606909/000160690925000137/0001606909-25-000137.txt
+2025-08-07 20:58:09 | 8-K - Fortress Net Lease REIT (0001966394) (Filer) | 2025-08-07T16:57:12-04:00 | https://www.sec.gov/Archives/edgar/data/1966394/000095017025105215/0000950170-25-105215.txt
+2025-08-07 20:58:11 | 8-K - APPlife Digital Solutions Inc (0001755101) (Filer) | 2025-08-07T16:56:48-04:00 | https://www.sec.gov/Archives/edgar/data/1755101/000109690625001243/0001096906-25-001243.txt
+2025-08-07 20:58:13 | 8-K - RING ENERGY, INC. (0001384195) (Filer) | 2025-08-07T16:56:34-04:00 | https://www.sec.gov/Archives/edgar/data/1384195/000162828025038975/0001628280-25-038975.txt
+2025-08-07 20:58:15 | 8-K - Vistagen Therapeutics, Inc. (0001411685) (Filer) | 2025-08-07T16:56:33-04:00 | https://www.sec.gov/Archives/edgar/data/1411685/000141168525000062/0001411685-25-000062.txt
+2025-08-07 20:58:15 | 8-K/A - ContextLogic Inc. (0001822250) (Filer) | 2025-08-07T16:55:01-04:00 | https://www.sec.gov/Archives/edgar/data/1822250/000090266425003416/0000902664-25-003416.txt
+2025-08-07 20:58:17 | 8-K - Liberty Media Corp (0001560385) (Filer) | 2025-08-07T16:54:50-04:00 | https://www.sec.gov/Archives/edgar/data/1560385/000156038525000018/0001560385-25-000018.txt
+2025-08-07 20:58:19 | 8-K - ULTRALIFE CORP (0000875657) (Filer) | 2025-08-07T16:54:00-04:00 | https://www.sec.gov/Archives/edgar/data/875657/000143774925025482/0001437749-25-025482.txt
+2025-08-07 20:58:20 | 8-K - Horizon Technology Finance Corp (0001487428) (Filer) | 2025-08-07T16:53:32-04:00 | https://www.sec.gov/Archives/edgar/data/1487428/000143774925025481/0001437749-25-025481.txt
+2025-08-07 20:58:21 | 8-K/A - ContextLogic Holdings Inc. (0002064307) (Filer) | 2025-08-07T16:53:03-04:00 | https://www.sec.gov/Archives/edgar/data/2064307/000090266425003415/0000902664-25-003415.txt
