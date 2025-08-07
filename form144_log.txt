@@ -649,3 +649,7 @@
 2025-08-07 21:23:05 | THOMAS JACKSON | Officer | Shares: 36596 | Value: $891,639.58 | Percent: 0.020881% | Link: https://www.sec.gov/Archives/edgar/data/1436870/000195004725005536/0001950047-25-005536.txt
 2025-08-07 21:23:07 | Fairclough Brett | Officer | Shares: 90701 | Value: $3,846,047.0 | Percent: 0.107240% | Link: https://www.sec.gov/Archives/edgar/data/1788170/000192109425000904/0001921094-25-000904.txt
 2025-08-07 21:23:08 | Fairclough Brett | Officer | Shares: 90701 | Value: $3,846,047.0 | Percent: 0.107240% | Link: https://www.sec.gov/Archives/edgar/data/1592386/000192109425000904/0001921094-25-000904.txt
+2025-08-07 21:39:58 | NANCY A LYSKAWA | Officer | Shares: 24344 | Value: $97,429.37 | Percent: 0.026313% | Link: https://www.sec.gov/Archives/edgar/data/1717861/000195004725005538/0001950047-25-005538.txt
+2025-08-07 21:39:59 | NANCY A LYSKAWA | Officer | Shares: 24344 | Value: $97,429.37 | Percent: 0.026313% | Link: https://www.sec.gov/Archives/edgar/data/1635282/000195004725005538/0001950047-25-005538.txt
+2025-08-07 21:40:01 | KTR Management Company, LLC | Owner | Shares: 4000000 | Value: $118,000,000.0 | Percent: 5.918658% | Link: https://www.sec.gov/Archives/edgar/data/2036327/000095017025105251/0000950170-25-105251.txt
+2025-08-07 21:40:02 | KTR Management Company, LLC | Owner | Shares: 4000000 | Value: $118,000,000.0 | Percent: 5.918658% | Link: https://www.sec.gov/Archives/edgar/data/1697500/000095017025105251/0000950170-25-105251.txt
