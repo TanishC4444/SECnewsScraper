@@ -653,3 +653,7 @@
 2025-08-07 21:39:59 | NANCY A LYSKAWA | Officer | Shares: 24344 | Value: $97,429.37 | Percent: 0.026313% | Link: https://www.sec.gov/Archives/edgar/data/1635282/000195004725005538/0001950047-25-005538.txt
 2025-08-07 21:40:01 | KTR Management Company, LLC | Owner | Shares: 4000000 | Value: $118,000,000.0 | Percent: 5.918658% | Link: https://www.sec.gov/Archives/edgar/data/2036327/000095017025105251/0000950170-25-105251.txt
 2025-08-07 21:40:02 | KTR Management Company, LLC | Owner | Shares: 4000000 | Value: $118,000,000.0 | Percent: 5.918658% | Link: https://www.sec.gov/Archives/edgar/data/1697500/000095017025105251/0000950170-25-105251.txt
+2025-08-07 21:51:08 | Paul A. Maleh | Officer | Shares: 5200 | Value: $973,222.64 | Percent: 0.078982% | Link: https://www.sec.gov/Archives/edgar/data/1379160/000141588925021291/0001415889-25-021291.txt
+2025-08-07 21:51:09 | Paul A. Maleh | Officer | Shares: 5200 | Value: $973,222.64 | Percent: 0.078982% | Link: https://www.sec.gov/Archives/edgar/data/1053706/000141588925021291/0001415889-25-021291.txt
+2025-08-07 21:51:11 | Randall D.  Miles | Director | Shares: 10000 | Value: $102,700.0 | Percent: 0.006360% | Link: https://www.sec.gov/Archives/edgar/data/1495932/000196858225000701/0001968582-25-000701.txt
+2025-08-07 21:51:12 | Randall D.  Miles | Director | Shares: 10000 | Value: $102,700.0 | Percent: 0.006360% | Link: https://www.sec.gov/Archives/edgar/data/1198741/000196858225000701/0001968582-25-000701.txt
