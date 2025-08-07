@@ -1045,3 +1045,13 @@
 2025-08-07 11:39:56 | 8-K - Sunrise Realty Trust, Inc. (0002012706) (Filer) | 2025-08-07T07:35:10-04:00 | https://www.sec.gov/Archives/edgar/data/2012706/000201270625000042/0002012706-25-000042.txt
 2025-08-07 11:39:58 | 8-K - Silence Therapeutics plc (0001479615) (Filer) | 2025-08-07T07:35:07-04:00 | https://www.sec.gov/Archives/edgar/data/1479615/000119312525174958/0001193125-25-174958.txt
 2025-08-07 11:39:59 | 8-K - Cheniere Energy Partners, L.P. (0001383650) (Filer) | 2025-08-07T07:33:54-04:00 | https://www.sec.gov/Archives/edgar/data/1383650/000138365025000031/0001383650-25-000031.txt
+2025-08-07 11:51:40 | 8-K - WK Kellogg Co (0001959348) (Filer) | 2025-08-07T07:50:54-04:00 | https://www.sec.gov/Archives/edgar/data/1959348/000119312525174969/0001193125-25-174969.txt
+2025-08-07 11:51:42 | 8-K - Bark, Inc. (0001819574) (Filer) | 2025-08-07T07:50:22-04:00 | https://www.sec.gov/Archives/edgar/data/1819574/000181957425000038/0001819574-25-000038.txt
+2025-08-07 11:51:42 | 8-K/A - Inotiv, Inc. (0000720154) (Filer) | 2025-08-07T07:49:42-04:00 | https://www.sec.gov/Archives/edgar/data/720154/000162828025038604/0001628280-25-038604.txt
+2025-08-07 11:51:44 | 8-K - KNOW LABS, INC. (0001074828) (Filer) | 2025-08-07T07:47:00-04:00 | https://www.sec.gov/Archives/edgar/data/1074828/000165495425009164/0001654954-25-009164.txt
+2025-08-07 11:51:47 | 8-K - Cars.com Inc. (0001683606) (Filer) | 2025-08-07T07:45:29-04:00 | https://www.sec.gov/Archives/edgar/data/1683606/000095017025104575/0000950170-25-104575.txt
+2025-08-07 11:51:49 | 8-K - Intellia Therapeutics, Inc. (0001652130) (Filer) | 2025-08-07T07:45:29-04:00 | https://www.sec.gov/Archives/edgar/data/1652130/000095017025104574/0000950170-25-104574.txt
+2025-08-07 11:51:51 | 8-K - Priority Technology Holdings, Inc. (0001653558) (Filer) | 2025-08-07T07:44:31-04:00 | https://www.sec.gov/Archives/edgar/data/1653558/000165355825000099/0001653558-25-000099.txt
+2025-08-07 11:51:53 | 8-K - Athene Holding Ltd. (0001527469) (Filer) | 2025-08-07T07:42:44-04:00 | https://www.sec.gov/Archives/edgar/data/1527469/000152746925000059/0001527469-25-000059.txt
+2025-08-07 11:51:55 | 8-K - Cronos Group Inc. (0001656472) (Filer) | 2025-08-07T07:41:32-04:00 | https://www.sec.gov/Archives/edgar/data/1656472/000165647225000077/0001656472-25-000077.txt
+2025-08-07 11:51:57 | 8-K - Immunocore Holdings plc (0001671927) (Filer) | 2025-08-07T07:40:52-04:00 | https://www.sec.gov/Archives/edgar/data/1671927/000114036125029350/0001140361-25-029350.txt
