@@ -1068,3 +1068,12 @@
 2025-08-07 13:03:28 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-08-07T08:54:08-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125029362/0001140361-25-029362.txt
 2025-08-07 13:03:31 | 8-K - SS Innovations International, Inc. (0001676163) (Filer) | 2025-08-07T08:50:25-04:00 | https://www.sec.gov/Archives/edgar/data/1676163/000121390025072842/0001213900-25-072842.txt
 2025-08-07 13:03:33 | 8-K - AEMETIS, INC (0000738214) (Filer) | 2025-08-07T08:45:25-04:00 | https://www.sec.gov/Archives/edgar/data/738214/000143774925025253/0001437749-25-025253.txt
+2025-08-07 13:49:30 | 8-K - APA Corp (0001841666) (Filer) | 2025-08-07T09:47:04-04:00 | https://www.sec.gov/Archives/edgar/data/1841666/000184166625000012/0001841666-25-000012.txt
+2025-08-07 13:49:36 | 8-K - Nordicus Partners Corp (0001011060) (Filer) | 2025-08-07T09:38:25-04:00 | https://www.sec.gov/Archives/edgar/data/1011060/000164117225022537/0001641172-25-022537.txt
+2025-08-07 13:49:40 | 8-K - Limbach Holdings, Inc. (0001606163) (Filer) | 2025-08-07T09:36:37-04:00 | https://www.sec.gov/Archives/edgar/data/1606163/000162828025038649/0001628280-25-038649.txt
+2025-08-07 13:49:56 | 8-K - Blue Bird Corp (0001589526) (Filer) | 2025-08-07T09:29:49-04:00 | https://www.sec.gov/Archives/edgar/data/1589526/000158952625000088/0001589526-25-000088.txt
+2025-08-07 13:50:09 | 8-K - Lottery.com Inc. (0001673481) (Filer) | 2025-08-07T09:26:34-04:00 | https://www.sec.gov/Archives/edgar/data/1673481/000164117225022535/0001641172-25-022535.txt
+2025-08-07 13:50:19 | 8-K - Cohen Circle Acquisition Corp. I (0001894176) (Filer) | 2025-08-07T09:24:57-04:00 | https://www.sec.gov/Archives/edgar/data/1894176/000121390025072860/0001213900-25-072860.txt
+2025-08-07 13:50:19 | 8-K/A - Backblaze, Inc. (0001462056) (Filer) | 2025-08-07T09:23:45-04:00 | https://www.sec.gov/Archives/edgar/data/1462056/000162828025038639/0001628280-25-038639.txt
+2025-08-07 13:50:19 | 8-K12B - Paramount Skydance Corp (0002041610) (Filer) | 2025-08-07T09:14:40-04:00 | https://www.sec.gov/Archives/edgar/data/2041610/000119312525175046/0001193125-25-175046.txt
+2025-08-07 13:50:38 | 8-K - GLOBAL PAYMENTS INC (0001123360) (Filer) | 2025-08-07T09:10:02-04:00 | https://www.sec.gov/Archives/edgar/data/1123360/000112336025000043/0001123360-25-000043.txt
