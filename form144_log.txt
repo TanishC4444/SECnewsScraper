@@ -609,3 +609,9 @@
 2025-08-07 17:23:48 | BERGERON DANIEL A | Director | Shares: 48743 | Value: $19,985,000.0 | Percent: 0.154433% | Link: https://www.sec.gov/Archives/edgar/data/1204696/000200731725000815/0002007317-25-000815.txt
 2025-08-07 17:23:50 | Coleman Charles S. | Officer | Shares: 59289 | Value: $1,719,381.0 | Percent: 0.055773% | Link: https://www.sec.gov/Archives/edgar/data/1791222/000195917325005016/0001959173-25-005016.txt
 2025-08-07 17:23:50 | Coleman Charles S. | Officer | Shares: 59289 | Value: $1,719,381.0 | Percent: 0.055773% | Link: https://www.sec.gov/Archives/edgar/data/1395942/000195917325005016/0001959173-25-005016.txt
+2025-08-07 18:30:46 | Goralski Christian T JR | Officer | Shares: 6165 | Value: $925,860.32 | Percent: 0.001157% | Link: https://www.sec.gov/Archives/edgar/data/1973503/000195917325005026/0001959173-25-005026.txt
+2025-08-07 18:30:47 | Goralski Christian T JR | Officer | Shares: 6165 | Value: $925,860.32 | Percent: 0.001157% | Link: https://www.sec.gov/Archives/edgar/data/66740/000195917325005026/0001959173-25-005026.txt
+2025-08-07 18:30:49 | Page Andrew E | Former Officer | Shares: 10922 | Value: $687,172.95 | Percent: 0.019658% | Link: https://www.sec.gov/Archives/edgar/data/1769347/000195917325005025/0001959173-25-005025.txt
+2025-08-07 18:30:51 | Page Andrew E | Former Officer | Shares: 10922 | Value: $687,172.95 | Percent: 0.019658% | Link: https://www.sec.gov/Archives/edgar/data/1760965/000195917325005025/0001959173-25-005025.txt
+2025-08-07 18:30:54 | Mandy Tenner | EVP &amp; General Counsel | Shares: 5242 | Value: $143,683.0 | Percent: 0.017410% | Link: https://www.sec.gov/Archives/edgar/data/1917010/000199937125010803/0001999371-25-010803.txt
+2025-08-07 18:30:55 | Mandy Tenner | EVP &amp; General Counsel | Shares: 5242 | Value: $143,683.0 | Percent: 0.017410% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000199937125010803/0001999371-25-010803.txt
