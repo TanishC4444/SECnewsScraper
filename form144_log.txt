@@ -657,3 +657,5 @@
 2025-08-07 21:51:09 | Paul A. Maleh | Officer | Shares: 5200 | Value: $973,222.64 | Percent: 0.078982% | Link: https://www.sec.gov/Archives/edgar/data/1053706/000141588925021291/0001415889-25-021291.txt
 2025-08-07 21:51:11 | Randall D.  Miles | Director | Shares: 10000 | Value: $102,700.0 | Percent: 0.006360% | Link: https://www.sec.gov/Archives/edgar/data/1495932/000196858225000701/0001968582-25-000701.txt
 2025-08-07 21:51:12 | Randall D.  Miles | Director | Shares: 10000 | Value: $102,700.0 | Percent: 0.006360% | Link: https://www.sec.gov/Archives/edgar/data/1198741/000196858225000701/0001968582-25-000701.txt
+2025-08-07 22:30:14 | CD Financial, LLC, William H. Milmoe, Manager | 10% stockholder | Shares: 7900000 | Value: $404,322,000.0 | Percent: 3.065089% | Link: https://www.sec.gov/Archives/edgar/data/1443194/000182912625005933/0001829126-25-005933.txt
+2025-08-07 22:30:15 | CD Financial, LLC, William H. Milmoe, Manager | 10% stockholder | Shares: 7900000 | Value: $404,322,000.0 | Percent: 3.065089% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000182912625005933/0001829126-25-005933.txt
