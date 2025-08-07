@@ -599,3 +599,7 @@
 2025-08-07 16:37:00 | Kang Andrew | Officer | Shares: 18750 | Value: $7,406,250.0 | Percent: 0.007105% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325005008/0001959173-25-005008.txt
 2025-08-07 16:37:02 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,762,657.09 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/1465105/000195917325005007/0001959173-25-005007.txt
 2025-08-07 16:37:03 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,762,657.09 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325005007/0001959173-25-005007.txt
+2025-08-07 16:57:48 | Comparato Christopher P | Former Director | Shares: 175000 | Value: $8,093,750.0 | Percent: 0.034314% | Link: https://www.sec.gov/Archives/edgar/data/1868272/000195917325005014/0001959173-25-005014.txt
+2025-08-07 16:57:51 | Comparato Christopher P | Former Director | Shares: 175000 | Value: $8,093,750.0 | Percent: 0.034314% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005014/0001959173-25-005014.txt
+2025-08-07 16:57:57 | ANGEL STEPHEN F | Director | Shares: 50309 | Value: $23,815,303.45 | Percent: 0.010729% | Link: https://www.sec.gov/Archives/edgar/data/1707925/000195917325005012/0001959173-25-005012.txt
+2025-08-07 16:57:58 | ANGEL STEPHEN F | Director | Shares: 50309 | Value: $23,815,303.45 | Percent: 0.010729% | Link: https://www.sec.gov/Archives/edgar/data/1190775/000195917325005012/0001959173-25-005012.txt
