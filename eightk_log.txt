@@ -998,3 +998,12 @@
 2025-08-06 21:42:11 | 8-K - Greenidge Generation Holdings Inc. (0001844971) (Filer) | 2025-08-06T17:29:08-04:00 | https://www.sec.gov/Archives/edgar/data/1844971/000162828025038430/0001628280-25-038430.txt
 2025-08-06 21:42:13 | 8-K - TALOS ENERGY INC. (0001724965) (Filer) | 2025-08-06T17:26:57-04:00 | https://www.sec.gov/Archives/edgar/data/1724965/000119312525174587/0001193125-25-174587.txt
 2025-08-06 21:42:14 | 8-K - BrooQLy Inc. (0001854526) (Filer) | 2025-08-06T17:26:32-04:00 | https://www.sec.gov/Archives/edgar/data/1854526/000147793225005523/0001477932-25-005523.txt
+2025-08-07 10:15:42 | 8-K - Targa Resources Corp. (0001389170) (Filer) | 2025-08-07T06:15:09-04:00 | https://www.sec.gov/Archives/edgar/data/1389170/000119312525174913/0001193125-25-174913.txt
+2025-08-07 10:15:43 | 8-K - Ultra Clean Holdings, Inc. (0001275014) (Filer) | 2025-08-07T06:13:59-04:00 | https://www.sec.gov/Archives/edgar/data/1275014/000162828025038545/0001628280-25-038545.txt
+2025-08-07 10:15:44 | 8-K - Enovis CORP (0001420800) (Filer) | 2025-08-07T06:11:52-04:00 | https://www.sec.gov/Archives/edgar/data/1420800/000142080025000029/0001420800-25-000029.txt
+2025-08-07 10:15:45 | 8-K - Privia Health Group, Inc. (0001759655) (Filer) | 2025-08-07T06:10:47-04:00 | https://www.sec.gov/Archives/edgar/data/1759655/000175965525000091/0001759655-25-000091.txt
+2025-08-07 10:15:47 | 8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer) | 2025-08-07T06:07:11-04:00 | https://www.sec.gov/Archives/edgar/data/1295947/000129594725000027/0001295947-25-000027.txt
+2025-08-07 10:15:48 | 8-K - ProFrac Holding Corp. (0001881487) (Filer) | 2025-08-07T06:05:09-04:00 | https://www.sec.gov/Archives/edgar/data/1881487/000110465925074901/0001104659-25-074901.txt
+2025-08-07 10:15:49 | 8-K - SEACOR Marine Holdings Inc. (0001690334) (Filer) | 2025-08-07T06:04:51-04:00 | https://www.sec.gov/Archives/edgar/data/1690334/000119312525174900/0001193125-25-174900.txt
+2025-08-07 10:15:50 | 8-K - YETI Holdings, Inc. (0001670592) (Filer) | 2025-08-07T06:04:51-04:00 | https://www.sec.gov/Archives/edgar/data/1670592/000167059225000038/0001670592-25-000038.txt
+2025-08-07 10:15:52 | 8-K - HAEMONETICS CORP (0000313143) (Filer) | 2025-08-07T06:04:03-04:00 | https://www.sec.gov/Archives/edgar/data/313143/000031314325000056/0000313143-25-000056.txt
