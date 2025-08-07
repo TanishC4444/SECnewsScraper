@@ -577,3 +577,9 @@
 2025-08-07 02:07:09 | CK Hutchison Holdings | Affiliate | Shares: 644844 | Value: $9,922,988.0 | Percent: 0.035707% | Link: https://www.sec.gov/Archives/edgar/data/1475260/000095017025104477/0000950170-25-104477.txt
 2025-08-07 02:07:11 | IKAV Impact S.a r.l. | Former Affiliate | Shares: 1500000 | Value: $74,550,000.0 | Percent: 1.682085% | Link: https://www.sec.gov/Archives/edgar/data/2028159/000110465925074834/0001104659-25-074834.txt
 2025-08-07 02:07:12 | IKAV Impact S.a r.l. | Former Affiliate | Shares: 1500000 | Value: $74,550,000.0 | Percent: 1.682085% | Link: https://www.sec.gov/Archives/edgar/data/1609253/000110465925074834/0001104659-25-074834.txt
+2025-08-07 14:44:18 | Darling David E | Former Affiliate | Shares: 56343 | Value: $3,459,460.0 | Percent: 0.113842% | Link: https://www.sec.gov/Archives/edgar/data/1488598/000194984625000344/0001949846-25-000344.txt
+2025-08-07 14:44:19 | Darling David E | Former Affiliate | Shares: 56343 | Value: $3,459,460.0 | Percent: 0.113842% | Link: https://www.sec.gov/Archives/edgar/data/98222/000194984625000344/0001949846-25-000344.txt
+2025-08-07 14:44:22 | Bailey Stephen | Director | Shares: 12500 | Value: $458,950.8 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/1816738/000195779925000155/0001957799-25-000155.txt
+2025-08-07 14:44:24 | Bailey Stephen | Director | Shares: 12500 | Value: $458,950.8 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/891103/000195779925000155/0001957799-25-000155.txt
+2025-08-07 14:44:27 | Nault Casey M. | Officer | Shares: 202257 | Value: $2,229,174.0 | Percent: 0.022473% | Link: https://www.sec.gov/Archives/edgar/data/1548280/000194984625000343/0001949846-25-000343.txt
+2025-08-07 14:44:28 | Nault Casey M. | Officer | Shares: 202257 | Value: $2,229,174.0 | Percent: 0.022473% | Link: https://www.sec.gov/Archives/edgar/data/215466/000194984625000343/0001949846-25-000343.txt
