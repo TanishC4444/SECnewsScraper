@@ -1144,3 +1144,13 @@
 2025-08-07 20:58:19 | 8-K - ULTRALIFE CORP (0000875657) (Filer) | 2025-08-07T16:54:00-04:00 | https://www.sec.gov/Archives/edgar/data/875657/000143774925025482/0001437749-25-025482.txt
 2025-08-07 20:58:20 | 8-K - Horizon Technology Finance Corp (0001487428) (Filer) | 2025-08-07T16:53:32-04:00 | https://www.sec.gov/Archives/edgar/data/1487428/000143774925025481/0001437749-25-025481.txt
 2025-08-07 20:58:21 | 8-K/A - ContextLogic Holdings Inc. (0002064307) (Filer) | 2025-08-07T16:53:03-04:00 | https://www.sec.gov/Archives/edgar/data/2064307/000090266425003415/0000902664-25-003415.txt
+2025-08-07 21:22:44 | 8-K - Tharimmune, Inc. (0001861657) (Filer) | 2025-08-07T17:21:55-04:00 | https://www.sec.gov/Archives/edgar/data/1861657/000164117225022615/0001641172-25-022615.txt
+2025-08-07 21:22:46 | 8-K - CHESAPEAKE UTILITIES CORP (0000019745) (Filer) | 2025-08-07T17:21:19-04:00 | https://www.sec.gov/Archives/edgar/data/19745/000162828025039000/0001628280-25-039000.txt
+2025-08-07 21:22:48 | 8-K - PennyMac Financial Services, Inc. (0001745916) (Filer) | 2025-08-07T17:20:32-04:00 | https://www.sec.gov/Archives/edgar/data/1745916/000110465925075275/0001104659-25-075275.txt
+2025-08-07 21:22:49 | 8-K - MDU RESOURCES GROUP INC (0000067716) (Filer) | 2025-08-07T17:20:32-04:00 | https://www.sec.gov/Archives/edgar/data/67716/000153949725002057/0001539497-25-002057.txt
+2025-08-07 21:22:51 | 8-K - Apple iSports Group, Inc. (0001134982) (Filer) | 2025-08-07T17:20:19-04:00 | https://www.sec.gov/Archives/edgar/data/1134982/000147793225005556/0001477932-25-005556.txt
+2025-08-07 21:22:52 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-08-07T17:20:06-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000141134225000073/0001411342-25-000073.txt
+2025-08-07 21:22:56 | 8-K - KINGSTONE COMPANIES, INC. (0000033992) (Filer) | 2025-08-07T17:19:57-04:00 | https://www.sec.gov/Archives/edgar/data/33992/000102177125000110/0001021771-25-000110.txt
+2025-08-07 21:22:58 | 8-K - Cantor Equity Partners I, Inc. (0002027708) (Filer) | 2025-08-07T17:19:54-04:00 | https://www.sec.gov/Archives/edgar/data/2027708/000121390025073158/0001213900-25-073158.txt
+2025-08-07 21:22:58 | 8-K/A - SilverBox Corp IV (0002015947) (Filer) | 2025-08-07T17:19:00-04:00 | https://www.sec.gov/Archives/edgar/data/2015947/000110465925075273/0001104659-25-075273.txt
+2025-08-07 21:22:59 | 8-K - FTAI Infrastructure Inc. (0001899883) (Filer) | 2025-08-07T17:16:41-04:00 | https://www.sec.gov/Archives/edgar/data/1899883/000189988325000031/0001899883-25-000031.txt

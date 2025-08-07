@@ -643,3 +643,9 @@
 2025-08-07 20:58:26 | Furlong Stephen | Officer | Shares: 98635 | Value: $403,385.03 | Percent: 0.149165% | Link: https://www.sec.gov/Archives/edgar/data/1227636/000195917325005034/0001959173-25-005034.txt
 2025-08-07 20:58:27 | Luca Savi | Officer | Shares: 68026 | Value: $11,196,399.0 | Percent: 0.087213% | Link: https://www.sec.gov/Archives/edgar/data/1538081/000196922325000578/0001969223-25-000578.txt
 2025-08-07 20:58:28 | Luca Savi | Officer | Shares: 68026 | Value: $11,196,399.0 | Percent: 0.087213% | Link: https://www.sec.gov/Archives/edgar/data/216228/000196922325000578/0001969223-25-000578.txt
+2025-08-07 21:23:01 | HOOPS ALAN | Director | Shares: 14000 | Value: $1,232,000.0 | Percent: 0.027259% | Link: https://www.sec.gov/Archives/edgar/data/1230877/000200731725000824/0002007317-25-000824.txt
+2025-08-07 21:23:03 | HOOPS ALAN | Director | Shares: 14000 | Value: $1,232,000.0 | Percent: 0.027259% | Link: https://www.sec.gov/Archives/edgar/data/874866/000200731725000824/0002007317-25-000824.txt
+2025-08-07 21:23:05 | THOMAS JACKSON | Officer | Shares: 36596 | Value: $891,639.58 | Percent: 0.020881% | Link: https://www.sec.gov/Archives/edgar/data/1692063/000195004725005536/0001950047-25-005536.txt
+2025-08-07 21:23:05 | THOMAS JACKSON | Officer | Shares: 36596 | Value: $891,639.58 | Percent: 0.020881% | Link: https://www.sec.gov/Archives/edgar/data/1436870/000195004725005536/0001950047-25-005536.txt
+2025-08-07 21:23:07 | Fairclough Brett | Officer | Shares: 90701 | Value: $3,846,047.0 | Percent: 0.107240% | Link: https://www.sec.gov/Archives/edgar/data/1788170/000192109425000904/0001921094-25-000904.txt
+2025-08-07 21:23:08 | Fairclough Brett | Officer | Shares: 90701 | Value: $3,846,047.0 | Percent: 0.107240% | Link: https://www.sec.gov/Archives/edgar/data/1592386/000192109425000904/0001921094-25-000904.txt
