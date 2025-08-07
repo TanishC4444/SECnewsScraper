@@ -603,3 +603,9 @@
 2025-08-07 16:57:51 | Comparato Christopher P | Former Director | Shares: 175000 | Value: $8,093,750.0 | Percent: 0.034314% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005014/0001959173-25-005014.txt
 2025-08-07 16:57:57 | ANGEL STEPHEN F | Director | Shares: 50309 | Value: $23,815,303.45 | Percent: 0.010729% | Link: https://www.sec.gov/Archives/edgar/data/1707925/000195917325005012/0001959173-25-005012.txt
 2025-08-07 16:57:58 | ANGEL STEPHEN F | Director | Shares: 50309 | Value: $23,815,303.45 | Percent: 0.010729% | Link: https://www.sec.gov/Archives/edgar/data/1190775/000195917325005012/0001959173-25-005012.txt
+2025-08-07 17:23:44 | BESSETTE ANDY F | Officer | Shares: 7742 | Value: $2,050,856.57 | Percent: 0.003439% | Link: https://www.sec.gov/Archives/edgar/data/1198918/000195917325005018/0001959173-25-005018.txt
+2025-08-07 17:23:45 | BESSETTE ANDY F | Officer | Shares: 7742 | Value: $2,050,856.57 | Percent: 0.003439% | Link: https://www.sec.gov/Archives/edgar/data/86312/000195917325005018/0001959173-25-005018.txt
+2025-08-07 17:23:47 | BERGERON DANIEL A | Director | Shares: 48743 | Value: $19,985,000.0 | Percent: 0.154433% | Link: https://www.sec.gov/Archives/edgar/data/1324948/000200731725000815/0002007317-25-000815.txt
+2025-08-07 17:23:48 | BERGERON DANIEL A | Director | Shares: 48743 | Value: $19,985,000.0 | Percent: 0.154433% | Link: https://www.sec.gov/Archives/edgar/data/1204696/000200731725000815/0002007317-25-000815.txt
+2025-08-07 17:23:50 | Coleman Charles S. | Officer | Shares: 59289 | Value: $1,719,381.0 | Percent: 0.055773% | Link: https://www.sec.gov/Archives/edgar/data/1791222/000195917325005016/0001959173-25-005016.txt
+2025-08-07 17:23:50 | Coleman Charles S. | Officer | Shares: 59289 | Value: $1,719,381.0 | Percent: 0.055773% | Link: https://www.sec.gov/Archives/edgar/data/1395942/000195917325005016/0001959173-25-005016.txt
