@@ -593,3 +593,9 @@
 2025-08-07 15:31:37 | Eric Musser | Officer | Shares: 20000 | Value: $1,317,550.16 | Percent: 0.002335% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000571/0001969223-25-000571.txt
 2025-08-07 15:48:47 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,375,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325005005/0001959173-25-005005.txt
 2025-08-07 15:48:48 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,375,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005005/0001959173-25-005005.txt
+2025-08-07 16:36:56 | CASPER MARC N | Officer | Shares: 8000 | Value: $3,638,880.0 | Percent: 0.002119% | Link: https://www.sec.gov/Archives/edgar/data/1216055/000195917325005009/0001959173-25-005009.txt
+2025-08-07 16:36:57 | CASPER MARC N | Officer | Shares: 8000 | Value: $3,638,880.0 | Percent: 0.002119% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325005009/0001959173-25-005009.txt
+2025-08-07 16:36:59 | Kang Andrew | Officer | Shares: 18750 | Value: $7,406,250.0 | Percent: 0.007105% | Link: https://www.sec.gov/Archives/edgar/data/1825170/000195917325005008/0001959173-25-005008.txt
+2025-08-07 16:37:00 | Kang Andrew | Officer | Shares: 18750 | Value: $7,406,250.0 | Percent: 0.007105% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325005008/0001959173-25-005008.txt
+2025-08-07 16:37:02 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,762,657.09 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/1465105/000195917325005007/0001959173-25-005007.txt
+2025-08-07 16:37:03 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,762,657.09 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325005007/0001959173-25-005007.txt
