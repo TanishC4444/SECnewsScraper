@@ -1163,3 +1163,13 @@
 2025-08-07 21:39:54 | 8-K - GRAPHJET TECHNOLOGY (0001879373) (Filer) | 2025-08-07T17:25:25-04:00 | https://www.sec.gov/Archives/edgar/data/1879373/000121390025073165/0001213900-25-073165.txt
 2025-08-07 21:39:55 | 8-K - Algorhythm Holdings, Inc. (0000923601) (Filer) | 2025-08-07T17:25:20-04:00 | https://www.sec.gov/Archives/edgar/data/923601/000164117225022621/0001641172-25-022621.txt
 2025-08-07 21:39:57 | 8-K - Panamera Holdings Corp (0001620749) (Filer) | 2025-08-07T17:25:02-04:00 | https://www.sec.gov/Archives/edgar/data/1620749/000164033425001381/0001640334-25-001381.txt
+2025-08-08 10:12:21 | 8-K - SANUWAVE Health, Inc. (0001417663) (Filer) | 2025-08-08T06:09:22-04:00 | https://www.sec.gov/Archives/edgar/data/1417663/000162828025039115/0001628280-25-039115.txt
+2025-08-08 10:12:24 | 8-K - Strawberry Fields REIT, Inc. (0001782430) (Filer) | 2025-08-08T06:08:16-04:00 | https://www.sec.gov/Archives/edgar/data/1782430/000164117225022654/0001641172-25-022654.txt
+2025-08-08 10:12:25 | 8-K - Strawberry Fields REIT, Inc. (0001782430) (Filer) | 2025-08-08T06:07:24-04:00 | https://www.sec.gov/Archives/edgar/data/1782430/000164117225022652/0001641172-25-022652.txt
+2025-08-08 10:12:27 | 8-K - Tempus AI, Inc. (0001717115) (Filer) | 2025-08-08T06:04:11-04:00 | https://www.sec.gov/Archives/edgar/data/1717115/000095017025105441/0000950170-25-105441.txt
+2025-08-08 10:12:29 | 8-K - ONEOK INC /NEW/ (0001039684) (Filer) | 2025-08-08T06:02:24-04:00 | https://www.sec.gov/Archives/edgar/data/1039684/000119312525175816/0001193125-25-175816.txt
+2025-08-08 10:12:30 | 8-K - American Strategic Investment Co. (0001595527) (Filer) | 2025-08-08T06:01:15-04:00 | https://www.sec.gov/Archives/edgar/data/1595527/000162828025039113/0001628280-25-039113.txt
+2025-08-08 10:12:31 | 8-K/A - aTYR PHARMA INC (0001339970) (Filer) | 2025-08-07T21:33:53-04:00 | https://www.sec.gov/Archives/edgar/data/1339970/000133997025000016/0001339970-25-000016.txt
+2025-08-08 10:12:32 | 8-K - D. Boral ARC Acquisition I Corp. (0002065779) (Filer) | 2025-08-07T21:18:40-04:00 | https://www.sec.gov/Archives/edgar/data/2065779/000182912625005944/0001829126-25-005944.txt
+2025-08-08 10:12:34 | 8-K - Phoenix Plus Corp. (0001785493) (Filer) | 2025-08-07T20:54:29-04:00 | https://www.sec.gov/Archives/edgar/data/1785493/000164117225022641/0001641172-25-022641.txt
+2025-08-08 10:12:36 | 8-K - TruBridge, Inc. (0001169445) (Filer) | 2025-08-07T20:15:15-04:00 | https://www.sec.gov/Archives/edgar/data/1169445/000143774925025532/0001437749-25-025532.txt
