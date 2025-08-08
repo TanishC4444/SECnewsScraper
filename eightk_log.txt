@@ -1221,3 +1221,4 @@
 2025-08-08 14:26:16 | 8-K - Wells Fargo Commercial Mortgage Trust 2025-5C5 (0002063021) (Filer) | 2025-08-08T10:24:33-04:00 | https://www.sec.gov/Archives/edgar/data/2063021/000153949725002060/0001539497-25-002060.txt
 2025-08-08 14:48:29 | 8-K - MOOG INC. (0000067887) (Filer) | 2025-08-08T10:39:04-04:00 | https://www.sec.gov/Archives/edgar/data/67887/000006788725000066/0000067887-25-000066.txt
 2025-08-08 14:48:30 | 8-K - LEE ENTERPRISES, Inc (0000058361) (Filer) | 2025-08-08T10:29:38-04:00 | https://www.sec.gov/Archives/edgar/data/58361/000162828025039152/0001628280-25-039152.txt
+2025-08-08 14:59:37 | 8-K - Columbia Seligman Premium Technology Growth Fund, Inc. (0001471420) (Filer) | 2025-08-08T10:53:43-04:00 | https://www.sec.gov/Archives/edgar/data/1471420/000119312525176394/0001193125-25-176394.txt
