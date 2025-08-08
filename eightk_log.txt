@@ -1174,3 +1174,7 @@
 2025-08-08 10:12:34 | 8-K - Phoenix Plus Corp. (0001785493) (Filer) | 2025-08-07T20:54:29-04:00 | https://www.sec.gov/Archives/edgar/data/1785493/000164117225022641/0001641172-25-022641.txt
 2025-08-08 10:12:36 | 8-K - TruBridge, Inc. (0001169445) (Filer) | 2025-08-07T20:15:15-04:00 | https://www.sec.gov/Archives/edgar/data/1169445/000143774925025532/0001437749-25-025532.txt
 2025-08-08 10:42:41 | 8-K - Inception Growth Acquisition Ltd (0001866838) (Filer) | 2025-08-08T06:30:11-04:00 | https://www.sec.gov/Archives/edgar/data/1866838/000121390025073292/0001213900-25-073292.txt
+2025-08-08 10:56:55 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-08-08T06:56:19-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525176002/0001193125-25-176002.txt
+2025-08-08 10:56:57 | 8-K - Essent Group Ltd. (0001448893) (Filer) | 2025-08-08T06:53:14-04:00 | https://www.sec.gov/Archives/edgar/data/1448893/000144889325000078/0001448893-25-000078.txt
+2025-08-08 10:56:58 | 8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer) | 2025-08-08T06:46:00-04:00 | https://www.sec.gov/Archives/edgar/data/1921963/000192196325000119/0001921963-25-000119.txt
+2025-08-08 10:57:00 | 8-K - NATHANS FAMOUS, INC. (0000069733) (Filer) | 2025-08-08T06:45:12-04:00 | https://www.sec.gov/Archives/edgar/data/69733/000143774925025549/0001437749-25-025549.txt
