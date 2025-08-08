@@ -691,3 +691,5 @@
 2025-08-08 16:35:01 | Gilliland Marguerite Amy | Officer | Shares: 33740 | Value: $10,634,883.5 | Percent: 0.012543% | Link: https://www.sec.gov/Archives/edgar/data/40533/000195917325005048/0001959173-25-005048.txt
 2025-08-08 16:35:03 | Bell Bernice | Officer | Shares: 31500 | Value: $297,990.0 | Percent: 0.003024% | Link: https://www.sec.gov/Archives/edgar/data/1665177/000195917325005047/0001959173-25-005047.txt
 2025-08-08 16:35:04 | Bell Bernice | Officer | Shares: 31500 | Value: $297,990.0 | Percent: 0.003024% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325005047/0001959173-25-005047.txt
+2025-08-08 16:52:15 | David Doherty | Officer | Shares: 47491 | Value: $1,110,769.0 | Percent: 0.037042% | Link: https://www.sec.gov/Archives/edgar/data/1908911/000196922325000582/0001969223-25-000582.txt
+2025-08-08 16:52:16 | David Doherty | Officer | Shares: 47491 | Value: $1,110,769.0 | Percent: 0.037042% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000582/0001969223-25-000582.txt
