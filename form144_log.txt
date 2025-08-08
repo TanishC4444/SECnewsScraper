@@ -734,3 +734,11 @@
 2025-08-08 21:40:34 | THOMAS RYAN | Officer | Shares: 150000 | Value: $12,073,065.0 | Percent: 0.106959% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005583/0001950047-25-005583.txt
 2025-08-08 21:40:36 | Robert Ashe | Director | Shares: 100000 | Value: $15,107,000.0 | Percent: 0.008194% | Link: https://www.sec.gov/Archives/edgar/data/1594805/000159480525000077/0001594805-25-000077.txt
 2025-08-08 21:40:37 | Robert Ashe | Director | Shares: 100000 | Value: $15,107,000.0 | Percent: 0.008194% | Link: https://www.sec.gov/Archives/edgar/data/1414310/000159480525000077/0001594805-25-000077.txt
+2025-08-08 21:50:31 | PIERRE BEAUDOIN | Director | Shares: 24794 | Value: $287,781.48 | Percent: 0.003858% | Link: https://www.sec.gov/Archives/edgar/data/2055690/000195004725005586/0001950047-25-005586.txt
+2025-08-08 21:50:32 | PIERRE BEAUDOIN | Director | Shares: 24794 | Value: $287,781.48 | Percent: 0.003858% | Link: https://www.sec.gov/Archives/edgar/data/215466/000195004725005586/0001950047-25-005586.txt
+2025-08-08 21:50:33 | MICHAEL OLAGUE | Officer | Shares: 5593 | Value: $158,561.55 | Percent: 0.041154% | Link: https://www.sec.gov/Archives/edgar/data/1630922/000195004725005585/0001950047-25-005585.txt
+2025-08-08 21:50:34 | MICHAEL OLAGUE | Officer | Shares: 5593 | Value: $158,561.55 | Percent: 0.041154% | Link: https://www.sec.gov/Archives/edgar/data/1130144/000195004725005585/0001950047-25-005585.txt
+2025-08-08 21:50:36 | Deborah Bial | Former Director | Shares: 80770 | Value: $3,311,570.0 | Percent: 0.163704% | Link: https://www.sec.gov/Archives/edgar/data/1869919/000196922325000590/0001969223-25-000590.txt
+2025-08-08 21:50:36 | Deborah Bial | Former Director | Shares: 80770 | Value: $3,311,570.0 | Percent: 0.163704% | Link: https://www.sec.gov/Archives/edgar/data/1657573/000196922325000590/0001969223-25-000590.txt
+2025-08-08 21:50:41 | JOHN FAULK | Officer | Shares: 14550 | Value: $1,168,925.18 | Percent: 0.010375% | Link: https://www.sec.gov/Archives/edgar/data/1486448/000195004725005584/0001950047-25-005584.txt
+2025-08-08 21:50:42 | JOHN FAULK | Officer | Shares: 14550 | Value: $1,168,925.18 | Percent: 0.010375% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005584/0001950047-25-005584.txt
