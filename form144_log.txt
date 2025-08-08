@@ -669,3 +669,5 @@
 2025-08-08 10:42:41 | Yang Xinghui | 10% Stockholder | Shares: 73977 | Value: $105,787.11 | Percent: 1.677270% | Link: https://www.sec.gov/Archives/edgar/data/1716770/000197550625000003/0001975506-25-000003.txt
 2025-08-08 11:58:04 | Gamzu Guy | Director | Shares: 10000 | Value: $41,100.0 | Percent: 0.004938% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000197640825000252/0001976408-25-000252.txt
 2025-08-08 11:58:05 | Gamzu Guy | Director | Shares: 10000 | Value: $41,100.0 | Percent: 0.004938% | Link: https://www.sec.gov/Archives/edgar/data/1436979/000197640825000252/0001976408-25-000252.txt
+2025-08-08 12:52:57 | Lind Erik | Director | Shares: 27000 | Value: $311,310.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1331284/000095015725000640/0000950157-25-000640.txt
+2025-08-08 12:52:58 | Lind Erik | Director | Shares: 27000 | Value: $311,310.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1331218/000095015725000640/0000950157-25-000640.txt
