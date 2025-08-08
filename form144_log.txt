@@ -699,3 +699,9 @@
 2025-08-08 17:30:53 | Allen James Douglas | Officer | Shares: 19000 | Value: $498,750.0 | Percent: 0.037377% | Link: https://www.sec.gov/Archives/edgar/data/1406587/000194984625000349/0001949846-25-000349.txt
 2025-08-08 18:23:12 | Harford Barney | Director | Shares: 15823 | Value: $1,424,598.86 | Percent: 0.004888% | Link: https://www.sec.gov/Archives/edgar/data/1453413/000195917325005056/0001959173-25-005056.txt
 2025-08-08 18:23:13 | Harford Barney | Director | Shares: 15823 | Value: $1,424,598.86 | Percent: 0.004888% | Link: https://www.sec.gov/Archives/edgar/data/100517/000195917325005056/0001959173-25-005056.txt
+2025-08-08 19:22:42 | Schwab Charles R. | Director | Shares: 104500 | Value: $10,105,150.0 | Percent: 0.005751% | Link: https://www.sec.gov/Archives/edgar/data/923738/000194984625000350/0001949846-25-000350.txt
+2025-08-08 19:22:43 | Schwab Charles R. | Director | Shares: 104500 | Value: $10,105,150.0 | Percent: 0.005751% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000350/0001949846-25-000350.txt
+2025-08-08 19:22:44 | Dyckerhoff Stefan A | Affiliate | Shares: 26000 | Value: $4,556,737.0 | Percent: 0.016035% | Link: https://www.sec.gov/Archives/edgar/data/1736297/000197325125000056/0001973251-25-000056.txt
+2025-08-08 19:22:45 | Dyckerhoff Stefan A | Affiliate | Shares: 26000 | Value: $4,556,737.0 | Percent: 0.016035% | Link: https://www.sec.gov/Archives/edgar/data/1484394/000197325125000056/0001973251-25-000056.txt
+2025-08-08 19:22:47 | Wilson Steven K. | Officer | Shares: 20000 | Value: $384,038.94 | Percent: 0.020387% | Link: https://www.sec.gov/Archives/edgar/data/1779980/000195917325005057/0001959173-25-005057.txt
+2025-08-08 19:22:47 | Wilson Steven K. | Officer | Shares: 20000 | Value: $384,038.94 | Percent: 0.020387% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325005057/0001959173-25-005057.txt
