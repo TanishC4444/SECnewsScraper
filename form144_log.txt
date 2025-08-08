@@ -707,3 +707,5 @@
 2025-08-08 19:22:47 | Wilson Steven K. | Officer | Shares: 20000 | Value: $384,038.94 | Percent: 0.020387% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325005057/0001959173-25-005057.txt
 2025-08-08 19:43:50 | Dodd Sheri Louise | Officer | Shares: 7762 | Value: $95,905.72 | Percent: 0.034819% | Link: https://www.sec.gov/Archives/edgar/data/1837111/000195917325005059/0001959173-25-005059.txt
 2025-08-08 19:43:50 | Dodd Sheri Louise | Officer | Shares: 7762 | Value: $95,905.72 | Percent: 0.034819% | Link: https://www.sec.gov/Archives/edgar/data/1027838/000195917325005059/0001959173-25-005059.txt
+2025-08-08 20:12:59 | John Minardo | Officer | Shares: 8281 | Value: $7,287.28 | Percent: 0.005117% | Link: https://www.sec.gov/Archives/edgar/data/1875067/000187506725000004/0001875067-25-000004.txt
+2025-08-08 20:13:00 | John Minardo | Officer | Shares: 8281 | Value: $7,287.28 | Percent: 0.005117% | Link: https://www.sec.gov/Archives/edgar/data/1446847/000187506725000004/0001875067-25-000004.txt
