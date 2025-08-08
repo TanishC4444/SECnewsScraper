@@ -725,3 +725,6 @@
 2025-08-08 21:00:17 | SCHLANGER DANIEL K | Officer | Shares: 15000 | Value: $1,586,924.0 | Percent: 0.003445% | Link: https://www.sec.gov/Archives/edgar/data/1051470/000192109425000910/0001921094-25-000910.txt
 2025-08-08 21:00:18 | Simo Fidji | Officer | Shares: 49818 | Value: $2,573,770.0 | Percent: 0.019107% | Link: https://www.sec.gov/Archives/edgar/data/1962727/000192109425000909/0001921094-25-000909.txt
 2025-08-08 21:00:19 | Simo Fidji | Officer | Shares: 49818 | Value: $2,573,770.0 | Percent: 0.019107% | Link: https://www.sec.gov/Archives/edgar/data/1579091/000192109425000909/0001921094-25-000909.txt
+2025-08-08 21:26:26 | JOHN SODERBERG | Officer | Shares: 34612 | Value: $1,662,421.28 | Percent: 0.003016% | Link: https://www.sec.gov/Archives/edgar/data/815556/000195004725005582/0001950047-25-005582.txt
+2025-08-08 21:26:27 | MARC GRASSO | Officer | Shares: 76446 | Value: $152,892.0 | Percent: 0.075530% | Link: https://www.sec.gov/Archives/edgar/data/1748894/000195004725005580/0001950047-25-005580.txt
+2025-08-08 21:26:28 | MARC GRASSO | Officer | Shares: 76446 | Value: $152,892.0 | Percent: 0.075530% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000195004725005580/0001950047-25-005580.txt
