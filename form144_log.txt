@@ -665,3 +665,5 @@
 2025-08-07 22:50:38 | Robert Ashe | Director | Shares: 33333 | Value: $4,904,597.62 | Percent: 0.002731% | Link: https://www.sec.gov/Archives/edgar/data/1414310/000159480525000075/0001594805-25-000075.txt
 2025-08-07 22:50:38 | ROBERTS GEORGE R | See Remarks | Shares: 809906 | Value: $117,080,011.0 | Percent: 0.090935% | Link: https://www.sec.gov/Archives/edgar/data/1404912/000114036125029675/0001140361-25-029675.txt
 2025-08-07 22:50:38 | ROBERTS GEORGE R | See Remarks | Shares: 809906 | Value: $117,080,011.0 | Percent: 0.090935% | Link: https://www.sec.gov/Archives/edgar/data/1081715/000114036125029675/0001140361-25-029675.txt
+2025-08-08 10:42:41 | Yang Xinghui | 10% Stockholder | Shares: 73977 | Value: $105,787.11 | Percent: 1.677270% | Link: https://www.sec.gov/Archives/edgar/data/2005050/000197550625000003/0001975506-25-000003.txt
+2025-08-08 10:42:41 | Yang Xinghui | 10% Stockholder | Shares: 73977 | Value: $105,787.11 | Percent: 1.677270% | Link: https://www.sec.gov/Archives/edgar/data/1716770/000197550625000003/0001975506-25-000003.txt

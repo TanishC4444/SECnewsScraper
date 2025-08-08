@@ -1173,3 +1173,4 @@
 2025-08-08 10:12:32 | 8-K - D. Boral ARC Acquisition I Corp. (0002065779) (Filer) | 2025-08-07T21:18:40-04:00 | https://www.sec.gov/Archives/edgar/data/2065779/000182912625005944/0001829126-25-005944.txt
 2025-08-08 10:12:34 | 8-K - Phoenix Plus Corp. (0001785493) (Filer) | 2025-08-07T20:54:29-04:00 | https://www.sec.gov/Archives/edgar/data/1785493/000164117225022641/0001641172-25-022641.txt
 2025-08-08 10:12:36 | 8-K - TruBridge, Inc. (0001169445) (Filer) | 2025-08-07T20:15:15-04:00 | https://www.sec.gov/Archives/edgar/data/1169445/000143774925025532/0001437749-25-025532.txt
+2025-08-08 10:42:41 | 8-K - Inception Growth Acquisition Ltd (0001866838) (Filer) | 2025-08-08T06:30:11-04:00 | https://www.sec.gov/Archives/edgar/data/1866838/000121390025073292/0001213900-25-073292.txt
