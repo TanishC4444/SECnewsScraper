@@ -667,3 +667,5 @@
 2025-08-07 22:50:38 | ROBERTS GEORGE R | See Remarks | Shares: 809906 | Value: $117,080,011.0 | Percent: 0.090935% | Link: https://www.sec.gov/Archives/edgar/data/1081715/000114036125029675/0001140361-25-029675.txt
 2025-08-08 10:42:41 | Yang Xinghui | 10% Stockholder | Shares: 73977 | Value: $105,787.11 | Percent: 1.677270% | Link: https://www.sec.gov/Archives/edgar/data/2005050/000197550625000003/0001975506-25-000003.txt
 2025-08-08 10:42:41 | Yang Xinghui | 10% Stockholder | Shares: 73977 | Value: $105,787.11 | Percent: 1.677270% | Link: https://www.sec.gov/Archives/edgar/data/1716770/000197550625000003/0001975506-25-000003.txt
+2025-08-08 11:58:04 | Gamzu Guy | Director | Shares: 10000 | Value: $41,100.0 | Percent: 0.004938% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000197640825000252/0001976408-25-000252.txt
+2025-08-08 11:58:05 | Gamzu Guy | Director | Shares: 10000 | Value: $41,100.0 | Percent: 0.004938% | Link: https://www.sec.gov/Archives/edgar/data/1436979/000197640825000252/0001976408-25-000252.txt
