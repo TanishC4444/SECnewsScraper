@@ -709,3 +709,5 @@
 2025-08-08 19:43:50 | Dodd Sheri Louise | Officer | Shares: 7762 | Value: $95,905.72 | Percent: 0.034819% | Link: https://www.sec.gov/Archives/edgar/data/1027838/000195917325005059/0001959173-25-005059.txt
 2025-08-08 20:12:59 | John Minardo | Officer | Shares: 8281 | Value: $7,287.28 | Percent: 0.005117% | Link: https://www.sec.gov/Archives/edgar/data/1875067/000187506725000004/0001875067-25-000004.txt
 2025-08-08 20:13:00 | John Minardo | Officer | Shares: 8281 | Value: $7,287.28 | Percent: 0.005117% | Link: https://www.sec.gov/Archives/edgar/data/1446847/000187506725000004/0001875067-25-000004.txt
+2025-08-08 20:35:42 | Rothstein Adam | Board Member | Shares: 48430 | Value: $361,055.8 | Percent: 0.074162% | Link: https://www.sec.gov/Archives/edgar/data/1824403/000200731725000832/0002007317-25-000832.txt
+2025-08-08 20:35:43 | Rothstein Adam | Board Member | Shares: 48430 | Value: $361,055.8 | Percent: 0.074162% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725000832/0002007317-25-000832.txt

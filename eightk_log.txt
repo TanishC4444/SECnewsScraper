@@ -1248,3 +1248,13 @@
 2025-08-08 20:12:54 | 8-K - Biglari Holdings Inc. (0001726173) (Filer) | 2025-08-08T16:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/1726173/000162828025039268/0001628280-25-039268.txt
 2025-08-08 20:12:56 | 8-K - CARNIVAL PLC (0001125259) (Filer) | 2025-08-08T16:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/1125259/000081509725000071/0000815097-25-000071.txt
 2025-08-08 20:12:58 | 8-K - CARNIVAL CORP (0000815097) (Filer) | 2025-08-08T16:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/815097/000081509725000071/0000815097-25-000071.txt
+2025-08-08 20:35:32 | 8-K - Advantage Solutions Inc. (0001776661) (Filer) | 2025-08-08T16:33:08-04:00 | https://www.sec.gov/Archives/edgar/data/1776661/000095017025105928/0000950170-25-105928.txt
+2025-08-08 20:35:33 | 8-K - WhiteFiber, Inc. (0002042022) (Filer) | 2025-08-08T16:32:37-04:00 | https://www.sec.gov/Archives/edgar/data/2042022/000121390025073717/0001213900-25-073717.txt
+2025-08-08 20:35:33 | 8-K - QUANTUM CORP /DE/ (0000709283) (Filer) | 2025-08-08T16:31:17-04:00 | https://www.sec.gov/Archives/edgar/data/709283/000070928325000021/0000709283-25-000021.txt
+2025-08-08 20:35:34 | 8-K - Texas Pacific Land Corp (0001811074) (Filer) | 2025-08-08T16:30:57-04:00 | https://www.sec.gov/Archives/edgar/data/1811074/000110465925075714/0001104659-25-075714.txt
+2025-08-08 20:35:36 | 8-K - ImmunityBio, Inc. (0001326110) (Filer) | 2025-08-08T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1326110/000119312525177024/0001193125-25-177024.txt
+2025-08-08 20:35:37 | 8-K - Lifeward Ltd. (0001607962) (Filer) | 2025-08-08T16:30:52-04:00 | https://www.sec.gov/Archives/edgar/data/1607962/000117891325002704/0001178913-25-002704.txt
+2025-08-08 20:35:38 | 8-K - Twin Hospitality Group Inc. (0002011954) (Filer) | 2025-08-08T16:30:41-04:00 | https://www.sec.gov/Archives/edgar/data/2011954/000164117225022779/0001641172-25-022779.txt
+2025-08-08 20:35:39 | 8-K - SeaStar Medical Holding Corp (0001831868) (Filer) | 2025-08-08T16:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/1831868/000095017025105906/0000950170-25-105906.txt
+2025-08-08 20:35:40 | 8-K/A - Banzai International, Inc. (0001826011) (Filer) | 2025-08-08T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1826011/000149315225011764/0001493152-25-011764.txt
+2025-08-08 20:35:41 | 8-K - Red Violet, Inc. (0001720116) (Filer) | 2025-08-08T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1720116/000095017025105904/0000950170-25-105904.txt
