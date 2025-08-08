@@ -744,3 +744,5 @@
 2025-08-08 21:50:42 | JOHN FAULK | Officer | Shares: 14550 | Value: $1,168,925.18 | Percent: 0.010375% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005584/0001950047-25-005584.txt
 2025-08-08 22:27:15 | DAVID BOTTOMS | Officer | Shares: 9000 | Value: $115,936.2 | Percent: 0.006787% | Link: https://www.sec.gov/Archives/edgar/data/2019194/000195004725005588/0001950047-25-005588.txt
 2025-08-08 22:27:16 | DAVID BOTTOMS | Officer | Shares: 9000 | Value: $115,936.2 | Percent: 0.006787% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725005588/0001950047-25-005588.txt
+2025-08-08 22:45:11 | Boudreau Philip P | Officer | Shares: 5550 | Value: $746,758.27 | Percent: 0.000319% | Link: https://www.sec.gov/Archives/edgar/data/1805099/000110465925075773/0001104659-25-075773.txt
+2025-08-08 22:45:13 | Boudreau Philip P | Officer | Shares: 5550 | Value: $746,758.27 | Percent: 0.000319% | Link: https://www.sec.gov/Archives/edgar/data/1800/000110465925075773/0001104659-25-075773.txt
