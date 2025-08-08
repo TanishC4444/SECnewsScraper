@@ -705,3 +705,5 @@
 2025-08-08 19:22:45 | Dyckerhoff Stefan A | Affiliate | Shares: 26000 | Value: $4,556,737.0 | Percent: 0.016035% | Link: https://www.sec.gov/Archives/edgar/data/1484394/000197325125000056/0001973251-25-000056.txt
 2025-08-08 19:22:47 | Wilson Steven K. | Officer | Shares: 20000 | Value: $384,038.94 | Percent: 0.020387% | Link: https://www.sec.gov/Archives/edgar/data/1779980/000195917325005057/0001959173-25-005057.txt
 2025-08-08 19:22:47 | Wilson Steven K. | Officer | Shares: 20000 | Value: $384,038.94 | Percent: 0.020387% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325005057/0001959173-25-005057.txt
+2025-08-08 19:43:50 | Dodd Sheri Louise | Officer | Shares: 7762 | Value: $95,905.72 | Percent: 0.034819% | Link: https://www.sec.gov/Archives/edgar/data/1837111/000195917325005059/0001959173-25-005059.txt
+2025-08-08 19:43:50 | Dodd Sheri Louise | Officer | Shares: 7762 | Value: $95,905.72 | Percent: 0.034819% | Link: https://www.sec.gov/Archives/edgar/data/1027838/000195917325005059/0001959173-25-005059.txt
