@@ -679,3 +679,5 @@
 2025-08-08 14:26:20 | LEDESMA BRUCE | Officer | Shares: 6980 | Value: $392,555.2 | Percent: 0.004717% | Link: https://www.sec.gov/Archives/edgar/data/1209945/000195917325005039/0001959173-25-005039.txt
 2025-08-08 14:26:22 | MARSHA C WILLIAMS | Director | Shares: 25761 | Value: $3,477,735.0 | Percent: 0.049033% | Link: https://www.sec.gov/Archives/edgar/data/1185609/000141588925021314/0001415889-25-021314.txt
 2025-08-08 14:26:23 | MARSHA C WILLIAMS | Director | Shares: 25761 | Value: $3,477,735.0 | Percent: 0.049033% | Link: https://www.sec.gov/Archives/edgar/data/67347/000141588925021314/0001415889-25-021314.txt
+2025-08-08 14:48:32 | Sirkes Guy | Officer | Shares: 49897 | Value: $32,433.05 | Percent: 0.115128% | Link: https://www.sec.gov/Archives/edgar/data/1808492/000195917325005042/0001959173-25-005042.txt
+2025-08-08 14:48:33 | Sirkes Guy | Officer | Shares: 49897 | Value: $32,433.05 | Percent: 0.115128% | Link: https://www.sec.gov/Archives/edgar/data/1532286/000195917325005042/0001959173-25-005042.txt
