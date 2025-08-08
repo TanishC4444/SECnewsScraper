@@ -1223,3 +1223,7 @@
 2025-08-08 14:48:30 | 8-K - LEE ENTERPRISES, Inc (0000058361) (Filer) | 2025-08-08T10:29:38-04:00 | https://www.sec.gov/Archives/edgar/data/58361/000162828025039152/0001628280-25-039152.txt
 2025-08-08 14:59:37 | 8-K - Columbia Seligman Premium Technology Growth Fund, Inc. (0001471420) (Filer) | 2025-08-08T10:53:43-04:00 | https://www.sec.gov/Archives/edgar/data/1471420/000119312525176394/0001193125-25-176394.txt
 2025-08-08 15:31:18 | 8-K - INNOVATIVE MEDTECH, INC. (0001331612) (Filer) | 2025-08-08T11:30:32-04:00 | https://www.sec.gov/Archives/edgar/data/1331612/000147793225005597/0001477932-25-005597.txt
+2025-08-08 15:49:06 | 8-K - Velocity Financial, Inc. (0001692376) (Filer) | 2025-08-08T11:46:17-04:00 | https://www.sec.gov/Archives/edgar/data/1692376/000119312525176444/0001193125-25-176444.txt
+2025-08-08 15:49:08 | 8-K - ALPHA PRO TECH LTD (0000884269) (Filer) | 2025-08-08T11:40:31-04:00 | https://www.sec.gov/Archives/edgar/data/884269/000143774925025617/0001437749-25-025617.txt
+2025-08-08 15:49:09 | 8-K - Velocity Financial, Inc. (0001692376) (Filer) | 2025-08-08T11:34:16-04:00 | https://www.sec.gov/Archives/edgar/data/1692376/000095017025105574/0000950170-25-105574.txt
+2025-08-08 15:49:11 | 8-K - Track Group, Inc. (0001045942) (Filer) | 2025-08-08T11:31:00-04:00 | https://www.sec.gov/Archives/edgar/data/1045942/000143774925025614/0001437749-25-025614.txt
