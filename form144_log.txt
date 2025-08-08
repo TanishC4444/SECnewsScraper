@@ -746,3 +746,5 @@
 2025-08-08 22:27:16 | DAVID BOTTOMS | Officer | Shares: 9000 | Value: $115,936.2 | Percent: 0.006787% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725005588/0001950047-25-005588.txt
 2025-08-08 22:45:11 | Boudreau Philip P | Officer | Shares: 5550 | Value: $746,758.27 | Percent: 0.000319% | Link: https://www.sec.gov/Archives/edgar/data/1805099/000110465925075773/0001104659-25-075773.txt
 2025-08-08 22:45:13 | Boudreau Philip P | Officer | Shares: 5550 | Value: $746,758.27 | Percent: 0.000319% | Link: https://www.sec.gov/Archives/edgar/data/1800/000110465925075773/0001104659-25-075773.txt
+2025-08-08 22:55:19 | Goff Brian | Officer | Shares: 11085 | Value: $410,810.1 | Percent: 0.019079% | Link: https://www.sec.gov/Archives/edgar/data/1546216/000190077225000010/0001900772-25-000010.txt
+2025-08-08 22:55:20 | Goff Brian | Officer | Shares: 11085 | Value: $410,810.1 | Percent: 0.019079% | Link: https://www.sec.gov/Archives/edgar/data/1439222/000190077225000010/0001900772-25-000010.txt
