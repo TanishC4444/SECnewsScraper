@@ -1258,3 +1258,12 @@
 2025-08-08 20:35:39 | 8-K - SeaStar Medical Holding Corp (0001831868) (Filer) | 2025-08-08T16:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/1831868/000095017025105906/0000950170-25-105906.txt
 2025-08-08 20:35:40 | 8-K/A - Banzai International, Inc. (0001826011) (Filer) | 2025-08-08T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1826011/000149315225011764/0001493152-25-011764.txt
 2025-08-08 20:35:41 | 8-K - Red Violet, Inc. (0001720116) (Filer) | 2025-08-08T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1720116/000095017025105904/0000950170-25-105904.txt
+2025-08-08 20:50:39 | 8-K - MONROE CAPITAL Corp (0001512931) (Filer) | 2025-08-08T16:45:38-04:00 | https://www.sec.gov/Archives/edgar/data/1512931/000110465925075721/0001104659-25-075721.txt
+2025-08-08 20:50:39 | 8-K - Fortress Private Lending Fund (0002012139) (Filer) | 2025-08-08T16:42:26-04:00 | https://www.sec.gov/Archives/edgar/data/2012139/000114036125029879/0001140361-25-029879.txt
+2025-08-08 20:50:40 | 8-K - Sitio Royalties Corp. (0001949543) (Filer) | 2025-08-08T16:42:21-04:00 | https://www.sec.gov/Archives/edgar/data/1949543/000119312525177043/0001193125-25-177043.txt
+2025-08-08 20:50:42 | 8-K - Rigel Resource Acquisition Corp. (0001860879) (Filer) | 2025-08-08T16:42:02-04:00 | https://www.sec.gov/Archives/edgar/data/1860879/000182912625005995/0001829126-25-005995.txt
+2025-08-08 20:50:43 | 8-K - Edesa Biotech, Inc. (0001540159) (Filer) | 2025-08-08T16:40:50-04:00 | https://www.sec.gov/Archives/edgar/data/1540159/000117184325005235/0001171843-25-005235.txt
+2025-08-08 20:50:45 | 8-K - Coinbase Global, Inc. (0001679788) (Filer) | 2025-08-08T16:40:18-04:00 | https://www.sec.gov/Archives/edgar/data/1679788/000167978825000171/0001679788-25-000171.txt
+2025-08-08 20:50:45 | 8-K - ELITE PHARMACEUTICALS INC /NV/ (0001053369) (Filer) | 2025-08-08T16:35:45-04:00 | https://www.sec.gov/Archives/edgar/data/1053369/000149315225011765/0001493152-25-011765.txt
+2025-08-08 20:50:47 | 8-K - Sky Quarry Inc. (0001812447) (Filer) | 2025-08-08T16:35:37-04:00 | https://www.sec.gov/Archives/edgar/data/1812447/000109690625001254/0001096906-25-001254.txt
+2025-08-08 20:50:48 | 8-K - Calidi Biotherapeutics, Inc. (0001855485) (Filer) | 2025-08-08T16:35:14-04:00 | https://www.sec.gov/Archives/edgar/data/1855485/000164117225022791/0001641172-25-022791.txt
