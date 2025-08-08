@@ -695,3 +695,5 @@
 2025-08-08 16:52:16 | David Doherty | Officer | Shares: 47491 | Value: $1,110,769.0 | Percent: 0.037042% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000582/0001969223-25-000582.txt
 2025-08-08 17:08:27 | BALLOCH KEVIN MARTIN | Officer | Shares: 211000 | Value: $2,042,480.0 | Percent: 0.091471% | Link: https://www.sec.gov/Archives/edgar/data/2072360/000091228225000848/0000912282-25-000848.txt
 2025-08-08 17:08:28 | BALLOCH KEVIN MARTIN | Officer | Shares: 211000 | Value: $2,042,480.0 | Percent: 0.091471% | Link: https://www.sec.gov/Archives/edgar/data/1385849/000091228225000848/0000912282-25-000848.txt
+2025-08-08 17:30:52 | Allen James Douglas | Officer | Shares: 19000 | Value: $498,750.0 | Percent: 0.037377% | Link: https://www.sec.gov/Archives/edgar/data/1668948/000194984625000349/0001949846-25-000349.txt
+2025-08-08 17:30:53 | Allen James Douglas | Officer | Shares: 19000 | Value: $498,750.0 | Percent: 0.037377% | Link: https://www.sec.gov/Archives/edgar/data/1406587/000194984625000349/0001949846-25-000349.txt

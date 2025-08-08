@@ -1232,3 +1232,4 @@
 2025-08-08 16:34:57 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-08-08T12:14:33-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000125/0001314152-25-000125.txt
 2025-08-08 16:52:08 | 8-K - First Eagle Private Credit Fund (0001890107) (Filer) | 2025-08-08T12:50:01-04:00 | https://www.sec.gov/Archives/edgar/data/1890107/000119312525176524/0001193125-25-176524.txt
 2025-08-08 16:52:09 | 8-K - Tennessee Valley Authority (0001376986) (Filer) | 2025-08-08T12:35:28-04:00 | https://www.sec.gov/Archives/edgar/data/1376986/000137698625000049/0001376986-25-000049.txt
+2025-08-08 17:30:51 | 8-K - Idaho Strategic Resources, Inc. (0001030192) (Filer) | 2025-08-08T13:08:05-04:00 | https://www.sec.gov/Archives/edgar/data/1030192/000165495425009270/0001654954-25-009270.txt
