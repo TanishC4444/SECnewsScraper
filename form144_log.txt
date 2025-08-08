@@ -697,3 +697,5 @@
 2025-08-08 17:08:28 | BALLOCH KEVIN MARTIN | Officer | Shares: 211000 | Value: $2,042,480.0 | Percent: 0.091471% | Link: https://www.sec.gov/Archives/edgar/data/1385849/000091228225000848/0000912282-25-000848.txt
 2025-08-08 17:30:52 | Allen James Douglas | Officer | Shares: 19000 | Value: $498,750.0 | Percent: 0.037377% | Link: https://www.sec.gov/Archives/edgar/data/1668948/000194984625000349/0001949846-25-000349.txt
 2025-08-08 17:30:53 | Allen James Douglas | Officer | Shares: 19000 | Value: $498,750.0 | Percent: 0.037377% | Link: https://www.sec.gov/Archives/edgar/data/1406587/000194984625000349/0001949846-25-000349.txt
+2025-08-08 18:23:12 | Harford Barney | Director | Shares: 15823 | Value: $1,424,598.86 | Percent: 0.004888% | Link: https://www.sec.gov/Archives/edgar/data/1453413/000195917325005056/0001959173-25-005056.txt
+2025-08-08 18:23:13 | Harford Barney | Director | Shares: 15823 | Value: $1,424,598.86 | Percent: 0.004888% | Link: https://www.sec.gov/Archives/edgar/data/100517/000195917325005056/0001959173-25-005056.txt
