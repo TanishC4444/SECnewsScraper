@@ -675,3 +675,7 @@
 2025-08-08 13:32:42 | Weichai America Corp. | 10% Stockholder | Shares: 1150000 | Value: $100,038,500.0 | Percent: 4.993520% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000121390025073346/0001213900-25-073346.txt
 2025-08-08 13:32:44 | AMIT RAFI | Officer | Shares: 7300 | Value: $594,147.0 | Percent: 0.016062% | Link: https://www.sec.gov/Archives/edgar/data/1135131/000197640825000253/0001976408-25-000253.txt
 2025-08-08 13:32:45 | AMIT RAFI | Officer | Shares: 7300 | Value: $594,147.0 | Percent: 0.016062% | Link: https://www.sec.gov/Archives/edgar/data/1109138/000197640825000253/0001976408-25-000253.txt
+2025-08-08 14:26:19 | LEDESMA BRUCE | Officer | Shares: 6980 | Value: $392,555.2 | Percent: 0.004717% | Link: https://www.sec.gov/Archives/edgar/data/1852131/000195917325005039/0001959173-25-005039.txt
+2025-08-08 14:26:20 | LEDESMA BRUCE | Officer | Shares: 6980 | Value: $392,555.2 | Percent: 0.004717% | Link: https://www.sec.gov/Archives/edgar/data/1209945/000195917325005039/0001959173-25-005039.txt
+2025-08-08 14:26:22 | MARSHA C WILLIAMS | Director | Shares: 25761 | Value: $3,477,735.0 | Percent: 0.049033% | Link: https://www.sec.gov/Archives/edgar/data/1185609/000141588925021314/0001415889-25-021314.txt
+2025-08-08 14:26:23 | MARSHA C WILLIAMS | Director | Shares: 25761 | Value: $3,477,735.0 | Percent: 0.049033% | Link: https://www.sec.gov/Archives/edgar/data/67347/000141588925021314/0001415889-25-021314.txt
