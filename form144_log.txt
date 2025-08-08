@@ -728,3 +728,9 @@
 2025-08-08 21:26:26 | JOHN SODERBERG | Officer | Shares: 34612 | Value: $1,662,421.28 | Percent: 0.003016% | Link: https://www.sec.gov/Archives/edgar/data/815556/000195004725005582/0001950047-25-005582.txt
 2025-08-08 21:26:27 | MARC GRASSO | Officer | Shares: 76446 | Value: $152,892.0 | Percent: 0.075530% | Link: https://www.sec.gov/Archives/edgar/data/1748894/000195004725005580/0001950047-25-005580.txt
 2025-08-08 21:26:28 | MARC GRASSO | Officer | Shares: 76446 | Value: $152,892.0 | Percent: 0.075530% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000195004725005580/0001950047-25-005580.txt
+2025-08-08 21:40:31 | Southbeach Trust R6 | Stockholder | Shares: 52366 | Value: $980,815.18 | Percent: 0.021999% | Link: https://www.sec.gov/Archives/edgar/data/2006594/000200731725000835/0002007317-25-000835.txt
+2025-08-08 21:40:32 | Southbeach Trust R6 | Stockholder | Shares: 52366 | Value: $980,815.18 | Percent: 0.021999% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000200731725000835/0002007317-25-000835.txt
+2025-08-08 21:40:34 | THOMAS RYAN | Officer | Shares: 150000 | Value: $12,073,065.0 | Percent: 0.106959% | Link: https://www.sec.gov/Archives/edgar/data/1243194/000195004725005583/0001950047-25-005583.txt
+2025-08-08 21:40:34 | THOMAS RYAN | Officer | Shares: 150000 | Value: $12,073,065.0 | Percent: 0.106959% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725005583/0001950047-25-005583.txt
+2025-08-08 21:40:36 | Robert Ashe | Director | Shares: 100000 | Value: $15,107,000.0 | Percent: 0.008194% | Link: https://www.sec.gov/Archives/edgar/data/1594805/000159480525000077/0001594805-25-000077.txt
+2025-08-08 21:40:37 | Robert Ashe | Director | Shares: 100000 | Value: $15,107,000.0 | Percent: 0.008194% | Link: https://www.sec.gov/Archives/edgar/data/1414310/000159480525000077/0001594805-25-000077.txt
