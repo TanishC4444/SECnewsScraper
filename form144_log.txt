@@ -687,3 +687,7 @@
 2025-08-08 15:49:16 | Hull Stephen Edward | Officer | Shares: 7526 | Value: $1,326,231.72 | Percent: 0.005866% | Link: https://www.sec.gov/Archives/edgar/data/1336920/000197337925000214/0001973379-25-000214.txt
 2025-08-08 15:49:18 | Schwab Charles R. | Director | Shares: 28653 | Value: $2,767,880.0 | Percent: 0.001577% | Link: https://www.sec.gov/Archives/edgar/data/923738/000194984625000348/0001949846-25-000348.txt
 2025-08-08 15:49:18 | Schwab Charles R. | Director | Shares: 28653 | Value: $2,767,880.0 | Percent: 0.001577% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000348/0001949846-25-000348.txt
+2025-08-08 16:35:00 | Gilliland Marguerite Amy | Officer | Shares: 33740 | Value: $10,634,883.5 | Percent: 0.012543% | Link: https://www.sec.gov/Archives/edgar/data/1637884/000195917325005048/0001959173-25-005048.txt
+2025-08-08 16:35:01 | Gilliland Marguerite Amy | Officer | Shares: 33740 | Value: $10,634,883.5 | Percent: 0.012543% | Link: https://www.sec.gov/Archives/edgar/data/40533/000195917325005048/0001959173-25-005048.txt
+2025-08-08 16:35:03 | Bell Bernice | Officer | Shares: 31500 | Value: $297,990.0 | Percent: 0.003024% | Link: https://www.sec.gov/Archives/edgar/data/1665177/000195917325005047/0001959173-25-005047.txt
+2025-08-08 16:35:04 | Bell Bernice | Officer | Shares: 31500 | Value: $297,990.0 | Percent: 0.003024% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325005047/0001959173-25-005047.txt

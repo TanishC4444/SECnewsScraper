@@ -1227,3 +1227,6 @@
 2025-08-08 15:49:08 | 8-K - ALPHA PRO TECH LTD (0000884269) (Filer) | 2025-08-08T11:40:31-04:00 | https://www.sec.gov/Archives/edgar/data/884269/000143774925025617/0001437749-25-025617.txt
 2025-08-08 15:49:09 | 8-K - Velocity Financial, Inc. (0001692376) (Filer) | 2025-08-08T11:34:16-04:00 | https://www.sec.gov/Archives/edgar/data/1692376/000095017025105574/0000950170-25-105574.txt
 2025-08-08 15:49:11 | 8-K - Track Group, Inc. (0001045942) (Filer) | 2025-08-08T11:31:00-04:00 | https://www.sec.gov/Archives/edgar/data/1045942/000143774925025614/0001437749-25-025614.txt
+2025-08-08 16:34:55 | 8-K - BLUE DOLPHIN ENERGY CO (0000793306) (Filer) | 2025-08-08T12:34:18-04:00 | https://www.sec.gov/Archives/edgar/data/793306/000143774925025635/0001437749-25-025635.txt
+2025-08-08 16:34:56 | 8-K - HPS Corporate Capital Solutions Fund (0001989817) (Filer) | 2025-08-08T12:16:40-04:00 | https://www.sec.gov/Archives/edgar/data/1989817/000119312525176491/0001193125-25-176491.txt
+2025-08-08 16:34:57 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-08-08T12:14:33-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000125/0001314152-25-000125.txt
