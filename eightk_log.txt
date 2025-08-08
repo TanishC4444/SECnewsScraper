@@ -1207,3 +1207,13 @@
 2025-08-08 12:52:53 | 8-K - REGAL REXNORD CORP (0000082811) (Filer) | 2025-08-08T08:31:52-04:00 | https://www.sec.gov/Archives/edgar/data/82811/000008281125000204/0000082811-25-000204.txt
 2025-08-08 12:52:54 | 8-K - Myseum, Inc. (0001648960) (Filer) | 2025-08-08T08:30:55-04:00 | https://www.sec.gov/Archives/edgar/data/1648960/000121390025073326/0001213900-25-073326.txt
 2025-08-08 12:52:55 | 8-K - Phunware, Inc. (0001665300) (Filer) | 2025-08-08T08:30:26-04:00 | https://www.sec.gov/Archives/edgar/data/1665300/000095017025105490/0000950170-25-105490.txt
+2025-08-08 13:32:26 | 8-K - Verb Technology Company, Inc. (0001566610) (Filer) | 2025-08-08T09:20:31-04:00 | https://www.sec.gov/Archives/edgar/data/1566610/000149315225011727/0001493152-25-011727.txt
+2025-08-08 13:32:27 | 8-K - Monroe Capital Income Plus Corp (0001742313) (Filer) | 2025-08-08T09:18:00-04:00 | https://www.sec.gov/Archives/edgar/data/1742313/000110465925075516/0001104659-25-075516.txt
+2025-08-08 13:32:29 | 8-K - CENTRUS ENERGY CORP (0001065059) (Filer) | 2025-08-08T09:14:14-04:00 | https://www.sec.gov/Archives/edgar/data/1065059/000106505925000061/0001065059-25-000061.txt
+2025-08-08 13:32:30 | 8-K - Abacus Global Management, Inc. (0001814287) (Filer) | 2025-08-08T09:12:50-04:00 | https://www.sec.gov/Archives/edgar/data/1814287/000181428725000042/0001814287-25-000042.txt
+2025-08-08 13:32:32 | 8-K - Capstone Green Energy Holdings, Inc. (0001009759) (Filer) | 2025-08-08T09:10:13-04:00 | https://www.sec.gov/Archives/edgar/data/1009759/000155837025010864/0001558370-25-010864.txt
+2025-08-08 13:32:33 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-08-08T09:01:45-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000164117225022680/0001641172-25-022680.txt
+2025-08-08 13:32:35 | 8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer) | 2025-08-08T09:00:38-04:00 | https://www.sec.gov/Archives/edgar/data/1832332/000095017025105493/0000950170-25-105493.txt
+2025-08-08 13:32:36 | 8-K - UNITED GUARDIAN INC (0000101295) (Filer) | 2025-08-08T09:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/101295/000117184325005206/0001171843-25-005206.txt
+2025-08-08 13:32:38 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-08T08:59:04-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025073334/0001213900-25-073334.txt
+2025-08-08 13:32:40 | 8-K - ASSURED GUARANTY LTD (0001273813) (Filer) | 2025-08-08T08:55:58-04:00 | https://www.sec.gov/Archives/edgar/data/1273813/000127381325000043/0001273813-25-000043.txt
