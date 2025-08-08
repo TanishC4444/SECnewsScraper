@@ -721,3 +721,7 @@
 2025-08-08 20:50:54 | PAINTER ROBERT G | Officer | Shares: 93066 | Value: $7,867,388.83 | Percent: 0.039108% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325005066/0001959173-25-005066.txt
 2025-08-08 20:50:56 | Topper David Joseph | Former Officer | Shares: 41979 | Value: $611,936.0 | Percent: 0.035217% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725000833/0002007317-25-000833.txt
 2025-08-08 20:50:57 | Topper David Joseph | Former Officer | Shares: 41979 | Value: $611,936.0 | Percent: 0.035217% | Link: https://www.sec.gov/Archives/edgar/data/1740378/000200731725000833/0002007317-25-000833.txt
+2025-08-08 21:00:15 | SCHLANGER DANIEL K | Officer | Shares: 15000 | Value: $1,586,924.0 | Percent: 0.003445% | Link: https://www.sec.gov/Archives/edgar/data/1376754/000192109425000910/0001921094-25-000910.txt
+2025-08-08 21:00:17 | SCHLANGER DANIEL K | Officer | Shares: 15000 | Value: $1,586,924.0 | Percent: 0.003445% | Link: https://www.sec.gov/Archives/edgar/data/1051470/000192109425000910/0001921094-25-000910.txt
+2025-08-08 21:00:18 | Simo Fidji | Officer | Shares: 49818 | Value: $2,573,770.0 | Percent: 0.019107% | Link: https://www.sec.gov/Archives/edgar/data/1962727/000192109425000909/0001921094-25-000909.txt
+2025-08-08 21:00:19 | Simo Fidji | Officer | Shares: 49818 | Value: $2,573,770.0 | Percent: 0.019107% | Link: https://www.sec.gov/Archives/edgar/data/1579091/000192109425000909/0001921094-25-000909.txt
