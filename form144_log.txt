@@ -681,3 +681,5 @@
 2025-08-08 14:26:23 | MARSHA C WILLIAMS | Director | Shares: 25761 | Value: $3,477,735.0 | Percent: 0.049033% | Link: https://www.sec.gov/Archives/edgar/data/67347/000141588925021314/0001415889-25-021314.txt
 2025-08-08 14:48:32 | Sirkes Guy | Officer | Shares: 49897 | Value: $32,433.05 | Percent: 0.115128% | Link: https://www.sec.gov/Archives/edgar/data/1808492/000195917325005042/0001959173-25-005042.txt
 2025-08-08 14:48:33 | Sirkes Guy | Officer | Shares: 49897 | Value: $32,433.05 | Percent: 0.115128% | Link: https://www.sec.gov/Archives/edgar/data/1532286/000195917325005042/0001959173-25-005042.txt
+2025-08-08 15:31:20 | Olesen Value Fund L.P. | 10% Stockholder | Shares: 20000 | Value: $330,000.0 | Percent: 0.960360% | Link: https://www.sec.gov/Archives/edgar/data/1491567/000149156725000005/0001491567-25-000005.txt
+2025-08-08 15:31:21 | Olesen Value Fund L.P. | 10% Stockholder | Shares: 20000 | Value: $330,000.0 | Percent: 0.960360% | Link: https://www.sec.gov/Archives/edgar/data/91668/000149156725000005/0001491567-25-000005.txt
