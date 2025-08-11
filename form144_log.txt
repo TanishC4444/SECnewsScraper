@@ -802,3 +802,11 @@
 2025-08-11 20:29:18 | NICHOLAS PINCHUK | Director | Shares: 23042 | Value: $7,414,915.6 | Percent: 0.044173% | Link: https://www.sec.gov/Archives/edgar/data/91440/000195004725005638/0001950047-25-005638.txt
 2025-08-11 20:29:21 | JAMES MACCUTCHEON | Director | Shares: 10000 | Value: $136,900.0 | Percent: 0.101511% | Link: https://www.sec.gov/Archives/edgar/data/1299969/000195004725005637/0001950047-25-005637.txt
 2025-08-11 20:29:22 | JAMES MACCUTCHEON | Director | Shares: 10000 | Value: $136,900.0 | Percent: 0.101511% | Link: https://www.sec.gov/Archives/edgar/data/1055065/000195004725005637/0001950047-25-005637.txt
+2025-08-11 20:44:35 | JEFFREY WILLIAM FERGUSON REV TRUST | Officer | Shares: 97394 | Value: $6,074,882.57 | Percent: 0.026926% | Link: https://www.sec.gov/Archives/edgar/data/1543670/000195004725005643/0001950047-25-005643.txt
+2025-08-11 20:44:36 | JEFFREY WILLIAM FERGUSON REV TRUST | Officer | Shares: 97394 | Value: $6,074,882.57 | Percent: 0.026926% | Link: https://www.sec.gov/Archives/edgar/data/1527166/000195004725005643/0001950047-25-005643.txt
+2025-08-11 20:44:38 | Lindgardt Zhenya | Officer | Shares: 8571 | Value: $21,773.0 | Percent: 0.022519% | Link: https://www.sec.gov/Archives/edgar/data/1891299/000189129925000005/0001891299-25-000005.txt
+2025-08-11 20:44:39 | Lindgardt Zhenya | Officer | Shares: 8571 | Value: $21,773.0 | Percent: 0.022519% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000189129925000005/0001891299-25-000005.txt
+2025-08-11 20:44:40 | Kearney Paul | Officer | Shares: 6460 | Value: $16,410.0 | Percent: 0.016972% | Link: https://www.sec.gov/Archives/edgar/data/1888075/000188807525000004/0001888075-25-000004.txt
+2025-08-11 20:44:40 | Kearney Paul | Officer | Shares: 6460 | Value: $16,410.0 | Percent: 0.016972% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000188807525000004/0001888075-25-000004.txt
+2025-08-11 20:44:41 | Jackson Benjamin | Officer | Shares: 6447 | Value: $16,377.0 | Percent: 0.016938% | Link: https://www.sec.gov/Archives/edgar/data/1779964/000177996425000004/0001779964-25-000004.txt
+2025-08-11 20:44:42 | Jackson Benjamin | Officer | Shares: 6447 | Value: $16,377.0 | Percent: 0.016938% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000177996425000004/0001779964-25-000004.txt
