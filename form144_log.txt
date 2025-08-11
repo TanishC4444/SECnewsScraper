@@ -818,3 +818,7 @@
 2025-08-11 21:31:57 | Cormier Thielke Claire | Director | Shares: 8247 | Value: $658,577.0 | Percent: 0.004435% | Link: https://www.sec.gov/Archives/edgar/data/1617640/000192109425000925/0001921094-25-000925.txt
 2025-08-11 21:31:59 | Goldsteen Mitchell B. | Affiliate | Shares: 15310 | Value: $29,992.29 | Percent: 0.043408% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000005/0000011790-25-000005.txt
 2025-08-11 21:32:00 | Goldsteen Mitchell B. | Affiliate | Shares: 15310 | Value: $29,992.29 | Percent: 0.043408% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000005/0000011790-25-000005.txt
+2025-08-11 21:44:03 | FERGUSON III MARK E | Director | Shares: 7000 | Value: $106,015.0 | Percent: 0.000262% | Link: https://www.sec.gov/Archives/edgar/data/1723339/000192109425000926/0001921094-25-000926.txt
+2025-08-11 21:44:03 | FERGUSON III MARK E | Director | Shares: 7000 | Value: $106,015.0 | Percent: 0.000262% | Link: https://www.sec.gov/Archives/edgar/data/1004980/000192109425000926/0001921094-25-000926.txt
+2025-08-11 21:44:04 | Santiago Horacio Stel | Officer | Shares: 28112 | Value: $219,557.91 | Percent: 0.008703% | Link: https://www.sec.gov/Archives/edgar/data/1999388/000162828025039662/0001628280-25-039662.txt
+2025-08-11 21:44:05 | Santiago Horacio Stel | Officer | Shares: 28112 | Value: $219,557.91 | Percent: 0.008703% | Link: https://www.sec.gov/Archives/edgar/data/1864163/000162828025039662/0001628280-25-039662.txt
