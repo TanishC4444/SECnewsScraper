@@ -1365,3 +1365,5 @@
 2025-08-11 18:18:51 | 8-K - Varagon Capital Corp (0001784700) (Filer) | 2025-08-11T14:15:11-04:00 | https://www.sec.gov/Archives/edgar/data/1784700/000095017025106442/0000950170-25-106442.txt
 2025-08-11 18:50:29 | 8-K - Nordicus Partners Corp (0001011060) (Filer) | 2025-08-11T14:45:23-04:00 | https://www.sec.gov/Archives/edgar/data/1011060/000164117225022954/0001641172-25-022954.txt
 2025-08-11 19:09:08 | 8-K - Where Food Comes From, Inc. (0001360565) (Filer) | 2025-08-11T14:54:59-04:00 | https://www.sec.gov/Archives/edgar/data/1360565/000164117225022956/0001641172-25-022956.txt
+2025-08-11 19:28:38 | 8-K - Kinetic Seas Inc. (0001945619) (Filer) | 2025-08-11T15:12:23-04:00 | https://www.sec.gov/Archives/edgar/data/1945619/000168316825005889/0001683168-25-005889.txt
+2025-08-11 19:28:40 | 8-K - CURTISS WRIGHT CORP (0000026324) (Filer) | 2025-08-11T15:10:45-04:00 | https://www.sec.gov/Archives/edgar/data/26324/000162828025039508/0001628280-25-039508.txt
