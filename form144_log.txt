@@ -830,3 +830,5 @@
 2025-08-11 22:11:46 | LANDY SAMUEL A | Officer | Shares: 45700 | Value: $744,799.46 | Percent: 0.053810% | Link: https://www.sec.gov/Archives/edgar/data/752642/000195779925000162/0001957799-25-000162.txt
 2025-08-11 22:35:00 | JONATHON NUDI | Officer | Shares: 19136 | Value: $943,005.62 | Percent: 0.003528% | Link: https://www.sec.gov/Archives/edgar/data/1685072/000195004725005648/0001950047-25-005648.txt
 2025-08-11 22:35:01 | JONATHON NUDI | Officer | Shares: 19136 | Value: $943,005.62 | Percent: 0.003528% | Link: https://www.sec.gov/Archives/edgar/data/40704/000195004725005648/0001950047-25-005648.txt
+2025-08-11 22:58:02 | Hannover Holdings S.A. | Affiliate | Shares: 22456 | Value: $74,984.0 | Percent: 0.024806% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000716/0001968582-25-000716.txt
+2025-08-11 22:58:03 | Hannover Holdings S.A. | Affiliate | Shares: 22456 | Value: $74,984.0 | Percent: 0.024806% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000716/0001968582-25-000716.txt
