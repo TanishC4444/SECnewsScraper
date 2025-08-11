@@ -834,3 +834,5 @@
 2025-08-11 22:58:03 | Hannover Holdings S.A. | Affiliate | Shares: 22456 | Value: $74,984.0 | Percent: 0.024806% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000716/0001968582-25-000716.txt
 2025-08-11 23:21:24 | YAWAOG ENTERPRISES CORP | Affiliate | Shares: 20018 | Value: $473,226.0 | Percent: 0.015614% | Link: https://www.sec.gov/Archives/edgar/data/1685627/000196858225000718/0001968582-25-000718.txt
 2025-08-11 23:21:25 | YAWAOG ENTERPRISES CORP | Affiliate | Shares: 20018 | Value: $473,226.0 | Percent: 0.015614% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196858225000718/0001968582-25-000718.txt
+2025-08-11 23:55:55 | Larry A. Klane | Affiliate | Shares: 200000 | Value: $788,000.0 | Percent: 0.098766% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000196858225000721/0001968582-25-000721.txt
+2025-08-11 23:55:55 | Larry A. Klane | Affiliate | Shares: 200000 | Value: $788,000.0 | Percent: 0.098766% | Link: https://www.sec.gov/Archives/edgar/data/1238036/000196858225000721/0001968582-25-000721.txt
