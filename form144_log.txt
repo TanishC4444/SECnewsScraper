@@ -822,3 +822,7 @@
 2025-08-11 21:44:03 | FERGUSON III MARK E | Director | Shares: 7000 | Value: $106,015.0 | Percent: 0.000262% | Link: https://www.sec.gov/Archives/edgar/data/1004980/000192109425000926/0001921094-25-000926.txt
 2025-08-11 21:44:04 | Santiago Horacio Stel | Officer | Shares: 28112 | Value: $219,557.91 | Percent: 0.008703% | Link: https://www.sec.gov/Archives/edgar/data/1999388/000162828025039662/0001628280-25-039662.txt
 2025-08-11 21:44:05 | Santiago Horacio Stel | Officer | Shares: 28112 | Value: $219,557.91 | Percent: 0.008703% | Link: https://www.sec.gov/Archives/edgar/data/1864163/000162828025039662/0001628280-25-039662.txt
+2025-08-11 21:53:13 | Ian G. H. Ashken | Director | Shares: 150000 | Value: $5,169,000.0 | Percent: 0.036067% | Link: https://www.sec.gov/Archives/edgar/data/1796209/000196858225000715/0001968582-25-000715.txt
+2025-08-11 21:53:14 | Ian G. H. Ashken | Director | Shares: 150000 | Value: $5,169,000.0 | Percent: 0.036067% | Link: https://www.sec.gov/Archives/edgar/data/1093725/000196858225000715/0001968582-25-000715.txt
+2025-08-11 21:53:15 | TAMIR POLEG | Officer | Shares: 87963 | Value: $363,285.38 | Percent: 0.042265% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725005646/0001950047-25-005646.txt
+2025-08-11 21:53:16 | TAMIR POLEG | Officer | Shares: 87963 | Value: $363,285.38 | Percent: 0.042265% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005646/0001950047-25-005646.txt
