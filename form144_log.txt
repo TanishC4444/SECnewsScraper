@@ -782,3 +782,7 @@
 2025-08-11 19:09:08 | Felli Luis Fernando Sartini | Officer | Shares: 10000 | Value: $1,093,990.4 | Percent: 0.013401% | Link: https://www.sec.gov/Archives/edgar/data/880266/000195917325005084/0001959173-25-005084.txt
 2025-08-11 19:28:42 | Hole Spencer Doran | Former Officer | Shares: 5951 | Value: $81,203.78 | Percent: 0.071192% | Link: https://www.sec.gov/Archives/edgar/data/1783379/000195917325005085/0001959173-25-005085.txt
 2025-08-11 19:28:42 | Hole Spencer Doran | Former Officer | Shares: 5951 | Value: $81,203.78 | Percent: 0.071192% | Link: https://www.sec.gov/Archives/edgar/data/1758766/000195917325005085/0001959173-25-005085.txt
+2025-08-11 19:41:35 | Fields Mark E | Officer | Shares: 55178 | Value: $3,440,858.0 | Percent: 0.034131% | Link: https://www.sec.gov/Archives/edgar/data/1777231/000200731725000839/0002007317-25-000839.txt
+2025-08-11 19:41:36 | Fields Mark E | Officer | Shares: 55178 | Value: $3,440,858.0 | Percent: 0.034131% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725000839/0002007317-25-000839.txt
+2025-08-11 19:41:37 | Gibson Christopher | Officer | Shares: 617875 | Value: $3,262,380.0 | Percent: 0.144595% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325005087/0001959173-25-005087.txt
+2025-08-11 19:41:38 | Gibson Christopher | Officer | Shares: 617875 | Value: $3,262,380.0 | Percent: 0.144595% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325005087/0001959173-25-005087.txt
