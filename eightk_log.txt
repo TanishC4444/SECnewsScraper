@@ -1363,3 +1363,4 @@
 2025-08-11 17:53:37 | 8-K - XCEL ENERGY INC (0000072903) (Filer) | 2025-08-11T13:49:23-04:00 | https://www.sec.gov/Archives/edgar/data/72903/000007290325000227/0000072903-25-000227.txt
 2025-08-11 18:18:51 | 8-K - Readvantage Corp. (0002057381) (Filer) | 2025-08-11T14:16:05-04:00 | https://www.sec.gov/Archives/edgar/data/2057381/000205738125000015/0002057381-25-000015.txt
 2025-08-11 18:18:51 | 8-K - Varagon Capital Corp (0001784700) (Filer) | 2025-08-11T14:15:11-04:00 | https://www.sec.gov/Archives/edgar/data/1784700/000095017025106442/0000950170-25-106442.txt
+2025-08-11 18:50:29 | 8-K - Nordicus Partners Corp (0001011060) (Filer) | 2025-08-11T14:45:23-04:00 | https://www.sec.gov/Archives/edgar/data/1011060/000164117225022954/0001641172-25-022954.txt
