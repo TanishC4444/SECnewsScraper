@@ -766,3 +766,7 @@
 2025-08-11 15:58:38 | Rose Laurence | Director | Shares: 152000 | Value: $598,880.0 | Percent: 0.075062% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000200107725000004/0002001077-25-000004.txt
 2025-08-11 15:58:39 | Lando Zvi | Former Officer and former Director | Shares: 6721 | Value: $164,126.82 | Percent: 0.011320% | Link: https://www.sec.gov/Archives/edgar/data/1637267/000197640825000255/0001976408-25-000255.txt
 2025-08-11 15:58:41 | Lando Zvi | Former Officer and former Director | Shares: 6721 | Value: $164,126.82 | Percent: 0.011320% | Link: https://www.sec.gov/Archives/edgar/data/1419612/000197640825000255/0001976408-25-000255.txt
+2025-08-11 16:55:58 | MCCHESNEY THOMAS | Director | Shares: 20000 | Value: $28,000.0 | Percent: 0.014452% | Link: https://www.sec.gov/Archives/edgar/data/1437925/000197309725000012/0001973097-25-000012.txt
+2025-08-11 16:55:59 | MCCHESNEY THOMAS | Director | Shares: 20000 | Value: $28,000.0 | Percent: 0.014452% | Link: https://www.sec.gov/Archives/edgar/data/1194548/000197309725000012/0001973097-25-000012.txt
+2025-08-11 16:56:01 | Azamian Bobak R. | Officer | Shares: 6000 | Value: $300,000.0 | Percent: 0.014213% | Link: https://www.sec.gov/Archives/edgar/data/1827672/000200731725000837/0002007317-25-000837.txt
+2025-08-11 16:56:02 | Azamian Bobak R. | Officer | Shares: 6000 | Value: $300,000.0 | Percent: 0.014213% | Link: https://www.sec.gov/Archives/edgar/data/1819790/000200731725000837/0002007317-25-000837.txt
