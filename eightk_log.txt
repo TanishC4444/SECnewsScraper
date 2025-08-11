@@ -1303,3 +1303,7 @@
 2025-08-11 10:49:30 | 8-K - GameStop Corp. (0001326380) (Filer) | 2025-08-11T06:46:13-04:00 | https://www.sec.gov/Archives/edgar/data/1326380/000132638025000064/0001326380-25-000064.txt
 2025-08-11 10:49:30 | 8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer) | 2025-08-11T06:41:22-04:00 | https://www.sec.gov/Archives/edgar/data/75252/000119312525177426/0001193125-25-177426.txt
 2025-08-11 10:49:32 | 8-K - Direct Digital Holdings, Inc. (0001880613) (Filer) | 2025-08-11T06:30:48-04:00 | https://www.sec.gov/Archives/edgar/data/1880613/000110465925075879/0001104659-25-075879.txt
+2025-08-11 10:58:51 | 8-K - Green Plains Inc. (0001309402) (Filer) | 2025-08-11T06:56:37-04:00 | https://www.sec.gov/Archives/edgar/data/1309402/000130940225000126/0001309402-25-000126.txt
+2025-08-11 10:58:52 | 8-K - Yum China Holdings, Inc. (0001673358) (Filer) | 2025-08-11T06:55:09-04:00 | https://www.sec.gov/Archives/edgar/data/1673358/000095017025106217/0000950170-25-106217.txt
+2025-08-11 10:58:53 | 8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer) | 2025-08-11T06:54:17-04:00 | https://www.sec.gov/Archives/edgar/data/1411579/000141157925000060/0001411579-25-000060.txt
+2025-08-11 10:58:55 | 8-K - Professional Diversity Network, Inc. (0001546296) (Filer) | 2025-08-11T06:50:49-04:00 | https://www.sec.gov/Archives/edgar/data/1546296/000143774925025810/0001437749-25-025810.txt
