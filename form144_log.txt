@@ -790,3 +790,7 @@
 2025-08-11 19:50:59 | Constable David E | Officer | Shares: 71200 | Value: $4,014,800.0 | Percent: 0.044042% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725000840/0002007317-25-000840.txt
 2025-08-11 19:51:01 | Howson Dave | Former Officer | Shares: 7100 | Value: $1,788,632.0 | Percent: 0.006788% | Link: https://www.sec.gov/Archives/edgar/data/1797922/000195917325005088/0001959173-25-005088.txt
 2025-08-11 19:51:02 | Howson Dave | Former Officer | Shares: 7100 | Value: $1,788,632.0 | Percent: 0.006788% | Link: https://www.sec.gov/Archives/edgar/data/1374310/000195917325005088/0001959173-25-005088.txt
+2025-08-11 20:00:07 | Dillow Stacy L | Officer | Shares: 8830 | Value: $559,320.0 | Percent: 0.005462% | Link: https://www.sec.gov/Archives/edgar/data/1788574/000200731725000841/0002007317-25-000841.txt
+2025-08-11 20:00:08 | Dillow Stacy L | Officer | Shares: 8830 | Value: $559,320.0 | Percent: 0.005462% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725000841/0002007317-25-000841.txt
+2025-08-11 20:00:08 | Todd S and Jennifer G Young Living Trust Dtd 08/03/2021 | Former CFO | Shares: 49333 | Value: $830,000.0 | Percent: 0.009933% | Link: https://www.sec.gov/Archives/edgar/data/1739104/000196922325000591/0001969223-25-000591.txt
+2025-08-11 20:00:08 | Todd S and Jennifer G Young Living Trust Dtd 08/03/2021 | Former CFO | Shares: 49333 | Value: $830,000.0 | Percent: 0.009933% | Link: https://www.sec.gov/Archives/edgar/data/1682584/000196922325000591/0001969223-25-000591.txt
