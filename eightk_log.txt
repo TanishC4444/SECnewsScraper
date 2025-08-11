@@ -1397,3 +1397,13 @@
 2025-08-11 20:54:36 | 8-K - Commonwealth Credit Partners BDC I, Inc. (0001841514) (Filer) | 2025-08-11T16:47:55-04:00 | https://www.sec.gov/Archives/edgar/data/1841514/000119312525178012/0001193125-25-178012.txt
 2025-08-11 20:54:38 | 8-K - Bally's Corp (0001747079) (Filer) | 2025-08-11T16:47:42-04:00 | https://www.sec.gov/Archives/edgar/data/1747079/000174707925000114/0001747079-25-000114.txt
 2025-08-11 20:54:42 | 8-K - Kayne Anderson BDC, Inc. (0001747172) (Filer) | 2025-08-11T16:47:21-04:00 | https://www.sec.gov/Archives/edgar/data/1747172/000121390025074348/0001213900-25-074348.txt
+2025-08-11 21:14:11 | 8-K - Summit Therapeutics Inc. (0001599298) (Filer) | 2025-08-11T17:13:30-04:00 | https://www.sec.gov/Archives/edgar/data/1599298/000159929825000128/0001599298-25-000128.txt
+2025-08-11 21:14:12 | 8-K - Texas Mineral Resources Corp. (0001445942) (Filer) | 2025-08-11T17:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/1445942/000199937125011060/0001999371-25-011060.txt
+2025-08-11 21:14:14 | 8-K - NATURAL GAS SERVICES GROUP INC (0001084991) (Filer) | 2025-08-11T17:12:54-04:00 | https://www.sec.gov/Archives/edgar/data/1084991/000108499125000112/0001084991-25-000112.txt
+2025-08-11 21:14:14 | 8-K/A - Primis Financial Corp. (0001325670) (Filer) | 2025-08-11T17:12:53-04:00 | https://www.sec.gov/Archives/edgar/data/1325670/000110465925076231/0001104659-25-076231.txt
+2025-08-11 21:14:15 | 8-K - Biofrontera Inc. (0001858685) (Filer) | 2025-08-11T17:10:23-04:00 | https://www.sec.gov/Archives/edgar/data/1858685/000164117225023006/0001641172-25-023006.txt
+2025-08-11 21:14:17 | 8-K - Quipt Home Medical Corp. (0001540013) (Filer) | 2025-08-11T17:09:20-04:00 | https://www.sec.gov/Archives/edgar/data/1540013/000155837025011079/0001558370-25-011079.txt
+2025-08-11 21:14:18 | 8-K - WideOpenWest, Inc. (0001701051) (Filer) | 2025-08-11T17:08:53-04:00 | https://www.sec.gov/Archives/edgar/data/1701051/000155837025011078/0001558370-25-011078.txt
+2025-08-11 21:14:19 | 8-K - Heartflow, Inc. (0001464521) (Filer) | 2025-08-11T17:08:35-04:00 | https://www.sec.gov/Archives/edgar/data/1464521/000162828025039636/0001628280-25-039636.txt
+2025-08-11 21:14:20 | 8-K - byNordic Acquisition Corp (0001801417) (Filer) | 2025-08-11T17:06:42-04:00 | https://www.sec.gov/Archives/edgar/data/1801417/000121390025074380/0001213900-25-074380.txt
+2025-08-11 21:14:22 | 8-K - Seaport Entertainment Group Inc. (0002009684) (Filer) | 2025-08-11T17:05:34-04:00 | https://www.sec.gov/Archives/edgar/data/2009684/000155837025011074/0001558370-25-011074.txt
