@@ -1351,3 +1351,4 @@
 2025-08-11 13:57:47 | 8-K - OPEN TEXT CORP (0001002638) (Filer) | 2025-08-11T09:53:46-04:00 | https://www.sec.gov/Archives/edgar/data/1002638/000100263825000058/0001002638-25-000058.txt
 2025-08-11 14:24:55 | 8-K - 180 Life Sciences Corp. (0001690080) (Filer) | 2025-08-11T10:03:37-04:00 | https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030.txt
 2025-08-11 14:47:16 | 8-K - Turnstone Biologics Corp. (0001764974) (Filer) | 2025-08-11T10:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/1764974/000119312525177597/0001193125-25-177597.txt
+2025-08-11 15:29:16 | 8-K - FirstCash Holdings, Inc. (0000840489) (Filer) | 2025-08-11T11:00:25-04:00 | https://www.sec.gov/Archives/edgar/data/840489/000084048925000104/0000840489-25-000104.txt

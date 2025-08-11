@@ -756,3 +756,5 @@
 2025-08-11 14:24:58 | Jacob Tetlow | EVP, COO, APS | Shares: 6496 | Value: $609,194.88 | Percent: 0.005439% | Link: https://www.sec.gov/Archives/edgar/data/764622/000186296425000004/0001862964-25-000004.txt
 2025-08-11 14:25:00 | Bradshaw Christopher Scott | Officer | Shares: 5643 | Value: $215,330.93 | Percent: 0.019611% | Link: https://www.sec.gov/Archives/edgar/data/1561305/000197407825000240/0001974078-25-000240.txt
 2025-08-11 14:25:01 | Bradshaw Christopher Scott | Officer | Shares: 5643 | Value: $215,330.93 | Percent: 0.019611% | Link: https://www.sec.gov/Archives/edgar/data/1525221/000197407825000240/0001974078-25-000240.txt
+2025-08-11 15:29:18 | Freeman Angela K. | Officer | Shares: 5713 | Value: $664,096.36 | Percent: 0.004838% | Link: https://www.sec.gov/Archives/edgar/data/1563847/000195917325005077/0001959173-25-005077.txt
+2025-08-11 15:29:19 | Freeman Angela K. | Officer | Shares: 5713 | Value: $664,096.36 | Percent: 0.004838% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000195917325005077/0001959173-25-005077.txt
