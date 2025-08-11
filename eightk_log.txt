@@ -1307,3 +1307,12 @@
 2025-08-11 10:58:52 | 8-K - Yum China Holdings, Inc. (0001673358) (Filer) | 2025-08-11T06:55:09-04:00 | https://www.sec.gov/Archives/edgar/data/1673358/000095017025106217/0000950170-25-106217.txt
 2025-08-11 10:58:53 | 8-K - AMC ENTERTAINMENT HOLDINGS, INC. (0001411579) (Filer) | 2025-08-11T06:54:17-04:00 | https://www.sec.gov/Archives/edgar/data/1411579/000141157925000060/0001411579-25-000060.txt
 2025-08-11 10:58:55 | 8-K - Professional Diversity Network, Inc. (0001546296) (Filer) | 2025-08-11T06:50:49-04:00 | https://www.sec.gov/Archives/edgar/data/1546296/000143774925025810/0001437749-25-025810.txt
+2025-08-11 11:23:51 | 8-K - AAON, INC. (0000824142) (Filer) | 2025-08-11T07:18:41-04:00 | https://www.sec.gov/Archives/edgar/data/824142/000082414225000185/0000824142-25-000185.txt
+2025-08-11 11:23:52 | 8-K - Roivant Sciences Ltd. (0001635088) (Filer) | 2025-08-11T07:17:14-04:00 | https://www.sec.gov/Archives/edgar/data/1635088/000114036125029998/0001140361-25-029998.txt
+2025-08-11 11:23:53 | 8-K - Apogee Therapeutics, Inc. (0001974640) (Filer) | 2025-08-11T07:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1974640/000095017025106228/0000950170-25-106228.txt
+2025-08-11 11:23:55 | 8-K - Immunovant, Inc. (0001764013) (Filer) | 2025-08-11T07:14:17-04:00 | https://www.sec.gov/Archives/edgar/data/1764013/000176401325000128/0001764013-25-000128.txt
+2025-08-11 11:23:56 | 8-K - Sionna Therapeutics, Inc. (0002036042) (Filer) | 2025-08-11T07:13:27-04:00 | https://www.sec.gov/Archives/edgar/data/2036042/000203604225000044/0002036042-25-000044.txt
+2025-08-11 11:23:57 | 8-K - enCore Energy Corp. (0001500881) (Filer) | 2025-08-11T07:13:16-04:00 | https://www.sec.gov/Archives/edgar/data/1500881/000119312525177443/0001193125-25-177443.txt
+2025-08-11 11:23:58 | 8-K - U.S. GoldMining Inc. (0001947244) (Filer) | 2025-08-11T07:10:45-04:00 | https://www.sec.gov/Archives/edgar/data/1947244/000149315225011798/0001493152-25-011798.txt
+2025-08-11 11:24:00 | 8-K - Kymera Therapeutics, Inc. (0001815442) (Filer) | 2025-08-11T07:10:28-04:00 | https://www.sec.gov/Archives/edgar/data/1815442/000095017025106227/0000950170-25-106227.txt
+2025-08-11 11:24:01 | 8-K - Village Farms International, Inc. (0001584549) (Filer) | 2025-08-11T07:05:44-04:00 | https://www.sec.gov/Archives/edgar/data/1584549/000095017025106225/0000950170-25-106225.txt
