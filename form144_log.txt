@@ -758,3 +758,7 @@
 2025-08-11 14:25:01 | Bradshaw Christopher Scott | Officer | Shares: 5643 | Value: $215,330.93 | Percent: 0.019611% | Link: https://www.sec.gov/Archives/edgar/data/1525221/000197407825000240/0001974078-25-000240.txt
 2025-08-11 15:29:18 | Freeman Angela K. | Officer | Shares: 5713 | Value: $664,096.36 | Percent: 0.004838% | Link: https://www.sec.gov/Archives/edgar/data/1563847/000195917325005077/0001959173-25-005077.txt
 2025-08-11 15:29:19 | Freeman Angela K. | Officer | Shares: 5713 | Value: $664,096.36 | Percent: 0.004838% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000195917325005077/0001959173-25-005077.txt
+2025-08-11 15:47:14 | VAUGHAN RICHARD C | Director | Shares: 25086 | Value: $148,509.12 | Percent: 0.049686% | Link: https://www.sec.gov/Archives/edgar/data/1228948/000194984625000351/0001949846-25-000351.txt
+2025-08-11 15:47:15 | VAUGHAN RICHARD C | Director | Shares: 25086 | Value: $148,509.12 | Percent: 0.049686% | Link: https://www.sec.gov/Archives/edgar/data/814585/000194984625000351/0001949846-25-000351.txt
+2025-08-11 15:47:16 | GREEN WILLIAM D | Director | Shares: 50000 | Value: $7,000,000.0 | Percent: 0.014718% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325005078/0001959173-25-005078.txt
+2025-08-11 15:47:18 | GREEN WILLIAM D | Director | Shares: 50000 | Value: $7,000,000.0 | Percent: 0.014718% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325005078/0001959173-25-005078.txt
