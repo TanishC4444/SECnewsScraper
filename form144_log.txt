@@ -786,3 +786,7 @@
 2025-08-11 19:41:36 | Fields Mark E | Officer | Shares: 55178 | Value: $3,440,858.0 | Percent: 0.034131% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725000839/0002007317-25-000839.txt
 2025-08-11 19:41:37 | Gibson Christopher | Officer | Shares: 617875 | Value: $3,262,380.0 | Percent: 0.144595% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325005087/0001959173-25-005087.txt
 2025-08-11 19:41:38 | Gibson Christopher | Officer | Shares: 617875 | Value: $3,262,380.0 | Percent: 0.144595% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325005087/0001959173-25-005087.txt
+2025-08-11 19:50:58 | Constable David E | Officer | Shares: 71200 | Value: $4,014,800.0 | Percent: 0.044042% | Link: https://www.sec.gov/Archives/edgar/data/1339727/000200731725000840/0002007317-25-000840.txt
+2025-08-11 19:50:59 | Constable David E | Officer | Shares: 71200 | Value: $4,014,800.0 | Percent: 0.044042% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725000840/0002007317-25-000840.txt
+2025-08-11 19:51:01 | Howson Dave | Former Officer | Shares: 7100 | Value: $1,788,632.0 | Percent: 0.006788% | Link: https://www.sec.gov/Archives/edgar/data/1797922/000195917325005088/0001959173-25-005088.txt
+2025-08-11 19:51:02 | Howson Dave | Former Officer | Shares: 7100 | Value: $1,788,632.0 | Percent: 0.006788% | Link: https://www.sec.gov/Archives/edgar/data/1374310/000195917325005088/0001959173-25-005088.txt
