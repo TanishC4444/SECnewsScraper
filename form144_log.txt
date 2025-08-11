@@ -752,3 +752,7 @@
 2025-08-11 12:53:16 | Alvarez Murillo Carlos Eduardo | Officer | Shares: 14183 | Value: $26,096.72 | Percent: 0.016045% | Link: https://www.sec.gov/Archives/edgar/data/1119769/000197640825000254/0001976408-25-000254.txt
 2025-08-11 13:57:49 | Schechter Adam H | Officer | Shares: 5643 | Value: $1,505,439.54 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/1376841/000195917325005070/0001959173-25-005070.txt
 2025-08-11 13:57:50 | Schechter Adam H | Officer | Shares: 5643 | Value: $1,505,439.54 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/920148/000195917325005070/0001959173-25-005070.txt
+2025-08-11 14:24:57 | Jacob Tetlow | EVP, COO, APS | Shares: 6496 | Value: $609,194.88 | Percent: 0.005439% | Link: https://www.sec.gov/Archives/edgar/data/1862964/000186296425000004/0001862964-25-000004.txt
+2025-08-11 14:24:58 | Jacob Tetlow | EVP, COO, APS | Shares: 6496 | Value: $609,194.88 | Percent: 0.005439% | Link: https://www.sec.gov/Archives/edgar/data/764622/000186296425000004/0001862964-25-000004.txt
+2025-08-11 14:25:00 | Bradshaw Christopher Scott | Officer | Shares: 5643 | Value: $215,330.93 | Percent: 0.019611% | Link: https://www.sec.gov/Archives/edgar/data/1561305/000197407825000240/0001974078-25-000240.txt
+2025-08-11 14:25:01 | Bradshaw Christopher Scott | Officer | Shares: 5643 | Value: $215,330.93 | Percent: 0.019611% | Link: https://www.sec.gov/Archives/edgar/data/1525221/000197407825000240/0001974078-25-000240.txt
