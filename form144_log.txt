@@ -776,3 +776,5 @@
 2025-08-11 17:41:06 | Bailenson Robert | Officer | Shares: 40000 | Value: $3,260,000.0 | Percent: 0.084007% | Link: https://www.sec.gov/Archives/edgar/data/1273813/000200731725000838/0002007317-25-000838.txt
 2025-08-11 17:41:07 | Riley Bobby | Officer | Shares: 15000 | Value: $396,827.0 | Percent: 0.068051% | Link: https://www.sec.gov/Archives/edgar/data/1756030/000194984625000352/0001949846-25-000352.txt
 2025-08-11 17:41:08 | Riley Bobby | Officer | Shares: 15000 | Value: $396,827.0 | Percent: 0.068051% | Link: https://www.sec.gov/Archives/edgar/data/1001614/000194984625000352/0001949846-25-000352.txt
+2025-08-11 18:18:52 | KINDICK KELT | Director | Shares: 7685 | Value: $255,756.8 | Percent: 0.001211% | Link: https://www.sec.gov/Archives/edgar/data/1204940/000197372725000025/0001973727-25-000025.txt
+2025-08-11 18:18:52 | KINDICK KELT | Director | Shares: 7685 | Value: $255,756.8 | Percent: 0.001211% | Link: https://www.sec.gov/Archives/edgar/data/1090012/000197372725000025/0001973727-25-000025.txt
