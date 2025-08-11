@@ -750,3 +750,5 @@
 2025-08-08 22:55:20 | Goff Brian | Officer | Shares: 11085 | Value: $410,810.1 | Percent: 0.019079% | Link: https://www.sec.gov/Archives/edgar/data/1439222/000190077225000010/0001900772-25-000010.txt
 2025-08-11 12:53:15 | Alvarez Murillo Carlos Eduardo | Officer | Shares: 14183 | Value: $26,096.72 | Percent: 0.016045% | Link: https://www.sec.gov/Archives/edgar/data/1974675/000197640825000254/0001976408-25-000254.txt
 2025-08-11 12:53:16 | Alvarez Murillo Carlos Eduardo | Officer | Shares: 14183 | Value: $26,096.72 | Percent: 0.016045% | Link: https://www.sec.gov/Archives/edgar/data/1119769/000197640825000254/0001976408-25-000254.txt
+2025-08-11 13:57:49 | Schechter Adam H | Officer | Shares: 5643 | Value: $1,505,439.54 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/1376841/000195917325005070/0001959173-25-005070.txt
+2025-08-11 13:57:50 | Schechter Adam H | Officer | Shares: 5643 | Value: $1,505,439.54 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/920148/000195917325005070/0001959173-25-005070.txt
