@@ -778,3 +778,5 @@
 2025-08-11 17:41:08 | Riley Bobby | Officer | Shares: 15000 | Value: $396,827.0 | Percent: 0.068051% | Link: https://www.sec.gov/Archives/edgar/data/1001614/000194984625000352/0001949846-25-000352.txt
 2025-08-11 18:18:52 | KINDICK KELT | Director | Shares: 7685 | Value: $255,756.8 | Percent: 0.001211% | Link: https://www.sec.gov/Archives/edgar/data/1204940/000197372725000025/0001973727-25-000025.txt
 2025-08-11 18:18:52 | KINDICK KELT | Director | Shares: 7685 | Value: $255,756.8 | Percent: 0.001211% | Link: https://www.sec.gov/Archives/edgar/data/1090012/000197372725000025/0001973727-25-000025.txt
+2025-08-11 19:09:08 | Felli Luis Fernando Sartini | Officer | Shares: 10000 | Value: $1,093,990.4 | Percent: 0.013401% | Link: https://www.sec.gov/Archives/edgar/data/1797572/000195917325005084/0001959173-25-005084.txt
+2025-08-11 19:09:08 | Felli Luis Fernando Sartini | Officer | Shares: 10000 | Value: $1,093,990.4 | Percent: 0.013401% | Link: https://www.sec.gov/Archives/edgar/data/880266/000195917325005084/0001959173-25-005084.txt
