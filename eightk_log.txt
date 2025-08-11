@@ -1407,3 +1407,13 @@
 2025-08-11 21:14:19 | 8-K - Heartflow, Inc. (0001464521) (Filer) | 2025-08-11T17:08:35-04:00 | https://www.sec.gov/Archives/edgar/data/1464521/000162828025039636/0001628280-25-039636.txt
 2025-08-11 21:14:20 | 8-K - byNordic Acquisition Corp (0001801417) (Filer) | 2025-08-11T17:06:42-04:00 | https://www.sec.gov/Archives/edgar/data/1801417/000121390025074380/0001213900-25-074380.txt
 2025-08-11 21:14:22 | 8-K - Seaport Entertainment Group Inc. (0002009684) (Filer) | 2025-08-11T17:05:34-04:00 | https://www.sec.gov/Archives/edgar/data/2009684/000155837025011074/0001558370-25-011074.txt
+2025-08-11 21:31:40 | 8-K - Celanese Corp (0001306830) (Filer) | 2025-08-11T17:30:39-04:00 | https://www.sec.gov/Archives/edgar/data/1306830/000110465925076253/0001104659-25-076253.txt
+2025-08-11 21:31:42 | 8-K - HF Sinclair Corp (0001915657) (Filer) | 2025-08-11T17:29:08-04:00 | https://www.sec.gov/Archives/edgar/data/1915657/000119312525178101/0001193125-25-178101.txt
+2025-08-11 21:31:44 | 8-K - International Money Express, Inc. (0001683695) (Filer) | 2025-08-11T17:28:50-04:00 | https://www.sec.gov/Archives/edgar/data/1683695/000114036125030254/0001140361-25-030254.txt
+2025-08-11 21:31:46 | 8-K - Energy Transfer LP (0001276187) (Filer) | 2025-08-11T17:28:36-04:00 | https://www.sec.gov/Archives/edgar/data/1276187/000127618725000091/0001276187-25-000091.txt
+2025-08-11 21:31:47 | 8-K - Kestrel Group Ltd (0002055116) (Filer) | 2025-08-11T17:28:25-04:00 | https://www.sec.gov/Archives/edgar/data/2055116/000110465925076249/0001104659-25-076249.txt
+2025-08-11 21:31:49 | 8-K - Ralliant Corp (0002041385) (Filer) | 2025-08-11T17:27:18-04:00 | https://www.sec.gov/Archives/edgar/data/2041385/000204138525000036/0002041385-25-000036.txt
+2025-08-11 21:31:51 | 8-K - ASSEMBLY BIOSCIENCES, INC. (0001426800) (Filer) | 2025-08-11T17:25:05-04:00 | https://www.sec.gov/Archives/edgar/data/1426800/000119312525178092/0001193125-25-178092.txt
+2025-08-11 21:31:52 | 8-K - TREASURE GLOBAL INC (0001905956) (Filer) | 2025-08-11T17:24:26-04:00 | https://www.sec.gov/Archives/edgar/data/1905956/000121390025074414/0001213900-25-074414.txt
+2025-08-11 21:31:54 | 8-K - V2X, Inc. (0001601548) (Filer) | 2025-08-11T17:22:51-04:00 | https://www.sec.gov/Archives/edgar/data/1601548/000110465925076237/0001104659-25-076237.txt
+2025-08-11 21:31:54 | 8-K - Urban Edge Properties LP (0001681169) (Filer) | 2025-08-11T17:22:31-04:00 | https://www.sec.gov/Archives/edgar/data/1681169/000161154725000061/0001611547-25-000061.txt

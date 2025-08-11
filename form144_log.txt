@@ -814,3 +814,7 @@
 2025-08-11 20:54:45 | CYNTHIA YAZDI | Officer | Shares: 6465 | Value: $2,973,773.93 | Percent: 0.003880% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725005644/0001950047-25-005644.txt
 2025-08-11 21:14:24 | Burton Karen L | Officer | Shares: 7900 | Value: $1,909,646.0 | Percent: 0.008021% | Link: https://www.sec.gov/Archives/edgar/data/1757898/000192109425000920/0001921094-25-000920.txt
 2025-08-11 21:14:26 | Burton Karen L | Officer | Shares: 7900 | Value: $1,909,646.0 | Percent: 0.008021% | Link: https://www.sec.gov/Archives/edgar/data/1697095/000192109425000920/0001921094-25-000920.txt
+2025-08-11 21:31:56 | Cormier Thielke Claire | Director | Shares: 8247 | Value: $658,577.0 | Percent: 0.004435% | Link: https://www.sec.gov/Archives/edgar/data/1828912/000192109425000925/0001921094-25-000925.txt
+2025-08-11 21:31:57 | Cormier Thielke Claire | Director | Shares: 8247 | Value: $658,577.0 | Percent: 0.004435% | Link: https://www.sec.gov/Archives/edgar/data/1617640/000192109425000925/0001921094-25-000925.txt
+2025-08-11 21:31:59 | Goldsteen Mitchell B. | Affiliate | Shares: 15310 | Value: $29,992.29 | Percent: 0.043408% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000005/0000011790-25-000005.txt
+2025-08-11 21:32:00 | Goldsteen Mitchell B. | Affiliate | Shares: 15310 | Value: $29,992.29 | Percent: 0.043408% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000005/0000011790-25-000005.txt
