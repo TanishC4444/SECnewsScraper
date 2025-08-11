@@ -810,3 +810,5 @@
 2025-08-11 20:44:40 | Kearney Paul | Officer | Shares: 6460 | Value: $16,410.0 | Percent: 0.016972% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000188807525000004/0001888075-25-000004.txt
 2025-08-11 20:44:41 | Jackson Benjamin | Officer | Shares: 6447 | Value: $16,377.0 | Percent: 0.016938% | Link: https://www.sec.gov/Archives/edgar/data/1779964/000177996425000004/0001779964-25-000004.txt
 2025-08-11 20:44:42 | Jackson Benjamin | Officer | Shares: 6447 | Value: $16,377.0 | Percent: 0.016938% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000177996425000004/0001779964-25-000004.txt
+2025-08-11 20:54:44 | CYNTHIA YAZDI | Officer | Shares: 6465 | Value: $2,973,773.93 | Percent: 0.003880% | Link: https://www.sec.gov/Archives/edgar/data/1750793/000195004725005644/0001950047-25-005644.txt
+2025-08-11 20:54:45 | CYNTHIA YAZDI | Officer | Shares: 6465 | Value: $2,973,773.93 | Percent: 0.003880% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725005644/0001950047-25-005644.txt
