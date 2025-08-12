@@ -870,3 +870,7 @@
 2025-08-12 16:17:00 | BOYD WILLIAM R | Officer | Shares: 9774 | Value: $797,503.01 | Percent: 0.012189% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195779925000163/0001957799-25-000163.txt
 2025-08-12 17:00:27 | Harford Barney | Director | Shares: 9000 | Value: $813,600.0 | Percent: 0.002780% | Link: https://www.sec.gov/Archives/edgar/data/1453413/000197249025000011/0001972490-25-000011.txt
 2025-08-12 17:00:28 | Harford Barney | Director | Shares: 9000 | Value: $813,600.0 | Percent: 0.002780% | Link: https://www.sec.gov/Archives/edgar/data/100517/000197249025000011/0001972490-25-000011.txt
+2025-08-12 17:27:23 | Murphy John Francis | Director | Shares: 24250 | Value: $256,382.35 | Percent: 0.013454% | Link: https://www.sec.gov/Archives/edgar/data/1417762/000195917325005122/0001959173-25-005122.txt
+2025-08-12 17:27:24 | Murphy John Francis | Director | Shares: 24250 | Value: $256,382.35 | Percent: 0.013454% | Link: https://www.sec.gov/Archives/edgar/data/1286139/000195917325005122/0001959173-25-005122.txt
+2025-08-12 17:27:25 | Aboud Matt | Officer | Shares: 12027 | Value: $277,102.08 | Percent: 0.012885% | Link: https://www.sec.gov/Archives/edgar/data/1863408/000194984625000354/0001949846-25-000354.txt
+2025-08-12 17:27:36 | Aboud Matt | Officer | Shares: 12027 | Value: $277,102.08 | Percent: 0.012885% | Link: https://www.sec.gov/Archives/edgar/data/949157/000194984625000354/0001949846-25-000354.txt
