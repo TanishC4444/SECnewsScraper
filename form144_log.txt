@@ -938,3 +938,9 @@
 2025-08-12 21:11:27 | SMITH SCOTT THOMAS | Officer | Shares: 10000 | Value: $1,925,734.17 | Percent: 0.016541% | Link: https://www.sec.gov/Archives/edgar/data/1612042/000196430625000313/0001964306-25-000313.txt
 2025-08-12 21:11:29 | LUMINARI CAPITAL, LP | Director | Shares: 38265 | Value: $138,519.3 | Percent: 0.011174% | Link: https://www.sec.gov/Archives/edgar/data/1597004/000195004725005701/0001950047-25-005701.txt
 2025-08-12 21:11:31 | LUMINARI CAPITAL, LP | Director | Shares: 38265 | Value: $138,519.3 | Percent: 0.011174% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195004725005701/0001950047-25-005701.txt
+2025-08-12 21:44:28 | Lowell Kevin R | Officer | Shares: 26459 | Value: $2,005,332.74 | Percent: 0.050113% | Link: https://www.sec.gov/Archives/edgar/data/1958412/000195841225000001/0001958412-25-000001.txt
+2025-08-12 21:44:29 | Lowell Kevin R | Officer | Shares: 26459 | Value: $2,005,332.74 | Percent: 0.050113% | Link: https://www.sec.gov/Archives/edgar/data/821130/000195841225000001/0001958412-25-000001.txt
+2025-08-12 21:44:30 | NAVEEN CHOPRA | Officer | Shares: 101083 | Value: $1,122,071.84 | Percent: 0.015956% | Link: https://www.sec.gov/Archives/edgar/data/2041610/000195004725005707/0001950047-25-005707.txt
+2025-08-12 21:44:31 | NAVEEN CHOPRA | Officer | Shares: 101083 | Value: $1,122,071.84 | Percent: 0.015956% | Link: https://www.sec.gov/Archives/edgar/data/1565390/000195004725005707/0001950047-25-005707.txt
+2025-08-12 21:44:33 | DANIEL FLORNESS | Officer | Shares: 84612 | Value: $4,098,672.97 | Percent: 0.007373% | Link: https://www.sec.gov/Archives/edgar/data/1017427/000195004725005706/0001950047-25-005706.txt
+2025-08-12 21:44:34 | DANIEL FLORNESS | Officer | Shares: 84612 | Value: $4,098,672.97 | Percent: 0.007373% | Link: https://www.sec.gov/Archives/edgar/data/815556/000195004725005706/0001950047-25-005706.txt
