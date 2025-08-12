@@ -1494,3 +1494,4 @@
 2025-08-12 14:44:49 | 8-K - Consolidated Water Co. Ltd. (0000928340) (Filer) | 2025-08-12T10:37:23-04:00 | https://www.sec.gov/Archives/edgar/data/928340/000155837025011170/0001558370-25-011170.txt
 2025-08-12 14:44:49 | 8-K - Fidelity Private Credit Co LLC (0001899996) (Filer) | 2025-08-12T10:28:57-04:00 | https://www.sec.gov/Archives/edgar/data/1899996/000095017025106999/0000950170-25-106999.txt
 2025-08-12 14:44:50 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-08-12T10:25:47-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025106994/0000950170-25-106994.txt
+2025-08-12 15:21:30 | 8-K - ENERGY FOCUS, INC/DE (0000924168) (Filer) | 2025-08-12T10:59:03-04:00 | https://www.sec.gov/Archives/edgar/data/924168/000162828025039813/0001628280-25-039813.txt

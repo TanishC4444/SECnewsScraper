@@ -854,3 +854,7 @@
 2025-08-12 14:25:13 | Lorig Brian | Officer | Shares: 8049 | Value: $7,354,210.32 | Percent: 0.006100% | Link: https://www.sec.gov/Archives/edgar/data/319201/000195917325005105/0001959173-25-005105.txt
 2025-08-12 14:56:37 | Eder Noelle K | Former Officer | Shares: 35711 | Value: $9,822,667.66 | Percent: 0.013379% | Link: https://www.sec.gov/Archives/edgar/data/1739940/000195917325005110/0001959173-25-005110.txt
 2025-08-12 14:56:38 | Eder Noelle K | Former Officer | Shares: 35711 | Value: $9,822,667.66 | Percent: 0.013379% | Link: https://www.sec.gov/Archives/edgar/data/1691704/000195917325005110/0001959173-25-005110.txt
+2025-08-12 15:21:32 | Scartz Ted | Officer | Shares: 8877 | Value: $490,187.94 | Percent: 0.028004% | Link: https://www.sec.gov/Archives/edgar/data/1929771/000192977125000006/0001929771-25-000006.txt
+2025-08-12 15:21:32 | Scartz Ted | Officer | Shares: 8877 | Value: $490,187.94 | Percent: 0.028004% | Link: https://www.sec.gov/Archives/edgar/data/1589526/000192977125000006/0001929771-25-000006.txt
+2025-08-12 15:21:34 | Whitehead Jason E. | Officer | Shares: 12004 | Value: $1,942,470.6 | Percent: 0.091958% | Link: https://www.sec.gov/Archives/edgar/data/1786095/000195917325005111/0001959173-25-005111.txt
+2025-08-12 15:21:35 | Whitehead Jason E. | Officer | Shares: 12004 | Value: $1,942,470.6 | Percent: 0.091958% | Link: https://www.sec.gov/Archives/edgar/data/1704715/000195917325005111/0001959173-25-005111.txt
