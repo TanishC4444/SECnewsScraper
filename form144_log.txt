@@ -864,3 +864,7 @@
 2025-08-12 15:41:37 | Legrottaglie, Vito (CLMB) | Former CIO | Shares: 9860 | Value: $1,163,480.0 | Percent: 0.213549% | Link: https://www.sec.gov/Archives/edgar/data/945983/000143774925026090/0001437749-25-026090.txt
 2025-08-12 15:41:39 | Padmanabhan Aravind | Officer | Shares: 24534 | Value: $2,208,060.0 | Percent: 0.015243% | Link: https://www.sec.gov/Archives/edgar/data/1795828/000195917325005113/0001959173-25-005113.txt
 2025-08-12 15:41:40 | Padmanabhan Aravind | Officer | Shares: 24534 | Value: $2,208,060.0 | Percent: 0.015243% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325005113/0001959173-25-005113.txt
+2025-08-12 16:16:57 | Thode Eric W | Officer | Shares: 10000 | Value: $236,200.0 | Percent: 0.005688% | Link: https://www.sec.gov/Archives/edgar/data/1756643/000195917325005117/0001959173-25-005117.txt
+2025-08-12 16:16:58 | Thode Eric W | Officer | Shares: 10000 | Value: $236,200.0 | Percent: 0.005688% | Link: https://www.sec.gov/Archives/edgar/data/1389050/000195917325005117/0001959173-25-005117.txt
+2025-08-12 16:16:59 | BOYD WILLIAM R | Officer | Shares: 9774 | Value: $797,503.01 | Percent: 0.012189% | Link: https://www.sec.gov/Archives/edgar/data/1186738/000195779925000163/0001957799-25-000163.txt
+2025-08-12 16:17:00 | BOYD WILLIAM R | Officer | Shares: 9774 | Value: $797,503.01 | Percent: 0.012189% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195779925000163/0001957799-25-000163.txt
