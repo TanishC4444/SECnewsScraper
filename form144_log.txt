@@ -922,3 +922,9 @@
 2025-08-12 20:41:14 | Lury Richard R. | Director | Shares: 7000 | Value: $222,672.93 | Percent: 0.003783% | Link: https://www.sec.gov/Archives/edgar/data/866291/000195917325005137/0001959173-25-005137.txt
 2025-08-12 20:41:16 | DAVID COLTON BUSHNELL LIVING TRUST | Director | Shares: 5844 | Value: $1,405,397.85 | Percent: 0.012417% | Link: https://www.sec.gov/Archives/edgar/data/1271830/000195004725005685/0001950047-25-005685.txt
 2025-08-12 20:41:17 | DAVID COLTON BUSHNELL LIVING TRUST | Director | Shares: 5844 | Value: $1,405,397.85 | Percent: 0.012417% | Link: https://www.sec.gov/Archives/edgar/data/913144/000195004725005685/0001950047-25-005685.txt
+2025-08-12 20:53:30 | Larrick Lindsay B | Officer | Shares: 10000 | Value: $216,200.0 | Percent: 0.011805% | Link: https://www.sec.gov/Archives/edgar/data/1953916/000192109425000927/0001921094-25-000927.txt
+2025-08-12 20:53:31 | Larrick Lindsay B | Officer | Shares: 10000 | Value: $216,200.0 | Percent: 0.011805% | Link: https://www.sec.gov/Archives/edgar/data/1838406/000192109425000927/0001921094-25-000927.txt
+2025-08-12 20:53:32 | DOUGLAS W CHAMBERS | Director | Shares: 27905 | Value: $2,115,065.06 | Percent: 0.052651% | Link: https://www.sec.gov/Archives/edgar/data/1739622/000195004725005696/0001950047-25-005696.txt
+2025-08-12 20:53:33 | DOUGLAS W CHAMBERS | Director | Shares: 27905 | Value: $2,115,065.06 | Percent: 0.052651% | Link: https://www.sec.gov/Archives/edgar/data/821130/000195004725005696/0001950047-25-005696.txt
+2025-08-12 20:53:36 | LEROY T CARLSON JR. | Director | Shares: 111820 | Value: $4,266,056.0 | Percent: 0.103537% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725005695/0001950047-25-005695.txt
+2025-08-12 20:53:38 | LEROY T CARLSON JR. | Director | Shares: 111820 | Value: $4,266,056.0 | Percent: 0.103537% | Link: https://www.sec.gov/Archives/edgar/data/901731/000195004725005695/0001950047-25-005695.txt
