@@ -1499,3 +1499,4 @@
 2025-08-12 15:41:31 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-12T11:33:49-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000172/0001325878-25-000172.txt
 2025-08-12 15:41:31 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-08-12T11:23:50-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000154/0001326771-25-000154.txt
 2025-08-12 15:41:31 | 8-K - HPS Corporate Lending Fund (0001838126) (Filer) | 2025-08-12T11:22:32-04:00 | https://www.sec.gov/Archives/edgar/data/1838126/000119312525178668/0001193125-25-178668.txt
+2025-08-12 16:45:35 | 8-K - YORK WATER CO (0000108985) (Filer) | 2025-08-12T12:17:49-04:00 | https://www.sec.gov/Archives/edgar/data/108985/000010898525000068/0000108985-25-000068.txt
