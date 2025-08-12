@@ -902,3 +902,9 @@
 2025-08-12 19:37:54 | Chambers Douglas W | Officer | Shares: 73934 | Value: $5,618,984.0 | Percent: 0.139498% | Link: https://www.sec.gov/Archives/edgar/data/821130/000197249025000013/0001972490-25-000013.txt
 2025-08-12 19:37:56 | Fitzsimmons Timothy Walter | Officer | Shares: 100000 | Value: $1,796,000.0 | Percent: 0.097735% | Link: https://www.sec.gov/Archives/edgar/data/1885866/000197309725000014/0001973097-25-000014.txt
 2025-08-12 19:37:57 | Fitzsimmons Timothy Walter | Officer | Shares: 100000 | Value: $1,796,000.0 | Percent: 0.097735% | Link: https://www.sec.gov/Archives/edgar/data/1823144/000197309725000014/0001973097-25-000014.txt
+2025-08-12 19:56:45 | James E. Lillie | Director | Shares: 375000 | Value: $12,922,500.0 | Percent: 0.090168% | Link: https://www.sec.gov/Archives/edgar/data/1796209/000196858225000725/0001968582-25-000725.txt
+2025-08-12 19:56:46 | James E. Lillie | Director | Shares: 375000 | Value: $12,922,500.0 | Percent: 0.090168% | Link: https://www.sec.gov/Archives/edgar/data/1164470/000196858225000725/0001968582-25-000725.txt
+2025-08-12 19:56:48 | Troy Brunk | Officer | Shares: 7654 | Value: $1,100,000.0 | Percent: 0.000572% | Link: https://www.sec.gov/Archives/edgar/data/2031955/000196922325000600/0001969223-25-000600.txt
+2025-08-12 19:56:49 | Troy Brunk | Officer | Shares: 7654 | Value: $1,100,000.0 | Percent: 0.000572% | Link: https://www.sec.gov/Archives/edgar/data/101829/000196922325000600/0001969223-25-000600.txt
+2025-08-12 19:56:49 | OLeary Christopher D | Director | Shares: 26000 | Value: $990,178.0 | Percent: 0.024074% | Link: https://www.sec.gov/Archives/edgar/data/1362601/000100027525000113/0001000275-25-000113.txt
+2025-08-12 19:56:49 | OLeary Christopher D | Director | Shares: 26000 | Value: $990,178.0 | Percent: 0.024074% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000100027525000113/0001000275-25-000113.txt
