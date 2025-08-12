@@ -948,3 +948,11 @@
 2025-08-12 21:53:52 | Amorelli Angelo | Director | Shares: 200000 | Value: $389,680.0 | Percent: 0.082700% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000169/0001972481-25-000169.txt
 2025-08-12 21:53:54 | Machatha Stephen | Officer | Shares: 22074 | Value: $116,109.24 | Percent: 0.036854% | Link: https://www.sec.gov/Archives/edgar/data/1836354/000183635425000003/0001836354-25-000003.txt
 2025-08-12 21:53:55 | Machatha Stephen | Officer | Shares: 22074 | Value: $116,109.24 | Percent: 0.036854% | Link: https://www.sec.gov/Archives/edgar/data/1341235/000183635425000003/0001836354-25-000003.txt
+2025-08-12 22:12:43 | CHATELLE AILEEN LYNCH | Officer | Shares: 51455 | Value: $383,694.79 | Percent: 0.044651% | Link: https://www.sec.gov/Archives/edgar/data/2005745/000195004725005713/0001950047-25-005713.txt
+2025-08-12 22:12:47 | CHATELLE AILEEN LYNCH | Officer | Shares: 51455 | Value: $383,694.79 | Percent: 0.044651% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725005713/0001950047-25-005713.txt
+2025-08-12 22:12:48 | NIKHIL S LALWANI | Officer | Shares: 56960 | Value: $4,894,823.42 | Percent: 0.262624% | Link: https://www.sec.gov/Archives/edgar/data/1822629/000195004725005712/0001950047-25-005712.txt
+2025-08-12 22:12:49 | NIKHIL S LALWANI | Officer | Shares: 56960 | Value: $4,894,823.42 | Percent: 0.262624% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725005712/0001950047-25-005712.txt
+2025-08-12 22:12:51 | JOHN E DAVIS | Officer | Shares: 10802 | Value: $471,752.51 | Percent: 0.022894% | Link: https://www.sec.gov/Archives/edgar/data/1653206/000195004725005710/0001950047-25-005710.txt
+2025-08-12 22:12:53 | JOHN E DAVIS | Officer | Shares: 10802 | Value: $471,752.51 | Percent: 0.022894% | Link: https://www.sec.gov/Archives/edgar/data/784199/000195004725005710/0001950047-25-005710.txt
+2025-08-12 22:12:55 | KIRK CHARTIER | Officer | Shares: 17000 | Value: $1,849,549.0 | Percent: 0.067966% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000195004725005709/0001950047-25-005709.txt
+2025-08-12 22:12:56 | KIRK CHARTIER | Officer | Shares: 17000 | Value: $1,849,549.0 | Percent: 0.067966% | Link: https://www.sec.gov/Archives/edgar/data/1483333/000195004725005709/0001950047-25-005709.txt
