@@ -858,3 +858,9 @@
 2025-08-12 15:21:32 | Scartz Ted | Officer | Shares: 8877 | Value: $490,187.94 | Percent: 0.028004% | Link: https://www.sec.gov/Archives/edgar/data/1589526/000192977125000006/0001929771-25-000006.txt
 2025-08-12 15:21:34 | Whitehead Jason E. | Officer | Shares: 12004 | Value: $1,942,470.6 | Percent: 0.091958% | Link: https://www.sec.gov/Archives/edgar/data/1786095/000195917325005111/0001959173-25-005111.txt
 2025-08-12 15:21:35 | Whitehead Jason E. | Officer | Shares: 12004 | Value: $1,942,470.6 | Percent: 0.091958% | Link: https://www.sec.gov/Archives/edgar/data/1704715/000195917325005111/0001959173-25-005111.txt
+2025-08-12 15:41:34 | Clinton Malissia | Officer | Shares: 6518 | Value: $466,400.54 | Percent: 0.009160% | Link: https://www.sec.gov/Archives/edgar/data/1769602/000200731725000846/0002007317-25-000846.txt
+2025-08-12 15:41:34 | Clinton Malissia | Officer | Shares: 6518 | Value: $466,400.54 | Percent: 0.009160% | Link: https://www.sec.gov/Archives/edgar/data/833079/000200731725000846/0002007317-25-000846.txt
+2025-08-12 15:41:36 | Legrottaglie, Vito (CLMB) | Former CIO | Shares: 9860 | Value: $1,163,480.0 | Percent: 0.213549% | Link: https://www.sec.gov/Archives/edgar/data/1282439/000143774925026090/0001437749-25-026090.txt
+2025-08-12 15:41:37 | Legrottaglie, Vito (CLMB) | Former CIO | Shares: 9860 | Value: $1,163,480.0 | Percent: 0.213549% | Link: https://www.sec.gov/Archives/edgar/data/945983/000143774925026090/0001437749-25-026090.txt
+2025-08-12 15:41:39 | Padmanabhan Aravind | Officer | Shares: 24534 | Value: $2,208,060.0 | Percent: 0.015243% | Link: https://www.sec.gov/Archives/edgar/data/1795828/000195917325005113/0001959173-25-005113.txt
+2025-08-12 15:41:40 | Padmanabhan Aravind | Officer | Shares: 24534 | Value: $2,208,060.0 | Percent: 0.015243% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325005113/0001959173-25-005113.txt

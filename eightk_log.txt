@@ -1495,3 +1495,7 @@
 2025-08-12 14:44:49 | 8-K - Fidelity Private Credit Co LLC (0001899996) (Filer) | 2025-08-12T10:28:57-04:00 | https://www.sec.gov/Archives/edgar/data/1899996/000095017025106999/0000950170-25-106999.txt
 2025-08-12 14:44:50 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-08-12T10:25:47-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025106994/0000950170-25-106994.txt
 2025-08-12 15:21:30 | 8-K - ENERGY FOCUS, INC/DE (0000924168) (Filer) | 2025-08-12T10:59:03-04:00 | https://www.sec.gov/Archives/edgar/data/924168/000162828025039813/0001628280-25-039813.txt
+2025-08-12 15:41:31 | 8-K - ROPER TECHNOLOGIES INC (0000882835) (Filer) | 2025-08-12T11:35:12-04:00 | https://www.sec.gov/Archives/edgar/data/882835/000119312525178683/0001193125-25-178683.txt
+2025-08-12 15:41:31 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-12T11:33:49-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000172/0001325878-25-000172.txt
+2025-08-12 15:41:31 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-08-12T11:23:50-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000154/0001326771-25-000154.txt
+2025-08-12 15:41:31 | 8-K - HPS Corporate Lending Fund (0001838126) (Filer) | 2025-08-12T11:22:32-04:00 | https://www.sec.gov/Archives/edgar/data/1838126/000119312525178668/0001193125-25-178668.txt
