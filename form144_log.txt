@@ -868,3 +868,5 @@
 2025-08-12 16:16:58 | Thode Eric W | Officer | Shares: 10000 | Value: $236,200.0 | Percent: 0.005688% | Link: https://www.sec.gov/Archives/edgar/data/1389050/000195917325005117/0001959173-25-005117.txt
 2025-08-12 16:16:59 | BOYD WILLIAM R | Officer | Shares: 9774 | Value: $797,503.01 | Percent: 0.012189% | Link: https://www.sec.gov/Archives/edgar/data/1186738/000195779925000163/0001957799-25-000163.txt
 2025-08-12 16:17:00 | BOYD WILLIAM R | Officer | Shares: 9774 | Value: $797,503.01 | Percent: 0.012189% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195779925000163/0001957799-25-000163.txt
+2025-08-12 17:00:27 | Harford Barney | Director | Shares: 9000 | Value: $813,600.0 | Percent: 0.002780% | Link: https://www.sec.gov/Archives/edgar/data/1453413/000197249025000011/0001972490-25-000011.txt
+2025-08-12 17:00:28 | Harford Barney | Director | Shares: 9000 | Value: $813,600.0 | Percent: 0.002780% | Link: https://www.sec.gov/Archives/edgar/data/100517/000197249025000011/0001972490-25-000011.txt
