@@ -966,3 +966,5 @@
 2025-08-12 23:21:19 | ASHIS N BHATTACHARYA | Officer | Shares: 8578 | Value: $277,928.06 | Percent: 0.030602% | Link: https://www.sec.gov/Archives/edgar/data/107687/000195004725005722/0001950047-25-005722.txt
 2025-08-12 23:21:20 | IKAV Energy Inc. | Former Affiliate | Shares: 115906 | Value: $5,548,420.0 | Percent: 0.138511% | Link: https://www.sec.gov/Archives/edgar/data/2028031/000110465925076996/0001104659-25-076996.txt
 2025-08-12 23:21:21 | IKAV Energy Inc. | Former Affiliate | Shares: 115906 | Value: $5,548,420.0 | Percent: 0.138511% | Link: https://www.sec.gov/Archives/edgar/data/1609253/000110465925076996/0001104659-25-076996.txt
+2025-08-12 23:36:13 | AZITA SALEKI-GERHARDT | Officer | Shares: 42370 | Value: $8,407,068.11 | Percent: 0.002398% | Link: https://www.sec.gov/Archives/edgar/data/1563545/000195004725005725/0001950047-25-005725.txt
+2025-08-12 23:36:14 | AZITA SALEKI-GERHARDT | Officer | Shares: 42370 | Value: $8,407,068.11 | Percent: 0.002398% | Link: https://www.sec.gov/Archives/edgar/data/1551152/000195004725005725/0001950047-25-005725.txt
