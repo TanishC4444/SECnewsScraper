@@ -1462,3 +1462,8 @@
 2025-08-12 11:44:15 | 8-K - ANTERO RESOURCES Corp (0001433270) (Filer) | 2025-08-12T07:36:46-04:00 | https://www.sec.gov/Archives/edgar/data/1433270/000110465925076485/0001104659-25-076485.txt
 2025-08-12 11:44:16 | 8-K - TechTarget, Inc. (0002018064) (Filer) | 2025-08-12T07:36:13-04:00 | https://www.sec.gov/Archives/edgar/data/2018064/000095017025106920/0000950170-25-106920.txt
 2025-08-12 11:44:17 | 8-K - Mediaco Holding Inc. (0001784254) (Filer) | 2025-08-12T07:34:55-04:00 | https://www.sec.gov/Archives/edgar/data/1784254/000178425425000020/0001784254-25-000020.txt
+2025-08-12 11:53:28 | 8-K - Athene Holding Ltd. (0001527469) (Filer) | 2025-08-12T07:51:37-04:00 | https://www.sec.gov/Archives/edgar/data/1527469/000152746925000062/0001527469-25-000062.txt
+2025-08-12 11:53:31 | 8-K - Xtant Medical Holdings, Inc. (0001453593) (Filer) | 2025-08-12T07:51:29-04:00 | https://www.sec.gov/Archives/edgar/data/1453593/000164117225023109/0001641172-25-023109.txt
+2025-08-12 11:53:32 | 8-K - Apollo Global Management, Inc. (0001858681) (Filer) | 2025-08-12T07:51:11-04:00 | https://www.sec.gov/Archives/edgar/data/1858681/000185868125000125/0001858681-25-000125.txt
+2025-08-12 11:53:34 | 8-K - SYPRIS SOLUTIONS INC (0000864240) (Filer) | 2025-08-12T07:50:09-04:00 | https://www.sec.gov/Archives/edgar/data/864240/000143774925026039/0001437749-25-026039.txt
+2025-08-12 11:53:36 | 8-K - Madison Square Garden Sports Corp. (0001636519) (Filer) | 2025-08-12T07:46:08-04:00 | https://www.sec.gov/Archives/edgar/data/1636519/000162828025039767/0001628280-25-039767.txt
