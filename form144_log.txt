@@ -908,3 +908,7 @@
 2025-08-12 19:56:49 | Troy Brunk | Officer | Shares: 7654 | Value: $1,100,000.0 | Percent: 0.000572% | Link: https://www.sec.gov/Archives/edgar/data/101829/000196922325000600/0001969223-25-000600.txt
 2025-08-12 19:56:49 | OLeary Christopher D | Director | Shares: 26000 | Value: $990,178.0 | Percent: 0.024074% | Link: https://www.sec.gov/Archives/edgar/data/1362601/000100027525000113/0001000275-25-000113.txt
 2025-08-12 19:56:49 | OLeary Christopher D | Director | Shares: 26000 | Value: $990,178.0 | Percent: 0.024074% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000100027525000113/0001000275-25-000113.txt
+2025-08-12 20:22:38 | BARRY FLANNELLY | Officer | Shares: 14037 | Value: $1,122,969.83 | Percent: 0.007188% | Link: https://www.sec.gov/Archives/edgar/data/1615842/000195004725005668/0001950047-25-005668.txt
+2025-08-12 20:22:40 | BARRY FLANNELLY | Officer | Shares: 14037 | Value: $1,122,969.83 | Percent: 0.007188% | Link: https://www.sec.gov/Archives/edgar/data/879169/000195004725005668/0001950047-25-005668.txt
+2025-08-12 20:22:43 | Jeffery Alan Nager | Employee/Officer | Shares: 11810 | Value: $767,650.0 | Percent: 0.025637% | Link: https://www.sec.gov/Archives/edgar/data/1708886/000203985225000136/0002039852-25-000136.txt
+2025-08-12 20:22:44 | Jeffery Alan Nager | Employee/Officer | Shares: 11810 | Value: $767,650.0 | Percent: 0.025637% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000203985225000136/0002039852-25-000136.txt
