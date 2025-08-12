@@ -898,3 +898,7 @@
 2025-08-12 19:26:22 | Gebo Kate | Officer | Shares: 29953 | Value: $2,923,208.7 | Percent: 0.009252% | Link: https://www.sec.gov/Archives/edgar/data/100517/000195917325005127/0001959173-25-005127.txt
 2025-08-12 19:26:24 | Shah Nikita | Officer | Shares: 50000 | Value: $453,000.0 | Percent: 0.015920% | Link: https://www.sec.gov/Archives/edgar/data/1738061/000194984625000360/0001949846-25-000360.txt
 2025-08-12 19:26:26 | Shah Nikita | Officer | Shares: 50000 | Value: $453,000.0 | Percent: 0.015920% | Link: https://www.sec.gov/Archives/edgar/data/1723128/000194984625000360/0001949846-25-000360.txt
+2025-08-12 19:37:53 | Chambers Douglas W | Officer | Shares: 73934 | Value: $5,618,984.0 | Percent: 0.139498% | Link: https://www.sec.gov/Archives/edgar/data/1739622/000197249025000013/0001972490-25-000013.txt
+2025-08-12 19:37:54 | Chambers Douglas W | Officer | Shares: 73934 | Value: $5,618,984.0 | Percent: 0.139498% | Link: https://www.sec.gov/Archives/edgar/data/821130/000197249025000013/0001972490-25-000013.txt
+2025-08-12 19:37:56 | Fitzsimmons Timothy Walter | Officer | Shares: 100000 | Value: $1,796,000.0 | Percent: 0.097735% | Link: https://www.sec.gov/Archives/edgar/data/1885866/000197309725000014/0001973097-25-000014.txt
+2025-08-12 19:37:57 | Fitzsimmons Timothy Walter | Officer | Shares: 100000 | Value: $1,796,000.0 | Percent: 0.097735% | Link: https://www.sec.gov/Archives/edgar/data/1823144/000197309725000014/0001973097-25-000014.txt
