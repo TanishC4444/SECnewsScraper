@@ -846,3 +846,9 @@
 2025-08-12 13:45:31 | Lilien R Jarrett | Officer | Shares: 25000 | Value: $333,250.0 | Percent: 0.016994% | Link: https://www.sec.gov/Archives/edgar/data/880631/000195917325005100/0001959173-25-005100.txt
 2025-08-12 13:58:34 | Collins Michael W | Officer | Shares: 140598 | Value: $6,500,000.0 | Percent: 0.341257% | Link: https://www.sec.gov/Archives/edgar/data/1975405/000197337925000217/0001973379-25-000217.txt
 2025-08-12 13:58:34 | Collins Michael W | Officer | Shares: 140598 | Value: $6,500,000.0 | Percent: 0.341257% | Link: https://www.sec.gov/Archives/edgar/data/1653242/000197337925000217/0001973379-25-000217.txt
+2025-08-12 14:25:08 | SMITH ARTHUR L | Director | Shares: 102178 | Value: $231,000.0 | Percent: 0.212296% | Link: https://www.sec.gov/Archives/edgar/data/1679268/000197235925000004/0001972359-25-000004.txt
+2025-08-12 14:25:09 | SMITH ARTHUR L | Director | Shares: 102178 | Value: $231,000.0 | Percent: 0.212296% | Link: https://www.sec.gov/Archives/edgar/data/1034323/000197235925000004/0001972359-25-000004.txt
+2025-08-12 14:25:10 | Ford Rollin L. | Director | Shares: 90000 | Value: $4,611,600.0 | Percent: 0.153853% | Link: https://www.sec.gov/Archives/edgar/data/1837240/000195917325005107/0001959173-25-005107.txt
+2025-08-12 14:25:11 | Ford Rollin L. | Director | Shares: 90000 | Value: $4,611,600.0 | Percent: 0.153853% | Link: https://www.sec.gov/Archives/edgar/data/1429247/000195917325005107/0001959173-25-005107.txt
+2025-08-12 14:25:13 | Lorig Brian | Officer | Shares: 8049 | Value: $7,354,210.32 | Percent: 0.006100% | Link: https://www.sec.gov/Archives/edgar/data/1697041/000195917325005105/0001959173-25-005105.txt
+2025-08-12 14:25:13 | Lorig Brian | Officer | Shares: 8049 | Value: $7,354,210.32 | Percent: 0.006100% | Link: https://www.sec.gov/Archives/edgar/data/319201/000195917325005105/0001959173-25-005105.txt
