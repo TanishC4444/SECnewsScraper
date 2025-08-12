@@ -1553,3 +1553,13 @@
 2025-08-12 21:11:14 | 8-K - Funko, Inc. (0001704711) (Filer) | 2025-08-12T17:04:59-04:00 | https://www.sec.gov/Archives/edgar/data/1704711/000119312525179070/0001193125-25-179070.txt
 2025-08-12 21:11:16 | 8-K - Rekor Systems, Inc. (0001697851) (Filer) | 2025-08-12T17:03:51-04:00 | https://www.sec.gov/Archives/edgar/data/1697851/000143774925026269/0001437749-25-026269.txt
 2025-08-12 21:11:17 | 8-K - Envirotech Vehicles, Inc. (0001563568) (Filer) | 2025-08-12T17:02:32-04:00 | https://www.sec.gov/Archives/edgar/data/1563568/000143774925026267/0001437749-25-026267.txt
+2025-08-12 21:31:07 | 8-K - SRx Health Solutions, Inc. (0001471727) (Filer) | 2025-08-12T17:30:14-04:00 | https://www.sec.gov/Archives/edgar/data/1471727/000164117225023256/0001641172-25-023256.txt
+2025-08-12 21:31:08 | 8-K - FISERV INC (0000798354) (Filer) | 2025-08-12T17:29:24-04:00 | https://www.sec.gov/Archives/edgar/data/798354/000119312525179106/0001193125-25-179106.txt
+2025-08-12 21:31:09 | 8-K/A - Braemar Hotels & Resorts Inc. (0001574085) (Filer) | 2025-08-12T17:29:19-04:00 | https://www.sec.gov/Archives/edgar/data/1574085/000157408525000097/0001574085-25-000097.txt
+2025-08-12 21:31:10 | 8-K - Freight Technologies, Inc. (0001687542) (Filer) | 2025-08-12T17:29:08-04:00 | https://www.sec.gov/Archives/edgar/data/1687542/000164117225023254/0001641172-25-023254.txt
+2025-08-12 21:31:11 | 8-K - DATA I/O CORP (0000351998) (Filer) | 2025-08-12T17:28:41-04:00 | https://www.sec.gov/Archives/edgar/data/351998/000165495425009451/0001654954-25-009451.txt
+2025-08-12 21:31:14 | 8-K - TECOGEN INC. (0001537435) (Filer) | 2025-08-12T17:28:38-04:00 | https://www.sec.gov/Archives/edgar/data/1537435/000153743525000129/0001537435-25-000129.txt
+2025-08-12 21:31:15 | 8-K - DiaMedica Therapeutics Inc. (0001401040) (Filer) | 2025-08-12T17:27:58-04:00 | https://www.sec.gov/Archives/edgar/data/1401040/000143774925026286/0001437749-25-026286.txt
+2025-08-12 21:31:17 | 8-K - AerSale Corp (0001754170) (Filer) | 2025-08-12T17:27:02-04:00 | https://www.sec.gov/Archives/edgar/data/1754170/000155837025011248/0001558370-25-011248.txt
+2025-08-12 21:31:18 | 8-K - Loop Media, Inc. (0001643988) (Filer) | 2025-08-12T17:26:41-04:00 | https://www.sec.gov/Archives/edgar/data/1643988/000164117225023252/0001641172-25-023252.txt
+2025-08-12 21:31:19 | 8-K - Waystar Holding Corp. (0001990354) (Filer) | 2025-08-12T17:25:44-04:00 | https://www.sec.gov/Archives/edgar/data/1990354/000199035425000015/0001990354-25-000015.txt
