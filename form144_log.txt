@@ -960,3 +960,9 @@
 2025-08-12 22:48:35 | TAMIR POLEG | Officer | Shares: 212037 | Value: $906,127.88 | Percent: 0.101882% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005717/0001950047-25-005717.txt
 2025-08-12 22:57:38 | JASON J WINKLER | Officer | Shares: 11463 | Value: $5,401,289.94 | Percent: 0.006880% | Link: https://www.sec.gov/Archives/edgar/data/1816511/000195004725005719/0001950047-25-005719.txt
 2025-08-12 22:57:39 | JASON J WINKLER | Officer | Shares: 11463 | Value: $5,401,289.94 | Percent: 0.006880% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725005719/0001950047-25-005719.txt
+2025-08-12 23:21:16 | ARTHUR STARRS | Officer | Shares: 106734 | Value: $921,830.57 | Percent: 0.058050% | Link: https://www.sec.gov/Archives/edgar/data/1732105/000195004725005723/0001950047-25-005723.txt
+2025-08-12 23:21:17 | ARTHUR STARRS | Officer | Shares: 106734 | Value: $921,830.57 | Percent: 0.058050% | Link: https://www.sec.gov/Archives/edgar/data/837465/000195004725005723/0001950047-25-005723.txt
+2025-08-12 23:21:18 | ASHIS N BHATTACHARYA | Officer | Shares: 8578 | Value: $277,928.06 | Percent: 0.030602% | Link: https://www.sec.gov/Archives/edgar/data/1674994/000195004725005722/0001950047-25-005722.txt
+2025-08-12 23:21:19 | ASHIS N BHATTACHARYA | Officer | Shares: 8578 | Value: $277,928.06 | Percent: 0.030602% | Link: https://www.sec.gov/Archives/edgar/data/107687/000195004725005722/0001950047-25-005722.txt
+2025-08-12 23:21:20 | IKAV Energy Inc. | Former Affiliate | Shares: 115906 | Value: $5,548,420.0 | Percent: 0.138511% | Link: https://www.sec.gov/Archives/edgar/data/2028031/000110465925076996/0001104659-25-076996.txt
+2025-08-12 23:21:21 | IKAV Energy Inc. | Former Affiliate | Shares: 115906 | Value: $5,548,420.0 | Percent: 0.138511% | Link: https://www.sec.gov/Archives/edgar/data/1609253/000110465925076996/0001104659-25-076996.txt
