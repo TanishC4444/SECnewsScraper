@@ -958,3 +958,5 @@
 2025-08-12 22:12:56 | KIRK CHARTIER | Officer | Shares: 17000 | Value: $1,849,549.0 | Percent: 0.067966% | Link: https://www.sec.gov/Archives/edgar/data/1483333/000195004725005709/0001950047-25-005709.txt
 2025-08-12 22:48:34 | TAMIR POLEG | Officer | Shares: 212037 | Value: $906,127.88 | Percent: 0.101882% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725005717/0001950047-25-005717.txt
 2025-08-12 22:48:35 | TAMIR POLEG | Officer | Shares: 212037 | Value: $906,127.88 | Percent: 0.101882% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005717/0001950047-25-005717.txt
+2025-08-12 22:57:38 | JASON J WINKLER | Officer | Shares: 11463 | Value: $5,401,289.94 | Percent: 0.006880% | Link: https://www.sec.gov/Archives/edgar/data/1816511/000195004725005719/0001950047-25-005719.txt
+2025-08-12 22:57:39 | JASON J WINKLER | Officer | Shares: 11463 | Value: $5,401,289.94 | Percent: 0.006880% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725005719/0001950047-25-005719.txt
