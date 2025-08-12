@@ -1444,3 +1444,11 @@
 2025-08-12 11:15:53 | 8-K - Adverum Biotechnologies, Inc. (0001501756) (Filer) | 2025-08-12T07:02:55-04:00 | https://www.sec.gov/Archives/edgar/data/1501756/000162828025039759/0001628280-25-039759.txt
 2025-08-12 11:15:54 | 8-K - BKV Corp (0001838406) (Filer) | 2025-08-12T07:01:37-04:00 | https://www.sec.gov/Archives/edgar/data/1838406/000162828025039758/0001628280-25-039758.txt
 2025-08-12 11:15:55 | 8-K - US ENERGY CORP (0000101594) (Filer) | 2025-08-12T07:01:22-04:00 | https://www.sec.gov/Archives/edgar/data/101594/000143774925026033/0001437749-25-026033.txt
+2025-08-12 11:31:35 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-08-12T07:30:32-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000164117225023105/0001641172-25-023105.txt
+2025-08-12 11:31:36 | 8-K - CalciMedica, Inc. (0001534133) (Filer) | 2025-08-12T07:30:28-04:00 | https://www.sec.gov/Archives/edgar/data/1534133/000095017025106918/0000950170-25-106918.txt
+2025-08-12 11:31:38 | 8-K - SHERWIN WILLIAMS CO (0000089800) (Filer) | 2025-08-12T07:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/89800/000119312525178475/0001193125-25-178475.txt
+2025-08-12 11:31:39 | 8-K - VERU INC. (0000863894) (Filer) | 2025-08-12T07:30:21-04:00 | https://www.sec.gov/Archives/edgar/data/863894/000143774925026037/0001437749-25-026037.txt
+2025-08-12 11:31:41 | 8-K - Armour Residential REIT, Inc. (0001428205) (Filer) | 2025-08-12T07:27:38-04:00 | https://www.sec.gov/Archives/edgar/data/1428205/000142820525000182/0001428205-25-000182.txt
+2025-08-12 11:31:42 | 8-K - Milestone Pharmaceuticals Inc. (0001408443) (Filer) | 2025-08-12T07:16:26-04:00 | https://www.sec.gov/Archives/edgar/data/1408443/000110465925076468/0001104659-25-076468.txt
+2025-08-12 11:31:44 | 8-K - WisdomTree, Inc. (0000880631) (Filer) | 2025-08-12T07:15:57-04:00 | https://www.sec.gov/Archives/edgar/data/880631/000121465925011813/0001214659-25-011813.txt
+2025-08-12 11:31:45 | 8-K - TScan Therapeutics, Inc. (0001783328) (Filer) | 2025-08-12T07:15:31-04:00 | https://www.sec.gov/Archives/edgar/data/1783328/000095017025106915/0000950170-25-106915.txt
