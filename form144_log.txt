@@ -928,3 +928,13 @@
 2025-08-12 20:53:33 | DOUGLAS W CHAMBERS | Director | Shares: 27905 | Value: $2,115,065.06 | Percent: 0.052651% | Link: https://www.sec.gov/Archives/edgar/data/821130/000195004725005696/0001950047-25-005696.txt
 2025-08-12 20:53:36 | LEROY T CARLSON JR. | Director | Shares: 111820 | Value: $4,266,056.0 | Percent: 0.103537% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725005695/0001950047-25-005695.txt
 2025-08-12 20:53:38 | LEROY T CARLSON JR. | Director | Shares: 111820 | Value: $4,266,056.0 | Percent: 0.103537% | Link: https://www.sec.gov/Archives/edgar/data/901731/000195004725005695/0001950047-25-005695.txt
+2025-08-12 21:11:19 | Fortunato Joe | Director | Shares: 10000 | Value: $1,475,725.0 | Percent: 0.010233% | Link: https://www.sec.gov/Archives/edgar/data/1575515/000200731725000856/0002007317-25-000856.txt
+2025-08-12 21:11:20 | Fortunato Joe | Director | Shares: 10000 | Value: $1,475,725.0 | Percent: 0.010233% | Link: https://www.sec.gov/Archives/edgar/data/1372127/000200731725000856/0002007317-25-000856.txt
+2025-08-12 21:11:22 | PAUL DARREN GRASBY | Officer | Shares: 10000 | Value: $1,732,100.0 | Percent: 0.000616% | Link: https://www.sec.gov/Archives/edgar/data/1768248/000195004725005702/0001950047-25-005702.txt
+2025-08-12 21:11:23 | PAUL DARREN GRASBY | Officer | Shares: 10000 | Value: $1,732,100.0 | Percent: 0.000616% | Link: https://www.sec.gov/Archives/edgar/data/2488/000195004725005702/0001950047-25-005702.txt
+2025-08-12 21:11:24 | Frink Lloyd D | Officer | Shares: 5995 | Value: $481,791.0 | Percent: 0.003224% | Link: https://www.sec.gov/Archives/edgar/data/1617640/000192109425000937/0001921094-25-000937.txt
+2025-08-12 21:11:25 | Frink Lloyd D | Officer | Shares: 5995 | Value: $481,791.0 | Percent: 0.003224% | Link: https://www.sec.gov/Archives/edgar/data/1524265/000192109425000937/0001921094-25-000937.txt
+2025-08-12 21:11:26 | SMITH SCOTT THOMAS | Officer | Shares: 10000 | Value: $1,925,734.17 | Percent: 0.016541% | Link: https://www.sec.gov/Archives/edgar/data/1965550/000196430625000313/0001964306-25-000313.txt
+2025-08-12 21:11:27 | SMITH SCOTT THOMAS | Officer | Shares: 10000 | Value: $1,925,734.17 | Percent: 0.016541% | Link: https://www.sec.gov/Archives/edgar/data/1612042/000196430625000313/0001964306-25-000313.txt
+2025-08-12 21:11:29 | LUMINARI CAPITAL, LP | Director | Shares: 38265 | Value: $138,519.3 | Percent: 0.011174% | Link: https://www.sec.gov/Archives/edgar/data/1597004/000195004725005701/0001950047-25-005701.txt
+2025-08-12 21:11:31 | LUMINARI CAPITAL, LP | Director | Shares: 38265 | Value: $138,519.3 | Percent: 0.011174% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195004725005701/0001950047-25-005701.txt
