@@ -1418,3 +1418,13 @@
 2025-08-11 21:31:54 | 8-K - V2X, Inc. (0001601548) (Filer) | 2025-08-11T17:22:51-04:00 | https://www.sec.gov/Archives/edgar/data/1601548/000110465925076237/0001104659-25-076237.txt
 2025-08-11 21:31:54 | 8-K - Urban Edge Properties LP (0001681169) (Filer) | 2025-08-11T17:22:31-04:00 | https://www.sec.gov/Archives/edgar/data/1681169/000161154725000061/0001611547-25-000061.txt
 2025-08-11 21:44:02 | 8-K/A - Intuitive Machines, Inc. (0001844452) (Filer) | 2025-08-11T17:31:12-04:00 | https://www.sec.gov/Archives/edgar/data/1844452/000184445225000056/0001844452-25-000056.txt
+2025-08-12 10:21:08 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-08-12T06:16:15-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325014117/0001062993-25-014117.txt
+2025-08-12 10:21:09 | 8-K - Amphastar Pharmaceuticals, Inc. (0001297184) (Filer) | 2025-08-12T06:10:42-04:00 | https://www.sec.gov/Archives/edgar/data/1297184/000155837025011134/0001558370-25-011134.txt
+2025-08-12 10:21:11 | 8-K - Fundamental Global Inc. (0001591890) (Filer) | 2025-08-11T21:47:43-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000164117225023074/0001641172-25-023074.txt
+2025-08-12 10:21:12 | 8-K - Cycurion, Inc. (0001868419) (Filer) | 2025-08-11T21:45:16-04:00 | https://www.sec.gov/Archives/edgar/data/1868419/000164117225023071/0001641172-25-023071.txt
+2025-08-12 10:21:12 | 8-K/A - Venus Concept Inc. (0001409269) (Filer) | 2025-08-11T21:37:06-04:00 | https://www.sec.gov/Archives/edgar/data/1409269/000114036125030311/0001140361-25-030311.txt
+2025-08-12 10:21:13 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-08-11T20:56:55-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125030297/0001140361-25-030297.txt
+2025-08-12 10:21:14 | 8-K - Archrock, Inc. (0001389050) (Filer) | 2025-08-11T20:41:14-04:00 | https://www.sec.gov/Archives/edgar/data/1389050/000138905025000033/0001389050-25-000033.txt
+2025-08-12 10:21:16 | 8-K - TANDY LEATHER FACTORY INC (0000909724) (Filer) | 2025-08-11T20:21:38-04:00 | https://www.sec.gov/Archives/edgar/data/909724/000114036125030293/0001140361-25-030293.txt
+2025-08-12 10:21:17 | 8-K - Microvast Holdings, Inc. (0001760689) (Filer) | 2025-08-11T20:21:09-04:00 | https://www.sec.gov/Archives/edgar/data/1760689/000162828025039708/0001628280-25-039708.txt
+2025-08-12 10:21:18 | 8-K - Fundamental Global Inc. (0001591890) (Filer) | 2025-08-11T20:14:17-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000164117225023066/0001641172-25-023066.txt
