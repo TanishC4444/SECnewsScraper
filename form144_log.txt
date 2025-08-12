@@ -842,3 +842,5 @@
 2025-08-12 01:23:03 | Bradford Zachary | Officer | Shares: 622520 | Value: $6,144,272.4 | Percent: 0.220232% | Link: https://www.sec.gov/Archives/edgar/data/827876/000095017025106843/0000950170-25-106843.txt
 2025-08-12 01:23:04 | John M Perisich | Affiliate | Shares: 11607 | Value: $1,290,466.26 | Percent: 0.021489% | Link: https://www.sec.gov/Archives/edgar/data/1441444/000196858225000723/0001968582-25-000723.txt
 2025-08-12 01:23:06 | John M Perisich | Affiliate | Shares: 11607 | Value: $1,290,466.26 | Percent: 0.021489% | Link: https://www.sec.gov/Archives/edgar/data/1361538/000196858225000723/0001968582-25-000723.txt
+2025-08-12 13:45:30 | Lilien R Jarrett | Officer | Shares: 25000 | Value: $333,250.0 | Percent: 0.016994% | Link: https://www.sec.gov/Archives/edgar/data/1197950/000195917325005100/0001959173-25-005100.txt
+2025-08-12 13:45:31 | Lilien R Jarrett | Officer | Shares: 25000 | Value: $333,250.0 | Percent: 0.016994% | Link: https://www.sec.gov/Archives/edgar/data/880631/000195917325005100/0001959173-25-005100.txt
