@@ -852,3 +852,5 @@
 2025-08-12 14:25:11 | Ford Rollin L. | Director | Shares: 90000 | Value: $4,611,600.0 | Percent: 0.153853% | Link: https://www.sec.gov/Archives/edgar/data/1429247/000195917325005107/0001959173-25-005107.txt
 2025-08-12 14:25:13 | Lorig Brian | Officer | Shares: 8049 | Value: $7,354,210.32 | Percent: 0.006100% | Link: https://www.sec.gov/Archives/edgar/data/1697041/000195917325005105/0001959173-25-005105.txt
 2025-08-12 14:25:13 | Lorig Brian | Officer | Shares: 8049 | Value: $7,354,210.32 | Percent: 0.006100% | Link: https://www.sec.gov/Archives/edgar/data/319201/000195917325005105/0001959173-25-005105.txt
+2025-08-12 14:56:37 | Eder Noelle K | Former Officer | Shares: 35711 | Value: $9,822,667.66 | Percent: 0.013379% | Link: https://www.sec.gov/Archives/edgar/data/1739940/000195917325005110/0001959173-25-005110.txt
+2025-08-12 14:56:38 | Eder Noelle K | Former Officer | Shares: 35711 | Value: $9,822,667.66 | Percent: 0.013379% | Link: https://www.sec.gov/Archives/edgar/data/1691704/000195917325005110/0001959173-25-005110.txt
