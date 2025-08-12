@@ -1467,3 +1467,13 @@
 2025-08-12 11:53:32 | 8-K - Apollo Global Management, Inc. (0001858681) (Filer) | 2025-08-12T07:51:11-04:00 | https://www.sec.gov/Archives/edgar/data/1858681/000185868125000125/0001858681-25-000125.txt
 2025-08-12 11:53:34 | 8-K - SYPRIS SOLUTIONS INC (0000864240) (Filer) | 2025-08-12T07:50:09-04:00 | https://www.sec.gov/Archives/edgar/data/864240/000143774925026039/0001437749-25-026039.txt
 2025-08-12 11:53:36 | 8-K - Madison Square Garden Sports Corp. (0001636519) (Filer) | 2025-08-12T07:46:08-04:00 | https://www.sec.gov/Archives/edgar/data/1636519/000162828025039767/0001628280-25-039767.txt
+2025-08-12 12:23:54 | 8-K - CITIZENS FINANCIAL GROUP INC/RI (0000759944) (Filer) | 2025-08-12T08:20:51-04:00 | https://www.sec.gov/Archives/edgar/data/759944/000119312525178517/0001193125-25-178517.txt
+2025-08-12 12:23:57 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-08-12T08:20:29-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000164117225023115/0001641172-25-023115.txt
+2025-08-12 12:23:59 | 8-K - AVITA Medical, Inc. (0001762303) (Filer) | 2025-08-12T08:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1762303/000176230325000023/0001762303-25-000023.txt
+2025-08-12 12:24:01 | 8-K - Autolus Therapeutics plc (0001730463) (Filer) | 2025-08-12T08:11:30-04:00 | https://www.sec.gov/Archives/edgar/data/1730463/000173046325000064/0001730463-25-000064.txt
+2025-08-12 12:24:03 | 8-K - Jerash Holdings (US), Inc. (0001696558) (Filer) | 2025-08-12T08:11:28-04:00 | https://www.sec.gov/Archives/edgar/data/1696558/000121390025074646/0001213900-25-074646.txt
+2025-08-12 12:24:05 | 8-K - Taysha Gene Therapies, Inc. (0001806310) (Filer) | 2025-08-12T08:10:37-04:00 | https://www.sec.gov/Archives/edgar/data/1806310/000119312525178504/0001193125-25-178504.txt
+2025-08-12 12:24:07 | 8-K - Coya Therapeutics, Inc. (0001835022) (Filer) | 2025-08-12T08:06:45-04:00 | https://www.sec.gov/Archives/edgar/data/1835022/000095017025106932/0000950170-25-106932.txt
+2025-08-12 12:24:10 | 8-K - VerifyMe, Inc. (0001104038) (Filer) | 2025-08-12T08:05:53-04:00 | https://www.sec.gov/Archives/edgar/data/1104038/000121465925011817/0001214659-25-011817.txt
+2025-08-12 12:24:12 | 8-K - Emerald Holding, Inc. (0001579214) (Filer) | 2025-08-12T08:05:30-04:00 | https://www.sec.gov/Archives/edgar/data/1579214/000119312525178500/0001193125-25-178500.txt
+2025-08-12 12:24:13 | 8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer) | 2025-08-12T08:05:24-04:00 | https://www.sec.gov/Archives/edgar/data/1720893/000110465925076501/0001104659-25-076501.txt
