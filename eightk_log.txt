@@ -1452,3 +1452,13 @@
 2025-08-12 11:31:42 | 8-K - Milestone Pharmaceuticals Inc. (0001408443) (Filer) | 2025-08-12T07:16:26-04:00 | https://www.sec.gov/Archives/edgar/data/1408443/000110465925076468/0001104659-25-076468.txt
 2025-08-12 11:31:44 | 8-K - WisdomTree, Inc. (0000880631) (Filer) | 2025-08-12T07:15:57-04:00 | https://www.sec.gov/Archives/edgar/data/880631/000121465925011813/0001214659-25-011813.txt
 2025-08-12 11:31:45 | 8-K - TScan Therapeutics, Inc. (0001783328) (Filer) | 2025-08-12T07:15:31-04:00 | https://www.sec.gov/Archives/edgar/data/1783328/000095017025106915/0000950170-25-106915.txt
+2025-08-12 11:44:04 | 8-K - PLUG POWER INC (0001093691) (Filer) | 2025-08-12T07:42:11-04:00 | https://www.sec.gov/Archives/edgar/data/1093691/000110465925076487/0001104659-25-076487.txt
+2025-08-12 11:44:05 | 8-K - ADC Therapeutics SA (0001771910) (Filer) | 2025-08-12T07:41:53-04:00 | https://www.sec.gov/Archives/edgar/data/1771910/000177191025000006/0001771910-25-000006.txt
+2025-08-12 11:44:08 | 8-K - Bicara Therapeutics Inc. (0002023658) (Filer) | 2025-08-12T07:41:43-04:00 | https://www.sec.gov/Archives/edgar/data/2023658/000202365825000094/0002023658-25-000094.txt
+2025-08-12 11:44:09 | 8-K - Mereo BioPharma Group plc (0001719714) (Filer) | 2025-08-12T07:40:38-04:00 | https://www.sec.gov/Archives/edgar/data/1719714/000095017025106924/0000950170-25-106924.txt
+2025-08-12 11:44:11 | 8-K - ALT5 Sigma Corp (0000862861) (Filer) | 2025-08-12T07:40:05-04:00 | https://www.sec.gov/Archives/edgar/data/862861/000164117225023107/0001641172-25-023107.txt
+2025-08-12 11:44:12 | 8-K - Antero Midstream Corp (0001623925) (Filer) | 2025-08-12T07:39:26-04:00 | https://www.sec.gov/Archives/edgar/data/1623925/000110465925076486/0001104659-25-076486.txt
+2025-08-12 11:44:13 | 8-K - Sable Offshore Corp. (0001831481) (Filer) | 2025-08-12T07:37:45-04:00 | https://www.sec.gov/Archives/edgar/data/1831481/000183148125000065/0001831481-25-000065.txt
+2025-08-12 11:44:15 | 8-K - ANTERO RESOURCES Corp (0001433270) (Filer) | 2025-08-12T07:36:46-04:00 | https://www.sec.gov/Archives/edgar/data/1433270/000110465925076485/0001104659-25-076485.txt
+2025-08-12 11:44:16 | 8-K - TechTarget, Inc. (0002018064) (Filer) | 2025-08-12T07:36:13-04:00 | https://www.sec.gov/Archives/edgar/data/2018064/000095017025106920/0000950170-25-106920.txt
+2025-08-12 11:44:17 | 8-K - Mediaco Holding Inc. (0001784254) (Filer) | 2025-08-12T07:34:55-04:00 | https://www.sec.gov/Archives/edgar/data/1784254/000178425425000020/0001784254-25-000020.txt
