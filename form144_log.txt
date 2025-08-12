@@ -956,3 +956,5 @@
 2025-08-12 22:12:53 | JOHN E DAVIS | Officer | Shares: 10802 | Value: $471,752.51 | Percent: 0.022894% | Link: https://www.sec.gov/Archives/edgar/data/784199/000195004725005710/0001950047-25-005710.txt
 2025-08-12 22:12:55 | KIRK CHARTIER | Officer | Shares: 17000 | Value: $1,849,549.0 | Percent: 0.067966% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000195004725005709/0001950047-25-005709.txt
 2025-08-12 22:12:56 | KIRK CHARTIER | Officer | Shares: 17000 | Value: $1,849,549.0 | Percent: 0.067966% | Link: https://www.sec.gov/Archives/edgar/data/1483333/000195004725005709/0001950047-25-005709.txt
+2025-08-12 22:48:34 | TAMIR POLEG | Officer | Shares: 212037 | Value: $906,127.88 | Percent: 0.101882% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725005717/0001950047-25-005717.txt
+2025-08-12 22:48:35 | TAMIR POLEG | Officer | Shares: 212037 | Value: $906,127.88 | Percent: 0.101882% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005717/0001950047-25-005717.txt
