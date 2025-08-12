@@ -844,3 +844,5 @@
 2025-08-12 01:23:06 | John M Perisich | Affiliate | Shares: 11607 | Value: $1,290,466.26 | Percent: 0.021489% | Link: https://www.sec.gov/Archives/edgar/data/1361538/000196858225000723/0001968582-25-000723.txt
 2025-08-12 13:45:30 | Lilien R Jarrett | Officer | Shares: 25000 | Value: $333,250.0 | Percent: 0.016994% | Link: https://www.sec.gov/Archives/edgar/data/1197950/000195917325005100/0001959173-25-005100.txt
 2025-08-12 13:45:31 | Lilien R Jarrett | Officer | Shares: 25000 | Value: $333,250.0 | Percent: 0.016994% | Link: https://www.sec.gov/Archives/edgar/data/880631/000195917325005100/0001959173-25-005100.txt
+2025-08-12 13:58:34 | Collins Michael W | Officer | Shares: 140598 | Value: $6,500,000.0 | Percent: 0.341257% | Link: https://www.sec.gov/Archives/edgar/data/1975405/000197337925000217/0001973379-25-000217.txt
+2025-08-12 13:58:34 | Collins Michael W | Officer | Shares: 140598 | Value: $6,500,000.0 | Percent: 0.341257% | Link: https://www.sec.gov/Archives/edgar/data/1653242/000197337925000217/0001973379-25-000217.txt

@@ -1489,3 +1489,4 @@
 2025-08-12 13:45:23 | 8-K - LCI INDUSTRIES (0000763744) (Filer) | 2025-08-12T09:24:56-04:00 | https://www.sec.gov/Archives/edgar/data/763744/000076374425000132/0000763744-25-000132.txt
 2025-08-12 13:45:25 | 8-K - Rocket Lab Corp (0001819994) (Filer) | 2025-08-12T09:18:12-04:00 | https://www.sec.gov/Archives/edgar/data/1819994/000175392625001284/0001753926-25-001284.txt
 2025-08-12 13:45:28 | 8-K - Global Clean Energy Holdings, Inc. (0000748790) (Filer) | 2025-08-12T09:08:23-04:00 | https://www.sec.gov/Archives/edgar/data/748790/000121390025074670/0001213900-25-074670.txt
+2025-08-12 13:58:34 | 8-K - Bogota Financial Corp. (0001787414) (Filer) | 2025-08-12T09:56:16-04:00 | https://www.sec.gov/Archives/edgar/data/1787414/000094337425000374/0000943374-25-000374.txt
