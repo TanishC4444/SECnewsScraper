@@ -1018,3 +1018,7 @@
 2025-08-13 18:39:26 | Teresa Vermillion | Officer | Shares: 6000 | Value: $126,000.0 | Percent: 133.333333% | Link: https://www.sec.gov/Archives/edgar/data/74303/000007430325000120/0000074303-25-000120.txt
 2025-08-13 18:39:29 | SENGSTACK GREGG C | Director | Shares: 10000 | Value: $978,800.0 | Percent: 0.022480% | Link: https://www.sec.gov/Archives/edgar/data/1189242/000194984625000366/0001949846-25-000366.txt
 2025-08-13 18:39:30 | SENGSTACK GREGG C | Director | Shares: 10000 | Value: $978,800.0 | Percent: 0.022480% | Link: https://www.sec.gov/Archives/edgar/data/38725/000194984625000366/0001949846-25-000366.txt
+2025-08-13 18:56:29 | CRAGUN KENNETH S | Officer | Shares: 20295 | Value: $337,708.8 | Percent: 1.069309% | Link: https://www.sec.gov/Archives/edgar/data/1566610/000194984625000367/0001949846-25-000367.txt
+2025-08-13 18:56:30 | CRAGUN KENNETH S | Officer | Shares: 20295 | Value: $337,708.8 | Percent: 1.069309% | Link: https://www.sec.gov/Archives/edgar/data/1327261/000194984625000367/0001949846-25-000367.txt
+2025-08-13 18:56:32 | JETER JAMES J | Officer | Shares: 10000 | Value: $1,167,147.07 | Percent: 0.005388% | Link: https://www.sec.gov/Archives/edgar/data/1242860/000195917325005160/0001959173-25-005160.txt
+2025-08-13 18:56:33 | JETER JAMES J | Officer | Shares: 10000 | Value: $1,167,147.07 | Percent: 0.005388% | Link: https://www.sec.gov/Archives/edgar/data/1046102/000195917325005160/0001959173-25-005160.txt
