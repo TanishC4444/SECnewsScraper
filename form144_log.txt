@@ -1022,3 +1022,5 @@
 2025-08-13 18:56:30 | CRAGUN KENNETH S | Officer | Shares: 20295 | Value: $337,708.8 | Percent: 1.069309% | Link: https://www.sec.gov/Archives/edgar/data/1327261/000194984625000367/0001949846-25-000367.txt
 2025-08-13 18:56:32 | JETER JAMES J | Officer | Shares: 10000 | Value: $1,167,147.07 | Percent: 0.005388% | Link: https://www.sec.gov/Archives/edgar/data/1242860/000195917325005160/0001959173-25-005160.txt
 2025-08-13 18:56:33 | JETER JAMES J | Officer | Shares: 10000 | Value: $1,167,147.07 | Percent: 0.005388% | Link: https://www.sec.gov/Archives/edgar/data/1046102/000195917325005160/0001959173-25-005160.txt
+2025-08-13 19:15:58 | Konidaris Tasos | Officer | Shares: 169206 | Value: $1,568,539.0 | Percent: 0.053874% | Link: https://www.sec.gov/Archives/edgar/data/1723128/000194984625000368/0001949846-25-000368.txt
+2025-08-13 19:15:59 | Konidaris Tasos | Officer | Shares: 169206 | Value: $1,568,539.0 | Percent: 0.053874% | Link: https://www.sec.gov/Archives/edgar/data/1320982/000194984625000368/0001949846-25-000368.txt
