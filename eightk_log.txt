@@ -1616,3 +1616,7 @@
 2025-08-13 13:19:32 | 8-K - Connect Biopharma Holdings Ltd (0001835268) (Filer) | 2025-08-13T09:03:26-04:00 | https://www.sec.gov/Archives/edgar/data/1835268/000183526825000051/0001835268-25-000051.txt
 2025-08-13 13:19:34 | 8-K - LiveOne, Inc. (0001491419) (Filer) | 2025-08-13T09:00:41-04:00 | https://www.sec.gov/Archives/edgar/data/1491419/000121390025075322/0001213900-25-075322.txt
 2025-08-13 13:19:35 | 8-K - ProPhase Labs, Inc. (0000868278) (Filer) | 2025-08-13T09:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/868278/000164117225023344/0001641172-25-023344.txt
+2025-08-13 13:50:06 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-13T09:32:31-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000184/0001331465-25-000184.txt
+2025-08-13 13:50:09 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-08-13T09:28:24-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025075338/0001213900-25-075338.txt
+2025-08-13 13:50:12 | 8-K - 1606 CORP. (0001877461) (Filer) | 2025-08-13T09:20:11-04:00 | https://www.sec.gov/Archives/edgar/data/1877461/000147793225005744/0001477932-25-005744.txt
+2025-08-13 13:50:13 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-13T09:19:47-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009479/0001654954-25-009479.txt
