@@ -1596,3 +1596,5 @@
 2025-08-13 11:45:23 | 8-K - Madison Square Garden Entertainment Corp. (0001952073) (Filer) | 2025-08-13T07:41:35-04:00 | https://www.sec.gov/Archives/edgar/data/1952073/000195207325000033/0001952073-25-000033.txt
 2025-08-13 11:45:25 | 8-K - Adaptimmune Therapeutics PLC (0001621227) (Filer) | 2025-08-13T07:37:04-04:00 | https://www.sec.gov/Archives/edgar/data/1621227/000155837025011304/0001558370-25-011304.txt
 2025-08-13 11:45:27 | 8-K - Sagimet Biosciences Inc. (0001400118) (Filer) | 2025-08-13T07:36:20-04:00 | https://www.sec.gov/Archives/edgar/data/1400118/000110465925077200/0001104659-25-077200.txt
+2025-08-13 11:54:26 | 8-K - LANDSTAR SYSTEM INC (0000853816) (Filer) | 2025-08-13T07:47:03-04:00 | https://www.sec.gov/Archives/edgar/data/853816/000119312525179448/0001193125-25-179448.txt
+2025-08-13 11:54:28 | 8-K - XOMA Royalty Corp (0000791908) (Filer) | 2025-08-13T07:45:38-04:00 | https://www.sec.gov/Archives/edgar/data/791908/000119312525179446/0001193125-25-179446.txt
