@@ -974,3 +974,7 @@
 2025-08-13 01:37:39 | John Markovich | Affiliate | Shares: 300000 | Value: $5,700,000.0 | Percent: 0.088598% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000121390025075182/0001213900-25-075182.txt
 2025-08-13 03:11:25 | Xykis Constantine | Officer | Shares: 26005 | Value: $2,492,600.0 | Percent: 0.112919% | Link: https://www.sec.gov/Archives/edgar/data/1852699/000095017025107564/0000950170-25-107564.txt
 2025-08-13 03:11:25 | Xykis Constantine | Officer | Shares: 26005 | Value: $2,492,600.0 | Percent: 0.112919% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000095017025107564/0000950170-25-107564.txt
+2025-08-13 10:24:11 | S8 Global Fintech &amp; Regtech Fund | 10% owner | Shares: 100000 | Value: $82,740.0 | Percent: 0.626669% | Link: https://www.sec.gov/Archives/edgar/data/2073859/000164117225023291/0001641172-25-023291.txt
+2025-08-13 10:24:12 | S8 Global Fintech &amp; Regtech Fund | 10% owner | Shares: 100000 | Value: $82,740.0 | Percent: 0.626669% | Link: https://www.sec.gov/Archives/edgar/data/1419275/000164117225023291/0001641172-25-023291.txt
+2025-08-13 10:24:13 | Saifi Ismail | Officer | Shares: 100000 | Value: $836,000.0 | Percent: 0.075300% | Link: https://www.sec.gov/Archives/edgar/data/1991833/000095017025107593/0000950170-25-107593.txt
+2025-08-13 10:24:14 | Saifi Ismail | Officer | Shares: 100000 | Value: $836,000.0 | Percent: 0.075300% | Link: https://www.sec.gov/Archives/edgar/data/1794350/000095017025107593/0000950170-25-107593.txt

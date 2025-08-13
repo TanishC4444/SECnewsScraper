@@ -1563,3 +1563,12 @@
 2025-08-12 21:31:17 | 8-K - AerSale Corp (0001754170) (Filer) | 2025-08-12T17:27:02-04:00 | https://www.sec.gov/Archives/edgar/data/1754170/000155837025011248/0001558370-25-011248.txt
 2025-08-12 21:31:18 | 8-K - Loop Media, Inc. (0001643988) (Filer) | 2025-08-12T17:26:41-04:00 | https://www.sec.gov/Archives/edgar/data/1643988/000164117225023252/0001641172-25-023252.txt
 2025-08-12 21:31:19 | 8-K - Waystar Holding Corp. (0001990354) (Filer) | 2025-08-12T17:25:44-04:00 | https://www.sec.gov/Archives/edgar/data/1990354/000199035425000015/0001990354-25-000015.txt
+2025-08-13 10:23:59 | 8-K - Cyclacel Pharmaceuticals, Inc. (0001130166) (Filer) | 2025-08-13T06:17:57-04:00 | https://www.sec.gov/Archives/edgar/data/1130166/000164117225023296/0001641172-25-023296.txt
+2025-08-13 10:24:00 | 8-K - DOMINOS PIZZA INC (0001286681) (Filer) | 2025-08-13T06:13:43-04:00 | https://www.sec.gov/Archives/edgar/data/1286681/000119312525179392/0001193125-25-179392.txt
+2025-08-13 10:24:02 | 8-K - CHINA AUTOMOTIVE SYSTEMS INC (0001157762) (Filer) | 2025-08-13T06:10:59-04:00 | https://www.sec.gov/Archives/edgar/data/1157762/000110465925077093/0001104659-25-077093.txt
+2025-08-13 10:24:03 | 8-K - PLUS THERAPEUTICS, INC. (0001095981) (Filer) | 2025-08-13T06:04:43-04:00 | https://www.sec.gov/Archives/edgar/data/1095981/000119312525179382/0001193125-25-179382.txt
+2025-08-13 10:24:04 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-08-13T06:02:18-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325014230/0001062993-25-014230.txt
+2025-08-13 10:24:06 | 8-K - Creative Media & Community Trust Corp (0000908311) (Filer) | 2025-08-12T21:28:36-04:00 | https://www.sec.gov/Archives/edgar/data/908311/000090831125000062/0000908311-25-000062.txt
+2025-08-13 10:24:08 | 8-K - Axos Financial, Inc. (0001299709) (Filer) | 2025-08-12T21:28:21-04:00 | https://www.sec.gov/Archives/edgar/data/1299709/000129970925000119/0001299709-25-000119.txt
+2025-08-13 10:24:09 | 8-K - BridgeBio Oncology Therapeutics, Inc. (0001869105) (Filer) | 2025-08-12T20:54:37-04:00 | https://www.sec.gov/Archives/edgar/data/1869105/000121390025075190/0001213900-25-075190.txt
+2025-08-13 10:24:10 | 8-K - AppTech Payments Corp. (0001070050) (Filer) | 2025-08-12T20:40:46-04:00 | https://www.sec.gov/Archives/edgar/data/1070050/000168316825005995/0001683168-25-005995.txt
