@@ -1637,3 +1637,4 @@
 2025-08-13 18:56:28 | 8-K - SAGA COMMUNICATIONS INC (0000886136) (Filer) | 2025-08-13T14:40:11-04:00 | https://www.sec.gov/Archives/edgar/data/886136/000155837025011354/0001558370-25-011354.txt
 2025-08-13 19:42:23 | 8-K - GM Financial Automobile Leasing Trust 2025-3 (0002074129) (Filer) | 2025-08-13T15:33:12-04:00 | https://www.sec.gov/Archives/edgar/data/2074129/000119312525179762/0001193125-25-179762.txt
 2025-08-13 19:42:23 | 8-K - GMF Leasing LLC (0001631055) (Filer) | 2025-08-13T15:33:12-04:00 | https://www.sec.gov/Archives/edgar/data/1631055/000119312525179762/0001193125-25-179762.txt
+2025-08-13 19:52:07 | 8-K - Prospect Floating Rate & Alternative Income Fund, Inc. (0001521945) (Filer) | 2025-08-13T15:51:35-04:00 | https://www.sec.gov/Archives/edgar/data/1521945/000152194525000060/0001521945-25-000060.txt

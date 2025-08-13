@@ -1026,3 +1026,7 @@
 2025-08-13 19:15:59 | Konidaris Tasos | Officer | Shares: 169206 | Value: $1,568,539.0 | Percent: 0.053874% | Link: https://www.sec.gov/Archives/edgar/data/1320982/000194984625000368/0001949846-25-000368.txt
 2025-08-13 19:30:12 | WILBANKS CARL DAVID | Officer | Shares: 88485 | Value: $9,073,037.95 | Percent: 0.010428% | Link: https://www.sec.gov/Archives/edgar/data/1665873/000195917325005162/0001959173-25-005162.txt
 2025-08-13 19:30:13 | WILBANKS CARL DAVID | Officer | Shares: 88485 | Value: $9,073,037.95 | Percent: 0.010428% | Link: https://www.sec.gov/Archives/edgar/data/898173/000195917325005162/0001959173-25-005162.txt
+2025-08-13 19:52:09 | Chang Hung-Lun (Fred) | Officer | Shares: 15784 | Value: $357,000.0 | Percent: 0.025314% | Link: https://www.sec.gov/Archives/edgar/data/1587462/000197407825000248/0001974078-25-000248.txt
+2025-08-13 19:52:10 | Chang Hung-Lun (Fred) | Officer | Shares: 15784 | Value: $357,000.0 | Percent: 0.025314% | Link: https://www.sec.gov/Archives/edgar/data/1158114/000197407825000248/0001974078-25-000248.txt
+2025-08-13 19:52:12 | Phillips Ronald L | Officer | Shares: 6286 | Value: $509,166.0 | Percent: 0.001297% | Link: https://www.sec.gov/Archives/edgar/data/1861524/000195917325005164/0001959173-25-005164.txt
+2025-08-13 19:52:13 | Phillips Ronald L | Officer | Shares: 6286 | Value: $509,166.0 | Percent: 0.001297% | Link: https://www.sec.gov/Archives/edgar/data/96021/000195917325005164/0001959173-25-005164.txt
