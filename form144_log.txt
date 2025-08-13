@@ -1064,3 +1064,7 @@
 2025-08-13 21:34:22 | David M Gordon | Officer | Shares: 43335 | Value: $2,807,241.3 | Percent: 0.087000% | Link: https://www.sec.gov/Archives/edgar/data/887596/000141588925021677/0001415889-25-021677.txt
 2025-08-13 21:54:45 | William Spiegel | Director | Shares: 6451 | Value: $404,598.47 | Percent: 0.006547% | Link: https://www.sec.gov/Archives/edgar/data/1448893/000196922325000608/0001969223-25-000608.txt
 2025-08-13 21:54:46 | William Spiegel | Director | Shares: 6451 | Value: $404,598.47 | Percent: 0.006547% | Link: https://www.sec.gov/Archives/edgar/data/1196466/000196922325000608/0001969223-25-000608.txt
+2025-08-13 22:15:41 | ROLAND SACKERS | Officer | Shares: 50000 | Value: $2,456,435.0 | Percent: 0.023089% | Link: https://www.sec.gov/Archives/edgar/data/1976859/000195004725005796/0001950047-25-005796.txt
+2025-08-13 22:15:41 | ROLAND SACKERS | Officer | Shares: 50000 | Value: $2,456,435.0 | Percent: 0.023089% | Link: https://www.sec.gov/Archives/edgar/data/1015820/000195004725005796/0001950047-25-005796.txt
+2025-08-13 22:15:43 | DAVID J NASCA | Former CEO | Shares: 19603 | Value: $850,997.52 | Percent: 0.037414% | Link: https://www.sec.gov/Archives/edgar/data/1237044/000196922325000609/0001969223-25-000609.txt
+2025-08-13 22:15:44 | DAVID J NASCA | Former CEO | Shares: 19603 | Value: $850,997.52 | Percent: 0.037414% | Link: https://www.sec.gov/Archives/edgar/data/790359/000196922325000609/0001969223-25-000609.txt
