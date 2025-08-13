@@ -1072,3 +1072,5 @@
 2025-08-13 22:47:33 | Glenn Fusfield | Director | Shares: 190836 | Value: $4,206,025.0 | Percent: 0.185824% | Link: https://www.sec.gov/Archives/edgar/data/1128759/000095017025108240/0000950170-25-108240.txt
 2025-08-13 22:47:35 | HALLADOR ALTERNATIVE ASSETS FUND LLC | AFFILIATE OF DIRECTOR | Shares: 511000 | Value: $12,242,000.0 | Percent: 1.189031% | Link: https://www.sec.gov/Archives/edgar/data/1356544/000110465925077712/0001104659-25-077712.txt
 2025-08-13 22:47:35 | HALLADOR ALTERNATIVE ASSETS FUND LLC | AFFILIATE OF DIRECTOR | Shares: 511000 | Value: $12,242,000.0 | Percent: 1.189031% | Link: https://www.sec.gov/Archives/edgar/data/788965/000110465925077712/0001104659-25-077712.txt
+2025-08-13 22:56:34 | JONATHAN GRANDON | Officer | Shares: 10036 | Value: $983,868.22 | Percent: 0.022561% | Link: https://www.sec.gov/Archives/edgar/data/1625104/000195004725005797/0001950047-25-005797.txt
+2025-08-13 22:56:35 | JONATHAN GRANDON | Officer | Shares: 10036 | Value: $983,868.22 | Percent: 0.022561% | Link: https://www.sec.gov/Archives/edgar/data/38725/000195004725005797/0001950047-25-005797.txt
