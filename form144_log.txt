@@ -1034,3 +1034,9 @@
 2025-08-13 20:09:57 | TAMIR POLEG | Officer | Shares: 50000 | Value: $223,650.0 | Percent: 0.024024% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005742/0001950047-25-005742.txt
 2025-08-13 20:09:58 | JOHN H JOHNSON | Director | Shares: 107500 | Value: $786,451.77 | Percent: 0.066572% | Link: https://www.sec.gov/Archives/edgar/data/1867096/000195004725005741/0001950047-25-005741.txt
 2025-08-13 20:09:59 | JOHN H JOHNSON | Director | Shares: 107500 | Value: $786,451.77 | Percent: 0.066572% | Link: https://www.sec.gov/Archives/edgar/data/1410781/000195004725005741/0001950047-25-005741.txt
+2025-08-13 20:34:28 | MARK A. SMITH | Officer | Shares: 6500 | Value: $2,593,890.0 | Percent: 0.004717% | Link: https://www.sec.gov/Archives/edgar/data/1676537/000195004725005787/0001950047-25-005787.txt
+2025-08-13 20:34:29 | MARK A. SMITH | Officer | Shares: 6500 | Value: $2,593,890.0 | Percent: 0.004717% | Link: https://www.sec.gov/Archives/edgar/data/26172/000195004725005787/0001950047-25-005787.txt
+2025-08-13 20:34:31 | NEAL JOHN E | Former Director | Shares: 11000 | Value: $697,582.13 | Percent: 0.002880% | Link: https://www.sec.gov/Archives/edgar/data/1250232/000195917325005173/0001959173-25-005173.txt
+2025-08-13 20:34:32 | NEAL JOHN E | Former Director | Shares: 11000 | Value: $697,582.13 | Percent: 0.002880% | Link: https://www.sec.gov/Archives/edgar/data/906107/000195917325005173/0001959173-25-005173.txt
+2025-08-13 20:34:34 | SOROUSH SALEHIAN DARDASHTI TRUST U/A DTD 10/31/2021 | Director | Shares: 200000 | Value: $2,756,000.0 | Percent: 0.355065% | Link: https://www.sec.gov/Archives/edgar/data/1850148/000195004725005785/0001950047-25-005785.txt
+2025-08-13 20:34:35 | SOROUSH SALEHIAN DARDASHTI TRUST U/A DTD 10/31/2021 | Director | Shares: 200000 | Value: $2,756,000.0 | Percent: 0.355065% | Link: https://www.sec.gov/Archives/edgar/data/1789029/000195004725005785/0001950047-25-005785.txt
