@@ -1010,3 +1010,7 @@
 2025-08-13 17:42:08 | Thomas Sonderman | Affiliate | Shares: 24936 | Value: $305,261.33 | Percent: 0.052325% | Link: https://www.sec.gov/Archives/edgar/data/1611597/000197449425000081/0001974494-25-000081.txt
 2025-08-13 17:51:37 | Diane Nguyen | Affiliate | Shares: 69270 | Value: $1,259,308.27 | Percent: 0.025986% | Link: https://www.sec.gov/Archives/edgar/data/1974777/000197449425000083/0001974494-25-000083.txt
 2025-08-13 17:51:38 | Diane Nguyen | Affiliate | Shares: 69270 | Value: $1,259,308.27 | Percent: 0.025986% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000083/0001974494-25-000083.txt
+2025-08-13 18:00:43 | HAVENS THOMAS M. | Officer | Shares: 6500 | Value: $1,181,505.65 | Percent: 0.015935% | Link: https://www.sec.gov/Archives/edgar/data/1862201/000195917325005158/0001959173-25-005158.txt
+2025-08-13 18:00:44 | HAVENS THOMAS M. | Officer | Shares: 6500 | Value: $1,181,505.65 | Percent: 0.015935% | Link: https://www.sec.gov/Archives/edgar/data/85961/000195917325005158/0001959173-25-005158.txt
+2025-08-13 18:00:45 | WEST STEVEN M | Director | Shares: 119000 | Value: $2,149,194.12 | Percent: 0.035144% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000195779925000169/0001957799-25-000169.txt
+2025-08-13 18:00:46 | WEST STEVEN M | Director | Shares: 119000 | Value: $2,149,194.12 | Percent: 0.035144% | Link: https://www.sec.gov/Archives/edgar/data/1198055/000195779925000169/0001957799-25-000169.txt
