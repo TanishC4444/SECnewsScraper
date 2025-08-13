@@ -992,3 +992,11 @@
 2025-08-13 16:18:19 | Cleveland Todd M | Director | Shares: 30000 | Value: $10,320,000.0 | Percent: 0.151100% | Link: https://www.sec.gov/Archives/edgar/data/1048268/000105668825000002/0001056688-25-000002.txt
 2025-08-13 16:18:20 | AMATO THOMAS A | Former Director | Shares: 25000 | Value: $919,012.13 | Percent: 0.061513% | Link: https://www.sec.gov/Archives/edgar/data/1269873/000195779925000167/0001957799-25-000167.txt
 2025-08-13 16:18:21 | AMATO THOMAS A | Former Director | Shares: 25000 | Value: $919,012.13 | Percent: 0.061513% | Link: https://www.sec.gov/Archives/edgar/data/842633/000195779925000167/0001957799-25-000167.txt
+2025-08-13 16:41:15 | Gonzalez Anthony | Director | Shares: 12300 | Value: $169,519.84 | Percent: 0.006872% | Link: https://www.sec.gov/Archives/edgar/data/1960531/000195917325005153/0001959173-25-005153.txt
+2025-08-13 16:41:16 | Gonzalez Anthony | Director | Shares: 12300 | Value: $169,519.84 | Percent: 0.006872% | Link: https://www.sec.gov/Archives/edgar/data/1688568/000195917325005153/0001959173-25-005153.txt
+2025-08-13 16:41:18 | Gibbons Mary Lourdes | Officer | Shares: 22370 | Value: $1,520,511.0 | Percent: 0.022703% | Link: https://www.sec.gov/Archives/edgar/data/1590264/000194984625000363/0001949846-25-000363.txt
+2025-08-13 16:41:19 | Gibbons Mary Lourdes | Officer | Shares: 22370 | Value: $1,520,511.0 | Percent: 0.022703% | Link: https://www.sec.gov/Archives/edgar/data/1448893/000194984625000363/0001949846-25-000363.txt
+2025-08-13 16:41:22 | VIDERGAUZ MARK | Director | Shares: 10000 | Value: $636,400.0 | Percent: 0.001024% | Link: https://www.sec.gov/Archives/edgar/data/1266256/000200731725000858/0002007317-25-000858.txt
+2025-08-13 16:41:23 | VIDERGAUZ MARK | Director | Shares: 10000 | Value: $636,400.0 | Percent: 0.001024% | Link: https://www.sec.gov/Archives/edgar/data/865752/000200731725000858/0002007317-25-000858.txt
+2025-08-13 16:41:25 | Ignacio Alvarez | Former CEO | Shares: 34583 | Value: $4,055,202.58 | Percent: 0.051171% | Link: https://www.sec.gov/Archives/edgar/data/1495232/000119312525179615/0001193125-25-179615.txt
+2025-08-13 16:41:26 | Ignacio Alvarez | Former CEO | Shares: 34583 | Value: $4,055,202.58 | Percent: 0.051171% | Link: https://www.sec.gov/Archives/edgar/data/763901/000119312525179615/0001193125-25-179615.txt
