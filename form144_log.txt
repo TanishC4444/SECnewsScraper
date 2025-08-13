@@ -1048,3 +1048,9 @@
 2025-08-13 20:47:15 | Francis Tod H | 10% Stockholder | Shares: 37495 | Value: $68,990.8 | Percent: 0.015659% | Link: https://www.sec.gov/Archives/edgar/data/1290447/000197407825000249/0001974078-25-000249.txt
 2025-08-13 20:47:15 | Marak Chad | former officer | Shares: 8430 | Value: $2,191,016.0 | Percent: 0.034017% | Link: https://www.sec.gov/Archives/edgar/data/2010032/000200731725000863/0002007317-25-000863.txt
 2025-08-13 20:47:15 | Marak Chad | former officer | Shares: 8430 | Value: $2,191,016.0 | Percent: 0.034017% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000863/0002007317-25-000863.txt
+2025-08-13 20:56:50 | Douglas Cifu | Affiliate | Shares: 918363 | Value: $39,829,403.31 | Percent: 1.085822% | Link: https://www.sec.gov/Archives/edgar/data/1592386/000196858225000733/0001968582-25-000733.txt
+2025-08-13 20:56:51 | Douglas Cifu | Affiliate | Shares: 918363 | Value: $39,829,403.31 | Percent: 1.085822% | Link: https://www.sec.gov/Archives/edgar/data/1573283/000196858225000733/0001968582-25-000733.txt
+2025-08-13 20:56:52 | Francis Tod H | 10% Stockholder | Shares: 486320 | Value: $894,828.8 | Percent: 0.203103% | Link: https://www.sec.gov/Archives/edgar/data/1846069/000197407825000250/0001974078-25-000250.txt
+2025-08-13 20:56:53 | Francis Tod H | 10% Stockholder | Shares: 486320 | Value: $894,828.8 | Percent: 0.203103% | Link: https://www.sec.gov/Archives/edgar/data/1290447/000197407825000250/0001974078-25-000250.txt
+2025-08-13 20:56:55 | VICKI VILLACREZ | Officer | Shares: 73878 | Value: $2,872,477.41 | Percent: 0.068406% | Link: https://www.sec.gov/Archives/edgar/data/1926297/000195004725005792/0001950047-25-005792.txt
+2025-08-13 20:56:56 | VICKI VILLACREZ | Officer | Shares: 73878 | Value: $2,872,477.41 | Percent: 0.068406% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725005792/0001950047-25-005792.txt
