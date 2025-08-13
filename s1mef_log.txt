@@ -6,3 +6,4 @@
 2025-08-06 15:34:34 | Quantumsphere Acquisition Corp | BATCH EMAIL
 2025-08-06 21:27:12 | WhiteFiber, Inc. | BATCH EMAIL
 2025-08-06 21:42:23 | Firefly Aerospace Inc. | BATCH EMAIL
+2025-08-13 14:29:49 | VEEA INC. | BATCH EMAIL
