@@ -1572,3 +1572,6 @@
 2025-08-13 10:24:08 | 8-K - Axos Financial, Inc. (0001299709) (Filer) | 2025-08-12T21:28:21-04:00 | https://www.sec.gov/Archives/edgar/data/1299709/000129970925000119/0001299709-25-000119.txt
 2025-08-13 10:24:09 | 8-K - BridgeBio Oncology Therapeutics, Inc. (0001869105) (Filer) | 2025-08-12T20:54:37-04:00 | https://www.sec.gov/Archives/edgar/data/1869105/000121390025075190/0001213900-25-075190.txt
 2025-08-13 10:24:10 | 8-K - AppTech Payments Corp. (0001070050) (Filer) | 2025-08-12T20:40:46-04:00 | https://www.sec.gov/Archives/edgar/data/1070050/000168316825005995/0001683168-25-005995.txt
+2025-08-13 10:44:53 | 8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer) | 2025-08-13T06:42:02-04:00 | https://www.sec.gov/Archives/edgar/data/1921963/000192196325000124/0001921963-25-000124.txt
+2025-08-13 10:44:54 | 8-K - i-80 Gold Corp. (0001853962) (Filer) | 2025-08-13T06:41:12-04:00 | https://www.sec.gov/Archives/edgar/data/1853962/000185396225000011/0001853962-25-000011.txt
+2025-08-13 10:44:55 | 8-K - European Wax Center, Inc. (0001856236) (Filer) | 2025-08-13T06:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1856236/000119312525179401/0001193125-25-179401.txt
