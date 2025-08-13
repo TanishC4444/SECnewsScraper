@@ -1062,3 +1062,5 @@
 2025-08-13 21:34:18 | MERRYL WERBER | Officer | Shares: 6250 | Value: $239,252.5 | Percent: 0.005283% | Link: https://www.sec.gov/Archives/edgar/data/1025996/000195004725005794/0001950047-25-005794.txt
 2025-08-13 21:34:20 | David M Gordon | Officer | Shares: 43335 | Value: $2,807,241.3 | Percent: 0.087000% | Link: https://www.sec.gov/Archives/edgar/data/1569880/000141588925021677/0001415889-25-021677.txt
 2025-08-13 21:34:22 | David M Gordon | Officer | Shares: 43335 | Value: $2,807,241.3 | Percent: 0.087000% | Link: https://www.sec.gov/Archives/edgar/data/887596/000141588925021677/0001415889-25-021677.txt
+2025-08-13 21:54:45 | William Spiegel | Director | Shares: 6451 | Value: $404,598.47 | Percent: 0.006547% | Link: https://www.sec.gov/Archives/edgar/data/1448893/000196922325000608/0001969223-25-000608.txt
+2025-08-13 21:54:46 | William Spiegel | Director | Shares: 6451 | Value: $404,598.47 | Percent: 0.006547% | Link: https://www.sec.gov/Archives/edgar/data/1196466/000196922325000608/0001969223-25-000608.txt
