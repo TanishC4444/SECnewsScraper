@@ -1040,3 +1040,11 @@
 2025-08-13 20:34:32 | NEAL JOHN E | Former Director | Shares: 11000 | Value: $697,582.13 | Percent: 0.002880% | Link: https://www.sec.gov/Archives/edgar/data/906107/000195917325005173/0001959173-25-005173.txt
 2025-08-13 20:34:34 | SOROUSH SALEHIAN DARDASHTI TRUST U/A DTD 10/31/2021 | Director | Shares: 200000 | Value: $2,756,000.0 | Percent: 0.355065% | Link: https://www.sec.gov/Archives/edgar/data/1850148/000195004725005785/0001950047-25-005785.txt
 2025-08-13 20:34:35 | SOROUSH SALEHIAN DARDASHTI TRUST U/A DTD 10/31/2021 | Director | Shares: 200000 | Value: $2,756,000.0 | Percent: 0.355065% | Link: https://www.sec.gov/Archives/edgar/data/1789029/000195004725005785/0001950047-25-005785.txt
+2025-08-13 20:47:11 | Sethna Meenal | former officer | Shares: 11296 | Value: $2,936,587.0 | Percent: 0.045582% | Link: https://www.sec.gov/Archives/edgar/data/1643464/000200731725000864/0002007317-25-000864.txt
+2025-08-13 20:47:11 | Sethna Meenal | former officer | Shares: 11296 | Value: $2,936,587.0 | Percent: 0.045582% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000864/0002007317-25-000864.txt
+2025-08-13 20:47:12 | GOLDMAN LARRY | Officer | Shares: 24334 | Value: $438,012.0 | Percent: 0.093901% | Link: https://www.sec.gov/Archives/edgar/data/1305758/000197248125000170/0001972481-25-000170.txt
+2025-08-13 20:47:13 | GOLDMAN LARRY | Officer | Shares: 24334 | Value: $438,012.0 | Percent: 0.093901% | Link: https://www.sec.gov/Archives/edgar/data/1084554/000197248125000170/0001972481-25-000170.txt
+2025-08-13 20:47:14 | Francis Tod H | 10% Stockholder | Shares: 37495 | Value: $68,990.8 | Percent: 0.015659% | Link: https://www.sec.gov/Archives/edgar/data/1846069/000197407825000249/0001974078-25-000249.txt
+2025-08-13 20:47:15 | Francis Tod H | 10% Stockholder | Shares: 37495 | Value: $68,990.8 | Percent: 0.015659% | Link: https://www.sec.gov/Archives/edgar/data/1290447/000197407825000249/0001974078-25-000249.txt
+2025-08-13 20:47:15 | Marak Chad | former officer | Shares: 8430 | Value: $2,191,016.0 | Percent: 0.034017% | Link: https://www.sec.gov/Archives/edgar/data/2010032/000200731725000863/0002007317-25-000863.txt
+2025-08-13 20:47:15 | Marak Chad | former officer | Shares: 8430 | Value: $2,191,016.0 | Percent: 0.034017% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000863/0002007317-25-000863.txt
