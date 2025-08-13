@@ -986,3 +986,5 @@
 2025-08-13 14:49:10 | Konidaris Tasos | Officer | Shares: 111635 | Value: $1,006,947.0 | Percent: 0.035544% | Link: https://www.sec.gov/Archives/edgar/data/1320982/000194984625000362/0001949846-25-000362.txt
 2025-08-13 14:49:12 | ELLIS GEORGE H | Director | Shares: 7500 | Value: $189,675.0 | Percent: 0.024010% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000196530125000122/0001965301-25-000122.txt
 2025-08-13 14:49:13 | ELLIS GEORGE H | Director | Shares: 7500 | Value: $189,675.0 | Percent: 0.024010% | Link: https://www.sec.gov/Archives/edgar/data/1085715/000196530125000122/0001965301-25-000122.txt
+2025-08-13 15:46:42 | Bezjak Mark | Officer | Shares: 7500 | Value: $766,708.2 | Percent: 0.003786% | Link: https://www.sec.gov/Archives/edgar/data/2004536/000195917325005148/0001959173-25-005148.txt
+2025-08-13 15:46:42 | Bezjak Mark | Officer | Shares: 7500 | Value: $766,708.2 | Percent: 0.003786% | Link: https://www.sec.gov/Archives/edgar/data/1136869/000195917325005148/0001959173-25-005148.txt
