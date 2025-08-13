@@ -1014,3 +1014,7 @@
 2025-08-13 18:00:44 | HAVENS THOMAS M. | Officer | Shares: 6500 | Value: $1,181,505.65 | Percent: 0.015935% | Link: https://www.sec.gov/Archives/edgar/data/85961/000195917325005158/0001959173-25-005158.txt
 2025-08-13 18:00:45 | WEST STEVEN M | Director | Shares: 119000 | Value: $2,149,194.12 | Percent: 0.035144% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000195779925000169/0001957799-25-000169.txt
 2025-08-13 18:00:46 | WEST STEVEN M | Director | Shares: 119000 | Value: $2,149,194.12 | Percent: 0.035144% | Link: https://www.sec.gov/Archives/edgar/data/1198055/000195779925000169/0001957799-25-000169.txt
+2025-08-13 18:39:25 | Teresa Vermillion | Officer | Shares: 6000 | Value: $126,000.0 | Percent: 133.333333% | Link: https://www.sec.gov/Archives/edgar/data/1729998/000007430325000120/0000074303-25-000120.txt
+2025-08-13 18:39:26 | Teresa Vermillion | Officer | Shares: 6000 | Value: $126,000.0 | Percent: 133.333333% | Link: https://www.sec.gov/Archives/edgar/data/74303/000007430325000120/0000074303-25-000120.txt
+2025-08-13 18:39:29 | SENGSTACK GREGG C | Director | Shares: 10000 | Value: $978,800.0 | Percent: 0.022480% | Link: https://www.sec.gov/Archives/edgar/data/1189242/000194984625000366/0001949846-25-000366.txt
+2025-08-13 18:39:30 | SENGSTACK GREGG C | Director | Shares: 10000 | Value: $978,800.0 | Percent: 0.022480% | Link: https://www.sec.gov/Archives/edgar/data/38725/000194984625000366/0001949846-25-000366.txt
