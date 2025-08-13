@@ -1638,3 +1638,12 @@
 2025-08-13 19:42:23 | 8-K - GM Financial Automobile Leasing Trust 2025-3 (0002074129) (Filer) | 2025-08-13T15:33:12-04:00 | https://www.sec.gov/Archives/edgar/data/2074129/000119312525179762/0001193125-25-179762.txt
 2025-08-13 19:42:23 | 8-K - GMF Leasing LLC (0001631055) (Filer) | 2025-08-13T15:33:12-04:00 | https://www.sec.gov/Archives/edgar/data/1631055/000119312525179762/0001193125-25-179762.txt
 2025-08-13 19:52:07 | 8-K - Prospect Floating Rate & Alternative Income Fund, Inc. (0001521945) (Filer) | 2025-08-13T15:51:35-04:00 | https://www.sec.gov/Archives/edgar/data/1521945/000152194525000060/0001521945-25-000060.txt
+2025-08-13 20:09:43 | 8-K - Xos, Inc. (0001819493) (Filer) | 2025-08-13T16:08:13-04:00 | https://www.sec.gov/Archives/edgar/data/1819493/000181949325000127/0001819493-25-000127.txt
+2025-08-13 20:09:44 | 8-K - AirJoule Technologies Corp. (0001855474) (Filer) | 2025-08-13T16:07:19-04:00 | https://www.sec.gov/Archives/edgar/data/1855474/000095017025108025/0000950170-25-108025.txt
+2025-08-13 20:09:44 | 8-K - Forian Inc. (0001829280) (Filer) | 2025-08-13T16:07:07-04:00 | https://www.sec.gov/Archives/edgar/data/1829280/000114036125030800/0001140361-25-030800.txt
+2025-08-13 20:09:46 | 8-K - Motorsport Games Inc. (0001821175) (Filer) | 2025-08-13T16:07:01-04:00 | https://www.sec.gov/Archives/edgar/data/1821175/000149315225011906/0001493152-25-011906.txt
+2025-08-13 20:09:47 | 8-K - Cartica Acquisition Corp (0001848437) (Filer) | 2025-08-13T16:07:00-04:00 | https://www.sec.gov/Archives/edgar/data/1848437/000110465925077542/0001104659-25-077542.txt
+2025-08-13 20:09:50 | 8-K - CARPENTER TECHNOLOGY CORP (0000017843) (Filer) | 2025-08-13T16:06:44-04:00 | https://www.sec.gov/Archives/edgar/data/17843/000119312525179813/0001193125-25-179813.txt
+2025-08-13 20:09:51 | 8-K - Inhibrx Biosciences, Inc. (0002007919) (Filer) | 2025-08-13T16:06:24-04:00 | https://www.sec.gov/Archives/edgar/data/2007919/000200791925000083/0002007919-25-000083.txt
+2025-08-13 20:09:53 | 8-K - Digital Brands Group, Inc. (0001668010) (Filer) | 2025-08-13T16:06:13-04:00 | https://www.sec.gov/Archives/edgar/data/1668010/000164117225023464/0001641172-25-023464.txt
+2025-08-13 20:09:54 | 8-K - Netcapital Inc. (0001414767) (Filer) | 2025-08-13T16:06:09-04:00 | https://www.sec.gov/Archives/edgar/data/1414767/000164117225023467/0001641172-25-023467.txt

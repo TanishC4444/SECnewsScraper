@@ -1030,3 +1030,7 @@
 2025-08-13 19:52:10 | Chang Hung-Lun (Fred) | Officer | Shares: 15784 | Value: $357,000.0 | Percent: 0.025314% | Link: https://www.sec.gov/Archives/edgar/data/1158114/000197407825000248/0001974078-25-000248.txt
 2025-08-13 19:52:12 | Phillips Ronald L | Officer | Shares: 6286 | Value: $509,166.0 | Percent: 0.001297% | Link: https://www.sec.gov/Archives/edgar/data/1861524/000195917325005164/0001959173-25-005164.txt
 2025-08-13 19:52:13 | Phillips Ronald L | Officer | Shares: 6286 | Value: $509,166.0 | Percent: 0.001297% | Link: https://www.sec.gov/Archives/edgar/data/96021/000195917325005164/0001959173-25-005164.txt
+2025-08-13 20:09:56 | TAMIR POLEG | Officer | Shares: 50000 | Value: $223,650.0 | Percent: 0.024024% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725005742/0001950047-25-005742.txt
+2025-08-13 20:09:57 | TAMIR POLEG | Officer | Shares: 50000 | Value: $223,650.0 | Percent: 0.024024% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005742/0001950047-25-005742.txt
+2025-08-13 20:09:58 | JOHN H JOHNSON | Director | Shares: 107500 | Value: $786,451.77 | Percent: 0.066572% | Link: https://www.sec.gov/Archives/edgar/data/1867096/000195004725005741/0001950047-25-005741.txt
+2025-08-13 20:09:59 | JOHN H JOHNSON | Director | Shares: 107500 | Value: $786,451.77 | Percent: 0.066572% | Link: https://www.sec.gov/Archives/edgar/data/1410781/000195004725005741/0001950047-25-005741.txt
