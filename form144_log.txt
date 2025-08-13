@@ -1074,3 +1074,5 @@
 2025-08-13 22:47:35 | HALLADOR ALTERNATIVE ASSETS FUND LLC | AFFILIATE OF DIRECTOR | Shares: 511000 | Value: $12,242,000.0 | Percent: 1.189031% | Link: https://www.sec.gov/Archives/edgar/data/788965/000110465925077712/0001104659-25-077712.txt
 2025-08-13 22:56:34 | JONATHAN GRANDON | Officer | Shares: 10036 | Value: $983,868.22 | Percent: 0.022561% | Link: https://www.sec.gov/Archives/edgar/data/1625104/000195004725005797/0001950047-25-005797.txt
 2025-08-13 22:56:35 | JONATHAN GRANDON | Officer | Shares: 10036 | Value: $983,868.22 | Percent: 0.022561% | Link: https://www.sec.gov/Archives/edgar/data/38725/000195004725005797/0001950047-25-005797.txt
+2025-08-13 23:18:36 | JOHNSON MARIANNE BOYD | Officer | Shares: 100000 | Value: $8,413,917.8 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/1186742/000200731725000867/0002007317-25-000867.txt
+2025-08-13 23:18:37 | JOHNSON MARIANNE BOYD | Officer | Shares: 100000 | Value: $8,413,917.8 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/906553/000200731725000867/0002007317-25-000867.txt
