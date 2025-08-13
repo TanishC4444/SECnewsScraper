@@ -1593,3 +1593,6 @@
 2025-08-13 11:32:19 | 8-K - Local Bounti Corporation/DE (0001840780) (Filer) | 2025-08-13T07:26:53-04:00 | https://www.sec.gov/Archives/edgar/data/1840780/000184078025000034/0001840780-25-000034.txt
 2025-08-13 11:32:21 | 8-K - BiomX Inc. (0001739174) (Filer) | 2025-08-13T07:24:04-04:00 | https://www.sec.gov/Archives/edgar/data/1739174/000121390025075272/0001213900-25-075272.txt
 2025-08-13 11:32:23 | 8-K - Charlotte's Web Holdings, Inc. (0001750155) (Filer) | 2025-08-13T07:16:48-04:00 | https://www.sec.gov/Archives/edgar/data/1750155/000127956925000884/0001279569-25-000884.txt
+2025-08-13 11:45:23 | 8-K - Madison Square Garden Entertainment Corp. (0001952073) (Filer) | 2025-08-13T07:41:35-04:00 | https://www.sec.gov/Archives/edgar/data/1952073/000195207325000033/0001952073-25-000033.txt
+2025-08-13 11:45:25 | 8-K - Adaptimmune Therapeutics PLC (0001621227) (Filer) | 2025-08-13T07:37:04-04:00 | https://www.sec.gov/Archives/edgar/data/1621227/000155837025011304/0001558370-25-011304.txt
+2025-08-13 11:45:27 | 8-K - Sagimet Biosciences Inc. (0001400118) (Filer) | 2025-08-13T07:36:20-04:00 | https://www.sec.gov/Archives/edgar/data/1400118/000110465925077200/0001104659-25-077200.txt
