@@ -1004,3 +1004,7 @@
 2025-08-13 17:29:31 | R C Kemper Marital Trust | Affiliate | Shares: 15523 | Value: $1,796,477.0 | Percent: 0.020444% | Link: https://www.sec.gov/Archives/edgar/data/101382/000197257325000002/0001972573-25-000002.txt
 2025-08-13 17:29:32 | LAURENT THERIVEL | Former Officer | Shares: 35724 | Value: $2,740,084.39 | Percent: 0.067404% | Link: https://www.sec.gov/Archives/edgar/data/1816432/000195004725005726/0001950047-25-005726.txt
 2025-08-13 17:29:33 | LAURENT THERIVEL | Former Officer | Shares: 35724 | Value: $2,740,084.39 | Percent: 0.067404% | Link: https://www.sec.gov/Archives/edgar/data/821130/000195004725005726/0001950047-25-005726.txt
+2025-08-13 17:42:05 | Gupta Navdeep | Officer | Shares: 13334 | Value: $3,000,143.0 | Percent: 0.023610% | Link: https://www.sec.gov/Archives/edgar/data/1772409/000195779925000168/0001957799-25-000168.txt
+2025-08-13 17:42:06 | Gupta Navdeep | Officer | Shares: 13334 | Value: $3,000,143.0 | Percent: 0.023610% | Link: https://www.sec.gov/Archives/edgar/data/1089063/000195779925000168/0001957799-25-000168.txt
+2025-08-13 17:42:07 | Thomas Sonderman | Affiliate | Shares: 24936 | Value: $305,261.33 | Percent: 0.052325% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000197449425000081/0001974494-25-000081.txt
+2025-08-13 17:42:08 | Thomas Sonderman | Affiliate | Shares: 24936 | Value: $305,261.33 | Percent: 0.052325% | Link: https://www.sec.gov/Archives/edgar/data/1611597/000197449425000081/0001974494-25-000081.txt
