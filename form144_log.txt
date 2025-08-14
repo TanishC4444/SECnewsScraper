@@ -1146,3 +1146,13 @@
 2025-08-14 19:41:33 | Hoene Mary Joan | Director | Shares: 8800 | Value: $310,288.0 | Percent: 0.046629% | Link: https://www.sec.gov/Archives/edgar/data/1230869/000195917325005180/0001959173-25-005180.txt
 2025-08-14 19:50:37 | Anderson Peter Deane | Chief Commercial Officer | Shares: 36300 | Value: $4,129,488.0 | Percent: 0.020831% | Link: https://www.sec.gov/Archives/edgar/data/2062613/000095015725000676/0000950157-25-000676.txt
 2025-08-14 19:50:38 | Anderson Peter Deane | Chief Commercial Officer | Shares: 36300 | Value: $4,129,488.0 | Percent: 0.020831% | Link: https://www.sec.gov/Archives/edgar/data/1378789/000095015725000676/0000950157-25-000676.txt
+2025-08-14 20:30:12 | LLOYD FRINK | Officer | Shares: 150000 | Value: $12,750,000.0 | Percent: 0.080660% | Link: https://www.sec.gov/Archives/edgar/data/1617640/000195004725005820/0001950047-25-005820.txt
+2025-08-14 20:30:13 | LLOYD FRINK | Officer | Shares: 150000 | Value: $12,750,000.0 | Percent: 0.080660% | Link: https://www.sec.gov/Archives/edgar/data/1524265/000195004725005820/0001950047-25-005820.txt
+2025-08-14 20:30:15 | JAMES R POTTS | Officer | Shares: 20651 | Value: $964,434.74 | Percent: 0.080387% | Link: https://www.sec.gov/Archives/edgar/data/1824435/000195004725005819/0001950047-25-005819.txt
+2025-08-14 20:30:16 | JAMES R POTTS | Officer | Shares: 20651 | Value: $964,434.74 | Percent: 0.080387% | Link: https://www.sec.gov/Archives/edgar/data/902791/000195004725005819/0001950047-25-005819.txt
+2025-08-14 20:30:18 | NordicSun Limited | Affiliate | Shares: 101003 | Value: $17,675,525.0 | Percent: 0.018581% | Link: https://www.sec.gov/Archives/edgar/data/2004545/000196922325000611/0001969223-25-000611.txt
+2025-08-14 20:30:19 | Nelson Squires | Officer | Shares: 11093 | Value: $2,334,526.0 | Percent: 0.022796% | Link: https://www.sec.gov/Archives/edgar/data/1790020/000196922325000612/0001969223-25-000612.txt
+2025-08-14 20:30:20 | NordicSun Limited | Affiliate | Shares: 101003 | Value: $17,675,525.0 | Percent: 0.018581% | Link: https://www.sec.gov/Archives/edgar/data/1703399/000196922325000611/0001969223-25-000611.txt
+2025-08-14 20:30:21 | Nelson Squires | Officer | Shares: 11093 | Value: $2,334,526.0 | Percent: 0.022796% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000612/0001969223-25-000612.txt
+2025-08-14 20:30:23 | Pitkin Terrill | Officer | Shares: 5164 | Value: $144,442.64 | Percent: 0.010162% | Link: https://www.sec.gov/Archives/edgar/data/2059514/000196535325000135/0001965353-25-000135.txt
+2025-08-14 20:30:24 | Pitkin Terrill | Officer | Shares: 5164 | Value: $144,442.64 | Percent: 0.010162% | Link: https://www.sec.gov/Archives/edgar/data/821483/000196535325000135/0001965353-25-000135.txt
