@@ -1784,3 +1784,9 @@
 2025-08-14 17:52:11 | 8-K - Strategic Student & Senior Housing Trust, Inc. (0001698538) (Filer) | 2025-08-14T13:48:21-04:00 | https://www.sec.gov/Archives/edgar/data/1698538/000095017025108704/0000950170-25-108704.txt
 2025-08-14 18:13:10 | 8-K - SRx Health Solutions, Inc. (0001471727) (Filer) | 2025-08-14T14:03:30-04:00 | https://www.sec.gov/Archives/edgar/data/1471727/000164117225023868/0001641172-25-023868.txt
 2025-08-14 18:13:12 | 8-K - ACRO BIOMEDICAL CO., LTD. (0001622996) (Filer) | 2025-08-14T13:52:17-04:00 | https://www.sec.gov/Archives/edgar/data/1622996/000164033425001486/0001640334-25-001486.txt
+2025-08-14 18:47:07 | 8-K - NextPlat Corp (0001058307) (Filer) | 2025-08-14T14:46:37-04:00 | https://www.sec.gov/Archives/edgar/data/1058307/000143774925026881/0001437749-25-026881.txt
+2025-08-14 18:47:07 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-08-14T14:46:19-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000158/0001325814-25-000158.txt
+2025-08-14 18:47:09 | 8-K - BankFinancial CORP (0001303942) (Filer) | 2025-08-14T14:37:46-04:00 | https://www.sec.gov/Archives/edgar/data/1303942/000143774925026876/0001437749-25-026876.txt
+2025-08-14 18:47:11 | 8-K - Cardiff Lexington Corp (0000811222) (Filer) | 2025-08-14T14:33:53-04:00 | https://www.sec.gov/Archives/edgar/data/811222/000168316825006130/0001683168-25-006130.txt
+2025-08-14 18:47:12 | 8-K - BLUM HOLDINGS, INC. (0001996210) (Filer) | 2025-08-14T14:28:10-04:00 | https://www.sec.gov/Archives/edgar/data/1996210/000143774925026862/0001437749-25-026862.txt
+2025-08-14 18:47:12 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-14T14:26:29-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000186/0001331465-25-000186.txt
