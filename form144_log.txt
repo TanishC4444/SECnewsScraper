@@ -1114,3 +1114,5 @@
 2025-08-14 13:50:35 | Schwartz Jason Eric | Officer | Shares: 801433 | Value: $6,756,080.19 | Percent: 0.970040% | Link: https://www.sec.gov/Archives/edgar/data/1842731/000197640825000260/0001976408-25-000260.txt
 2025-08-14 14:29:01 | ANDERSEN ERIC C. | Ex-Board | Shares: 56620 | Value: $1,660,222.0 | Percent: 0.313387% | Link: https://www.sec.gov/Archives/edgar/data/1552411/000200731725000868/0002007317-25-000868.txt
 2025-08-14 14:29:03 | ANDERSEN ERIC C. | Ex-Board | Shares: 56620 | Value: $1,660,222.0 | Percent: 0.313387% | Link: https://www.sec.gov/Archives/edgar/data/1201792/000200731725000868/0002007317-25-000868.txt
+2025-08-14 14:48:11 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.51 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1732519/000200731725000869/0002007317-25-000869.txt
+2025-08-14 14:48:13 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.51 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1580905/000200731725000869/0002007317-25-000869.txt
