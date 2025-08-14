@@ -1756,3 +1756,11 @@
 2025-08-14 12:33:06 | 8-K - Lifeward Ltd. (0001607962) (Filer) | 2025-08-14T08:15:41-04:00 | https://www.sec.gov/Archives/edgar/data/1607962/000117891325002900/0001178913-25-002900.txt
 2025-08-14 12:33:07 | 8-K - Unicycive Therapeutics, Inc. (0001766140) (Filer) | 2025-08-14T08:15:37-04:00 | https://www.sec.gov/Archives/edgar/data/1766140/000121390025076066/0001213900-25-076066.txt
 2025-08-14 12:33:09 | 8-K - MeiraGTx Holdings plc (0001735438) (Filer) | 2025-08-14T08:08:01-04:00 | https://www.sec.gov/Archives/edgar/data/1735438/000155837025011478/0001558370-25-011478.txt
+2025-08-14 13:21:04 | 8-K - INNOVATIVE SOLUTIONS & SUPPORT INC (0000836690) (Filer) | 2025-08-14T09:20:17-04:00 | https://www.sec.gov/Archives/edgar/data/836690/000155837025011488/0001558370-25-011488.txt
+2025-08-14 13:21:06 | 8-K - AXIS CAPITAL HOLDINGS LTD (0001214816) (Filer) | 2025-08-14T09:18:08-04:00 | https://www.sec.gov/Archives/edgar/data/1214816/000121481625000155/0001214816-25-000155.txt
+2025-08-14 13:21:07 | 8-K - Capstone Green Energy Holdings, Inc. (0001009759) (Filer) | 2025-08-14T09:15:34-04:00 | https://www.sec.gov/Archives/edgar/data/1009759/000155837025011486/0001558370-25-011486.txt
+2025-08-14 13:21:07 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-08-14T09:12:54-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025108494/0000950170-25-108494.txt
+2025-08-14 13:21:08 | 8-K - Horizon Technology Finance Corp (0001487428) (Filer) | 2025-08-14T09:10:53-04:00 | https://www.sec.gov/Archives/edgar/data/1487428/000143774925026705/0001437749-25-026705.txt
+2025-08-14 13:21:10 | 8-K - ASIAFIN HOLDINGS CORP. (0001828748) (Filer) | 2025-08-14T09:09:46-04:00 | https://www.sec.gov/Archives/edgar/data/1828748/000164117225023747/0001641172-25-023747.txt
+2025-08-14 13:21:10 | 8-K/A - SeaStar Medical Holding Corp (0001831868) (Filer) | 2025-08-14T09:07:28-04:00 | https://www.sec.gov/Archives/edgar/data/1831868/000183186825000011/0001831868-25-000011.txt
+2025-08-14 13:21:11 | 8-K - Enovix Corp (0001828318) (Filer) | 2025-08-14T09:05:07-04:00 | https://www.sec.gov/Archives/edgar/data/1828318/000182831825000281/0001828318-25-000281.txt

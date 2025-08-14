@@ -1106,3 +1106,7 @@
 2025-08-14 03:00:02 | Jeffrey M. Rodino | President - RV | Shares: 22389 | Value: $2,425,000.0 | Percent: 0.067277% | Link: https://www.sec.gov/Archives/edgar/data/76605/000007660525000177/0000076605-25-000177.txt
 2025-08-14 11:32:49 | Gamzu Guy | Director | Shares: 73334 | Value: $316,069.54 | Percent: 0.036214% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000197640825000258/0001976408-25-000258.txt
 2025-08-14 11:32:50 | Gamzu Guy | Director | Shares: 73334 | Value: $316,069.54 | Percent: 0.036214% | Link: https://www.sec.gov/Archives/edgar/data/1436979/000197640825000258/0001976408-25-000258.txt
+2025-08-14 13:21:13 | Econovation, LLC | 10% Stockholder | Shares: 2608000 | Value: $107,580,000.0 | Percent: 1.114540% | Link: https://www.sec.gov/Archives/edgar/data/1966119/000182965525000016/0001829655-25-000016.txt
+2025-08-14 13:21:13 | Econovation, LLC | 10% Stockholder | Shares: 2608000 | Value: $107,580,000.0 | Percent: 1.114540% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000182965525000016/0001829655-25-000016.txt
+2025-08-14 13:21:15 | Langer Ram | Officer | Shares: 21321 | Value: $1,844,906.13 | Percent: 0.046912% | Link: https://www.sec.gov/Archives/edgar/data/1973443/000197640825000259/0001976408-25-000259.txt
+2025-08-14 13:21:16 | Langer Ram | Officer | Shares: 21321 | Value: $1,844,906.13 | Percent: 0.046912% | Link: https://www.sec.gov/Archives/edgar/data/1109138/000197640825000259/0001976408-25-000259.txt
