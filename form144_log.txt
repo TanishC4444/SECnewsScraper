@@ -1126,3 +1126,7 @@
 2025-08-14 16:59:52 | Hecla Mining Co Pre-2005 SERP &amp; Post-2004 SERP | Hecla Mining Co Pre-2005 SERP &amp; Post-2004 SERP | Shares: 1200000 | Value: $9,168,000.0 | Percent: 0.179109% | Link: https://www.sec.gov/Archives/edgar/data/719413/000204016725000002/0002040167-25-000002.txt
 2025-08-14 16:59:53 | COKE MICHAEL A | Officer | Shares: 10000 | Value: $535,051.2 | Percent: 0.009680% | Link: https://www.sec.gov/Archives/edgar/data/1476150/000195779925000174/0001957799-25-000174.txt
 2025-08-14 16:59:54 | COKE MICHAEL A | Officer | Shares: 10000 | Value: $535,051.2 | Percent: 0.009680% | Link: https://www.sec.gov/Archives/edgar/data/1213051/000195779925000174/0001957799-25-000174.txt
+2025-08-14 17:42:49 | Etchart Eric | Director | Shares: 6000 | Value: $514,380.0 | Percent: 0.003621% | Link: https://www.sec.gov/Archives/edgar/data/1398352/000197337925000220/0001973379-25-000220.txt
+2025-08-14 17:42:51 | Etchart Eric | Director | Shares: 6000 | Value: $514,380.0 | Percent: 0.003621% | Link: https://www.sec.gov/Archives/edgar/data/42888/000197337925000220/0001973379-25-000220.txt
+2025-08-14 17:42:52 | Post Denny Marie | Officer | Shares: 6086 | Value: $290,376.64 | Percent: 0.013619% | Link: https://www.sec.gov/Archives/edgar/data/1579733/000200731725000872/0002007317-25-000872.txt
+2025-08-14 17:42:53 | Post Denny Marie | Officer | Shares: 6086 | Value: $290,376.64 | Percent: 0.013619% | Link: https://www.sec.gov/Archives/edgar/data/1361353/000200731725000872/0002007317-25-000872.txt
