@@ -1116,3 +1116,9 @@
 2025-08-14 14:29:03 | ANDERSEN ERIC C. | Ex-Board | Shares: 56620 | Value: $1,660,222.0 | Percent: 0.313387% | Link: https://www.sec.gov/Archives/edgar/data/1201792/000200731725000868/0002007317-25-000868.txt
 2025-08-14 14:48:11 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.51 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1732519/000200731725000869/0002007317-25-000869.txt
 2025-08-14 14:48:13 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.51 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1580905/000200731725000869/0002007317-25-000869.txt
+2025-08-14 16:47:53 | Brown William Travis | Officer | Shares: 8500 | Value: $389,725.0 | Percent: 0.074890% | Link: https://www.sec.gov/Archives/edgar/data/1954376/000197407825000252/0001974078-25-000252.txt
+2025-08-14 16:47:54 | Brown William Travis | Officer | Shares: 8500 | Value: $389,725.0 | Percent: 0.074890% | Link: https://www.sec.gov/Archives/edgar/data/1058867/000197407825000252/0001974078-25-000252.txt
+2025-08-14 16:47:55 | Lehner Keefer McGovern | Officer | Shares: 8250 | Value: $15,510.0 | Percent: 0.046243% | Link: https://www.sec.gov/Archives/edgar/data/1738827/000200731725000871/0002007317-25-000871.txt
+2025-08-14 16:47:56 | Lehner Keefer McGovern | Officer | Shares: 8250 | Value: $15,510.0 | Percent: 0.046243% | Link: https://www.sec.gov/Archives/edgar/data/1712745/000200731725000871/0002007317-25-000871.txt
+2025-08-14 16:47:57 | MURRAY RICHARD IV | Officer | Shares: 5302 | Value: $514,294.0 | Percent: 0.005239% | Link: https://www.sec.gov/Archives/edgar/data/1192982/000182071725000002/0001820717-25-000002.txt
+2025-08-14 16:47:58 | MURRAY RICHARD IV | Officer | Shares: 5302 | Value: $514,294.0 | Percent: 0.005239% | Link: https://www.sec.gov/Archives/edgar/data/764038/000182071725000002/0001820717-25-000002.txt
