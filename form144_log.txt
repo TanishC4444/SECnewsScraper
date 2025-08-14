@@ -1182,3 +1182,11 @@
 2025-08-14 21:34:32 | Paul A. Maleh | Officer | Shares: 7500 | Value: $1,401,883.5 | Percent: 0.113916% | Link: https://www.sec.gov/Archives/edgar/data/1053706/000141588925021979/0001415889-25-021979.txt
 2025-08-14 21:34:34 | Bohn Mary Louise | Officer | Shares: 13190 | Value: $1,040,085.97 | Percent: 0.022487% | Link: https://www.sec.gov/Archives/edgar/data/1682365/000195917325005186/0001959173-25-005186.txt
 2025-08-14 21:34:35 | Bohn Mary Louise | Officer | Shares: 13190 | Value: $1,040,085.97 | Percent: 0.022487% | Link: https://www.sec.gov/Archives/edgar/data/1672013/000195917325005186/0001959173-25-005186.txt
+2025-08-14 21:45:49 | Schwartz Jonathan David | Officer | Shares: 11161 | Value: $33,691.71 | Percent: 0.010343% | Link: https://www.sec.gov/Archives/edgar/data/1726398/000195917325005196/0001959173-25-005196.txt
+2025-08-14 21:45:51 | Schwartz Jonathan David | Officer | Shares: 11161 | Value: $33,691.71 | Percent: 0.010343% | Link: https://www.sec.gov/Archives/edgar/data/1281895/000195917325005196/0001959173-25-005196.txt
+2025-08-14 21:45:53 | Keohane Sean D | Officer | Shares: 114436 | Value: $9,072,097.22 | Percent: 0.215091% | Link: https://www.sec.gov/Archives/edgar/data/1435737/000195917325005195/0001959173-25-005195.txt
+2025-08-14 21:45:54 | Keohane Sean D | Officer | Shares: 114436 | Value: $9,072,097.22 | Percent: 0.215091% | Link: https://www.sec.gov/Archives/edgar/data/16040/000195917325005195/0001959173-25-005195.txt
+2025-08-14 21:45:54 | Niederst Lori A | Officer | Shares: 8063 | Value: $2,017,201.34 | Percent: 0.001375% | Link: https://www.sec.gov/Archives/edgar/data/1691371/000195917325005194/0001959173-25-005194.txt
+2025-08-14 21:45:55 | Niederst Lori A | Officer | Shares: 8063 | Value: $2,017,201.34 | Percent: 0.001375% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005194/0001959173-25-005194.txt
+2025-08-14 21:45:57 | Maes Gregoire | Officer | Shares: 97226 | Value: $1,881,980.97 | Percent: 0.094967% | Link: https://www.sec.gov/Archives/edgar/data/1885789/000196430625000323/0001964306-25-000323.txt
+2025-08-14 21:45:58 | Maes Gregoire | Officer | Shares: 97226 | Value: $1,881,980.97 | Percent: 0.094967% | Link: https://www.sec.gov/Archives/edgar/data/1823144/000196430625000323/0001964306-25-000323.txt
