@@ -1794,3 +1794,10 @@
 2025-08-14 19:23:16 | 8-K - TOMI Environmental Solutions, Inc. (0000314227) (Filer) | 2025-08-14T15:12:07-04:00 | https://www.sec.gov/Archives/edgar/data/314227/000165495425009630/0001654954-25-009630.txt
 2025-08-14 19:23:17 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-08-14T15:08:33-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000129/0001314152-25-000129.txt
 2025-08-14 19:23:17 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-08-14T15:06:40-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000156/0001326771-25-000156.txt
+2025-08-14 19:41:08 | 8-K - Firsthand Technology Value Fund, Inc. (0001495584) (Filer) | 2025-08-14T15:40:39-04:00 | https://www.sec.gov/Archives/edgar/data/1495584/000143774925026907/0001437749-25-026907.txt
+2025-08-14 19:41:18 | 8-K - FirstCash Holdings, Inc. (0000840489) (Filer) | 2025-08-14T15:39:15-04:00 | https://www.sec.gov/Archives/edgar/data/840489/000084048925000106/0000840489-25-000106.txt
+2025-08-14 19:41:21 | 8-K - SOUTHERN MISSOURI BANCORP, INC. (0000916907) (Filer) | 2025-08-14T15:38:51-04:00 | https://www.sec.gov/Archives/edgar/data/916907/000155837025011546/0001558370-25-011546.txt
+2025-08-14 19:41:21 | 8-K - GOLUB CAPITAL DIRECT LENDING CORP (0001868878) (Filer) | 2025-08-14T15:34:50-04:00 | https://www.sec.gov/Archives/edgar/data/1868878/000186887825000037/0001868878-25-000037.txt
+2025-08-14 19:41:23 | 8-K - Expion360 Inc. (0001894954) (Filer) | 2025-08-14T15:31:09-04:00 | https://www.sec.gov/Archives/edgar/data/1894954/000190359625000413/0001903596-25-000413.txt
+2025-08-14 19:41:26 | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | 2025-08-14T15:28:50-04:00 | https://www.sec.gov/Archives/edgar/data/88205/000114036125031186/0001140361-25-031186.txt
+2025-08-14 19:41:26 | 8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2025-C35 (0002067195) (Filer) | 2025-08-14T15:25:03-04:00 | https://www.sec.gov/Archives/edgar/data/2067195/000153949725002144/0001539497-25-002144.txt
