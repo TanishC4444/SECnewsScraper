@@ -1202,3 +1202,9 @@
 2025-08-14 22:15:03 | PEARSON KEVIN J | Officer | Shares: 20087 | Value: $3,883,210.52 | Percent: 0.012854% | Link: https://www.sec.gov/Archives/edgar/data/36270/000195917325005211/0001959173-25-005211.txt
 2025-08-14 22:15:04 | ROLAND SACKERS | Officer | Shares: 18577 | Value: $910,286.0 | Percent: 0.008578% | Link: https://www.sec.gov/Archives/edgar/data/1976859/000195004725005859/0001950047-25-005859.txt
 2025-08-14 22:15:05 | ROLAND SACKERS | Officer | Shares: 18577 | Value: $910,286.0 | Percent: 0.008578% | Link: https://www.sec.gov/Archives/edgar/data/1015820/000195004725005859/0001950047-25-005859.txt
+2025-08-14 22:37:11 | MARY JANE MELENDEZ | Officer | Shares: 13040 | Value: $646,001.6 | Percent: 0.002404% | Link: https://www.sec.gov/Archives/edgar/data/1685072/000195004725005862/0001950047-25-005862.txt
+2025-08-14 22:37:13 | MARY JANE MELENDEZ | Officer | Shares: 13040 | Value: $646,001.6 | Percent: 0.002404% | Link: https://www.sec.gov/Archives/edgar/data/40704/000195004725005862/0001950047-25-005862.txt
+2025-08-14 22:37:15 | Braeside Capital II, L.P. | Affiliate of Director | Shares: 189250 | Value: $3,550,330.0 | Percent: 0.919094% | Link: https://www.sec.gov/Archives/edgar/data/1501561/000131586325000634/0001315863-25-000634.txt
+2025-08-14 22:37:15 | Braeside Capital II, L.P. | Affiliate of Director | Shares: 189250 | Value: $3,550,330.0 | Percent: 0.919094% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000131586325000634/0001315863-25-000634.txt
+2025-08-14 22:37:17 | Pritesh Damani | Officer | Shares: 20986 | Value: $94,529.34 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/2009371/000195004725005861/0001950047-25-005861.txt
+2025-08-14 22:37:17 | Pritesh Damani | Officer | Shares: 20986 | Value: $94,529.34 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005861/0001950047-25-005861.txt
