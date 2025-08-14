@@ -1781,3 +1781,4 @@
 2025-08-14 16:47:53 | 8-K - PCS Edventures!, Inc. (0001122020) (Filer) | 2025-08-14T12:33:33-04:00 | https://www.sec.gov/Archives/edgar/data/1122020/000164117225023812/0001641172-25-023812.txt
 2025-08-14 17:25:19 | 8-K - CDT Equity Inc. (0001896212) (Filer) | 2025-08-14T13:11:17-04:00 | https://www.sec.gov/Archives/edgar/data/1896212/000164117225023840/0001641172-25-023840.txt
 2025-08-14 17:42:18 | 8-K - UNIFIRST CORP (0000717954) (Filer) | 2025-08-14T13:32:46-04:00 | https://www.sec.gov/Archives/edgar/data/717954/000071795425000006/0000717954-25-000006.txt
+2025-08-14 17:52:11 | 8-K - Strategic Student & Senior Housing Trust, Inc. (0001698538) (Filer) | 2025-08-14T13:48:21-04:00 | https://www.sec.gov/Archives/edgar/data/1698538/000095017025108704/0000950170-25-108704.txt
