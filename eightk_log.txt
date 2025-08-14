@@ -1772,3 +1772,4 @@
 2025-08-14 13:50:30 | 8-K - Bleichroeder Acquisition Corp. I (0002028707) (Filer) | 2025-08-14T09:28:36-04:00 | https://www.sec.gov/Archives/edgar/data/2028707/000121390025076126/0001213900-25-076126.txt
 2025-08-14 13:50:32 | 8-K - SpringBig Holdings, Inc. (0001801602) (Filer) | 2025-08-14T09:27:29-04:00 | https://www.sec.gov/Archives/edgar/data/1801602/000121390025076125/0001213900-25-076125.txt
 2025-08-14 13:50:33 | 8-K - Ideal Power Inc. (0001507957) (Filer) | 2025-08-14T09:25:12-04:00 | https://www.sec.gov/Archives/edgar/data/1507957/000143774925026715/0001437749-25-026715.txt
+2025-08-14 14:28:58 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-14T10:25:17-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009579/0001654954-25-009579.txt
