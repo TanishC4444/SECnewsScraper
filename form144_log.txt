@@ -1196,3 +1196,9 @@
 2025-08-14 21:55:05 | McMaude Michael A | Former Officer | Shares: 16168 | Value: $362,240.87 | Percent: 0.009127% | Link: https://www.sec.gov/Archives/edgar/data/1865782/000195917325005202/0001959173-25-005202.txt
 2025-08-14 21:55:05 | Kent Remi | Former Officer | Shares: 5329 | Value: $1,333,209.22 | Percent: 0.000909% | Link: https://www.sec.gov/Archives/edgar/data/1890879/000195917325005200/0001959173-25-005200.txt
 2025-08-14 21:55:08 | Kent Remi | Former Officer | Shares: 5329 | Value: $1,333,209.22 | Percent: 0.000909% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005200/0001959173-25-005200.txt
+2025-08-14 22:15:01 | KEVIN R. LOWELL | Officer | Shares: 22977 | Value: $1,736,116.85 | Percent: 0.026717% | Link: https://www.sec.gov/Archives/edgar/data/1958412/000195004725005860/0001950047-25-005860.txt
+2025-08-14 22:15:02 | KEVIN R. LOWELL | Officer | Shares: 22977 | Value: $1,736,116.85 | Percent: 0.026717% | Link: https://www.sec.gov/Archives/edgar/data/821130/000195004725005860/0001950047-25-005860.txt
+2025-08-14 22:15:02 | PEARSON KEVIN J | Officer | Shares: 20087 | Value: $3,883,210.52 | Percent: 0.012854% | Link: https://www.sec.gov/Archives/edgar/data/1245781/000195917325005211/0001959173-25-005211.txt
+2025-08-14 22:15:03 | PEARSON KEVIN J | Officer | Shares: 20087 | Value: $3,883,210.52 | Percent: 0.012854% | Link: https://www.sec.gov/Archives/edgar/data/36270/000195917325005211/0001959173-25-005211.txt
+2025-08-14 22:15:04 | ROLAND SACKERS | Officer | Shares: 18577 | Value: $910,286.0 | Percent: 0.008578% | Link: https://www.sec.gov/Archives/edgar/data/1976859/000195004725005859/0001950047-25-005859.txt
+2025-08-14 22:15:05 | ROLAND SACKERS | Officer | Shares: 18577 | Value: $910,286.0 | Percent: 0.008578% | Link: https://www.sec.gov/Archives/edgar/data/1015820/000195004725005859/0001950047-25-005859.txt
