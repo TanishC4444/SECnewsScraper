@@ -1774,3 +1774,4 @@
 2025-08-14 13:50:33 | 8-K - Ideal Power Inc. (0001507957) (Filer) | 2025-08-14T09:25:12-04:00 | https://www.sec.gov/Archives/edgar/data/1507957/000143774925026715/0001437749-25-026715.txt
 2025-08-14 14:28:58 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-14T10:25:17-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009579/0001654954-25-009579.txt
 2025-08-14 14:58:01 | 8-K - AAON, INC. (0000824142) (Filer) | 2025-08-14T10:51:16-04:00 | https://www.sec.gov/Archives/edgar/data/824142/000082414225000188/0000824142-25-000188.txt
+2025-08-14 15:25:44 | 8-K - Nuwellis, Inc. (0001506492) (Filer) | 2025-08-14T11:01:11-04:00 | https://www.sec.gov/Archives/edgar/data/1506492/000114036125031093/0001140361-25-031093.txt
