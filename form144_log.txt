@@ -1110,3 +1110,5 @@
 2025-08-14 13:21:13 | Econovation, LLC | 10% Stockholder | Shares: 2608000 | Value: $107,580,000.0 | Percent: 1.114540% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000182965525000016/0001829655-25-000016.txt
 2025-08-14 13:21:15 | Langer Ram | Officer | Shares: 21321 | Value: $1,844,906.13 | Percent: 0.046912% | Link: https://www.sec.gov/Archives/edgar/data/1973443/000197640825000259/0001976408-25-000259.txt
 2025-08-14 13:21:16 | Langer Ram | Officer | Shares: 21321 | Value: $1,844,906.13 | Percent: 0.046912% | Link: https://www.sec.gov/Archives/edgar/data/1109138/000197640825000259/0001976408-25-000259.txt
+2025-08-14 13:50:35 | Schwartz Jason Eric | Officer | Shares: 801433 | Value: $6,756,080.19 | Percent: 0.970040% | Link: https://www.sec.gov/Archives/edgar/data/1969964/000197640825000260/0001976408-25-000260.txt
+2025-08-14 13:50:35 | Schwartz Jason Eric | Officer | Shares: 801433 | Value: $6,756,080.19 | Percent: 0.970040% | Link: https://www.sec.gov/Archives/edgar/data/1842731/000197640825000260/0001976408-25-000260.txt
