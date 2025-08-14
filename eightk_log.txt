@@ -1791,3 +1791,6 @@
 2025-08-14 18:47:12 | 8-K - BLUM HOLDINGS, INC. (0001996210) (Filer) | 2025-08-14T14:28:10-04:00 | https://www.sec.gov/Archives/edgar/data/1996210/000143774925026862/0001437749-25-026862.txt
 2025-08-14 18:47:12 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-14T14:26:29-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000186/0001331465-25-000186.txt
 2025-08-14 19:01:04 | 8-K - CLS Holdings USA, Inc. (0001522222) (Filer) | 2025-08-14T14:56:25-04:00 | https://www.sec.gov/Archives/edgar/data/1522222/000118518525000993/0001185185-25-000993.txt
+2025-08-14 19:23:16 | 8-K - TOMI Environmental Solutions, Inc. (0000314227) (Filer) | 2025-08-14T15:12:07-04:00 | https://www.sec.gov/Archives/edgar/data/314227/000165495425009630/0001654954-25-009630.txt
+2025-08-14 19:23:17 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-08-14T15:08:33-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000129/0001314152-25-000129.txt
+2025-08-14 19:23:17 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-08-14T15:06:40-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000156/0001326771-25-000156.txt
