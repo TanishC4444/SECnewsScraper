@@ -1172,3 +1172,7 @@
 2025-08-14 20:56:37 | SHAWN M. SODERBERG | Officer | Shares: 5851 | Value: $254,196.11 | Percent: 0.002500% | Link: https://www.sec.gov/Archives/edgar/data/1591851/000195004725005849/0001950047-25-005849.txt
 2025-08-14 20:56:39 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,636,258.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000955/0001921094-25-000955.txt
 2025-08-14 20:56:40 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,636,258.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000955/0001921094-25-000955.txt
+2025-08-14 21:17:59 | HEYNEMAN JOHN M JR | Director | Shares: 11818 | Value: $356,732.27 | Percent: 0.011271% | Link: https://www.sec.gov/Archives/edgar/data/1198518/000195917325005181/0001959173-25-005181.txt
+2025-08-14 21:18:00 | HEYNEMAN JOHN M JR | Director | Shares: 11818 | Value: $356,732.27 | Percent: 0.011271% | Link: https://www.sec.gov/Archives/edgar/data/860413/000195917325005181/0001959173-25-005181.txt
+2025-08-14 21:18:01 | Winn Caroline Ann | Officer | Shares: 5114 | Value: $420,473.08 | Percent: 0.000784% | Link: https://www.sec.gov/Archives/edgar/data/1922699/000192269925000005/0001922699-25-000005.txt
+2025-08-14 21:18:02 | Winn Caroline Ann | Officer | Shares: 5114 | Value: $420,473.08 | Percent: 0.000784% | Link: https://www.sec.gov/Archives/edgar/data/1032208/000192269925000005/0001922699-25-000005.txt
