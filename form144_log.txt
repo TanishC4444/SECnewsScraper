@@ -1190,3 +1190,9 @@
 2025-08-14 21:45:55 | Niederst Lori A | Officer | Shares: 8063 | Value: $2,017,201.34 | Percent: 0.001375% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005194/0001959173-25-005194.txt
 2025-08-14 21:45:57 | Maes Gregoire | Officer | Shares: 97226 | Value: $1,881,980.97 | Percent: 0.094967% | Link: https://www.sec.gov/Archives/edgar/data/1885789/000196430625000323/0001964306-25-000323.txt
 2025-08-14 21:45:58 | Maes Gregoire | Officer | Shares: 97226 | Value: $1,881,980.97 | Percent: 0.094967% | Link: https://www.sec.gov/Archives/edgar/data/1823144/000196430625000323/0001964306-25-000323.txt
+2025-08-14 21:54:58 | EDELMAN HARRIET | Director | Shares: 8325 | Value: $1,307,010.41 | Percent: 0.018728% | Link: https://www.sec.gov/Archives/edgar/data/1222857/000195917325005203/0001959173-25-005203.txt
+2025-08-14 21:55:02 | EDELMAN HARRIET | Director | Shares: 8325 | Value: $1,307,010.41 | Percent: 0.018728% | Link: https://www.sec.gov/Archives/edgar/data/703351/000195917325005203/0001959173-25-005203.txt
+2025-08-14 21:55:04 | McMaude Michael A | Former Officer | Shares: 16168 | Value: $362,240.87 | Percent: 0.009127% | Link: https://www.sec.gov/Archives/edgar/data/1891172/000195917325005202/0001959173-25-005202.txt
+2025-08-14 21:55:05 | McMaude Michael A | Former Officer | Shares: 16168 | Value: $362,240.87 | Percent: 0.009127% | Link: https://www.sec.gov/Archives/edgar/data/1865782/000195917325005202/0001959173-25-005202.txt
+2025-08-14 21:55:05 | Kent Remi | Former Officer | Shares: 5329 | Value: $1,333,209.22 | Percent: 0.000909% | Link: https://www.sec.gov/Archives/edgar/data/1890879/000195917325005200/0001959173-25-005200.txt
+2025-08-14 21:55:08 | Kent Remi | Former Officer | Shares: 5329 | Value: $1,333,209.22 | Percent: 0.000909% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005200/0001959173-25-005200.txt
