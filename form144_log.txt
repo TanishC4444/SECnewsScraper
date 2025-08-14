@@ -1166,3 +1166,9 @@
 2025-08-14 20:46:35 | BARTON FRANCIS P | Director | Shares: 26452 | Value: $66,923.56 | Percent: 0.041828% | Link: https://www.sec.gov/Archives/edgar/data/738214/000197407825000253/0001974078-25-000253.txt
 2025-08-14 20:46:37 | RICHARD &amp; SARAH BARTON IRREV TRUST | Director | Shares: 200000 | Value: $16,984,200.0 | Percent: 0.107547% | Link: https://www.sec.gov/Archives/edgar/data/1617640/000195004725005848/0001950047-25-005848.txt
 2025-08-14 20:46:38 | RICHARD &amp; SARAH BARTON IRREV TRUST | Director | Shares: 200000 | Value: $16,984,200.0 | Percent: 0.107547% | Link: https://www.sec.gov/Archives/edgar/data/1184230/000195004725005848/0001950047-25-005848.txt
+2025-08-14 20:56:35 | Shanmugam Muthusamy | Officer | Shares: 47010 | Value: $4,206,603.82 | Percent: 0.216748% | Link: https://www.sec.gov/Archives/edgar/data/1870913/000200731725000877/0002007317-25-000877.txt
+2025-08-14 20:56:36 | Shanmugam Muthusamy | Officer | Shares: 47010 | Value: $4,206,603.82 | Percent: 0.216748% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000200731725000877/0002007317-25-000877.txt
+2025-08-14 20:56:37 | SHAWN M. SODERBERG | Officer | Shares: 5851 | Value: $254,196.11 | Percent: 0.002500% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725005849/0001950047-25-005849.txt
+2025-08-14 20:56:37 | SHAWN M. SODERBERG | Officer | Shares: 5851 | Value: $254,196.11 | Percent: 0.002500% | Link: https://www.sec.gov/Archives/edgar/data/1591851/000195004725005849/0001950047-25-005849.txt
+2025-08-14 20:56:39 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,636,258.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425000955/0001921094-25-000955.txt
+2025-08-14 20:56:40 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,636,258.0 | Percent: 0.000307% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425000955/0001921094-25-000955.txt
