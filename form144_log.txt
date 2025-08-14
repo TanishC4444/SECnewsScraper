@@ -1136,3 +1136,5 @@
 2025-08-14 18:13:13 | Hecla Mining Co Retirement Plan Trust | Hecla Mining Co Retirement Plan Trust | Shares: 2643714 | Value: $20,224,412.0 | Percent: 0.394594% | Link: https://www.sec.gov/Archives/edgar/data/719413/000204003925000001/0002040039-25-000001.txt
 2025-08-14 18:47:14 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.0 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1732519/000200731725000873/0002007317-25-000873.txt
 2025-08-14 18:47:15 | HIRE WILLIAM JEFFREY | Officer | Shares: 6500 | Value: $1,726,856.0 | Percent: 0.023787% | Link: https://www.sec.gov/Archives/edgar/data/1580905/000200731725000873/0002007317-25-000873.txt
+2025-08-14 19:01:05 | Dunleavy Catherine | Officer | Shares: 108335 | Value: $158,167.16 | Percent: 0.016240% | Link: https://www.sec.gov/Archives/edgar/data/1868726/000186872625000084/0001868726-25-000084.txt
+2025-08-14 19:01:06 | Dunleavy Catherine | Officer | Shares: 108335 | Value: $158,167.16 | Percent: 0.016240% | Link: https://www.sec.gov/Archives/edgar/data/1448918/000186872625000084/0001868726-25-000084.txt

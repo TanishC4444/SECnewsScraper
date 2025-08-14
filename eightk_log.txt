@@ -1790,3 +1790,4 @@
 2025-08-14 18:47:11 | 8-K - Cardiff Lexington Corp (0000811222) (Filer) | 2025-08-14T14:33:53-04:00 | https://www.sec.gov/Archives/edgar/data/811222/000168316825006130/0001683168-25-006130.txt
 2025-08-14 18:47:12 | 8-K - BLUM HOLDINGS, INC. (0001996210) (Filer) | 2025-08-14T14:28:10-04:00 | https://www.sec.gov/Archives/edgar/data/1996210/000143774925026862/0001437749-25-026862.txt
 2025-08-14 18:47:12 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-14T14:26:29-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000186/0001331465-25-000186.txt
+2025-08-14 19:01:04 | 8-K - CLS Holdings USA, Inc. (0001522222) (Filer) | 2025-08-14T14:56:25-04:00 | https://www.sec.gov/Archives/edgar/data/1522222/000118518525000993/0001185185-25-000993.txt
