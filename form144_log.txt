@@ -1104,3 +1104,5 @@
 2025-08-14 03:00:00 | Chun Yin Ling | Director | Shares: 800000 | Value: $2,208,000.0 | Percent: 1.834943% | Link: https://www.sec.gov/Archives/edgar/data/1948443/000121390025075981/0001213900-25-075981.txt
 2025-08-14 03:00:01 | Jeffrey M. Rodino | President - RV | Shares: 22389 | Value: $2,425,000.0 | Percent: 0.067277% | Link: https://www.sec.gov/Archives/edgar/data/1491923/000007660525000177/0000076605-25-000177.txt
 2025-08-14 03:00:02 | Jeffrey M. Rodino | President - RV | Shares: 22389 | Value: $2,425,000.0 | Percent: 0.067277% | Link: https://www.sec.gov/Archives/edgar/data/76605/000007660525000177/0000076605-25-000177.txt
+2025-08-14 11:32:49 | Gamzu Guy | Director | Shares: 73334 | Value: $316,069.54 | Percent: 0.036214% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000197640825000258/0001976408-25-000258.txt
+2025-08-14 11:32:50 | Gamzu Guy | Director | Shares: 73334 | Value: $316,069.54 | Percent: 0.036214% | Link: https://www.sec.gov/Archives/edgar/data/1436979/000197640825000258/0001976408-25-000258.txt
