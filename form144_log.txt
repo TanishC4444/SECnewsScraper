@@ -1264,3 +1264,5 @@
 2025-08-15 18:35:49 | Barber Jamie Allen | Officer | Shares: 130000 | Value: $878,000.0 | Percent: 0.194382% | Link: https://www.sec.gov/Archives/edgar/data/1533615/000195917325005234/0001959173-25-005234.txt
 2025-08-15 18:35:51 | Linnen Edward P | Officer | Shares: 10000 | Value: $1,569,183.26 | Percent: 0.028482% | Link: https://www.sec.gov/Archives/edgar/data/1566861/000200731725000882/0002007317-25-000882.txt
 2025-08-15 18:35:51 | Linnen Edward P | Officer | Shares: 10000 | Value: $1,569,183.26 | Percent: 0.028482% | Link: https://www.sec.gov/Archives/edgar/data/723612/000200731725000882/0002007317-25-000882.txt
+2025-08-15 18:55:44 | Mackin James P | Officer | Shares: 12500 | Value: $528,991.0 | Percent: 0.026492% | Link: https://www.sec.gov/Archives/edgar/data/1408470/000100027525000114/0001000275-25-000114.txt
+2025-08-15 18:55:44 | Mackin James P | Officer | Shares: 12500 | Value: $528,991.0 | Percent: 0.026492% | Link: https://www.sec.gov/Archives/edgar/data/784199/000100027525000114/0001000275-25-000114.txt

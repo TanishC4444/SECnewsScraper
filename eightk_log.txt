@@ -1912,3 +1912,6 @@
 2025-08-15 18:35:40 | 8-K - New Concept Energy, Inc. (0000105744) (Filer) | 2025-08-15T14:26:25-04:00 | https://www.sec.gov/Archives/edgar/data/105744/000121465925012339/0001214659-25-012339.txt
 2025-08-15 18:35:41 | 8-K - Ares Real Estate Income Trust Inc. (0001327978) (Filer) | 2025-08-15T14:05:36-04:00 | https://www.sec.gov/Archives/edgar/data/1327978/000132797825000055/0001327978-25-000055.txt
 2025-08-15 18:35:43 | 8-K - INVO Fertility, Inc. (0001417926) (Filer) | 2025-08-15T14:03:10-04:00 | https://www.sec.gov/Archives/edgar/data/1417926/000164117225024338/0001641172-25-024338.txt
+2025-08-15 18:55:39 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-08-15T14:53:32-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000098/0001756761-25-000098.txt
+2025-08-15 18:55:41 | 8-K - WORTHINGTON ENTERPRISES, INC. (0000108516) (Filer) | 2025-08-15T14:50:10-04:00 | https://www.sec.gov/Archives/edgar/data/108516/000010851625000013/0000108516-25-000013.txt
+2025-08-15 18:55:42 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-08-15T14:39:26-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000034/0001976927-25-000034.txt
