@@ -1214,3 +1214,5 @@
 2025-08-15 01:48:15 | MCINERNEY RYAN | Officer | Shares: 10485 | Value: $3,597,718.05 | Percent: 0.000617% | Link: https://www.sec.gov/Archives/edgar/data/1403161/000196535325000136/0001965353-25-000136.txt
 2025-08-15 10:21:23 | Carmi Yaniv | Officer | Shares: 52266 | Value: $487,641.78 | Percent: 0.079719% | Link: https://www.sec.gov/Archives/edgar/data/1980184/000197640825000261/0001976408-25-000261.txt
 2025-08-15 10:21:24 | Carmi Yaniv | Officer | Shares: 52266 | Value: $487,641.78 | Percent: 0.079719% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000261/0001976408-25-000261.txt
+2025-08-15 10:42:45 | Niri Sagi | Officer | Shares: 73067 | Value: $681,715.11 | Percent: 0.111446% | Link: https://www.sec.gov/Archives/edgar/data/1980194/000197640825000262/0001976408-25-000262.txt
+2025-08-15 10:42:46 | Niri Sagi | Officer | Shares: 73067 | Value: $681,715.11 | Percent: 0.111446% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000262/0001976408-25-000262.txt
