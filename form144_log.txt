@@ -1250,3 +1250,5 @@
 2025-08-15 16:45:27 | SANTINI GINO | Director | Shares: 5405 | Value: $201,018.82 | Percent: 0.017158% | Link: https://www.sec.gov/Archives/edgar/data/1267565/000195917325005231/0001959173-25-005231.txt
 2025-08-15 16:45:29 | Kline David R | Former Officer | Shares: 22238 | Value: $663,330.21 | Percent: 0.005907% | Link: https://www.sec.gov/Archives/edgar/data/2012285/000195917325005230/0001959173-25-005230.txt
 2025-08-15 16:45:29 | Kline David R | Former Officer | Shares: 22238 | Value: $663,330.21 | Percent: 0.005907% | Link: https://www.sec.gov/Archives/edgar/data/1564708/000195917325005230/0001959173-25-005230.txt
+2025-08-15 17:22:08 | Gibbs David W | Officer | Shares: 7106 | Value: $1,043,445.0 | Percent: 0.002546% | Link: https://www.sec.gov/Archives/edgar/data/1628590/000200731725000879/0002007317-25-000879.txt
+2025-08-15 17:22:09 | Gibbs David W | Officer | Shares: 7106 | Value: $1,043,445.0 | Percent: 0.002546% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000200731725000879/0002007317-25-000879.txt
