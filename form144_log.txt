@@ -1292,3 +1292,9 @@
 2025-08-15 19:58:10 | Jones Nicole S | Officer | Shares: 28526 | Value: $8,557,800.0 | Percent: 0.010687% | Link: https://www.sec.gov/Archives/edgar/data/1492663/000195917325005242/0001959173-25-005242.txt
 2025-08-15 19:58:11 | Skeans Tracy L | Officer | Shares: 12220 | Value: $1,811,513.0 | Percent: 0.004378% | Link: https://www.sec.gov/Archives/edgar/data/1660119/000200731725000885/0002007317-25-000885.txt
 2025-08-15 19:58:12 | Skeans Tracy L | Officer | Shares: 12220 | Value: $1,811,513.0 | Percent: 0.004378% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000200731725000885/0002007317-25-000885.txt
+2025-08-15 20:42:49 | JOANNE BAL | Officer | Shares: 9999 | Value: $476,947.3 | Percent: 0.022376% | Link: https://www.sec.gov/Archives/edgar/data/1858527/000195004725005931/0001950047-25-005931.txt
+2025-08-15 20:42:50 | JOANNE BAL | Officer | Shares: 9999 | Value: $476,947.3 | Percent: 0.022376% | Link: https://www.sec.gov/Archives/edgar/data/1579733/000195004725005931/0001950047-25-005931.txt
+2025-08-15 20:42:52 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $533,018.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000748/0001968582-25-000748.txt
+2025-08-15 20:42:54 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $533,018.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000748/0001968582-25-000748.txt
+2025-08-15 20:42:55 | Nicholas Fink | Officer | Shares: 31314 | Value: $1,758,952.61 | Percent: 0.026087% | Link: https://www.sec.gov/Archives/edgar/data/1549543/000196922325000617/0001969223-25-000617.txt
+2025-08-15 20:42:57 | Nicholas Fink | Officer | Shares: 31314 | Value: $1,758,952.61 | Percent: 0.026087% | Link: https://www.sec.gov/Archives/edgar/data/1519751/000196922325000617/0001969223-25-000617.txt
