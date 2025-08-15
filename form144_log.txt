@@ -1306,3 +1306,9 @@
 2025-08-15 20:53:26 | REDSTONE SHARI | Affiliate | Shares: 418069 | Value: $5,852,966.0 | Percent: 0.033608% | Link: https://www.sec.gov/Archives/edgar/data/1204569/000200731725000890/0002007317-25-000890.txt
 2025-08-15 20:53:27 | CHRISTOPHER D MCCARTHY | Affiliate | Shares: 187648 | Value: $2,642,496.67 | Percent: 0.029644% | Link: https://www.sec.gov/Archives/edgar/data/2041610/000195004725005933/0001950047-25-005933.txt
 2025-08-15 20:53:28 | CHRISTOPHER D MCCARTHY | Affiliate | Shares: 187648 | Value: $2,642,496.67 | Percent: 0.029644% | Link: https://www.sec.gov/Archives/edgar/data/1960465/000195004725005933/0001950047-25-005933.txt
+2025-08-15 21:10:05 | AIK NA TAN | Director | Shares: 21000 | Value: $194,250.0 | Percent: 0.013196% | Link: https://www.sec.gov/Archives/edgar/data/1821285/000195004725005939/0001950047-25-005939.txt
+2025-08-15 21:10:06 | AIK NA TAN | Director | Shares: 21000 | Value: $194,250.0 | Percent: 0.013196% | Link: https://www.sec.gov/Archives/edgar/data/1631574/000195004725005939/0001950047-25-005939.txt
+2025-08-15 21:10:07 | TIMOTHY CABRAL | Director | Shares: 20000 | Value: $1,275,566.0 | Percent: 0.010678% | Link: https://www.sec.gov/Archives/edgar/data/1585858/000195004725005938/0001950047-25-005938.txt
+2025-08-15 21:10:08 | TIMOTHY CABRAL | Director | Shares: 20000 | Value: $1,275,566.0 | Percent: 0.010678% | Link: https://www.sec.gov/Archives/edgar/data/1516513/000195004725005938/0001950047-25-005938.txt
+2025-08-15 21:10:11 | Brian Kroll | Officer | Shares: 6362 | Value: $260,020.34 | Percent: 0.003356% | Link: https://www.sec.gov/Archives/edgar/data/2023781/000196922325000619/0001969223-25-000619.txt
+2025-08-15 21:10:12 | Sean Nigel Woodroffe | Officer | Shares: 16164 | Value: $661,044.56 | Percent: 0.008526% | Link: https://www.sec.gov/Archives/edgar/data/1976057/000196922325000618/0001969223-25-000618.txt

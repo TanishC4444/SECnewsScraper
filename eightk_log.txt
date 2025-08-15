@@ -1945,3 +1945,12 @@
 2025-08-15 20:53:16 | 8-K - Cycurion, Inc. (0001868419) (Filer) | 2025-08-15T16:45:44-04:00 | https://www.sec.gov/Archives/edgar/data/1868419/000164117225024440/0001641172-25-024440.txt
 2025-08-15 20:53:17 | 8-K - Applied Digital Corp. (0001144879) (Filer) | 2025-08-15T16:45:37-04:00 | https://www.sec.gov/Archives/edgar/data/1144879/000164117225024438/0001641172-25-024438.txt
 2025-08-15 20:53:19 | 8-K - Cycurion, Inc. (0001868419) (Filer) | 2025-08-15T16:43:32-04:00 | https://www.sec.gov/Archives/edgar/data/1868419/000164117225024421/0001641172-25-024421.txt
+2025-08-15 21:09:54 | 8-K - Entero Therapeutics, Inc. (0001604191) (Filer) | 2025-08-15T17:09:01-04:00 | https://www.sec.gov/Archives/edgar/data/1604191/000110465925079322/0001104659-25-079322.txt
+2025-08-15 21:09:54 | 8-K/A - Qorvo, Inc. (0001604778) (Filer) | 2025-08-15T17:05:30-04:00 | https://www.sec.gov/Archives/edgar/data/1604778/000095010325010380/0000950103-25-010380.txt
+2025-08-15 21:09:55 | 8-K - Associated Capital Group, Inc. (0001642122) (Filer) | 2025-08-15T17:05:20-04:00 | https://www.sec.gov/Archives/edgar/data/1642122/000143774925027154/0001437749-25-027154.txt
+2025-08-15 21:09:57 | 8-K - Main Street Capital CORP (0001396440) (Filer) | 2025-08-15T17:05:03-04:00 | https://www.sec.gov/Archives/edgar/data/1396440/000139644025000151/0001396440-25-000151.txt
+2025-08-15 21:09:58 | 8-K - Mueller Water Products, Inc. (0001350593) (Filer) | 2025-08-15T17:04:15-04:00 | https://www.sec.gov/Archives/edgar/data/1350593/000135059325000046/0001350593-25-000046.txt
+2025-08-15 21:10:00 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-15T17:02:50-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025077545/0001213900-25-077545.txt
+2025-08-15 21:10:01 | 8-K - COHEN & STEERS, INC. (0001284812) (Filer) | 2025-08-15T17:02:34-04:00 | https://www.sec.gov/Archives/edgar/data/1284812/000128481225000286/0001284812-25-000286.txt
+2025-08-15 21:10:03 | 8-K - QVC Group, Inc. (0001355096) (Filer) | 2025-08-15T17:01:32-04:00 | https://www.sec.gov/Archives/edgar/data/1355096/000110465925079313/0001104659-25-079313.txt
+2025-08-15 21:10:04 | 8-K - Innovative Eyewear Inc (0001808377) (Filer) | 2025-08-15T17:01:28-04:00 | https://www.sec.gov/Archives/edgar/data/1808377/000182912625006385/0001829126-25-006385.txt
