@@ -1875,3 +1875,13 @@
 2025-08-15 12:53:45 | 8-K - PACKAGING CORP OF AMERICA (0000075677) (Filer) | 2025-08-15T08:27:14-04:00 | https://www.sec.gov/Archives/edgar/data/75677/000119312525181330/0001193125-25-181330.txt
 2025-08-15 12:53:46 | 8-K - AQUABOUNTY TECHNOLOGIES INC (0001603978) (Filer) | 2025-08-15T08:07:16-04:00 | https://www.sec.gov/Archives/edgar/data/1603978/000160397825000059/0001603978-25-000059.txt
 2025-08-15 12:53:47 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-08-15T08:05:26-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000164117225024278/0001641172-25-024278.txt
+2025-08-15 13:26:00 | 8-K - Klaviyo, Inc. (0001835830) (Filer) | 2025-08-15T09:23:27-04:00 | https://www.sec.gov/Archives/edgar/data/1835830/000183583025000098/0001835830-25-000098.txt
+2025-08-15 13:26:02 | 8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer) | 2025-08-15T09:18:51-04:00 | https://www.sec.gov/Archives/edgar/data/1720893/000110465925079042/0001104659-25-079042.txt
+2025-08-15 13:26:04 | 8-K - Argo Group International Holdings, Inc. (0001091748) (Filer) | 2025-08-15T09:16:35-04:00 | https://www.sec.gov/Archives/edgar/data/1091748/000114036125031418/0001140361-25-031418.txt
+2025-08-15 13:26:06 | 8-K - PLUG POWER INC (0001093691) (Filer) | 2025-08-15T09:08:41-04:00 | https://www.sec.gov/Archives/edgar/data/1093691/000110465925079039/0001104659-25-079039.txt
+2025-08-15 13:26:08 | 8-K - Cingulate Inc. (0001862150) (Filer) | 2025-08-15T09:08:02-04:00 | https://www.sec.gov/Archives/edgar/data/1862150/000164117225024286/0001641172-25-024286.txt
+2025-08-15 13:26:10 | 8-K - Opendoor Technologies Inc. (0001801169) (Filer) | 2025-08-15T09:05:48-04:00 | https://www.sec.gov/Archives/edgar/data/1801169/000114036125031416/0001140361-25-031416.txt
+2025-08-15 13:26:13 | 8-K - Workhorse Group Inc. (0001425287) (Filer) | 2025-08-15T09:04:34-04:00 | https://www.sec.gov/Archives/edgar/data/1425287/000121390025077085/0001213900-25-077085.txt
+2025-08-15 13:26:15 | 8-K - Texas Roadhouse, Inc. (0001289460) (Filer) | 2025-08-15T09:01:15-04:00 | https://www.sec.gov/Archives/edgar/data/1289460/000110465925079036/0001104659-25-079036.txt
+2025-08-15 13:26:17 | 8-K - My Size, Inc. (0001211805) (Filer) | 2025-08-15T09:00:53-04:00 | https://www.sec.gov/Archives/edgar/data/1211805/000164117225024282/0001641172-25-024282.txt
+2025-08-15 13:26:19 | 8-K - GameSquare Holdings, Inc. (0001714562) (Filer) | 2025-08-15T09:00:35-04:00 | https://www.sec.gov/Archives/edgar/data/1714562/000164117225024283/0001641172-25-024283.txt
