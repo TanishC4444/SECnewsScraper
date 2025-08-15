@@ -1324,3 +1324,7 @@
 2025-08-15 21:59:13 | Sela Yossi | Director | Shares: 28692 | Value: $1,219,533.38 | Percent: 0.024577% | Link: https://www.sec.gov/Archives/edgar/data/1402094/000195004725005946/0001950047-25-005946.txt
 2025-08-15 22:25:14 | PRITESH DAMANI | Officer | Shares: 6692 | Value: $30,114.0 | Percent: 0.003215% | Link: https://www.sec.gov/Archives/edgar/data/2009371/000195004725005947/0001950047-25-005947.txt
 2025-08-15 22:25:14 | PRITESH DAMANI | Officer | Shares: 6692 | Value: $30,114.0 | Percent: 0.003215% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005947/0001950047-25-005947.txt
+2025-08-15 22:42:47 | TAMIR POLEG | Officer | Shares: 7591 | Value: $34,159.5 | Percent: 0.003647% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725005949/0001950047-25-005949.txt
+2025-08-15 22:42:48 | TAMIR POLEG | Officer | Shares: 7591 | Value: $34,159.5 | Percent: 0.003647% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005949/0001950047-25-005949.txt
+2025-08-15 22:42:49 | VICKI VILLACREZ | Officer | Shares: 58452 | Value: $2,253,746.3 | Percent: 0.054122% | Link: https://www.sec.gov/Archives/edgar/data/1926297/000195004725005948/0001950047-25-005948.txt
+2025-08-15 22:42:50 | VICKI VILLACREZ | Officer | Shares: 58452 | Value: $2,253,746.3 | Percent: 0.054122% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725005948/0001950047-25-005948.txt
