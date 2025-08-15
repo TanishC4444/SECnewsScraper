@@ -1332,3 +1332,7 @@
 2025-08-15 22:52:36 | Karen Herckis | Officer | Shares: 5500 | Value: $27,500.0 | Percent: 0.008908% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000133/0001625641-25-000133.txt
 2025-08-15 22:52:38 | Richard Crum | Officer | Shares: 10200 | Value: $51,000.0 | Percent: 0.016520% | Link: https://www.sec.gov/Archives/edgar/data/2028360/000162564125000131/0001625641-25-000131.txt
 2025-08-15 22:52:39 | Richard Crum | Officer | Shares: 10200 | Value: $51,000.0 | Percent: 0.016520% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000131/0001625641-25-000131.txt
+2025-08-15 23:10:11 | Melanie Antoon | Officer | Shares: 6700 | Value: $33,500.0 | Percent: 0.010852% | Link: https://www.sec.gov/Archives/edgar/data/2006838/000162564125000137/0001625641-25-000137.txt
+2025-08-15 23:10:12 | Melanie Antoon | Officer | Shares: 6700 | Value: $33,500.0 | Percent: 0.010852% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000137/0001625641-25-000137.txt
+2025-08-15 23:10:13 | Michael Lafair | Officer | Shares: 14400 | Value: $72,000.0 | Percent: 0.023323% | Link: https://www.sec.gov/Archives/edgar/data/1870164/000162564125000135/0001625641-25-000135.txt
+2025-08-15 23:10:14 | Michael Lafair | Officer | Shares: 14400 | Value: $72,000.0 | Percent: 0.023323% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000135/0001625641-25-000135.txt
