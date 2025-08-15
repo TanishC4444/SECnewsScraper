@@ -1246,3 +1246,7 @@
 2025-08-15 15:46:58 | TOBIAS DAVID | Officer | Shares: 200000 | Value: $7,000.0 | Percent: 0.138982% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000109690625001343/0001096906-25-001343.txt
 2025-08-15 16:21:59 | Harmer Ryan | Officer | Shares: 18771 | Value: $106,994.7 | Percent: 0.034776% | Link: https://www.sec.gov/Archives/edgar/data/1850777/000195917325005228/0001959173-25-005228.txt
 2025-08-15 16:22:00 | Harmer Ryan | Officer | Shares: 18771 | Value: $106,994.7 | Percent: 0.034776% | Link: https://www.sec.gov/Archives/edgar/data/1828962/000195917325005228/0001959173-25-005228.txt
+2025-08-15 16:45:26 | SANTINI GINO | Director | Shares: 5405 | Value: $201,018.82 | Percent: 0.017158% | Link: https://www.sec.gov/Archives/edgar/data/1276038/000195917325005231/0001959173-25-005231.txt
+2025-08-15 16:45:27 | SANTINI GINO | Director | Shares: 5405 | Value: $201,018.82 | Percent: 0.017158% | Link: https://www.sec.gov/Archives/edgar/data/1267565/000195917325005231/0001959173-25-005231.txt
+2025-08-15 16:45:29 | Kline David R | Former Officer | Shares: 22238 | Value: $663,330.21 | Percent: 0.005907% | Link: https://www.sec.gov/Archives/edgar/data/2012285/000195917325005230/0001959173-25-005230.txt
+2025-08-15 16:45:29 | Kline David R | Former Officer | Shares: 22238 | Value: $663,330.21 | Percent: 0.005907% | Link: https://www.sec.gov/Archives/edgar/data/1564708/000195917325005230/0001959173-25-005230.txt
