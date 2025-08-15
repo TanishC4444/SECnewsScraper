@@ -1208,3 +1208,7 @@
 2025-08-14 22:37:15 | Braeside Capital II, L.P. | Affiliate of Director | Shares: 189250 | Value: $3,550,330.0 | Percent: 0.919094% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000131586325000634/0001315863-25-000634.txt
 2025-08-14 22:37:17 | Pritesh Damani | Officer | Shares: 20986 | Value: $94,529.34 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/2009371/000195004725005861/0001950047-25-005861.txt
 2025-08-14 22:37:17 | Pritesh Damani | Officer | Shares: 20986 | Value: $94,529.34 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725005861/0001950047-25-005861.txt
+2025-08-15 01:48:11 | Andy L. Nemeth | CEO /Chairman | Shares: 50000 | Value: $5,415,500.0 | Percent: 0.150246% | Link: https://www.sec.gov/Archives/edgar/data/1209929/000007660525000185/0000076605-25-000185.txt
+2025-08-15 01:48:12 | Andy L. Nemeth | CEO /Chairman | Shares: 50000 | Value: $5,415,500.0 | Percent: 0.150246% | Link: https://www.sec.gov/Archives/edgar/data/76605/000007660525000185/0000076605-25-000185.txt
+2025-08-15 01:48:14 | MCINERNEY RYAN | Officer | Shares: 10485 | Value: $3,597,718.05 | Percent: 0.000617% | Link: https://www.sec.gov/Archives/edgar/data/1578261/000196535325000136/0001965353-25-000136.txt
+2025-08-15 01:48:15 | MCINERNEY RYAN | Officer | Shares: 10485 | Value: $3,597,718.05 | Percent: 0.000617% | Link: https://www.sec.gov/Archives/edgar/data/1403161/000196535325000136/0001965353-25-000136.txt
