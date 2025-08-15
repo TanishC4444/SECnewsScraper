@@ -1216,3 +1216,5 @@
 2025-08-15 10:21:24 | Carmi Yaniv | Officer | Shares: 52266 | Value: $487,641.78 | Percent: 0.079719% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000261/0001976408-25-000261.txt
 2025-08-15 10:42:45 | Niri Sagi | Officer | Shares: 73067 | Value: $681,715.11 | Percent: 0.111446% | Link: https://www.sec.gov/Archives/edgar/data/1980194/000197640825000262/0001976408-25-000262.txt
 2025-08-15 10:42:46 | Niri Sagi | Officer | Shares: 73067 | Value: $681,715.11 | Percent: 0.111446% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000262/0001976408-25-000262.txt
+2025-08-15 10:53:36 | Eisenberg Moshe | Officer | Shares: 8504 | Value: $749,457.52 | Percent: 0.018711% | Link: https://www.sec.gov/Archives/edgar/data/1972379/000197640825000263/0001976408-25-000263.txt
+2025-08-15 10:53:37 | Eisenberg Moshe | Officer | Shares: 8504 | Value: $749,457.52 | Percent: 0.018711% | Link: https://www.sec.gov/Archives/edgar/data/1109138/000197640825000263/0001976408-25-000263.txt
