@@ -1270,3 +1270,9 @@
 2025-08-15 19:13:44 | Schuppenhauer Eric | Officer | Shares: 23354 | Value: $533,606.2 | Percent: 0.001950% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325005236/0001959173-25-005236.txt
 2025-08-15 19:13:45 | DeSieno Alexis | Officer | Shares: 26048 | Value: $31,695.21 | Percent: 0.048928% | Link: https://www.sec.gov/Archives/edgar/data/1987391/000195917325005235/0001959173-25-005235.txt
 2025-08-15 19:13:46 | DeSieno Alexis | Officer | Shares: 26048 | Value: $31,695.21 | Percent: 0.048928% | Link: https://www.sec.gov/Archives/edgar/data/1666071/000195917325005235/0001959173-25-005235.txt
+2025-08-15 19:28:03 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $12,834.87 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1973524/000200731725000883/0002007317-25-000883.txt
+2025-08-15 19:28:04 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $12,834.87 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1761918/000200731725000883/0002007317-25-000883.txt
+2025-08-15 19:28:06 | Keys Randall D | Director | Shares: 173913 | Value: $212,173.0 | Percent: 0.511155% | Link: https://www.sec.gov/Archives/edgar/data/1050736/000195917325005238/0001959173-25-005238.txt
+2025-08-15 19:28:06 | Keys Randall D | Director | Shares: 173913 | Value: $212,173.0 | Percent: 0.511155% | Link: https://www.sec.gov/Archives/edgar/data/101594/000195917325005238/0001959173-25-005238.txt
+2025-08-15 19:28:08 | Pinto Arun | Officer | Shares: 24147 | Value: $551,725.14 | Percent: 0.002017% | Link: https://www.sec.gov/Archives/edgar/data/2012135/000195917325005237/0001959173-25-005237.txt
+2025-08-15 19:28:09 | Pinto Arun | Officer | Shares: 24147 | Value: $551,725.14 | Percent: 0.002017% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325005237/0001959173-25-005237.txt
