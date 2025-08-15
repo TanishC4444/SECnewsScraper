@@ -1284,3 +1284,11 @@
 2025-08-15 19:48:55 | Ben-Yair Ehud | Officer | Shares: 7311 | Value: $247,916.01 | Percent: 0.066826% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000264/0001976408-25-000264.txt
 2025-08-15 19:48:58 | Hamilton James C | Officer | Shares: 9389 | Value: $187,750.05 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/1830755/000200731725000884/0002007317-25-000884.txt
 2025-08-15 19:48:59 | Hamilton James C | Officer | Shares: 9389 | Value: $187,750.05 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/879407/000200731725000884/0002007317-25-000884.txt
+2025-08-15 19:58:04 | Wolk Joseph J | Officer | Shares: 16820 | Value: $2,975,571.23 | Percent: 0.000698% | Link: https://www.sec.gov/Archives/edgar/data/1744564/000195917325005244/0001959173-25-005244.txt
+2025-08-15 19:58:05 | Wolk Joseph J | Officer | Shares: 16820 | Value: $2,975,571.23 | Percent: 0.000698% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005244/0001959173-25-005244.txt
+2025-08-15 19:58:06 | HAHN KENNETH R | Officer | Shares: 25000 | Value: $298,019.7 | Percent: 0.015272% | Link: https://www.sec.gov/Archives/edgar/data/1651562/000195917325005243/0001959173-25-005243.txt
+2025-08-15 19:58:07 | HAHN KENNETH R | Officer | Shares: 25000 | Value: $298,019.7 | Percent: 0.015272% | Link: https://www.sec.gov/Archives/edgar/data/1202943/000195917325005243/0001959173-25-005243.txt
+2025-08-15 19:58:09 | Jones Nicole S | Officer | Shares: 28526 | Value: $8,557,800.0 | Percent: 0.010687% | Link: https://www.sec.gov/Archives/edgar/data/1739940/000195917325005242/0001959173-25-005242.txt
+2025-08-15 19:58:10 | Jones Nicole S | Officer | Shares: 28526 | Value: $8,557,800.0 | Percent: 0.010687% | Link: https://www.sec.gov/Archives/edgar/data/1492663/000195917325005242/0001959173-25-005242.txt
+2025-08-15 19:58:11 | Skeans Tracy L | Officer | Shares: 12220 | Value: $1,811,513.0 | Percent: 0.004378% | Link: https://www.sec.gov/Archives/edgar/data/1660119/000200731725000885/0002007317-25-000885.txt
+2025-08-15 19:58:12 | Skeans Tracy L | Officer | Shares: 12220 | Value: $1,811,513.0 | Percent: 0.004378% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000200731725000885/0002007317-25-000885.txt
