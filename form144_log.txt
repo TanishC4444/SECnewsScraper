@@ -1320,3 +1320,5 @@
 2025-08-15 21:40:46 | Goldsteen Mitchell B. | AFFILIATE | Shares: 30805 | Value: $68,679.75 | Percent: 0.087341% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000009/0000011790-25-000009.txt
 2025-08-15 21:49:58 | RATI SAHI LEVESQUE | Officer | Shares: 151119 | Value: $1,175,733.39 | Percent: 0.131137% | Link: https://www.sec.gov/Archives/edgar/data/1780551/000195004725005944/0001950047-25-005944.txt
 2025-08-15 21:49:59 | RATI SAHI LEVESQUE | Officer | Shares: 151119 | Value: $1,175,733.39 | Percent: 0.131137% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725005944/0001950047-25-005944.txt
+2025-08-15 21:59:12 | Sela Yossi | Director | Shares: 28692 | Value: $1,219,533.38 | Percent: 0.024577% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000195004725005946/0001950047-25-005946.txt
+2025-08-15 21:59:13 | Sela Yossi | Director | Shares: 28692 | Value: $1,219,533.38 | Percent: 0.024577% | Link: https://www.sec.gov/Archives/edgar/data/1402094/000195004725005946/0001950047-25-005946.txt
