@@ -1244,3 +1244,5 @@
 2025-08-15 15:46:56 | COGHLAN JOHN PHILIP | Director | Shares: 10000 | Value: $845,800.0 | Percent: 0.012895% | Link: https://www.sec.gov/Archives/edgar/data/1185999/000194984625000379/0001949846-25-000379.txt
 2025-08-15 15:46:58 | TOBIAS DAVID | Officer | Shares: 200000 | Value: $7,000.0 | Percent: 0.138982% | Link: https://www.sec.gov/Archives/edgar/data/1582097/000109690625001343/0001096906-25-001343.txt
 2025-08-15 15:46:58 | TOBIAS DAVID | Officer | Shares: 200000 | Value: $7,000.0 | Percent: 0.138982% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000109690625001343/0001096906-25-001343.txt
+2025-08-15 16:21:59 | Harmer Ryan | Officer | Shares: 18771 | Value: $106,994.7 | Percent: 0.034776% | Link: https://www.sec.gov/Archives/edgar/data/1850777/000195917325005228/0001959173-25-005228.txt
+2025-08-15 16:22:00 | Harmer Ryan | Officer | Shares: 18771 | Value: $106,994.7 | Percent: 0.034776% | Link: https://www.sec.gov/Archives/edgar/data/1828962/000195917325005228/0001959173-25-005228.txt
