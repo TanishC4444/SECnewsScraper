@@ -1266,3 +1266,7 @@
 2025-08-15 18:35:51 | Linnen Edward P | Officer | Shares: 10000 | Value: $1,569,183.26 | Percent: 0.028482% | Link: https://www.sec.gov/Archives/edgar/data/723612/000200731725000882/0002007317-25-000882.txt
 2025-08-15 18:55:44 | Mackin James P | Officer | Shares: 12500 | Value: $528,991.0 | Percent: 0.026492% | Link: https://www.sec.gov/Archives/edgar/data/1408470/000100027525000114/0001000275-25-000114.txt
 2025-08-15 18:55:44 | Mackin James P | Officer | Shares: 12500 | Value: $528,991.0 | Percent: 0.026492% | Link: https://www.sec.gov/Archives/edgar/data/784199/000100027525000114/0001000275-25-000114.txt
+2025-08-15 19:13:43 | Schuppenhauer Eric | Officer | Shares: 23354 | Value: $533,606.2 | Percent: 0.001950% | Link: https://www.sec.gov/Archives/edgar/data/2034857/000195917325005236/0001959173-25-005236.txt
+2025-08-15 19:13:44 | Schuppenhauer Eric | Officer | Shares: 23354 | Value: $533,606.2 | Percent: 0.001950% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325005236/0001959173-25-005236.txt
+2025-08-15 19:13:45 | DeSieno Alexis | Officer | Shares: 26048 | Value: $31,695.21 | Percent: 0.048928% | Link: https://www.sec.gov/Archives/edgar/data/1987391/000195917325005235/0001959173-25-005235.txt
+2025-08-15 19:13:46 | DeSieno Alexis | Officer | Shares: 26048 | Value: $31,695.21 | Percent: 0.048928% | Link: https://www.sec.gov/Archives/edgar/data/1666071/000195917325005235/0001959173-25-005235.txt

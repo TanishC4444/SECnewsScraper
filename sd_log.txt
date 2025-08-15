@@ -6,3 +6,4 @@
 2025-08-13 15:24:00 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1713930/000199937125011218/0001999371-25-011218.txt
 2025-08-13 20:34:37 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1997377/000110465925077552/0001104659-25-077552.txt
 2025-08-13 21:18:38 | SD | DRC Status: Unknown | Minerals: Tin, Tantalum, Tungsten, Gold | Link: https://www.sec.gov/Archives/edgar/data/920371/000092037125000116/0000920371-25-000116.txt
+2025-08-15 19:13:48 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1966983/000095012325008495/0000950123-25-008495.txt
