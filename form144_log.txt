@@ -1280,3 +1280,7 @@
 2025-08-15 19:39:21 | Henry R. Slack | Director | Shares: 32000 | Value: $1,040,960.0 | Percent: 0.418555% | Link: https://www.sec.gov/Archives/edgar/data/3545/000000354525000111/0000003545-25-000111.txt
 2025-08-15 19:39:23 | Murry Stefan J. | Officer | Shares: 12000 | Value: $268,200.0 | Percent: 0.019245% | Link: https://www.sec.gov/Archives/edgar/data/1587599/000197407825000256/0001974078-25-000256.txt
 2025-08-15 19:39:24 | Murry Stefan J. | Officer | Shares: 12000 | Value: $268,200.0 | Percent: 0.019245% | Link: https://www.sec.gov/Archives/edgar/data/1158114/000197407825000256/0001974078-25-000256.txt
+2025-08-15 19:48:54 | Ben-Yair Ehud | Officer | Shares: 7311 | Value: $247,916.01 | Percent: 0.066826% | Link: https://www.sec.gov/Archives/edgar/data/2036292/000197640825000264/0001976408-25-000264.txt
+2025-08-15 19:48:55 | Ben-Yair Ehud | Officer | Shares: 7311 | Value: $247,916.01 | Percent: 0.066826% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000264/0001976408-25-000264.txt
+2025-08-15 19:48:58 | Hamilton James C | Officer | Shares: 9389 | Value: $187,750.05 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/1830755/000200731725000884/0002007317-25-000884.txt
+2025-08-15 19:48:59 | Hamilton James C | Officer | Shares: 9389 | Value: $187,750.05 | Percent: 0.006791% | Link: https://www.sec.gov/Archives/edgar/data/879407/000200731725000884/0002007317-25-000884.txt
