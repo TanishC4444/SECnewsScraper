@@ -1256,3 +1256,5 @@
 2025-08-15 17:39:10 | Pitofsky David B | Officer | Shares: 43635 | Value: $1,297,142.99 | Percent: 0.011591% | Link: https://www.sec.gov/Archives/edgar/data/1564708/000195917325005233/0001959173-25-005233.txt
 2025-08-15 17:39:12 | Benson Molly R | Officer | Shares: 10879 | Value: $1,773,277.0 | Percent: 0.003578% | Link: https://www.sec.gov/Archives/edgar/data/2005019/000195917325005232/0001959173-25-005232.txt
 2025-08-15 17:39:13 | Benson Molly R | Officer | Shares: 10879 | Value: $1,773,277.0 | Percent: 0.003578% | Link: https://www.sec.gov/Archives/edgar/data/1510295/000195917325005232/0001959173-25-005232.txt
+2025-08-15 17:49:12 | Ballotti Geoffrey A | Officer | Shares: 26603 | Value: $2,354,787.08 | Percent: 0.034841% | Link: https://www.sec.gov/Archives/edgar/data/1722684/000200731725000881/0002007317-25-000881.txt
+2025-08-15 17:49:13 | Ballotti Geoffrey A | Officer | Shares: 26603 | Value: $2,354,787.08 | Percent: 0.034841% | Link: https://www.sec.gov/Archives/edgar/data/1397086/000200731725000881/0002007317-25-000881.txt
