@@ -1318,3 +1318,5 @@
 2025-08-15 21:40:42 | Peter Vanacker | Officer | Shares: 20000 | Value: $1,066,200.0 | Percent: 0.006218% | Link: https://www.sec.gov/Archives/edgar/data/1489393/000196858225000750/0001968582-25-000750.txt
 2025-08-15 21:40:45 | Goldsteen Mitchell B. | AFFILIATE | Shares: 30805 | Value: $68,679.75 | Percent: 0.087341% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000009/0000011790-25-000009.txt
 2025-08-15 21:40:46 | Goldsteen Mitchell B. | AFFILIATE | Shares: 30805 | Value: $68,679.75 | Percent: 0.087341% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000009/0000011790-25-000009.txt
+2025-08-15 21:49:58 | RATI SAHI LEVESQUE | Officer | Shares: 151119 | Value: $1,175,733.39 | Percent: 0.131137% | Link: https://www.sec.gov/Archives/edgar/data/1780551/000195004725005944/0001950047-25-005944.txt
+2025-08-15 21:49:59 | RATI SAHI LEVESQUE | Officer | Shares: 151119 | Value: $1,175,733.39 | Percent: 0.131137% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725005944/0001950047-25-005944.txt
