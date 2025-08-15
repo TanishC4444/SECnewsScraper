@@ -1298,3 +1298,11 @@
 2025-08-15 20:42:54 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $533,018.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000748/0001968582-25-000748.txt
 2025-08-15 20:42:55 | Nicholas Fink | Officer | Shares: 31314 | Value: $1,758,952.61 | Percent: 0.026087% | Link: https://www.sec.gov/Archives/edgar/data/1549543/000196922325000617/0001969223-25-000617.txt
 2025-08-15 20:42:57 | Nicholas Fink | Officer | Shares: 31314 | Value: $1,758,952.61 | Percent: 0.026087% | Link: https://www.sec.gov/Archives/edgar/data/1519751/000196922325000617/0001969223-25-000617.txt
+2025-08-15 20:53:21 | Thierry Bernard | Officer | Shares: 25000 | Value: $1,220,000.0 | Percent: 0.011530% | Link: https://www.sec.gov/Archives/edgar/data/1815490/000101582025000054/0001015820-25-000054.txt
+2025-08-15 20:53:21 | Thierry Bernard | Officer | Shares: 25000 | Value: $1,220,000.0 | Percent: 0.011530% | Link: https://www.sec.gov/Archives/edgar/data/1015820/000101582025000054/0001015820-25-000054.txt
+2025-08-15 20:53:23 | THE SRR FAMILY TRUST | Affiliate | Shares: 399497 | Value: $5,585,712.05 | Percent: 0.063112% | Link: https://www.sec.gov/Archives/edgar/data/2041610/000195004725005935/0001950047-25-005935.txt
+2025-08-15 20:53:24 | THE SRR FAMILY TRUST | Affiliate | Shares: 399497 | Value: $5,585,712.05 | Percent: 0.063112% | Link: https://www.sec.gov/Archives/edgar/data/2022489/000195004725005935/0001950047-25-005935.txt
+2025-08-15 20:53:25 | REDSTONE SHARI | Affiliate | Shares: 418069 | Value: $5,852,966.0 | Percent: 0.033608% | Link: https://www.sec.gov/Archives/edgar/data/2041610/000200731725000890/0002007317-25-000890.txt
+2025-08-15 20:53:26 | REDSTONE SHARI | Affiliate | Shares: 418069 | Value: $5,852,966.0 | Percent: 0.033608% | Link: https://www.sec.gov/Archives/edgar/data/1204569/000200731725000890/0002007317-25-000890.txt
+2025-08-15 20:53:27 | CHRISTOPHER D MCCARTHY | Affiliate | Shares: 187648 | Value: $2,642,496.67 | Percent: 0.029644% | Link: https://www.sec.gov/Archives/edgar/data/2041610/000195004725005933/0001950047-25-005933.txt
+2025-08-15 20:53:28 | CHRISTOPHER D MCCARTHY | Affiliate | Shares: 187648 | Value: $2,642,496.67 | Percent: 0.029644% | Link: https://www.sec.gov/Archives/edgar/data/1960465/000195004725005933/0001950047-25-005933.txt
