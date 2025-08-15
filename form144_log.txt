@@ -1230,3 +1230,5 @@
 2025-08-15 13:56:30 | Ellingson Alan Wayne | Officer | Shares: 5725 | Value: $249,209.25 | Percent: 0.001153% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195917325005215/0001959173-25-005215.txt
 2025-08-15 13:56:31 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,085,676.8 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/1382297/000195917325005214/0001959173-25-005214.txt
 2025-08-15 13:56:32 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,085,676.8 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/927653/000195917325005214/0001959173-25-005214.txt
+2025-08-15 14:53:16 | ALLEN WILLIAM T | Director | Shares: 12402 | Value: $138,282.3 | Percent: 0.007973% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005224/0001959173-25-005224.txt
+2025-08-15 14:53:18 | ALLEN WILLIAM T | Director | Shares: 12402 | Value: $138,282.3 | Percent: 0.007973% | Link: https://www.sec.gov/Archives/edgar/data/1264657/000195917325005224/0001959173-25-005224.txt
