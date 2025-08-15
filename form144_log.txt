@@ -1226,3 +1226,7 @@
 2025-08-15 12:53:54 | Medine GmbH | Officer | Shares: 1774837 | Value: $200,024,129.9 | Percent: 0.738289% | Link: https://www.sec.gov/Archives/edgar/data/1776985/000205629625000007/0002056296-25-000007.txt
 2025-08-15 12:53:55 | Tureci Ozlem | Officer | Shares: 185001 | Value: $20,849,612.7 | Percent: 0.076956% | Link: https://www.sec.gov/Archives/edgar/data/2044235/000204423525000001/0002044235-25-000001.txt
 2025-08-15 12:53:56 | Tureci Ozlem | Officer | Shares: 185001 | Value: $20,849,612.7 | Percent: 0.076956% | Link: https://www.sec.gov/Archives/edgar/data/1776985/000204423525000001/0002044235-25-000001.txt
+2025-08-15 13:56:29 | Ellingson Alan Wayne | Officer | Shares: 5725 | Value: $249,209.25 | Percent: 0.001153% | Link: https://www.sec.gov/Archives/edgar/data/2019299/000195917325005215/0001959173-25-005215.txt
+2025-08-15 13:56:30 | Ellingson Alan Wayne | Officer | Shares: 5725 | Value: $249,209.25 | Percent: 0.001153% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195917325005215/0001959173-25-005215.txt
+2025-08-15 13:56:31 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,085,676.8 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/1382297/000195917325005214/0001959173-25-005214.txt
+2025-08-15 13:56:32 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,085,676.8 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/927653/000195917325005214/0001959173-25-005214.txt
