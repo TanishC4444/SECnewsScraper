@@ -1240,3 +1240,7 @@
 2025-08-15 15:33:28 | Jayanathan Ranjan | Officer | Shares: 70000 | Value: $4,452,000.0 | Percent: 0.094547% | Link: https://www.sec.gov/Archives/edgar/data/790526/000196530125000124/0001965301-25-000124.txt
 2025-08-15 15:33:29 | Konidaris Tasos | Officer | Shares: 219159 | Value: $2,057,903.01 | Percent: 0.069778% | Link: https://www.sec.gov/Archives/edgar/data/1723128/000194984625000378/0001949846-25-000378.txt
 2025-08-15 15:33:30 | Konidaris Tasos | Officer | Shares: 219159 | Value: $2,057,903.01 | Percent: 0.069778% | Link: https://www.sec.gov/Archives/edgar/data/1320982/000194984625000378/0001949846-25-000378.txt
+2025-08-15 15:46:55 | COGHLAN JOHN PHILIP | Director | Shares: 10000 | Value: $845,800.0 | Percent: 0.012895% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000379/0001949846-25-000379.txt
+2025-08-15 15:46:56 | COGHLAN JOHN PHILIP | Director | Shares: 10000 | Value: $845,800.0 | Percent: 0.012895% | Link: https://www.sec.gov/Archives/edgar/data/1185999/000194984625000379/0001949846-25-000379.txt
+2025-08-15 15:46:58 | TOBIAS DAVID | Officer | Shares: 200000 | Value: $7,000.0 | Percent: 0.138982% | Link: https://www.sec.gov/Archives/edgar/data/1582097/000109690625001343/0001096906-25-001343.txt
+2025-08-15 15:46:58 | TOBIAS DAVID | Officer | Shares: 200000 | Value: $7,000.0 | Percent: 0.138982% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000109690625001343/0001096906-25-001343.txt
