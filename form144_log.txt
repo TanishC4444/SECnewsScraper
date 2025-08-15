@@ -1252,3 +1252,7 @@
 2025-08-15 16:45:29 | Kline David R | Former Officer | Shares: 22238 | Value: $663,330.21 | Percent: 0.005907% | Link: https://www.sec.gov/Archives/edgar/data/1564708/000195917325005230/0001959173-25-005230.txt
 2025-08-15 17:22:08 | Gibbs David W | Officer | Shares: 7106 | Value: $1,043,445.0 | Percent: 0.002546% | Link: https://www.sec.gov/Archives/edgar/data/1628590/000200731725000879/0002007317-25-000879.txt
 2025-08-15 17:22:09 | Gibbs David W | Officer | Shares: 7106 | Value: $1,043,445.0 | Percent: 0.002546% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000200731725000879/0002007317-25-000879.txt
+2025-08-15 17:39:09 | Pitofsky David B | Officer | Shares: 43635 | Value: $1,297,142.99 | Percent: 0.011591% | Link: https://www.sec.gov/Archives/edgar/data/1632944/000195917325005233/0001959173-25-005233.txt
+2025-08-15 17:39:10 | Pitofsky David B | Officer | Shares: 43635 | Value: $1,297,142.99 | Percent: 0.011591% | Link: https://www.sec.gov/Archives/edgar/data/1564708/000195917325005233/0001959173-25-005233.txt
+2025-08-15 17:39:12 | Benson Molly R | Officer | Shares: 10879 | Value: $1,773,277.0 | Percent: 0.003578% | Link: https://www.sec.gov/Archives/edgar/data/2005019/000195917325005232/0001959173-25-005232.txt
+2025-08-15 17:39:13 | Benson Molly R | Officer | Shares: 10879 | Value: $1,773,277.0 | Percent: 0.003578% | Link: https://www.sec.gov/Archives/edgar/data/1510295/000195917325005232/0001959173-25-005232.txt
