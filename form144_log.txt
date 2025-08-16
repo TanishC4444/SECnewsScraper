@@ -1336,3 +1336,13 @@
 2025-08-15 23:10:12 | Melanie Antoon | Officer | Shares: 6700 | Value: $33,500.0 | Percent: 0.010852% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000137/0001625641-25-000137.txt
 2025-08-15 23:10:13 | Michael Lafair | Officer | Shares: 14400 | Value: $72,000.0 | Percent: 0.023323% | Link: https://www.sec.gov/Archives/edgar/data/1870164/000162564125000135/0001625641-25-000135.txt
 2025-08-15 23:10:14 | Michael Lafair | Officer | Shares: 14400 | Value: $72,000.0 | Percent: 0.023323% | Link: https://www.sec.gov/Archives/edgar/data/1625641/000162564125000135/0001625641-25-000135.txt
+2025-08-16 00:50:51 | Breen Ryan | Spouse of Sec/Treas | Shares: 277683 | Value: $27,768.0 | Percent: 0.224876% | Link: https://www.sec.gov/Archives/edgar/data/1785839/000109690625001349/0001096906-25-001349.txt
+2025-08-16 00:50:52 | Breen Ryan | Spouse of Sec/Treas | Shares: 277683 | Value: $27,768.0 | Percent: 0.224876% | Link: https://www.sec.gov/Archives/edgar/data/1393772/000109690625001349/0001096906-25-001349.txt
+2025-08-16 00:50:53 | Adam Lee Soroca | Officer | Shares: 10388 | Value: $246,195.6 | Percent: 0.007295% | Link: https://www.sec.gov/Archives/edgar/data/1725125/000141588925022144/0001415889-25-022144.txt
+2025-08-16 00:50:54 | Adam Lee Soroca | Officer | Shares: 10388 | Value: $246,195.6 | Percent: 0.007295% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022144/0001415889-25-022144.txt
+2025-08-16 00:50:54 | Katie Seitz Evans | Officer | Shares: 11391 | Value: $269,966.7 | Percent: 0.007999% | Link: https://www.sec.gov/Archives/edgar/data/1700262/000141588925022142/0001415889-25-022142.txt
+2025-08-16 00:50:55 | Katie Seitz Evans | Officer | Shares: 11391 | Value: $269,966.7 | Percent: 0.007999% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022142/0001415889-25-022142.txt
+2025-08-16 00:50:57 | Aaron Saltz | Officer | Shares: 6265 | Value: $148,480.5 | Percent: 0.004400% | Link: https://www.sec.gov/Archives/edgar/data/1807986/000141588925022140/0001415889-25-022140.txt
+2025-08-16 00:50:58 | Aaron Saltz | Officer | Shares: 6265 | Value: $148,480.5 | Percent: 0.004400% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022140/0001415889-25-022140.txt
+2025-08-16 00:50:58 | David Buonasera | Officer | Shares: 8510 | Value: $201,687.0 | Percent: 0.005976% | Link: https://www.sec.gov/Archives/edgar/data/1966857/000141588925022138/0001415889-25-022138.txt
+2025-08-16 00:50:59 | David Buonasera | Officer | Shares: 8510 | Value: $201,687.0 | Percent: 0.005976% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022138/0001415889-25-022138.txt
