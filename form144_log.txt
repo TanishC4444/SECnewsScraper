@@ -1346,3 +1346,7 @@
 2025-08-16 00:50:58 | Aaron Saltz | Officer | Shares: 6265 | Value: $148,480.5 | Percent: 0.004400% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022140/0001415889-25-022140.txt
 2025-08-16 00:50:58 | David Buonasera | Officer | Shares: 8510 | Value: $201,687.0 | Percent: 0.005976% | Link: https://www.sec.gov/Archives/edgar/data/1966857/000141588925022138/0001415889-25-022138.txt
 2025-08-16 00:50:59 | David Buonasera | Officer | Shares: 8510 | Value: $201,687.0 | Percent: 0.005976% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000141588925022138/0001415889-25-022138.txt
+2025-08-16 02:27:46 | Casdin Partners Master Fund, L.P. | 10% Shareholder | Shares: 500000 | Value: $12,660,000.0 | Percent: 1.043727% | Link: https://www.sec.gov/Archives/edgar/data/1534265/000091957425004980/0000919574-25-004980.txt
+2025-08-16 02:27:47 | Casdin Partners Master Fund, L.P. | 10% Shareholder | Shares: 500000 | Value: $12,660,000.0 | Percent: 1.043727% | Link: https://www.sec.gov/Archives/edgar/data/834365/000091957425004980/0000919574-25-004980.txt
+2025-08-16 02:27:49 | Abingworth Bioventures VII LP | Shareholder | Shares: 1347522 | Value: $110,696,581.49 | Percent: 2.535557% | Link: https://www.sec.gov/Archives/edgar/data/1688313/000164117225024511/0001641172-25-024511.txt
+2025-08-16 02:27:51 | Abingworth Bioventures VII LP | Shareholder | Shares: 1347522 | Value: $110,696,581.49 | Percent: 2.535557% | Link: https://www.sec.gov/Archives/edgar/data/1484565/000164117225024511/0001641172-25-024511.txt
