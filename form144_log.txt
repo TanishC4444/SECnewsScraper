@@ -1432,3 +1432,11 @@
 2025-08-18 20:37:03 | LI SUSAN J | Officer | Shares: 18332 | Value: $14,018,623.0 | Percent: 0.000845% | Link: https://www.sec.gov/Archives/edgar/data/1326801/000192109425000972/0001921094-25-000972.txt
 2025-08-18 20:37:06 | ELIZABETH CODDINGTON | Officer | Shares: 118681 | Value: $1,011,162.12 | Percent: 0.030281% | Link: https://www.sec.gov/Archives/edgar/data/1932433/000195004725005991/0001950047-25-005991.txt
 2025-08-18 20:37:07 | ELIZABETH CODDINGTON | Officer | Shares: 118681 | Value: $1,011,162.12 | Percent: 0.030281% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725005991/0001950047-25-005991.txt
+2025-08-18 20:48:03 | Keeney Scott H | Officer | Shares: 18064 | Value: $482,083.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005315/0001959173-25-005315.txt
+2025-08-18 20:48:04 | Keeney Scott H | Officer | Shares: 18064 | Value: $482,083.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005315/0001959173-25-005315.txt
+2025-08-18 20:48:04 | Klimek Amy M. | Officer | Shares: 38676 | Value: $1,098,725.0 | Percent: 0.047599% | Link: https://www.sec.gov/Archives/edgar/data/1674931/000200731725000895/0002007317-25-000895.txt
+2025-08-18 20:48:05 | Klimek Amy M. | Officer | Shares: 38676 | Value: $1,098,725.0 | Percent: 0.047599% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000895/0002007317-25-000895.txt
+2025-08-18 20:48:06 | ROBERT WARREN OHARE | Officer | Shares: 11405 | Value: $897,801.6 | Percent: 0.004047% | Link: https://www.sec.gov/Archives/edgar/data/1820953/000195004725006006/0001950047-25-006006.txt
+2025-08-18 20:48:07 | ROBERT WARREN OHARE | Officer | Shares: 11405 | Value: $897,801.6 | Percent: 0.004047% | Link: https://www.sec.gov/Archives/edgar/data/1633877/000195004725006006/0001950047-25-006006.txt
+2025-08-18 20:48:09 | ELIZABETH F CODDINGTON | Officer | Shares: 67139 | Value: $563,611.76 | Percent: 0.017131% | Link: https://www.sec.gov/Archives/edgar/data/1932433/000195004725006005/0001950047-25-006005.txt
+2025-08-18 20:48:10 | ELIZABETH F CODDINGTON | Officer | Shares: 67139 | Value: $563,611.76 | Percent: 0.017131% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725006005/0001950047-25-006005.txt
