@@ -1416,3 +1416,11 @@
 2025-08-18 19:55:55 | Francisco Ma. Fatima | Officer | Shares: 10686 | Value: $1,655,314.83 | Percent: 0.000456% | Link: https://www.sec.gov/Archives/edgar/data/80424/000008042425000116/0000080424-25-000116.txt
 2025-08-18 19:55:56 | Moeller Jon R | Officer | Shares: 47232 | Value: $7,316,472.96 | Percent: 0.002016% | Link: https://www.sec.gov/Archives/edgar/data/1450613/000008042425000114/0000080424-25-000114.txt
 2025-08-18 19:55:56 | Moeller Jon R | Officer | Shares: 47232 | Value: $7,316,472.96 | Percent: 0.002016% | Link: https://www.sec.gov/Archives/edgar/data/80424/000008042425000114/0000080424-25-000114.txt
+2025-08-18 20:19:04 | JOSEPH R HANLEY | Officer | Shares: 68759 | Value: $2,623,676.18 | Percent: 0.063666% | Link: https://www.sec.gov/Archives/edgar/data/1298040/000195004725005968/0001950047-25-005968.txt
+2025-08-18 20:19:05 | JOSEPH R HANLEY | Officer | Shares: 68759 | Value: $2,623,676.18 | Percent: 0.063666% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725005968/0001950047-25-005968.txt
+2025-08-18 20:19:08 | MATTHEW LEONARD | Director | Shares: 6937 | Value: $611,644.31 | Percent: 0.031984% | Link: https://www.sec.gov/Archives/edgar/data/1773152/000195004725005967/0001950047-25-005967.txt
+2025-08-18 20:19:09 | MATTHEW LEONARD | Director | Shares: 6937 | Value: $611,644.31 | Percent: 0.031984% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725005967/0001950047-25-005967.txt
+2025-08-18 20:19:10 | AMPERSAND 2020 LIMITED PARTNERSHIP | Director | Shares: 29580 | Value: $2,612,419.82 | Percent: 0.136384% | Link: https://www.sec.gov/Archives/edgar/data/1806621/000195004725005966/0001950047-25-005966.txt
+2025-08-18 20:19:11 | AMPERSAND 2020 LIMITED PARTNERSHIP | Director | Shares: 29580 | Value: $2,612,419.82 | Percent: 0.136384% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725005966/0001950047-25-005966.txt
+2025-08-18 20:19:13 | RICHARD S PRESS | Board Member | Shares: 15000 | Value: $1,038,450.0 | Percent: 0.034148% | Link: https://www.sec.gov/Archives/edgar/data/1373670/000196858225000755/0001968582-25-000755.txt
+2025-08-18 20:19:14 | RICHARD S PRESS | Board Member | Shares: 15000 | Value: $1,038,450.0 | Percent: 0.034148% | Link: https://www.sec.gov/Archives/edgar/data/1371746/000196858225000755/0001968582-25-000755.txt
