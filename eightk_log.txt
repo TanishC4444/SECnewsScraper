@@ -1973,3 +1973,7 @@
 2025-08-18 10:15:24 | 8-K - HF Sinclair Corp (0001915657) (Filer) | 2025-08-15T21:29:36-04:00 | https://www.sec.gov/Archives/edgar/data/1915657/000119312525182039/0001193125-25-182039.txt
 2025-08-18 10:15:25 | 8-K - Kaival Brands Innovations Group, Inc. (0001762239) (Filer) | 2025-08-15T21:20:57-04:00 | https://www.sec.gov/Archives/edgar/data/1762239/000173112225001143/0001731122-25-001143.txt
 2025-08-18 10:15:27 | 8-K - Hubilu Venture Corp (0001639068) (Filer) | 2025-08-15T21:16:44-04:00 | https://www.sec.gov/Archives/edgar/data/1639068/000164117225024513/0001641172-25-024513.txt
+2025-08-18 10:43:04 | 8-K/A - ETHZilla Corp (0001690080) (Filer) | 2025-08-18T06:33:10-04:00 | https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692.txt
+2025-08-18 10:43:08 | 8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer) | 2025-08-18T06:30:39-04:00 | https://www.sec.gov/Archives/edgar/data/1582554/000164117225024520/0001641172-25-024520.txt
+2025-08-18 10:43:10 | 8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer) | 2025-08-18T06:22:45-04:00 | https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688.txt
+2025-08-18 10:43:11 | 8-K - PMGC Holdings Inc. (0001840563) (Filer) | 2025-08-18T06:20:56-04:00 | https://www.sec.gov/Archives/edgar/data/1840563/000121390025077686/0001213900-25-077686.txt

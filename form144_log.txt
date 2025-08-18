@@ -1354,3 +1354,7 @@
 2025-08-18 10:15:30 | YUAN QIANG | Affiliate | Shares: 100000 | Value: $265,000.0 | Percent: 0.611995% | Link: https://www.sec.gov/Archives/edgar/data/1517496/000173839625000022/0001738396-25-000022.txt
 2025-08-18 10:15:31 | Trachtman Cohen Sharon | Officer | Shares: 5583 | Value: $137,788.44 | Percent: 0.013120% | Link: https://www.sec.gov/Archives/edgar/data/1969937/000197640825000265/0001976408-25-000265.txt
 2025-08-18 10:15:32 | Trachtman Cohen Sharon | Officer | Shares: 5583 | Value: $137,788.44 | Percent: 0.013120% | Link: https://www.sec.gov/Archives/edgar/data/1094366/000197640825000265/0001976408-25-000265.txt
+2025-08-18 10:43:12 | YANG XIANFENG | Affiliate | Shares: 218850 | Value: $579,952.0 | Percent: 1.339351% | Link: https://www.sec.gov/Archives/edgar/data/1985439/000173839625000024/0001738396-25-000024.txt
+2025-08-18 10:43:13 | YANG XIANFENG | Affiliate | Shares: 218850 | Value: $579,952.0 | Percent: 1.339351% | Link: https://www.sec.gov/Archives/edgar/data/1517496/000173839625000024/0001738396-25-000024.txt
+2025-08-18 10:43:14 | Law Man San Vincent | Affiliate | Shares: 438786 | Value: $1,162,783.0 | Percent: 2.685349% | Link: https://www.sec.gov/Archives/edgar/data/1984002/000173839625000023/0001738396-25-000023.txt
+2025-08-18 10:43:15 | Law Man San Vincent | Affiliate | Shares: 438786 | Value: $1,162,783.0 | Percent: 2.685349% | Link: https://www.sec.gov/Archives/edgar/data/1517496/000173839625000023/0001738396-25-000023.txt
