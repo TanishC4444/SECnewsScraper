@@ -1360,3 +1360,9 @@
 2025-08-18 10:43:15 | Law Man San Vincent | Affiliate | Shares: 438786 | Value: $1,162,783.0 | Percent: 2.685349% | Link: https://www.sec.gov/Archives/edgar/data/1517496/000173839625000023/0001738396-25-000023.txt
 2025-08-18 12:32:19 | Bernhard Leslie | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1981535/000197309725000015/0001973097-25-000015.txt
 2025-08-18 12:32:20 | Bernhard Leslie | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1333581/000197309725000015/0001973097-25-000015.txt
+2025-08-18 13:21:07 | MCKENZIE OBIE | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1981535/000197309725000017/0001973097-25-000017.txt
+2025-08-18 13:21:08 | MCKENZIE OBIE | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1953904/000197309725000017/0001973097-25-000017.txt
+2025-08-18 13:21:10 | Fuller Mark C | 10% Stockholder | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1944544/000196530125000125/0001965301-25-000125.txt
+2025-08-18 13:21:11 | Fuller Mark C | 10% Stockholder | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1877939/000196530125000125/0001965301-25-000125.txt
+2025-08-18 13:21:12 | GUTKOWSKI ROBERT M | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1981535/000197309725000016/0001973097-25-000016.txt
+2025-08-18 13:21:12 | GUTKOWSKI ROBERT M | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1032469/000197309725000016/0001973097-25-000016.txt
