@@ -1424,3 +1424,11 @@
 2025-08-18 20:19:11 | AMPERSAND 2020 LIMITED PARTNERSHIP | Director | Shares: 29580 | Value: $2,612,419.82 | Percent: 0.136384% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725005966/0001950047-25-005966.txt
 2025-08-18 20:19:13 | RICHARD S PRESS | Board Member | Shares: 15000 | Value: $1,038,450.0 | Percent: 0.034148% | Link: https://www.sec.gov/Archives/edgar/data/1373670/000196858225000755/0001968582-25-000755.txt
 2025-08-18 20:19:14 | RICHARD S PRESS | Board Member | Shares: 15000 | Value: $1,038,450.0 | Percent: 0.034148% | Link: https://www.sec.gov/Archives/edgar/data/1371746/000196858225000755/0001968582-25-000755.txt
+2025-08-18 20:36:59 | ASHRAF ALKARMI | Officer | Shares: 10098 | Value: $280,926.36 | Percent: 0.005221% | Link: https://www.sec.gov/Archives/edgar/data/2060166/000195004725005994/0001950047-25-005994.txt
+2025-08-18 20:36:59 | ASHRAF ALKARMI | Officer | Shares: 10098 | Value: $280,926.36 | Percent: 0.005221% | Link: https://www.sec.gov/Archives/edgar/data/1467623/000195004725005994/0001950047-25-005994.txt
+2025-08-18 20:37:00 | ALI DASDAN | Officer | Shares: 5666 | Value: $157,628.12 | Percent: 0.002929% | Link: https://www.sec.gov/Archives/edgar/data/1963980/000195004725005992/0001950047-25-005992.txt
+2025-08-18 20:37:01 | ALI DASDAN | Officer | Shares: 5666 | Value: $157,628.12 | Percent: 0.002929% | Link: https://www.sec.gov/Archives/edgar/data/1467623/000195004725005992/0001950047-25-005992.txt
+2025-08-18 20:37:02 | LI SUSAN J | Officer | Shares: 18332 | Value: $14,018,623.0 | Percent: 0.000845% | Link: https://www.sec.gov/Archives/edgar/data/1739092/000192109425000972/0001921094-25-000972.txt
+2025-08-18 20:37:03 | LI SUSAN J | Officer | Shares: 18332 | Value: $14,018,623.0 | Percent: 0.000845% | Link: https://www.sec.gov/Archives/edgar/data/1326801/000192109425000972/0001921094-25-000972.txt
+2025-08-18 20:37:06 | ELIZABETH CODDINGTON | Officer | Shares: 118681 | Value: $1,011,162.12 | Percent: 0.030281% | Link: https://www.sec.gov/Archives/edgar/data/1932433/000195004725005991/0001950047-25-005991.txt
+2025-08-18 20:37:07 | ELIZABETH CODDINGTON | Officer | Shares: 118681 | Value: $1,011,162.12 | Percent: 0.030281% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725005991/0001950047-25-005991.txt
