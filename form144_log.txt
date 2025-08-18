@@ -1380,3 +1380,7 @@
 2025-08-18 14:53:37 | Hohenstein Ken | Officer | Shares: 20000 | Value: $431,200.0 | Percent: 0.022692% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325005264/0001959173-25-005264.txt
 2025-08-18 14:53:39 | Ferguson Toby | Officer | Shares: 19000 | Value: $70,680.0 | Percent: 0.034253% | Link: https://www.sec.gov/Archives/edgar/data/2015616/000195917325005261/0001959173-25-005261.txt
 2025-08-18 14:53:41 | Ferguson Toby | Officer | Shares: 19000 | Value: $70,680.0 | Percent: 0.034253% | Link: https://www.sec.gov/Archives/edgar/data/1640266/000195917325005261/0001959173-25-005261.txt
+2025-08-18 15:13:51 | Keith A Bentley 2007 Gift Trust FBO David Bentley | 10% Stockholder | Shares: 25000 | Value: $1,347,000.0 | Percent: 0.008559% | Link: https://www.sec.gov/Archives/edgar/data/1977108/000194984625000381/0001949846-25-000381.txt
+2025-08-18 15:13:52 | Keith A Bentley 2007 Gift Trust FBO David Bentley | 10% Stockholder | Shares: 25000 | Value: $1,347,000.0 | Percent: 0.008559% | Link: https://www.sec.gov/Archives/edgar/data/1031308/000194984625000381/0001949846-25-000381.txt
+2025-08-18 15:13:53 | Kelly Patrick Arthur | Officer | Shares: 24000 | Value: $1,391,976.0 | Percent: 0.006102% | Link: https://www.sec.gov/Archives/edgar/data/1887616/000195917325005266/0001959173-25-005266.txt
+2025-08-18 15:13:54 | Kelly Patrick Arthur | Officer | Shares: 24000 | Value: $1,391,976.0 | Percent: 0.006102% | Link: https://www.sec.gov/Archives/edgar/data/1819989/000195917325005266/0001959173-25-005266.txt
