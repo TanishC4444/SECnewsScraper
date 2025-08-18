@@ -1398,3 +1398,5 @@
 2025-08-18 17:18:18 | Thiel Frederick G | Officer | Shares: 27505 | Value: $420,276.4 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325005278/0001959173-25-005278.txt
 2025-08-18 17:40:06 | QUERY KENNETH REX | Officer | Shares: 10000 | Value: $1,454,100.0 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/1181114/000200731725000891/0002007317-25-000891.txt
 2025-08-18 17:40:06 | QUERY KENNETH REX | Officer | Shares: 10000 | Value: $1,454,100.0 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/73309/000200731725000891/0002007317-25-000891.txt
+2025-08-18 17:52:04 | Wozniak Beth | Officer | Shares: 42331 | Value: $3,727,244.55 | Percent: 0.026301% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325005279/0001959173-25-005279.txt
+2025-08-18 17:52:06 | Wozniak Beth | Officer | Shares: 42331 | Value: $3,727,244.55 | Percent: 0.026301% | Link: https://www.sec.gov/Archives/edgar/data/1654174/000195917325005279/0001959173-25-005279.txt
