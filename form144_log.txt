@@ -1404,3 +1404,5 @@
 2025-08-18 18:13:28 | Parsley E William III | Officer | Shares: 15795 | Value: $3,031,060.5 | Percent: 0.004011% | Link: https://www.sec.gov/Archives/edgar/data/713676/000195917325005281/0001959173-25-005281.txt
 2025-08-18 18:47:20 | Leonsis Theodore | Director | Shares: 44000 | Value: $3,075,786.12 | Percent: 0.026084% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000196624925000030/0001966249-25-000030.txt
 2025-08-18 18:47:21 | Leonsis Theodore | Director | Shares: 44000 | Value: $3,075,786.12 | Percent: 0.026084% | Link: https://www.sec.gov/Archives/edgar/data/1452645/000196624925000030/0001966249-25-000030.txt
+2025-08-18 19:01:26 | Keith Smith | Officer | Shares: 100000 | Value: $8,300,000.0 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/1186757/000196922325000624/0001969223-25-000624.txt
+2025-08-18 19:01:27 | Keith Smith | Officer | Shares: 100000 | Value: $8,300,000.0 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/906553/000196922325000624/0001969223-25-000624.txt
