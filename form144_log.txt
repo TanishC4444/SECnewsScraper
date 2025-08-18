@@ -1476,3 +1476,5 @@
 2025-08-18 22:31:57 | RATI SAHI LEVESQUE | Officer | Shares: 199421 | Value: $1,579,374.44 | Percent: 0.173053% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725006017/0001950047-25-006017.txt
 2025-08-18 22:31:59 | Youssef Lahrech | Former Officer | Shares: 25000 | Value: $327,500.0 | Percent: 0.000663% | Link: https://www.sec.gov/Archives/edgar/data/1968308/000196858225000759/0001968582-25-000759.txt
 2025-08-18 22:32:00 | Youssef Lahrech | Former Officer | Shares: 25000 | Value: $327,500.0 | Percent: 0.000663% | Link: https://www.sec.gov/Archives/edgar/data/1691493/000196858225000759/0001968582-25-000759.txt
+2025-08-18 22:44:59 | Duke William E. | Officer | Shares: 39601 | Value: $28,001.87 | Percent: 0.032962% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000368/0001123292-25-000368.txt
+2025-08-18 22:45:01 | Duke William E. | Officer | Shares: 39601 | Value: $28,001.87 | Percent: 0.032962% | Link: https://www.sec.gov/Archives/edgar/data/1636135/000112329225000368/0001123292-25-000368.txt
