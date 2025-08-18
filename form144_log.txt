@@ -1392,3 +1392,5 @@
 2025-08-18 15:51:57 | Needham Daniel R. | Officer | Shares: 7200 | Value: $1,051,200.0 | Percent: 0.003137% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325005274/0001959173-25-005274.txt
 2025-08-18 15:51:58 | Read Brian | Officer | Shares: 10195 | Value: $100,114.9 | Percent: 0.017026% | Link: https://www.sec.gov/Archives/edgar/data/2021854/000197407825000258/0001974078-25-000258.txt
 2025-08-18 15:51:58 | Read Brian | Officer | Shares: 10195 | Value: $100,114.9 | Percent: 0.017026% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000258/0001974078-25-000258.txt
+2025-08-18 16:36:46 | Dudum Andrew | Officer | Shares: 47534 | Value: $2,141,494.49 | Percent: 0.021840% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325005276/0001959173-25-005276.txt
+2025-08-18 16:36:46 | Dudum Andrew | Officer | Shares: 47534 | Value: $2,141,494.49 | Percent: 0.021840% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325005276/0001959173-25-005276.txt

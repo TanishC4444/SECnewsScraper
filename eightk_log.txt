@@ -2014,3 +2014,5 @@
 2025-08-18 14:37:48 | 8-K - Conifer Holdings, Inc. (0001502292) (Filer) | 2025-08-18T10:29:00-04:00 | https://www.sec.gov/Archives/edgar/data/1502292/000119312525182372/0001193125-25-182372.txt
 2025-08-18 15:37:54 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-18T11:19:09-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000177/0001325878-25-000177.txt
 2025-08-18 15:51:52 | 8-K - Zoetis Inc. (0001555280) (Filer) | 2025-08-18T11:43:10-04:00 | https://www.sec.gov/Archives/edgar/data/1555280/000119312525182451/0001193125-25-182451.txt
+2025-08-18 16:36:43 | 8-K - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer) | 2025-08-18T12:20:22-04:00 | https://www.sec.gov/Archives/edgar/data/1979414/000182912625006425/0001829126-25-006425.txt
+2025-08-18 16:36:44 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-08-18T12:02:27-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000022/0002035428-25-000022.txt
