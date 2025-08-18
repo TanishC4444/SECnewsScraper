@@ -2013,3 +2013,4 @@
 2025-08-18 13:51:11 | 8-K - PharmaCyte Biotech, Inc. (0001157075) (Filer) | 2025-08-18T09:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1157075/000168316825006274/0001683168-25-006274.txt
 2025-08-18 14:37:48 | 8-K - Conifer Holdings, Inc. (0001502292) (Filer) | 2025-08-18T10:29:00-04:00 | https://www.sec.gov/Archives/edgar/data/1502292/000119312525182372/0001193125-25-182372.txt
 2025-08-18 15:37:54 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-18T11:19:09-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000177/0001325878-25-000177.txt
+2025-08-18 15:51:52 | 8-K - Zoetis Inc. (0001555280) (Filer) | 2025-08-18T11:43:10-04:00 | https://www.sec.gov/Archives/edgar/data/1555280/000119312525182451/0001193125-25-182451.txt
