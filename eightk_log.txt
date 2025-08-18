@@ -2011,3 +2011,4 @@
 2025-08-18 13:51:07 | 8-K - Genprex, Inc. (0001595248) (Filer) | 2025-08-18T09:29:35-04:00 | https://www.sec.gov/Archives/edgar/data/1595248/000143774925027191/0001437749-25-027191.txt
 2025-08-18 13:51:09 | 8-K - NXP Semiconductors N.V. (0001413447) (Filer) | 2025-08-18T09:23:20-04:00 | https://www.sec.gov/Archives/edgar/data/1413447/000119312525182325/0001193125-25-182325.txt
 2025-08-18 13:51:11 | 8-K - PharmaCyte Biotech, Inc. (0001157075) (Filer) | 2025-08-18T09:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1157075/000168316825006274/0001683168-25-006274.txt
+2025-08-18 14:37:48 | 8-K - Conifer Holdings, Inc. (0001502292) (Filer) | 2025-08-18T10:29:00-04:00 | https://www.sec.gov/Archives/edgar/data/1502292/000119312525182372/0001193125-25-182372.txt

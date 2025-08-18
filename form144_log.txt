@@ -1368,3 +1368,11 @@
 2025-08-18 13:21:12 | GUTKOWSKI ROBERT M | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1032469/000197309725000016/0001973097-25-000016.txt
 2025-08-18 13:51:11 | WRIGHT JAY O | Officer | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1877939/000196530125000126/0001965301-25-000126.txt
 2025-08-18 13:51:12 | WRIGHT JAY O | Officer | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1310272/000196530125000126/0001965301-25-000126.txt
+2025-08-18 14:37:51 | SIEVERT G MICHAEL | Officer | Shares: 22500 | Value: $5,751,225.0 | Percent: 0.001999% | Link: https://www.sec.gov/Archives/edgar/data/1283699/000195917325005260/0001959173-25-005260.txt
+2025-08-18 14:37:52 | SIEVERT G MICHAEL | Officer | Shares: 22500 | Value: $5,751,225.0 | Percent: 0.001999% | Link: https://www.sec.gov/Archives/edgar/data/1182438/000195917325005260/0001959173-25-005260.txt
+2025-08-18 14:37:54 | PAN TSAI-CHUN | Officer | Shares: 400960 | Value: $10,358,602.66 | Percent: 0.025887% | Link: https://www.sec.gov/Archives/edgar/data/1990993/000199099325000005/0001990993-25-000005.txt
+2025-08-18 14:37:55 | PAN TSAI-CHUN | Officer | Shares: 400960 | Value: $10,358,602.66 | Percent: 0.025887% | Link: https://www.sec.gov/Archives/edgar/data/1744676/000199099325000005/0001990993-25-000005.txt
+2025-08-18 14:37:58 | Dudum Andrew | Officer | Shares: 128127 | Value: $5,793,902.94 | Percent: 0.058871% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325005259/0001959173-25-005259.txt
+2025-08-18 14:37:59 | Dudum Andrew | Officer | Shares: 128127 | Value: $5,793,902.94 | Percent: 0.058871% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325005259/0001959173-25-005259.txt
+2025-08-18 14:38:01 | Galvin Carmel | Officer | Shares: 11155 | Value: $351,717.15 | Percent: 0.009543% | Link: https://www.sec.gov/Archives/edgar/data/1835830/000195917325005258/0001959173-25-005258.txt
+2025-08-18 14:38:02 | Galvin Carmel | Officer | Shares: 11155 | Value: $351,717.15 | Percent: 0.009543% | Link: https://www.sec.gov/Archives/edgar/data/1733091/000195917325005258/0001959173-25-005258.txt
