@@ -1376,3 +1376,7 @@
 2025-08-18 14:37:59 | Dudum Andrew | Officer | Shares: 128127 | Value: $5,793,902.94 | Percent: 0.058871% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325005259/0001959173-25-005259.txt
 2025-08-18 14:38:01 | Galvin Carmel | Officer | Shares: 11155 | Value: $351,717.15 | Percent: 0.009543% | Link: https://www.sec.gov/Archives/edgar/data/1835830/000195917325005258/0001959173-25-005258.txt
 2025-08-18 14:38:02 | Galvin Carmel | Officer | Shares: 11155 | Value: $351,717.15 | Percent: 0.009543% | Link: https://www.sec.gov/Archives/edgar/data/1733091/000195917325005258/0001959173-25-005258.txt
+2025-08-18 14:53:36 | Hohenstein Ken | Officer | Shares: 20000 | Value: $431,200.0 | Percent: 0.022692% | Link: https://www.sec.gov/Archives/edgar/data/2031265/000195917325005264/0001959173-25-005264.txt
+2025-08-18 14:53:37 | Hohenstein Ken | Officer | Shares: 20000 | Value: $431,200.0 | Percent: 0.022692% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325005264/0001959173-25-005264.txt
+2025-08-18 14:53:39 | Ferguson Toby | Officer | Shares: 19000 | Value: $70,680.0 | Percent: 0.034253% | Link: https://www.sec.gov/Archives/edgar/data/2015616/000195917325005261/0001959173-25-005261.txt
+2025-08-18 14:53:41 | Ferguson Toby | Officer | Shares: 19000 | Value: $70,680.0 | Percent: 0.034253% | Link: https://www.sec.gov/Archives/edgar/data/1640266/000195917325005261/0001959173-25-005261.txt
