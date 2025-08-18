@@ -1450,3 +1450,11 @@
 2025-08-18 20:57:35 | DION SANDERS | Officer | Shares: 122917 | Value: $1,025,656.32 | Percent: 0.031362% | Link: https://www.sec.gov/Archives/edgar/data/1680798/000195004725006007/0001950047-25-006007.txt
 2025-08-18 20:57:36 | DION SANDERS | Officer | Shares: 122917 | Value: $1,025,656.32 | Percent: 0.031362% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725006007/0001950047-25-006007.txt
 2025-08-18 20:57:37 | Akash Khurana | Officer | Shares: 7000 | Value: $1,456,818.3 | Percent: 0.014385% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000630/0001969223-25-000630.txt
+2025-08-18 21:18:57 | WALLMAN RICHARD F | Former Director | Shares: 22500 | Value: $3,420,000.0 | Percent: 0.045810% | Link: https://www.sec.gov/Archives/edgar/data/1198092/000196430625000329/0001964306-25-000329.txt
+2025-08-18 21:18:58 | WALLMAN RICHARD F | Former Director | Shares: 22500 | Value: $3,420,000.0 | Percent: 0.045810% | Link: https://www.sec.gov/Archives/edgar/data/1100682/000196430625000329/0001964306-25-000329.txt
+2025-08-18 21:19:01 | THOMAS BRISBIN | Director | Shares: 5082 | Value: $570,904.77 | Percent: 0.034654% | Link: https://www.sec.gov/Archives/edgar/data/1395188/000195004725006012/0001950047-25-006012.txt
+2025-08-18 21:19:02 | THOMAS BRISBIN | Director | Shares: 5082 | Value: $570,904.77 | Percent: 0.034654% | Link: https://www.sec.gov/Archives/edgar/data/1370450/000195004725006012/0001950047-25-006012.txt
+2025-08-18 21:19:04 | Tessari Eben | Officer | Shares: 16200 | Value: $547,070.0 | Percent: 0.037265% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425000981/0001921094-25-000981.txt
+2025-08-18 21:19:05 | Tessari Eben | Officer | Shares: 16200 | Value: $547,070.0 | Percent: 0.037265% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425000981/0001921094-25-000981.txt
+2025-08-18 21:19:07 | MARCUS JEWELL | OFFICER | Shares: 15995 | Value: $249,522.0 | Percent: 0.006535% | Link: https://www.sec.gov/Archives/edgar/data/1875661/000121390025077996/0001213900-25-077996.txt
+2025-08-18 21:19:09 | MARCUS JEWELL | OFFICER | Shares: 15995 | Value: $249,522.0 | Percent: 0.006535% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000121390025077996/0001213900-25-077996.txt
