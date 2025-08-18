@@ -1408,3 +1408,7 @@
 2025-08-18 19:01:27 | Keith Smith | Officer | Shares: 100000 | Value: $8,300,000.0 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/906553/000196922325000624/0001969223-25-000624.txt
 2025-08-18 19:24:35 | Khan Najat | Officer | Shares: 36599 | Value: $202,169.22 | Percent: 0.008565% | Link: https://www.sec.gov/Archives/edgar/data/2020969/000195917325005288/0001959173-25-005288.txt
 2025-08-18 19:24:36 | Khan Najat | Officer | Shares: 36599 | Value: $202,169.22 | Percent: 0.008565% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325005288/0001959173-25-005288.txt
+2025-08-18 19:46:40 | Pritchard Marc S. | Officer | Shares: 11198 | Value: $1,734,626.19 | Percent: 0.000478% | Link: https://www.sec.gov/Archives/edgar/data/1440364/000008042425000112/0000080424-25-000112.txt
+2025-08-18 19:46:40 | Pritchard Marc S. | Officer | Shares: 11198 | Value: $1,734,626.19 | Percent: 0.000478% | Link: https://www.sec.gov/Archives/edgar/data/80424/000008042425000112/0000080424-25-000112.txt
+2025-08-18 19:46:43 | Bernes Marshall | Director | Shares: 24000 | Value: $778,920.0 | Percent: 0.081110% | Link: https://www.sec.gov/Archives/edgar/data/2045034/000194984625000385/0001949846-25-000385.txt
+2025-08-18 19:46:44 | Bernes Marshall | Director | Shares: 24000 | Value: $778,920.0 | Percent: 0.081110% | Link: https://www.sec.gov/Archives/edgar/data/1857816/000194984625000385/0001949846-25-000385.txt
