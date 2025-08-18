@@ -1394,3 +1394,5 @@
 2025-08-18 15:51:58 | Read Brian | Officer | Shares: 10195 | Value: $100,114.9 | Percent: 0.017026% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000258/0001974078-25-000258.txt
 2025-08-18 16:36:46 | Dudum Andrew | Officer | Shares: 47534 | Value: $2,141,494.49 | Percent: 0.021840% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325005276/0001959173-25-005276.txt
 2025-08-18 16:36:46 | Dudum Andrew | Officer | Shares: 47534 | Value: $2,141,494.49 | Percent: 0.021840% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325005276/0001959173-25-005276.txt
+2025-08-18 17:18:17 | Thiel Frederick G | Officer | Shares: 27505 | Value: $420,276.4 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1567383/000195917325005278/0001959173-25-005278.txt
+2025-08-18 17:18:18 | Thiel Frederick G | Officer | Shares: 27505 | Value: $420,276.4 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325005278/0001959173-25-005278.txt
