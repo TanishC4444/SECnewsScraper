@@ -1466,3 +1466,13 @@
 2025-08-18 21:43:27 | Sughrue John | Director | Shares: 5669 | Value: $181,409.13 | Percent: 0.010355% | Link: https://www.sec.gov/Archives/edgar/data/1501570/000195724425000016/0001957244-25-000016.txt
 2025-08-18 21:43:29 | JEREMY BENDER | Officer | Shares: 16058 | Value: $108,666.09 | Percent: 0.015677% | Link: https://www.sec.gov/Archives/edgar/data/1863107/000195004725006016/0001950047-25-006016.txt
 2025-08-18 21:43:30 | JEREMY BENDER | Officer | Shares: 16058 | Value: $108,666.09 | Percent: 0.015677% | Link: https://www.sec.gov/Archives/edgar/data/1845337/000195004725006016/0001950047-25-006016.txt
+2025-08-18 22:31:42 | RATI SAHI LEVESQUE | Officer | Shares: 60750 | Value: $486,236.93 | Percent: 0.052717% | Link: https://www.sec.gov/Archives/edgar/data/1780551/000195004725006020/0001950047-25-006020.txt
+2025-08-18 22:31:43 | RATI SAHI LEVESQUE | Officer | Shares: 60750 | Value: $486,236.93 | Percent: 0.052717% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725006020/0001950047-25-006020.txt
+2025-08-18 22:31:45 | HAYDEN BROWN | Officer | Shares: 25577 | Value: $353,860.35 | Percent: 0.019288% | Link: https://www.sec.gov/Archives/edgar/data/1753662/000195004725006019/0001950047-25-006019.txt
+2025-08-18 22:31:48 | HAYDEN BROWN | Officer | Shares: 25577 | Value: $353,860.35 | Percent: 0.019288% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725006019/0001950047-25-006019.txt
+2025-08-18 22:31:50 | TONY THENE | Officer | Shares: 19000 | Value: $4,654,836.6 | Percent: 0.038114% | Link: https://www.sec.gov/Archives/edgar/data/1420435/000195004725006018/0001950047-25-006018.txt
+2025-08-18 22:31:51 | TONY THENE | Officer | Shares: 19000 | Value: $4,654,836.6 | Percent: 0.038114% | Link: https://www.sec.gov/Archives/edgar/data/17843/000195004725006018/0001950047-25-006018.txt
+2025-08-18 22:31:56 | RATI SAHI LEVESQUE | Officer | Shares: 199421 | Value: $1,579,374.44 | Percent: 0.173053% | Link: https://www.sec.gov/Archives/edgar/data/1780551/000195004725006017/0001950047-25-006017.txt
+2025-08-18 22:31:57 | RATI SAHI LEVESQUE | Officer | Shares: 199421 | Value: $1,579,374.44 | Percent: 0.173053% | Link: https://www.sec.gov/Archives/edgar/data/1573221/000195004725006017/0001950047-25-006017.txt
+2025-08-18 22:31:59 | Youssef Lahrech | Former Officer | Shares: 25000 | Value: $327,500.0 | Percent: 0.000663% | Link: https://www.sec.gov/Archives/edgar/data/1968308/000196858225000759/0001968582-25-000759.txt
+2025-08-18 22:32:00 | Youssef Lahrech | Former Officer | Shares: 25000 | Value: $327,500.0 | Percent: 0.000663% | Link: https://www.sec.gov/Archives/edgar/data/1691493/000196858225000759/0001968582-25-000759.txt
