@@ -1366,3 +1366,5 @@
 2025-08-18 13:21:11 | Fuller Mark C | 10% Stockholder | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1877939/000196530125000125/0001965301-25-000125.txt
 2025-08-18 13:21:12 | GUTKOWSKI ROBERT M | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1981535/000197309725000016/0001973097-25-000016.txt
 2025-08-18 13:21:12 | GUTKOWSKI ROBERT M | Director | Shares: 18334 | Value: $363,929.9 | Percent: 2.779209% | Link: https://www.sec.gov/Archives/edgar/data/1032469/000197309725000016/0001973097-25-000016.txt
+2025-08-18 13:51:11 | WRIGHT JAY O | Officer | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1877939/000196530125000126/0001965301-25-000126.txt
+2025-08-18 13:51:12 | WRIGHT JAY O | Officer | Shares: 500000 | Value: $640,000.0 | Percent: 0.053711% | Link: https://www.sec.gov/Archives/edgar/data/1310272/000196530125000126/0001965301-25-000126.txt

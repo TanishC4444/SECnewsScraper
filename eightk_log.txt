@@ -2007,3 +2007,7 @@
 2025-08-18 13:21:02 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-18T08:46:13-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025077729/0001213900-25-077729.txt
 2025-08-18 13:21:04 | 8-K - FIBROGEN INC (0000921299) (Filer) | 2025-08-18T08:45:29-04:00 | https://www.sec.gov/Archives/edgar/data/921299/000095017025109571/0000950170-25-109571.txt
 2025-08-18 13:21:05 | 8-K - Shift4 Payments, Inc. (0001794669) (Filer) | 2025-08-18T08:44:51-04:00 | https://www.sec.gov/Archives/edgar/data/1794669/000119312525182293/0001193125-25-182293.txt
+2025-08-18 13:51:05 | 8-K - D. Boral ARC Acquisition I Corp. (0002065779) (Filer) | 2025-08-18T09:30:24-04:00 | https://www.sec.gov/Archives/edgar/data/2065779/000182912625006405/0001829126-25-006405.txt
+2025-08-18 13:51:07 | 8-K - Genprex, Inc. (0001595248) (Filer) | 2025-08-18T09:29:35-04:00 | https://www.sec.gov/Archives/edgar/data/1595248/000143774925027191/0001437749-25-027191.txt
+2025-08-18 13:51:09 | 8-K - NXP Semiconductors N.V. (0001413447) (Filer) | 2025-08-18T09:23:20-04:00 | https://www.sec.gov/Archives/edgar/data/1413447/000119312525182325/0001193125-25-182325.txt
+2025-08-18 13:51:11 | 8-K - PharmaCyte Biotech, Inc. (0001157075) (Filer) | 2025-08-18T09:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1157075/000168316825006274/0001683168-25-006274.txt
