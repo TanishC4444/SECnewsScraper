@@ -1458,3 +1458,7 @@
 2025-08-18 21:19:05 | Tessari Eben | Officer | Shares: 16200 | Value: $547,070.0 | Percent: 0.037265% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425000981/0001921094-25-000981.txt
 2025-08-18 21:19:07 | MARCUS JEWELL | OFFICER | Shares: 15995 | Value: $249,522.0 | Percent: 0.006535% | Link: https://www.sec.gov/Archives/edgar/data/1875661/000121390025077996/0001213900-25-077996.txt
 2025-08-18 21:19:09 | MARCUS JEWELL | OFFICER | Shares: 15995 | Value: $249,522.0 | Percent: 0.006535% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000121390025077996/0001213900-25-077996.txt
+2025-08-18 21:32:30 | PRITESH DAMANI | Officer | Shares: 52459 | Value: $237,392.71 | Percent: 0.025206% | Link: https://www.sec.gov/Archives/edgar/data/2009371/000195004725006015/0001950047-25-006015.txt
+2025-08-18 21:32:31 | PRITESH DAMANI | Officer | Shares: 52459 | Value: $237,392.71 | Percent: 0.025206% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725006015/0001950047-25-006015.txt
+2025-08-18 21:32:33 | Randall C.  Stuewe | CEO | Shares: 35000 | Value: $1,091,300.0 | Percent: 0.022130% | Link: https://www.sec.gov/Archives/edgar/data/1256109/000196858225000758/0001968582-25-000758.txt
+2025-08-18 21:32:34 | Randall C.  Stuewe | CEO | Shares: 35000 | Value: $1,091,300.0 | Percent: 0.022130% | Link: https://www.sec.gov/Archives/edgar/data/916540/000196858225000758/0001968582-25-000758.txt
