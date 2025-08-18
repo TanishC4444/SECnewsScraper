@@ -1478,3 +1478,7 @@
 2025-08-18 22:32:00 | Youssef Lahrech | Former Officer | Shares: 25000 | Value: $327,500.0 | Percent: 0.000663% | Link: https://www.sec.gov/Archives/edgar/data/1691493/000196858225000759/0001968582-25-000759.txt
 2025-08-18 22:44:59 | Duke William E. | Officer | Shares: 39601 | Value: $28,001.87 | Percent: 0.032962% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000368/0001123292-25-000368.txt
 2025-08-18 22:45:01 | Duke William E. | Officer | Shares: 39601 | Value: $28,001.87 | Percent: 0.032962% | Link: https://www.sec.gov/Archives/edgar/data/1636135/000112329225000368/0001123292-25-000368.txt
+2025-08-18 22:54:21 | Allen Robert D. III | Officer | Shares: 36631 | Value: $25,901.78 | Percent: 0.030490% | Link: https://www.sec.gov/Archives/edgar/data/1972424/000112329225000372/0001123292-25-000372.txt
+2025-08-18 22:54:22 | Allen Robert D. III | Officer | Shares: 36631 | Value: $25,901.78 | Percent: 0.030490% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000372/0001123292-25-000372.txt
+2025-08-18 22:54:23 | Lee Timothy Edward | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/2025331/000112329225000370/0001123292-25-000370.txt
+2025-08-18 22:54:25 | Lee Timothy Edward | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000370/0001123292-25-000370.txt
