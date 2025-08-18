@@ -1482,3 +1482,9 @@
 2025-08-18 22:54:22 | Allen Robert D. III | Officer | Shares: 36631 | Value: $25,901.78 | Percent: 0.030490% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000372/0001123292-25-000372.txt
 2025-08-18 22:54:23 | Lee Timothy Edward | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/2025331/000112329225000370/0001123292-25-000370.txt
 2025-08-18 22:54:25 | Lee Timothy Edward | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000370/0001123292-25-000370.txt
+2025-08-18 23:13:01 | Rafaela de Oliveira Vitoria | Officer | Shares: 10000 | Value: $77,700.0 | Percent: 0.003096% | Link: https://www.sec.gov/Archives/edgar/data/2075990/000162828025040708/0001628280-25-040708.txt
+2025-08-18 23:13:02 | Rafaela de Oliveira Vitoria | Officer | Shares: 10000 | Value: $77,700.0 | Percent: 0.003096% | Link: https://www.sec.gov/Archives/edgar/data/1864163/000162828025040708/0001628280-25-040708.txt
+2025-08-18 23:13:04 | Green Julie | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/2008797/000112329225000376/0001123292-25-000376.txt
+2025-08-18 23:13:05 | Green Julie | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000376/0001123292-25-000376.txt
+2025-08-18 23:13:06 | Andersen Jill | Officer | Shares: 66000 | Value: $46,668.6 | Percent: 0.054935% | Link: https://www.sec.gov/Archives/edgar/data/1891047/000112329225000374/0001123292-25-000374.txt
+2025-08-18 23:13:08 | Andersen Jill | Officer | Shares: 66000 | Value: $46,668.6 | Percent: 0.054935% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000374/0001123292-25-000374.txt
