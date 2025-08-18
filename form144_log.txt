@@ -1488,3 +1488,13 @@
 2025-08-18 23:13:05 | Green Julie | Officer | Shares: 39600 | Value: $28,001.16 | Percent: 0.032961% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000376/0001123292-25-000376.txt
 2025-08-18 23:13:06 | Andersen Jill | Officer | Shares: 66000 | Value: $46,668.6 | Percent: 0.054935% | Link: https://www.sec.gov/Archives/edgar/data/1891047/000112329225000374/0001123292-25-000374.txt
 2025-08-18 23:13:08 | Andersen Jill | Officer | Shares: 66000 | Value: $46,668.6 | Percent: 0.054935% | Link: https://www.sec.gov/Archives/edgar/data/1832038/000112329225000374/0001123292-25-000374.txt
+2025-08-18 23:52:20 | Sivaram Srinivasan | Officer | Shares: 100178 | Value: $904,607.34 | Percent: 0.019157% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000181141425000038/0001811414-25-000038.txt
+2025-08-18 23:52:21 | Sivaram Srinivasan | Officer | Shares: 100178 | Value: $904,607.34 | Percent: 0.019157% | Link: https://www.sec.gov/Archives/edgar/data/1587067/000181141425000038/0001811414-25-000038.txt
+2025-08-18 23:52:22 | MCCARTHY MICHAEL O III | Officer | Shares: 45371 | Value: $409,700.13 | Percent: 0.008676% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000181141425000037/0001811414-25-000037.txt
+2025-08-18 23:52:23 | MCCARTHY MICHAEL O III | Officer | Shares: 45371 | Value: $409,700.13 | Percent: 0.008676% | Link: https://www.sec.gov/Archives/edgar/data/1177264/000181141425000037/0001811414-25-000037.txt
+2025-08-18 23:52:24 | Hettrich Kevin | Officer | Shares: 46837 | Value: $422,938.11 | Percent: 0.008956% | Link: https://www.sec.gov/Archives/edgar/data/1834025/000181141425000036/0001811414-25-000036.txt
+2025-08-18 23:52:25 | Hettrich Kevin | Officer | Shares: 46837 | Value: $422,938.11 | Percent: 0.008956% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000181141425000036/0001811414-25-000036.txt
+2025-08-18 23:52:27 | Holme Timothy | Officer | Shares: 47727 | Value: $430,974.81 | Percent: 0.009127% | Link: https://www.sec.gov/Archives/edgar/data/1834249/000181141425000035/0001811414-25-000035.txt
+2025-08-18 23:52:27 | Holme Timothy | Officer | Shares: 47727 | Value: $430,974.81 | Percent: 0.009127% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000181141425000035/0001811414-25-000035.txt
+2025-08-18 23:52:29 | Mitch Reback | Officer | Shares: 11530 | Value: $105,960.7 | Percent: 0.010845% | Link: https://www.sec.gov/Archives/edgar/data/1886255/000188625525000005/0001886255-25-000005.txt
+2025-08-18 23:52:31 | Mitch Reback | Officer | Shares: 11530 | Value: $105,960.7 | Percent: 0.010845% | Link: https://www.sec.gov/Archives/edgar/data/1477815/000188625525000005/0001886255-25-000005.txt
