@@ -1964,3 +1964,12 @@
 2025-08-15 21:28:29 | 8-K - SOLIGENIX, INC. (0000812796) (Filer) | 2025-08-15T17:17:20-04:00 | https://www.sec.gov/Archives/edgar/data/812796/000155837025011619/0001558370-25-011619.txt
 2025-08-15 21:28:30 | 8-K - Kindly MD, Inc. (0001946573) (Filer) | 2025-08-15T17:16:12-04:00 | https://www.sec.gov/Archives/edgar/data/1946573/000121390025077579/0001213900-25-077579.txt
 2025-08-15 21:28:31 | 8-K - BioSig Technologies, Inc. (0001530766) (Filer) | 2025-08-15T17:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/1530766/000164117225024484/0001641172-25-024484.txt
+2025-08-18 10:15:16 | 8-K - GigaCloud Technology Inc (0001857816) (Filer) | 2025-08-18T06:13:13-04:00 | https://www.sec.gov/Archives/edgar/data/1857816/000185781625000101/0001857816-25-000101.txt
+2025-08-18 10:15:17 | 8-K - Soho House & Co Inc. (0001846510) (Filer) | 2025-08-18T06:09:25-04:00 | https://www.sec.gov/Archives/edgar/data/1846510/000119312525182169/0001193125-25-182169.txt
+2025-08-18 10:15:19 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-08-18T06:02:21-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325014530/0001062993-25-014530.txt
+2025-08-18 10:15:20 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-08-18T06:01:40-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825006265/0001683168-25-006265.txt
+2025-08-18 10:15:21 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-08-18T06:01:02-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000128/0001788230-25-000128.txt
+2025-08-18 10:15:23 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-08-15T21:35:38-04:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925079369/0001104659-25-079369.txt
+2025-08-18 10:15:24 | 8-K - HF Sinclair Corp (0001915657) (Filer) | 2025-08-15T21:29:36-04:00 | https://www.sec.gov/Archives/edgar/data/1915657/000119312525182039/0001193125-25-182039.txt
+2025-08-18 10:15:25 | 8-K - Kaival Brands Innovations Group, Inc. (0001762239) (Filer) | 2025-08-15T21:20:57-04:00 | https://www.sec.gov/Archives/edgar/data/1762239/000173112225001143/0001731122-25-001143.txt
+2025-08-18 10:15:27 | 8-K - Hubilu Venture Corp (0001639068) (Filer) | 2025-08-15T21:16:44-04:00 | https://www.sec.gov/Archives/edgar/data/1639068/000164117225024513/0001641172-25-024513.txt
