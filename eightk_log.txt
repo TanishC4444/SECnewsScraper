@@ -2119,3 +2119,4 @@
 2025-08-19 14:26:49 | 8-K - Research Solutions, Inc. (0001386301) (Filer) | 2025-08-19T10:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1386301/000110465925080093/0001104659-25-080093.txt
 2025-08-19 14:26:51 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-08-19T10:05:34-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325002985/0001178913-25-002985.txt
 2025-08-19 14:44:45 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-08-19T10:38:58-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325014635/0001062993-25-014635.txt
+2025-08-19 15:15:57 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-08-19T11:04:18-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000095017025109962/0000950170-25-109962.txt
