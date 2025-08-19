@@ -1518,3 +1518,5 @@
 2025-08-19 13:00:07 | Kramer Jeremy | Director | Shares: 28016 | Value: $310,317.0 | Percent: 0.017423% | Link: https://www.sec.gov/Archives/edgar/data/1331284/000196530125000127/0001965301-25-000127.txt
 2025-08-19 13:36:23 | Dave Qi | Director | Shares: 28940 | Value: $450,595.8 | Percent: 0.096257% | Link: https://www.sec.gov/Archives/edgar/data/1734107/000119312525183110/0001193125-25-183110.txt
 2025-08-19 13:36:25 | Dave Qi | Director | Shares: 28940 | Value: $450,595.8 | Percent: 0.096257% | Link: https://www.sec.gov/Archives/edgar/data/1327935/000119312525183110/0001193125-25-183110.txt
+2025-08-19 13:50:30 | Singh Mohit | Officer | Shares: 23598 | Value: $204,165.18 | Percent: 0.004513% | Link: https://www.sec.gov/Archives/edgar/data/1834019/000195917325005321/0001959173-25-005321.txt
+2025-08-19 13:50:31 | Singh Mohit | Officer | Shares: 23598 | Value: $204,165.18 | Percent: 0.004513% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000195917325005321/0001959173-25-005321.txt
