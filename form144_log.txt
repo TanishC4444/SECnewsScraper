@@ -1520,3 +1520,7 @@
 2025-08-19 13:36:25 | Dave Qi | Director | Shares: 28940 | Value: $450,595.8 | Percent: 0.096257% | Link: https://www.sec.gov/Archives/edgar/data/1327935/000119312525183110/0001193125-25-183110.txt
 2025-08-19 13:50:30 | Singh Mohit | Officer | Shares: 23598 | Value: $204,165.18 | Percent: 0.004513% | Link: https://www.sec.gov/Archives/edgar/data/1834019/000195917325005321/0001959173-25-005321.txt
 2025-08-19 13:50:31 | Singh Mohit | Officer | Shares: 23598 | Value: $204,165.18 | Percent: 0.004513% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000195917325005321/0001959173-25-005321.txt
+2025-08-19 13:59:35 | Halligan Brian | Director | Shares: 8500 | Value: $3,823,640.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1603527/000195917325005323/0001959173-25-005323.txt
+2025-08-19 13:59:36 | Halligan Brian | Director | Shares: 8500 | Value: $3,823,640.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325005323/0001959173-25-005323.txt
+2025-08-19 13:59:38 | COLLIS STEVEN H | Director | Shares: 14579 | Value: $4,227,618.42 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/1191508/000195917325005322/0001959173-25-005322.txt
+2025-08-19 13:59:39 | COLLIS STEVEN H | Director | Shares: 14579 | Value: $4,227,618.42 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325005322/0001959173-25-005322.txt

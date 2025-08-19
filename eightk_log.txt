@@ -2114,3 +2114,5 @@
 2025-08-19 13:36:16 | 8-K - Enertopia Corp. (0001346022) (Filer) | 2025-08-19T09:03:38-04:00 | https://www.sec.gov/Archives/edgar/data/1346022/000106299325014632/0001062993-25-014632.txt
 2025-08-19 13:36:19 | 8-K - Live Oak Bancshares, Inc. (0001462120) (Filer) | 2025-08-19T09:03:31-04:00 | https://www.sec.gov/Archives/edgar/data/1462120/000146212025000077/0001462120-25-000077.txt
 2025-08-19 13:36:21 | 8-K - Workhorse Group Inc. (0001425287) (Filer) | 2025-08-19T09:00:48-04:00 | https://www.sec.gov/Archives/edgar/data/1425287/000121390025078172/0001213900-25-078172.txt
+2025-08-19 13:59:32 | 8-K - Bridgewater Bancshares Inc (0001341317) (Filer) | 2025-08-19T09:55:18-04:00 | https://www.sec.gov/Archives/edgar/data/1341317/000155837025011661/0001558370-25-011661.txt
+2025-08-19 13:59:33 | 8-K - CARGO Therapeutics, Inc. (0001966494) (Filer) | 2025-08-19T09:54:02-04:00 | https://www.sec.gov/Archives/edgar/data/1966494/000119312525183141/0001193125-25-183141.txt
