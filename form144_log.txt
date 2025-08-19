@@ -1572,3 +1572,11 @@
 2025-08-19 20:49:31 | ROBERT S. STEFANOVICH | Officer | Shares: 9300 | Value: $80,617.98 | Percent: 0.018575% | Link: https://www.sec.gov/Archives/edgar/data/1124524/000195004725006061/0001950047-25-006061.txt
 2025-08-19 20:58:22 | Ellingson Alan Wayne | Officer | Shares: 44693 | Value: $2,006,484.99 | Percent: 0.009002% | Link: https://www.sec.gov/Archives/edgar/data/2019299/000195917325005366/0001959173-25-005366.txt
 2025-08-19 20:58:23 | Ellingson Alan Wayne | Officer | Shares: 44693 | Value: $2,006,484.99 | Percent: 0.009002% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195917325005366/0001959173-25-005366.txt
+2025-08-19 21:33:43 | Vagn Soerensen | Director | Shares: 10300 | Value: $3,399,412.0 | Percent: 0.003792% | Link: https://www.sec.gov/Archives/edgar/data/1526945/000195004725006068/0001950047-25-006068.txt
+2025-08-19 21:33:44 | Vagn Soerensen | Director | Shares: 10300 | Value: $3,399,412.0 | Percent: 0.003792% | Link: https://www.sec.gov/Archives/edgar/data/884887/000195004725006068/0001950047-25-006068.txt
+2025-08-19 21:33:45 | Hannover Holdings S.A. | Affiliate | Shares: 6433 | Value: $22,804.0 | Percent: 0.007106% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000764/0001968582-25-000764.txt
+2025-08-19 21:33:46 | Hannover Holdings S.A. | Affiliate | Shares: 6433 | Value: $22,804.0 | Percent: 0.007106% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000764/0001968582-25-000764.txt
+2025-08-19 21:33:48 | Hopman Mark | Officer | Shares: 16158 | Value: $268,376.1 | Percent: 0.037170% | Link: https://www.sec.gov/Archives/edgar/data/2048497/000200731725000908/0002007317-25-000908.txt
+2025-08-19 21:33:49 | Hopman Mark | Officer | Shares: 16158 | Value: $268,376.1 | Percent: 0.037170% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725000908/0002007317-25-000908.txt
+2025-08-19 21:33:50 | Alt Aaron E | Officer | Shares: 42870 | Value: $6,382,024.0 | Percent: 0.017953% | Link: https://www.sec.gov/Archives/edgar/data/1741576/000200731725000907/0002007317-25-000907.txt
+2025-08-19 21:33:51 | Alt Aaron E | Officer | Shares: 42870 | Value: $6,382,024.0 | Percent: 0.017953% | Link: https://www.sec.gov/Archives/edgar/data/721371/000200731725000907/0002007317-25-000907.txt
