@@ -1584,3 +1584,5 @@
 2025-08-19 21:43:59 | Feider Stephen | Officer | Shares: 5587 | Value: $95,171.78 | Percent: 0.012853% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725000909/0002007317-25-000909.txt
 2025-08-19 21:52:58 | JEANNE THOMA | Director | Shares: 14675 | Value: $1,304,170.19 | Percent: 0.067662% | Link: https://www.sec.gov/Archives/edgar/data/1819879/000195004725006071/0001950047-25-006071.txt
 2025-08-19 21:52:59 | JEANNE THOMA | Director | Shares: 14675 | Value: $1,304,170.19 | Percent: 0.067662% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725006071/0001950047-25-006071.txt
+2025-08-19 22:32:45 | HEZRON LOPEZ | Officer | Shares: 22000 | Value: $541,875.4 | Percent: 0.012083% | Link: https://www.sec.gov/Archives/edgar/data/1647088/000195004725006074/0001950047-25-006074.txt
+2025-08-19 22:32:46 | HEZRON LOPEZ | Officer | Shares: 22000 | Value: $541,875.4 | Percent: 0.012083% | Link: https://www.sec.gov/Archives/edgar/data/1581557/000195004725006074/0001950047-25-006074.txt
