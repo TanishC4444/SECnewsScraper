@@ -1524,3 +1524,7 @@
 2025-08-19 13:59:36 | Halligan Brian | Director | Shares: 8500 | Value: $3,823,640.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325005323/0001959173-25-005323.txt
 2025-08-19 13:59:38 | COLLIS STEVEN H | Director | Shares: 14579 | Value: $4,227,618.42 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/1191508/000195917325005322/0001959173-25-005322.txt
 2025-08-19 13:59:39 | COLLIS STEVEN H | Director | Shares: 14579 | Value: $4,227,618.42 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325005322/0001959173-25-005322.txt
+2025-08-19 14:26:54 | Tanimoto Sarina | Officer | Shares: 150000 | Value: $2,100,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1951291/000194984625000386/0001949846-25-000386.txt
+2025-08-19 14:26:55 | Tanimoto Sarina | Officer | Shares: 150000 | Value: $2,100,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1671858/000194984625000386/0001949846-25-000386.txt
+2025-08-19 14:26:58 | Miller Nicole | Officer | Shares: 25154 | Value: $272,166.28 | Percent: 0.013955% | Link: https://www.sec.gov/Archives/edgar/data/1867504/000195917325005325/0001959173-25-005325.txt
+2025-08-19 14:26:59 | Miller Nicole | Officer | Shares: 25154 | Value: $272,166.28 | Percent: 0.013955% | Link: https://www.sec.gov/Archives/edgar/data/1286139/000195917325005325/0001959173-25-005325.txt
