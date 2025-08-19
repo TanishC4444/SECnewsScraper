@@ -1548,3 +1548,11 @@
 2025-08-19 19:39:53 | Wenger Howard | Officer | Shares: 5703 | Value: $399,210.0 | Percent: 0.003854% | Link: https://www.sec.gov/Archives/edgar/data/1387222/000195917325005346/0001959173-25-005346.txt
 2025-08-19 19:39:55 | Gridley Catherine A | Officer | Shares: 25000 | Value: $1,011,401.28 | Percent: 0.024198% | Link: https://www.sec.gov/Archives/edgar/data/1785553/000200731725000899/0002007317-25-000899.txt
 2025-08-19 19:39:56 | Gridley Catherine A | Officer | Shares: 25000 | Value: $1,011,401.28 | Percent: 0.024198% | Link: https://www.sec.gov/Archives/edgar/data/1116942/000200731725000899/0002007317-25-000899.txt
+2025-08-19 19:49:18 | Keeney Scott H | Officer | Shares: 18344 | Value: $482,034.46 | Percent: 0.036762% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005351/0001959173-25-005351.txt
+2025-08-19 19:49:19 | Keeney Scott H | Officer | Shares: 18344 | Value: $482,034.46 | Percent: 0.036762% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005351/0001959173-25-005351.txt
+2025-08-19 19:49:20 | MARIANI PETER J | Officer | Shares: 10548 | Value: $11,447.74 | Percent: 0.016806% | Link: https://www.sec.gov/Archives/edgar/data/1222357/000195917325005350/0001959173-25-005350.txt
+2025-08-19 19:49:21 | MARIANI PETER J | Officer | Shares: 10548 | Value: $11,447.74 | Percent: 0.016806% | Link: https://www.sec.gov/Archives/edgar/data/1175151/000195917325005350/0001959173-25-005350.txt
+2025-08-19 19:49:22 | Corso Joseph John | Officer | Shares: 8449 | Value: $222,018.6 | Percent: 0.016932% | Link: https://www.sec.gov/Archives/edgar/data/1914846/000195917325005349/0001959173-25-005349.txt
+2025-08-19 19:49:23 | Corso Joseph John | Officer | Shares: 8449 | Value: $222,018.6 | Percent: 0.016932% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005349/0001959173-25-005349.txt
+2025-08-19 19:49:25 | Alt Aaron E | Officer | Shares: 5373 | Value: $795,204.0 | Percent: 0.002250% | Link: https://www.sec.gov/Archives/edgar/data/1741576/000194984625000392/0001949846-25-000392.txt
+2025-08-19 19:49:26 | Alt Aaron E | Officer | Shares: 5373 | Value: $795,204.0 | Percent: 0.002250% | Link: https://www.sec.gov/Archives/edgar/data/721371/000194984625000392/0001949846-25-000392.txt
