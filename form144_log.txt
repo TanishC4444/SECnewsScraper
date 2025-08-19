@@ -1590,3 +1590,7 @@
 2025-08-19 23:13:22 | Delwo Sherrie | Member of immediate family of any of the foregoing | Shares: 100000 | Value: $48,000.0 | Percent: 0.444911% | Link: https://www.sec.gov/Archives/edgar/data/1812447/000207520025000002/0002075200-25-000002.txt
 2025-08-19 23:13:23 | Finucane Anne A. | Director | Shares: 7500 | Value: $532,275.0 | Percent: 0.000592% | Link: https://www.sec.gov/Archives/edgar/data/1511491/000151149125000003/0001511491-25-000003.txt
 2025-08-19 23:13:24 | Finucane Anne A. | Director | Shares: 7500 | Value: $532,275.0 | Percent: 0.000592% | Link: https://www.sec.gov/Archives/edgar/data/64803/000151149125000003/0001511491-25-000003.txt
+2025-08-19 23:30:01 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 1100000 | Value: $7,656,000.0 | Percent: 0.988673% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000030/0001178937-25-000030.txt
+2025-08-19 23:30:02 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 1100000 | Value: $7,656,000.0 | Percent: 0.988673% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000030/0001178937-25-000030.txt
+2025-08-19 23:30:03 | RIVERA NAYDA | Officer | Shares: 10000 | Value: $211,000.0 | Percent: 0.006232% | Link: https://www.sec.gov/Archives/edgar/data/1224437/000200731725000912/0002007317-25-000912.txt
+2025-08-19 23:30:03 | RIVERA NAYDA | Officer | Shares: 10000 | Value: $211,000.0 | Percent: 0.006232% | Link: https://www.sec.gov/Archives/edgar/data/1057706/000200731725000912/0002007317-25-000912.txt
