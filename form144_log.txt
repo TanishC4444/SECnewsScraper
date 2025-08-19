@@ -1580,3 +1580,5 @@
 2025-08-19 21:33:49 | Hopman Mark | Officer | Shares: 16158 | Value: $268,376.1 | Percent: 0.037170% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725000908/0002007317-25-000908.txt
 2025-08-19 21:33:50 | Alt Aaron E | Officer | Shares: 42870 | Value: $6,382,024.0 | Percent: 0.017953% | Link: https://www.sec.gov/Archives/edgar/data/1741576/000200731725000907/0002007317-25-000907.txt
 2025-08-19 21:33:51 | Alt Aaron E | Officer | Shares: 42870 | Value: $6,382,024.0 | Percent: 0.017953% | Link: https://www.sec.gov/Archives/edgar/data/721371/000200731725000907/0002007317-25-000907.txt
+2025-08-19 21:43:58 | Feider Stephen | Officer | Shares: 5587 | Value: $95,171.78 | Percent: 0.012853% | Link: https://www.sec.gov/Archives/edgar/data/2048588/000200731725000909/0002007317-25-000909.txt
+2025-08-19 21:43:59 | Feider Stephen | Officer | Shares: 5587 | Value: $95,171.78 | Percent: 0.012853% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725000909/0002007317-25-000909.txt
