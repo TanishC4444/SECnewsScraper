@@ -1516,3 +1516,5 @@
 2025-08-19 11:31:39 | Gamzu Guy | Director | Shares: 83334 | Value: $374,169.66 | Percent: 0.041153% | Link: https://www.sec.gov/Archives/edgar/data/1436979/000197640825000267/0001976408-25-000267.txt
 2025-08-19 13:00:06 | Kramer Jeremy | Director | Shares: 28016 | Value: $310,317.0 | Percent: 0.017423% | Link: https://www.sec.gov/Archives/edgar/data/1990302/000196530125000127/0001965301-25-000127.txt
 2025-08-19 13:00:07 | Kramer Jeremy | Director | Shares: 28016 | Value: $310,317.0 | Percent: 0.017423% | Link: https://www.sec.gov/Archives/edgar/data/1331284/000196530125000127/0001965301-25-000127.txt
+2025-08-19 13:36:23 | Dave Qi | Director | Shares: 28940 | Value: $450,595.8 | Percent: 0.096257% | Link: https://www.sec.gov/Archives/edgar/data/1734107/000119312525183110/0001193125-25-183110.txt
+2025-08-19 13:36:25 | Dave Qi | Director | Shares: 28940 | Value: $450,595.8 | Percent: 0.096257% | Link: https://www.sec.gov/Archives/edgar/data/1327935/000119312525183110/0001193125-25-183110.txt
