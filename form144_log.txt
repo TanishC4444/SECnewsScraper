@@ -1594,3 +1594,5 @@
 2025-08-19 23:30:02 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 1100000 | Value: $7,656,000.0 | Percent: 0.988673% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000030/0001178937-25-000030.txt
 2025-08-19 23:30:03 | RIVERA NAYDA | Officer | Shares: 10000 | Value: $211,000.0 | Percent: 0.006232% | Link: https://www.sec.gov/Archives/edgar/data/1224437/000200731725000912/0002007317-25-000912.txt
 2025-08-19 23:30:03 | RIVERA NAYDA | Officer | Shares: 10000 | Value: $211,000.0 | Percent: 0.006232% | Link: https://www.sec.gov/Archives/edgar/data/1057706/000200731725000912/0002007317-25-000912.txt
+2025-08-19 23:42:30 | William Fredrick Truscott | Officer | Shares: 9929 | Value: $5,032,933.59 | Percent: 0.010532% | Link: https://www.sec.gov/Archives/edgar/data/1282835/000141588925022372/0001415889-25-022372.txt
+2025-08-19 23:42:31 | William Fredrick Truscott | Officer | Shares: 9929 | Value: $5,032,933.59 | Percent: 0.010532% | Link: https://www.sec.gov/Archives/edgar/data/820027/000141588925022372/0001415889-25-022372.txt
