@@ -1564,3 +1564,9 @@
 2025-08-19 20:25:44 | JAMES W BUTMAN | Former Officer | Shares: 15000 | Value: $585,730.5 | Percent: 0.013889% | Link: https://www.sec.gov/Archives/edgar/data/1051512/000195004725006038/0001950047-25-006038.txt
 2025-08-19 20:25:46 | ROBERT GARVIN | Officer | Shares: 13185 | Value: $1,425,589.89 | Percent: 0.004096% | Link: https://www.sec.gov/Archives/edgar/data/1518013/000195004725006037/0001950047-25-006037.txt
 2025-08-19 20:25:48 | ROBERT GARVIN | Officer | Shares: 13185 | Value: $1,425,589.89 | Percent: 0.004096% | Link: https://www.sec.gov/Archives/edgar/data/783325/000195004725006037/0001950047-25-006037.txt
+2025-08-19 20:49:25 | SIEVERT G MICHAEL | Officer | Shares: 22500 | Value: $5,786,423.64 | Percent: 0.001999% | Link: https://www.sec.gov/Archives/edgar/data/1283699/000195917325005365/0001959173-25-005365.txt
+2025-08-19 20:49:26 | SIEVERT G MICHAEL | Officer | Shares: 22500 | Value: $5,786,423.64 | Percent: 0.001999% | Link: https://www.sec.gov/Archives/edgar/data/1182438/000195917325005365/0001959173-25-005365.txt
+2025-08-19 20:49:27 | ARTUR BERGMAN | Director | Shares: 19353 | Value: $137,019.24 | Percent: 0.013130% | Link: https://www.sec.gov/Archives/edgar/data/1769490/000195004725006063/0001950047-25-006063.txt
+2025-08-19 20:49:28 | ARTUR BERGMAN | Director | Shares: 19353 | Value: $137,019.24 | Percent: 0.013130% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725006063/0001950047-25-006063.txt
+2025-08-19 20:49:30 | ROBERT S. STEFANOVICH | Officer | Shares: 9300 | Value: $80,617.98 | Percent: 0.018575% | Link: https://www.sec.gov/Archives/edgar/data/1247309/000195004725006061/0001950047-25-006061.txt
+2025-08-19 20:49:31 | ROBERT S. STEFANOVICH | Officer | Shares: 9300 | Value: $80,617.98 | Percent: 0.018575% | Link: https://www.sec.gov/Archives/edgar/data/1124524/000195004725006061/0001950047-25-006061.txt
