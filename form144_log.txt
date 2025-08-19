@@ -1532,3 +1532,5 @@
 2025-08-19 14:44:48 | Boxer Michael A | Former Officer | Shares: 11440 | Value: $5,671,128.27 | Percent: 0.003030% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325005328/0001959173-25-005328.txt
 2025-08-19 14:54:40 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/1008220/000197407825000260/0001974078-25-000260.txt
 2025-08-19 14:54:41 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/924719/000197407825000260/0001974078-25-000260.txt
+2025-08-19 15:48:05 | BERNSTEIN SETH P | Officer | Shares: 31694 | Value: $1,281,705.0 | Percent: 0.028673% | Link: https://www.sec.gov/Archives/edgar/data/1705584/000194984625000388/0001949846-25-000388.txt
+2025-08-19 15:48:06 | BERNSTEIN SETH P | Officer | Shares: 31694 | Value: $1,281,705.0 | Percent: 0.028673% | Link: https://www.sec.gov/Archives/edgar/data/825313/000194984625000388/0001949846-25-000388.txt
