@@ -2092,3 +2092,4 @@
 2025-08-19 11:20:57 | 8-K - Aldeyra Therapeutics, Inc. (0001341235) (Filer) | 2025-08-19T07:00:27-04:00 | https://www.sec.gov/Archives/edgar/data/1341235/000095017025109932/0000950170-25-109932.txt
 2025-08-19 11:31:35 | 8-K - Sitio Royalties Corp. (0001949543) (Filer) | 2025-08-19T07:23:10-04:00 | https://www.sec.gov/Archives/edgar/data/1949543/000119312525183045/0001193125-25-183045.txt
 2025-08-19 11:31:36 | 8-K - PEABODY ENERGY CORP (0001064728) (Filer) | 2025-08-19T07:20:24-04:00 | https://www.sec.gov/Archives/edgar/data/1064728/000106472825000122/0001064728-25-000122.txt
+2025-08-19 11:52:04 | 8-K - OptimizeRx Corp (0001448431) (Filer) | 2025-08-19T07:44:18-04:00 | https://www.sec.gov/Archives/edgar/data/1448431/000121390025078162/0001213900-25-078162.txt
