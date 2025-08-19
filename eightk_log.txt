@@ -2146,3 +2146,4 @@
 2025-08-19 19:17:30 | 8-K - Snail, Inc. (0001886894) (Filer) | 2025-08-19T15:01:38-04:00 | https://www.sec.gov/Archives/edgar/data/1886894/000164117225024808/0001641172-25-024808.txt
 2025-08-19 19:17:31 | 8-K - RREEF Property Trust, Inc. (0001542447) (Filer) | 2025-08-19T14:58:06-04:00 | https://www.sec.gov/Archives/edgar/data/1542447/000154244725000090/0001542447-25-000090.txt
 2025-08-19 19:28:44 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-19T15:28:06-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425009819/0001654954-25-009819.txt
+2025-08-19 19:39:48 | 8-K - BASANITE, INC. (0001448705) (Filer) | 2025-08-19T15:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/1448705/000107997325001346/0001079973-25-001346.txt

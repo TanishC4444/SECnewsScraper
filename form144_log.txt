@@ -1544,3 +1544,7 @@
 2025-08-19 19:17:34 | Gupta Amit | Officer | Shares: 68685 | Value: $76,803.57 | Percent: 0.129018% | Link: https://www.sec.gov/Archives/edgar/data/1666071/000195917325005338/0001959173-25-005338.txt
 2025-08-19 19:17:35 | Bruner James Russell | Director | Shares: 6000 | Value: $255,360.0 | Percent: 0.113109% | Link: https://www.sec.gov/Archives/edgar/data/1762252/000195917325005335/0001959173-25-005335.txt
 2025-08-19 19:17:36 | Bruner James Russell | Director | Shares: 6000 | Value: $255,360.0 | Percent: 0.113109% | Link: https://www.sec.gov/Archives/edgar/data/924719/000195917325005335/0001959173-25-005335.txt
+2025-08-19 19:39:52 | Wenger Howard | Officer | Shares: 5703 | Value: $399,210.0 | Percent: 0.003854% | Link: https://www.sec.gov/Archives/edgar/data/1852131/000195917325005346/0001959173-25-005346.txt
+2025-08-19 19:39:53 | Wenger Howard | Officer | Shares: 5703 | Value: $399,210.0 | Percent: 0.003854% | Link: https://www.sec.gov/Archives/edgar/data/1387222/000195917325005346/0001959173-25-005346.txt
+2025-08-19 19:39:55 | Gridley Catherine A | Officer | Shares: 25000 | Value: $1,011,401.28 | Percent: 0.024198% | Link: https://www.sec.gov/Archives/edgar/data/1785553/000200731725000899/0002007317-25-000899.txt
+2025-08-19 19:39:56 | Gridley Catherine A | Officer | Shares: 25000 | Value: $1,011,401.28 | Percent: 0.024198% | Link: https://www.sec.gov/Archives/edgar/data/1116942/000200731725000899/0002007317-25-000899.txt
