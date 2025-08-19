@@ -1528,3 +1528,5 @@
 2025-08-19 14:26:55 | Tanimoto Sarina | Officer | Shares: 150000 | Value: $2,100,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1671858/000194984625000386/0001949846-25-000386.txt
 2025-08-19 14:26:58 | Miller Nicole | Officer | Shares: 25154 | Value: $272,166.28 | Percent: 0.013955% | Link: https://www.sec.gov/Archives/edgar/data/1867504/000195917325005325/0001959173-25-005325.txt
 2025-08-19 14:26:59 | Miller Nicole | Officer | Shares: 25154 | Value: $272,166.28 | Percent: 0.013955% | Link: https://www.sec.gov/Archives/edgar/data/1286139/000195917325005325/0001959173-25-005325.txt
+2025-08-19 14:44:47 | Boxer Michael A | Former Officer | Shares: 11440 | Value: $5,671,128.27 | Percent: 0.003030% | Link: https://www.sec.gov/Archives/edgar/data/1726596/000195917325005328/0001959173-25-005328.txt
+2025-08-19 14:44:48 | Boxer Michael A | Former Officer | Shares: 11440 | Value: $5,671,128.27 | Percent: 0.003030% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325005328/0001959173-25-005328.txt
