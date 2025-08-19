@@ -1570,3 +1570,5 @@
 2025-08-19 20:49:28 | ARTUR BERGMAN | Director | Shares: 19353 | Value: $137,019.24 | Percent: 0.013130% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725006063/0001950047-25-006063.txt
 2025-08-19 20:49:30 | ROBERT S. STEFANOVICH | Officer | Shares: 9300 | Value: $80,617.98 | Percent: 0.018575% | Link: https://www.sec.gov/Archives/edgar/data/1247309/000195004725006061/0001950047-25-006061.txt
 2025-08-19 20:49:31 | ROBERT S. STEFANOVICH | Officer | Shares: 9300 | Value: $80,617.98 | Percent: 0.018575% | Link: https://www.sec.gov/Archives/edgar/data/1124524/000195004725006061/0001950047-25-006061.txt
+2025-08-19 20:58:22 | Ellingson Alan Wayne | Officer | Shares: 44693 | Value: $2,006,484.99 | Percent: 0.009002% | Link: https://www.sec.gov/Archives/edgar/data/2019299/000195917325005366/0001959173-25-005366.txt
+2025-08-19 20:58:23 | Ellingson Alan Wayne | Officer | Shares: 44693 | Value: $2,006,484.99 | Percent: 0.009002% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195917325005366/0001959173-25-005366.txt
