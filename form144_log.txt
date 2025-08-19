@@ -1534,3 +1534,5 @@
 2025-08-19 14:54:41 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/924719/000197407825000260/0001974078-25-000260.txt
 2025-08-19 15:48:05 | BERNSTEIN SETH P | Officer | Shares: 31694 | Value: $1,281,705.0 | Percent: 0.028673% | Link: https://www.sec.gov/Archives/edgar/data/1705584/000194984625000388/0001949846-25-000388.txt
 2025-08-19 15:48:06 | BERNSTEIN SETH P | Officer | Shares: 31694 | Value: $1,281,705.0 | Percent: 0.028673% | Link: https://www.sec.gov/Archives/edgar/data/825313/000194984625000388/0001949846-25-000388.txt
+2025-08-19 17:37:15 | Disruptive Technologies III L.P. | Shareholder | Shares: 663272 | Value: $2,188,798.0 | Percent: 4.270937% | Link: https://www.sec.gov/Archives/edgar/data/2014057/000121390025078366/0001213900-25-078366.txt
+2025-08-19 17:37:21 | Disruptive Technologies III L.P. | Shareholder | Shares: 663272 | Value: $2,188,798.0 | Percent: 4.270937% | Link: https://www.sec.gov/Archives/edgar/data/1899005/000121390025078366/0001213900-25-078366.txt
