@@ -1586,3 +1586,7 @@
 2025-08-19 21:52:59 | JEANNE THOMA | Director | Shares: 14675 | Value: $1,304,170.19 | Percent: 0.067662% | Link: https://www.sec.gov/Archives/edgar/data/1023024/000195004725006071/0001950047-25-006071.txt
 2025-08-19 22:32:45 | HEZRON LOPEZ | Officer | Shares: 22000 | Value: $541,875.4 | Percent: 0.012083% | Link: https://www.sec.gov/Archives/edgar/data/1647088/000195004725006074/0001950047-25-006074.txt
 2025-08-19 22:32:46 | HEZRON LOPEZ | Officer | Shares: 22000 | Value: $541,875.4 | Percent: 0.012083% | Link: https://www.sec.gov/Archives/edgar/data/1581557/000195004725006074/0001950047-25-006074.txt
+2025-08-19 23:13:21 | Delwo Sherrie | Member of immediate family of any of the foregoing | Shares: 100000 | Value: $48,000.0 | Percent: 0.444911% | Link: https://www.sec.gov/Archives/edgar/data/2075200/000207520025000002/0002075200-25-000002.txt
+2025-08-19 23:13:22 | Delwo Sherrie | Member of immediate family of any of the foregoing | Shares: 100000 | Value: $48,000.0 | Percent: 0.444911% | Link: https://www.sec.gov/Archives/edgar/data/1812447/000207520025000002/0002075200-25-000002.txt
+2025-08-19 23:13:23 | Finucane Anne A. | Director | Shares: 7500 | Value: $532,275.0 | Percent: 0.000592% | Link: https://www.sec.gov/Archives/edgar/data/1511491/000151149125000003/0001511491-25-000003.txt
+2025-08-19 23:13:24 | Finucane Anne A. | Director | Shares: 7500 | Value: $532,275.0 | Percent: 0.000592% | Link: https://www.sec.gov/Archives/edgar/data/64803/000151149125000003/0001511491-25-000003.txt
