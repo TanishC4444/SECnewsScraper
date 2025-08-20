@@ -2221,3 +2221,13 @@
 2025-08-20 12:17:51 | 8-K - ESTEE LAUDER COMPANIES INC (0001001250) (Filer) | 2025-08-20T08:01:54-04:00 | https://www.sec.gov/Archives/edgar/data/1001250/000100125025000097/0001001250-25-000097.txt
 2025-08-20 12:17:52 | 8-K - NexMetals Mining Corp. (0000795800) (Filer) | 2025-08-20T08:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/795800/000164117225024923/0001641172-25-024923.txt
 2025-08-20 12:17:54 | 8-K - CYTOKINETICS INC (0001061983) (Filer) | 2025-08-20T07:57:51-04:00 | https://www.sec.gov/Archives/edgar/data/1061983/000095017025110368/0000950170-25-110368.txt
+2025-08-20 13:02:38 | 8-K - Mural Oncology plc (0001971543) (Filer) | 2025-08-20T08:50:42-04:00 | https://www.sec.gov/Archives/edgar/data/1971543/000119312525183796/0001193125-25-183796.txt
+2025-08-20 13:02:38 | 8-K - Blue Owl Real Estate Net Lease Trust (0001944366) (Filer) | 2025-08-20T08:50:21-04:00 | https://www.sec.gov/Archives/edgar/data/1944366/000194436625000103/0001944366-25-000103.txt
+2025-08-20 13:02:40 | 8-K - Datavault AI Inc. (0001682149) (Filer) | 2025-08-20T08:48:10-04:00 | https://www.sec.gov/Archives/edgar/data/1682149/000110465925080564/0001104659-25-080564.txt
+2025-08-20 13:02:41 | 8-K - GUESS INC (0000912463) (Filer) | 2025-08-20T08:47:00-04:00 | https://www.sec.gov/Archives/edgar/data/912463/000119312525183789/0001193125-25-183789.txt
+2025-08-20 13:02:43 | 8-K - Air Products & Chemicals, Inc. (0000002969) (Filer) | 2025-08-20T08:39:38-04:00 | https://www.sec.gov/Archives/edgar/data/2969/000119312525183782/0001193125-25-183782.txt
+2025-08-20 13:02:43 | 8-K - PROGRESSIVE CORP/OH/ (0000080661) (Filer) | 2025-08-20T08:33:59-04:00 | https://www.sec.gov/Archives/edgar/data/80661/000008066125000056/0000080661-25-000056.txt
+2025-08-20 13:02:44 | 8-K - Tivic Health Systems, Inc. (0001787740) (Filer) | 2025-08-20T08:31:01-04:00 | https://www.sec.gov/Archives/edgar/data/1787740/000095017025110374/0000950170-25-110374.txt
+2025-08-20 13:02:46 | 8-K - Brag House Holdings, Inc. (0001903595) (Filer) | 2025-08-20T08:30:47-04:00 | https://www.sec.gov/Archives/edgar/data/1903595/000121390025078742/0001213900-25-078742.txt
+2025-08-20 13:02:47 | 8-K - KULR Technology Group, Inc. (0001662684) (Filer) | 2025-08-20T08:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/1662684/000110465925080557/0001104659-25-080557.txt
+2025-08-20 13:02:50 | 8-K - Microbot Medical Inc. (0000883975) (Filer) | 2025-08-20T08:30:28-04:00 | https://www.sec.gov/Archives/edgar/data/883975/000164117225024927/0001641172-25-024927.txt

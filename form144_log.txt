@@ -1608,3 +1608,5 @@
 2025-08-20 12:17:59 | Hoff Brian Joseph | Officer | Shares: 42500 | Value: $419,900.0 | Percent: 0.139629% | Link: https://www.sec.gov/Archives/edgar/data/1856726/000197005125000023/0001970051-25-000023.txt
 2025-08-20 12:18:07 | Ravkaie Yaron | Director | Shares: 6670 | Value: $87,710.5 | Percent: 0.041909% | Link: https://www.sec.gov/Archives/edgar/data/1986349/000197640825000268/0001976408-25-000268.txt
 2025-08-20 12:18:08 | Ravkaie Yaron | Director | Shares: 6670 | Value: $87,710.5 | Percent: 0.041909% | Link: https://www.sec.gov/Archives/edgar/data/1016838/000197640825000268/0001976408-25-000268.txt
+2025-08-20 13:02:51 | Camden Andrew Ross | Officer | Shares: 43750 | Value: $431,812.0 | Percent: 0.143736% | Link: https://www.sec.gov/Archives/edgar/data/2014748/000197005125000024/0001970051-25-000024.txt
+2025-08-20 13:02:52 | Camden Andrew Ross | Officer | Shares: 43750 | Value: $431,812.0 | Percent: 0.143736% | Link: https://www.sec.gov/Archives/edgar/data/1956955/000197005125000024/0001970051-25-000024.txt
