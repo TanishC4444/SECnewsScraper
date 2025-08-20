@@ -1648,3 +1648,11 @@
 2025-08-20 20:44:38 | MAXIM SHISHIN | Officer | Shares: 12000 | Value: $1,069,975.2 | Percent: 0.023386% | Link: https://www.sec.gov/Archives/edgar/data/874866/000195004725006128/0001950047-25-006128.txt
 2025-08-20 20:44:39 | Nitin Agrawal | Officer | Shares: 6010 | Value: $540,858.66 | Percent: 0.001622% | Link: https://www.sec.gov/Archives/edgar/data/2058038/000141588925022462/0001415889-25-022462.txt
 2025-08-20 20:44:40 | Nitin Agrawal | Officer | Shares: 6010 | Value: $540,858.66 | Percent: 0.001622% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000141588925022462/0001415889-25-022462.txt
+2025-08-20 20:54:16 | Guthrie Michael | Officer | Shares: 19156 | Value: $2,254,739.0 | Percent: 0.002970% | Link: https://www.sec.gov/Archives/edgar/data/1607880/000192109425001001/0001921094-25-001001.txt
+2025-08-20 20:54:17 | Guthrie Michael | Officer | Shares: 19156 | Value: $2,254,739.0 | Percent: 0.002970% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425001001/0001921094-25-001001.txt
+2025-08-20 20:54:18 | Chakravarthy Arvind | Officer | Shares: 20552 | Value: $2,419,181.0 | Percent: 0.003186% | Link: https://www.sec.gov/Archives/edgar/data/2015855/000192109425001000/0001921094-25-001000.txt
+2025-08-20 20:54:19 | Chakravarthy Arvind | Officer | Shares: 20552 | Value: $2,419,181.0 | Percent: 0.003186% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425001000/0001921094-25-001000.txt
+2025-08-20 20:54:20 | Bronstein Manuel | Officer | Shares: 22420 | Value: $2,638,869.0 | Percent: 0.003476% | Link: https://www.sec.gov/Archives/edgar/data/1847776/000192109425000999/0001921094-25-000999.txt
+2025-08-20 20:54:21 | Bronstein Manuel | Officer | Shares: 22420 | Value: $2,638,869.0 | Percent: 0.003476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425000999/0001921094-25-000999.txt
+2025-08-20 20:54:21 | Baszucki David | Officer | Shares: 10401 | Value: $1,224,428.0 | Percent: 0.001612% | Link: https://www.sec.gov/Archives/edgar/data/1834991/000192109425000998/0001921094-25-000998.txt
+2025-08-20 20:54:22 | Baszucki David | Officer | Shares: 10401 | Value: $1,224,428.0 | Percent: 0.001612% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425000998/0001921094-25-000998.txt
