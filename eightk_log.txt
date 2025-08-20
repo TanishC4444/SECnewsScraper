@@ -2283,3 +2283,9 @@
 2025-08-20 21:12:48 | 8-K - Axsome Therapeutics, Inc. (0001579428) (Filer) | 2025-08-20T17:01:38-04:00 | https://www.sec.gov/Archives/edgar/data/1579428/000157942825000007/0001579428-25-000007.txt
 2025-08-20 21:12:50 | 8-K - Asset Entities Inc. (0001920406) (Filer) | 2025-08-20T17:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025079018/0001213900-25-079018.txt
 2025-08-20 21:12:51 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-08-20T17:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025079016/0001213900-25-079016.txt
+2025-08-20 21:30:01 | 8-K - FEDERAL AGRICULTURAL MORTGAGE CORP (0000845877) (Filer) | 2025-08-20T17:28:17-04:00 | https://www.sec.gov/Archives/edgar/data/845877/000084587725000214/0000845877-25-000214.txt
+2025-08-20 21:30:02 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-20T17:25:57-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025079049/0001213900-25-079049.txt
+2025-08-20 21:30:04 | 8-K - Vyome Holdings, Inc (0001427570) (Filer) | 2025-08-20T17:23:32-04:00 | https://www.sec.gov/Archives/edgar/data/1427570/000121390025079045/0001213900-25-079045.txt
+2025-08-20 21:30:06 | 8-K - Atlanticus Holdings Corp (0001464343) (Filer) | 2025-08-20T17:20:33-04:00 | https://www.sec.gov/Archives/edgar/data/1464343/000143774925027466/0001437749-25-027466.txt
+2025-08-20 21:30:08 | 8-K - PSQ Holdings, Inc. (0001847064) (Filer) | 2025-08-20T17:17:19-04:00 | https://www.sec.gov/Archives/edgar/data/1847064/000110465925080974/0001104659-25-080974.txt
+2025-08-20 21:30:12 | 8-K - Alaunos Therapeutics, Inc. (0001107421) (Filer) | 2025-08-20T17:15:23-04:00 | https://www.sec.gov/Archives/edgar/data/1107421/000095017025110484/0000950170-25-110484.txt
