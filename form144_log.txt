@@ -1674,3 +1674,5 @@
 2025-08-20 22:25:58 | ALEXANDER C. KARP | Officer | Shares: 585000 | Value: $88,549,227.0 | Percent: 0.024670% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006141/0001950047-25-006141.txt
 2025-08-20 22:25:59 | DAVID GLAZER | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1823940/000195004725006140/0001950047-25-006140.txt
 2025-08-20 22:26:00 | DAVID GLAZER | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006140/0001950047-25-006140.txt
+2025-08-20 22:40:02 | SHYAM SANKAR | Officer | Shares: 225000 | Value: $34,057,395.0 | Percent: 0.009488% | Link: https://www.sec.gov/Archives/edgar/data/1824159/000195004725006143/0001950047-25-006143.txt
+2025-08-20 22:40:03 | SHYAM SANKAR | Officer | Shares: 225000 | Value: $34,057,395.0 | Percent: 0.009488% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006143/0001950047-25-006143.txt
