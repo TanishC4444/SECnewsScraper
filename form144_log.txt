@@ -1620,3 +1620,7 @@
 2025-08-20 15:39:14 | Liran Ira | Director | Shares: 210000 | Value: $8,862,391.0 | Percent: 0.369569% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000194984625000394/0001949846-25-000394.txt
 2025-08-20 15:39:15 | Foo Lisa Y | Officer | Shares: 8000 | Value: $1,436,278.72 | Percent: 0.009055% | Link: https://www.sec.gov/Archives/edgar/data/1916153/000195917325005376/0001959173-25-005376.txt
 2025-08-20 15:39:16 | Foo Lisa Y | Officer | Shares: 8000 | Value: $1,436,278.72 | Percent: 0.009055% | Link: https://www.sec.gov/Archives/edgar/data/70318/000195917325005376/0001959173-25-005376.txt
+2025-08-20 16:29:39 | Hirsberg Josh | Officer | Shares: 40035 | Value: $3,342,922.0 | Percent: 0.049929% | Link: https://www.sec.gov/Archives/edgar/data/1421390/000195917325005378/0001959173-25-005378.txt
+2025-08-20 16:29:41 | Hirsberg Josh | Officer | Shares: 40035 | Value: $3,342,922.0 | Percent: 0.049929% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195917325005378/0001959173-25-005378.txt
+2025-08-20 16:29:43 | Hull Stephen Edward | Sector President | Shares: 12890 | Value: $2,304,345.3 | Percent: 0.010047% | Link: https://www.sec.gov/Archives/edgar/data/2002273/000197337925000222/0001973379-25-000222.txt
+2025-08-20 16:29:44 | Hull Stephen Edward | Sector President | Shares: 12890 | Value: $2,304,345.3 | Percent: 0.010047% | Link: https://www.sec.gov/Archives/edgar/data/1336920/000197337925000222/0001973379-25-000222.txt
