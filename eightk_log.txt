@@ -2289,3 +2289,4 @@
 2025-08-20 21:30:06 | 8-K - Atlanticus Holdings Corp (0001464343) (Filer) | 2025-08-20T17:20:33-04:00 | https://www.sec.gov/Archives/edgar/data/1464343/000143774925027466/0001437749-25-027466.txt
 2025-08-20 21:30:08 | 8-K - PSQ Holdings, Inc. (0001847064) (Filer) | 2025-08-20T17:17:19-04:00 | https://www.sec.gov/Archives/edgar/data/1847064/000110465925080974/0001104659-25-080974.txt
 2025-08-20 21:30:12 | 8-K - Alaunos Therapeutics, Inc. (0001107421) (Filer) | 2025-08-20T17:15:23-04:00 | https://www.sec.gov/Archives/edgar/data/1107421/000095017025110484/0000950170-25-110484.txt
+2025-08-20 21:42:47 | 8-K - OSR Holdings, Inc. (0001840425) (Filer) | 2025-08-20T17:29:45-04:00 | https://www.sec.gov/Archives/edgar/data/1840425/000121390025079053/0001213900-25-079053.txt
