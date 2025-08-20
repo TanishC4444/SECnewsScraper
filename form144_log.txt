@@ -1632,3 +1632,5 @@
 2025-08-20 18:28:11 | Jozoff Matthew | Director | Shares: 38000 | Value: $278,920.0 | Percent: 0.119751% | Link: https://www.sec.gov/Archives/edgar/data/1514281/000194984625000395/0001949846-25-000395.txt
 2025-08-20 18:28:13 | Christianson Mark | Officer | Shares: 30000 | Value: $24,210.0 | Percent: 0.060219% | Link: https://www.sec.gov/Archives/edgar/data/1709738/000197309725000018/0001973097-25-000018.txt
 2025-08-20 18:28:14 | Christianson Mark | Officer | Shares: 30000 | Value: $24,210.0 | Percent: 0.060219% | Link: https://www.sec.gov/Archives/edgar/data/1500198/000197309725000018/0001973097-25-000018.txt
+2025-08-20 19:51:05 | Mali Investment Holdings Ltd. | Director | Shares: 21400 | Value: $318,119.56 | Percent: 0.007953% | Link: https://www.sec.gov/Archives/edgar/data/2063736/000196624925000031/0001966249-25-000031.txt
+2025-08-20 19:51:06 | Mali Investment Holdings Ltd. | Director | Shares: 21400 | Value: $318,119.56 | Percent: 0.007953% | Link: https://www.sec.gov/Archives/edgar/data/1745431/000196624925000031/0001966249-25-000031.txt
