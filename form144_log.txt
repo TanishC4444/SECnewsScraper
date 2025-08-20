@@ -1598,3 +1598,9 @@
 2025-08-19 23:42:31 | William Fredrick Truscott | Officer | Shares: 9929 | Value: $5,032,933.59 | Percent: 0.010532% | Link: https://www.sec.gov/Archives/edgar/data/820027/000141588925022372/0001415889-25-022372.txt
 2025-08-20 02:20:37 | James William Rogers | Officer | Shares: 7528 | Value: $590,571.6 | Percent: 0.004463% | Link: https://www.sec.gov/Archives/edgar/data/2024630/000141588925022404/0001415889-25-022404.txt
 2025-08-20 02:20:38 | James William Rogers | Officer | Shares: 7528 | Value: $590,571.6 | Percent: 0.004463% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022404/0001415889-25-022404.txt
+2025-08-20 11:20:58 | Andrew Polovin | Officer | Shares: 5398 | Value: $423,473.1 | Percent: 0.003200% | Link: https://www.sec.gov/Archives/edgar/data/2024169/000141588925022410/0001415889-25-022410.txt
+2025-08-20 11:20:59 | Andrew Polovin | Officer | Shares: 5398 | Value: $423,473.1 | Percent: 0.003200% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022410/0001415889-25-022410.txt
+2025-08-20 11:21:00 | Ryan  Fukushima | Officer | Shares: 17460 | Value: $1,369,737.0 | Percent: 0.010351% | Link: https://www.sec.gov/Archives/edgar/data/2024250/000141588925022408/0001415889-25-022408.txt
+2025-08-20 11:21:02 | Ryan  Fukushima | Officer | Shares: 17460 | Value: $1,369,737.0 | Percent: 0.010351% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022408/0001415889-25-022408.txt
+2025-08-20 11:21:03 | Eric Paul Lefkofsky | Officer | Shares: 17458 | Value: $1,369,580.1 | Percent: 0.010350% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022406/0001415889-25-022406.txt
+2025-08-20 11:21:03 | Eric Paul Lefkofsky | Officer | Shares: 17458 | Value: $1,369,580.1 | Percent: 0.010350% | Link: https://www.sec.gov/Archives/edgar/data/1114357/000141588925022406/0001415889-25-022406.txt
