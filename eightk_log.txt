@@ -2277,3 +2277,9 @@
 2025-08-20 20:54:13 | 8-K/A - Safe & Green Development Corp (0001959023) (Filer) | 2025-08-20T16:51:14-04:00 | https://www.sec.gov/Archives/edgar/data/1959023/000121390025079006/0001213900-25-079006.txt
 2025-08-20 20:54:14 | 8-K - SANUWAVE Health, Inc. (0001417663) (Filer) | 2025-08-20T16:49:03-04:00 | https://www.sec.gov/Archives/edgar/data/1417663/000162828025040914/0001628280-25-040914.txt
 2025-08-20 20:54:14 | 8-K - Ares Core Infrastructure Fund (0002031750) (Filer) | 2025-08-20T16:44:13-04:00 | https://www.sec.gov/Archives/edgar/data/2031750/000162828025040911/0001628280-25-040911.txt
+2025-08-20 21:12:44 | 8-K - Nuburu, Inc. (0001814215) (Filer) | 2025-08-20T17:10:27-04:00 | https://www.sec.gov/Archives/edgar/data/1814215/000095017025110481/0000950170-25-110481.txt
+2025-08-20 21:12:45 | 8-K - Eastern Bankshares, Inc. (0001810546) (Filer) | 2025-08-20T17:05:47-04:00 | https://www.sec.gov/Archives/edgar/data/1810546/000119312525184174/0001193125-25-184174.txt
+2025-08-20 21:12:47 | 8-K - Innventure, Inc. (0002001557) (Filer) | 2025-08-20T17:01:41-04:00 | https://www.sec.gov/Archives/edgar/data/2001557/000162828025040919/0001628280-25-040919.txt
+2025-08-20 21:12:48 | 8-K - Axsome Therapeutics, Inc. (0001579428) (Filer) | 2025-08-20T17:01:38-04:00 | https://www.sec.gov/Archives/edgar/data/1579428/000157942825000007/0001579428-25-000007.txt
+2025-08-20 21:12:50 | 8-K - Asset Entities Inc. (0001920406) (Filer) | 2025-08-20T17:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025079018/0001213900-25-079018.txt
+2025-08-20 21:12:51 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-08-20T17:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025079016/0001213900-25-079016.txt
