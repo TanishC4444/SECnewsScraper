@@ -1642,3 +1642,9 @@
 2025-08-20 20:29:41 | ELENA RIDLOFF | Officer | Shares: 17500 | Value: $375,900.0 | Percent: 0.039647% | Link: https://www.sec.gov/Archives/edgar/data/1772518/000195004725006122/0001950047-25-006122.txt
 2025-08-20 20:29:43 | THOMAS SEIFERT | Officer | Shares: 41555 | Value: $8,165,973.05 | Percent: 0.013282% | Link: https://www.sec.gov/Archives/edgar/data/1477333/000195004725006121/0001950047-25-006121.txt
 2025-08-20 20:29:44 | THOMAS SEIFERT | Officer | Shares: 41555 | Value: $8,165,973.05 | Percent: 0.013282% | Link: https://www.sec.gov/Archives/edgar/data/1473289/000195004725006121/0001950047-25-006121.txt
+2025-08-20 20:44:33 | Conine Steven | Officer | Shares: 85000 | Value: $6,806,041.84 | Percent: 0.080950% | Link: https://www.sec.gov/Archives/edgar/data/1620052/000195917325005393/0001959173-25-005393.txt
+2025-08-20 20:44:34 | Conine Steven | Officer | Shares: 85000 | Value: $6,806,041.84 | Percent: 0.080950% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325005393/0001959173-25-005393.txt
+2025-08-20 20:44:37 | MAXIM SHISHIN | Officer | Shares: 12000 | Value: $1,069,975.2 | Percent: 0.023386% | Link: https://www.sec.gov/Archives/edgar/data/1703039/000195004725006128/0001950047-25-006128.txt
+2025-08-20 20:44:38 | MAXIM SHISHIN | Officer | Shares: 12000 | Value: $1,069,975.2 | Percent: 0.023386% | Link: https://www.sec.gov/Archives/edgar/data/874866/000195004725006128/0001950047-25-006128.txt
+2025-08-20 20:44:39 | Nitin Agrawal | Officer | Shares: 6010 | Value: $540,858.66 | Percent: 0.001622% | Link: https://www.sec.gov/Archives/edgar/data/2058038/000141588925022462/0001415889-25-022462.txt
+2025-08-20 20:44:40 | Nitin Agrawal | Officer | Shares: 6010 | Value: $540,858.66 | Percent: 0.001622% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000141588925022462/0001415889-25-022462.txt
