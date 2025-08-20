@@ -1668,3 +1668,9 @@
 2025-08-20 21:30:19 | HDF 2020 LLC | Officer | Shares: 10429 | Value: $4,215,519.65 | Percent: 0.003390% | Link: https://www.sec.gov/Archives/edgar/data/1751008/000195004725006135/0001950047-25-006135.txt
 2025-08-20 21:30:21 | Aslidis Anastasios | Officer | Shares: 9300 | Value: $550,000.0 | Percent: 0.132732% | Link: https://www.sec.gov/Archives/edgar/data/1927715/000192771525000003/0001927715-25-000003.txt
 2025-08-20 21:30:22 | Aslidis Anastasios | Officer | Shares: 9300 | Value: $550,000.0 | Percent: 0.132732% | Link: https://www.sec.gov/Archives/edgar/data/1341170/000192771525000003/0001927715-25-000003.txt
+2025-08-20 22:25:54 | RYAN TAYLOR | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1823923/000195004725006142/0001950047-25-006142.txt
+2025-08-20 22:25:55 | RYAN TAYLOR | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006142/0001950047-25-006142.txt
+2025-08-20 22:25:56 | ALEXANDER C. KARP | Officer | Shares: 585000 | Value: $88,549,227.0 | Percent: 0.024670% | Link: https://www.sec.gov/Archives/edgar/data/1823951/000195004725006141/0001950047-25-006141.txt
+2025-08-20 22:25:58 | ALEXANDER C. KARP | Officer | Shares: 585000 | Value: $88,549,227.0 | Percent: 0.024670% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006141/0001950047-25-006141.txt
+2025-08-20 22:25:59 | DAVID GLAZER | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1823940/000195004725006140/0001950047-25-006140.txt
+2025-08-20 22:26:00 | DAVID GLAZER | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006140/0001950047-25-006140.txt
