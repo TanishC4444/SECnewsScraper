@@ -1624,3 +1624,5 @@
 2025-08-20 16:29:41 | Hirsberg Josh | Officer | Shares: 40035 | Value: $3,342,922.0 | Percent: 0.049929% | Link: https://www.sec.gov/Archives/edgar/data/906553/000195917325005378/0001959173-25-005378.txt
 2025-08-20 16:29:43 | Hull Stephen Edward | Sector President | Shares: 12890 | Value: $2,304,345.3 | Percent: 0.010047% | Link: https://www.sec.gov/Archives/edgar/data/2002273/000197337925000222/0001973379-25-000222.txt
 2025-08-20 16:29:44 | Hull Stephen Edward | Sector President | Shares: 12890 | Value: $2,304,345.3 | Percent: 0.010047% | Link: https://www.sec.gov/Archives/edgar/data/1336920/000197337925000222/0001973379-25-000222.txt
+2025-08-20 16:58:32 | SHAROKY MELVIN MD | Director | Shares: 10000 | Value: $1,294,600.0 | Percent: 0.004731% | Link: https://www.sec.gov/Archives/edgar/data/1182633/000200731725000914/0002007317-25-000914.txt
+2025-08-20 16:58:33 | SHAROKY MELVIN MD | Director | Shares: 10000 | Value: $1,294,600.0 | Percent: 0.004731% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725000914/0002007317-25-000914.txt
