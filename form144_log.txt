@@ -1604,3 +1604,7 @@
 2025-08-20 11:21:02 | Ryan  Fukushima | Officer | Shares: 17460 | Value: $1,369,737.0 | Percent: 0.010351% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022408/0001415889-25-022408.txt
 2025-08-20 11:21:03 | Eric Paul Lefkofsky | Officer | Shares: 17458 | Value: $1,369,580.1 | Percent: 0.010350% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000141588925022406/0001415889-25-022406.txt
 2025-08-20 11:21:03 | Eric Paul Lefkofsky | Officer | Shares: 17458 | Value: $1,369,580.1 | Percent: 0.010350% | Link: https://www.sec.gov/Archives/edgar/data/1114357/000141588925022406/0001415889-25-022406.txt
+2025-08-20 12:17:56 | Hoff Brian Joseph | Officer | Shares: 42500 | Value: $419,900.0 | Percent: 0.139629% | Link: https://www.sec.gov/Archives/edgar/data/1956955/000197005125000023/0001970051-25-000023.txt
+2025-08-20 12:17:59 | Hoff Brian Joseph | Officer | Shares: 42500 | Value: $419,900.0 | Percent: 0.139629% | Link: https://www.sec.gov/Archives/edgar/data/1856726/000197005125000023/0001970051-25-000023.txt
+2025-08-20 12:18:07 | Ravkaie Yaron | Director | Shares: 6670 | Value: $87,710.5 | Percent: 0.041909% | Link: https://www.sec.gov/Archives/edgar/data/1986349/000197640825000268/0001976408-25-000268.txt
+2025-08-20 12:18:08 | Ravkaie Yaron | Director | Shares: 6670 | Value: $87,710.5 | Percent: 0.041909% | Link: https://www.sec.gov/Archives/edgar/data/1016838/000197640825000268/0001976408-25-000268.txt
