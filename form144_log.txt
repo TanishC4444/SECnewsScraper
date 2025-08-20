@@ -1636,3 +1636,9 @@
 2025-08-20 19:51:06 | Mali Investment Holdings Ltd. | Director | Shares: 21400 | Value: $318,119.56 | Percent: 0.007953% | Link: https://www.sec.gov/Archives/edgar/data/1745431/000196624925000031/0001966249-25-000031.txt
 2025-08-20 20:00:11 | Ellison Marvin R | Officer | Shares: 40000 | Value: $10,564,070.3 | Percent: 0.007137% | Link: https://www.sec.gov/Archives/edgar/data/1350382/000200731725000916/0002007317-25-000916.txt
 2025-08-20 20:00:11 | Ellison Marvin R | Officer | Shares: 40000 | Value: $10,564,070.3 | Percent: 0.007137% | Link: https://www.sec.gov/Archives/edgar/data/60667/000200731725000916/0002007317-25-000916.txt
+2025-08-20 20:29:38 | ADAM ELSESSER | Officer | Shares: 15900 | Value: $4,046,988.84 | Percent: 0.040770% | Link: https://www.sec.gov/Archives/edgar/data/1651323/000195004725006124/0001950047-25-006124.txt
+2025-08-20 20:29:39 | ADAM ELSESSER | Officer | Shares: 15900 | Value: $4,046,988.84 | Percent: 0.040770% | Link: https://www.sec.gov/Archives/edgar/data/1321732/000195004725006124/0001950047-25-006124.txt
+2025-08-20 20:29:40 | ELENA RIDLOFF | Officer | Shares: 17500 | Value: $375,900.0 | Percent: 0.039647% | Link: https://www.sec.gov/Archives/edgar/data/2036042/000195004725006122/0001950047-25-006122.txt
+2025-08-20 20:29:41 | ELENA RIDLOFF | Officer | Shares: 17500 | Value: $375,900.0 | Percent: 0.039647% | Link: https://www.sec.gov/Archives/edgar/data/1772518/000195004725006122/0001950047-25-006122.txt
+2025-08-20 20:29:43 | THOMAS SEIFERT | Officer | Shares: 41555 | Value: $8,165,973.05 | Percent: 0.013282% | Link: https://www.sec.gov/Archives/edgar/data/1477333/000195004725006121/0001950047-25-006121.txt
+2025-08-20 20:29:44 | THOMAS SEIFERT | Officer | Shares: 41555 | Value: $8,165,973.05 | Percent: 0.013282% | Link: https://www.sec.gov/Archives/edgar/data/1473289/000195004725006121/0001950047-25-006121.txt
