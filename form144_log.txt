@@ -1628,3 +1628,7 @@
 2025-08-20 16:58:33 | SHAROKY MELVIN MD | Director | Shares: 10000 | Value: $1,294,600.0 | Percent: 0.004731% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725000914/0002007317-25-000914.txt
 2025-08-20 17:37:21 | Ratner Steven | Officer | Shares: 7000 | Value: $446,312.19 | Percent: 0.011683% | Link: https://www.sec.gov/Archives/edgar/data/1995110/000195917325005380/0001959173-25-005380.txt
 2025-08-20 17:37:22 | Ratner Steven | Officer | Shares: 7000 | Value: $446,312.19 | Percent: 0.011683% | Link: https://www.sec.gov/Archives/edgar/data/1049521/000195917325005380/0001959173-25-005380.txt
+2025-08-20 18:27:55 | Jozoff Matthew | Director | Shares: 38000 | Value: $278,920.0 | Percent: 0.119751% | Link: https://www.sec.gov/Archives/edgar/data/1927752/000194984625000395/0001949846-25-000395.txt
+2025-08-20 18:28:11 | Jozoff Matthew | Director | Shares: 38000 | Value: $278,920.0 | Percent: 0.119751% | Link: https://www.sec.gov/Archives/edgar/data/1514281/000194984625000395/0001949846-25-000395.txt
+2025-08-20 18:28:13 | Christianson Mark | Officer | Shares: 30000 | Value: $24,210.0 | Percent: 0.060219% | Link: https://www.sec.gov/Archives/edgar/data/1709738/000197309725000018/0001973097-25-000018.txt
+2025-08-20 18:28:14 | Christianson Mark | Officer | Shares: 30000 | Value: $24,210.0 | Percent: 0.060219% | Link: https://www.sec.gov/Archives/edgar/data/1500198/000197309725000018/0001973097-25-000018.txt
