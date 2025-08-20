@@ -1610,3 +1610,7 @@
 2025-08-20 12:18:08 | Ravkaie Yaron | Director | Shares: 6670 | Value: $87,710.5 | Percent: 0.041909% | Link: https://www.sec.gov/Archives/edgar/data/1016838/000197640825000268/0001976408-25-000268.txt
 2025-08-20 13:02:51 | Camden Andrew Ross | Officer | Shares: 43750 | Value: $431,812.0 | Percent: 0.143736% | Link: https://www.sec.gov/Archives/edgar/data/2014748/000197005125000024/0001970051-25-000024.txt
 2025-08-20 13:02:52 | Camden Andrew Ross | Officer | Shares: 43750 | Value: $431,812.0 | Percent: 0.143736% | Link: https://www.sec.gov/Archives/edgar/data/1956955/000197005125000024/0001970051-25-000024.txt
+2025-08-20 14:29:17 | BOYER ANDREW S | Officer | Shares: 104244 | Value: $969,469.0 | Percent: 0.033190% | Link: https://www.sec.gov/Archives/edgar/data/1723128/000194984625000393/0001949846-25-000393.txt
+2025-08-20 14:29:18 | BOYER ANDREW S | Officer | Shares: 104244 | Value: $969,469.0 | Percent: 0.033190% | Link: https://www.sec.gov/Archives/edgar/data/1239546/000194984625000393/0001949846-25-000393.txt
+2025-08-20 14:29:20 | Baylouny John | Officer | Shares: 11375 | Value: $468,308.75 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1833756/000195917325005374/0001959173-25-005374.txt
+2025-08-20 14:29:21 | Baylouny John | Officer | Shares: 11375 | Value: $468,308.75 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1397134/000195917325005374/0001959173-25-005374.txt
