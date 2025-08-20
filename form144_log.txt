@@ -1614,3 +1614,5 @@
 2025-08-20 14:29:18 | BOYER ANDREW S | Officer | Shares: 104244 | Value: $969,469.0 | Percent: 0.033190% | Link: https://www.sec.gov/Archives/edgar/data/1239546/000194984625000393/0001949846-25-000393.txt
 2025-08-20 14:29:20 | Baylouny John | Officer | Shares: 11375 | Value: $468,308.75 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1833756/000195917325005374/0001959173-25-005374.txt
 2025-08-20 14:29:21 | Baylouny John | Officer | Shares: 11375 | Value: $468,308.75 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1397134/000195917325005374/0001959173-25-005374.txt
+2025-08-20 14:47:04 | GENESIS PARTNERS IV LP | Director | Shares: 1500000 | Value: $6,690,000.0 | Percent: 1.335633% | Link: https://www.sec.gov/Archives/edgar/data/1851112/000197640825000269/0001976408-25-000269.txt
+2025-08-20 14:47:05 | GENESIS PARTNERS IV LP | Director | Shares: 1500000 | Value: $6,690,000.0 | Percent: 1.335633% | Link: https://www.sec.gov/Archives/edgar/data/1449802/000197640825000269/0001976408-25-000269.txt
