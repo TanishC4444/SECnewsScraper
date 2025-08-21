@@ -1756,3 +1756,5 @@
 2025-08-21 22:13:11 | Richard A. Gonzalez | Former Director | Shares: 90000 | Value: $18,993,947.76 | Percent: 0.005095% | Link: https://www.sec.gov/Archives/edgar/data/1239127/000141588925022645/0001415889-25-022645.txt
 2025-08-21 22:13:12 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $531,590.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000770/0001968582-25-000770.txt
 2025-08-21 22:13:13 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $531,590.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000770/0001968582-25-000770.txt
+2025-08-21 22:34:05 | Groesbeck, Robert (PLNH) | Officer | Shares: 2187500 | Value: $700,000.0 | Percent: 0.672324% | Link: https://www.sec.gov/Archives/edgar/data/1898970/000143774925027537/0001437749-25-027537.txt
+2025-08-21 22:34:06 | Groesbeck, Robert (PLNH) | Officer | Shares: 2187500 | Value: $700,000.0 | Percent: 0.672324% | Link: https://www.sec.gov/Archives/edgar/data/1813452/000143774925027537/0001437749-25-027537.txt
