@@ -1736,3 +1736,9 @@
 2025-08-21 20:40:10 | KAUFFMAN ROBERT I | Director | Shares: 7356 | Value: $79,224.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000200731725000931/0002007317-25-000931.txt
 2025-08-21 20:50:32 | LISA SU | Director | Shares: 225000 | Value: $37,170,000.0 | Percent: 0.013865% | Link: https://www.sec.gov/Archives/edgar/data/1405109/000195004725006192/0001950047-25-006192.txt
 2025-08-21 20:50:33 | LISA SU | Director | Shares: 225000 | Value: $37,170,000.0 | Percent: 0.013865% | Link: https://www.sec.gov/Archives/edgar/data/2488/000195004725006192/0001950047-25-006192.txt
+2025-08-21 20:59:34 | PETER JUEPTNER | Officer | Shares: 7619 | Value: $669,300.96 | Percent: 0.002117% | Link: https://www.sec.gov/Archives/edgar/data/1201809/000195004725006193/0001950047-25-006193.txt
+2025-08-21 20:59:35 | PETER JUEPTNER | Officer | Shares: 7619 | Value: $669,300.96 | Percent: 0.002117% | Link: https://www.sec.gov/Archives/edgar/data/1001250/000195004725006193/0001950047-25-006193.txt
+2025-08-21 20:59:36 | Parahus Robert | Officer | Shares: 9831 | Value: $1,286,250.0 | Percent: 0.010013% | Link: https://www.sec.gov/Archives/edgar/data/1792406/000192109425001011/0001921094-25-001011.txt
+2025-08-21 20:59:38 | Parahus Robert | Officer | Shares: 9831 | Value: $1,286,250.0 | Percent: 0.010013% | Link: https://www.sec.gov/Archives/edgar/data/794170/000192109425001011/0001921094-25-001011.txt
+2025-08-21 20:59:40 | Maue Richard A | Officer | Shares: 8776 | Value: $1,663,144.0 | Percent: 0.015250% | Link: https://www.sec.gov/Archives/edgar/data/1944013/000192109425001010/0001921094-25-001010.txt
+2025-08-21 20:59:41 | Maue Richard A | Officer | Shares: 8776 | Value: $1,663,144.0 | Percent: 0.015250% | Link: https://www.sec.gov/Archives/edgar/data/1331850/000192109425001010/0001921094-25-001010.txt
