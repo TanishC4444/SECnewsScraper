@@ -1724,3 +1724,5 @@
 2025-08-21 19:57:49 | SCHROCK IMAN AJ | Officer | Shares: 9000 | Value: $269,000.0 | Percent: 0.030416% | Link: https://www.sec.gov/Archives/edgar/data/1857816/000200429925000002/0002004299-25-000002.txt
 2025-08-21 19:57:50 | Wayne DeVeydt | Director | Shares: 100000 | Value: $2,299,020.9 | Percent: 0.077997% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000645/0001969223-25-000645.txt
 2025-08-21 19:57:51 | Wayne DeVeydt | Director | Shares: 100000 | Value: $2,299,020.9 | Percent: 0.077997% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000645/0001969223-25-000645.txt
+2025-08-21 20:23:47 | Kaufman Matthew D | Officer | Shares: 6000 | Value: $701,040.0 | Percent: 0.000930% | Link: https://www.sec.gov/Archives/edgar/data/2044191/000192109425001009/0001921094-25-001009.txt
+2025-08-21 20:23:48 | Kaufman Matthew D | Officer | Shares: 6000 | Value: $701,040.0 | Percent: 0.000930% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425001009/0001921094-25-001009.txt
