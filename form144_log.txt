@@ -1726,3 +1726,11 @@
 2025-08-21 19:57:51 | Wayne DeVeydt | Director | Shares: 100000 | Value: $2,299,020.9 | Percent: 0.077997% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000645/0001969223-25-000645.txt
 2025-08-21 20:23:47 | Kaufman Matthew D | Officer | Shares: 6000 | Value: $701,040.0 | Percent: 0.000930% | Link: https://www.sec.gov/Archives/edgar/data/2044191/000192109425001009/0001921094-25-001009.txt
 2025-08-21 20:23:48 | Kaufman Matthew D | Officer | Shares: 6000 | Value: $701,040.0 | Percent: 0.000930% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425001009/0001921094-25-001009.txt
+2025-08-21 20:40:00 | CHRISTOPHER BRIAN SLOWE | Officer | Shares: 108000 | Value: $23,583,960.0 | Percent: 0.080246% | Link: https://www.sec.gov/Archives/edgar/data/1924253/000195004725006190/0001950047-25-006190.txt
+2025-08-21 20:40:01 | CHRISTOPHER BRIAN SLOWE | Officer | Shares: 108000 | Value: $23,583,960.0 | Percent: 0.080246% | Link: https://www.sec.gov/Archives/edgar/data/1713445/000195004725006190/0001950047-25-006190.txt
+2025-08-21 20:40:03 | KEITH LARSON | Officer | Shares: 94145 | Value: $1,224,468.7 | Percent: 0.020496% | Link: https://www.sec.gov/Archives/edgar/data/2050857/000195004725006189/0001950047-25-006189.txt
+2025-08-21 20:40:04 | KEITH LARSON | Officer | Shares: 94145 | Value: $1,224,468.7 | Percent: 0.020496% | Link: https://www.sec.gov/Archives/edgar/data/2007855/000195004725006189/0001950047-25-006189.txt
+2025-08-21 20:40:06 | Adams Joseph C. | Officer | Shares: 6674 | Value: $266,987.36 | Percent: 0.087858% | Link: https://www.sec.gov/Archives/edgar/data/1548094/000195779925000187/0001957799-25-000187.txt
+2025-08-21 20:40:07 | Adams Joseph C. | Officer | Shares: 6674 | Value: $266,987.36 | Percent: 0.087858% | Link: https://www.sec.gov/Archives/edgar/data/1530249/000195779925000187/0001957799-25-000187.txt
+2025-08-21 20:40:09 | KAUFFMAN ROBERT I | Director | Shares: 7356 | Value: $79,224.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000200731725000931/0002007317-25-000931.txt
+2025-08-21 20:40:10 | KAUFFMAN ROBERT I | Director | Shares: 7356 | Value: $79,224.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000200731725000931/0002007317-25-000931.txt

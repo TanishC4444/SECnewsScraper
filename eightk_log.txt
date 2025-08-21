@@ -2364,3 +2364,12 @@
 2025-08-21 20:23:38 | 8-K - TECHPRECISION CORP (0001328792) (Filer) | 2025-08-21T16:18:15-04:00 | https://www.sec.gov/Archives/edgar/data/1328792/000110465925081427/0001104659-25-081427.txt
 2025-08-21 20:23:40 | 8-K - Burlington Stores, Inc. (0001579298) (Filer) | 2025-08-21T16:17:48-04:00 | https://www.sec.gov/Archives/edgar/data/1579298/000157929825000004/0001579298-25-000004.txt
 2025-08-21 20:23:44 | 8-K - MATERION Corp (0001104657) (Filer) | 2025-08-21T16:17:22-04:00 | https://www.sec.gov/Archives/edgar/data/1104657/000110465725000164/0001104657-25-000164.txt
+2025-08-21 20:39:44 | 8-K - Exeter Automobile Receivables Trust 2025-4 (0002078220) (Filer) | 2025-08-21T16:35:59-04:00 | https://www.sec.gov/Archives/edgar/data/2078220/000092963825003140/0000929638-25-003140.txt
+2025-08-21 20:39:46 | 8-K - EFCAR, LLC (0001654238) (Filer) | 2025-08-21T16:35:59-04:00 | https://www.sec.gov/Archives/edgar/data/1654238/000092963825003140/0000929638-25-003140.txt
+2025-08-21 20:39:47 | 8-K - QuidelOrtho Corp (0001906324) (Filer) | 2025-08-21T16:35:40-04:00 | https://www.sec.gov/Archives/edgar/data/1906324/000119312525185355/0001193125-25-185355.txt
+2025-08-21 20:39:49 | 8-K - Easterly Government Properties, Inc. (0001622194) (Filer) | 2025-08-21T16:35:25-04:00 | https://www.sec.gov/Archives/edgar/data/1622194/000162219425000007/0001622194-25-000007.txt
+2025-08-21 20:39:51 | 8-K - HONEYWELL INTERNATIONAL INC (0000773840) (Filer) | 2025-08-21T16:32:28-04:00 | https://www.sec.gov/Archives/edgar/data/773840/000077384025000071/0000773840-25-000071.txt
+2025-08-21 20:39:53 | 8-K - Bridgewater Bancshares Inc (0001341317) (Filer) | 2025-08-21T16:32:05-04:00 | https://www.sec.gov/Archives/edgar/data/1341317/000155837025011709/0001558370-25-011709.txt
+2025-08-21 20:39:55 | 8-K - Noble Corp plc (0001895262) (Filer) | 2025-08-21T16:31:26-04:00 | https://www.sec.gov/Archives/edgar/data/1895262/000189526225000007/0001895262-25-000007.txt
+2025-08-21 20:39:56 | 8-K - Oportun Financial Corp (0001538716) (Filer) | 2025-08-21T16:30:59-04:00 | https://www.sec.gov/Archives/edgar/data/1538716/000153871625000086/0001538716-25-000086.txt
+2025-08-21 20:39:58 | 8-K - WinVest Acquisition Corp. (0001854463) (Filer) | 2025-08-21T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1854463/000164117225025093/0001641172-25-025093.txt
