@@ -1768,3 +1768,5 @@
 2025-08-21 23:43:10 | Stephen Winchell | Officer | Shares: 10785 | Value: $39,365.25 | Percent: 0.009693% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000193363425000016/0001933634-25-000016.txt
 2025-08-21 23:43:12 | Kristi Martindale | Officer | Shares: 6406 | Value: $47,515.22 | Percent: 0.015271% | Link: https://www.sec.gov/Archives/edgar/data/1878415/000141588925022661/0001415889-25-022661.txt
 2025-08-21 23:43:12 | Kristi Martindale | Officer | Shares: 6406 | Value: $47,515.22 | Percent: 0.015271% | Link: https://www.sec.gov/Archives/edgar/data/1826681/000141588925022661/0001415889-25-022661.txt
+2025-08-21 23:52:47 | Thomas Sternweis | Officer | Shares: 5153 | Value: $18,808.45 | Percent: 0.004631% | Link: https://www.sec.gov/Archives/edgar/data/2016633/000201663325000012/0002016633-25-000012.txt
+2025-08-21 23:52:48 | Thomas Sternweis | Officer | Shares: 5153 | Value: $18,808.45 | Percent: 0.004631% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000201663325000012/0002016633-25-000012.txt
