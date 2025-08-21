@@ -1696,3 +1696,7 @@
 2025-08-21 14:51:16 | Silcock Christopher W | Officer | Shares: 11905 | Value: $3,207,221.07 | Percent: 0.005062% | Link: https://www.sec.gov/Archives/edgar/data/1585689/000195917325005401/0001959173-25-005401.txt
 2025-08-21 14:51:19 | Olsavsky Brian T | Officer | Shares: 17750 | Value: $3,953,635.0 | Percent: 0.000166% | Link: https://www.sec.gov/Archives/edgar/data/1639902/000200731725000924/0002007317-25-000924.txt
 2025-08-21 14:51:20 | Olsavsky Brian T | Officer | Shares: 17750 | Value: $3,953,635.0 | Percent: 0.000166% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000200731725000924/0002007317-25-000924.txt
+2025-08-21 15:28:50 | Lowenthal Richard E | Officer | Shares: 150000 | Value: $2,123,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1671858/000194984625000399/0001949846-25-000399.txt
+2025-08-21 15:28:51 | Lowenthal Richard E | Officer | Shares: 150000 | Value: $2,123,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1378550/000194984625000399/0001949846-25-000399.txt
+2025-08-21 15:28:54 | Miller Michelle Lynn | Officer | Shares: 10000 | Value: $422,200.0 | Percent: 0.005333% | Link: https://www.sec.gov/Archives/edgar/data/1667683/000195917325005403/0001959173-25-005403.txt
+2025-08-21 15:28:55 | Miller Michelle Lynn | Officer | Shares: 10000 | Value: $422,200.0 | Percent: 0.005333% | Link: https://www.sec.gov/Archives/edgar/data/751364/000195917325005403/0001959173-25-005403.txt
