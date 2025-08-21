@@ -1710,3 +1710,7 @@
 2025-08-21 17:34:02 | Greg Heller | Officer | Shares: 60000 | Value: $2,613,000.0 | Percent: 0.116597% | Link: https://www.sec.gov/Archives/edgar/data/1958140/000196922325000643/0001969223-25-000643.txt
 2025-08-21 17:34:04 | Wiener Adam | Director | Shares: 6000 | Value: $210,000.0 | Percent: 0.006294% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325005407/0001959173-25-005407.txt
 2025-08-21 17:34:04 | Wiener Adam | Director | Shares: 6000 | Value: $210,000.0 | Percent: 0.006294% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325005407/0001959173-25-005407.txt
+2025-08-21 18:57:05 | Garman Matthew S | Officer | Shares: 17785 | Value: $3,940,677.45 | Percent: 0.000167% | Link: https://www.sec.gov/Archives/edgar/data/2024813/000195917325005412/0001959173-25-005412.txt
+2025-08-21 18:57:06 | Garman Matthew S | Officer | Shares: 17785 | Value: $3,940,677.45 | Percent: 0.000167% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005412/0001959173-25-005412.txt
+2025-08-21 18:57:07 | Jassy Andrew R | Officer | Shares: 19872 | Value: $4,403,259.31 | Percent: 0.000186% | Link: https://www.sec.gov/Archives/edgar/data/1374545/000195917325005411/0001959173-25-005411.txt
+2025-08-21 18:57:08 | Jassy Andrew R | Officer | Shares: 19872 | Value: $4,403,259.31 | Percent: 0.000186% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005411/0001959173-25-005411.txt
