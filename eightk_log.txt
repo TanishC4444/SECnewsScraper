@@ -2347,3 +2347,4 @@
 2025-08-21 16:42:02 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-08-21T12:33:37-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525185098/0001193125-25-185098.txt
 2025-08-21 17:33:59 | 8-K - Video River Networks, Inc. (0001084475) (Filer) | 2025-08-21T13:23:57-04:00 | https://www.sec.gov/Archives/edgar/data/1084475/000164117225025062/0001641172-25-025062.txt
 2025-08-21 17:33:59 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-21T13:20:27-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000191/0001331465-25-000191.txt
+2025-08-21 18:21:32 | 8-K - IONIS PHARMACEUTICALS INC (0000874015) (Filer) | 2025-08-21T14:01:34-04:00 | https://www.sec.gov/Archives/edgar/data/874015/000114036125032176/0001140361-25-032176.txt
