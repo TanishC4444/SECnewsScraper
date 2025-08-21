@@ -1704,3 +1704,5 @@
 2025-08-21 16:42:04 | AZZURRO CAPITAL INC | 10% Stockholder | Shares: 100000 | Value: $970,000.0 | Percent: 0.910669% | Link: https://www.sec.gov/Archives/edgar/data/1133311/000134913225000002/0001349132-25-000002.txt
 2025-08-21 16:42:06 | Lee Frank D. | Director | Shares: 15912 | Value: $121,887.71 | Percent: 0.004303% | Link: https://www.sec.gov/Archives/edgar/data/1814686/000195917325005406/0001959173-25-005406.txt
 2025-08-21 16:42:08 | Lee Frank D. | Director | Shares: 15912 | Value: $121,887.71 | Percent: 0.004303% | Link: https://www.sec.gov/Archives/edgar/data/885590/000195917325005406/0001959173-25-005406.txt
+2025-08-21 17:20:41 | Yerdessov Azamat | Freedom Life Chief Exec. Ofc. | Shares: 10000 | Value: $1,692,500.0 | Percent: 0.016334% | Link: https://www.sec.gov/Archives/edgar/data/2033871/000092963825003132/0000929638-25-003132.txt
+2025-08-21 17:20:42 | Yerdessov Azamat | Freedom Life Chief Exec. Ofc. | Shares: 10000 | Value: $1,692,500.0 | Percent: 0.016334% | Link: https://www.sec.gov/Archives/edgar/data/924805/000092963825003132/0000929638-25-003132.txt
