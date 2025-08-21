@@ -1686,3 +1686,7 @@
 2025-08-21 13:54:28 | Massaro Joseph R | Officer | Shares: 35000 | Value: $2,602,600.0 | Percent: 0.016073% | Link: https://www.sec.gov/Archives/edgar/data/1380017/000195917325005396/0001959173-25-005396.txt
 2025-08-21 13:54:30 | Emerson Daniel P | Officer | Shares: 22479 | Value: $5,113,298.13 | Percent: 0.012186% | Link: https://www.sec.gov/Archives/edgar/data/1623654/000195917325005395/0001959173-25-005395.txt
 2025-08-21 13:54:31 | Emerson Daniel P | Officer | Shares: 22479 | Value: $5,113,298.13 | Percent: 0.012186% | Link: https://www.sec.gov/Archives/edgar/data/946581/000195917325005395/0001959173-25-005395.txt
+2025-08-21 14:15:31 | Levin Ron | Officer | Shares: 24633 | Value: $211,351.14 | Percent: 0.043203% | Link: https://www.sec.gov/Archives/edgar/data/1978004/000197640825000271/0001976408-25-000271.txt
+2025-08-21 14:15:32 | Levin Ron | Officer | Shares: 24633 | Value: $211,351.14 | Percent: 0.043203% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000271/0001976408-25-000271.txt
+2025-08-21 14:15:33 | Mullokandov Aharon | Officer | Shares: 8760 | Value: $75,160.8 | Percent: 0.015364% | Link: https://www.sec.gov/Archives/edgar/data/1978045/000197640825000270/0001976408-25-000270.txt
+2025-08-21 14:15:34 | Mullokandov Aharon | Officer | Shares: 8760 | Value: $75,160.8 | Percent: 0.015364% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000270/0001976408-25-000270.txt
