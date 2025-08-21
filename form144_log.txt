@@ -1714,3 +1714,7 @@
 2025-08-21 18:57:06 | Garman Matthew S | Officer | Shares: 17785 | Value: $3,940,677.45 | Percent: 0.000167% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005412/0001959173-25-005412.txt
 2025-08-21 18:57:07 | Jassy Andrew R | Officer | Shares: 19872 | Value: $4,403,259.31 | Percent: 0.000186% | Link: https://www.sec.gov/Archives/edgar/data/1374545/000195917325005411/0001959173-25-005411.txt
 2025-08-21 18:57:08 | Jassy Andrew R | Officer | Shares: 19872 | Value: $4,403,259.31 | Percent: 0.000186% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005411/0001959173-25-005411.txt
+2025-08-21 19:16:05 | SCHOTTENSTEIN ROBERT H | Officer | Shares: 21522 | Value: $2,953,945.34 | Percent: 0.081551% | Link: https://www.sec.gov/Archives/edgar/data/1204731/000195917325005414/0001959173-25-005414.txt
+2025-08-21 19:16:06 | SCHOTTENSTEIN ROBERT H | Officer | Shares: 21522 | Value: $2,953,945.34 | Percent: 0.081551% | Link: https://www.sec.gov/Archives/edgar/data/799292/000195917325005414/0001959173-25-005414.txt
+2025-08-21 19:16:08 | Zapolsky David | Officer | Shares: 7100 | Value: $1,572,944.77 | Percent: 0.000067% | Link: https://www.sec.gov/Archives/edgar/data/1557979/000195917325005413/0001959173-25-005413.txt
+2025-08-21 19:16:09 | Zapolsky David | Officer | Shares: 7100 | Value: $1,572,944.77 | Percent: 0.000067% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005413/0001959173-25-005413.txt
