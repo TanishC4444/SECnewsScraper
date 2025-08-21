@@ -2378,3 +2378,12 @@
 2025-08-21 20:50:30 | 8-K - SANUWAVE Health, Inc. (0001417663) (Filer) | 2025-08-21T16:40:01-04:00 | https://www.sec.gov/Archives/edgar/data/1417663/000162828025040975/0001628280-25-040975.txt
 2025-08-21 20:59:30 | 8-K - OppFi Inc. (0001818502) (Filer) | 2025-08-21T16:52:39-04:00 | https://www.sec.gov/Archives/edgar/data/1818502/000181850225000030/0001818502-25-000030.txt
 2025-08-21 20:59:32 | 8-K - OKMIN RESOURCES, INC. (0001848334) (Filer) | 2025-08-21T16:50:29-04:00 | https://www.sec.gov/Archives/edgar/data/1848334/000107997325001367/0001079973-25-001367.txt
+2025-08-21 21:23:07 | 8-K - Vendome Acquisition Corp I (0002055879) (Filer) | 2025-08-21T17:20:35-04:00 | https://www.sec.gov/Archives/edgar/data/2055879/000114036125032231/0001140361-25-032231.txt
+2025-08-21 21:23:08 | 8-K - OUTFRONT Media Inc. (0001579877) (Filer) | 2025-08-21T17:18:51-04:00 | https://www.sec.gov/Archives/edgar/data/1579877/000157987725000110/0001579877-25-000110.txt
+2025-08-21 21:23:10 | 8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer) | 2025-08-21T17:15:04-04:00 | https://www.sec.gov/Archives/edgar/data/1498710/000095010325010573/0000950103-25-010573.txt
+2025-08-21 21:23:11 | 8-K - CaliberCos Inc. (0001627282) (Filer) | 2025-08-21T17:14:47-04:00 | https://www.sec.gov/Archives/edgar/data/1627282/000162728225000102/0001627282-25-000102.txt
+2025-08-21 21:23:11 | 8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer) | 2025-08-21T17:14:46-04:00 | https://www.sec.gov/Archives/edgar/data/1957845/000195784525000064/0001957845-25-000064.txt
+2025-08-21 21:23:13 | 8-K - Goldman Sachs Private Credit Corp. (0001920145) (Filer) | 2025-08-21T17:12:02-04:00 | https://www.sec.gov/Archives/edgar/data/1920145/000119312525185401/0001193125-25-185401.txt
+2025-08-21 21:23:14 | 8-K - LKQ CORP (0001065696) (Filer) | 2025-08-21T17:11:47-04:00 | https://www.sec.gov/Archives/edgar/data/1065696/000106569625000049/0001065696-25-000049.txt
+2025-08-21 21:23:14 | 8-K/A - SelectQuote, Inc. (0001794783) (Filer) | 2025-08-21T17:08:36-04:00 | https://www.sec.gov/Archives/edgar/data/1794783/000179478325000080/0001794783-25-000080.txt
+2025-08-21 21:23:14 | 8-K - AB Private Lending Fund (0001982701) (Filer) | 2025-08-21T17:07:37-04:00 | https://www.sec.gov/Archives/edgar/data/1982701/000119312525185395/0001193125-25-185395.txt

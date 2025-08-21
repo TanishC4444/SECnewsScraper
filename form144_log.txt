@@ -1742,3 +1742,11 @@
 2025-08-21 20:59:38 | Parahus Robert | Officer | Shares: 9831 | Value: $1,286,250.0 | Percent: 0.010013% | Link: https://www.sec.gov/Archives/edgar/data/794170/000192109425001011/0001921094-25-001011.txt
 2025-08-21 20:59:40 | Maue Richard A | Officer | Shares: 8776 | Value: $1,663,144.0 | Percent: 0.015250% | Link: https://www.sec.gov/Archives/edgar/data/1944013/000192109425001010/0001921094-25-001010.txt
 2025-08-21 20:59:41 | Maue Richard A | Officer | Shares: 8776 | Value: $1,663,144.0 | Percent: 0.015250% | Link: https://www.sec.gov/Archives/edgar/data/1331850/000192109425001010/0001921094-25-001010.txt
+2025-08-21 21:23:16 | Nathan L. Mata | Officer | Shares: 30000 | Value: $1,902,600.0 | Percent: 0.092027% | Link: https://www.sec.gov/Archives/edgar/data/2013987/000196858225000768/0001968582-25-000768.txt
+2025-08-21 21:23:17 | Nathan L. Mata | Officer | Shares: 30000 | Value: $1,902,600.0 | Percent: 0.092027% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000196858225000768/0001968582-25-000768.txt
+2025-08-21 21:23:18 | THOMAS RYAN | Officer | Shares: 18089 | Value: $1,480,040.17 | Percent: 0.012899% | Link: https://www.sec.gov/Archives/edgar/data/1243194/000195004725006196/0001950047-25-006196.txt
+2025-08-21 21:23:20 | THOMAS RYAN | Officer | Shares: 18089 | Value: $1,480,040.17 | Percent: 0.012899% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725006196/0001950047-25-006196.txt
+2025-08-21 21:23:22 | KELLY VINCENT D | Officer | Shares: 25000 | Value: $442,167.15 | Percent: 0.121413% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000200731725000934/0002007317-25-000934.txt
+2025-08-21 21:23:23 | KELLY VINCENT D | Officer | Shares: 25000 | Value: $442,167.15 | Percent: 0.121413% | Link: https://www.sec.gov/Archives/edgar/data/1253133/000200731725000934/0002007317-25-000934.txt
+2025-08-21 21:23:24 | JOHN P MOLLOY | Officer | Shares: 37514 | Value: $17,345,742.08 | Percent: 0.022517% | Link: https://www.sec.gov/Archives/edgar/data/1656592/000195004725006195/0001950047-25-006195.txt
+2025-08-21 21:23:25 | JOHN P MOLLOY | Officer | Shares: 37514 | Value: $17,345,742.08 | Percent: 0.022517% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725006195/0001950047-25-006195.txt
