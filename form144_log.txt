@@ -1718,3 +1718,5 @@
 2025-08-21 19:16:06 | SCHOTTENSTEIN ROBERT H | Officer | Shares: 21522 | Value: $2,953,945.34 | Percent: 0.081551% | Link: https://www.sec.gov/Archives/edgar/data/799292/000195917325005414/0001959173-25-005414.txt
 2025-08-21 19:16:08 | Zapolsky David | Officer | Shares: 7100 | Value: $1,572,944.77 | Percent: 0.000067% | Link: https://www.sec.gov/Archives/edgar/data/1557979/000195917325005413/0001959173-25-005413.txt
 2025-08-21 19:16:09 | Zapolsky David | Officer | Shares: 7100 | Value: $1,572,944.77 | Percent: 0.000067% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005413/0001959173-25-005413.txt
+2025-08-21 19:28:29 | BELL PAUL D | Director | Shares: 12500 | Value: $500,000.0 | Percent: 0.002451% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000200731725000926/0002007317-25-000926.txt
+2025-08-21 19:28:31 | BELL PAUL D | Director | Shares: 12500 | Value: $500,000.0 | Percent: 0.002451% | Link: https://www.sec.gov/Archives/edgar/data/1077816/000200731725000926/0002007317-25-000926.txt
