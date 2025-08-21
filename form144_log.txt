@@ -1762,3 +1762,9 @@
 2025-08-21 22:46:17 | Carla Vernon | Officer | Shares: 99328 | Value: $362,547.2 | Percent: 0.089268% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000196185625000012/0001961856-25-000012.txt
 2025-08-21 22:46:18 | Brendan Sheehey | Officer | Shares: 12059 | Value: $44,015.35 | Percent: 0.010838% | Link: https://www.sec.gov/Archives/edgar/data/1858823/000185882325000014/0001858823-25-000014.txt
 2025-08-21 22:46:19 | Brendan Sheehey | Officer | Shares: 12059 | Value: $44,015.35 | Percent: 0.010838% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000185882325000014/0001858823-25-000014.txt
+2025-08-21 23:43:07 | Katherine Barton | Officer | Shares: 29433 | Value: $107,430.45 | Percent: 0.026452% | Link: https://www.sec.gov/Archives/edgar/data/1977036/000197703625000016/0001977036-25-000016.txt
+2025-08-21 23:43:08 | Katherine Barton | Officer | Shares: 29433 | Value: $107,430.45 | Percent: 0.026452% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000197703625000016/0001977036-25-000016.txt
+2025-08-21 23:43:09 | Stephen Winchell | Officer | Shares: 10785 | Value: $39,365.25 | Percent: 0.009693% | Link: https://www.sec.gov/Archives/edgar/data/1933634/000193363425000016/0001933634-25-000016.txt
+2025-08-21 23:43:10 | Stephen Winchell | Officer | Shares: 10785 | Value: $39,365.25 | Percent: 0.009693% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000193363425000016/0001933634-25-000016.txt
+2025-08-21 23:43:12 | Kristi Martindale | Officer | Shares: 6406 | Value: $47,515.22 | Percent: 0.015271% | Link: https://www.sec.gov/Archives/edgar/data/1878415/000141588925022661/0001415889-25-022661.txt
+2025-08-21 23:43:12 | Kristi Martindale | Officer | Shares: 6406 | Value: $47,515.22 | Percent: 0.015271% | Link: https://www.sec.gov/Archives/edgar/data/1826681/000141588925022661/0001415889-25-022661.txt
