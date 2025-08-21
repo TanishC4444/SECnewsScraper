@@ -1676,3 +1676,7 @@
 2025-08-20 22:26:00 | DAVID GLAZER | Officer | Shares: 23290 | Value: $3,525,318.8 | Percent: 0.000982% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006140/0001950047-25-006140.txt
 2025-08-20 22:40:02 | SHYAM SANKAR | Officer | Shares: 225000 | Value: $34,057,395.0 | Percent: 0.009488% | Link: https://www.sec.gov/Archives/edgar/data/1824159/000195004725006143/0001950047-25-006143.txt
 2025-08-20 22:40:03 | SHYAM SANKAR | Officer | Shares: 225000 | Value: $34,057,395.0 | Percent: 0.009488% | Link: https://www.sec.gov/Archives/edgar/data/1321655/000195004725006143/0001950047-25-006143.txt
+2025-08-21 02:22:40 | Canada Pension Plan Investment Board | Shareholder | Shares: 6200000 | Value: $367,164,000.0 | Percent: 1.964223% | Link: https://www.sec.gov/Archives/edgar/data/1745201/000095017025110538/0000950170-25-110538.txt
+2025-08-21 02:22:41 | Canada Pension Plan Investment Board | Shareholder | Shares: 6200000 | Value: $367,164,000.0 | Percent: 1.964223% | Link: https://www.sec.gov/Archives/edgar/data/1283718/000095017025110538/0000950170-25-110538.txt
+2025-08-21 02:22:43 | SVF Investments (UK) Ltd | Shareholder | Shares: 20000000 | Value: $576,800,000.0 | Percent: 1.201012% | Link: https://www.sec.gov/Archives/edgar/data/1834584/000164117225025011/0001641172-25-025011.txt
+2025-08-21 02:22:44 | SVF Investments (UK) Ltd | Shareholder | Shares: 20000000 | Value: $576,800,000.0 | Percent: 1.201012% | Link: https://www.sec.gov/Archives/edgar/data/1716729/000164117225025011/0001641172-25-025011.txt
