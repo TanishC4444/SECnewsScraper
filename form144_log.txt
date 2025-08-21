@@ -1734,3 +1734,5 @@
 2025-08-21 20:40:07 | Adams Joseph C. | Officer | Shares: 6674 | Value: $266,987.36 | Percent: 0.087858% | Link: https://www.sec.gov/Archives/edgar/data/1530249/000195779925000187/0001957799-25-000187.txt
 2025-08-21 20:40:09 | KAUFFMAN ROBERT I | Director | Shares: 7356 | Value: $79,224.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000200731725000931/0002007317-25-000931.txt
 2025-08-21 20:40:10 | KAUFFMAN ROBERT I | Director | Shares: 7356 | Value: $79,224.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000200731725000931/0002007317-25-000931.txt
+2025-08-21 20:50:32 | LISA SU | Director | Shares: 225000 | Value: $37,170,000.0 | Percent: 0.013865% | Link: https://www.sec.gov/Archives/edgar/data/1405109/000195004725006192/0001950047-25-006192.txt
+2025-08-21 20:50:33 | LISA SU | Director | Shares: 225000 | Value: $37,170,000.0 | Percent: 0.013865% | Link: https://www.sec.gov/Archives/edgar/data/2488/000195004725006192/0001950047-25-006192.txt
