@@ -1682,3 +1682,7 @@
 2025-08-21 02:22:44 | SVF Investments (UK) Ltd | Shareholder | Shares: 20000000 | Value: $576,800,000.0 | Percent: 1.201012% | Link: https://www.sec.gov/Archives/edgar/data/1716729/000164117225025011/0001641172-25-025011.txt
 2025-08-21 13:18:24 | ZOLEY GEORGE C | Officer | Shares: 230850 | Value: $4,854,776.0 | Percent: 5.690371% | Link: https://www.sec.gov/Archives/edgar/data/1012998/000200731725000921/0002007317-25-000921.txt
 2025-08-21 13:18:26 | ZOLEY GEORGE C | Officer | Shares: 230850 | Value: $4,854,776.0 | Percent: 5.690371% | Link: https://www.sec.gov/Archives/edgar/data/923796/000200731725000921/0002007317-25-000921.txt
+2025-08-21 13:54:27 | Massaro Joseph R | Officer | Shares: 35000 | Value: $2,602,600.0 | Percent: 0.016073% | Link: https://www.sec.gov/Archives/edgar/data/1521332/000195917325005396/0001959173-25-005396.txt
+2025-08-21 13:54:28 | Massaro Joseph R | Officer | Shares: 35000 | Value: $2,602,600.0 | Percent: 0.016073% | Link: https://www.sec.gov/Archives/edgar/data/1380017/000195917325005396/0001959173-25-005396.txt
+2025-08-21 13:54:30 | Emerson Daniel P | Officer | Shares: 22479 | Value: $5,113,298.13 | Percent: 0.012186% | Link: https://www.sec.gov/Archives/edgar/data/1623654/000195917325005395/0001959173-25-005395.txt
+2025-08-21 13:54:31 | Emerson Daniel P | Officer | Shares: 22479 | Value: $5,113,298.13 | Percent: 0.012186% | Link: https://www.sec.gov/Archives/edgar/data/946581/000195917325005395/0001959173-25-005395.txt
