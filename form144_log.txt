@@ -1692,3 +1692,7 @@
 2025-08-21 14:15:34 | Mullokandov Aharon | Officer | Shares: 8760 | Value: $75,160.8 | Percent: 0.015364% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000270/0001976408-25-000270.txt
 2025-08-21 14:38:10 | Dageville Benoit | Officer | Shares: 18750 | Value: $3,615,187.5 | Percent: 0.005619% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325005398/0001959173-25-005398.txt
 2025-08-21 14:38:12 | Dageville Benoit | Officer | Shares: 18750 | Value: $3,615,187.5 | Percent: 0.005619% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005398/0001959173-25-005398.txt
+2025-08-21 14:51:16 | Silcock Christopher W | Officer | Shares: 11905 | Value: $3,207,221.07 | Percent: 0.005062% | Link: https://www.sec.gov/Archives/edgar/data/1653153/000195917325005401/0001959173-25-005401.txt
+2025-08-21 14:51:16 | Silcock Christopher W | Officer | Shares: 11905 | Value: $3,207,221.07 | Percent: 0.005062% | Link: https://www.sec.gov/Archives/edgar/data/1585689/000195917325005401/0001959173-25-005401.txt
+2025-08-21 14:51:19 | Olsavsky Brian T | Officer | Shares: 17750 | Value: $3,953,635.0 | Percent: 0.000166% | Link: https://www.sec.gov/Archives/edgar/data/1639902/000200731725000924/0002007317-25-000924.txt
+2025-08-21 14:51:20 | Olsavsky Brian T | Officer | Shares: 17750 | Value: $3,953,635.0 | Percent: 0.000166% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000200731725000924/0002007317-25-000924.txt
