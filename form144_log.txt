@@ -1720,3 +1720,7 @@
 2025-08-21 19:16:09 | Zapolsky David | Officer | Shares: 7100 | Value: $1,572,944.77 | Percent: 0.000067% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005413/0001959173-25-005413.txt
 2025-08-21 19:28:29 | BELL PAUL D | Director | Shares: 12500 | Value: $500,000.0 | Percent: 0.002451% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000200731725000926/0002007317-25-000926.txt
 2025-08-21 19:28:31 | BELL PAUL D | Director | Shares: 12500 | Value: $500,000.0 | Percent: 0.002451% | Link: https://www.sec.gov/Archives/edgar/data/1077816/000200731725000926/0002007317-25-000926.txt
+2025-08-21 19:57:48 | SCHROCK IMAN AJ | Officer | Shares: 9000 | Value: $269,000.0 | Percent: 0.030416% | Link: https://www.sec.gov/Archives/edgar/data/2004299/000200429925000002/0002004299-25-000002.txt
+2025-08-21 19:57:49 | SCHROCK IMAN AJ | Officer | Shares: 9000 | Value: $269,000.0 | Percent: 0.030416% | Link: https://www.sec.gov/Archives/edgar/data/1857816/000200429925000002/0002004299-25-000002.txt
+2025-08-21 19:57:50 | Wayne DeVeydt | Director | Shares: 100000 | Value: $2,299,020.9 | Percent: 0.077997% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000645/0001969223-25-000645.txt
+2025-08-21 19:57:51 | Wayne DeVeydt | Director | Shares: 100000 | Value: $2,299,020.9 | Percent: 0.077997% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000645/0001969223-25-000645.txt
