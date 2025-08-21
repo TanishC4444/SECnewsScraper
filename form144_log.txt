@@ -1700,3 +1700,7 @@
 2025-08-21 15:28:51 | Lowenthal Richard E | Officer | Shares: 150000 | Value: $2,123,000.0 | Percent: 0.151781% | Link: https://www.sec.gov/Archives/edgar/data/1378550/000194984625000399/0001949846-25-000399.txt
 2025-08-21 15:28:54 | Miller Michelle Lynn | Officer | Shares: 10000 | Value: $422,200.0 | Percent: 0.005333% | Link: https://www.sec.gov/Archives/edgar/data/1667683/000195917325005403/0001959173-25-005403.txt
 2025-08-21 15:28:55 | Miller Michelle Lynn | Officer | Shares: 10000 | Value: $422,200.0 | Percent: 0.005333% | Link: https://www.sec.gov/Archives/edgar/data/751364/000195917325005403/0001959173-25-005403.txt
+2025-08-21 16:42:04 | AZZURRO CAPITAL INC | 10% Stockholder | Shares: 100000 | Value: $970,000.0 | Percent: 0.910669% | Link: https://www.sec.gov/Archives/edgar/data/1349132/000134913225000002/0001349132-25-000002.txt
+2025-08-21 16:42:04 | AZZURRO CAPITAL INC | 10% Stockholder | Shares: 100000 | Value: $970,000.0 | Percent: 0.910669% | Link: https://www.sec.gov/Archives/edgar/data/1133311/000134913225000002/0001349132-25-000002.txt
+2025-08-21 16:42:06 | Lee Frank D. | Director | Shares: 15912 | Value: $121,887.71 | Percent: 0.004303% | Link: https://www.sec.gov/Archives/edgar/data/1814686/000195917325005406/0001959173-25-005406.txt
+2025-08-21 16:42:08 | Lee Frank D. | Director | Shares: 15912 | Value: $121,887.71 | Percent: 0.004303% | Link: https://www.sec.gov/Archives/edgar/data/885590/000195917325005406/0001959173-25-005406.txt
