@@ -1706,3 +1706,7 @@
 2025-08-21 16:42:08 | Lee Frank D. | Director | Shares: 15912 | Value: $121,887.71 | Percent: 0.004303% | Link: https://www.sec.gov/Archives/edgar/data/885590/000195917325005406/0001959173-25-005406.txt
 2025-08-21 17:20:41 | Yerdessov Azamat | Freedom Life Chief Exec. Ofc. | Shares: 10000 | Value: $1,692,500.0 | Percent: 0.016334% | Link: https://www.sec.gov/Archives/edgar/data/2033871/000092963825003132/0000929638-25-003132.txt
 2025-08-21 17:20:42 | Yerdessov Azamat | Freedom Life Chief Exec. Ofc. | Shares: 10000 | Value: $1,692,500.0 | Percent: 0.016334% | Link: https://www.sec.gov/Archives/edgar/data/924805/000092963825003132/0000929638-25-003132.txt
+2025-08-21 17:34:01 | Greg Heller | Officer | Shares: 60000 | Value: $2,613,000.0 | Percent: 0.116597% | Link: https://www.sec.gov/Archives/edgar/data/2036380/000196922325000643/0001969223-25-000643.txt
+2025-08-21 17:34:02 | Greg Heller | Officer | Shares: 60000 | Value: $2,613,000.0 | Percent: 0.116597% | Link: https://www.sec.gov/Archives/edgar/data/1958140/000196922325000643/0001969223-25-000643.txt
+2025-08-21 17:34:04 | Wiener Adam | Director | Shares: 6000 | Value: $210,000.0 | Percent: 0.006294% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325005407/0001959173-25-005407.txt
+2025-08-21 17:34:04 | Wiener Adam | Director | Shares: 6000 | Value: $210,000.0 | Percent: 0.006294% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325005407/0001959173-25-005407.txt

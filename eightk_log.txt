@@ -2345,3 +2345,5 @@
 2025-08-21 16:24:23 | 8-K - APPYEA, INC (0001568969) (Filer) | 2025-08-21T12:10:26-04:00 | https://www.sec.gov/Archives/edgar/data/1568969/000164117225025054/0001641172-25-025054.txt
 2025-08-21 16:24:27 | 8-K - Verisk Analytics, Inc. (0001442145) (Filer) | 2025-08-21T11:58:55-04:00 | https://www.sec.gov/Archives/edgar/data/1442145/000119312525185078/0001193125-25-185078.txt
 2025-08-21 16:42:02 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-08-21T12:33:37-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525185098/0001193125-25-185098.txt
+2025-08-21 17:33:59 | 8-K - Video River Networks, Inc. (0001084475) (Filer) | 2025-08-21T13:23:57-04:00 | https://www.sec.gov/Archives/edgar/data/1084475/000164117225025062/0001641172-25-025062.txt
+2025-08-21 17:33:59 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-21T13:20:27-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000191/0001331465-25-000191.txt
