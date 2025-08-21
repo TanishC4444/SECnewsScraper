@@ -1758,3 +1758,7 @@
 2025-08-21 22:13:13 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $531,590.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000770/0001968582-25-000770.txt
 2025-08-21 22:34:05 | Groesbeck, Robert (PLNH) | Officer | Shares: 2187500 | Value: $700,000.0 | Percent: 0.672324% | Link: https://www.sec.gov/Archives/edgar/data/1898970/000143774925027537/0001437749-25-027537.txt
 2025-08-21 22:34:06 | Groesbeck, Robert (PLNH) | Officer | Shares: 2187500 | Value: $700,000.0 | Percent: 0.672324% | Link: https://www.sec.gov/Archives/edgar/data/1813452/000143774925027537/0001437749-25-027537.txt
+2025-08-21 22:46:16 | Carla Vernon | Officer | Shares: 99328 | Value: $362,547.2 | Percent: 0.089268% | Link: https://www.sec.gov/Archives/edgar/data/1961856/000196185625000012/0001961856-25-000012.txt
+2025-08-21 22:46:17 | Carla Vernon | Officer | Shares: 99328 | Value: $362,547.2 | Percent: 0.089268% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000196185625000012/0001961856-25-000012.txt
+2025-08-21 22:46:18 | Brendan Sheehey | Officer | Shares: 12059 | Value: $44,015.35 | Percent: 0.010838% | Link: https://www.sec.gov/Archives/edgar/data/1858823/000185882325000014/0001858823-25-000014.txt
+2025-08-21 22:46:19 | Brendan Sheehey | Officer | Shares: 12059 | Value: $44,015.35 | Percent: 0.010838% | Link: https://www.sec.gov/Archives/edgar/data/1530979/000185882325000014/0001858823-25-000014.txt
