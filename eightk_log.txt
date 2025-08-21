@@ -2387,3 +2387,4 @@
 2025-08-21 21:23:14 | 8-K - LKQ CORP (0001065696) (Filer) | 2025-08-21T17:11:47-04:00 | https://www.sec.gov/Archives/edgar/data/1065696/000106569625000049/0001065696-25-000049.txt
 2025-08-21 21:23:14 | 8-K/A - SelectQuote, Inc. (0001794783) (Filer) | 2025-08-21T17:08:36-04:00 | https://www.sec.gov/Archives/edgar/data/1794783/000179478325000080/0001794783-25-000080.txt
 2025-08-21 21:23:14 | 8-K - AB Private Lending Fund (0001982701) (Filer) | 2025-08-21T17:07:37-04:00 | https://www.sec.gov/Archives/edgar/data/1982701/000119312525185395/0001193125-25-185395.txt
+2025-08-21 21:35:32 | 8-K - Quoin Pharmaceuticals, Ltd. (0001671502) (Filer) | 2025-08-21T17:28:33-04:00 | https://www.sec.gov/Archives/edgar/data/1671502/000110465925081480/0001104659-25-081480.txt
