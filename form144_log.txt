@@ -1872,3 +1872,7 @@
 2025-08-22 20:38:59 | Hannover Holdings S.A. | Affiliate | Shares: 67986 | Value: $241,444.0 | Percent: 0.075100% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000774/0001968582-25-000774.txt
 2025-08-22 20:39:01 | HYONG J KIM | Officer | Shares: 24800 | Value: $391,840.0 | Percent: 0.012523% | Link: https://www.sec.gov/Archives/edgar/data/1993255/000195004725006236/0001950047-25-006236.txt
 2025-08-22 20:39:02 | HYONG J KIM | Officer | Shares: 24800 | Value: $391,840.0 | Percent: 0.012523% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000195004725006236/0001950047-25-006236.txt
+2025-08-22 20:49:08 | CHARLES COLLIER | Officer | Shares: 10269 | Value: $975,555.0 | Percent: 0.006970% | Link: https://www.sec.gov/Archives/edgar/data/1951665/000195004725006273/0001950047-25-006273.txt
+2025-08-22 20:49:09 | CHARLES COLLIER | Officer | Shares: 10269 | Value: $975,555.0 | Percent: 0.006970% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725006273/0001950047-25-006273.txt
+2025-08-22 20:49:12 | GABRIELA VIEIRA | Officer | Shares: 6000 | Value: $86,490.0 | Percent: 0.002102% | Link: https://www.sec.gov/Archives/edgar/data/2075002/000195004725006271/0001950047-25-006271.txt
+2025-08-22 20:49:13 | GABRIELA VIEIRA | Officer | Shares: 6000 | Value: $86,490.0 | Percent: 0.002102% | Link: https://www.sec.gov/Archives/edgar/data/1846832/000195004725006271/0001950047-25-006271.txt
