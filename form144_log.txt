@@ -1902,3 +1902,5 @@
 2025-08-22 21:32:34 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 302194 | Value: $2,085,138.6 | Percent: 0.271610% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000032/0001178937-25-000032.txt
 2025-08-22 21:42:41 | Ronald N. Tutor | Executive Chairman | Shares: 100000 | Value: $5,702,000.0 | Percent: 0.189598% | Link: https://www.sec.gov/Archives/edgar/data/906134/000196858225000779/0001968582-25-000779.txt
 2025-08-22 21:43:18 | Ronald N. Tutor | Executive Chairman | Shares: 100000 | Value: $5,702,000.0 | Percent: 0.189598% | Link: https://www.sec.gov/Archives/edgar/data/77543/000196858225000779/0001968582-25-000779.txt
+2025-08-22 21:51:53 | JOHN T HALL | Director | Shares: 19515 | Value: $817,678.5 | Percent: 0.023764% | Link: https://www.sec.gov/Archives/edgar/data/1565687/000195004725006289/0001950047-25-006289.txt
+2025-08-22 21:51:54 | JOHN T HALL | Director | Shares: 19515 | Value: $817,678.5 | Percent: 0.023764% | Link: https://www.sec.gov/Archives/edgar/data/1106566/000195004725006289/0001950047-25-006289.txt
