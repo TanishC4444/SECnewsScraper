@@ -2453,3 +2453,11 @@
 2025-08-22 20:22:11 | 8-K - Hoth Therapeutics, Inc. (0001711786) (Filer) | 2025-08-22T16:15:38-04:00 | https://www.sec.gov/Archives/edgar/data/1711786/000121390025079915/0001213900-25-079915.txt
 2025-08-22 20:22:13 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-08-22T16:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000164117225025218/0001641172-25-025218.txt
 2025-08-22 20:22:14 | 8-K - enCore Energy Corp. (0001500881) (Filer) | 2025-08-22T16:15:20-04:00 | https://www.sec.gov/Archives/edgar/data/1500881/000119312525186438/0001193125-25-186438.txt
+2025-08-22 20:38:44 | 8-K - Rain Enhancement Technologies Holdco, Inc. (0002028293) (Filer) | 2025-08-22T16:36:22-04:00 | https://www.sec.gov/Archives/edgar/data/2028293/000121390025079948/0001213900-25-079948.txt
+2025-08-22 20:38:46 | 8-K - ADVENT TECHNOLOGIES HOLDINGS, INC. (0001744494) (Filer) | 2025-08-22T16:34:32-04:00 | https://www.sec.gov/Archives/edgar/data/1744494/000182912625006667/0001829126-25-006667.txt
+2025-08-22 20:38:47 | 8-K - NABORS INDUSTRIES LTD (0001163739) (Filer) | 2025-08-22T16:33:03-04:00 | https://www.sec.gov/Archives/edgar/data/1163739/000110465925081917/0001104659-25-081917.txt
+2025-08-22 20:38:49 | 8-K - dMY Squared Technology Group, Inc. (0001915380) (Filer) | 2025-08-22T16:32:15-04:00 | https://www.sec.gov/Archives/edgar/data/1915380/000182912625006665/0001829126-25-006665.txt
+2025-08-22 20:38:51 | 8-K - Medicus Pharma Ltd. (0001997296) (Filer) | 2025-08-22T16:31:11-04:00 | https://www.sec.gov/Archives/edgar/data/1997296/000106299325014806/0001062993-25-014806.txt
+2025-08-22 20:38:52 | 8-K - THUMZUP MEDIA Corp (0001853825) (Filer) | 2025-08-22T16:30:58-04:00 | https://www.sec.gov/Archives/edgar/data/1853825/000149315225012270/0001493152-25-012270.txt
+2025-08-22 20:38:54 | 8-K - Banzai International, Inc. (0001826011) (Filer) | 2025-08-22T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1826011/000149315225012268/0001493152-25-012268.txt
+2025-08-22 20:38:56 | 8-K - urban-gro, Inc. (0001706524) (Filer) | 2025-08-22T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1706524/000121390025079944/0001213900-25-079944.txt
