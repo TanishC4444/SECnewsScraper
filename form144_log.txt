@@ -1802,3 +1802,7 @@
 2025-08-22 13:24:14 | Tal Amir David | Right to appoint up to three board members | Shares: 21000000 | Value: $63,000.0 | Percent: 3.169805% | Link: https://www.sec.gov/Archives/edgar/data/1081938/000205479325000002/0002054793-25-000002.txt
 2025-08-22 13:43:37 | Plassche Douglas | Officer | Shares: 100000 | Value: $555,000.0 | Percent: 0.009337% | Link: https://www.sec.gov/Archives/edgar/data/1600946/000195917325005430/0001959173-25-005430.txt
 2025-08-22 13:43:37 | Plassche Douglas | Officer | Shares: 100000 | Value: $555,000.0 | Percent: 0.009337% | Link: https://www.sec.gov/Archives/edgar/data/1053369/000195917325005430/0001959173-25-005430.txt
+2025-08-22 13:53:15 | Zapolsky David | Officer | Shares: 13570 | Value: $3,022,853.2 | Percent: 0.000127% | Link: https://www.sec.gov/Archives/edgar/data/1557979/000195917325005432/0001959173-25-005432.txt
+2025-08-22 13:53:16 | Zapolsky David | Officer | Shares: 13570 | Value: $3,022,853.2 | Percent: 0.000127% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005432/0001959173-25-005432.txt
+2025-08-22 13:53:18 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,418,165.9 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/1382297/000195917325005431/0001959173-25-005431.txt
+2025-08-22 13:53:19 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,418,165.9 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/927653/000195917325005431/0001959173-25-005431.txt
