@@ -1820,3 +1820,5 @@
 2025-08-22 16:17:04 | Lord Phillippe | Officer | Shares: 6950 | Value: $556,069.5 | Percent: 0.009767% | Link: https://www.sec.gov/Archives/edgar/data/833079/000200731725000940/0002007317-25-000940.txt
 2025-08-22 16:42:12 | Callahan Patrick K | Officer | Shares: 6232 | Value: $1,562,860.96 | Percent: 0.001063% | Link: https://www.sec.gov/Archives/edgar/data/1638126/000195917325005442/0001959173-25-005442.txt
 2025-08-22 16:42:12 | Callahan Patrick K | Officer | Shares: 6232 | Value: $1,562,860.96 | Percent: 0.001063% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005442/0001959173-25-005442.txt
+2025-08-22 16:54:41 | McSweeney Erin | Director | Shares: 10000 | Value: $514,711.47 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/1645325/000195917325005445/0001959173-25-005445.txt
+2025-08-22 16:54:42 | McSweeney Erin | Director | Shares: 10000 | Value: $514,711.47 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325005445/0001959173-25-005445.txt
