@@ -1812,3 +1812,7 @@
 2025-08-22 14:47:03 | Shuda Scott | Director | Shares: 5752 | Value: $56,455.0 | Percent: 0.028160% | Link: https://www.sec.gov/Archives/edgar/data/1337013/000194984625000403/0001949846-25-000403.txt
 2025-08-22 14:47:05 | Goines Mark | Director | Shares: 20000 | Value: $1,734,400.0 | Percent: 0.025790% | Link: https://www.sec.gov/Archives/edgar/data/1932585/000194984625000402/0001949846-25-000402.txt
 2025-08-22 14:47:06 | Goines Mark | Director | Shares: 20000 | Value: $1,734,400.0 | Percent: 0.025790% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000402/0001949846-25-000402.txt
+2025-08-22 15:54:24 | Murphy Gregory J | Officer | Shares: 10513 | Value: $1,554,791.43 | Percent: 0.004580% | Link: https://www.sec.gov/Archives/edgar/data/1838901/000195917325005437/0001959173-25-005437.txt
+2025-08-22 15:54:25 | Murphy Gregory J | Officer | Shares: 10513 | Value: $1,554,791.43 | Percent: 0.004580% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325005437/0001959173-25-005437.txt
+2025-08-22 15:54:26 | BOEHLE DANIEL L. | Officer | Shares: 5761 | Value: $235,394.36 | Percent: 0.005576% | Link: https://www.sec.gov/Archives/edgar/data/1730069/000200731725000939/0002007317-25-000939.txt
+2025-08-22 15:54:27 | BOEHLE DANIEL L. | Officer | Shares: 5761 | Value: $235,394.36 | Percent: 0.005576% | Link: https://www.sec.gov/Archives/edgar/data/1116942/000200731725000939/0002007317-25-000939.txt
