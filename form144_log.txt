@@ -1796,3 +1796,7 @@
 2025-08-22 12:00:52 | He Haijian | Director | Shares: 15362 | Value: $208,462.34 | Percent: 0.000434% | Link: https://www.sec.gov/Archives/edgar/data/1795589/000197337225000009/0001973372-25-000009.txt
 2025-08-22 12:00:53 | Liu Tao | Director | Shares: 120000 | Value: $1,628,400.0 | Percent: 0.003391% | Link: https://www.sec.gov/Archives/edgar/data/1975760/000197337225000008/0001973372-25-000008.txt
 2025-08-22 12:00:54 | Liu Tao | Director | Shares: 120000 | Value: $1,628,400.0 | Percent: 0.003391% | Link: https://www.sec.gov/Archives/edgar/data/1795589/000197337225000008/0001973372-25-000008.txt
+2025-08-22 13:24:10 | Daniel T. Noreck | Officer | Shares: 8375 | Value: $50,836.0 | Percent: 0.011715% | Link: https://www.sec.gov/Archives/edgar/data/2018064/000095017025110821/0000950170-25-110821.txt
+2025-08-22 13:24:11 | Daniel T. Noreck | Officer | Shares: 8375 | Value: $50,836.0 | Percent: 0.011715% | Link: https://www.sec.gov/Archives/edgar/data/1501707/000095017025110821/0000950170-25-110821.txt
+2025-08-22 13:24:13 | Tal Amir David | Right to appoint up to three board members | Shares: 21000000 | Value: $63,000.0 | Percent: 3.169805% | Link: https://www.sec.gov/Archives/edgar/data/2054793/000205479325000002/0002054793-25-000002.txt
+2025-08-22 13:24:14 | Tal Amir David | Right to appoint up to three board members | Shares: 21000000 | Value: $63,000.0 | Percent: 3.169805% | Link: https://www.sec.gov/Archives/edgar/data/1081938/000205479325000002/0002054793-25-000002.txt
