@@ -2405,3 +2405,13 @@
 2025-08-22 11:22:12 | 8-K - Ubiquiti Inc. (0001511737) (Filer) | 2025-08-22T07:04:08-04:00 | https://www.sec.gov/Archives/edgar/data/1511737/000151173725000055/0001511737-25-000055.txt
 2025-08-22 11:22:13 | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | 2025-08-22T07:01:47-04:00 | https://www.sec.gov/Archives/edgar/data/1531152/000153115225000097/0001531152-25-000097.txt
 2025-08-22 11:42:31 | 8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer) | 2025-08-22T07:34:31-04:00 | https://www.sec.gov/Archives/edgar/data/1101215/000110121525000147/0001101215-25-000147.txt
+2025-08-22 12:54:06 | 8-K - Hudson Global, Inc. (0001210708) (Filer) | 2025-08-22T08:52:42-04:00 | https://www.sec.gov/Archives/edgar/data/1210708/000119312525185803/0001193125-25-185803.txt
+2025-08-22 12:54:07 | 8-K - Hudson Global, Inc. (0001210708) (Filer) | 2025-08-22T08:50:30-04:00 | https://www.sec.gov/Archives/edgar/data/1210708/000119312525185799/0001193125-25-185799.txt
+2025-08-22 12:54:10 | 8-K - STAR EQUITY HOLDINGS, INC. (0000707388) (Filer) | 2025-08-22T08:48:06-04:00 | https://www.sec.gov/Archives/edgar/data/707388/000119312525185785/0001193125-25-185785.txt
+2025-08-22 12:54:12 | 8-K - CleanCore Solutions, Inc. (0001956741) (Filer) | 2025-08-22T08:44:56-04:00 | https://www.sec.gov/Archives/edgar/data/1956741/000121390025079585/0001213900-25-079585.txt
+2025-08-22 12:54:14 | 8-K - QCR HOLDINGS INC (0000906465) (Filer) | 2025-08-22T08:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/906465/000117184325005550/0001171843-25-005550.txt
+2025-08-22 12:54:17 | 8-K - Solventum Corp (0001964738) (Filer) | 2025-08-22T08:25:44-04:00 | https://www.sec.gov/Archives/edgar/data/1964738/000196473825000073/0001964738-25-000073.txt
+2025-08-22 12:54:17 | 8-K - EQV Ventures Acquisition Corp. II (0002042902) (Filer) | 2025-08-22T08:05:54-04:00 | https://www.sec.gov/Archives/edgar/data/2042902/000121390025079577/0001213900-25-079577.txt
+2025-08-22 12:54:17 | 8-K - AParadise Acquisition Corp. (0001956439) (Filer) | 2025-08-22T08:00:51-04:00 | https://www.sec.gov/Archives/edgar/data/1956439/000121390025079576/0001213900-25-079576.txt
+2025-08-22 12:54:20 | 8-K - Ramaco Resources, Inc. (0001687187) (Filer) | 2025-08-22T08:00:44-04:00 | https://www.sec.gov/Archives/edgar/data/1687187/000110465925081629/0001104659-25-081629.txt
+2025-08-22 12:54:22 | 8-K - Sagimet Biosciences Inc. (0001400118) (Filer) | 2025-08-22T08:00:44-04:00 | https://www.sec.gov/Archives/edgar/data/1400118/000110465925081630/0001104659-25-081630.txt
