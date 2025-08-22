@@ -1822,3 +1822,7 @@
 2025-08-22 16:42:12 | Callahan Patrick K | Officer | Shares: 6232 | Value: $1,562,860.96 | Percent: 0.001063% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005442/0001959173-25-005442.txt
 2025-08-22 16:54:41 | McSweeney Erin | Director | Shares: 10000 | Value: $514,711.47 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/1645325/000195917325005445/0001959173-25-005445.txt
 2025-08-22 16:54:42 | McSweeney Erin | Director | Shares: 10000 | Value: $514,711.47 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325005445/0001959173-25-005445.txt
+2025-08-22 17:13:09 | Moe Christopher R. | Director | Shares: 26833 | Value: $257,000.0 | Percent: 0.026896% | Link: https://www.sec.gov/Archives/edgar/data/1930171/000200731725000942/0002007317-25-000942.txt
+2025-08-22 17:13:10 | Moe Christopher R. | Director | Shares: 26833 | Value: $257,000.0 | Percent: 0.026896% | Link: https://www.sec.gov/Archives/edgar/data/748268/000200731725000942/0002007317-25-000942.txt
+2025-08-22 17:13:11 | Prindiville Mark Q | Officer | Shares: 7383 | Value: $1,537,214.43 | Percent: 0.002802% | Link: https://www.sec.gov/Archives/edgar/data/1811428/000195917325005447/0001959173-25-005447.txt
+2025-08-22 17:13:12 | Prindiville Mark Q | Officer | Shares: 7383 | Value: $1,537,214.43 | Percent: 0.002802% | Link: https://www.sec.gov/Archives/edgar/data/899051/000195917325005447/0001959173-25-005447.txt
