@@ -1854,3 +1854,7 @@
 2025-08-22 19:15:24 | Keller Michael D | Officer | Shares: 6088 | Value: $903,521.66 | Percent: 0.002652% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325005456/0001959173-25-005456.txt
 2025-08-22 19:27:39 | BURCH ROBERT J | Officer | Shares: 6263 | Value: $285,279.65 | Percent: 0.003110% | Link: https://www.sec.gov/Archives/edgar/data/1847540/000195917325005459/0001959173-25-005459.txt
 2025-08-22 19:27:40 | BURCH ROBERT J | Officer | Shares: 6263 | Value: $285,279.65 | Percent: 0.003110% | Link: https://www.sec.gov/Archives/edgar/data/1021635/000195917325005459/0001959173-25-005459.txt
+2025-08-22 19:38:31 | Brummer Gregg | Officer | Shares: 7338 | Value: $1,716,666.4 | Percent: 0.002350% | Link: https://www.sec.gov/Archives/edgar/data/1990713/000195917325005465/0001959173-25-005465.txt
+2025-08-22 19:38:32 | Brummer Gregg | Officer | Shares: 7338 | Value: $1,716,666.4 | Percent: 0.002350% | Link: https://www.sec.gov/Archives/edgar/data/1060391/000195917325005465/0001959173-25-005465.txt
+2025-08-22 19:38:34 | VANHYFTE CURTIS | Officer | Shares: 5082 | Value: $355,587.54 | Percent: 0.005141% | Link: https://www.sec.gov/Archives/edgar/data/1976212/000195917325005462/0001959173-25-005462.txt
+2025-08-22 19:38:35 | VANHYFTE CURTIS | Officer | Shares: 5082 | Value: $355,587.54 | Percent: 0.005141% | Link: https://www.sec.gov/Archives/edgar/data/1562476/000195917325005462/0001959173-25-005462.txt
