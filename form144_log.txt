@@ -1838,3 +1838,9 @@
 2025-08-22 18:18:12 | Mateus-Tique Jaime | Director | Shares: 10000 | Value: $274,411.0 | Percent: 0.032013% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000100027525000116/0001000275-25-000116.txt
 2025-08-22 18:18:13 | Duato Joaquin | Officer | Shares: 125824 | Value: $22,652,723.84 | Percent: 0.005225% | Link: https://www.sec.gov/Archives/edgar/data/1673401/000195917325005451/0001959173-25-005451.txt
 2025-08-22 18:18:13 | Duato Joaquin | Officer | Shares: 125824 | Value: $22,652,723.84 | Percent: 0.005225% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005451/0001959173-25-005451.txt
+2025-08-22 18:44:41 | Liran Ira | Director | Shares: 140000 | Value: $6,040,000.0 | Percent: 0.246379% | Link: https://www.sec.gov/Archives/edgar/data/1886269/000194984625000407/0001949846-25-000407.txt
+2025-08-22 18:44:42 | Liran Ira | Director | Shares: 140000 | Value: $6,040,000.0 | Percent: 0.246379% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000194984625000407/0001949846-25-000407.txt
+2025-08-22 18:44:43 | Yang Yingmei | Director | Shares: 17675 | Value: $1,799,369.78 | Percent: 0.090742% | Link: https://www.sec.gov/Archives/edgar/data/1972278/000195917325005455/0001959173-25-005455.txt
+2025-08-22 18:44:44 | Yang Yingmei | Director | Shares: 17675 | Value: $1,799,369.78 | Percent: 0.090742% | Link: https://www.sec.gov/Archives/edgar/data/1474627/000195917325005455/0001959173-25-005455.txt
+2025-08-22 18:44:45 | Taylor Stephen Charles | Director | Shares: 20000 | Value: $525,060.0 | Percent: 0.159460% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000117/0001000275-25-000117.txt
+2025-08-22 18:44:46 | Taylor Stephen Charles | Director | Shares: 20000 | Value: $525,060.0 | Percent: 0.159460% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000117/0001000275-25-000117.txt
