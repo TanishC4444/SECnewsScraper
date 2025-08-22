@@ -1780,3 +1780,5 @@
 2025-08-22 02:23:18 | Sukumar Nagendran | Officer | Shares: 57054 | Value: $163,744.98 | Percent: 0.020915% | Link: https://www.sec.gov/Archives/edgar/data/1665124/000141588925022685/0001415889-25-022685.txt
 2025-08-22 02:23:20 | Sean McAuliffe | Affiliate - Chief Business Officer | Shares: 27590 | Value: $79,183.3 | Percent: 0.010114% | Link: https://www.sec.gov/Archives/edgar/data/1979693/000141588925022683/0001415889-25-022683.txt
 2025-08-22 02:23:21 | Sean McAuliffe | Affiliate - Chief Business Officer | Shares: 27590 | Value: $79,183.3 | Percent: 0.010114% | Link: https://www.sec.gov/Archives/edgar/data/1806310/000141588925022683/0001415889-25-022683.txt
+2025-08-22 10:18:12 | Kerbel Doron | Officer | Shares: 11089 | Value: $98,692.1 | Percent: 0.019449% | Link: https://www.sec.gov/Archives/edgar/data/1978291/000197640825000272/0001976408-25-000272.txt
+2025-08-22 10:18:13 | Kerbel Doron | Officer | Shares: 11089 | Value: $98,692.1 | Percent: 0.019449% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000272/0001976408-25-000272.txt
