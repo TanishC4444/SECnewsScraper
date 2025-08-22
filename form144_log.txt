@@ -1904,3 +1904,5 @@
 2025-08-22 21:43:18 | Ronald N. Tutor | Executive Chairman | Shares: 100000 | Value: $5,702,000.0 | Percent: 0.189598% | Link: https://www.sec.gov/Archives/edgar/data/77543/000196858225000779/0001968582-25-000779.txt
 2025-08-22 21:51:53 | JOHN T HALL | Director | Shares: 19515 | Value: $817,678.5 | Percent: 0.023764% | Link: https://www.sec.gov/Archives/edgar/data/1565687/000195004725006289/0001950047-25-006289.txt
 2025-08-22 21:51:54 | JOHN T HALL | Director | Shares: 19515 | Value: $817,678.5 | Percent: 0.023764% | Link: https://www.sec.gov/Archives/edgar/data/1106566/000195004725006289/0001950047-25-006289.txt
+2025-08-22 22:01:07 | JBH Investment Trust | See Remarks | Shares: 375000 | Value: $58,331,250.0 | Percent: 0.021702% | Link: https://www.sec.gov/Archives/edgar/data/2063457/000196858225000780/0001968582-25-000780.txt
+2025-08-22 22:01:07 | JBH Investment Trust | See Remarks | Shares: 375000 | Value: $58,331,250.0 | Percent: 0.021702% | Link: https://www.sec.gov/Archives/edgar/data/93410/000196858225000780/0001968582-25-000780.txt
