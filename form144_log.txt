@@ -1912,3 +1912,5 @@
 2025-08-22 22:25:47 | SULLIVAN CRAIG F | Director | Shares: 5376 | Value: $564,519.78 | Percent: 0.029425% | Link: https://www.sec.gov/Archives/edgar/data/907242/000197407825000270/0001974078-25-000270.txt
 2025-08-22 22:25:49 | Richard A. Gonzalez | Former Director | Shares: 62755 | Value: $13,231,264.2 | Percent: 0.003552% | Link: https://www.sec.gov/Archives/edgar/data/1551152/000141588925022795/0001415889-25-022795.txt
 2025-08-22 22:25:49 | Richard A. Gonzalez | Former Director | Shares: 62755 | Value: $13,231,264.2 | Percent: 0.003552% | Link: https://www.sec.gov/Archives/edgar/data/1239127/000141588925022795/0001415889-25-022795.txt
+2025-08-22 22:59:23 | Nichols Kord | Officer | Shares: 37075 | Value: $2,262,562.91 | Percent: 0.062305% | Link: https://www.sec.gov/Archives/edgar/data/2013367/000196430625000334/0001964306-25-000334.txt
+2025-08-22 22:59:24 | Nichols Kord | Officer | Shares: 37075 | Value: $2,262,562.91 | Percent: 0.062305% | Link: https://www.sec.gov/Archives/edgar/data/1653653/000196430625000334/0001964306-25-000334.txt
