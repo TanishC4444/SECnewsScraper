@@ -1848,3 +1848,7 @@
 2025-08-22 18:56:35 | Satz Devin | Officer | Shares: 7000 | Value: $94,500.0 | Percent: 0.038781% | Link: https://www.sec.gov/Archives/edgar/data/1675644/000197407825000269/0001974078-25-000269.txt
 2025-08-22 18:56:35 | Marak Chad | former officer | Shares: 8437 | Value: $2,206,497.0 | Percent: 0.034045% | Link: https://www.sec.gov/Archives/edgar/data/2010032/000200731725000946/0002007317-25-000946.txt
 2025-08-22 18:56:35 | Marak Chad | former officer | Shares: 8437 | Value: $2,206,497.0 | Percent: 0.034045% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000946/0002007317-25-000946.txt
+2025-08-22 19:15:20 | Corso Joseph John | Officer | Shares: 8007 | Value: $226,816.69 | Percent: 0.016046% | Link: https://www.sec.gov/Archives/edgar/data/1914846/000195917325005458/0001959173-25-005458.txt
+2025-08-22 19:15:21 | Corso Joseph John | Officer | Shares: 8007 | Value: $226,816.69 | Percent: 0.016046% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005458/0001959173-25-005458.txt
+2025-08-22 19:15:23 | Keller Michael D | Officer | Shares: 6088 | Value: $903,521.66 | Percent: 0.002652% | Link: https://www.sec.gov/Archives/edgar/data/1491394/000195917325005456/0001959173-25-005456.txt
+2025-08-22 19:15:24 | Keller Michael D | Officer | Shares: 6088 | Value: $903,521.66 | Percent: 0.002652% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325005456/0001959173-25-005456.txt
