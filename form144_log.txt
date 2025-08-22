@@ -1826,3 +1826,9 @@
 2025-08-22 17:13:10 | Moe Christopher R. | Director | Shares: 26833 | Value: $257,000.0 | Percent: 0.026896% | Link: https://www.sec.gov/Archives/edgar/data/748268/000200731725000942/0002007317-25-000942.txt
 2025-08-22 17:13:11 | Prindiville Mark Q | Officer | Shares: 7383 | Value: $1,537,214.43 | Percent: 0.002802% | Link: https://www.sec.gov/Archives/edgar/data/1811428/000195917325005447/0001959173-25-005447.txt
 2025-08-22 17:13:12 | Prindiville Mark Q | Officer | Shares: 7383 | Value: $1,537,214.43 | Percent: 0.002802% | Link: https://www.sec.gov/Archives/edgar/data/899051/000195917325005447/0001959173-25-005447.txt
+2025-08-22 17:32:07 | Inson Paul Joseph | Officer | Shares: 10000 | Value: $300,013.0 | Percent: 0.074781% | Link: https://www.sec.gov/Archives/edgar/data/1974089/000100027525000115/0001000275-25-000115.txt
+2025-08-22 17:32:09 | Inson Paul Joseph | Officer | Shares: 10000 | Value: $300,013.0 | Percent: 0.074781% | Link: https://www.sec.gov/Archives/edgar/data/1720420/000100027525000115/0001000275-25-000115.txt
+2025-08-22 17:32:11 | Dussan Luis | Officer | Shares: 50000 | Value: $136,000.0 | Percent: 0.125178% | Link: https://www.sec.gov/Archives/edgar/data/1877925/000200731725000943/0002007317-25-000943.txt
+2025-08-22 17:32:12 | Dussan Luis | Officer | Shares: 50000 | Value: $136,000.0 | Percent: 0.125178% | Link: https://www.sec.gov/Archives/edgar/data/1818644/000200731725000943/0002007317-25-000943.txt
+2025-08-22 17:32:15 | Page Andrew E | Officer | Shares: 42486 | Value: $1,606,820.52 | Percent: 0.007683% | Link: https://www.sec.gov/Archives/edgar/data/1988894/000197337925000224/0001973379-25-000224.txt
+2025-08-22 17:32:16 | Page Andrew E | Officer | Shares: 42486 | Value: $1,606,820.52 | Percent: 0.007683% | Link: https://www.sec.gov/Archives/edgar/data/1769347/000197337925000224/0001973379-25-000224.txt
