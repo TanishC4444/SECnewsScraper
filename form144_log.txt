@@ -1788,3 +1788,7 @@
 2025-08-22 11:22:15 | Mullokandov Aharon | Officer | Shares: 7160 | Value: $63,724.0 | Percent: 0.012558% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000274/0001976408-25-000274.txt
 2025-08-22 11:42:33 | Stoleru Ronen | Officer | Shares: 7500 | Value: $66,750.0 | Percent: 0.013154% | Link: https://www.sec.gov/Archives/edgar/data/2081849/000197640825000275/0001976408-25-000275.txt
 2025-08-22 11:42:34 | Stoleru Ronen | Officer | Shares: 7500 | Value: $66,750.0 | Percent: 0.013154% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000275/0001976408-25-000275.txt
+2025-08-22 11:51:45 | ZHANG Tao | Officer, Director | Shares: 70000 | Value: $1,647,800.0 | Percent: 0.007359% | Link: https://www.sec.gov/Archives/edgar/data/2001887/000110465925081628/0001104659-25-081628.txt
+2025-08-22 11:51:46 | ZHANG Tao | Officer, Director | Shares: 70000 | Value: $1,647,800.0 | Percent: 0.007359% | Link: https://www.sec.gov/Archives/edgar/data/1842827/000110465925081628/0001104659-25-081628.txt
+2025-08-22 11:51:48 | KZBZ Limited | Entity formed for benefit of Issuer's affiliates | Shares: 580000 | Value: $12,365,600.0 | Percent: 0.060977% | Link: https://www.sec.gov/Archives/edgar/data/1994723/000110465925081627/0001104659-25-081627.txt
+2025-08-22 11:51:48 | KZBZ Limited | Entity formed for benefit of Issuer's affiliates | Shares: 580000 | Value: $12,365,600.0 | Percent: 0.060977% | Link: https://www.sec.gov/Archives/edgar/data/1842827/000110465925081627/0001104659-25-081627.txt
