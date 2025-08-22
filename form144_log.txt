@@ -1786,3 +1786,5 @@
 2025-08-22 11:00:25 | Sfadia Adi | Officer | Shares: 53557 | Value: $476,657.3 | Percent: 0.093932% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000273/0001976408-25-000273.txt
 2025-08-22 11:22:14 | Mullokandov Aharon | Officer | Shares: 7160 | Value: $63,724.0 | Percent: 0.012558% | Link: https://www.sec.gov/Archives/edgar/data/1978045/000197640825000274/0001976408-25-000274.txt
 2025-08-22 11:22:15 | Mullokandov Aharon | Officer | Shares: 7160 | Value: $63,724.0 | Percent: 0.012558% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000274/0001976408-25-000274.txt
+2025-08-22 11:42:33 | Stoleru Ronen | Officer | Shares: 7500 | Value: $66,750.0 | Percent: 0.013154% | Link: https://www.sec.gov/Archives/edgar/data/2081849/000197640825000275/0001976408-25-000275.txt
+2025-08-22 11:42:34 | Stoleru Ronen | Officer | Shares: 7500 | Value: $66,750.0 | Percent: 0.013154% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000275/0001976408-25-000275.txt
