@@ -1782,3 +1782,5 @@
 2025-08-22 02:23:21 | Sean McAuliffe | Affiliate - Chief Business Officer | Shares: 27590 | Value: $79,183.3 | Percent: 0.010114% | Link: https://www.sec.gov/Archives/edgar/data/1806310/000141588925022683/0001415889-25-022683.txt
 2025-08-22 10:18:12 | Kerbel Doron | Officer | Shares: 11089 | Value: $98,692.1 | Percent: 0.019449% | Link: https://www.sec.gov/Archives/edgar/data/1978291/000197640825000272/0001976408-25-000272.txt
 2025-08-22 10:18:13 | Kerbel Doron | Officer | Shares: 11089 | Value: $98,692.1 | Percent: 0.019449% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000272/0001976408-25-000272.txt
+2025-08-22 11:00:24 | Sfadia Adi | Officer | Shares: 53557 | Value: $476,657.3 | Percent: 0.093932% | Link: https://www.sec.gov/Archives/edgar/data/1978150/000197640825000273/0001976408-25-000273.txt
+2025-08-22 11:00:25 | Sfadia Adi | Officer | Shares: 53557 | Value: $476,657.3 | Percent: 0.093932% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000273/0001976408-25-000273.txt
