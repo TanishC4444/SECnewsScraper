@@ -1792,3 +1792,7 @@
 2025-08-22 11:51:46 | ZHANG Tao | Officer, Director | Shares: 70000 | Value: $1,647,800.0 | Percent: 0.007359% | Link: https://www.sec.gov/Archives/edgar/data/1842827/000110465925081628/0001104659-25-081628.txt
 2025-08-22 11:51:48 | KZBZ Limited | Entity formed for benefit of Issuer's affiliates | Shares: 580000 | Value: $12,365,600.0 | Percent: 0.060977% | Link: https://www.sec.gov/Archives/edgar/data/1994723/000110465925081627/0001104659-25-081627.txt
 2025-08-22 11:51:48 | KZBZ Limited | Entity formed for benefit of Issuer's affiliates | Shares: 580000 | Value: $12,365,600.0 | Percent: 0.060977% | Link: https://www.sec.gov/Archives/edgar/data/1842827/000110465925081627/0001104659-25-081627.txt
+2025-08-22 12:00:52 | He Haijian | Director | Shares: 15362 | Value: $208,462.34 | Percent: 0.000434% | Link: https://www.sec.gov/Archives/edgar/data/1977881/000197337225000009/0001973372-25-000009.txt
+2025-08-22 12:00:52 | He Haijian | Director | Shares: 15362 | Value: $208,462.34 | Percent: 0.000434% | Link: https://www.sec.gov/Archives/edgar/data/1795589/000197337225000009/0001973372-25-000009.txt
+2025-08-22 12:00:53 | Liu Tao | Director | Shares: 120000 | Value: $1,628,400.0 | Percent: 0.003391% | Link: https://www.sec.gov/Archives/edgar/data/1975760/000197337225000008/0001973372-25-000008.txt
+2025-08-22 12:00:54 | Liu Tao | Director | Shares: 120000 | Value: $1,628,400.0 | Percent: 0.003391% | Link: https://www.sec.gov/Archives/edgar/data/1795589/000197337225000008/0001973372-25-000008.txt
