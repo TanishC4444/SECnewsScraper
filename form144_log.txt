@@ -1832,3 +1832,9 @@
 2025-08-22 17:32:12 | Dussan Luis | Officer | Shares: 50000 | Value: $136,000.0 | Percent: 0.125178% | Link: https://www.sec.gov/Archives/edgar/data/1818644/000200731725000943/0002007317-25-000943.txt
 2025-08-22 17:32:15 | Page Andrew E | Officer | Shares: 42486 | Value: $1,606,820.52 | Percent: 0.007683% | Link: https://www.sec.gov/Archives/edgar/data/1988894/000197337925000224/0001973379-25-000224.txt
 2025-08-22 17:32:16 | Page Andrew E | Officer | Shares: 42486 | Value: $1,606,820.52 | Percent: 0.007683% | Link: https://www.sec.gov/Archives/edgar/data/1769347/000197337925000224/0001973379-25-000224.txt
+2025-08-22 18:18:09 | Lefebvre Mojgan M | Officer | Shares: 16820 | Value: $4,668,296.11 | Percent: 0.007471% | Link: https://www.sec.gov/Archives/edgar/data/1753788/000195917325005452/0001959173-25-005452.txt
+2025-08-22 18:18:10 | Lefebvre Mojgan M | Officer | Shares: 16820 | Value: $4,668,296.11 | Percent: 0.007471% | Link: https://www.sec.gov/Archives/edgar/data/86312/000195917325005452/0001959173-25-005452.txt
+2025-08-22 18:18:12 | Mateus-Tique Jaime | Director | Shares: 10000 | Value: $274,411.0 | Percent: 0.032013% | Link: https://www.sec.gov/Archives/edgar/data/1352656/000100027525000116/0001000275-25-000116.txt
+2025-08-22 18:18:12 | Mateus-Tique Jaime | Director | Shares: 10000 | Value: $274,411.0 | Percent: 0.032013% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000100027525000116/0001000275-25-000116.txt
+2025-08-22 18:18:13 | Duato Joaquin | Officer | Shares: 125824 | Value: $22,652,723.84 | Percent: 0.005225% | Link: https://www.sec.gov/Archives/edgar/data/1673401/000195917325005451/0001959173-25-005451.txt
+2025-08-22 18:18:13 | Duato Joaquin | Officer | Shares: 125824 | Value: $22,652,723.84 | Percent: 0.005225% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005451/0001959173-25-005451.txt
