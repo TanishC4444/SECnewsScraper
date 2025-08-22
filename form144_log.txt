@@ -1844,3 +1844,7 @@
 2025-08-22 18:44:44 | Yang Yingmei | Director | Shares: 17675 | Value: $1,799,369.78 | Percent: 0.090742% | Link: https://www.sec.gov/Archives/edgar/data/1474627/000195917325005455/0001959173-25-005455.txt
 2025-08-22 18:44:45 | Taylor Stephen Charles | Director | Shares: 20000 | Value: $525,060.0 | Percent: 0.159460% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000117/0001000275-25-000117.txt
 2025-08-22 18:44:46 | Taylor Stephen Charles | Director | Shares: 20000 | Value: $525,060.0 | Percent: 0.159460% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000117/0001000275-25-000117.txt
+2025-08-22 18:56:34 | Satz Devin | Officer | Shares: 7000 | Value: $94,500.0 | Percent: 0.038781% | Link: https://www.sec.gov/Archives/edgar/data/1752370/000197407825000269/0001974078-25-000269.txt
+2025-08-22 18:56:35 | Satz Devin | Officer | Shares: 7000 | Value: $94,500.0 | Percent: 0.038781% | Link: https://www.sec.gov/Archives/edgar/data/1675644/000197407825000269/0001974078-25-000269.txt
+2025-08-22 18:56:35 | Marak Chad | former officer | Shares: 8437 | Value: $2,206,497.0 | Percent: 0.034045% | Link: https://www.sec.gov/Archives/edgar/data/2010032/000200731725000946/0002007317-25-000946.txt
+2025-08-22 18:56:35 | Marak Chad | former officer | Shares: 8437 | Value: $2,206,497.0 | Percent: 0.034045% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000946/0002007317-25-000946.txt
