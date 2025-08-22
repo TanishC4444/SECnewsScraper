@@ -1858,3 +1858,7 @@
 2025-08-22 19:38:32 | Brummer Gregg | Officer | Shares: 7338 | Value: $1,716,666.4 | Percent: 0.002350% | Link: https://www.sec.gov/Archives/edgar/data/1060391/000195917325005465/0001959173-25-005465.txt
 2025-08-22 19:38:34 | VANHYFTE CURTIS | Officer | Shares: 5082 | Value: $355,587.54 | Percent: 0.005141% | Link: https://www.sec.gov/Archives/edgar/data/1976212/000195917325005462/0001959173-25-005462.txt
 2025-08-22 19:38:35 | VANHYFTE CURTIS | Officer | Shares: 5082 | Value: $355,587.54 | Percent: 0.005141% | Link: https://www.sec.gov/Archives/edgar/data/1562476/000195917325005462/0001959173-25-005462.txt
+2025-08-22 19:48:00 | M. Michele Burns | Director | Shares: 14464 | Value: $911,232.0 | Percent: 0.014594% | Link: https://www.sec.gov/Archives/edgar/data/1370637/000196922325000650/0001969223-25-000650.txt
+2025-08-22 19:48:01 | M. Michele Burns | Director | Shares: 14464 | Value: $911,232.0 | Percent: 0.014594% | Link: https://www.sec.gov/Archives/edgar/data/1197664/000196922325000650/0001969223-25-000650.txt
+2025-08-22 19:48:03 | Keeney Scott H | Officer | Shares: 17018 | Value: $482,073.99 | Percent: 0.034105% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005466/0001959173-25-005466.txt
+2025-08-22 19:48:05 | Keeney Scott H | Officer | Shares: 17018 | Value: $482,073.99 | Percent: 0.034105% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005466/0001959173-25-005466.txt
