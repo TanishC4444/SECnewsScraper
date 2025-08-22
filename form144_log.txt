@@ -1906,3 +1906,9 @@
 2025-08-22 21:51:54 | JOHN T HALL | Director | Shares: 19515 | Value: $817,678.5 | Percent: 0.023764% | Link: https://www.sec.gov/Archives/edgar/data/1106566/000195004725006289/0001950047-25-006289.txt
 2025-08-22 22:01:07 | JBH Investment Trust | See Remarks | Shares: 375000 | Value: $58,331,250.0 | Percent: 0.021702% | Link: https://www.sec.gov/Archives/edgar/data/2063457/000196858225000780/0001968582-25-000780.txt
 2025-08-22 22:01:07 | JBH Investment Trust | See Remarks | Shares: 375000 | Value: $58,331,250.0 | Percent: 0.021702% | Link: https://www.sec.gov/Archives/edgar/data/93410/000196858225000780/0001968582-25-000780.txt
+2025-08-22 22:25:46 | Altman Roger C | Director | Shares: 33400 | Value: $10,704,702.61 | Percent: 0.086533% | Link: https://www.sec.gov/Archives/edgar/data/1369899/000196430625000332/0001964306-25-000332.txt
+2025-08-22 22:25:47 | Altman Roger C | Director | Shares: 33400 | Value: $10,704,702.61 | Percent: 0.086533% | Link: https://www.sec.gov/Archives/edgar/data/1360901/000196430625000332/0001964306-25-000332.txt
+2025-08-22 22:25:47 | SULLIVAN CRAIG F | Director | Shares: 5376 | Value: $564,519.78 | Percent: 0.029425% | Link: https://www.sec.gov/Archives/edgar/data/1127050/000197407825000270/0001974078-25-000270.txt
+2025-08-22 22:25:47 | SULLIVAN CRAIG F | Director | Shares: 5376 | Value: $564,519.78 | Percent: 0.029425% | Link: https://www.sec.gov/Archives/edgar/data/907242/000197407825000270/0001974078-25-000270.txt
+2025-08-22 22:25:49 | Richard A. Gonzalez | Former Director | Shares: 62755 | Value: $13,231,264.2 | Percent: 0.003552% | Link: https://www.sec.gov/Archives/edgar/data/1551152/000141588925022795/0001415889-25-022795.txt
+2025-08-22 22:25:49 | Richard A. Gonzalez | Former Director | Shares: 62755 | Value: $13,231,264.2 | Percent: 0.003552% | Link: https://www.sec.gov/Archives/edgar/data/1239127/000141588925022795/0001415889-25-022795.txt
