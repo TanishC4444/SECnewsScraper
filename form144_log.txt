@@ -1886,3 +1886,11 @@
 2025-08-22 20:58:31 | ARASH ADAM FOROUGHI | Officer | Shares: 30000 | Value: $13,122,747.0 | Percent: 0.009752% | Link: https://www.sec.gov/Archives/edgar/data/1751008/000195004725006275/0001950047-25-006275.txt
 2025-08-22 20:58:32 | EDDY ZERVIGON | Director | Shares: 10000 | Value: $486,150.0 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725006274/0001950047-25-006274.txt
 2025-08-22 20:58:33 | EDDY ZERVIGON | Director | Shares: 10000 | Value: $486,150.0 | Percent: 0.004274% | Link: https://www.sec.gov/Archives/edgar/data/1286288/000195004725006274/0001950047-25-006274.txt
+2025-08-22 21:20:42 | Jill Hazelbaker | Officer | Shares: 91752 | Value: $8,645,791.0 | Percent: 0.004400% | Link: https://www.sec.gov/Archives/edgar/data/1775297/000196858225000777/0001968582-25-000777.txt
+2025-08-22 21:20:43 | Jill Hazelbaker | Officer | Shares: 91752 | Value: $8,645,791.0 | Percent: 0.004400% | Link: https://www.sec.gov/Archives/edgar/data/1543151/000196858225000777/0001968582-25-000777.txt
+2025-08-22 21:20:45 | THOMAS RYAN | Officer | Shares: 17520 | Value: $1,435,014.14 | Percent: 0.012493% | Link: https://www.sec.gov/Archives/edgar/data/1243194/000195004725006285/0001950047-25-006285.txt
+2025-08-22 21:20:46 | THOMAS RYAN | Officer | Shares: 17520 | Value: $1,435,014.14 | Percent: 0.012493% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725006285/0001950047-25-006285.txt
+2025-08-22 21:20:48 | Loring Kurt W. | Officer | Shares: 8523 | Value: $2,276,171.0 | Percent: 0.022576% | Link: https://www.sec.gov/Archives/edgar/data/1615457/000192109425001020/0001921094-25-001020.txt
+2025-08-22 21:20:49 | Loring Kurt W. | Officer | Shares: 8523 | Value: $2,276,171.0 | Percent: 0.022576% | Link: https://www.sec.gov/Archives/edgar/data/109563/000192109425001020/0001921094-25-001020.txt
+2025-08-22 21:20:51 | ERIC MCGINNIS | Officer | Shares: 25173 | Value: $3,545,903.96 | Percent: 0.047957% | Link: https://www.sec.gov/Archives/edgar/data/1801719/000195004725006284/0001950047-25-006284.txt
+2025-08-22 21:20:53 | ERIC MCGINNIS | Officer | Shares: 25173 | Value: $3,545,903.96 | Percent: 0.047957% | Link: https://www.sec.gov/Archives/edgar/data/67347/000195004725006284/0001950047-25-006284.txt
