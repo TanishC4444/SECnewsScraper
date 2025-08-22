@@ -1806,3 +1806,9 @@
 2025-08-22 13:53:16 | Zapolsky David | Officer | Shares: 13570 | Value: $3,022,853.2 | Percent: 0.000127% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325005432/0001959173-25-005432.txt
 2025-08-22 13:53:18 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,418,165.9 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/1382297/000195917325005431/0001959173-25-005431.txt
 2025-08-22 13:53:19 | TYLER BRIAN S. | Officer | Shares: 11930 | Value: $8,418,165.9 | Percent: 0.009591% | Link: https://www.sec.gov/Archives/edgar/data/927653/000195917325005431/0001959173-25-005431.txt
+2025-08-22 14:47:00 | Rutz Michael P | Officer | Shares: 126611 | Value: $2,040,969.0 | Percent: 0.044574% | Link: https://www.sec.gov/Archives/edgar/data/1822479/000194984625000404/0001949846-25-000404.txt
+2025-08-22 14:47:01 | Rutz Michael P | Officer | Shares: 126611 | Value: $2,040,969.0 | Percent: 0.044574% | Link: https://www.sec.gov/Archives/edgar/data/1599220/000194984625000404/0001949846-25-000404.txt
+2025-08-22 14:47:02 | Shuda Scott | Director | Shares: 5752 | Value: $56,455.0 | Percent: 0.028160% | Link: https://www.sec.gov/Archives/edgar/data/1486636/000194984625000403/0001949846-25-000403.txt
+2025-08-22 14:47:03 | Shuda Scott | Director | Shares: 5752 | Value: $56,455.0 | Percent: 0.028160% | Link: https://www.sec.gov/Archives/edgar/data/1337013/000194984625000403/0001949846-25-000403.txt
+2025-08-22 14:47:05 | Goines Mark | Director | Shares: 20000 | Value: $1,734,400.0 | Percent: 0.025790% | Link: https://www.sec.gov/Archives/edgar/data/1932585/000194984625000402/0001949846-25-000402.txt
+2025-08-22 14:47:06 | Goines Mark | Director | Shares: 20000 | Value: $1,734,400.0 | Percent: 0.025790% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000402/0001949846-25-000402.txt
