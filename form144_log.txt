@@ -1894,3 +1894,9 @@
 2025-08-22 21:20:49 | Loring Kurt W. | Officer | Shares: 8523 | Value: $2,276,171.0 | Percent: 0.022576% | Link: https://www.sec.gov/Archives/edgar/data/109563/000192109425001020/0001921094-25-001020.txt
 2025-08-22 21:20:51 | ERIC MCGINNIS | Officer | Shares: 25173 | Value: $3,545,903.96 | Percent: 0.047957% | Link: https://www.sec.gov/Archives/edgar/data/1801719/000195004725006284/0001950047-25-006284.txt
 2025-08-22 21:20:53 | ERIC MCGINNIS | Officer | Shares: 25173 | Value: $3,545,903.96 | Percent: 0.047957% | Link: https://www.sec.gov/Archives/edgar/data/67347/000195004725006284/0001950047-25-006284.txt
+2025-08-22 21:32:29 | DAVID MORTON | Officer | Shares: 10000 | Value: $419,000.0 | Percent: 0.012177% | Link: https://www.sec.gov/Archives/edgar/data/1565687/000195004725006286/0001950047-25-006286.txt
+2025-08-22 21:32:31 | DAVID MORTON | Officer | Shares: 10000 | Value: $419,000.0 | Percent: 0.012177% | Link: https://www.sec.gov/Archives/edgar/data/1476070/000195004725006286/0001950047-25-006286.txt
+2025-08-22 21:32:31 | John P. Barnes | Director | Shares: 15000 | Value: $2,886,450.0 | Percent: 0.009599% | Link: https://www.sec.gov/Archives/edgar/data/1250506/000196858225000778/0001968582-25-000778.txt
+2025-08-22 21:32:32 | John P. Barnes | Director | Shares: 15000 | Value: $2,886,450.0 | Percent: 0.009599% | Link: https://www.sec.gov/Archives/edgar/data/36270/000196858225000778/0001968582-25-000778.txt
+2025-08-22 21:32:33 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 302194 | Value: $2,085,138.6 | Percent: 0.271610% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000032/0001178937-25-000032.txt
+2025-08-22 21:32:34 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 302194 | Value: $2,085,138.6 | Percent: 0.271610% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000032/0001178937-25-000032.txt

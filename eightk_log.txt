@@ -2482,3 +2482,12 @@
 2025-08-22 21:20:35 | 8-K - Aspire Biopharma Holdings, Inc. (0001847345) (Filer) | 2025-08-22T17:15:13-04:00 | https://www.sec.gov/Archives/edgar/data/1847345/000164117225025257/0001641172-25-025257.txt
 2025-08-22 21:20:37 | 8-K - Salarius Pharmaceuticals, Inc. (0001615219) (Filer) | 2025-08-22T17:14:48-04:00 | https://www.sec.gov/Archives/edgar/data/1615219/000162828025041043/0001628280-25-041043.txt
 2025-08-22 21:20:39 | 8-K - LiveWire Group, Inc. (0001898795) (Filer) | 2025-08-22T17:11:40-04:00 | https://www.sec.gov/Archives/edgar/data/1898795/000189879525000176/0001898795-25-000176.txt
+2025-08-22 21:32:16 | 8-K - Protagenic Therapeutics, Inc.\new (0001022899) (Filer) | 2025-08-22T17:28:28-04:00 | https://www.sec.gov/Archives/edgar/data/1022899/000164117225025274/0001641172-25-025274.txt
+2025-08-22 21:32:17 | 8-K - Piedmont Lithium Inc. (0001728205) (Filer) | 2025-08-22T17:28:01-04:00 | https://www.sec.gov/Archives/edgar/data/1728205/000114036125032389/0001140361-25-032389.txt
+2025-08-22 21:32:19 | 8-K - Calidi Biotherapeutics, Inc. (0001855485) (Filer) | 2025-08-22T17:27:23-04:00 | https://www.sec.gov/Archives/edgar/data/1855485/000164117225025273/0001641172-25-025273.txt
+2025-08-22 21:32:20 | 8-K - Alpha Cognition Inc. (0001655923) (Filer) | 2025-08-22T17:26:53-04:00 | https://www.sec.gov/Archives/edgar/data/1655923/000121390025080012/0001213900-25-080012.txt
+2025-08-22 21:32:22 | 8-K - INVO Fertility, Inc. (0001417926) (Filer) | 2025-08-22T17:24:33-04:00 | https://www.sec.gov/Archives/edgar/data/1417926/000164117225025270/0001641172-25-025270.txt
+2025-08-22 21:32:23 | 8-K - Hut 8 Corp. (0001964789) (Filer) | 2025-08-22T17:22:47-04:00 | https://www.sec.gov/Archives/edgar/data/1964789/000110465925081955/0001104659-25-081955.txt
+2025-08-22 21:32:25 | 8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer) | 2025-08-22T17:21:46-04:00 | https://www.sec.gov/Archives/edgar/data/1805521/000121390025080006/0001213900-25-080006.txt
+2025-08-22 21:32:26 | 8-K - WAFD INC (0000936528) (Filer) | 2025-08-22T17:21:39-04:00 | https://www.sec.gov/Archives/edgar/data/936528/000093652825000090/0000936528-25-000090.txt
+2025-08-22 21:32:28 | 8-K - Iron Horse Acquisitions Corp. (0001901203) (Filer) | 2025-08-22T17:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1901203/000121390025080002/0001213900-25-080002.txt
