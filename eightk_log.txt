@@ -2574,3 +2574,13 @@
 2025-08-25 21:01:06 | 8-K - T-Mobile US, Inc. (0001283699) (Filer) | 2025-08-25T16:56:11-04:00 | https://www.sec.gov/Archives/edgar/data/1283699/000119312525187812/0001193125-25-187812.txt
 2025-08-25 21:01:06 | 8-K - Apollo Asset Backed Credit Co LLC (0002000597) (Filer) | 2025-08-25T16:52:38-04:00 | https://www.sec.gov/Archives/edgar/data/2000597/000095017025111228/0000950170-25-111228.txt
 2025-08-25 21:01:10 | 8-K - Ares Acquisition Corp II (0001853138) (Filer) | 2025-08-25T16:51:33-04:00 | https://www.sec.gov/Archives/edgar/data/1853138/000119312525187799/0001193125-25-187799.txt
+2025-08-25 21:25:01 | 8-K - Processa Pharmaceuticals, Inc. (0001533743) (Filer) | 2025-08-25T17:21:08-04:00 | https://www.sec.gov/Archives/edgar/data/1533743/000164117225025421/0001641172-25-025421.txt
+2025-08-25 21:25:03 | 8-K - FTAI Infrastructure Inc. (0001899883) (Filer) | 2025-08-25T17:20:13-04:00 | https://www.sec.gov/Archives/edgar/data/1899883/000114036125032534/0001140361-25-032534.txt
+2025-08-25 21:25:03 | 8-K - Mallinckrodt plc (0001567892) (Filer) | 2025-08-25T17:19:55-04:00 | https://www.sec.gov/Archives/edgar/data/1567892/000110465925082583/0001104659-25-082583.txt
+2025-08-25 21:25:04 | 8-K - PMGC Holdings Inc. (0001840563) (Filer) | 2025-08-25T17:19:53-04:00 | https://www.sec.gov/Archives/edgar/data/1840563/000121390025080415/0001213900-25-080415.txt
+2025-08-25 21:25:06 | 8-K - Opus Genetics, Inc. (0001228627) (Filer) | 2025-08-25T17:19:33-04:00 | https://www.sec.gov/Archives/edgar/data/1228627/000114036125032533/0001140361-25-032533.txt
+2025-08-25 21:25:07 | 8-K - VERINT SYSTEMS INC (0001166388) (Filer) | 2025-08-25T17:18:02-04:00 | https://www.sec.gov/Archives/edgar/data/1166388/000119312525187836/0001193125-25-187836.txt
+2025-08-25 21:25:08 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-08-25T17:15:54-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025080409/0001213900-25-080409.txt
+2025-08-25 21:25:10 | 8-K - Liminatus Pharma, Inc. (0001971387) (Filer) | 2025-08-25T17:15:38-04:00 | https://www.sec.gov/Archives/edgar/data/1971387/000110465925082579/0001104659-25-082579.txt
+2025-08-25 21:25:11 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-08-25T17:15:33-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225006215/0001477932-25-006215.txt
+2025-08-25 21:25:13 | 8-K - HEICO CORP (0000046619) (Filer) | 2025-08-25T17:15:03-04:00 | https://www.sec.gov/Archives/edgar/data/46619/000004661925000060/0000046619-25-000060.txt
