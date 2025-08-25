@@ -2545,3 +2545,12 @@
 2025-08-25 18:46:43 | 8-K - Cherry Hill Mortgage Investment Corp (0001571776) (Filer) | 2025-08-25T14:28:04-04:00 | https://www.sec.gov/Archives/edgar/data/1571776/000114036125032484/0001140361-25-032484.txt
 2025-08-25 19:18:22 | 8-K - PLUMAS BANCORP (0001168455) (Filer) | 2025-08-25T15:06:54-04:00 | https://www.sec.gov/Archives/edgar/data/1168455/000143774925027657/0001437749-25-027657.txt
 2025-08-25 19:59:17 | 8-K - Travel & Leisure Co. (0001361658) (Filer) | 2025-08-25T15:55:58-04:00 | https://www.sec.gov/Archives/edgar/data/1361658/000136165825000306/0001361658-25-000306.txt
+2025-08-25 20:27:30 | 8-K - Navitas Semiconductor Corp (0001821769) (Filer) | 2025-08-25T16:25:32-04:00 | https://www.sec.gov/Archives/edgar/data/1821769/000182176925000204/0001821769-25-000204.txt
+2025-08-25 20:27:32 | 8-K - ESSA Pharma Inc. (0001633932) (Filer) | 2025-08-25T16:24:26-04:00 | https://www.sec.gov/Archives/edgar/data/1633932/000110465925082540/0001104659-25-082540.txt
+2025-08-25 20:27:32 | 8-K - North Haven Private Income Fund A LLC (0001973476) (Filer) | 2025-08-25T16:23:23-04:00 | https://www.sec.gov/Archives/edgar/data/1973476/000197347625000071/0001973476-25-000071.txt
+2025-08-25 20:27:34 | 8-K - IPALCO ENTERPRISES, INC. (0000728391) (Filer) | 2025-08-25T16:23:04-04:00 | https://www.sec.gov/Archives/edgar/data/728391/000072839125000048/0000728391-25-000048.txt
+2025-08-25 20:27:35 | 8-K - VIAVI SOLUTIONS INC. (0000912093) (Filer) | 2025-08-25T16:21:00-04:00 | https://www.sec.gov/Archives/edgar/data/912093/000114036125032510/0001140361-25-032510.txt
+2025-08-25 20:27:36 | 8-K - North Haven Private Income Fund LLC (0001851322) (Filer) | 2025-08-25T16:20:15-04:00 | https://www.sec.gov/Archives/edgar/data/1851322/000185132225000073/0001851322-25-000073.txt
+2025-08-25 20:27:37 | 8-K - Athene Holding Ltd. (0001527469) (Filer) | 2025-08-25T16:16:37-04:00 | https://www.sec.gov/Archives/edgar/data/1527469/000152746925000068/0001527469-25-000068.txt
+2025-08-25 20:27:39 | 8-K - REDWOOD TRUST INC (0000930236) (Filer) | 2025-08-25T16:16:14-04:00 | https://www.sec.gov/Archives/edgar/data/930236/000110465925082532/0001104659-25-082532.txt
+2025-08-25 20:27:40 | 8-K - Fifth District Bancorp, Inc. (0002012726) (Filer) | 2025-08-25T16:16:12-04:00 | https://www.sec.gov/Archives/edgar/data/2012726/000155837025011755/0001558370-25-011755.txt
