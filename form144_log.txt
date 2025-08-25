@@ -1936,3 +1936,5 @@
 2025-08-25 16:22:33 | Fendley Steven S. | Officer | Shares: 7000 | Value: $473,064.09 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1069258/000195917325005491/0001959173-25-005491.txt
 2025-08-25 16:45:11 | Bradley Kimberly Williams | Director | Shares: 14999 | Value: $194,462.04 | Percent: 0.007006% | Link: https://www.sec.gov/Archives/edgar/data/2082610/000195917325005493/0001959173-25-005493.txt
 2025-08-25 16:45:11 | Bradley Kimberly Williams | Director | Shares: 14999 | Value: $194,462.04 | Percent: 0.007006% | Link: https://www.sec.gov/Archives/edgar/data/1834489/000195917325005493/0001959173-25-005493.txt
+2025-08-25 16:58:21 | Read Brian | Officer | Shares: 10216 | Value: $100,323.16 | Percent: 0.017061% | Link: https://www.sec.gov/Archives/edgar/data/2021854/000197407825000271/0001974078-25-000271.txt
+2025-08-25 16:58:21 | Read Brian | Officer | Shares: 10216 | Value: $100,323.16 | Percent: 0.017061% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000271/0001974078-25-000271.txt
