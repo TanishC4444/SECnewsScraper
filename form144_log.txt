@@ -1970,3 +1970,9 @@
 2025-08-25 19:18:42 | Sverha Csaba | Officer | Shares: 10000 | Value: $3,090,000.0 | Percent: 0.027988% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000227/0001973379-25-000227.txt
 2025-08-25 19:29:17 | POPWELL DAVID T | Officer | Shares: 100000 | Value: $2,244,514.05 | Percent: 0.019695% | Link: https://www.sec.gov/Archives/edgar/data/1186181/000197407825000272/0001974078-25-000272.txt
 2025-08-25 19:29:18 | POPWELL DAVID T | Officer | Shares: 100000 | Value: $2,244,514.05 | Percent: 0.019695% | Link: https://www.sec.gov/Archives/edgar/data/36966/000197407825000272/0001974078-25-000272.txt
+2025-08-25 19:40:30 | Weintraub Michael | Director | Shares: 10000 | Value: $300,000.0 | Percent: 0.016806% | Link: https://www.sec.gov/Archives/edgar/data/1776800/000195917325005509/0001959173-25-005509.txt
+2025-08-25 19:40:31 | Weintraub Michael | Director | Shares: 10000 | Value: $300,000.0 | Percent: 0.016806% | Link: https://www.sec.gov/Archives/edgar/data/1412408/000195917325005509/0001959173-25-005509.txt
+2025-08-25 19:40:32 | McGill W Brett | Officer | Shares: 60000 | Value: $1,682,400.0 | Percent: 0.279544% | Link: https://www.sec.gov/Archives/edgar/data/1562655/000200731725000958/0002007317-25-000958.txt
+2025-08-25 19:40:33 | McGill W Brett | Officer | Shares: 60000 | Value: $1,682,400.0 | Percent: 0.279544% | Link: https://www.sec.gov/Archives/edgar/data/1057060/000200731725000958/0002007317-25-000958.txt
+2025-08-25 19:40:35 | CMI Oxbow Partners, LLC | 10% Stockholder | Shares: 1000000 | Value: $11,840,000.0 | Percent: 2.075730% | Link: https://www.sec.gov/Archives/edgar/data/1857392/000076490025000017/0000764900-25-000017.txt
+2025-08-25 19:40:36 | CMI Oxbow Partners, LLC | 10% Stockholder | Shares: 1000000 | Value: $11,840,000.0 | Percent: 2.075730% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000076490025000017/0000764900-25-000017.txt
