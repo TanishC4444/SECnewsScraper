@@ -2568,3 +2568,9 @@
 2025-08-25 20:51:43 | 8-K - International Media Acquisition Corp. (0001846235) (Filer) | 2025-08-25T16:45:27-04:00 | https://www.sec.gov/Archives/edgar/data/1846235/000121390025080383/0001213900-25-080383.txt
 2025-08-25 20:51:43 | 8-K - MP Materials Corp. / DE (0001801368) (Filer) | 2025-08-25T16:45:10-04:00 | https://www.sec.gov/Archives/edgar/data/1801368/000119312525187776/0001193125-25-187776.txt
 2025-08-25 20:51:44 | 8-K - SONO TEK CORP (0000806172) (Filer) | 2025-08-25T16:43:31-04:00 | https://www.sec.gov/Archives/edgar/data/806172/000117152025000277/0001171520-25-000277.txt
+2025-08-25 21:01:01 | 8-K - 5E Advanced Materials, Inc. (0001888654) (Filer) | 2025-08-25T17:00:27-04:00 | https://www.sec.gov/Archives/edgar/data/1888654/000188865425000021/0001888654-25-000021.txt
+2025-08-25 21:01:03 | 8-K - Dermata Therapeutics, Inc. (0001853816) (Filer) | 2025-08-25T17:00:11-04:00 | https://www.sec.gov/Archives/edgar/data/1853816/000164117225025405/0001641172-25-025405.txt
+2025-08-25 21:01:04 | 8-K - Vital Energy, Inc. (0001528129) (Filer) | 2025-08-25T17:00:01-04:00 | https://www.sec.gov/Archives/edgar/data/1528129/000119312525187816/0001193125-25-187816.txt
+2025-08-25 21:01:06 | 8-K - T-Mobile US, Inc. (0001283699) (Filer) | 2025-08-25T16:56:11-04:00 | https://www.sec.gov/Archives/edgar/data/1283699/000119312525187812/0001193125-25-187812.txt
+2025-08-25 21:01:06 | 8-K - Apollo Asset Backed Credit Co LLC (0002000597) (Filer) | 2025-08-25T16:52:38-04:00 | https://www.sec.gov/Archives/edgar/data/2000597/000095017025111228/0000950170-25-111228.txt
+2025-08-25 21:01:10 | 8-K - Ares Acquisition Corp II (0001853138) (Filer) | 2025-08-25T16:51:33-04:00 | https://www.sec.gov/Archives/edgar/data/1853138/000119312525187799/0001193125-25-187799.txt
