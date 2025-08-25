@@ -1944,3 +1944,9 @@
 2025-08-25 17:18:42 | Xun Li | Chief Financial Officer | Shares: 8221 | Value: $750,248.0 | Percent: 0.035697% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000095017025111145/0000950170-25-111145.txt
 2025-08-25 17:18:44 | Larsen Kalen | Officer | Shares: 283520 | Value: $564,205.0 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/2014406/000194984625000412/0001949846-25-000412.txt
 2025-08-25 17:18:44 | Larsen Kalen | Officer | Shares: 283520 | Value: $564,205.0 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/1865506/000194984625000412/0001949846-25-000412.txt
+2025-08-25 18:20:35 | Hou Montaque | Officer | Shares: 37459 | Value: $3,782,984.41 | Percent: 0.192311% | Link: https://www.sec.gov/Archives/edgar/data/1965264/000195917325005500/0001959173-25-005500.txt
+2025-08-25 18:20:36 | Hou Montaque | Officer | Shares: 37459 | Value: $3,782,984.41 | Percent: 0.192311% | Link: https://www.sec.gov/Archives/edgar/data/1474627/000195917325005500/0001959173-25-005500.txt
+2025-08-25 18:20:37 | SIMPKINS FRANK P | Director | Shares: 10000 | Value: $912,600.0 | Percent: 0.043422% | Link: https://www.sec.gov/Archives/edgar/data/1353839/000200731725000956/0002007317-25-000956.txt
+2025-08-25 18:20:38 | SIMPKINS FRANK P | Director | Shares: 10000 | Value: $912,600.0 | Percent: 0.043422% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000200731725000956/0002007317-25-000956.txt
+2025-08-25 18:20:40 | Keeney Scott H | Officer | Shares: 35732 | Value: $1,002,282.6 | Percent: 0.071608% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005499/0001959173-25-005499.txt
+2025-08-25 18:20:41 | Keeney Scott H | Officer | Shares: 35732 | Value: $1,002,282.6 | Percent: 0.071608% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005499/0001959173-25-005499.txt
