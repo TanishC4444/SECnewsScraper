@@ -1924,3 +1924,7 @@
 2025-08-25 13:22:07 | Druker Ofer | Officer | Shares: 483750 | Value: $4,919,737.5 | Percent: 0.737844% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000278/0001976408-25-000278.txt
 2025-08-25 14:40:46 | Slack Henry R | Director | Shares: 31250 | Value: $1,025,313.0 | Percent: 0.408745% | Link: https://www.sec.gov/Archives/edgar/data/1192331/000000354525000119/0000003545-25-000119.txt
 2025-08-25 14:40:47 | Slack Henry R | Director | Shares: 31250 | Value: $1,025,313.0 | Percent: 0.408745% | Link: https://www.sec.gov/Archives/edgar/data/3545/000000354525000119/0000003545-25-000119.txt
+2025-08-25 15:33:20 | Keating Mark R | Officer | Shares: 5376 | Value: $620,337.17 | Percent: 0.001895% | Link: https://www.sec.gov/Archives/edgar/data/2056169/000195917325005489/0001959173-25-005489.txt
+2025-08-25 15:33:21 | Keating Mark R | Officer | Shares: 5376 | Value: $620,337.17 | Percent: 0.001895% | Link: https://www.sec.gov/Archives/edgar/data/93751/000195917325005489/0001959173-25-005489.txt
+2025-08-25 15:33:23 | ZHANG LONGGEN | Director | Shares: 30000 | Value: $491,700.0 | Percent: 0.011846% | Link: https://www.sec.gov/Archives/edgar/data/1978144/000197814425000003/0001978144-25-000003.txt
+2025-08-25 15:33:24 | ZHANG LONGGEN | Director | Shares: 30000 | Value: $491,700.0 | Percent: 0.011846% | Link: https://www.sec.gov/Archives/edgar/data/1725033/000197814425000003/0001978144-25-000003.txt
