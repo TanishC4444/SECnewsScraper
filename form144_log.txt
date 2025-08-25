@@ -2012,3 +2012,7 @@
 2025-08-25 21:25:18 | GREG JACKSON | Director | Shares: 16561 | Value: $554,982.3 | Percent: 0.025497% | Link: https://www.sec.gov/Archives/edgar/data/1046568/000195004725006365/0001950047-25-006365.txt
 2025-08-25 21:25:19 | Michael P. Kehoe | Director, President, CEO | Shares: 10000 | Value: $4,553,800.0 | Percent: 0.042918% | Link: https://www.sec.gov/Archives/edgar/data/1669162/000196858225000789/0001968582-25-000789.txt
 2025-08-25 21:25:20 | Michael P. Kehoe | Director, President, CEO | Shares: 10000 | Value: $4,553,800.0 | Percent: 0.042918% | Link: https://www.sec.gov/Archives/edgar/data/1334940/000196858225000789/0001968582-25-000789.txt
+2025-08-25 21:37:35 | CELLITTI THOMAS R | Director | Shares: 10000 | Value: $194,700.0 | Percent: 0.112893% | Link: https://www.sec.gov/Archives/edgar/data/1249659/000129808825000019/0001298088-25-000019.txt
+2025-08-25 21:37:36 | CELLITTI THOMAS R | Director | Shares: 10000 | Value: $194,700.0 | Percent: 0.112893% | Link: https://www.sec.gov/Archives/edgar/data/1026655/000129808825000019/0001298088-25-000019.txt
+2025-08-25 21:37:37 | JASON BENGEL | Officer | Shares: 6469 | Value: $445,476.04 | Percent: 0.047496% | Link: https://www.sec.gov/Archives/edgar/data/2031406/000195004725006366/0001950047-25-006366.txt
+2025-08-25 21:37:38 | JASON BENGEL | Officer | Shares: 6469 | Value: $445,476.04 | Percent: 0.047496% | Link: https://www.sec.gov/Archives/edgar/data/1434621/000195004725006366/0001950047-25-006366.txt
