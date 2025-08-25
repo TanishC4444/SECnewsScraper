@@ -1992,3 +1992,7 @@
 2025-08-25 20:42:45 | BRESSLER BENJAMIN | Officer | Shares: 24564 | Value: $367,923.37 | Percent: 0.044834% | Link: https://www.sec.gov/Archives/edgar/data/1512499/000195779925000192/0001957799-25-000192.txt
 2025-08-25 20:42:47 | TJ CAPITAL INVESTORS LLC | Director | Shares: 112522 | Value: $20,374,358.54 | Percent: 0.052109% | Link: https://www.sec.gov/Archives/edgar/data/1956305/000195004725006354/0001950047-25-006354.txt
 2025-08-25 20:42:48 | TJ CAPITAL INVESTORS LLC | Director | Shares: 112522 | Value: $20,374,358.54 | Percent: 0.052109% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006354/0001950047-25-006354.txt
+2025-08-25 20:51:46 | Thurmond Mark C. | Officer | Shares: 28500 | Value: $862,219.04 | Percent: 0.023535% | Link: https://www.sec.gov/Archives/edgar/data/1660280/000195917325005525/0001959173-25-005525.txt
+2025-08-25 20:51:47 | Thurmond Mark C. | Officer | Shares: 28500 | Value: $862,219.04 | Percent: 0.023535% | Link: https://www.sec.gov/Archives/edgar/data/1651579/000195917325005525/0001959173-25-005525.txt
+2025-08-25 20:51:47 | Conrad Alexander | Officer | Shares: 13210 | Value: $3,461,020.0 | Percent: 0.053306% | Link: https://www.sec.gov/Archives/edgar/data/1766692/000200731725000962/0002007317-25-000962.txt
+2025-08-25 20:51:48 | Conrad Alexander | Officer | Shares: 13210 | Value: $3,461,020.0 | Percent: 0.053306% | Link: https://www.sec.gov/Archives/edgar/data/889331/000200731725000962/0002007317-25-000962.txt
