@@ -1920,3 +1920,5 @@
 2025-08-25 11:27:04 | Sean Searby | EVP &amp; Chief Operations Officer | Shares: 9217 | Value: $274,956.0 | Percent: 0.030612% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000199937125011922/0001999371-25-011922.txt
 2025-08-25 11:57:53 | TIAN MI | Officer | Shares: 53655 | Value: $583,229.85 | Percent: 0.010552% | Link: https://www.sec.gov/Archives/edgar/data/1968938/000197337925000226/0001973379-25-000226.txt
 2025-08-25 11:57:53 | TIAN MI | Officer | Shares: 53655 | Value: $583,229.85 | Percent: 0.010552% | Link: https://www.sec.gov/Archives/edgar/data/1499620/000197337925000226/0001973379-25-000226.txt
+2025-08-25 13:22:07 | Druker Ofer | Officer | Shares: 483750 | Value: $4,919,737.5 | Percent: 0.737844% | Link: https://www.sec.gov/Archives/edgar/data/1980196/000197640825000278/0001976408-25-000278.txt
+2025-08-25 13:22:07 | Druker Ofer | Officer | Shares: 483750 | Value: $4,919,737.5 | Percent: 0.737844% | Link: https://www.sec.gov/Archives/edgar/data/1849396/000197640825000278/0001976408-25-000278.txt
