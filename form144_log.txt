@@ -2026,3 +2026,11 @@
 2025-08-25 23:17:57 | Ronald N. Tutor | Executive Chairman | Shares: 300000 | Value: $17,529,000.0 | Percent: 0.568793% | Link: https://www.sec.gov/Archives/edgar/data/77543/000196858225000794/0001968582-25-000794.txt
 2025-08-25 23:32:45 | THOMAS BRISBIN | Director | Shares: 5182 | Value: $612,256.41 | Percent: 0.035336% | Link: https://www.sec.gov/Archives/edgar/data/1395188/000195004725006369/0001950047-25-006369.txt
 2025-08-25 23:32:46 | THOMAS BRISBIN | Director | Shares: 5182 | Value: $612,256.41 | Percent: 0.035336% | Link: https://www.sec.gov/Archives/edgar/data/1370450/000195004725006369/0001950047-25-006369.txt
+2025-08-25 23:44:02 | K R SRIDHAR | Officer | Shares: 60000 | Value: $2,938,422.0 | Percent: 0.025641% | Link: https://www.sec.gov/Archives/edgar/data/1746277/000195004725006370/0001950047-25-006370.txt
+2025-08-25 23:44:04 | K R SRIDHAR | Officer | Shares: 60000 | Value: $2,938,422.0 | Percent: 0.025641% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725006370/0001950047-25-006370.txt
+2025-08-25 23:44:05 | Stefan Constantin Ionel | OFFICER | Shares: 19159 | Value: $130,592.0 | Percent: 0.015318% | Link: https://www.sec.gov/Archives/edgar/data/1940928/000194092825000012/0001940928-25-000012.txt
+2025-08-25 23:44:06 | Stefan Constantin Ionel | OFFICER | Shares: 19159 | Value: $130,592.0 | Percent: 0.015318% | Link: https://www.sec.gov/Archives/edgar/data/1899287/000194092825000012/0001940928-25-000012.txt
+2025-08-25 23:44:07 | Kang Sun | Officer | Shares: 65654 | Value: $447,511.0 | Percent: 0.052491% | Link: https://www.sec.gov/Archives/edgar/data/1899287/000147622025000011/0001476220-25-000011.txt
+2025-08-25 23:44:08 | Kang Sun | Officer | Shares: 65654 | Value: $447,511.0 | Percent: 0.052491% | Link: https://www.sec.gov/Archives/edgar/data/1476220/000147622025000011/0001476220-25-000011.txt
+2025-08-25 23:44:09 | Sandra Wallach | Officer | Shares: 28390 | Value: $193,512.0 | Percent: 0.022698% | Link: https://www.sec.gov/Archives/edgar/data/1899287/000169836225000011/0001698362-25-000011.txt
+2025-08-25 23:44:10 | Sandra Wallach | Officer | Shares: 28390 | Value: $193,512.0 | Percent: 0.022698% | Link: https://www.sec.gov/Archives/edgar/data/1698362/000169836225000011/0001698362-25-000011.txt
