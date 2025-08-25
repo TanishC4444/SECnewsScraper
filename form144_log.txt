@@ -1938,3 +1938,9 @@
 2025-08-25 16:45:11 | Bradley Kimberly Williams | Director | Shares: 14999 | Value: $194,462.04 | Percent: 0.007006% | Link: https://www.sec.gov/Archives/edgar/data/1834489/000195917325005493/0001959173-25-005493.txt
 2025-08-25 16:58:21 | Read Brian | Officer | Shares: 10216 | Value: $100,323.16 | Percent: 0.017061% | Link: https://www.sec.gov/Archives/edgar/data/2021854/000197407825000271/0001974078-25-000271.txt
 2025-08-25 16:58:21 | Read Brian | Officer | Shares: 10216 | Value: $100,323.16 | Percent: 0.017061% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000271/0001974078-25-000271.txt
+2025-08-25 17:18:36 | Eason Christopher Douglas | Officer | Shares: 12003 | Value: $1,021,241.84 | Percent: 0.014722% | Link: https://www.sec.gov/Archives/edgar/data/1863522/000195917325005495/0001959173-25-005495.txt
+2025-08-25 17:18:40 | Eason Christopher Douglas | Officer | Shares: 12003 | Value: $1,021,241.84 | Percent: 0.014722% | Link: https://www.sec.gov/Archives/edgar/data/824142/000195917325005495/0001959173-25-005495.txt
+2025-08-25 17:18:41 | Xun Li | Chief Financial Officer | Shares: 8221 | Value: $750,248.0 | Percent: 0.035697% | Link: https://www.sec.gov/Archives/edgar/data/1944401/000095017025111145/0000950170-25-111145.txt
+2025-08-25 17:18:42 | Xun Li | Chief Financial Officer | Shares: 8221 | Value: $750,248.0 | Percent: 0.035697% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000095017025111145/0000950170-25-111145.txt
+2025-08-25 17:18:44 | Larsen Kalen | Officer | Shares: 283520 | Value: $564,205.0 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/2014406/000194984625000412/0001949846-25-000412.txt
+2025-08-25 17:18:44 | Larsen Kalen | Officer | Shares: 283520 | Value: $564,205.0 | Percent: 0.999999% | Link: https://www.sec.gov/Archives/edgar/data/1865506/000194984625000412/0001949846-25-000412.txt
