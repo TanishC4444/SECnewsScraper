@@ -2022,3 +2022,5 @@
 2025-08-25 21:56:31 | CHAPMAN MATTHEW W | Director | Shares: 10000 | Value: $682,551.28 | Percent: 0.001853% | Link: https://www.sec.gov/Archives/edgar/data/827054/000200731725000964/0002007317-25-000964.txt
 2025-08-25 22:37:07 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $543,063.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000793/0001968582-25-000793.txt
 2025-08-25 22:37:08 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $543,063.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000793/0001968582-25-000793.txt
+2025-08-25 23:17:56 | Ronald N. Tutor | Executive Chairman | Shares: 300000 | Value: $17,529,000.0 | Percent: 0.568793% | Link: https://www.sec.gov/Archives/edgar/data/906134/000196858225000794/0001968582-25-000794.txt
+2025-08-25 23:17:57 | Ronald N. Tutor | Executive Chairman | Shares: 300000 | Value: $17,529,000.0 | Percent: 0.568793% | Link: https://www.sec.gov/Archives/edgar/data/77543/000196858225000794/0001968582-25-000794.txt
