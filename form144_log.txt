@@ -2020,3 +2020,5 @@
 2025-08-25 21:47:05 | Alexander Wolf | Director | Shares: 30000 | Value: $8,259,600.0 | Percent: 0.131166% | Link: https://www.sec.gov/Archives/edgar/data/1433195/000196858225000790/0001968582-25-000790.txt
 2025-08-25 21:56:30 | CHAPMAN MATTHEW W | Director | Shares: 10000 | Value: $682,551.28 | Percent: 0.001853% | Link: https://www.sec.gov/Archives/edgar/data/933690/000200731725000964/0002007317-25-000964.txt
 2025-08-25 21:56:31 | CHAPMAN MATTHEW W | Director | Shares: 10000 | Value: $682,551.28 | Percent: 0.001853% | Link: https://www.sec.gov/Archives/edgar/data/827054/000200731725000964/0002007317-25-000964.txt
+2025-08-25 22:37:07 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $543,063.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000793/0001968582-25-000793.txt
+2025-08-25 22:37:08 | Hannover Holdings S.A. | Affiliate | Shares: 150000 | Value: $543,063.0 | Percent: 0.165697% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000793/0001968582-25-000793.txt
