@@ -1968,3 +1968,5 @@
 2025-08-25 19:18:34 | Bjornholt James Eric | Officer | Shares: 7356 | Value: $508,593.84 | Percent: 0.001363% | Link: https://www.sec.gov/Archives/edgar/data/827054/000200731725000957/0002007317-25-000957.txt
 2025-08-25 19:18:41 | Sverha Csaba | Officer | Shares: 10000 | Value: $3,090,000.0 | Percent: 0.027988% | Link: https://www.sec.gov/Archives/edgar/data/1802482/000197337925000227/0001973379-25-000227.txt
 2025-08-25 19:18:42 | Sverha Csaba | Officer | Shares: 10000 | Value: $3,090,000.0 | Percent: 0.027988% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000227/0001973379-25-000227.txt
+2025-08-25 19:29:17 | POPWELL DAVID T | Officer | Shares: 100000 | Value: $2,244,514.05 | Percent: 0.019695% | Link: https://www.sec.gov/Archives/edgar/data/1186181/000197407825000272/0001974078-25-000272.txt
+2025-08-25 19:29:18 | POPWELL DAVID T | Officer | Shares: 100000 | Value: $2,244,514.05 | Percent: 0.019695% | Link: https://www.sec.gov/Archives/edgar/data/36966/000197407825000272/0001974078-25-000272.txt
