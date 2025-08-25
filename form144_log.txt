@@ -1928,3 +1928,5 @@
 2025-08-25 15:33:21 | Keating Mark R | Officer | Shares: 5376 | Value: $620,337.17 | Percent: 0.001895% | Link: https://www.sec.gov/Archives/edgar/data/93751/000195917325005489/0001959173-25-005489.txt
 2025-08-25 15:33:23 | ZHANG LONGGEN | Director | Shares: 30000 | Value: $491,700.0 | Percent: 0.011846% | Link: https://www.sec.gov/Archives/edgar/data/1978144/000197814425000003/0001978144-25-000003.txt
 2025-08-25 15:33:24 | ZHANG LONGGEN | Director | Shares: 30000 | Value: $491,700.0 | Percent: 0.011846% | Link: https://www.sec.gov/Archives/edgar/data/1725033/000197814425000003/0001978144-25-000003.txt
+2025-08-25 15:46:52 | Reis Mischa | Officer | Shares: 15000 | Value: $324,000.0 | Percent: 0.009026% | Link: https://www.sec.gov/Archives/edgar/data/1788632/000195917325005490/0001959173-25-005490.txt
+2025-08-25 15:46:53 | Reis Mischa | Officer | Shares: 15000 | Value: $324,000.0 | Percent: 0.009026% | Link: https://www.sec.gov/Archives/edgar/data/1757073/000195917325005490/0001959173-25-005490.txt
