@@ -1950,3 +1950,13 @@
 2025-08-25 18:20:38 | SIMPKINS FRANK P | Director | Shares: 10000 | Value: $912,600.0 | Percent: 0.043422% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000200731725000956/0002007317-25-000956.txt
 2025-08-25 18:20:40 | Keeney Scott H | Officer | Shares: 35732 | Value: $1,002,282.6 | Percent: 0.071608% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005499/0001959173-25-005499.txt
 2025-08-25 18:20:41 | Keeney Scott H | Officer | Shares: 35732 | Value: $1,002,282.6 | Percent: 0.071608% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005499/0001959173-25-005499.txt
+2025-08-25 18:46:46 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $222,500.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000076490025000016/0000764900-25-000016.txt
+2025-08-25 18:46:47 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $222,500.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1228716/000076490025000016/0000764900-25-000016.txt
+2025-08-25 18:46:50 | Brady Christopher J | Officer | Shares: 8150 | Value: $2,617,576.25 | Percent: 0.003030% | Link: https://www.sec.gov/Archives/edgar/data/1762314/000195917325005505/0001959173-25-005505.txt
+2025-08-25 18:46:51 | Brady Christopher J | Officer | Shares: 8150 | Value: $2,617,576.25 | Percent: 0.003030% | Link: https://www.sec.gov/Archives/edgar/data/40533/000195917325005505/0001959173-25-005505.txt
+2025-08-25 18:46:53 | WALLACE MICHAEL W | Officer | Shares: 11000 | Value: $197,780.0 | Percent: 0.053422% | Link: https://www.sec.gov/Archives/edgar/data/1289945/000194984625000414/0001949846-25-000414.txt
+2025-08-25 18:46:55 | WALLACE MICHAEL W | Officer | Shares: 11000 | Value: $197,780.0 | Percent: 0.053422% | Link: https://www.sec.gov/Archives/edgar/data/1070123/000194984625000414/0001949846-25-000414.txt
+2025-08-25 18:46:57 | Douglas Murphy-Chutorian | CEO | Shares: 60000 | Value: $1,847,400.0 | Percent: 0.405277% | Link: https://www.sec.gov/Archives/edgar/data/1594342/000199937125011952/0001999371-25-011952.txt
+2025-08-25 18:46:58 | Douglas Murphy-Chutorian | CEO | Shares: 60000 | Value: $1,847,400.0 | Percent: 0.405277% | Link: https://www.sec.gov/Archives/edgar/data/1554859/000199937125011952/0001999371-25-011952.txt
+2025-08-25 18:47:00 | LUM JONATHAN | Officer | Shares: 6000 | Value: $3,012,000.0 | Percent: 0.053392% | Link: https://www.sec.gov/Archives/edgar/data/1777743/000195917325005504/0001959173-25-005504.txt
+2025-08-25 18:47:01 | LUM JONATHAN | Officer | Shares: 6000 | Value: $3,012,000.0 | Percent: 0.053392% | Link: https://www.sec.gov/Archives/edgar/data/885550/000195917325005504/0001959173-25-005504.txt
