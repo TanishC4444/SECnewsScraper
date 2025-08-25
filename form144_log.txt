@@ -1934,3 +1934,5 @@
 2025-08-25 16:22:31 | Schwab-Pomerantz Carolyn | Director | Shares: 13542 | Value: $1,302,009.0 | Percent: 0.000746% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000411/0001949846-25-000411.txt
 2025-08-25 16:22:32 | Fendley Steven S. | Officer | Shares: 7000 | Value: $473,064.09 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1695434/000195917325005491/0001959173-25-005491.txt
 2025-08-25 16:22:33 | Fendley Steven S. | Officer | Shares: 7000 | Value: $473,064.09 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1069258/000195917325005491/0001959173-25-005491.txt
+2025-08-25 16:45:11 | Bradley Kimberly Williams | Director | Shares: 14999 | Value: $194,462.04 | Percent: 0.007006% | Link: https://www.sec.gov/Archives/edgar/data/2082610/000195917325005493/0001959173-25-005493.txt
+2025-08-25 16:45:11 | Bradley Kimberly Williams | Director | Shares: 14999 | Value: $194,462.04 | Percent: 0.007006% | Link: https://www.sec.gov/Archives/edgar/data/1834489/000195917325005493/0001959173-25-005493.txt
