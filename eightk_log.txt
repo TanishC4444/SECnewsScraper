@@ -2700,3 +2700,5 @@
 2025-08-26 21:29:13 | 8-K - 22nd Century Group, Inc. (0001347858) (Filer) | 2025-08-26T17:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1347858/000164117225025569/0001641172-25-025569.txt
 2025-08-26 21:29:15 | 8-K - Wetouch Technology Inc. (0001826660) (Filer) | 2025-08-26T17:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1826660/000121390025080819/0001213900-25-080819.txt
 2025-08-26 21:29:17 | 8-K - MSP Recovery, Inc. (0001802450) (Filer) | 2025-08-26T17:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1802450/000180245025000042/0001802450-25-000042.txt
+2025-08-26 21:39:58 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-08-26T17:29:07-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125032763/0001140361-25-032763.txt
+2025-08-26 21:39:59 | 8-K - Salarius Pharmaceuticals, Inc. (0001615219) (Filer) | 2025-08-26T17:29:07-04:00 | https://www.sec.gov/Archives/edgar/data/1615219/000161521925000117/0001615219-25-000117.txt
