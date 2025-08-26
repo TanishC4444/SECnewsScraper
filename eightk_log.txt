@@ -2608,3 +2608,7 @@
 2025-08-26 10:57:06 | 8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer) | 2025-08-26T06:50:25-04:00 | https://www.sec.gov/Archives/edgar/data/1574085/000110465925082767/0001104659-25-082767.txt
 2025-08-26 11:18:16 | 8-K - Marker Therapeutics, Inc. (0001094038) (Filer) | 2025-08-26T07:16:20-04:00 | https://www.sec.gov/Archives/edgar/data/1094038/000110465925082783/0001104659-25-082783.txt
 2025-08-26 11:18:17 | 8-K - OppFi Inc. (0001818502) (Filer) | 2025-08-26T07:13:53-04:00 | https://www.sec.gov/Archives/edgar/data/1818502/000181850225000033/0001818502-25-000033.txt
+2025-08-26 11:31:37 | 8-K - Venus Concept Inc. (0001409269) (Filer) | 2025-08-26T07:31:05-04:00 | https://www.sec.gov/Archives/edgar/data/1409269/000114036125032608/0001140361-25-032608.txt
+2025-08-26 11:31:38 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-08-26T07:30:57-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000164117225025468/0001641172-25-025468.txt
+2025-08-26 11:31:40 | 8-K - Ranpak Holdings Corp. (0001712463) (Filer) | 2025-08-26T07:30:31-04:00 | https://www.sec.gov/Archives/edgar/data/1712463/000095010325010681/0000950103-25-010681.txt
+2025-08-26 11:31:41 | 8-K - Curanex Pharmaceuticals Inc (0002025942) (Filer) | 2025-08-26T07:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/2025942/000149315225012316/0001493152-25-012316.txt
