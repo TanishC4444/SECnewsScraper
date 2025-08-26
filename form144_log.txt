@@ -2066,3 +2066,7 @@
 2025-08-26 16:22:25 | Felix George S | Officer | Shares: 11769 | Value: $1,873,453.88 | Percent: 0.026448% | Link: https://www.sec.gov/Archives/edgar/data/703351/000195917325005535/0001959173-25-005535.txt
 2025-08-26 17:14:25 | Miller Steve | Officer | Shares: 115000 | Value: $2,332,370.02 | Percent: 0.093961% | Link: https://www.sec.gov/Archives/edgar/data/1402535/000195917325005538/0001959173-25-005538.txt
 2025-08-26 17:14:27 | Miller Steve | Officer | Shares: 115000 | Value: $2,332,370.02 | Percent: 0.093961% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005538/0001959173-25-005538.txt
+2025-08-26 17:32:33 | Leonsis Theodore | Director | Shares: 20000 | Value: $1,516,650.0 | Percent: 0.011857% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000196624925000032/0001966249-25-000032.txt
+2025-08-26 17:32:34 | Leonsis Theodore | Director | Shares: 20000 | Value: $1,516,650.0 | Percent: 0.011857% | Link: https://www.sec.gov/Archives/edgar/data/1452645/000196624925000032/0001966249-25-000032.txt
+2025-08-26 17:32:36 | A.P.O. Holdings, LLC. | APO Control person is CEO of Global Warming Sol. | Shares: 34206 | Value: $25,312.44 | Percent: 0.209210% | Link: https://www.sec.gov/Archives/edgar/data/1812213/000164117225025509/0001641172-25-025509.txt
+2025-08-26 17:32:38 | A.P.O. Holdings, LLC. | APO Control person is CEO of Global Warming Sol. | Shares: 34206 | Value: $25,312.44 | Percent: 0.209210% | Link: https://www.sec.gov/Archives/edgar/data/1430300/000164117225025509/0001641172-25-025509.txt
