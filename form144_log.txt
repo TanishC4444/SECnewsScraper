@@ -2092,3 +2092,7 @@
 2025-08-26 20:46:28 | Grasso Alfred | Director | Shares: 5356 | Value: $129,296.74 | Percent: 0.007452% | Link: https://www.sec.gov/Archives/edgar/data/1078075/000195917325005553/0001959173-25-005553.txt
 2025-08-26 20:46:29 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $616,000.0 | Percent: 2.301342% | Link: https://www.sec.gov/Archives/edgar/data/1879464/000196794025000060/0001967940-25-000060.txt
 2025-08-26 20:46:30 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $616,000.0 | Percent: 2.301342% | Link: https://www.sec.gov/Archives/edgar/data/1819493/000196794025000060/0001967940-25-000060.txt
+2025-08-26 20:55:27 | Aguilar Luis A | Director | Shares: 7421 | Value: $417,728.0 | Percent: 0.026991% | Link: https://www.sec.gov/Archives/edgar/data/1671674/000195917325005556/0001959173-25-005556.txt
+2025-08-26 20:55:28 | Aguilar Luis A | Director | Shares: 7421 | Value: $417,728.0 | Percent: 0.026991% | Link: https://www.sec.gov/Archives/edgar/data/1669811/000195917325005556/0001959173-25-005556.txt
+2025-08-26 20:55:29 | DIANE YU | Director | Shares: 20000 | Value: $504,616.0 | Percent: 0.014045% | Link: https://www.sec.gov/Archives/edgar/data/1917981/000195004725006412/0001950047-25-006412.txt
+2025-08-26 20:55:30 | DIANE YU | Director | Shares: 20000 | Value: $504,616.0 | Percent: 0.014045% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000195004725006412/0001950047-25-006412.txt
