@@ -2052,3 +2052,7 @@
 2025-08-26 14:10:36 | Gibson Christopher | Officer | Shares: 100000 | Value: $484,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325005530/0001959173-25-005530.txt
 2025-08-26 14:10:38 | Lilien R Jarrett | Officer | Shares: 12500 | Value: $165,125.0 | Percent: 0.008497% | Link: https://www.sec.gov/Archives/edgar/data/1197950/000195917325005527/0001959173-25-005527.txt
 2025-08-26 14:10:40 | Lilien R Jarrett | Officer | Shares: 12500 | Value: $165,125.0 | Percent: 0.008497% | Link: https://www.sec.gov/Archives/edgar/data/880631/000195917325005527/0001959173-25-005527.txt
+2025-08-26 14:55:58 | Orsini Frank C | Officer | Shares: 8500 | Value: $940,262.04 | Percent: 0.015976% | Link: https://www.sec.gov/Archives/edgar/data/1533483/000195917325005534/0001959173-25-005534.txt
+2025-08-26 14:55:59 | Orsini Frank C | Officer | Shares: 8500 | Value: $940,262.04 | Percent: 0.015976% | Link: https://www.sec.gov/Archives/edgar/data/842162/000195917325005534/0001959173-25-005534.txt
+2025-08-26 14:56:01 | Daly Richard J | Officer | Shares: 22970 | Value: $473,641.4 | Percent: 0.018768% | Link: https://www.sec.gov/Archives/edgar/data/1635393/000195917325005533/0001959173-25-005533.txt
+2025-08-26 14:56:03 | Daly Richard J | Officer | Shares: 22970 | Value: $473,641.4 | Percent: 0.018768% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005533/0001959173-25-005533.txt
