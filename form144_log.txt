@@ -2096,3 +2096,7 @@
 2025-08-26 20:55:28 | Aguilar Luis A | Director | Shares: 7421 | Value: $417,728.0 | Percent: 0.026991% | Link: https://www.sec.gov/Archives/edgar/data/1669811/000195917325005556/0001959173-25-005556.txt
 2025-08-26 20:55:29 | DIANE YU | Director | Shares: 20000 | Value: $504,616.0 | Percent: 0.014045% | Link: https://www.sec.gov/Archives/edgar/data/1917981/000195004725006412/0001950047-25-006412.txt
 2025-08-26 20:55:30 | DIANE YU | Director | Shares: 20000 | Value: $504,616.0 | Percent: 0.014045% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000195004725006412/0001950047-25-006412.txt
+2025-08-26 21:14:25 | James Murdoch | Affiliate | Shares: 120000 | Value: $41,592,000.0 | Percent: 0.003720% | Link: https://www.sec.gov/Archives/edgar/data/1420590/000196858225000801/0001968582-25-000801.txt
+2025-08-26 21:14:27 | James Murdoch | Affiliate | Shares: 120000 | Value: $41,592,000.0 | Percent: 0.003720% | Link: https://www.sec.gov/Archives/edgar/data/1318605/000196858225000801/0001968582-25-000801.txt
+2025-08-26 21:14:29 | Hannover Holdings S.A. | Affiliate | Shares: 80593 | Value: $298,952.0 | Percent: 0.089027% | Link: https://www.sec.gov/Archives/edgar/data/1962608/000196858225000798/0001968582-25-000798.txt
+2025-08-26 21:14:30 | Hannover Holdings S.A. | Affiliate | Shares: 80593 | Value: $298,952.0 | Percent: 0.089027% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000798/0001968582-25-000798.txt

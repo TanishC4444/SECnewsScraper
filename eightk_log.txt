@@ -2681,3 +2681,12 @@
 2025-08-26 20:55:22 | 8-K - CHIPOTLE MEXICAN GRILL INC (0001058090) (Filer) | 2025-08-26T16:47:49-04:00 | https://www.sec.gov/Archives/edgar/data/1058090/000105809025000067/0001058090-25-000067.txt
 2025-08-26 20:55:24 | 8-K - WESTLAKE CORP (0001262823) (Filer) | 2025-08-26T16:46:29-04:00 | https://www.sec.gov/Archives/edgar/data/1262823/000126282325000056/0001262823-25-000056.txt
 2025-08-26 20:55:25 | 8-K - RENOVARO INC. (0001527728) (Filer) | 2025-08-26T16:45:53-04:00 | https://www.sec.gov/Archives/edgar/data/1527728/000173112225001173/0001731122-25-001173.txt
+2025-08-26 21:14:05 | 8-K - EQT Private Equity Co LLC (0002032020) (Filer) | 2025-08-26T17:12:21-04:00 | https://www.sec.gov/Archives/edgar/data/2032020/000119312525188779/0001193125-25-188779.txt
+2025-08-26 21:14:08 | 8-K - XCF Global, Inc. (0002019793) (Filer) | 2025-08-26T17:10:32-04:00 | https://www.sec.gov/Archives/edgar/data/2019793/000164117225025565/0001641172-25-025565.txt
+2025-08-26 21:14:10 | 8-K - Cambium Networks Corp (0001738177) (Filer) | 2025-08-26T17:10:12-04:00 | https://www.sec.gov/Archives/edgar/data/1738177/000119312525188777/0001193125-25-188777.txt
+2025-08-26 21:14:13 | 8-K - B. Riley Financial, Inc. (0001464790) (Filer) | 2025-08-26T17:05:52-04:00 | https://www.sec.gov/Archives/edgar/data/1464790/000121390025080805/0001213900-25-080805.txt
+2025-08-26 21:14:13 | 8-K/A - Oportun Financial Corp (0001538716) (Filer) | 2025-08-26T17:05:16-04:00 | https://www.sec.gov/Archives/edgar/data/1538716/000119312525188772/0001193125-25-188772.txt
+2025-08-26 21:14:16 | 8-K - Inspire Medical Systems, Inc. (0001609550) (Filer) | 2025-08-26T17:02:24-04:00 | https://www.sec.gov/Archives/edgar/data/1609550/000160955025000040/0001609550-25-000040.txt
+2025-08-26 21:14:18 | 8-K - VisionWave Holdings, Inc. (0002038439) (Filer) | 2025-08-26T17:00:41-04:00 | https://www.sec.gov/Archives/edgar/data/2038439/000173112225001174/0001731122-25-001174.txt
+2025-08-26 21:14:19 | 8-K - Cambium Networks Corp (0001738177) (Filer) | 2025-08-26T17:00:35-04:00 | https://www.sec.gov/Archives/edgar/data/1738177/000119312525188765/0001193125-25-188765.txt
+2025-08-26 21:14:21 | 8-K - Firefly Aerospace Inc. (0001860160) (Filer) | 2025-08-26T17:00:21-04:00 | https://www.sec.gov/Archives/edgar/data/1860160/000119312525188766/0001193125-25-188766.txt
