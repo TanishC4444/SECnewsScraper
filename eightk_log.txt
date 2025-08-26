@@ -2612,3 +2612,4 @@
 2025-08-26 11:31:38 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-08-26T07:30:57-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000164117225025468/0001641172-25-025468.txt
 2025-08-26 11:31:40 | 8-K - Ranpak Holdings Corp. (0001712463) (Filer) | 2025-08-26T07:30:31-04:00 | https://www.sec.gov/Archives/edgar/data/1712463/000095010325010681/0000950103-25-010681.txt
 2025-08-26 11:31:41 | 8-K - Curanex Pharmaceuticals Inc (0002025942) (Filer) | 2025-08-26T07:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/2025942/000149315225012316/0001493152-25-012316.txt
+2025-08-26 11:52:17 | 8-K - INDIVIOR PLC (0001625297) (Filer) | 2025-08-26T07:45:34-04:00 | https://www.sec.gov/Archives/edgar/data/1625297/000162529725000059/0001625297-25-000059.txt
