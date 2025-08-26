@@ -2102,3 +2102,5 @@
 2025-08-26 21:14:30 | Hannover Holdings S.A. | Affiliate | Shares: 80593 | Value: $298,952.0 | Percent: 0.089027% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000196858225000798/0001968582-25-000798.txt
 2025-08-26 21:29:19 | STEVEN LITCHFIELD | Officer | Shares: 102157 | Value: $1,765,108.49 | Percent: 0.117313% | Link: https://www.sec.gov/Archives/edgar/data/1288469/000195004725006414/0001950047-25-006414.txt
 2025-08-26 21:29:20 | STEVEN LITCHFIELD | Officer | Shares: 102157 | Value: $1,765,108.49 | Percent: 0.117313% | Link: https://www.sec.gov/Archives/edgar/data/1286030/000195004725006414/0001950047-25-006414.txt
+2025-08-26 21:58:33 | Vizi Bradley (RCMT) | Officer | Shares: 260856 | Value: $6,850,000.0 | Percent: 3.520082% | Link: https://www.sec.gov/Archives/edgar/data/1556313/000143774925027782/0001437749-25-027782.txt
+2025-08-26 21:58:34 | Vizi Bradley (RCMT) | Officer | Shares: 260856 | Value: $6,850,000.0 | Percent: 3.520082% | Link: https://www.sec.gov/Archives/edgar/data/700841/000143774925027782/0001437749-25-027782.txt
