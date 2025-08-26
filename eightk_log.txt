@@ -2586,3 +2586,13 @@
 2025-08-25 21:25:13 | 8-K - HEICO CORP (0000046619) (Filer) | 2025-08-25T17:15:03-04:00 | https://www.sec.gov/Archives/edgar/data/46619/000004661925000060/0000046619-25-000060.txt
 2025-08-25 21:37:33 | 8-K - Fundamental Global Inc. (0001591890) (Filer) | 2025-08-25T17:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000164117225025430/0001641172-25-025430.txt
 2025-08-26 10:01:01 | 8-K - DeFi Development Corp. (0001805526) (Filer) | 2025-08-25T17:38:53-04:00 | https://www.sec.gov/Archives/edgar/data/1805526/000095017025111256/0000950170-25-111256.txt
+2025-08-26 10:30:54 | 8-K - AT&T INC. (0000732717) (Filer) | 2025-08-26T06:30:25-04:00 | https://www.sec.gov/Archives/edgar/data/732717/000119312525188074/0001193125-25-188074.txt
+2025-08-26 10:30:56 | 8-K - Autonomix Medical, Inc. (0001617867) (Filer) | 2025-08-26T06:30:11-04:00 | https://www.sec.gov/Archives/edgar/data/1617867/000143774925027719/0001437749-25-027719.txt
+2025-08-26 10:30:57 | 8-K - OS Therapies Inc (0001795091) (Filer) | 2025-08-26T06:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/1795091/000121390025080484/0001213900-25-080484.txt
+2025-08-26 10:30:58 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-08-26T06:01:32-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325014910/0001062993-25-014910.txt
+2025-08-26 10:30:59 | 8-K - Next Bridge Hydrocarbons, Inc. (0001936756) (Filer) | 2025-08-25T21:50:42-04:00 | https://www.sec.gov/Archives/edgar/data/1936756/000119983525000291/0001199835-25-000291.txt
+2025-08-26 10:31:00 | 8-K - CHARLES & COLVARD LTD (0001015155) (Filer) | 2025-08-25T21:44:24-04:00 | https://www.sec.gov/Archives/edgar/data/1015155/000110465925082695/0001104659-25-082695.txt
+2025-08-26 10:31:01 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-08-25T21:41:01-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000144/0001788230-25-000144.txt
+2025-08-26 10:31:01 | 8-K - Apollo Infrastructure Co LLC (0001971381) (Filer) | 2025-08-25T20:39:20-04:00 | https://www.sec.gov/Archives/edgar/data/1971381/000095017025111292/0000950170-25-111292.txt
+2025-08-26 10:31:03 | 8-K - BriaCell Therapeutics Corp. (0001610820) (Filer) | 2025-08-25T20:18:16-04:00 | https://www.sec.gov/Archives/edgar/data/1610820/000164117225025438/0001641172-25-025438.txt
+2025-08-26 10:31:04 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-08-25T20:15:24-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000477/0001564708-25-000477.txt
