@@ -2056,3 +2056,5 @@
 2025-08-26 14:55:59 | Orsini Frank C | Officer | Shares: 8500 | Value: $940,262.04 | Percent: 0.015976% | Link: https://www.sec.gov/Archives/edgar/data/842162/000195917325005534/0001959173-25-005534.txt
 2025-08-26 14:56:01 | Daly Richard J | Officer | Shares: 22970 | Value: $473,641.4 | Percent: 0.018768% | Link: https://www.sec.gov/Archives/edgar/data/1635393/000195917325005533/0001959173-25-005533.txt
 2025-08-26 14:56:03 | Daly Richard J | Officer | Shares: 22970 | Value: $473,641.4 | Percent: 0.018768% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005533/0001959173-25-005533.txt
+2025-08-26 15:18:38 | Hecla Charitable Foundation | Subsidiary | Shares: 160000 | Value: $1,267,200.0 | Percent: 0.023881% | Link: https://www.sec.gov/Archives/edgar/data/1470597/000147059725000001/0001470597-25-000001.txt
+2025-08-26 15:18:39 | Hecla Charitable Foundation | Subsidiary | Shares: 160000 | Value: $1,267,200.0 | Percent: 0.023881% | Link: https://www.sec.gov/Archives/edgar/data/719413/000147059725000001/0001470597-25-000001.txt
