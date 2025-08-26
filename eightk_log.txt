@@ -2690,3 +2690,13 @@
 2025-08-26 21:14:18 | 8-K - VisionWave Holdings, Inc. (0002038439) (Filer) | 2025-08-26T17:00:41-04:00 | https://www.sec.gov/Archives/edgar/data/2038439/000173112225001174/0001731122-25-001174.txt
 2025-08-26 21:14:19 | 8-K - Cambium Networks Corp (0001738177) (Filer) | 2025-08-26T17:00:35-04:00 | https://www.sec.gov/Archives/edgar/data/1738177/000119312525188765/0001193125-25-188765.txt
 2025-08-26 21:14:21 | 8-K - Firefly Aerospace Inc. (0001860160) (Filer) | 2025-08-26T17:00:21-04:00 | https://www.sec.gov/Archives/edgar/data/1860160/000119312525188766/0001193125-25-188766.txt
+2025-08-26 21:29:07 | 8-K - Yorkville Acquisition Corp. (0002064658) (Filer) | 2025-08-26T17:28:34-04:00 | https://www.sec.gov/Archives/edgar/data/2064658/000110465925083153/0001104659-25-083153.txt
+2025-08-26 21:29:08 | 8-K - Fly-E Group, Inc. (0001975940) (Filer) | 2025-08-26T17:28:00-04:00 | https://www.sec.gov/Archives/edgar/data/1975940/000121390025080838/0001213900-25-080838.txt
+2025-08-26 21:29:08 | 8-K - QUANTUM CORP /DE/ (0000709283) (Filer) | 2025-08-26T17:26:34-04:00 | https://www.sec.gov/Archives/edgar/data/709283/000070928325000029/0000709283-25-000029.txt
+2025-08-26 21:29:09 | 8-K/A - Tharimmune, Inc. (0001861657) (Filer) | 2025-08-26T17:24:20-04:00 | https://www.sec.gov/Archives/edgar/data/1861657/000164117225025585/0001641172-25-025585.txt
+2025-08-26 21:29:09 | 8-K - SUI Group Holdings Ltd. (0001425355) (Filer) | 2025-08-26T17:22:23-04:00 | https://www.sec.gov/Archives/edgar/data/1425355/000121390025080829/0001213900-25-080829.txt
+2025-08-26 21:29:10 | 8-K - PATRIOT NATIONAL BANCORP INC (0001098146) (Filer) | 2025-08-26T17:17:12-04:00 | https://www.sec.gov/Archives/edgar/data/1098146/000162828025041173/0001628280-25-041173.txt
+2025-08-26 21:29:12 | 8-K - StableX Technologies, Inc. (0001086745) (Filer) | 2025-08-26T17:15:30-04:00 | https://www.sec.gov/Archives/edgar/data/1086745/000164117225025570/0001641172-25-025570.txt
+2025-08-26 21:29:13 | 8-K - 22nd Century Group, Inc. (0001347858) (Filer) | 2025-08-26T17:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1347858/000164117225025569/0001641172-25-025569.txt
+2025-08-26 21:29:15 | 8-K - Wetouch Technology Inc. (0001826660) (Filer) | 2025-08-26T17:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1826660/000121390025080819/0001213900-25-080819.txt
+2025-08-26 21:29:17 | 8-K - MSP Recovery, Inc. (0001802450) (Filer) | 2025-08-26T17:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1802450/000180245025000042/0001802450-25-000042.txt
