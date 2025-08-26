@@ -2653,3 +2653,5 @@
 2025-08-26 17:14:18 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-26T13:12:25-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000187/0001325878-25-000187.txt
 2025-08-26 17:14:20 | 8-K - YORK WATER CO (0000108985) (Filer) | 2025-08-26T13:08:46-04:00 | https://www.sec.gov/Archives/edgar/data/108985/000010898525000072/0000108985-25-000072.txt
 2025-08-26 17:44:20 | 8-K - OFS Capital Corp (0001487918) (Filer) | 2025-08-26T13:43:40-04:00 | https://www.sec.gov/Archives/edgar/data/1487918/000148791825000101/0001487918-25-000101.txt
+2025-08-26 18:17:11 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-08-26T14:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000156/0001331757-25-000156.txt
+2025-08-26 18:17:12 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-26T14:00:27-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010049/0001654954-25-010049.txt
