@@ -2034,3 +2034,7 @@
 2025-08-25 23:44:08 | Kang Sun | Officer | Shares: 65654 | Value: $447,511.0 | Percent: 0.052491% | Link: https://www.sec.gov/Archives/edgar/data/1476220/000147622025000011/0001476220-25-000011.txt
 2025-08-25 23:44:09 | Sandra Wallach | Officer | Shares: 28390 | Value: $193,512.0 | Percent: 0.022698% | Link: https://www.sec.gov/Archives/edgar/data/1899287/000169836225000011/0001698362-25-000011.txt
 2025-08-25 23:44:10 | Sandra Wallach | Officer | Shares: 28390 | Value: $193,512.0 | Percent: 0.022698% | Link: https://www.sec.gov/Archives/edgar/data/1698362/000169836225000011/0001698362-25-000011.txt
+2025-08-26 00:55:47 | ZOHAR TADMOR | Officer | Shares: 37965 | Value: $608,243.8 | Percent: 0.015530% | Link: https://www.sec.gov/Archives/edgar/data/1970909/000195004725006371/0001950047-25-006371.txt
+2025-08-26 00:55:48 | ZOHAR TADMOR | Officer | Shares: 37965 | Value: $608,243.8 | Percent: 0.015530% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725006371/0001950047-25-006371.txt
+2025-08-26 00:55:49 | Youssef Lahrech | Former Officer | Shares: 300000 | Value: $4,182,000.0 | Percent: 0.007962% | Link: https://www.sec.gov/Archives/edgar/data/1968308/000196858225000795/0001968582-25-000795.txt
+2025-08-26 00:55:50 | Youssef Lahrech | Former Officer | Shares: 300000 | Value: $4,182,000.0 | Percent: 0.007962% | Link: https://www.sec.gov/Archives/edgar/data/1691493/000196858225000795/0001968582-25-000795.txt
