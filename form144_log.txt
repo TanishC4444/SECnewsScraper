@@ -2104,3 +2104,9 @@
 2025-08-26 21:29:20 | STEVEN LITCHFIELD | Officer | Shares: 102157 | Value: $1,765,108.49 | Percent: 0.117313% | Link: https://www.sec.gov/Archives/edgar/data/1286030/000195004725006414/0001950047-25-006414.txt
 2025-08-26 21:58:33 | Vizi Bradley (RCMT) | Officer | Shares: 260856 | Value: $6,850,000.0 | Percent: 3.520082% | Link: https://www.sec.gov/Archives/edgar/data/1556313/000143774925027782/0001437749-25-027782.txt
 2025-08-26 21:58:34 | Vizi Bradley (RCMT) | Officer | Shares: 260856 | Value: $6,850,000.0 | Percent: 3.520082% | Link: https://www.sec.gov/Archives/edgar/data/700841/000143774925027782/0001437749-25-027782.txt
+2025-08-26 22:21:34 | ALLISON JOHN W | Officer | Shares: 100000 | Value: $3,000,000.0 | Percent: 0.050741% | Link: https://www.sec.gov/Archives/edgar/data/1331520/000133152025000137/0001331520-25-000137.txt
+2025-08-26 22:21:35 | ALLISON JOHN W | Officer | Shares: 100000 | Value: $3,000,000.0 | Percent: 0.050741% | Link: https://www.sec.gov/Archives/edgar/data/1191010/000133152025000137/0001331520-25-000137.txt
+2025-08-26 22:21:36 | Wayne DeVeydt | Former Director | Shares: 25000 | Value: $572,500.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000664/0001969223-25-000664.txt
+2025-08-26 22:21:37 | Wayne DeVeydt | Former Director | Shares: 25000 | Value: $572,500.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000664/0001969223-25-000664.txt
+2025-08-26 22:21:39 | Morken David A. | Officer | Shares: 6000 | Value: $88,500.0 | Percent: 0.021289% | Link: https://www.sec.gov/Archives/edgar/data/1721962/000157856325000384/0001578563-25-000384.txt
+2025-08-26 22:21:40 | Morken David A. | Officer | Shares: 6000 | Value: $88,500.0 | Percent: 0.021289% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000157856325000384/0001578563-25-000384.txt
