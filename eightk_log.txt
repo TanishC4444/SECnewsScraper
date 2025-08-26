@@ -2585,3 +2585,4 @@
 2025-08-25 21:25:11 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-08-25T17:15:33-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225006215/0001477932-25-006215.txt
 2025-08-25 21:25:13 | 8-K - HEICO CORP (0000046619) (Filer) | 2025-08-25T17:15:03-04:00 | https://www.sec.gov/Archives/edgar/data/46619/000004661925000060/0000046619-25-000060.txt
 2025-08-25 21:37:33 | 8-K - Fundamental Global Inc. (0001591890) (Filer) | 2025-08-25T17:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000164117225025430/0001641172-25-025430.txt
+2025-08-26 10:01:01 | 8-K - DeFi Development Corp. (0001805526) (Filer) | 2025-08-25T17:38:53-04:00 | https://www.sec.gov/Archives/edgar/data/1805526/000095017025111256/0000950170-25-111256.txt
