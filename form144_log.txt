@@ -2086,3 +2086,9 @@
 2025-08-26 20:35:49 | Travis Thomas L | Officer | Shares: 13084 | Value: $645,782.0 | Percent: 0.138441% | Link: https://www.sec.gov/Archives/edgar/data/1746129/000197248125000180/0001972481-25-000180.txt
 2025-08-26 20:35:50 | Reinemund Community Property Trust | Affiliate | Shares: 100000 | Value: $12,822,110.0 | Percent: 0.026187% | Link: https://www.sec.gov/Archives/edgar/data/1674101/000196858225000796/0001968582-25-000796.txt
 2025-08-26 20:35:51 | Reinemund Community Property Trust | Affiliate | Shares: 100000 | Value: $12,822,110.0 | Percent: 0.026187% | Link: https://www.sec.gov/Archives/edgar/data/1183822/000196858225000796/0001968582-25-000796.txt
+2025-08-26 20:46:23 | Brazier Allan J | Officer | Shares: 6539 | Value: $523,120.0 | Percent: 0.003003% | Link: https://www.sec.gov/Archives/edgar/data/1526190/000195917325005554/0001959173-25-005554.txt
+2025-08-26 20:46:24 | Brazier Allan J | Officer | Shares: 6539 | Value: $523,120.0 | Percent: 0.003003% | Link: https://www.sec.gov/Archives/edgar/data/1521332/000195917325005554/0001959173-25-005554.txt
+2025-08-26 20:46:26 | Grasso Alfred | Director | Shares: 5356 | Value: $129,296.74 | Percent: 0.007452% | Link: https://www.sec.gov/Archives/edgar/data/1738443/000195917325005553/0001959173-25-005553.txt
+2025-08-26 20:46:28 | Grasso Alfred | Director | Shares: 5356 | Value: $129,296.74 | Percent: 0.007452% | Link: https://www.sec.gov/Archives/edgar/data/1078075/000195917325005553/0001959173-25-005553.txt
+2025-08-26 20:46:29 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $616,000.0 | Percent: 2.301342% | Link: https://www.sec.gov/Archives/edgar/data/1879464/000196794025000060/0001967940-25-000060.txt
+2025-08-26 20:46:30 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $616,000.0 | Percent: 2.301342% | Link: https://www.sec.gov/Archives/edgar/data/1819493/000196794025000060/0001967940-25-000060.txt
