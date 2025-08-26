@@ -2078,3 +2078,7 @@
 2025-08-26 18:44:04 | Grijalva Laurie Marie | Officer | Shares: 7487 | Value: $1,288,797.25 | Percent: 0.024503% | Link: https://www.sec.gov/Archives/edgar/data/1610250/000200731725000966/0002007317-25-000966.txt
 2025-08-26 19:37:18 | Hentschke Airton L | Officer | Shares: 10000 | Value: $554,458.0 | Percent: 0.040183% | Link: https://www.sec.gov/Archives/edgar/data/1578925/000194984625000419/0001949846-25-000419.txt
 2025-08-26 19:37:18 | Hentschke Airton L | Officer | Shares: 10000 | Value: $554,458.0 | Percent: 0.040183% | Link: https://www.sec.gov/Archives/edgar/data/102037/000194984625000419/0001949846-25-000419.txt
+2025-08-26 20:19:21 | Zheng Phil | Officer | Shares: 100000 | Value: $300,880.0 | Percent: 0.250408% | Link: https://www.sec.gov/Archives/edgar/data/2000274/000196922325000660/0001969223-25-000660.txt
+2025-08-26 20:19:23 | Zheng Phil | Officer | Shares: 100000 | Value: $300,880.0 | Percent: 0.250408% | Link: https://www.sec.gov/Archives/edgar/data/1963685/000196922325000660/0001969223-25-000660.txt
+2025-08-26 20:19:24 | Waldron Thomas E. | Officer | Shares: 5254 | Value: $405,692.08 | Percent: 0.009454% | Link: https://www.sec.gov/Archives/edgar/data/1760965/000195917325005547/0001959173-25-005547.txt
+2025-08-26 20:19:25 | Waldron Thomas E. | Officer | Shares: 5254 | Value: $405,692.08 | Percent: 0.009454% | Link: https://www.sec.gov/Archives/edgar/data/1759648/000195917325005547/0001959173-25-005547.txt
