@@ -2058,3 +2058,5 @@
 2025-08-26 14:56:03 | Daly Richard J | Officer | Shares: 22970 | Value: $473,641.4 | Percent: 0.018768% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005533/0001959173-25-005533.txt
 2025-08-26 15:18:38 | Hecla Charitable Foundation | Subsidiary | Shares: 160000 | Value: $1,267,200.0 | Percent: 0.023881% | Link: https://www.sec.gov/Archives/edgar/data/1470597/000147059725000001/0001470597-25-000001.txt
 2025-08-26 15:18:39 | Hecla Charitable Foundation | Subsidiary | Shares: 160000 | Value: $1,267,200.0 | Percent: 0.023881% | Link: https://www.sec.gov/Archives/edgar/data/719413/000147059725000001/0001470597-25-000001.txt
+2025-08-26 15:35:55 | Burke Russell John | Officer | Shares: 16287 | Value: $1,477,556.0 | Percent: 0.021002% | Link: https://www.sec.gov/Archives/edgar/data/1933232/000194984625000416/0001949846-25-000416.txt
+2025-08-26 15:35:56 | Burke Russell John | Officer | Shares: 16287 | Value: $1,477,556.0 | Percent: 0.021002% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000416/0001949846-25-000416.txt
