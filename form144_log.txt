@@ -2110,3 +2110,5 @@
 2025-08-26 22:21:37 | Wayne DeVeydt | Former Director | Shares: 25000 | Value: $572,500.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000664/0001969223-25-000664.txt
 2025-08-26 22:21:39 | Morken David A. | Officer | Shares: 6000 | Value: $88,500.0 | Percent: 0.021289% | Link: https://www.sec.gov/Archives/edgar/data/1721962/000157856325000384/0001578563-25-000384.txt
 2025-08-26 22:21:40 | Morken David A. | Officer | Shares: 6000 | Value: $88,500.0 | Percent: 0.021289% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000157856325000384/0001578563-25-000384.txt
+2025-08-26 22:37:44 | ZOHAR TADMOR | Officer | Shares: 10281 | Value: $164,651.09 | Percent: 0.004205% | Link: https://www.sec.gov/Archives/edgar/data/1970909/000195004725006415/0001950047-25-006415.txt
+2025-08-26 22:37:45 | ZOHAR TADMOR | Officer | Shares: 10281 | Value: $164,651.09 | Percent: 0.004205% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725006415/0001950047-25-006415.txt
