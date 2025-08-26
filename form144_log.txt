@@ -2060,3 +2060,7 @@
 2025-08-26 15:18:39 | Hecla Charitable Foundation | Subsidiary | Shares: 160000 | Value: $1,267,200.0 | Percent: 0.023881% | Link: https://www.sec.gov/Archives/edgar/data/719413/000147059725000001/0001470597-25-000001.txt
 2025-08-26 15:35:55 | Burke Russell John | Officer | Shares: 16287 | Value: $1,477,556.0 | Percent: 0.021002% | Link: https://www.sec.gov/Archives/edgar/data/1933232/000194984625000416/0001949846-25-000416.txt
 2025-08-26 15:35:56 | Burke Russell John | Officer | Shares: 16287 | Value: $1,477,556.0 | Percent: 0.021002% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000416/0001949846-25-000416.txt
+2025-08-26 16:22:22 | Johnson Andrew Martin | Officer | Shares: 20000 | Value: $1,049,634.41 | Percent: 0.007431% | Link: https://www.sec.gov/Archives/edgar/data/1780312/000195917325005536/0001959173-25-005536.txt
+2025-08-26 16:22:23 | Johnson Andrew Martin | Officer | Shares: 20000 | Value: $1,049,634.41 | Percent: 0.007431% | Link: https://www.sec.gov/Archives/edgar/data/1548887/000195917325005536/0001959173-25-005536.txt
+2025-08-26 16:22:24 | Felix George S | Officer | Shares: 11769 | Value: $1,873,453.88 | Percent: 0.026448% | Link: https://www.sec.gov/Archives/edgar/data/1946054/000195917325005535/0001959173-25-005535.txt
+2025-08-26 16:22:25 | Felix George S | Officer | Shares: 11769 | Value: $1,873,453.88 | Percent: 0.026448% | Link: https://www.sec.gov/Archives/edgar/data/703351/000195917325005535/0001959173-25-005535.txt
