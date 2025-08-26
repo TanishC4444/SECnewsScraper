@@ -2082,3 +2082,7 @@
 2025-08-26 20:19:23 | Zheng Phil | Officer | Shares: 100000 | Value: $300,880.0 | Percent: 0.250408% | Link: https://www.sec.gov/Archives/edgar/data/1963685/000196922325000660/0001969223-25-000660.txt
 2025-08-26 20:19:24 | Waldron Thomas E. | Officer | Shares: 5254 | Value: $405,692.08 | Percent: 0.009454% | Link: https://www.sec.gov/Archives/edgar/data/1760965/000195917325005547/0001959173-25-005547.txt
 2025-08-26 20:19:25 | Waldron Thomas E. | Officer | Shares: 5254 | Value: $405,692.08 | Percent: 0.009454% | Link: https://www.sec.gov/Archives/edgar/data/1759648/000195917325005547/0001959173-25-005547.txt
+2025-08-26 20:35:48 | Travis Thomas L | Officer | Shares: 13084 | Value: $645,782.0 | Percent: 0.138441% | Link: https://www.sec.gov/Archives/edgar/data/1752359/000197248125000180/0001972481-25-000180.txt
+2025-08-26 20:35:49 | Travis Thomas L | Officer | Shares: 13084 | Value: $645,782.0 | Percent: 0.138441% | Link: https://www.sec.gov/Archives/edgar/data/1746129/000197248125000180/0001972481-25-000180.txt
+2025-08-26 20:35:50 | Reinemund Community Property Trust | Affiliate | Shares: 100000 | Value: $12,822,110.0 | Percent: 0.026187% | Link: https://www.sec.gov/Archives/edgar/data/1674101/000196858225000796/0001968582-25-000796.txt
+2025-08-26 20:35:51 | Reinemund Community Property Trust | Affiliate | Shares: 100000 | Value: $12,822,110.0 | Percent: 0.026187% | Link: https://www.sec.gov/Archives/edgar/data/1183822/000196858225000796/0001968582-25-000796.txt
