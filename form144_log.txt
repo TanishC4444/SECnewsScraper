@@ -2040,3 +2040,7 @@
 2025-08-26 00:55:50 | Youssef Lahrech | Former Officer | Shares: 300000 | Value: $4,182,000.0 | Percent: 0.007962% | Link: https://www.sec.gov/Archives/edgar/data/1691493/000196858225000795/0001968582-25-000795.txt
 2025-08-26 02:39:00 | JEAN F HOLLOWAY | Officer | Shares: 10000 | Value: $443,700.0 | Percent: 0.021194% | Link: https://www.sec.gov/Archives/edgar/data/1540065/000195004725006372/0001950047-25-006372.txt
 2025-08-26 02:39:01 | JEAN F HOLLOWAY | Officer | Shares: 10000 | Value: $443,700.0 | Percent: 0.021194% | Link: https://www.sec.gov/Archives/edgar/data/784199/000195004725006372/0001950047-25-006372.txt
+2025-08-26 11:18:19 | Yang Bin Maggie | Officer | Shares: 25000 | Value: $154,000.0 | Percent: 0.014463% | Link: https://www.sec.gov/Archives/edgar/data/2047241/000197337925000231/0001973379-25-000231.txt
+2025-08-26 11:18:19 | Yang Bin Maggie | Officer | Shares: 25000 | Value: $154,000.0 | Percent: 0.014463% | Link: https://www.sec.gov/Archives/edgar/data/1631761/000197337925000231/0001973379-25-000231.txt
+2025-08-26 11:18:21 | Zalman Malach Ronit | Director | Shares: 12203 | Value: $113,365.87 | Percent: 0.021402% | Link: https://www.sec.gov/Archives/edgar/data/1978020/000197640825000279/0001976408-25-000279.txt
+2025-08-26 11:18:22 | Zalman Malach Ronit | Director | Shares: 12203 | Value: $113,365.87 | Percent: 0.021402% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000279/0001976408-25-000279.txt

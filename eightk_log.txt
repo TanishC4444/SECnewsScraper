@@ -2606,3 +2606,5 @@
 2025-08-26 10:57:04 | 8-K - Citi Trends Inc (0001318484) (Filer) | 2025-08-26T06:55:50-04:00 | https://www.sec.gov/Archives/edgar/data/1318484/000110465925082774/0001104659-25-082774.txt
 2025-08-26 10:57:05 | 8-K - OLAPLEX HOLDINGS, INC. (0001868726) (Filer) | 2025-08-26T06:55:13-04:00 | https://www.sec.gov/Archives/edgar/data/1868726/000119312525188088/0001193125-25-188088.txt
 2025-08-26 10:57:06 | 8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer) | 2025-08-26T06:50:25-04:00 | https://www.sec.gov/Archives/edgar/data/1574085/000110465925082767/0001104659-25-082767.txt
+2025-08-26 11:18:16 | 8-K - Marker Therapeutics, Inc. (0001094038) (Filer) | 2025-08-26T07:16:20-04:00 | https://www.sec.gov/Archives/edgar/data/1094038/000110465925082783/0001104659-25-082783.txt
+2025-08-26 11:18:17 | 8-K - OppFi Inc. (0001818502) (Filer) | 2025-08-26T07:13:53-04:00 | https://www.sec.gov/Archives/edgar/data/1818502/000181850225000033/0001818502-25-000033.txt
