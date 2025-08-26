@@ -2072,3 +2072,7 @@
 2025-08-26 17:32:38 | A.P.O. Holdings, LLC. | APO Control person is CEO of Global Warming Sol. | Shares: 34206 | Value: $25,312.44 | Percent: 0.209210% | Link: https://www.sec.gov/Archives/edgar/data/1430300/000164117225025509/0001641172-25-025509.txt
 2025-08-26 17:53:42 | Schwab Charles R. | Officer | Shares: 136500 | Value: $13,138,125.0 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/923738/000194984625000417/0001949846-25-000417.txt
 2025-08-26 17:53:44 | Schwab Charles R. | Officer | Shares: 136500 | Value: $13,138,125.0 | Percent: 0.007520% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000417/0001949846-25-000417.txt
+2025-08-26 18:44:00 | Rudow Lee D. | Officer | Shares: 10000 | Value: $821,200.0 | Percent: 0.107307% | Link: https://www.sec.gov/Archives/edgar/data/1535064/000194984625000418/0001949846-25-000418.txt
+2025-08-26 18:44:01 | Rudow Lee D. | Officer | Shares: 10000 | Value: $821,200.0 | Percent: 0.107307% | Link: https://www.sec.gov/Archives/edgar/data/99302/000194984625000418/0001949846-25-000418.txt
+2025-08-26 18:44:03 | Grijalva Laurie Marie | Officer | Shares: 7487 | Value: $1,288,797.25 | Percent: 0.024503% | Link: https://www.sec.gov/Archives/edgar/data/1623311/000200731725000966/0002007317-25-000966.txt
+2025-08-26 18:44:04 | Grijalva Laurie Marie | Officer | Shares: 7487 | Value: $1,288,797.25 | Percent: 0.024503% | Link: https://www.sec.gov/Archives/edgar/data/1610250/000200731725000966/0002007317-25-000966.txt
