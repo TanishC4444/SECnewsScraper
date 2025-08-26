@@ -2044,3 +2044,7 @@
 2025-08-26 11:18:19 | Yang Bin Maggie | Officer | Shares: 25000 | Value: $154,000.0 | Percent: 0.014463% | Link: https://www.sec.gov/Archives/edgar/data/1631761/000197337925000231/0001973379-25-000231.txt
 2025-08-26 11:18:21 | Zalman Malach Ronit | Director | Shares: 12203 | Value: $113,365.87 | Percent: 0.021402% | Link: https://www.sec.gov/Archives/edgar/data/1978020/000197640825000279/0001976408-25-000279.txt
 2025-08-26 11:18:22 | Zalman Malach Ronit | Director | Shares: 12203 | Value: $113,365.87 | Percent: 0.021402% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000279/0001976408-25-000279.txt
+2025-08-26 12:18:59 | Qian Yixin | Officer | Shares: 15000 | Value: $498,150.0 | Percent: 0.000900% | Link: https://www.sec.gov/Archives/edgar/data/2035545/000197337925000233/0001973379-25-000233.txt
+2025-08-26 12:19:00 | Qian Yixin | Officer | Shares: 15000 | Value: $498,150.0 | Percent: 0.000900% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000233/0001973379-25-000233.txt
+2025-08-26 12:19:01 | Zhang Kejing | Officer | Shares: 9682 | Value: $321,539.2 | Percent: 0.000581% | Link: https://www.sec.gov/Archives/edgar/data/1972411/000197337925000232/0001973379-25-000232.txt
+2025-08-26 12:19:02 | Zhang Kejing | Officer | Shares: 9682 | Value: $321,539.2 | Percent: 0.000581% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000232/0001973379-25-000232.txt
