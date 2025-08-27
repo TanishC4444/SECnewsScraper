@@ -2220,3 +2220,5 @@
 2025-08-27 22:47:20 | Sonia Malka | Affiliate | Shares: 80520 | Value: $8,760,576.0 | Percent: 0.010404% | Link: https://www.sec.gov/Archives/edgar/data/1571355/000196858225000819/0001968582-25-000819.txt
 2025-08-27 23:16:59 | LUCIAN BOLDEA | Affiliate | Shares: 5968 | Value: $1,328,238.0 | Percent: 0.000940% | Link: https://www.sec.gov/Archives/edgar/data/1679130/000196858225000821/0001968582-25-000821.txt
 2025-08-27 23:17:00 | LUCIAN BOLDEA | Affiliate | Shares: 5968 | Value: $1,328,238.0 | Percent: 0.000940% | Link: https://www.sec.gov/Archives/edgar/data/773840/000196858225000821/0001968582-25-000821.txt
+2025-08-27 23:59:18 | Benedetto Masi | Officer | Shares: 15000 | Value: $822,482.0 | Percent: 0.010046% | Link: https://www.sec.gov/Archives/edgar/data/2067260/000095014225002295/0000950142-25-002295.txt
+2025-08-27 23:59:19 | Benedetto Masi | Officer | Shares: 15000 | Value: $822,482.0 | Percent: 0.010046% | Link: https://www.sec.gov/Archives/edgar/data/1061894/000095014225002295/0000950142-25-002295.txt
