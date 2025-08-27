@@ -2212,3 +2212,7 @@
 2025-08-27 21:41:04 | GARY TEO | Officer | Shares: 6550 | Value: $697,359.51 | Percent: 0.004753% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000195004725006465/0001950047-25-006465.txt
 2025-08-27 21:59:19 | CHISM DANIEL M | Officer | Shares: 30000 | Value: $480,000.0 | Percent: 0.104115% | Link: https://www.sec.gov/Archives/edgar/data/1320760/000165495425010103/0001654954-25-010103.txt
 2025-08-27 21:59:20 | CHISM DANIEL M | Officer | Shares: 30000 | Value: $480,000.0 | Percent: 0.104115% | Link: https://www.sec.gov/Archives/edgar/data/1219755/000165495425010103/0001654954-25-010103.txt
+2025-08-27 22:22:56 | Kristen M. Oelschlager | Officer | Shares: 18007 | Value: $384,449.45 | Percent: 0.062075% | Link: https://www.sec.gov/Archives/edgar/data/1856565/000196858225000817/0001968582-25-000817.txt
+2025-08-27 22:22:58 | Kristen M. Oelschlager | Officer | Shares: 18007 | Value: $384,449.45 | Percent: 0.062075% | Link: https://www.sec.gov/Archives/edgar/data/1447362/000196858225000817/0001968582-25-000817.txt
+2025-08-27 22:23:00 | ANURADHA MURALIDHARAN | Officer | Shares: 25245 | Value: $49,076.3 | Percent: 0.027248% | Link: https://www.sec.gov/Archives/edgar/data/1891077/000195004725006467/0001950047-25-006467.txt
+2025-08-27 22:23:02 | ANURADHA MURALIDHARAN | Officer | Shares: 25245 | Value: $49,076.3 | Percent: 0.027248% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000195004725006467/0001950047-25-006467.txt
