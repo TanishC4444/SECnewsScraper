@@ -2170,3 +2170,11 @@
 2025-08-27 20:15:28 | ANN L MCDANIEL | Director | Shares: 5423 | Value: $203,773.56 | Percent: 0.002254% | Link: https://www.sec.gov/Archives/edgar/data/891103/000195004725006427/0001950047-25-006427.txt
 2025-08-27 20:15:29 | LAZAR JACK R | Director | Shares: 22500 | Value: $4,014,398.25 | Percent: 0.013536% | Link: https://www.sec.gov/Archives/edgar/data/1736297/000196922325000668/0001969223-25-000668.txt
 2025-08-27 20:15:30 | LAZAR JACK R | Director | Shares: 22500 | Value: $4,014,398.25 | Percent: 0.013536% | Link: https://www.sec.gov/Archives/edgar/data/1277624/000196922325000668/0001969223-25-000668.txt
+2025-08-27 20:34:04 | KATHERYN EVANS | Officer | Shares: 21509 | Value: $548,952.7 | Percent: 0.015105% | Link: https://www.sec.gov/Archives/edgar/data/1700262/000195004725006454/0001950047-25-006454.txt
+2025-08-27 20:34:06 | KATHERYN EVANS | Officer | Shares: 21509 | Value: $548,952.7 | Percent: 0.015105% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000195004725006454/0001950047-25-006454.txt
+2025-08-27 20:34:08 | Hausmann Bruce Andrew | Officer | Shares: 25000 | Value: $678,500.0 | Percent: 0.042836% | Link: https://www.sec.gov/Archives/edgar/data/1701898/000195917325005578/0001959173-25-005578.txt
+2025-08-27 20:34:10 | Hausmann Bruce Andrew | Officer | Shares: 25000 | Value: $678,500.0 | Percent: 0.042836% | Link: https://www.sec.gov/Archives/edgar/data/715787/000195917325005578/0001959173-25-005578.txt
+2025-08-27 20:34:12 | CHRISTOPHER HATTO | Officer | Shares: 14667 | Value: $862,419.6 | Percent: 0.001541% | Link: https://www.sec.gov/Archives/edgar/data/1467858/000195004725006452/0001950047-25-006452.txt
+2025-08-27 20:34:13 | CHRISTOPHER HATTO | Officer | Shares: 14667 | Value: $862,419.6 | Percent: 0.001541% | Link: https://www.sec.gov/Archives/edgar/data/1292153/000195004725006452/0001950047-25-006452.txt
+2025-08-27 20:34:15 | Fraser, Lee (PLNH) | Officer | Shares: 100000 | Value: $28,910.6 | Percent: 0.030735% | Link: https://www.sec.gov/Archives/edgar/data/1978350/000143774925027872/0001437749-25-027872.txt
+2025-08-27 20:34:16 | Fraser, Lee (PLNH) | Officer | Shares: 100000 | Value: $28,910.6 | Percent: 0.030735% | Link: https://www.sec.gov/Archives/edgar/data/1813452/000143774925027872/0001437749-25-027872.txt
