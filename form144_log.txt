@@ -2158,3 +2158,5 @@
 2025-08-27 19:25:01 | Hamady Robert Ramsey | Officer | Shares: 30641 | Value: $1,090,356.92 | Percent: 0.022885% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000195917325005569/0001959173-25-005569.txt
 2025-08-27 19:35:31 | Forsee Gary D | Former Director | Shares: 19055 | Value: $1,533,868.04 | Percent: 0.004794% | Link: https://www.sec.gov/Archives/edgar/data/1699150/000195917325005570/0001959173-25-005570.txt
 2025-08-27 19:35:32 | Forsee Gary D | Former Director | Shares: 19055 | Value: $1,533,868.04 | Percent: 0.004794% | Link: https://www.sec.gov/Archives/edgar/data/1189566/000195917325005570/0001959173-25-005570.txt
+2025-08-27 19:54:29 | Curtis Alan R | Officer | Shares: 14840 | Value: $361,473.66 | Percent: 0.014809% | Link: https://www.sec.gov/Archives/edgar/data/1650663/000195917325005571/0001959173-25-005571.txt
+2025-08-27 19:54:30 | Curtis Alan R | Officer | Shares: 14840 | Value: $361,473.66 | Percent: 0.014809% | Link: https://www.sec.gov/Archives/edgar/data/73756/000195917325005571/0001959173-25-005571.txt
