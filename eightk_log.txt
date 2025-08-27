@@ -2727,3 +2727,13 @@
 2025-08-27 11:39:29 | 8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer) | 2025-08-27T07:31:45-04:00 | https://www.sec.gov/Archives/edgar/data/1101215/000110121525000151/0001101215-25-000151.txt
 2025-08-27 11:39:30 | 8-K - U.S. GoldMining Inc. (0001947244) (Filer) | 2025-08-27T07:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/1947244/000149315225012365/0001493152-25-012365.txt
 2025-08-27 11:58:01 | 8-K - DESTINATION XL GROUP, INC. (0000813298) (Filer) | 2025-08-27T07:54:02-04:00 | https://www.sec.gov/Archives/edgar/data/813298/000081329825000010/0000813298-25-000010.txt
+2025-08-27 12:43:49 | 8-K - Holley Inc. (0001822928) (Filer) | 2025-08-27T08:31:56-04:00 | https://www.sec.gov/Archives/edgar/data/1822928/000182292825000005/0001822928-25-000005.txt
+2025-08-27 12:43:51 | 8-K - Unusual Machines, Inc. (0001956955) (Filer) | 2025-08-27T08:30:28-04:00 | https://www.sec.gov/Archives/edgar/data/1956955/000168316825006478/0001683168-25-006478.txt
+2025-08-27 12:43:52 | 8-K - Greenidge Generation Holdings Inc. (0001844971) (Filer) | 2025-08-27T08:24:33-04:00 | https://www.sec.gov/Archives/edgar/data/1844971/000162828025041196/0001628280-25-041196.txt
+2025-08-27 12:43:53 | 8-K - Vor Biopharma Inc. (0001817229) (Filer) | 2025-08-27T08:19:09-04:00 | https://www.sec.gov/Archives/edgar/data/1817229/000119312525189169/0001193125-25-189169.txt
+2025-08-27 12:43:55 | 8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer) | 2025-08-27T08:16:21-04:00 | https://www.sec.gov/Archives/edgar/data/2050260/000205026025000079/0002050260-25-000079.txt
+2025-08-27 12:43:56 | 8-K - Quipt Home Medical Corp. (0001540013) (Filer) | 2025-08-27T08:15:08-04:00 | https://www.sec.gov/Archives/edgar/data/1540013/000155837025011770/0001558370-25-011770.txt
+2025-08-27 12:43:57 | 8-K - Trulieve Cannabis Corp. (0001754195) (Filer) | 2025-08-27T08:10:22-04:00 | https://www.sec.gov/Archives/edgar/data/1754195/000175419525000057/0001754195-25-000057.txt
+2025-08-27 12:43:59 | 8-K - MANNKIND CORP (0000899460) (Filer) | 2025-08-27T08:08:38-04:00 | https://www.sec.gov/Archives/edgar/data/899460/000095017025111586/0000950170-25-111586.txt
+2025-08-27 12:44:00 | 8-K - Grace Therapeutics, Inc. (0001444192) (Filer) | 2025-08-27T08:08:12-04:00 | https://www.sec.gov/Archives/edgar/data/1444192/000114036125032847/0001140361-25-032847.txt
+2025-08-27 12:44:02 | 8-K - SiteOne Landscape Supply, Inc. (0001650729) (Filer) | 2025-08-27T08:00:46-04:00 | https://www.sec.gov/Archives/edgar/data/1650729/000110465925083549/0001104659-25-083549.txt
