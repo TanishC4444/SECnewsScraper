@@ -2206,3 +2206,7 @@
 2025-08-27 21:30:25 | Larry A. Klane | Affiliate | Shares: 100000 | Value: $513,000.0 | Percent: 0.049383% | Link: https://www.sec.gov/Archives/edgar/data/1238036/000196858225000816/0001968582-25-000816.txt
 2025-08-27 21:30:26 | ROHIT GUPTA | Officer | Shares: 86406 | Value: $749,140.0 | Percent: 0.021052% | Link: https://www.sec.gov/Archives/edgar/data/1848069/000196858225000814/0001968582-25-000814.txt
 2025-08-27 21:30:27 | ROHIT GUPTA | Officer | Shares: 86406 | Value: $749,140.0 | Percent: 0.021052% | Link: https://www.sec.gov/Archives/edgar/data/1276520/000196858225000814/0001968582-25-000814.txt
+2025-08-27 21:41:00 | MARSHALL STANTON | Officer | Shares: 18200 | Value: $801,211.32 | Percent: 0.038573% | Link: https://www.sec.gov/Archives/edgar/data/1849615/000195004725006466/0001950047-25-006466.txt
+2025-08-27 21:41:01 | MARSHALL STANTON | Officer | Shares: 18200 | Value: $801,211.32 | Percent: 0.038573% | Link: https://www.sec.gov/Archives/edgar/data/784199/000195004725006466/0001950047-25-006466.txt
+2025-08-27 21:41:02 | GARY TEO | Officer | Shares: 6550 | Value: $697,359.51 | Percent: 0.004753% | Link: https://www.sec.gov/Archives/edgar/data/1668233/000195004725006465/0001950047-25-006465.txt
+2025-08-27 21:41:04 | GARY TEO | Officer | Shares: 6550 | Value: $697,359.51 | Percent: 0.004753% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000195004725006465/0001950047-25-006465.txt

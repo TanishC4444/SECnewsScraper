@@ -2812,3 +2812,4 @@
 2025-08-27 21:30:11 | 8-K - 21Shares Ethereum ETF (0001992508) (Filer) | 2025-08-27T17:19:04-04:00 | https://www.sec.gov/Archives/edgar/data/1992508/000121390025081218/0001213900-25-081218.txt
 2025-08-27 21:30:13 | 8-K - Autonomix Medical, Inc. (0001617867) (Filer) | 2025-08-27T17:16:15-04:00 | https://www.sec.gov/Archives/edgar/data/1617867/000143774925027890/0001437749-25-027890.txt
 2025-08-27 21:30:15 | 8-K - American Strategic Investment Co. (0001595527) (Filer) | 2025-08-27T17:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/1595527/000110465925084078/0001104659-25-084078.txt
+2025-08-27 21:40:58 | 8-K - Brand Engagement Network Inc. (0001838163) (Filer) | 2025-08-27T17:30:08-04:00 | https://www.sec.gov/Archives/edgar/data/1838163/000164117225025734/0001641172-25-025734.txt
