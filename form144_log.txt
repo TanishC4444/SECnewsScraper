@@ -2190,3 +2190,9 @@
 2025-08-27 20:55:23 | David Schulz | Officer | Shares: 12227 | Value: $2,753,179.0 | Percent: 0.025126% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000673/0001969223-25-000673.txt
 2025-08-27 20:55:25 | EMILIANO KARGIEMAN | Officer | Shares: 15191 | Value: $56,966.25 | Percent: 0.015993% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725006459/0001950047-25-006459.txt
 2025-08-27 20:55:26 | EMILIANO KARGIEMAN | Officer | Shares: 15191 | Value: $56,966.25 | Percent: 0.015993% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725006459/0001950047-25-006459.txt
+2025-08-27 21:15:34 | Goldsteen Mitchell B. | Affiliate | Shares: 9229 | Value: $30,679.04 | Percent: 0.026859% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000014/0000011790-25-000014.txt
+2025-08-27 21:15:35 | Goldsteen Mitchell B. | Affiliate | Shares: 9229 | Value: $30,679.04 | Percent: 0.026859% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000014/0000011790-25-000014.txt
+2025-08-27 21:15:38 | Indig Chaim | Officer | Shares: 92247 | Value: $2,953,432.6 | Percent: 0.155026% | Link: https://www.sec.gov/Archives/edgar/data/1776732/000195917325005585/0001959173-25-005585.txt
+2025-08-27 21:15:39 | Indig Chaim | Officer | Shares: 92247 | Value: $2,953,432.6 | Percent: 0.155026% | Link: https://www.sec.gov/Archives/edgar/data/1412408/000195917325005585/0001959173-25-005585.txt
+2025-08-27 21:15:41 | August J. Troendle | Chairman | Shares: 38013 | Value: $180,560,175.0 | Percent: 0.132258% | Link: https://www.sec.gov/Archives/edgar/data/1668397/000196922325000675/0001969223-25-000675.txt
+2025-08-27 21:15:43 | August J. Troendle | Chairman | Shares: 38013 | Value: $180,560,175.0 | Percent: 0.132258% | Link: https://www.sec.gov/Archives/edgar/data/1622058/000196922325000675/0001969223-25-000675.txt
