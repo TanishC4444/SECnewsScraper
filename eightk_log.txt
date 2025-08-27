@@ -2746,3 +2746,4 @@
 2025-08-27 13:17:48 | 8-K - MainStreet Bancshares, Inc. (0001693577) (Filer) | 2025-08-27T09:00:59-04:00 | https://www.sec.gov/Archives/edgar/data/1693577/000143774925027799/0001437749-25-027799.txt
 2025-08-27 13:17:49 | 8-K - Beeline Holdings, Inc. (0001534708) (Filer) | 2025-08-27T09:00:32-04:00 | https://www.sec.gov/Archives/edgar/data/1534708/000164117225025640/0001641172-25-025640.txt
 2025-08-27 13:17:51 | 8-K - BLACKBERRY Ltd (0001070235) (Filer) | 2025-08-27T08:55:08-04:00 | https://www.sec.gov/Archives/edgar/data/1070235/000107023525000151/0001070235-25-000151.txt
+2025-08-27 13:41:06 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-08-27T09:28:54-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025080957/0001213900-25-080957.txt
