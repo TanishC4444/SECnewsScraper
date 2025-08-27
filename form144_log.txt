@@ -2160,3 +2160,13 @@
 2025-08-27 19:35:32 | Forsee Gary D | Former Director | Shares: 19055 | Value: $1,533,868.04 | Percent: 0.004794% | Link: https://www.sec.gov/Archives/edgar/data/1189566/000195917325005570/0001959173-25-005570.txt
 2025-08-27 19:54:29 | Curtis Alan R | Officer | Shares: 14840 | Value: $361,473.66 | Percent: 0.014809% | Link: https://www.sec.gov/Archives/edgar/data/1650663/000195917325005571/0001959173-25-005571.txt
 2025-08-27 19:54:30 | Curtis Alan R | Officer | Shares: 14840 | Value: $361,473.66 | Percent: 0.014809% | Link: https://www.sec.gov/Archives/edgar/data/73756/000195917325005571/0001959173-25-005571.txt
+2025-08-27 20:15:18 | KAUFFMAN ROBERT I | Director | Shares: 28704 | Value: $316,278.0 | Percent: 0.031563% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000200731725000979/0002007317-25-000979.txt
+2025-08-27 20:15:19 | KAUFFMAN ROBERT I | Director | Shares: 28704 | Value: $316,278.0 | Percent: 0.031563% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000200731725000979/0002007317-25-000979.txt
+2025-08-27 20:15:20 | Tierney David S | Director | Shares: 26000 | Value: $525,087.81 | Percent: 0.021243% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005574/0001959173-25-005574.txt
+2025-08-27 20:15:22 | Tierney David S | Director | Shares: 26000 | Value: $525,087.81 | Percent: 0.021243% | Link: https://www.sec.gov/Archives/edgar/data/1292636/000195917325005574/0001959173-25-005574.txt
+2025-08-27 20:15:24 | Leef Eric | Officer | Shares: 21458 | Value: $121,724.44 | Percent: 0.006904% | Link: https://www.sec.gov/Archives/edgar/data/1879088/000196430625000338/0001964306-25-000338.txt
+2025-08-27 20:15:25 | Leef Eric | Officer | Shares: 21458 | Value: $121,724.44 | Percent: 0.006904% | Link: https://www.sec.gov/Archives/edgar/data/1657853/000196430625000338/0001964306-25-000338.txt
+2025-08-27 20:15:27 | ANN L MCDANIEL | Director | Shares: 5423 | Value: $203,773.56 | Percent: 0.002254% | Link: https://www.sec.gov/Archives/edgar/data/1159555/000195004725006427/0001950047-25-006427.txt
+2025-08-27 20:15:28 | ANN L MCDANIEL | Director | Shares: 5423 | Value: $203,773.56 | Percent: 0.002254% | Link: https://www.sec.gov/Archives/edgar/data/891103/000195004725006427/0001950047-25-006427.txt
+2025-08-27 20:15:29 | LAZAR JACK R | Director | Shares: 22500 | Value: $4,014,398.25 | Percent: 0.013536% | Link: https://www.sec.gov/Archives/edgar/data/1736297/000196922325000668/0001969223-25-000668.txt
+2025-08-27 20:15:30 | LAZAR JACK R | Director | Shares: 22500 | Value: $4,014,398.25 | Percent: 0.013536% | Link: https://www.sec.gov/Archives/edgar/data/1277624/000196922325000668/0001969223-25-000668.txt
