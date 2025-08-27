@@ -2112,3 +2112,5 @@
 2025-08-26 22:21:40 | Morken David A. | Officer | Shares: 6000 | Value: $88,500.0 | Percent: 0.021289% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000157856325000384/0001578563-25-000384.txt
 2025-08-26 22:37:44 | ZOHAR TADMOR | Officer | Shares: 10281 | Value: $164,651.09 | Percent: 0.004205% | Link: https://www.sec.gov/Archives/edgar/data/1970909/000195004725006415/0001950047-25-006415.txt
 2025-08-26 22:37:45 | ZOHAR TADMOR | Officer | Shares: 10281 | Value: $164,651.09 | Percent: 0.004205% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725006415/0001950047-25-006415.txt
+2025-08-27 01:59:11 | Wilson Dennis J. | Owner | Shares: 4054054 | Value: $159,729,728.0 | Percent: 0.731025% | Link: https://www.sec.gov/Archives/edgar/data/1988894/000095017025111556/0000950170-25-111556.txt
+2025-08-27 01:59:12 | Wilson Dennis J. | Owner | Shares: 4054054 | Value: $159,729,728.0 | Percent: 0.731025% | Link: https://www.sec.gov/Archives/edgar/data/1407029/000095017025111556/0000950170-25-111556.txt
