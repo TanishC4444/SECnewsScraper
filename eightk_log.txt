@@ -2781,3 +2781,13 @@
 2025-08-27 20:33:59 | 8-K - POTLATCHDELTIC CORP (0001338749) (Filer) | 2025-08-27T16:30:31-04:00 | https://www.sec.gov/Archives/edgar/data/1338749/000133874925000010/0001338749-25-000010.txt
 2025-08-27 20:34:01 | 8-K - Aditxt, Inc. (0001726711) (Filer) | 2025-08-27T16:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1726711/000121390025081146/0001213900-25-081146.txt
 2025-08-27 20:34:02 | 8-K - Zapata Quantum, Inc. (0001843714) (Filer) | 2025-08-27T16:30:28-04:00 | https://www.sec.gov/Archives/edgar/data/1843714/000107997325001390/0001079973-25-001390.txt
+2025-08-27 20:45:55 | 8-K - Xos, Inc. (0001819493) (Filer) | 2025-08-27T16:44:30-04:00 | https://www.sec.gov/Archives/edgar/data/1819493/000181949325000143/0001819493-25-000143.txt
+2025-08-27 20:45:56 | 8-K - Interactive Strength, Inc. (0001785056) (Filer) | 2025-08-27T16:43:47-04:00 | https://www.sec.gov/Archives/edgar/data/1785056/000095017025111723/0000950170-25-111723.txt
+2025-08-27 20:45:57 | 8-K - NOVAVAX INC (0001000694) (Filer) | 2025-08-27T16:40:29-04:00 | https://www.sec.gov/Archives/edgar/data/1000694/000110465925084053/0001104659-25-084053.txt
+2025-08-27 20:45:59 | 8-K - Topgolf Callaway Brands Corp. (0000837465) (Filer) | 2025-08-27T16:39:26-04:00 | https://www.sec.gov/Archives/edgar/data/837465/000119312525189811/0001193125-25-189811.txt
+2025-08-27 20:46:01 | 8-K - Usio, Inc. (0001088034) (Filer) | 2025-08-27T16:39:11-04:00 | https://www.sec.gov/Archives/edgar/data/1088034/000143774925027881/0001437749-25-027881.txt
+2025-08-27 20:46:02 | 8-K - NOVAVAX INC (0001000694) (Filer) | 2025-08-27T16:38:26-04:00 | https://www.sec.gov/Archives/edgar/data/1000694/000110465925084049/0001104659-25-084049.txt
+2025-08-27 20:46:02 | 8-K/A - Addus HomeCare Corp (0001468328) (Filer) | 2025-08-27T16:36:21-04:00 | https://www.sec.gov/Archives/edgar/data/1468328/000143774925027876/0001437749-25-027876.txt
+2025-08-27 20:46:04 | 8-K - Churchill Downs Inc (0000020212) (Filer) | 2025-08-27T16:35:59-04:00 | https://www.sec.gov/Archives/edgar/data/20212/000002021225000106/0000020212-25-000106.txt
+2025-08-27 20:46:05 | 8-K - Green Thumb Industries Inc. (0001795139) (Filer) | 2025-08-27T16:35:18-04:00 | https://www.sec.gov/Archives/edgar/data/1795139/000119312525189808/0001193125-25-189808.txt
+2025-08-27 20:46:06 | 8-K - Great Elm Group, Inc. (0001831096) (Filer) | 2025-08-27T16:34:49-04:00 | https://www.sec.gov/Archives/edgar/data/1831096/000095010325010788/0000950103-25-010788.txt
