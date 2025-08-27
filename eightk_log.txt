@@ -2713,3 +2713,4 @@
 2025-08-27 10:14:48 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-08-26T18:42:39-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000479/0001564708-25-000479.txt
 2025-08-27 10:35:14 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-08-27T06:31:36-04:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925083325/0001104659-25-083325.txt
 2025-08-27 10:35:15 | 8-K - ScanTech AI Systems Inc. (0001994624) (Filer) | 2025-08-27T06:15:32-04:00 | https://www.sec.gov/Archives/edgar/data/1994624/000110465925083286/0001104659-25-083286.txt
+2025-08-27 10:47:09 | 8-K - EQT Corp (0000033213) (Filer) | 2025-08-27T06:45:53-04:00 | https://www.sec.gov/Archives/edgar/data/33213/000110465925083362/0001104659-25-083362.txt
