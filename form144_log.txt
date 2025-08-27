@@ -2128,3 +2128,5 @@
 2025-08-27 14:43:04 | Oh Irene H | Officer | Shares: 22690 | Value: $2,397,992.65 | Percent: 0.016463% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000194984625000422/0001949846-25-000422.txt
 2025-08-27 14:52:34 | Pham Quang X | Officer | Shares: 30600 | Value: $428,094.0 | Percent: 1.494977% | Link: https://www.sec.gov/Archives/edgar/data/1937993/000200731725000971/0002007317-25-000971.txt
 2025-08-27 14:52:35 | Pham Quang X | Officer | Shares: 30600 | Value: $428,094.0 | Percent: 1.494977% | Link: https://www.sec.gov/Archives/edgar/data/1405290/000200731725000971/0002007317-25-000971.txt
+2025-08-27 15:11:11 | Wang Mark D | Officer | Shares: 46364 | Value: $2,194,774.09 | Percent: 0.051996% | Link: https://www.sec.gov/Archives/edgar/data/1674168/000195917325005563/0001959173-25-005563.txt
+2025-08-27 15:11:11 | Wang Mark D | Officer | Shares: 46364 | Value: $2,194,774.09 | Percent: 0.051996% | Link: https://www.sec.gov/Archives/edgar/data/1593210/000195917325005563/0001959173-25-005563.txt
