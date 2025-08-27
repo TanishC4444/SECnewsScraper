@@ -2186,3 +2186,7 @@
 2025-08-27 20:46:14 | John Engel | Officer | Shares: 51051 | Value: $11,506,895.0 | Percent: 0.104908% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000672/0001969223-25-000672.txt
 2025-08-27 20:46:17 | MARK PETERSON | Officer | Shares: 20349 | Value: $944,934.3 | Percent: 0.012145% | Link: https://www.sec.gov/Archives/edgar/data/1535684/000195004725006457/0001950047-25-006457.txt
 2025-08-27 20:46:18 | MARK PETERSON | Officer | Shares: 20349 | Value: $944,934.3 | Percent: 0.012145% | Link: https://www.sec.gov/Archives/edgar/data/1439288/000195004725006457/0001950047-25-006457.txt
+2025-08-27 20:55:23 | David Schulz | Officer | Shares: 12227 | Value: $2,753,179.0 | Percent: 0.025126% | Link: https://www.sec.gov/Archives/edgar/data/1592539/000196922325000673/0001969223-25-000673.txt
+2025-08-27 20:55:23 | David Schulz | Officer | Shares: 12227 | Value: $2,753,179.0 | Percent: 0.025126% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000673/0001969223-25-000673.txt
+2025-08-27 20:55:25 | EMILIANO KARGIEMAN | Officer | Shares: 15191 | Value: $56,966.25 | Percent: 0.015993% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725006459/0001950047-25-006459.txt
+2025-08-27 20:55:26 | EMILIANO KARGIEMAN | Officer | Shares: 15191 | Value: $56,966.25 | Percent: 0.015993% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725006459/0001950047-25-006459.txt

@@ -2791,3 +2791,6 @@
 2025-08-27 20:46:04 | 8-K - Churchill Downs Inc (0000020212) (Filer) | 2025-08-27T16:35:59-04:00 | https://www.sec.gov/Archives/edgar/data/20212/000002021225000106/0000020212-25-000106.txt
 2025-08-27 20:46:05 | 8-K - Green Thumb Industries Inc. (0001795139) (Filer) | 2025-08-27T16:35:18-04:00 | https://www.sec.gov/Archives/edgar/data/1795139/000119312525189808/0001193125-25-189808.txt
 2025-08-27 20:46:06 | 8-K - Great Elm Group, Inc. (0001831096) (Filer) | 2025-08-27T16:34:49-04:00 | https://www.sec.gov/Archives/edgar/data/1831096/000095010325010788/0000950103-25-010788.txt
+2025-08-27 20:55:17 | 8-K - American Water Works Company, Inc. (0001410636) (Filer) | 2025-08-27T16:53:58-04:00 | https://www.sec.gov/Archives/edgar/data/1410636/000141063625000164/0001410636-25-000164.txt
+2025-08-27 20:55:19 | 8-K - ECOLAB INC. (0000031462) (Filer) | 2025-08-27T16:47:04-04:00 | https://www.sec.gov/Archives/edgar/data/31462/000110465925084059/0001104659-25-084059.txt
+2025-08-27 20:55:20 | 8-K - DT Cloud Acquisition Corp (0001944212) (Filer) | 2025-08-27T16:45:41-04:00 | https://www.sec.gov/Archives/edgar/data/1944212/000164117225025716/0001641172-25-025716.txt
