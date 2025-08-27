@@ -2755,3 +2755,4 @@
 2025-08-27 17:43:32 | 8-K - Lord Abbett Private Credit Fund (0002008748) (Filer) | 2025-08-27T13:41:47-04:00 | https://www.sec.gov/Archives/edgar/data/2008748/000093041325002757/0000930413-25-002757.txt
 2025-08-27 17:52:34 | 8-K - Lord Abbett Private Credit Fund S (0002041841) (Filer) | 2025-08-27T13:44:30-04:00 | https://www.sec.gov/Archives/edgar/data/2041841/000093041325002758/0000930413-25-002758.txt
 2025-08-27 17:52:37 | 8-K - CIMG Inc. (0001527613) (Filer) | 2025-08-27T13:43:52-04:00 | https://www.sec.gov/Archives/edgar/data/1527613/000164117225025666/0001641172-25-025666.txt
+2025-08-27 18:13:49 | 8-K - ULTRALIFE CORP (0000875657) (Filer) | 2025-08-27T14:06:32-04:00 | https://www.sec.gov/Archives/edgar/data/875657/000143774925027836/0001437749-25-027836.txt
