@@ -2154,3 +2154,5 @@
 2025-08-27 19:09:41 | Kiely John | Director | Shares: 32000 | Value: $293,810.0 | Percent: 0.010189% | Link: https://www.sec.gov/Archives/edgar/data/1723128/000200731725000975/0002007317-25-000975.txt
 2025-08-27 19:09:43 | Makagon Kira | Officer | Shares: 14887 | Value: $450,182.88 | Percent: 0.018578% | Link: https://www.sec.gov/Archives/edgar/data/1586648/000200731725000974/0002007317-25-000974.txt
 2025-08-27 19:09:44 | Makagon Kira | Officer | Shares: 14887 | Value: $450,182.88 | Percent: 0.018578% | Link: https://www.sec.gov/Archives/edgar/data/1384905/000200731725000974/0002007317-25-000974.txt
+2025-08-27 19:25:00 | Hamady Robert Ramsey | Officer | Shares: 30641 | Value: $1,090,356.92 | Percent: 0.022885% | Link: https://www.sec.gov/Archives/edgar/data/1922054/000195917325005569/0001959173-25-005569.txt
+2025-08-27 19:25:01 | Hamady Robert Ramsey | Officer | Shares: 30641 | Value: $1,090,356.92 | Percent: 0.022885% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000195917325005569/0001959173-25-005569.txt
