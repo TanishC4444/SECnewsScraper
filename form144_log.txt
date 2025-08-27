@@ -2118,3 +2118,5 @@
 2025-08-27 10:47:13 | Mullokandov Aharon | Officer | Shares: 5934 | Value: $55,126.86 | Percent: 0.010407% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000281/0001976408-25-000281.txt
 2025-08-27 13:41:07 | Peters Malte | Officer | Shares: 25172 | Value: $20,155.0 | Percent: 0.257129% | Link: https://www.sec.gov/Archives/edgar/data/1876563/000197005125000025/0001970051-25-000025.txt
 2025-08-27 13:41:08 | Peters Malte | Officer | Shares: 25172 | Value: $20,155.0 | Percent: 0.257129% | Link: https://www.sec.gov/Archives/edgar/data/1760542/000197005125000025/0001970051-25-000025.txt
+2025-08-27 13:51:43 | Crockett John R III | Officer | Shares: 15791 | Value: $577,318.96 | Percent: 0.002135% | Link: https://www.sec.gov/Archives/edgar/data/1884355/000195917325005558/0001959173-25-005558.txt
+2025-08-27 13:51:44 | Crockett John R III | Officer | Shares: 15791 | Value: $577,318.96 | Percent: 0.002135% | Link: https://www.sec.gov/Archives/edgar/data/922224/000195917325005558/0001959173-25-005558.txt
