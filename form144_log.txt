@@ -2120,3 +2120,9 @@
 2025-08-27 13:41:08 | Peters Malte | Officer | Shares: 25172 | Value: $20,155.0 | Percent: 0.257129% | Link: https://www.sec.gov/Archives/edgar/data/1760542/000197005125000025/0001970051-25-000025.txt
 2025-08-27 13:51:43 | Crockett John R III | Officer | Shares: 15791 | Value: $577,318.96 | Percent: 0.002135% | Link: https://www.sec.gov/Archives/edgar/data/1884355/000195917325005558/0001959173-25-005558.txt
 2025-08-27 13:51:44 | Crockett John R III | Officer | Shares: 15791 | Value: $577,318.96 | Percent: 0.002135% | Link: https://www.sec.gov/Archives/edgar/data/922224/000195917325005558/0001959173-25-005558.txt
+2025-08-27 14:42:58 | ORBAN PAUL W | Officer | Shares: 29060 | Value: $1,617,189.0 | Percent: 0.018584% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005562/0001959173-25-005562.txt
+2025-08-27 14:42:59 | ORBAN PAUL W | Officer | Shares: 29060 | Value: $1,617,189.0 | Percent: 0.018584% | Link: https://www.sec.gov/Archives/edgar/data/1197815/000195917325005562/0001959173-25-005562.txt
+2025-08-27 14:43:00 | WINSHIP HENRY WARD IV | Director | Shares: 266732 | Value: $34,080,348.0 | Percent: 0.225870% | Link: https://www.sec.gov/Archives/edgar/data/1565087/000194984625000423/0001949846-25-000423.txt
+2025-08-27 14:43:01 | WINSHIP HENRY WARD IV | Director | Shares: 266732 | Value: $34,080,348.0 | Percent: 0.225870% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000194984625000423/0001949846-25-000423.txt
+2025-08-27 14:43:03 | Oh Irene H | Officer | Shares: 22690 | Value: $2,397,992.65 | Percent: 0.016463% | Link: https://www.sec.gov/Archives/edgar/data/1482107/000194984625000422/0001949846-25-000422.txt
+2025-08-27 14:43:04 | Oh Irene H | Officer | Shares: 22690 | Value: $2,397,992.65 | Percent: 0.016463% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000194984625000422/0001949846-25-000422.txt
