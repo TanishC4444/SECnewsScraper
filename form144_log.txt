@@ -2132,3 +2132,5 @@
 2025-08-27 15:11:11 | Wang Mark D | Officer | Shares: 46364 | Value: $2,194,774.09 | Percent: 0.051996% | Link: https://www.sec.gov/Archives/edgar/data/1593210/000195917325005563/0001959173-25-005563.txt
 2025-08-27 16:17:06 | HAVERTY RAWSON JR | Director | Shares: 15000 | Value: $344,400.0 | Percent: 0.099689% | Link: https://www.sec.gov/Archives/edgar/data/1214531/000194984625000424/0001949846-25-000424.txt
 2025-08-27 16:17:07 | HAVERTY RAWSON JR | Director | Shares: 15000 | Value: $344,400.0 | Percent: 0.099689% | Link: https://www.sec.gov/Archives/edgar/data/216085/000194984625000424/0001949846-25-000424.txt
+2025-08-27 16:42:10 | Butte Amy | Former Director | Shares: 19250 | Value: $613,687.5 | Percent: 0.021145% | Link: https://www.sec.gov/Archives/edgar/data/1582961/000195917325005566/0001959173-25-005566.txt
+2025-08-27 16:42:11 | Butte Amy | Former Director | Shares: 19250 | Value: $613,687.5 | Percent: 0.021145% | Link: https://www.sec.gov/Archives/edgar/data/1354540/000195917325005566/0001959173-25-005566.txt
