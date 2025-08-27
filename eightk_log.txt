@@ -2803,3 +2803,12 @@
 2025-08-27 21:15:28 | 8-K - Aptose Biosciences Inc. (0000882361) (Filer) | 2025-08-27T17:02:46-04:00 | https://www.sec.gov/Archives/edgar/data/882361/000119312525189846/0001193125-25-189846.txt
 2025-08-27 21:15:31 | 8-K - CARDINAL HEALTH INC (0000721371) (Filer) | 2025-08-27T17:02:44-04:00 | https://www.sec.gov/Archives/edgar/data/721371/000119312525189845/0001193125-25-189845.txt
 2025-08-27 21:15:31 | 8-K/A - FLEXIBLE SOLUTIONS INTERNATIONAL INC (0001069394) (Filer) | 2025-08-27T17:02:42-04:00 | https://www.sec.gov/Archives/edgar/data/1069394/000164117225025722/0001641172-25-025722.txt
+2025-08-27 21:30:04 | 8-K - Texas Pacific Land Corp (0001811074) (Filer) | 2025-08-27T17:27:12-04:00 | https://www.sec.gov/Archives/edgar/data/1811074/000110465925084084/0001104659-25-084084.txt
+2025-08-27 21:30:05 | 8-K - V F CORP (0000103379) (Filer) | 2025-08-27T17:24:21-04:00 | https://www.sec.gov/Archives/edgar/data/103379/000119312525189877/0001193125-25-189877.txt
+2025-08-27 21:30:07 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-08-27T17:24:18-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000141134225000079/0001411342-25-000079.txt
+2025-08-27 21:30:07 | 8-K - Bain Capital Private Credit (0001899017) (Filer) | 2025-08-27T17:21:12-04:00 | https://www.sec.gov/Archives/edgar/data/1899017/000095017025111741/0000950170-25-111741.txt
+2025-08-27 21:30:09 | 8-K - Flora Growth Corp. (0001790169) (Filer) | 2025-08-27T17:20:36-04:00 | https://www.sec.gov/Archives/edgar/data/1790169/000106299325015011/0001062993-25-015011.txt
+2025-08-27 21:30:10 | 8-K - USA Compression Partners, LP (0001522727) (Filer) | 2025-08-27T17:19:52-04:00 | https://www.sec.gov/Archives/edgar/data/1522727/000119312525189871/0001193125-25-189871.txt
+2025-08-27 21:30:11 | 8-K - 21Shares Ethereum ETF (0001992508) (Filer) | 2025-08-27T17:19:04-04:00 | https://www.sec.gov/Archives/edgar/data/1992508/000121390025081218/0001213900-25-081218.txt
+2025-08-27 21:30:13 | 8-K - Autonomix Medical, Inc. (0001617867) (Filer) | 2025-08-27T17:16:15-04:00 | https://www.sec.gov/Archives/edgar/data/1617867/000143774925027890/0001437749-25-027890.txt
+2025-08-27 21:30:15 | 8-K - American Strategic Investment Co. (0001595527) (Filer) | 2025-08-27T17:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/1595527/000110465925084078/0001104659-25-084078.txt
