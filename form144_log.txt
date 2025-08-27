@@ -2148,3 +2148,5 @@
 2025-08-27 17:31:05 | Morgan Peter J. III | Officer | Shares: 50016 | Value: $4,852,552.0 | Percent: 0.002755% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000426/0001949846-25-000426.txt
 2025-08-27 17:52:40 | Gridley Catherine A | Officer | Shares: 20000 | Value: $886,262.64 | Percent: 0.019359% | Link: https://www.sec.gov/Archives/edgar/data/1785553/000200731725000972/0002007317-25-000972.txt
 2025-08-27 17:52:41 | Gridley Catherine A | Officer | Shares: 20000 | Value: $886,262.64 | Percent: 0.019359% | Link: https://www.sec.gov/Archives/edgar/data/1116942/000200731725000972/0002007317-25-000972.txt
+2025-08-27 18:53:22 | Fracassa Philip D. | EVP &amp; CFO | Shares: 10000 | Value: $792,900.0 | Percent: 0.014359% | Link: https://www.sec.gov/Archives/edgar/data/1598539/000197337925000236/0001973379-25-000236.txt
+2025-08-27 18:53:23 | Fracassa Philip D. | EVP &amp; CFO | Shares: 10000 | Value: $792,900.0 | Percent: 0.014359% | Link: https://www.sec.gov/Archives/edgar/data/98362/000197337925000236/0001973379-25-000236.txt
