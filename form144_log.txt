@@ -2218,3 +2218,5 @@
 2025-08-27 22:23:02 | ANURADHA MURALIDHARAN | Officer | Shares: 25245 | Value: $49,076.3 | Percent: 0.027248% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000195004725006467/0001950047-25-006467.txt
 2025-08-27 22:47:19 | Sonia Malka | Affiliate | Shares: 80520 | Value: $8,760,576.0 | Percent: 0.010404% | Link: https://www.sec.gov/Archives/edgar/data/1783879/000196858225000819/0001968582-25-000819.txt
 2025-08-27 22:47:20 | Sonia Malka | Affiliate | Shares: 80520 | Value: $8,760,576.0 | Percent: 0.010404% | Link: https://www.sec.gov/Archives/edgar/data/1571355/000196858225000819/0001968582-25-000819.txt
+2025-08-27 23:16:59 | LUCIAN BOLDEA | Affiliate | Shares: 5968 | Value: $1,328,238.0 | Percent: 0.000940% | Link: https://www.sec.gov/Archives/edgar/data/1679130/000196858225000821/0001968582-25-000821.txt
+2025-08-27 23:17:00 | LUCIAN BOLDEA | Affiliate | Shares: 5968 | Value: $1,328,238.0 | Percent: 0.000940% | Link: https://www.sec.gov/Archives/edgar/data/773840/000196858225000821/0001968582-25-000821.txt
