@@ -2242,3 +2242,5 @@
 2025-08-28 15:21:58 | Dageville Benoit | Officer | Shares: 6250 | Value: $1,375,687.5 | Percent: 0.001873% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005593/0001959173-25-005593.txt
 2025-08-28 15:21:59 | Ptacin Brogan | Officer | Shares: 11812 | Value: $351,500.0 | Percent: 0.025754% | Link: https://www.sec.gov/Archives/edgar/data/1702750/000200731725000985/0002007317-25-000985.txt
 2025-08-28 15:22:00 | Ptacin Brogan | Officer | Shares: 11812 | Value: $351,500.0 | Percent: 0.025754% | Link: https://www.sec.gov/Archives/edgar/data/1368185/000200731725000985/0002007317-25-000985.txt
+2025-08-28 15:37:24 | Slootman Frank | Director | Shares: 710083 | Value: $163,650,852.8 | Percent: 0.212791% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005595/0001959173-25-005595.txt
+2025-08-28 15:37:25 | Slootman Frank | Director | Shares: 710083 | Value: $163,650,852.8 | Percent: 0.212791% | Link: https://www.sec.gov/Archives/edgar/data/1402348/000195917325005595/0001959173-25-005595.txt
