@@ -2238,3 +2238,7 @@
 2025-08-28 14:11:08 | Anderson Shawn | Officer | Shares: 11115 | Value: $470,497.95 | Percent: 0.002361% | Link: https://www.sec.gov/Archives/edgar/data/1111711/000195917325005590/0001959173-25-005590.txt
 2025-08-28 14:48:01 | Beatty Jonathan S | Officer | Shares: 13216 | Value: $1,309,865.0 | Percent: 0.000728% | Link: https://www.sec.gov/Archives/edgar/data/2028977/000194984625000430/0001949846-25-000430.txt
 2025-08-28 14:48:02 | Beatty Jonathan S | Officer | Shares: 13216 | Value: $1,309,865.0 | Percent: 0.000728% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000430/0001949846-25-000430.txt
+2025-08-28 15:21:57 | Dageville Benoit | Officer | Shares: 6250 | Value: $1,375,687.5 | Percent: 0.001873% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325005593/0001959173-25-005593.txt
+2025-08-28 15:21:58 | Dageville Benoit | Officer | Shares: 6250 | Value: $1,375,687.5 | Percent: 0.001873% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005593/0001959173-25-005593.txt
+2025-08-28 15:21:59 | Ptacin Brogan | Officer | Shares: 11812 | Value: $351,500.0 | Percent: 0.025754% | Link: https://www.sec.gov/Archives/edgar/data/1702750/000200731725000985/0002007317-25-000985.txt
+2025-08-28 15:22:00 | Ptacin Brogan | Officer | Shares: 11812 | Value: $351,500.0 | Percent: 0.025754% | Link: https://www.sec.gov/Archives/edgar/data/1368185/000200731725000985/0002007317-25-000985.txt
