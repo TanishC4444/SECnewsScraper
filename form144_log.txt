@@ -2248,3 +2248,9 @@
 2025-08-28 15:56:48 | Butte Amy | Former Director | Shares: 23333 | Value: $776,655.5 | Percent: 0.025630% | Link: https://www.sec.gov/Archives/edgar/data/1354540/000195917325005598/0001959173-25-005598.txt
 2025-08-28 15:56:50 | Skelly Jonathan | Officer | Shares: 30000 | Value: $618,258.05 | Percent: 0.006980% | Link: https://www.sec.gov/Archives/edgar/data/1814380/000195917325005597/0001959173-25-005597.txt
 2025-08-28 15:56:51 | Skelly Jonathan | Officer | Shares: 30000 | Value: $618,258.05 | Percent: 0.006980% | Link: https://www.sec.gov/Archives/edgar/data/1159152/000195917325005597/0001959173-25-005597.txt
+2025-08-28 16:24:59 | Flinn Joseph | Director | Shares: 8500 | Value: $225,675.0 | Percent: 0.008055% | Link: https://www.sec.gov/Archives/edgar/data/1998055/000195917325005599/0001959173-25-005599.txt
+2025-08-28 16:25:00 | Flinn Joseph | Director | Shares: 8500 | Value: $225,675.0 | Percent: 0.008055% | Link: https://www.sec.gov/Archives/edgar/data/1964789/000195917325005599/0001959173-25-005599.txt
+2025-08-28 16:25:02 | Mark Crossley | affiliate | Shares: 52320 | Value: $1,278,178.0 | Percent: 0.041933% | Link: https://www.sec.gov/Archives/edgar/data/2014472/000197449425000091/0001974494-25-000091.txt
+2025-08-28 16:25:03 | Mark Crossley | affiliate | Shares: 52320 | Value: $1,278,178.0 | Percent: 0.041933% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000091/0001974494-25-000091.txt
+2025-08-28 16:25:06 | Sverha Csaba | Officer | Shares: 13000 | Value: $4,568,200.0 | Percent: 0.036386% | Link: https://www.sec.gov/Archives/edgar/data/1802482/000197337925000239/0001973379-25-000239.txt
+2025-08-28 16:25:07 | Sverha Csaba | Officer | Shares: 13000 | Value: $4,568,200.0 | Percent: 0.036386% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000239/0001973379-25-000239.txt
