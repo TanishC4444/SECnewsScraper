@@ -2244,3 +2244,7 @@
 2025-08-28 15:22:00 | Ptacin Brogan | Officer | Shares: 11812 | Value: $351,500.0 | Percent: 0.025754% | Link: https://www.sec.gov/Archives/edgar/data/1368185/000200731725000985/0002007317-25-000985.txt
 2025-08-28 15:37:24 | Slootman Frank | Director | Shares: 710083 | Value: $163,650,852.8 | Percent: 0.212791% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005595/0001959173-25-005595.txt
 2025-08-28 15:37:25 | Slootman Frank | Director | Shares: 710083 | Value: $163,650,852.8 | Percent: 0.212791% | Link: https://www.sec.gov/Archives/edgar/data/1402348/000195917325005595/0001959173-25-005595.txt
+2025-08-28 15:56:48 | Butte Amy | Former Director | Shares: 23333 | Value: $776,655.5 | Percent: 0.025630% | Link: https://www.sec.gov/Archives/edgar/data/1582961/000195917325005598/0001959173-25-005598.txt
+2025-08-28 15:56:48 | Butte Amy | Former Director | Shares: 23333 | Value: $776,655.5 | Percent: 0.025630% | Link: https://www.sec.gov/Archives/edgar/data/1354540/000195917325005598/0001959173-25-005598.txt
+2025-08-28 15:56:50 | Skelly Jonathan | Officer | Shares: 30000 | Value: $618,258.05 | Percent: 0.006980% | Link: https://www.sec.gov/Archives/edgar/data/1814380/000195917325005597/0001959173-25-005597.txt
+2025-08-28 15:56:51 | Skelly Jonathan | Officer | Shares: 30000 | Value: $618,258.05 | Percent: 0.006980% | Link: https://www.sec.gov/Archives/edgar/data/1159152/000195917325005597/0001959173-25-005597.txt
