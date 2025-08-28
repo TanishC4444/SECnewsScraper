@@ -2258,3 +2258,7 @@
 2025-08-28 16:56:33 | Ittycheria Dev | Officer | Shares: 33320 | Value: $10,038,720.43 | Percent: 0.040776% | Link: https://www.sec.gov/Archives/edgar/data/1397383/000200731725000989/0002007317-25-000989.txt
 2025-08-28 16:56:34 | Landman Yoav | Officer | Shares: 64865 | Value: $3,250,254.94 | Percent: 0.058741% | Link: https://www.sec.gov/Archives/edgar/data/1823008/000200731725000988/0002007317-25-000988.txt
 2025-08-28 16:56:36 | Landman Yoav | Officer | Shares: 64865 | Value: $3,250,254.94 | Percent: 0.058741% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000200731725000988/0002007317-25-000988.txt
+2025-08-28 17:32:48 | Vincent Olivier | Director | Shares: 8000 | Value: $91,920.0 | Percent: 0.013360% | Link: https://www.sec.gov/Archives/edgar/data/1983424/000197407825000280/0001974078-25-000280.txt
+2025-08-28 17:32:49 | Vincent Olivier | Director | Shares: 8000 | Value: $91,920.0 | Percent: 0.013360% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000280/0001974078-25-000280.txt
+2025-08-28 17:32:50 | Shunk Laura F | Director | Shares: 10000 | Value: $40,000.0 | Percent: 0.218389% | Link: https://www.sec.gov/Archives/edgar/data/1305554/000197407825000279/0001974078-25-000279.txt
+2025-08-28 17:32:51 | Shunk Laura F | Director | Shares: 10000 | Value: $40,000.0 | Percent: 0.218389% | Link: https://www.sec.gov/Archives/edgar/data/830616/000197407825000279/0001974078-25-000279.txt
