@@ -2272,3 +2272,9 @@
 2025-08-28 18:43:06 | Goldstein Lainie | Officer | Shares: 20000 | Value: $4,612,800.0 | Percent: 0.010842% | Link: https://www.sec.gov/Archives/edgar/data/946581/000200731725000991/0002007317-25-000991.txt
 2025-08-28 18:55:34 | Bjornholt James Eric | Officer | Shares: 7356 | Value: $508,593.84 | Percent: 0.001363% | Link: https://www.sec.gov/Archives/edgar/data/1452681/000200731725000992/0002007317-25-000992.txt
 2025-08-28 18:55:35 | Bjornholt James Eric | Officer | Shares: 7356 | Value: $508,593.84 | Percent: 0.001363% | Link: https://www.sec.gov/Archives/edgar/data/827054/000200731725000992/0002007317-25-000992.txt
+2025-08-28 20:18:34 | Goldsteen Mitchell B. | Affiliate | Shares: 10500 | Value: $33,393.15 | Percent: 0.030557% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000015/0000011790-25-000015.txt
+2025-08-28 20:18:36 | Goldsteen Mitchell B. | Affiliate | Shares: 10500 | Value: $33,393.15 | Percent: 0.030557% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000015/0000011790-25-000015.txt
+2025-08-28 20:18:38 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $7,008,354.99 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1868272/000195917325005606/0001959173-25-005606.txt
+2025-08-28 20:18:39 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $7,008,354.99 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005606/0001959173-25-005606.txt
+2025-08-28 20:18:40 | FAHS L READE | Officer | Shares: 137400 | Value: $3,343,335.27 | Percent: 0.173493% | Link: https://www.sec.gov/Archives/edgar/data/1710155/000195917325005605/0001959173-25-005605.txt
+2025-08-28 20:18:41 | FAHS L READE | Officer | Shares: 137400 | Value: $3,343,335.27 | Percent: 0.173493% | Link: https://www.sec.gov/Archives/edgar/data/1181253/000195917325005605/0001959173-25-005605.txt
