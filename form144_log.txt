@@ -2230,3 +2230,7 @@
 2025-08-28 11:21:47 | Benyamini Gil | Officer | Shares: 10251 | Value: $101,997.45 | Percent: 0.017979% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000283/0001976408-25-000283.txt
 2025-08-28 11:21:48 | Shkedy Elyezer | Director | Shares: 15490 | Value: $154,125.5 | Percent: 0.027167% | Link: https://www.sec.gov/Archives/edgar/data/2083675/000197640825000282/0001976408-25-000282.txt
 2025-08-28 11:21:49 | Shkedy Elyezer | Director | Shares: 15490 | Value: $154,125.5 | Percent: 0.027167% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000282/0001976408-25-000282.txt
+2025-08-28 13:53:07 | RHODES KEVIN R | Officer | Shares: 14000 | Value: $301,280.0 | Percent: 0.010589% | Link: https://www.sec.gov/Archives/edgar/data/1164420/000195917325005589/0001959173-25-005589.txt
+2025-08-28 13:53:08 | RHODES KEVIN R | Officer | Shares: 14000 | Value: $301,280.0 | Percent: 0.010589% | Link: https://www.sec.gov/Archives/edgar/data/1078271/000195917325005589/0001959173-25-005589.txt
+2025-08-28 13:53:11 | Welch Jacqueline M | Officer | Shares: 5500 | Value: $330,220.0 | Percent: 0.003394% | Link: https://www.sec.gov/Archives/edgar/data/1838160/000195917325005588/0001959173-25-005588.txt
+2025-08-28 13:53:12 | Welch Jacqueline M | Officer | Shares: 5500 | Value: $330,220.0 | Percent: 0.003394% | Link: https://www.sec.gov/Archives/edgar/data/71691/000195917325005588/0001959173-25-005588.txt
