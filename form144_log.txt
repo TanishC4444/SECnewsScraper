@@ -2254,3 +2254,7 @@
 2025-08-28 16:25:03 | Mark Crossley | affiliate | Shares: 52320 | Value: $1,278,178.0 | Percent: 0.041933% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000091/0001974494-25-000091.txt
 2025-08-28 16:25:06 | Sverha Csaba | Officer | Shares: 13000 | Value: $4,568,200.0 | Percent: 0.036386% | Link: https://www.sec.gov/Archives/edgar/data/1802482/000197337925000239/0001973379-25-000239.txt
 2025-08-28 16:25:07 | Sverha Csaba | Officer | Shares: 13000 | Value: $4,568,200.0 | Percent: 0.036386% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000239/0001973379-25-000239.txt
+2025-08-28 16:56:30 | Ittycheria Dev | Officer | Shares: 33320 | Value: $10,038,720.43 | Percent: 0.040776% | Link: https://www.sec.gov/Archives/edgar/data/1441816/000200731725000989/0002007317-25-000989.txt
+2025-08-28 16:56:33 | Ittycheria Dev | Officer | Shares: 33320 | Value: $10,038,720.43 | Percent: 0.040776% | Link: https://www.sec.gov/Archives/edgar/data/1397383/000200731725000989/0002007317-25-000989.txt
+2025-08-28 16:56:34 | Landman Yoav | Officer | Shares: 64865 | Value: $3,250,254.94 | Percent: 0.058741% | Link: https://www.sec.gov/Archives/edgar/data/1823008/000200731725000988/0002007317-25-000988.txt
+2025-08-28 16:56:36 | Landman Yoav | Officer | Shares: 64865 | Value: $3,250,254.94 | Percent: 0.058741% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000200731725000988/0002007317-25-000988.txt
