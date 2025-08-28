@@ -2876,3 +2876,10 @@
 2025-08-28 18:55:32 | 8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer) | 2025-08-28T14:43:08-04:00 | https://www.sec.gov/Archives/edgar/data/1559998/000164117225025790/0001641172-25-025790.txt
 2025-08-28 19:13:23 | 8-K - CIMG Inc. (0001527613) (Filer) | 2025-08-28T15:11:23-04:00 | https://www.sec.gov/Archives/edgar/data/1527613/000164117225025794/0001641172-25-025794.txt
 2025-08-28 19:13:23 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-08-28T15:04:39-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000190/0001325878-25-000190.txt
+2025-08-28 19:26:13 | 8-K - United States Commodity Index Funds Trust (0001479247) (Filer) | 2025-08-28T15:23:27-04:00 | https://www.sec.gov/Archives/edgar/data/1479247/000110465925084677/0001104659-25-084677.txt
+2025-08-28 19:26:14 | 8-K - United States Brent Oil Fund, LP (0001472494) (Filer) | 2025-08-28T15:22:19-04:00 | https://www.sec.gov/Archives/edgar/data/1472494/000110465925084672/0001104659-25-084672.txt
+2025-08-28 19:26:16 | 8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer) | 2025-08-28T15:21:22-04:00 | https://www.sec.gov/Archives/edgar/data/1405513/000110465925084670/0001104659-25-084670.txt
+2025-08-28 19:26:17 | 8-K - United States Gasoline Fund, LP (0001396878) (Filer) | 2025-08-28T15:20:10-04:00 | https://www.sec.gov/Archives/edgar/data/1396878/000110465925084668/0001104659-25-084668.txt
+2025-08-28 19:26:18 | 8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer) | 2025-08-28T15:19:21-04:00 | https://www.sec.gov/Archives/edgar/data/1405528/000110465925084666/0001104659-25-084666.txt
+2025-08-28 19:26:20 | 8-K - United States Natural Gas Fund, LP (0001376227) (Filer) | 2025-08-28T15:18:23-04:00 | https://www.sec.gov/Archives/edgar/data/1376227/000110465925084663/0001104659-25-084663.txt
+2025-08-28 19:26:21 | 8-K - United States Oil Fund, LP (0001327068) (Filer) | 2025-08-28T15:17:33-04:00 | https://www.sec.gov/Archives/edgar/data/1327068/000110465925084661/0001104659-25-084661.txt
