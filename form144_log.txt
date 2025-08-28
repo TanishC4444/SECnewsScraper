@@ -2302,3 +2302,5 @@
 2025-08-28 21:14:07 | Levitt Randall James | Director | Shares: 40000 | Value: $1,374,906.48 | Percent: 0.241203% | Link: https://www.sec.gov/Archives/edgar/data/1419536/000120087625000048/0001200876-25-000048.txt
 2025-08-28 21:14:09 | BRESSLER BENJAMIN | Officer | Shares: 21137 | Value: $316,506.65 | Percent: 0.038579% | Link: https://www.sec.gov/Archives/edgar/data/1674110/000195779925000201/0001957799-25-000201.txt
 2025-08-28 21:14:09 | BRESSLER BENJAMIN | Officer | Shares: 21137 | Value: $316,506.65 | Percent: 0.038579% | Link: https://www.sec.gov/Archives/edgar/data/1512499/000195779925000201/0001957799-25-000201.txt
+2025-08-28 21:58:23 | Kim Vyacheslav | Chairman of the Board of Directors | Shares: 1000000 | Value: $93,000,000.0 | Percent: 0.524152% | Link: https://www.sec.gov/Archives/edgar/data/2029485/000196624925000033/0001966249-25-000033.txt
+2025-08-28 21:58:24 | Kim Vyacheslav | Chairman of the Board of Directors | Shares: 1000000 | Value: $93,000,000.0 | Percent: 0.524152% | Link: https://www.sec.gov/Archives/edgar/data/1985487/000196624925000033/0001966249-25-000033.txt
