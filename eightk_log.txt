@@ -2926,3 +2926,4 @@
 2025-08-28 21:29:09 | 8-K - BlueLinx Holdings Inc. (0001301787) (Filer) | 2025-08-28T17:19:14-04:00 | https://www.sec.gov/Archives/edgar/data/1301787/000110465925084862/0001104659-25-084862.txt
 2025-08-28 21:29:10 | 8-K - RideNow Group, Inc. (0001596961) (Filer) | 2025-08-28T17:18:29-04:00 | https://www.sec.gov/Archives/edgar/data/1596961/000159696125000083/0001596961-25-000083.txt
 2025-08-28 21:29:12 | 8-K - High Roller Technologies, Inc. (0001947210) (Filer) | 2025-08-28T17:16:37-04:00 | https://www.sec.gov/Archives/edgar/data/1947210/000175392625001405/0001753926-25-001405.txt
+2025-08-28 21:39:50 | 8-K - Journey Medical Corp (0001867066) (Filer) | 2025-08-28T17:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/1867066/000110465925084879/0001104659-25-084879.txt
