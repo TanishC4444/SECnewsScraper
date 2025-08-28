@@ -2866,3 +2866,6 @@
 2025-08-28 16:24:56 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-08-28T12:05:39-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010133/0001654954-25-010133.txt
 2025-08-28 16:44:53 | 8-K - ESG Inc. (0001883835) (Filer) | 2025-08-28T12:42:13-04:00 | https://www.sec.gov/Archives/edgar/data/1883835/000152013825000278/0001520138-25-000278.txt
 2025-08-28 16:56:27 | 8-K - GBank Financial Holdings Inc. (0001791145) (Filer) | 2025-08-28T12:51:54-04:00 | https://www.sec.gov/Archives/edgar/data/1791145/000095017025111844/0000950170-25-111844.txt
+2025-08-28 17:15:45 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-08-28T13:12:44-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000158/0001331757-25-000158.txt
+2025-08-28 17:15:45 | 8-K - Nuveen Churchill Private Capital Income Fund (0001911066) (Filer) | 2025-08-28T13:12:22-04:00 | https://www.sec.gov/Archives/edgar/data/1911066/000191106625000027/0001911066-25-000027.txt
+2025-08-28 17:15:45 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-08-28T12:59:13-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000195/0001331465-25-000195.txt
