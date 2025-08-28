@@ -2284,3 +2284,9 @@
 2025-08-28 20:35:31 | Hufnagel Christopher | Officer | Shares: 32294 | Value: $1,030,341.0 | Percent: 0.039744% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000996/0002007317-25-000996.txt
 2025-08-28 20:35:33 | TRACY FEANNY | Officer | Shares: 5965 | Value: $392,616.3 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/1891117/000195004725006515/0001950047-25-006515.txt
 2025-08-28 20:35:34 | TRACY FEANNY | Officer | Shares: 5965 | Value: $392,616.3 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/855658/000195004725006515/0001950047-25-006515.txt
+2025-08-28 20:46:28 | Keeney Scott H | Officer | Shares: 35730 | Value: $1,058,559.76 | Percent: 0.071604% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325005611/0001959173-25-005611.txt
+2025-08-28 20:46:30 | Keeney Scott H | Officer | Shares: 35730 | Value: $1,058,559.76 | Percent: 0.071604% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005611/0001959173-25-005611.txt
+2025-08-28 20:46:32 | WALDRON JOHN E. | Managing Director | Shares: 9000 | Value: $6,747,030.0 | Percent: 0.002973% | Link: https://www.sec.gov/Archives/edgar/data/1754399/000089183625000052/0000891836-25-000052.txt
+2025-08-28 20:46:32 | WALDRON JOHN E. | Managing Director | Shares: 9000 | Value: $6,747,030.0 | Percent: 0.002973% | Link: https://www.sec.gov/Archives/edgar/data/886982/000089183625000052/0000891836-25-000052.txt
+2025-08-28 20:46:34 | Rolando Guillot | Officer | Shares: 22890 | Value: $1,513,945.0 | Percent: 0.550064% | Link: https://www.sec.gov/Archives/edgar/data/1302373/000196858225000824/0001968582-25-000824.txt
+2025-08-28 20:46:35 | Rolando Guillot | Officer | Shares: 22890 | Value: $1,513,945.0 | Percent: 0.550064% | Link: https://www.sec.gov/Archives/edgar/data/933034/000196858225000824/0001968582-25-000824.txt
