@@ -2883,3 +2883,6 @@
 2025-08-28 19:26:18 | 8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer) | 2025-08-28T15:19:21-04:00 | https://www.sec.gov/Archives/edgar/data/1405528/000110465925084666/0001104659-25-084666.txt
 2025-08-28 19:26:20 | 8-K - United States Natural Gas Fund, LP (0001376227) (Filer) | 2025-08-28T15:18:23-04:00 | https://www.sec.gov/Archives/edgar/data/1376227/000110465925084663/0001104659-25-084663.txt
 2025-08-28 19:26:21 | 8-K - United States Oil Fund, LP (0001327068) (Filer) | 2025-08-28T15:17:33-04:00 | https://www.sec.gov/Archives/edgar/data/1327068/000110465925084661/0001104659-25-084661.txt
+2025-08-28 19:46:42 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-08-28T15:44:06-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000166/0001325814-25-000166.txt
+2025-08-28 19:46:42 | 8-K - BANCFIRST CORP /OK/ (0000760498) (Filer) | 2025-08-28T15:43:20-04:00 | https://www.sec.gov/Archives/edgar/data/760498/000076049825000004/0000760498-25-000004.txt
+2025-08-28 19:46:42 | 8-K - HPS Corporate Capital Solutions Fund (0001989817) (Filer) | 2025-08-28T15:38:49-04:00 | https://www.sec.gov/Archives/edgar/data/1989817/000198981725000069/0001989817-25-000069.txt
