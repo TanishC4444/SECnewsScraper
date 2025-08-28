@@ -2838,3 +2838,9 @@
 2025-08-28 11:21:45 | 8-K - Accelerant Holdings (0001997350) (Filer) | 2025-08-28T07:00:15-04:00 | https://www.sec.gov/Archives/edgar/data/1997350/000119312525190324/0001193125-25-190324.txt
 2025-08-28 11:30:55 | 8-K - Bath & Body Works, Inc. (0000701985) (Filer) | 2025-08-28T07:29:37-04:00 | https://www.sec.gov/Archives/edgar/data/701985/000070198525000028/0000701985-25-000028.txt
 2025-08-28 11:30:56 | 8-K - Titan Machinery Inc. (0001409171) (Filer) | 2025-08-28T07:27:57-04:00 | https://www.sec.gov/Archives/edgar/data/1409171/000140917125000079/0001409171-25-000079.txt
+2025-08-28 11:41:44 | 8-K - SmartKem, Inc. (0001817760) (Filer) | 2025-08-28T07:41:12-04:00 | https://www.sec.gov/Archives/edgar/data/1817760/000110465925084318/0001104659-25-084318.txt
+2025-08-28 11:41:45 | 8-K - Ollie's Bargain Outlet Holdings, Inc. (0001639300) (Filer) | 2025-08-28T07:35:46-04:00 | https://www.sec.gov/Archives/edgar/data/1639300/000114036125033065/0001140361-25-033065.txt
+2025-08-28 11:41:47 | 8-K - YUM BRANDS INC (0001041061) (Filer) | 2025-08-28T07:35:46-04:00 | https://www.sec.gov/Archives/edgar/data/1041061/000104106125000073/0001041061-25-000073.txt
+2025-08-28 11:41:49 | 8-K - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer) | 2025-08-28T07:35:26-04:00 | https://www.sec.gov/Archives/edgar/data/1113809/000143774925027904/0001437749-25-027904.txt
+2025-08-28 11:41:50 | 8-K - Lucky Strike Entertainment Corp (0001840572) (Filer) | 2025-08-28T07:32:15-04:00 | https://www.sec.gov/Archives/edgar/data/1840572/000184057225000011/0001840572-25-000011.txt
+2025-08-28 11:41:52 | 8-K - SpartanNash Co (0000877422) (Filer) | 2025-08-28T07:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/877422/000095017025111791/0000950170-25-111791.txt
