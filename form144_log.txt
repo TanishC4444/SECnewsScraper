@@ -2264,3 +2264,5 @@
 2025-08-28 17:32:51 | Shunk Laura F | Director | Shares: 10000 | Value: $40,000.0 | Percent: 0.218389% | Link: https://www.sec.gov/Archives/edgar/data/830616/000197407825000279/0001974078-25-000279.txt
 2025-08-28 17:43:25 | Long Nicholas T. | Director | Shares: 12854 | Value: $409,307.0 | Percent: 0.015819% | Link: https://www.sec.gov/Archives/edgar/data/1525504/000200731725000990/0002007317-25-000990.txt
 2025-08-28 17:43:27 | Long Nicholas T. | Director | Shares: 12854 | Value: $409,307.0 | Percent: 0.015819% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000990/0002007317-25-000990.txt
+2025-08-28 17:52:21 | Dierdorff Thomas T | Officer | Shares: 6200 | Value: $313,286.0 | Percent: 0.004467% | Link: https://www.sec.gov/Archives/edgar/data/1906875/000195917325005600/0001959173-25-005600.txt
+2025-08-28 17:52:22 | Dierdorff Thomas T | Officer | Shares: 6200 | Value: $313,286.0 | Percent: 0.004467% | Link: https://www.sec.gov/Archives/edgar/data/18349/000195917325005600/0001959173-25-005600.txt
