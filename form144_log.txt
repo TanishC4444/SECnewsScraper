@@ -2278,3 +2278,9 @@
 2025-08-28 20:18:39 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $7,008,354.99 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005606/0001959173-25-005606.txt
 2025-08-28 20:18:40 | FAHS L READE | Officer | Shares: 137400 | Value: $3,343,335.27 | Percent: 0.173493% | Link: https://www.sec.gov/Archives/edgar/data/1710155/000195917325005605/0001959173-25-005605.txt
 2025-08-28 20:18:41 | FAHS L READE | Officer | Shares: 137400 | Value: $3,343,335.27 | Percent: 0.173493% | Link: https://www.sec.gov/Archives/edgar/data/1181253/000195917325005605/0001959173-25-005605.txt
+2025-08-28 20:35:30 | Sundarrajan Alagu | Officer | Shares: 15000 | Value: $337,008.83 | Percent: 0.046585% | Link: https://www.sec.gov/Archives/edgar/data/1848292/000195917325005609/0001959173-25-005609.txt
+2025-08-28 20:35:30 | Sundarrajan Alagu | Officer | Shares: 15000 | Value: $337,008.83 | Percent: 0.046585% | Link: https://www.sec.gov/Archives/edgar/data/1481582/000195917325005609/0001959173-25-005609.txt
+2025-08-28 20:35:31 | Hufnagel Christopher | Officer | Shares: 32294 | Value: $1,030,341.0 | Percent: 0.039744% | Link: https://www.sec.gov/Archives/edgar/data/1811182/000200731725000996/0002007317-25-000996.txt
+2025-08-28 20:35:31 | Hufnagel Christopher | Officer | Shares: 32294 | Value: $1,030,341.0 | Percent: 0.039744% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000996/0002007317-25-000996.txt
+2025-08-28 20:35:33 | TRACY FEANNY | Officer | Shares: 5965 | Value: $392,616.3 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/1891117/000195004725006515/0001950047-25-006515.txt
+2025-08-28 20:35:34 | TRACY FEANNY | Officer | Shares: 5965 | Value: $392,616.3 | Percent: 0.004357% | Link: https://www.sec.gov/Archives/edgar/data/855658/000195004725006515/0001950047-25-006515.txt
