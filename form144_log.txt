@@ -2266,3 +2266,7 @@
 2025-08-28 17:43:27 | Long Nicholas T. | Director | Shares: 12854 | Value: $409,307.0 | Percent: 0.015819% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000990/0002007317-25-000990.txt
 2025-08-28 17:52:21 | Dierdorff Thomas T | Officer | Shares: 6200 | Value: $313,286.0 | Percent: 0.004467% | Link: https://www.sec.gov/Archives/edgar/data/1906875/000195917325005600/0001959173-25-005600.txt
 2025-08-28 17:52:22 | Dierdorff Thomas T | Officer | Shares: 6200 | Value: $313,286.0 | Percent: 0.004467% | Link: https://www.sec.gov/Archives/edgar/data/18349/000195917325005600/0001959173-25-005600.txt
+2025-08-28 18:43:03 | DOTI  JAMES L | Director | Shares: 7692 | Value: $501,298.41 | Percent: 0.007556% | Link: https://www.sec.gov/Archives/edgar/data/1472787/000195917325005601/0001959173-25-005601.txt
+2025-08-28 18:43:04 | DOTI  JAMES L | Director | Shares: 7692 | Value: $501,298.41 | Percent: 0.007556% | Link: https://www.sec.gov/Archives/edgar/data/1202205/000195917325005601/0001959173-25-005601.txt
+2025-08-28 18:43:05 | Goldstein Lainie | Officer | Shares: 20000 | Value: $4,612,800.0 | Percent: 0.010842% | Link: https://www.sec.gov/Archives/edgar/data/1399513/000200731725000991/0002007317-25-000991.txt
+2025-08-28 18:43:06 | Goldstein Lainie | Officer | Shares: 20000 | Value: $4,612,800.0 | Percent: 0.010842% | Link: https://www.sec.gov/Archives/edgar/data/946581/000200731725000991/0002007317-25-000991.txt
