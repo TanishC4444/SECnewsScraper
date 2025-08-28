@@ -2226,3 +2226,7 @@
 2025-08-28 01:55:04 | Brian Long | Director | Shares: 500000 | Value: $3,060,000.0 | Percent: 0.234624% | Link: https://www.sec.gov/Archives/edgar/data/1201010/000120101025000004/0001201010-25-000004.txt
 2025-08-28 01:55:06 | LIANG ZHU | Officer | Shares: 500000 | Value: $12,605,806.82 | Percent: 0.032281% | Link: https://www.sec.gov/Archives/edgar/data/1992206/000199220625000002/0001992206-25-000002.txt
 2025-08-28 01:55:07 | LIANG ZHU | Officer | Shares: 500000 | Value: $12,605,806.82 | Percent: 0.032281% | Link: https://www.sec.gov/Archives/edgar/data/1744676/000199220625000002/0001992206-25-000002.txt
+2025-08-28 11:21:46 | Benyamini Gil | Officer | Shares: 10251 | Value: $101,997.45 | Percent: 0.017979% | Link: https://www.sec.gov/Archives/edgar/data/1978303/000197640825000283/0001976408-25-000283.txt
+2025-08-28 11:21:47 | Benyamini Gil | Officer | Shares: 10251 | Value: $101,997.45 | Percent: 0.017979% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000283/0001976408-25-000283.txt
+2025-08-28 11:21:48 | Shkedy Elyezer | Director | Shares: 15490 | Value: $154,125.5 | Percent: 0.027167% | Link: https://www.sec.gov/Archives/edgar/data/2083675/000197640825000282/0001976408-25-000282.txt
+2025-08-28 11:21:49 | Shkedy Elyezer | Director | Shares: 15490 | Value: $154,125.5 | Percent: 0.027167% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000282/0001976408-25-000282.txt
