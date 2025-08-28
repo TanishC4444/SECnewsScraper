@@ -2270,3 +2270,5 @@
 2025-08-28 18:43:04 | DOTI  JAMES L | Director | Shares: 7692 | Value: $501,298.41 | Percent: 0.007556% | Link: https://www.sec.gov/Archives/edgar/data/1202205/000195917325005601/0001959173-25-005601.txt
 2025-08-28 18:43:05 | Goldstein Lainie | Officer | Shares: 20000 | Value: $4,612,800.0 | Percent: 0.010842% | Link: https://www.sec.gov/Archives/edgar/data/1399513/000200731725000991/0002007317-25-000991.txt
 2025-08-28 18:43:06 | Goldstein Lainie | Officer | Shares: 20000 | Value: $4,612,800.0 | Percent: 0.010842% | Link: https://www.sec.gov/Archives/edgar/data/946581/000200731725000991/0002007317-25-000991.txt
+2025-08-28 18:55:34 | Bjornholt James Eric | Officer | Shares: 7356 | Value: $508,593.84 | Percent: 0.001363% | Link: https://www.sec.gov/Archives/edgar/data/1452681/000200731725000992/0002007317-25-000992.txt
+2025-08-28 18:55:35 | Bjornholt James Eric | Officer | Shares: 7356 | Value: $508,593.84 | Percent: 0.001363% | Link: https://www.sec.gov/Archives/edgar/data/827054/000200731725000992/0002007317-25-000992.txt
