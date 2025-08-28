@@ -2262,3 +2262,5 @@
 2025-08-28 17:32:49 | Vincent Olivier | Director | Shares: 8000 | Value: $91,920.0 | Percent: 0.013360% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000280/0001974078-25-000280.txt
 2025-08-28 17:32:50 | Shunk Laura F | Director | Shares: 10000 | Value: $40,000.0 | Percent: 0.218389% | Link: https://www.sec.gov/Archives/edgar/data/1305554/000197407825000279/0001974078-25-000279.txt
 2025-08-28 17:32:51 | Shunk Laura F | Director | Shares: 10000 | Value: $40,000.0 | Percent: 0.218389% | Link: https://www.sec.gov/Archives/edgar/data/830616/000197407825000279/0001974078-25-000279.txt
+2025-08-28 17:43:25 | Long Nicholas T. | Director | Shares: 12854 | Value: $409,307.0 | Percent: 0.015819% | Link: https://www.sec.gov/Archives/edgar/data/1525504/000200731725000990/0002007317-25-000990.txt
+2025-08-28 17:43:27 | Long Nicholas T. | Director | Shares: 12854 | Value: $409,307.0 | Percent: 0.015819% | Link: https://www.sec.gov/Archives/edgar/data/110471/000200731725000990/0002007317-25-000990.txt
