@@ -2298,3 +2298,7 @@
 2025-08-28 20:55:16 | DANIEL O'DAY | Officer | Shares: 10000 | Value: $1,136,300.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/882095/000195004725006520/0001950047-25-006520.txt
 2025-08-28 20:55:17 | CORY J SINDELAR | Officer | Shares: 10000 | Value: $600,000.0 | Percent: 0.015313% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725006519/0001950047-25-006519.txt
 2025-08-28 20:55:19 | CORY J SINDELAR | Officer | Shares: 10000 | Value: $600,000.0 | Percent: 0.015313% | Link: https://www.sec.gov/Archives/edgar/data/1226868/000195004725006519/0001950047-25-006519.txt
+2025-08-28 21:14:06 | Levitt Randall James | Director | Shares: 40000 | Value: $1,374,906.48 | Percent: 0.241203% | Link: https://www.sec.gov/Archives/edgar/data/1754029/000120087625000048/0001200876-25-000048.txt
+2025-08-28 21:14:07 | Levitt Randall James | Director | Shares: 40000 | Value: $1,374,906.48 | Percent: 0.241203% | Link: https://www.sec.gov/Archives/edgar/data/1419536/000120087625000048/0001200876-25-000048.txt
+2025-08-28 21:14:09 | BRESSLER BENJAMIN | Officer | Shares: 21137 | Value: $316,506.65 | Percent: 0.038579% | Link: https://www.sec.gov/Archives/edgar/data/1674110/000195779925000201/0001957799-25-000201.txt
+2025-08-28 21:14:09 | BRESSLER BENJAMIN | Officer | Shares: 21137 | Value: $316,506.65 | Percent: 0.038579% | Link: https://www.sec.gov/Archives/edgar/data/1512499/000195779925000201/0001957799-25-000201.txt
