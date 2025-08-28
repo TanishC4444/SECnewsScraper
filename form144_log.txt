@@ -2234,3 +2234,5 @@
 2025-08-28 13:53:08 | RHODES KEVIN R | Officer | Shares: 14000 | Value: $301,280.0 | Percent: 0.010589% | Link: https://www.sec.gov/Archives/edgar/data/1078271/000195917325005589/0001959173-25-005589.txt
 2025-08-28 13:53:11 | Welch Jacqueline M | Officer | Shares: 5500 | Value: $330,220.0 | Percent: 0.003394% | Link: https://www.sec.gov/Archives/edgar/data/1838160/000195917325005588/0001959173-25-005588.txt
 2025-08-28 13:53:12 | Welch Jacqueline M | Officer | Shares: 5500 | Value: $330,220.0 | Percent: 0.003394% | Link: https://www.sec.gov/Archives/edgar/data/71691/000195917325005588/0001959173-25-005588.txt
+2025-08-28 14:11:07 | Anderson Shawn | Officer | Shares: 11115 | Value: $470,497.95 | Percent: 0.002361% | Link: https://www.sec.gov/Archives/edgar/data/1813738/000195917325005590/0001959173-25-005590.txt
+2025-08-28 14:11:08 | Anderson Shawn | Officer | Shares: 11115 | Value: $470,497.95 | Percent: 0.002361% | Link: https://www.sec.gov/Archives/edgar/data/1111711/000195917325005590/0001959173-25-005590.txt
