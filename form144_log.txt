@@ -2290,3 +2290,11 @@
 2025-08-28 20:46:32 | WALDRON JOHN E. | Managing Director | Shares: 9000 | Value: $6,747,030.0 | Percent: 0.002973% | Link: https://www.sec.gov/Archives/edgar/data/886982/000089183625000052/0000891836-25-000052.txt
 2025-08-28 20:46:34 | Rolando Guillot | Officer | Shares: 22890 | Value: $1,513,945.0 | Percent: 0.550064% | Link: https://www.sec.gov/Archives/edgar/data/1302373/000196858225000824/0001968582-25-000824.txt
 2025-08-28 20:46:35 | Rolando Guillot | Officer | Shares: 22890 | Value: $1,513,945.0 | Percent: 0.550064% | Link: https://www.sec.gov/Archives/edgar/data/933034/000196858225000824/0001968582-25-000824.txt
+2025-08-28 20:55:11 | William J. Lansing | President,  CEO,  and Director | Shares: 18032 | Value: $25,594,080.0 | Percent: 0.075122% | Link: https://www.sec.gov/Archives/edgar/data/1074500/000196858225000825/0001968582-25-000825.txt
+2025-08-28 20:55:12 | William J. Lansing | President,  CEO,  and Director | Shares: 18032 | Value: $25,594,080.0 | Percent: 0.075122% | Link: https://www.sec.gov/Archives/edgar/data/814547/000196858225000825/0001968582-25-000825.txt
+2025-08-28 20:55:13 | SHAWN M. SODERBERG | Officer | Shares: 25000 | Value: $1,300,000.0 | Percent: 0.010684% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725006521/0001950047-25-006521.txt
+2025-08-28 20:55:14 | SHAWN M. SODERBERG | Officer | Shares: 25000 | Value: $1,300,000.0 | Percent: 0.010684% | Link: https://www.sec.gov/Archives/edgar/data/1591851/000195004725006521/0001950047-25-006521.txt
+2025-08-28 20:55:15 | DANIEL O'DAY | Officer | Shares: 10000 | Value: $1,136,300.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/1638643/000195004725006520/0001950047-25-006520.txt
+2025-08-28 20:55:16 | DANIEL O'DAY | Officer | Shares: 10000 | Value: $1,136,300.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/882095/000195004725006520/0001950047-25-006520.txt
+2025-08-28 20:55:17 | CORY J SINDELAR | Officer | Shares: 10000 | Value: $600,000.0 | Percent: 0.015313% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725006519/0001950047-25-006519.txt
+2025-08-28 20:55:19 | CORY J SINDELAR | Officer | Shares: 10000 | Value: $600,000.0 | Percent: 0.015313% | Link: https://www.sec.gov/Archives/edgar/data/1226868/000195004725006519/0001950047-25-006519.txt
