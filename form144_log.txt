@@ -2316,3 +2316,7 @@
 2025-08-29 11:59:46 | Liang Yan | Officer | Shares: 10000 | Value: $350,800.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000240/0001973379-25-000240.txt
 2025-08-29 13:18:52 | Steven Niemiec | Officer | Shares: 21053 | Value: $123,581.0 | Percent: 0.029449% | Link: https://www.sec.gov/Archives/edgar/data/2018064/000095017025112126/0000950170-25-112126.txt
 2025-08-29 13:18:53 | Steven Niemiec | Officer | Shares: 21053 | Value: $123,581.0 | Percent: 0.029449% | Link: https://www.sec.gov/Archives/edgar/data/1959652/000095017025112126/0000950170-25-112126.txt
+2025-08-29 14:23:26 | CASEY BRIAN O | Officer | Shares: 20317 | Value: $365,502.0 | Percent: 0.215952% | Link: https://www.sec.gov/Archives/edgar/data/1171437/000194984625000433/0001949846-25-000433.txt
+2025-08-29 14:23:27 | CASEY BRIAN O | Officer | Shares: 20317 | Value: $365,502.0 | Percent: 0.215952% | Link: https://www.sec.gov/Archives/edgar/data/1165002/000194984625000433/0001949846-25-000433.txt
+2025-08-29 14:23:28 | Ancher-Jensen Henrik | Former Officer | Shares: 21644 | Value: $2,706,365.76 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1592501/000195917325005614/0001959173-25-005614.txt
+2025-08-29 14:23:29 | Ancher-Jensen Henrik | Former Officer | Shares: 21644 | Value: $2,706,365.76 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1090872/000195917325005614/0001959173-25-005614.txt
