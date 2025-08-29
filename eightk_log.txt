@@ -2971,3 +2971,4 @@
 2025-08-29 15:44:34 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-08-29T11:44:00-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000095017025112160/0000950170-25-112160.txt
 2025-08-29 15:44:36 | 8-K - Phoenix Energy One, LLC (0001818643) (Filer) | 2025-08-29T11:35:09-04:00 | https://www.sec.gov/Archives/edgar/data/1818643/000119312525192292/0001193125-25-192292.txt
 2025-08-29 15:53:56 | 8-K - Golkor Inc. (0001474558) (Filer) | 2025-08-29T11:44:05-04:00 | https://www.sec.gov/Archives/edgar/data/1474558/000168316825006552/0001683168-25-006552.txt
+2025-08-29 16:15:47 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-08-29T12:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525192316/0001193125-25-192316.txt

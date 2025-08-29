@@ -2338,3 +2338,5 @@
 2025-08-29 15:53:59 | Estes Scott Anson | Officer | Shares: 80000 | Value: $960,000.0 | Percent: 0.051428% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005627/0001959173-25-005627.txt
 2025-08-29 15:54:00 | Medway Richard A. | Officer | Shares: 15000 | Value: $179,700.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1977271/000195917325005626/0001959173-25-005626.txt
 2025-08-29 15:54:01 | Medway Richard A. | Officer | Shares: 15000 | Value: $179,700.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005626/0001959173-25-005626.txt
+2025-08-29 16:15:49 | Utz John A. | Officer | Shares: 13000 | Value: $354,154.5 | Percent: 0.007839% | Link: https://www.sec.gov/Archives/edgar/data/1523751/000195917325005628/0001959173-25-005628.txt
+2025-08-29 16:15:50 | Utz John A. | Officer | Shares: 13000 | Value: $354,154.5 | Percent: 0.007839% | Link: https://www.sec.gov/Archives/edgar/data/7789/000195917325005628/0001959173-25-005628.txt
