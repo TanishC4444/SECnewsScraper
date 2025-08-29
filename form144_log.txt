@@ -2314,3 +2314,5 @@
 2025-08-29 10:24:48 | Shachar Erez | Director | Shares: 27000 | Value: $91,260.0 | Percent: 0.009100% | Link: https://www.sec.gov/Archives/edgar/data/1601099/000197640825000284/0001976408-25-000284.txt
 2025-08-29 11:59:45 | Liang Yan | Officer | Shares: 10000 | Value: $350,800.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1972302/000197337925000240/0001973379-25-000240.txt
 2025-08-29 11:59:46 | Liang Yan | Officer | Shares: 10000 | Value: $350,800.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000240/0001973379-25-000240.txt
+2025-08-29 13:18:52 | Steven Niemiec | Officer | Shares: 21053 | Value: $123,581.0 | Percent: 0.029449% | Link: https://www.sec.gov/Archives/edgar/data/2018064/000095017025112126/0000950170-25-112126.txt
+2025-08-29 13:18:53 | Steven Niemiec | Officer | Shares: 21053 | Value: $123,581.0 | Percent: 0.029449% | Link: https://www.sec.gov/Archives/edgar/data/1959652/000095017025112126/0000950170-25-112126.txt

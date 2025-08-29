@@ -2954,3 +2954,9 @@
 2025-08-29 12:51:59 | 8-K - Nukkleus Inc. (0001787518) (Filer) | 2025-08-29T08:13:57-04:00 | https://www.sec.gov/Archives/edgar/data/1787518/000121390025082085/0001213900-25-082085.txt
 2025-08-29 12:52:01 | 8-K - Wheels Up Experience Inc. (0001819516) (Filer) | 2025-08-29T08:10:38-04:00 | https://www.sec.gov/Archives/edgar/data/1819516/000110465925085165/0001104659-25-085165.txt
 2025-08-29 12:52:03 | 8-K - Marpai, Inc. (0001844392) (Filer) | 2025-08-29T08:00:54-04:00 | https://www.sec.gov/Archives/edgar/data/1844392/000121390025082077/0001213900-25-082077.txt
+2025-08-29 13:18:44 | 8-K - LEGGETT & PLATT INC (0000058492) (Filer) | 2025-08-29T09:09:49-04:00 | https://www.sec.gov/Archives/edgar/data/58492/000005849225000494/0000058492-25-000494.txt
+2025-08-29 13:18:46 | 8-K - CHS INC (0000823277) (Filer) | 2025-08-29T09:03:21-04:00 | https://www.sec.gov/Archives/edgar/data/823277/000082327725000028/0000823277-25-000028.txt
+2025-08-29 13:18:47 | 8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer) | 2025-08-29T09:02:29-04:00 | https://www.sec.gov/Archives/edgar/data/1661306/000166130625000053/0001661306-25-000053.txt
+2025-08-29 13:18:49 | 8-K - Post Holdings, Inc. (0001530950) (Filer) | 2025-08-29T09:02:18-04:00 | https://www.sec.gov/Archives/edgar/data/1530950/000153095025000238/0001530950-25-000238.txt
+2025-08-29 13:18:49 | 8-K - HSBC USA INC /MD/ (0000083246) (Filer) | 2025-08-29T09:01:23-04:00 | https://www.sec.gov/Archives/edgar/data/83246/000008324625000025/0000083246-25-000025.txt
+2025-08-29 13:18:51 | 8-K - iTeos Therapeutics, Inc. (0001808865) (Filer) | 2025-08-29T09:00:37-04:00 | https://www.sec.gov/Archives/edgar/data/1808865/000119312525192031/0001193125-25-192031.txt
