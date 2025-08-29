@@ -2334,3 +2334,7 @@
 2025-08-29 15:34:46 | Lee Kang Jyh | Officer | Shares: 8750 | Value: $203,031.56 | Percent: 0.014547% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325005623/0001959173-25-005623.txt
 2025-08-29 15:44:39 | Geisser Melinda L. | Officer | Shares: 12000 | Value: $143,760.0 | Percent: 0.007714% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325005625/0001959173-25-005625.txt
 2025-08-29 15:44:40 | Geisser Melinda L. | Officer | Shares: 12000 | Value: $143,760.0 | Percent: 0.007714% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005625/0001959173-25-005625.txt
+2025-08-29 15:53:58 | Estes Scott Anson | Officer | Shares: 80000 | Value: $960,000.0 | Percent: 0.051428% | Link: https://www.sec.gov/Archives/edgar/data/1977401/000195917325005627/0001959173-25-005627.txt
+2025-08-29 15:53:59 | Estes Scott Anson | Officer | Shares: 80000 | Value: $960,000.0 | Percent: 0.051428% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005627/0001959173-25-005627.txt
+2025-08-29 15:54:00 | Medway Richard A. | Officer | Shares: 15000 | Value: $179,700.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1977271/000195917325005626/0001959173-25-005626.txt
+2025-08-29 15:54:01 | Medway Richard A. | Officer | Shares: 15000 | Value: $179,700.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005626/0001959173-25-005626.txt
