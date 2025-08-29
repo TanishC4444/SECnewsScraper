@@ -2330,3 +2330,5 @@
 2025-08-29 14:49:37 | Honeycutt Jennifer | Officer | Shares: 10646 | Value: $1,131,243.96 | Percent: 0.004290% | Link: https://www.sec.gov/Archives/edgar/data/1834046/000195917325005619/0001959173-25-005619.txt
 2025-08-29 15:22:05 | Khan Ahmad A. | Officer | Shares: 13716 | Value: $12,090,654.0 | Percent: 0.010394% | Link: https://www.sec.gov/Archives/edgar/data/1642452/000195917325005622/0001959173-25-005622.txt
 2025-08-29 15:22:06 | Khan Ahmad A. | Officer | Shares: 13716 | Value: $12,090,654.0 | Percent: 0.010394% | Link: https://www.sec.gov/Archives/edgar/data/319201/000195917325005622/0001959173-25-005622.txt
+2025-08-29 15:34:45 | Lee Kang Jyh | Officer | Shares: 8750 | Value: $203,031.56 | Percent: 0.014547% | Link: https://www.sec.gov/Archives/edgar/data/1748668/000195917325005623/0001959173-25-005623.txt
+2025-08-29 15:34:46 | Lee Kang Jyh | Officer | Shares: 8750 | Value: $203,031.56 | Percent: 0.014547% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325005623/0001959173-25-005623.txt
