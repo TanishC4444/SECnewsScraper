@@ -2324,3 +2324,7 @@
 2025-08-29 14:40:07 | GOLDMAN JAMES A | Director | Shares: 5072 | Value: $487,836.41 | Percent: 0.010646% | Link: https://www.sec.gov/Archives/edgar/data/1018840/000195917325005618/0001959173-25-005618.txt
 2025-08-29 14:40:09 | Pryor Paula A. | Officer | Shares: 5336 | Value: $459,963.2 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/1811383/000195917325005617/0001959173-25-005617.txt
 2025-08-29 14:40:10 | Pryor Paula A. | Officer | Shares: 5336 | Value: $459,963.2 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/1497770/000195917325005617/0001959173-25-005617.txt
+2025-08-29 14:49:34 | Hayden Phillip Brady | Officer | Shares: 35578 | Value: $156,543.2 | Percent: 0.061416% | Link: https://www.sec.gov/Archives/edgar/data/1938940/000195917325005621/0001959173-25-005621.txt
+2025-08-29 14:49:35 | Hayden Phillip Brady | Officer | Shares: 35578 | Value: $156,543.2 | Percent: 0.061416% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000195917325005621/0001959173-25-005621.txt
+2025-08-29 14:49:37 | Honeycutt Jennifer | Officer | Shares: 10646 | Value: $1,131,243.96 | Percent: 0.004290% | Link: https://www.sec.gov/Archives/edgar/data/1967680/000195917325005619/0001959173-25-005619.txt
+2025-08-29 14:49:37 | Honeycutt Jennifer | Officer | Shares: 10646 | Value: $1,131,243.96 | Percent: 0.004290% | Link: https://www.sec.gov/Archives/edgar/data/1834046/000195917325005619/0001959173-25-005619.txt
