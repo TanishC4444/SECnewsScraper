@@ -2960,3 +2960,6 @@
 2025-08-29 13:18:49 | 8-K - Post Holdings, Inc. (0001530950) (Filer) | 2025-08-29T09:02:18-04:00 | https://www.sec.gov/Archives/edgar/data/1530950/000153095025000238/0001530950-25-000238.txt
 2025-08-29 13:18:49 | 8-K - HSBC USA INC /MD/ (0000083246) (Filer) | 2025-08-29T09:01:23-04:00 | https://www.sec.gov/Archives/edgar/data/83246/000008324625000025/0000083246-25-000025.txt
 2025-08-29 13:18:51 | 8-K - iTeos Therapeutics, Inc. (0001808865) (Filer) | 2025-08-29T09:00:37-04:00 | https://www.sec.gov/Archives/edgar/data/1808865/000119312525192031/0001193125-25-192031.txt
+2025-08-29 13:40:11 | 8-K - GREIF, INC (0000043920) (Filer) | 2025-08-29T09:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/43920/000004392025000051/0000043920-25-000051.txt
+2025-08-29 13:40:13 | 8-K - Garrett Motion Inc. (0001735707) (Filer) | 2025-08-29T09:27:39-04:00 | https://www.sec.gov/Archives/edgar/data/1735707/000095014225002318/0000950142-25-002318.txt
+2025-08-29 13:40:15 | 8-K - Verb Technology Company, Inc. (0001566610) (Filer) | 2025-08-29T09:20:25-04:00 | https://www.sec.gov/Archives/edgar/data/1566610/000149315225012461/0001493152-25-012461.txt
