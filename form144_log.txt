@@ -2350,3 +2350,5 @@
 2025-08-29 18:33:45 | Spangler Patrick D | Director | Shares: 11120 | Value: $198,000.0 | Percent: 0.059898% | Link: https://www.sec.gov/Archives/edgar/data/1296525/000200731725001000/0002007317-25-001000.txt
 2025-08-29 18:33:47 | Smith Thomas B | Officer | Shares: 17478 | Value: $671,576.38 | Percent: 0.055482% | Link: https://www.sec.gov/Archives/edgar/data/1748462/000200731725000999/0002007317-25-000999.txt
 2025-08-29 18:33:49 | Smith Thomas B | Officer | Shares: 17478 | Value: $671,576.38 | Percent: 0.055482% | Link: https://www.sec.gov/Archives/edgar/data/1267565/000200731725000999/0002007317-25-000999.txt
+2025-08-29 18:48:47 | Brown Brian Michael | Officer | Shares: 35000 | Value: $540,484.9 | Percent: 0.016515% | Link: https://www.sec.gov/Archives/edgar/data/1865783/000196530125000130/0001965301-25-000130.txt
+2025-08-29 18:48:48 | Brown Brian Michael | Officer | Shares: 35000 | Value: $540,484.9 | Percent: 0.016515% | Link: https://www.sec.gov/Archives/edgar/data/1777921/000196530125000130/0001965301-25-000130.txt
