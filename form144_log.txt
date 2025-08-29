@@ -2344,3 +2344,5 @@
 2025-08-29 16:40:49 | VAN LITH KAREN | Director | Shares: 5998 | Value: $162,697.33 | Percent: 0.003617% | Link: https://www.sec.gov/Archives/edgar/data/7789/000195917325005631/0001959173-25-005631.txt
 2025-08-29 16:40:51 | Stefanski Marc A | Director | Shares: 7200 | Value: $102,276.0 | Percent: 0.002565% | Link: https://www.sec.gov/Archives/edgar/data/1388161/000195917325005629/0001959173-25-005629.txt
 2025-08-29 16:40:51 | Stefanski Marc A | Director | Shares: 7200 | Value: $102,276.0 | Percent: 0.002565% | Link: https://www.sec.gov/Archives/edgar/data/1381668/000195917325005629/0001959173-25-005629.txt
+2025-08-29 17:50:40 | Stein David L | Officer | Shares: 14951 | Value: $406,680.09 | Percent: 0.009015% | Link: https://www.sec.gov/Archives/edgar/data/1404929/000195917325005637/0001959173-25-005637.txt
+2025-08-29 17:50:41 | Stein David L | Officer | Shares: 14951 | Value: $406,680.09 | Percent: 0.009015% | Link: https://www.sec.gov/Archives/edgar/data/7789/000195917325005637/0001959173-25-005637.txt
