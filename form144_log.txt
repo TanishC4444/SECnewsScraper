@@ -2340,3 +2340,7 @@
 2025-08-29 15:54:01 | Medway Richard A. | Officer | Shares: 15000 | Value: $179,700.0 | Percent: 0.009643% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005626/0001959173-25-005626.txt
 2025-08-29 16:15:49 | Utz John A. | Officer | Shares: 13000 | Value: $354,154.5 | Percent: 0.007839% | Link: https://www.sec.gov/Archives/edgar/data/1523751/000195917325005628/0001959173-25-005628.txt
 2025-08-29 16:15:50 | Utz John A. | Officer | Shares: 13000 | Value: $354,154.5 | Percent: 0.007839% | Link: https://www.sec.gov/Archives/edgar/data/7789/000195917325005628/0001959173-25-005628.txt
+2025-08-29 16:40:48 | VAN LITH KAREN | Director | Shares: 5998 | Value: $162,697.33 | Percent: 0.003617% | Link: https://www.sec.gov/Archives/edgar/data/1265627/000195917325005631/0001959173-25-005631.txt
+2025-08-29 16:40:49 | VAN LITH KAREN | Director | Shares: 5998 | Value: $162,697.33 | Percent: 0.003617% | Link: https://www.sec.gov/Archives/edgar/data/7789/000195917325005631/0001959173-25-005631.txt
+2025-08-29 16:40:51 | Stefanski Marc A | Director | Shares: 7200 | Value: $102,276.0 | Percent: 0.002565% | Link: https://www.sec.gov/Archives/edgar/data/1388161/000195917325005629/0001959173-25-005629.txt
+2025-08-29 16:40:51 | Stefanski Marc A | Director | Shares: 7200 | Value: $102,276.0 | Percent: 0.002565% | Link: https://www.sec.gov/Archives/edgar/data/1381668/000195917325005629/0001959173-25-005629.txt
