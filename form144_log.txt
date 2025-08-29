@@ -2382,3 +2382,9 @@
 2025-08-29 20:44:56 | Goldsteen Mitchell B. | Affiliate | Shares: 14706 | Value: $43,451.82 | Percent: 0.042798% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000016/0000011790-25-000016.txt
 2025-08-29 20:54:08 | Buchholz Richard | Officer | Shares: 11000 | Value: $1,027,349.0 | Percent: 0.037194% | Link: https://www.sec.gov/Archives/edgar/data/1737133/000100027525000120/0001000275-25-000120.txt
 2025-08-29 20:54:09 | Buchholz Richard | Officer | Shares: 11000 | Value: $1,027,349.0 | Percent: 0.037194% | Link: https://www.sec.gov/Archives/edgar/data/1609550/000100027525000120/0001000275-25-000120.txt
+2025-08-29 21:11:42 | Agenus Inc. | Owner | Shares: 786750 | Value: $12,572,265.0 | Percent: 19.835407% | Link: https://www.sec.gov/Archives/edgar/data/1840229/000095017025112266/0000950170-25-112266.txt
+2025-08-29 21:11:43 | Agenus Inc. | Owner | Shares: 786750 | Value: $12,572,265.0 | Percent: 19.835407% | Link: https://www.sec.gov/Archives/edgar/data/1098972/000095017025112266/0000950170-25-112266.txt
+2025-08-29 21:11:45 | Blecharczyk Nathan | Officer | Shares: 107693 | Value: $14,004,450.84 | Percent: 0.025099% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325005647/0001959173-25-005647.txt
+2025-08-29 21:11:46 | Blecharczyk Nathan | Officer | Shares: 107693 | Value: $14,004,450.84 | Percent: 0.025099% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325005647/0001959173-25-005647.txt
+2025-08-29 21:11:48 | RICHARD DANIELS | Director | Shares: 18248 | Value: $138,887.35 | Percent: 0.012380% | Link: https://www.sec.gov/Archives/edgar/data/1830164/000195004725006570/0001950047-25-006570.txt
+2025-08-29 21:11:49 | RICHARD DANIELS | Director | Shares: 18248 | Value: $138,887.35 | Percent: 0.012380% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725006570/0001950047-25-006570.txt
