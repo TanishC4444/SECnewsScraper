@@ -2396,3 +2396,11 @@
 2025-08-29 21:27:39 | Deborah McDaniel-Hand | Officer | Shares: 100000 | Value: $500,000.0 | Percent: 0.293128% | Link: https://www.sec.gov/Archives/edgar/data/1956744/000164117225026050/0001641172-25-026050.txt
 2025-08-29 22:15:24 | GREGORY Q BROWN | Officer | Shares: 25000 | Value: $11,807,550.0 | Percent: 0.015006% | Link: https://www.sec.gov/Archives/edgar/data/1201232/000195004725006573/0001950047-25-006573.txt
 2025-08-29 22:15:25 | GREGORY Q BROWN | Officer | Shares: 25000 | Value: $11,807,550.0 | Percent: 0.015006% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725006573/0001950047-25-006573.txt
+2025-08-29 22:32:38 | Neil L. Berkley | Officer | Shares: 15426 | Value: $36,251.1 | Percent: 0.015241% | Link: https://www.sec.gov/Archives/edgar/data/2075298/000207529825000003/0002075298-25-000003.txt
+2025-08-29 22:32:39 | Neil L. Berkley | Officer | Shares: 15426 | Value: $36,251.1 | Percent: 0.015241% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000207529825000003/0002075298-25-000003.txt
+2025-08-29 22:32:40 | William Bertrand | Chief Operating Officer | Shares: 34500 | Value: $2,070.0 | Percent: 0.013475% | Link: https://www.sec.gov/Archives/edgar/data/1621227/000110465925085819/0001104659-25-085819.txt
+2025-08-29 22:32:41 | William Bertrand | Chief Operating Officer | Shares: 34500 | Value: $2,070.0 | Percent: 0.013475% | Link: https://www.sec.gov/Archives/edgar/data/1291937/000110465925085819/0001104659-25-085819.txt
+2025-08-29 22:32:42 | Arnon Rosenthal | Officer | Shares: 50242 | Value: $118,068.7 | Percent: 0.049640% | Link: https://www.sec.gov/Archives/edgar/data/1757770/000175777025000004/0001757770-25-000004.txt
+2025-08-29 22:32:43 | Arnon Rosenthal | Officer | Shares: 50242 | Value: $118,068.7 | Percent: 0.049640% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000175777025000004/0001757770-25-000004.txt
+2025-08-29 22:32:44 | Grace Wong-Sarad | Officer | Shares: 5717 | Value: $13,434.95 | Percent: 0.005649% | Link: https://www.sec.gov/Archives/edgar/data/2074667/000207466725000003/0002074667-25-000003.txt
+2025-08-29 22:32:46 | Grace Wong-Sarad | Officer | Shares: 5717 | Value: $13,434.95 | Percent: 0.005649% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000207466725000003/0002074667-25-000003.txt
