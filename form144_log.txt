@@ -2332,3 +2332,5 @@
 2025-08-29 15:22:06 | Khan Ahmad A. | Officer | Shares: 13716 | Value: $12,090,654.0 | Percent: 0.010394% | Link: https://www.sec.gov/Archives/edgar/data/319201/000195917325005622/0001959173-25-005622.txt
 2025-08-29 15:34:45 | Lee Kang Jyh | Officer | Shares: 8750 | Value: $203,031.56 | Percent: 0.014547% | Link: https://www.sec.gov/Archives/edgar/data/1748668/000195917325005623/0001959173-25-005623.txt
 2025-08-29 15:34:46 | Lee Kang Jyh | Officer | Shares: 8750 | Value: $203,031.56 | Percent: 0.014547% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325005623/0001959173-25-005623.txt
+2025-08-29 15:44:39 | Geisser Melinda L. | Officer | Shares: 12000 | Value: $143,760.0 | Percent: 0.007714% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325005625/0001959173-25-005625.txt
+2025-08-29 15:44:40 | Geisser Melinda L. | Officer | Shares: 12000 | Value: $143,760.0 | Percent: 0.007714% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005625/0001959173-25-005625.txt

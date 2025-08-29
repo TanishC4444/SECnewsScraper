@@ -2968,3 +2968,5 @@
 2025-08-29 14:40:05 | 8-K - UNITED FIRE GROUP INC (0000101199) (Filer) | 2025-08-29T10:25:33-04:00 | https://www.sec.gov/Archives/edgar/data/101199/000010119925000062/0000101199-25-000062.txt
 2025-08-29 15:22:01 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-08-29T11:05:54-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000101/0001756761-25-000101.txt
 2025-08-29 15:22:01 | 8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer) | 2025-08-29T11:01:09-04:00 | https://www.sec.gov/Archives/edgar/data/1986395/000095017025112153/0000950170-25-112153.txt
+2025-08-29 15:44:34 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-08-29T11:44:00-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000095017025112160/0000950170-25-112160.txt
+2025-08-29 15:44:36 | 8-K - Phoenix Energy One, LLC (0001818643) (Filer) | 2025-08-29T11:35:09-04:00 | https://www.sec.gov/Archives/edgar/data/1818643/000119312525192292/0001193125-25-192292.txt
