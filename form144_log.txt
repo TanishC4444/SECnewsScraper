@@ -2380,3 +2380,5 @@
 2025-08-29 20:44:53 | King Robert D. | Officer | Shares: 37280 | Value: $2,765,994.21 | Percent: 0.005490% | Link: https://www.sec.gov/Archives/edgar/data/1755672/000196535325000154/0001965353-25-000154.txt
 2025-08-29 20:44:55 | Goldsteen Mitchell B. | Affiliate | Shares: 14706 | Value: $43,451.82 | Percent: 0.042798% | Link: https://www.sec.gov/Archives/edgar/data/1997607/000001179025000016/0000011790-25-000016.txt
 2025-08-29 20:44:56 | Goldsteen Mitchell B. | Affiliate | Shares: 14706 | Value: $43,451.82 | Percent: 0.042798% | Link: https://www.sec.gov/Archives/edgar/data/1887944/000001179025000016/0000011790-25-000016.txt
+2025-08-29 20:54:08 | Buchholz Richard | Officer | Shares: 11000 | Value: $1,027,349.0 | Percent: 0.037194% | Link: https://www.sec.gov/Archives/edgar/data/1737133/000100027525000120/0001000275-25-000120.txt
+2025-08-29 20:54:09 | Buchholz Richard | Officer | Shares: 11000 | Value: $1,027,349.0 | Percent: 0.037194% | Link: https://www.sec.gov/Archives/edgar/data/1609550/000100027525000120/0001000275-25-000120.txt
