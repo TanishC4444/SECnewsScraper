@@ -2979,3 +2979,12 @@
 2025-08-29 17:59:52 | 8-K/A - VERDE RESOURCES, INC. (0001506929) (Filer) | 2025-08-29T13:58:46-04:00 | https://www.sec.gov/Archives/edgar/data/1506929/000164033425001602/0001640334-25-001602.txt
 2025-08-29 18:33:42 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-08-29T14:12:18-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000037/0001976927-25-000037.txt
 2025-08-29 19:56:32 | 8-K - Monogram Technologies Inc. (0001769759) (Filer) | 2025-08-29T15:49:06-04:00 | https://www.sec.gov/Archives/edgar/data/1769759/000110465925085618/0001104659-25-085618.txt
+2025-08-29 20:19:11 | 8-K - Sarepta Therapeutics, Inc. (0000873303) (Filer) | 2025-08-29T16:18:38-04:00 | https://www.sec.gov/Archives/edgar/data/873303/000119312525192794/0001193125-25-192794.txt
+2025-08-29 20:19:11 | 8-K - HORIZON BANCORP INC /IN/ (0000706129) (Filer) | 2025-08-29T16:17:55-04:00 | https://www.sec.gov/Archives/edgar/data/706129/000207709625000094/0002077096-25-000094.txt
+2025-08-29 20:19:13 | 8-K - Live Oak Bancshares, Inc. (0001462120) (Filer) | 2025-08-29T16:17:36-04:00 | https://www.sec.gov/Archives/edgar/data/1462120/000146212025000082/0001462120-25-000082.txt
+2025-08-29 20:19:14 | 8-K - Quanex Building Products CORP (0001423221) (Filer) | 2025-08-29T16:17:33-04:00 | https://www.sec.gov/Archives/edgar/data/1423221/000117184325005633/0001171843-25-005633.txt
+2025-08-29 20:19:16 | 8-K - James River Group Holdings, Ltd. (0001620459) (Filer) | 2025-08-29T16:17:31-04:00 | https://www.sec.gov/Archives/edgar/data/1620459/000162045925000120/0001620459-25-000120.txt
+2025-08-29 20:19:17 | 8-K - P3 Health Partners Inc. (0001832511) (Filer) | 2025-08-29T16:17:12-04:00 | https://www.sec.gov/Archives/edgar/data/1832511/000183251125000015/0001832511-25-000015.txt
+2025-08-29 20:19:19 | 8-K - Hilltop Holdings Inc. (0001265131) (Filer) | 2025-08-29T16:16:47-04:00 | https://www.sec.gov/Archives/edgar/data/1265131/000110465925085684/0001104659-25-085684.txt
+2025-08-29 20:19:20 | 8-K - Rocket Lab Corp (0001819994) (Filer) | 2025-08-29T16:16:41-04:00 | https://www.sec.gov/Archives/edgar/data/1819994/000162828025041402/0001628280-25-041402.txt
+2025-08-29 20:19:22 | 8-K - Morningstar, Inc. (0001289419) (Filer) | 2025-08-29T16:15:54-04:00 | https://www.sec.gov/Archives/edgar/data/1289419/000110465925085675/0001104659-25-085675.txt

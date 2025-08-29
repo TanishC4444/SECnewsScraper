@@ -2360,3 +2360,13 @@
 2025-08-29 19:47:23 | McMahon Robert W. | Former Officer | Shares: 28081 | Value: $3,508,993.3 | Percent: 0.009885% | Link: https://www.sec.gov/Archives/edgar/data/1090872/000195917325005641/0001959173-25-005641.txt
 2025-08-29 19:56:34 | Fisher David | Officer | Shares: 10000 | Value: $1,210,000.0 | Percent: 0.039980% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000200731725001001/0002007317-25-001001.txt
 2025-08-29 19:56:35 | Fisher David | Officer | Shares: 10000 | Value: $1,210,000.0 | Percent: 0.039980% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000200731725001001/0002007317-25-001001.txt
+2025-08-29 20:19:24 | ANTHONY A RABB | Officer | Shares: 5062 | Value: $7,538.84 | Percent: 0.035674% | Link: https://www.sec.gov/Archives/edgar/data/1953607/000195004725006559/0001950047-25-006559.txt
+2025-08-29 20:19:24 | ANTHONY A RABB | Officer | Shares: 5062 | Value: $7,538.84 | Percent: 0.035674% | Link: https://www.sec.gov/Archives/edgar/data/1819438/000195004725006559/0001950047-25-006559.txt
+2025-08-29 20:19:26 | Manning Paul B | Director | Shares: 947328 | Value: $26,146,252.8 | Percent: 1.100374% | Link: https://www.sec.gov/Archives/edgar/data/1819576/000195917325005644/0001959173-25-005644.txt
+2025-08-29 20:19:27 | Manning Paul B | Director | Shares: 947328 | Value: $26,146,252.8 | Percent: 1.100374% | Link: https://www.sec.gov/Archives/edgar/data/1494695/000195917325005644/0001959173-25-005644.txt
+2025-08-29 20:19:28 | EDWARD M KAYE | Director | Shares: 61885 | Value: $1,223,466.45 | Percent: 0.112934% | Link: https://www.sec.gov/Archives/edgar/data/1623526/000195004725006558/0001950047-25-006558.txt
+2025-08-29 20:19:30 | EDWARD M KAYE | Director | Shares: 61885 | Value: $1,223,466.45 | Percent: 0.112934% | Link: https://www.sec.gov/Archives/edgar/data/1522780/000195004725006558/0001950047-25-006558.txt
+2025-08-29 20:19:32 | TJ CAPITAL INVESTORS LLC | Director | Shares: 300000 | Value: $54,081,000.0 | Percent: 0.138931% | Link: https://www.sec.gov/Archives/edgar/data/1956305/000195004725006556/0001950047-25-006556.txt
+2025-08-29 20:19:34 | EMILIANO KARGIEMAN | Officer | Shares: 29770 | Value: $111,637.5 | Percent: 0.031342% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725006557/0001950047-25-006557.txt
+2025-08-29 20:19:35 | EMILIANO KARGIEMAN | Officer | Shares: 29770 | Value: $111,637.5 | Percent: 0.031342% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725006557/0001950047-25-006557.txt
+2025-08-29 20:19:36 | TJ CAPITAL INVESTORS LLC | Director | Shares: 300000 | Value: $54,081,000.0 | Percent: 0.138931% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006556/0001950047-25-006556.txt
