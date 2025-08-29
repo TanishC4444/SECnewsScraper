@@ -2358,3 +2358,5 @@
 2025-08-29 19:37:57 | Forminard Elizabeth | Officer | Shares: 9570 | Value: $1,695,805.91 | Percent: 0.000397% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005640/0001959173-25-005640.txt
 2025-08-29 19:47:22 | McMahon Robert W. | Former Officer | Shares: 28081 | Value: $3,508,993.3 | Percent: 0.009885% | Link: https://www.sec.gov/Archives/edgar/data/1608730/000195917325005641/0001959173-25-005641.txt
 2025-08-29 19:47:23 | McMahon Robert W. | Former Officer | Shares: 28081 | Value: $3,508,993.3 | Percent: 0.009885% | Link: https://www.sec.gov/Archives/edgar/data/1090872/000195917325005641/0001959173-25-005641.txt
+2025-08-29 19:56:34 | Fisher David | Officer | Shares: 10000 | Value: $1,210,000.0 | Percent: 0.039980% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000200731725001001/0002007317-25-001001.txt
+2025-08-29 19:56:35 | Fisher David | Officer | Shares: 10000 | Value: $1,210,000.0 | Percent: 0.039980% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000200731725001001/0002007317-25-001001.txt
