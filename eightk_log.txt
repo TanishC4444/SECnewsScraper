@@ -2944,3 +2944,13 @@
 2025-08-29 11:41:16 | 8-K - HOPE BANCORP INC (0001128361) (Filer) | 2025-08-29T07:36:10-04:00 | https://www.sec.gov/Archives/edgar/data/1128361/000112836125000039/0001128361-25-000039.txt
 2025-08-29 11:41:17 | 8-K - Crocs, Inc. (0001334036) (Filer) | 2025-08-29T07:31:50-04:00 | https://www.sec.gov/Archives/edgar/data/1334036/000133403625000094/0001334036-25-000094.txt
 2025-08-29 11:59:43 | 8-K - CVR ENERGY INC (0001376139) (Filer) | 2025-08-29T07:56:25-04:00 | https://www.sec.gov/Archives/edgar/data/1376139/000137613925000048/0001376139-25-000048.txt
+2025-08-29 12:51:46 | 8-K - Balance Labs, Inc. (0001632121) (Filer) | 2025-08-29T08:45:35-04:00 | https://www.sec.gov/Archives/edgar/data/1632121/000164117225025898/0001641172-25-025898.txt
+2025-08-29 12:51:48 | 8-K - TrueCar, Inc. (0001327318) (Filer) | 2025-08-29T08:38:47-04:00 | https://www.sec.gov/Archives/edgar/data/1327318/000132731825000040/0001327318-25-000040.txt
+2025-08-29 12:51:50 | 8-K - Strata Critical Medical, Inc. (0001779128) (Filer) | 2025-08-29T08:31:46-04:00 | https://www.sec.gov/Archives/edgar/data/1779128/000110465925085185/0001104659-25-085185.txt
+2025-08-29 12:51:52 | 8-K - RICHTECH ROBOTICS INC. (0001963685) (Filer) | 2025-08-29T08:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1963685/000121390025082097/0001213900-25-082097.txt
+2025-08-29 12:51:55 | 8-K - Joby Aviation, Inc. (0001819848) (Filer) | 2025-08-29T08:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/1819848/000181984825000516/0001819848-25-000516.txt
+2025-08-29 12:51:55 | 8-K/A - Strata Critical Medical, Inc. (0001779128) (Filer) | 2025-08-29T08:29:50-04:00 | https://www.sec.gov/Archives/edgar/data/1779128/000110465925085182/0001104659-25-085182.txt
+2025-08-29 12:51:57 | 8-K - BGO Industrial Real Estate Income Trust, Inc. (0001942722) (Filer) | 2025-08-29T08:29:35-04:00 | https://www.sec.gov/Archives/edgar/data/1942722/000194272225000039/0001942722-25-000039.txt
+2025-08-29 12:51:59 | 8-K - Nukkleus Inc. (0001787518) (Filer) | 2025-08-29T08:13:57-04:00 | https://www.sec.gov/Archives/edgar/data/1787518/000121390025082085/0001213900-25-082085.txt
+2025-08-29 12:52:01 | 8-K - Wheels Up Experience Inc. (0001819516) (Filer) | 2025-08-29T08:10:38-04:00 | https://www.sec.gov/Archives/edgar/data/1819516/000110465925085165/0001104659-25-085165.txt
+2025-08-29 12:52:03 | 8-K - Marpai, Inc. (0001844392) (Filer) | 2025-08-29T08:00:54-04:00 | https://www.sec.gov/Archives/edgar/data/1844392/000121390025082077/0001213900-25-082077.txt
