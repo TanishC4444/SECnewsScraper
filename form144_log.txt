@@ -2320,3 +2320,7 @@
 2025-08-29 14:23:27 | CASEY BRIAN O | Officer | Shares: 20317 | Value: $365,502.0 | Percent: 0.215952% | Link: https://www.sec.gov/Archives/edgar/data/1165002/000194984625000433/0001949846-25-000433.txt
 2025-08-29 14:23:28 | Ancher-Jensen Henrik | Former Officer | Shares: 21644 | Value: $2,706,365.76 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1592501/000195917325005614/0001959173-25-005614.txt
 2025-08-29 14:23:29 | Ancher-Jensen Henrik | Former Officer | Shares: 21644 | Value: $2,706,365.76 | Percent: 0.007619% | Link: https://www.sec.gov/Archives/edgar/data/1090872/000195917325005614/0001959173-25-005614.txt
+2025-08-29 14:40:06 | GOLDMAN JAMES A | Director | Shares: 5072 | Value: $487,836.41 | Percent: 0.010646% | Link: https://www.sec.gov/Archives/edgar/data/1194070/000195917325005618/0001959173-25-005618.txt
+2025-08-29 14:40:07 | GOLDMAN JAMES A | Director | Shares: 5072 | Value: $487,836.41 | Percent: 0.010646% | Link: https://www.sec.gov/Archives/edgar/data/1018840/000195917325005618/0001959173-25-005618.txt
+2025-08-29 14:40:09 | Pryor Paula A. | Officer | Shares: 5336 | Value: $459,963.2 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/1811383/000195917325005617/0001959173-25-005617.txt
+2025-08-29 14:40:10 | Pryor Paula A. | Officer | Shares: 5336 | Value: $459,963.2 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/1497770/000195917325005617/0001959173-25-005617.txt
