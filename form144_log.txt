@@ -2388,3 +2388,9 @@
 2025-08-29 21:11:46 | Blecharczyk Nathan | Officer | Shares: 107693 | Value: $14,004,450.84 | Percent: 0.025099% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325005647/0001959173-25-005647.txt
 2025-08-29 21:11:48 | RICHARD DANIELS | Director | Shares: 18248 | Value: $138,887.35 | Percent: 0.012380% | Link: https://www.sec.gov/Archives/edgar/data/1830164/000195004725006570/0001950047-25-006570.txt
 2025-08-29 21:11:49 | RICHARD DANIELS | Director | Shares: 18248 | Value: $138,887.35 | Percent: 0.012380% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725006570/0001950047-25-006570.txt
+2025-08-29 21:27:31 | Singleton Jake | Officer | Shares: 12000 | Value: $127,920.0 | Percent: 0.078227% | Link: https://www.sec.gov/Archives/edgar/data/1758428/000197407825000282/0001974078-25-000282.txt
+2025-08-29 21:27:32 | Singleton Jake | Officer | Shares: 12000 | Value: $127,920.0 | Percent: 0.078227% | Link: https://www.sec.gov/Archives/edgar/data/1612630/000197407825000282/0001974078-25-000282.txt
+2025-08-29 21:27:34 | TAMIR POLEG | Officer | Shares: 194098 | Value: $1,040,989.2 | Percent: 0.092737% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725006571/0001950047-25-006571.txt
+2025-08-29 21:27:36 | TAMIR POLEG | Officer | Shares: 194098 | Value: $1,040,989.2 | Percent: 0.092737% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725006571/0001950047-25-006571.txt
+2025-08-29 21:27:37 | Deborah McDaniel-Hand | Officer | Shares: 100000 | Value: $500,000.0 | Percent: 0.293128% | Link: https://www.sec.gov/Archives/edgar/data/1980895/000164117225026050/0001641172-25-026050.txt
+2025-08-29 21:27:39 | Deborah McDaniel-Hand | Officer | Shares: 100000 | Value: $500,000.0 | Percent: 0.293128% | Link: https://www.sec.gov/Archives/edgar/data/1956744/000164117225026050/0001641172-25-026050.txt
