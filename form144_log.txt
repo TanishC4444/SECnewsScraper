@@ -2308,3 +2308,5 @@
 2025-08-28 22:36:12 | William E. Brown | Chairman, 10% Shareholder | Shares: 100000 | Value: $3,266,000.0 | Percent: 0.193729% | Link: https://www.sec.gov/Archives/edgar/data/887733/000196858225000827/0001968582-25-000827.txt
 2025-08-28 23:40:12 | Maksim Rafael Levchin | Officer/Director | Shares: 348286 | Value: $27,923,168.0 | Percent: 0.123582% | Link: https://www.sec.gov/Archives/edgar/data/1820953/000196858225000829/0001968582-25-000829.txt
 2025-08-28 23:40:13 | Maksim Rafael Levchin | Officer/Director | Shares: 348286 | Value: $27,923,168.0 | Percent: 0.123582% | Link: https://www.sec.gov/Archives/edgar/data/1539853/000196858225000829/0001968582-25-000829.txt
+2025-08-29 01:48:27 | Thurman J Rodgers | Director | Shares: 1914466 | Value: $2,641,963.0 | Percent: 6.548927% | Link: https://www.sec.gov/Archives/edgar/data/1828318/000196922325000683/0001969223-25-000683.txt
+2025-08-29 01:48:28 | Thurman J Rodgers | Director | Shares: 1914466 | Value: $2,641,963.0 | Percent: 6.548927% | Link: https://www.sec.gov/Archives/edgar/data/1183967/000196922325000683/0001969223-25-000683.txt
