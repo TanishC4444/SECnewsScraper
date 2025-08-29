@@ -2370,3 +2370,9 @@
 2025-08-29 20:19:34 | EMILIANO KARGIEMAN | Officer | Shares: 29770 | Value: $111,637.5 | Percent: 0.031342% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725006557/0001950047-25-006557.txt
 2025-08-29 20:19:35 | EMILIANO KARGIEMAN | Officer | Shares: 29770 | Value: $111,637.5 | Percent: 0.031342% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725006557/0001950047-25-006557.txt
 2025-08-29 20:19:36 | TJ CAPITAL INVESTORS LLC | Director | Shares: 300000 | Value: $54,081,000.0 | Percent: 0.138931% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006556/0001950047-25-006556.txt
+2025-08-29 20:34:20 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,084,530.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001052/0001921094-25-001052.txt
+2025-08-29 20:34:21 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,084,530.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001052/0001921094-25-001052.txt
+2025-08-29 20:34:21 | James Cameron | Officer | Shares: 10325 | Value: $2,338,091.0 | Percent: 0.021217% | Link: https://www.sec.gov/Archives/edgar/data/1816354/000196922325000692/0001969223-25-000692.txt
+2025-08-29 20:34:22 | James Cameron | Officer | Shares: 10325 | Value: $2,338,091.0 | Percent: 0.021217% | Link: https://www.sec.gov/Archives/edgar/data/929008/000196922325000692/0001969223-25-000692.txt
+2025-08-29 20:34:24 | Bracken Franklin | Officer | Shares: 14922 | Value: $366,133.08 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/1819883/000195917325005646/0001959173-25-005646.txt
+2025-08-29 20:34:28 | Bracken Franklin | Officer | Shares: 14922 | Value: $366,133.08 | Percent: 0.015662% | Link: https://www.sec.gov/Archives/edgar/data/850209/000195917325005646/0001959173-25-005646.txt
