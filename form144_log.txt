@@ -2406,3 +2406,5 @@
 2025-08-29 22:32:46 | Grace Wong-Sarad | Officer | Shares: 5717 | Value: $13,434.95 | Percent: 0.005649% | Link: https://www.sec.gov/Archives/edgar/data/1653087/000207466725000003/0002074667-25-000003.txt
 2025-08-29 22:52:31 | Moore Duncan | Director | Shares: 75000 | Value: $789,750.0 | Percent: 0.081599% | Link: https://www.sec.gov/Archives/edgar/data/1921865/000147793225006444/0001477932-25-006444.txt
 2025-08-29 22:52:32 | Moore Duncan | Director | Shares: 75000 | Value: $789,750.0 | Percent: 0.081599% | Link: https://www.sec.gov/Archives/edgar/data/1888265/000147793225006444/0001477932-25-006444.txt
+2025-08-30 01:14:52 | Benedetto Masi | Officer | Shares: 15000 | Value: $823,773.0 | Percent: 0.010046% | Link: https://www.sec.gov/Archives/edgar/data/2067260/000095014225002334/0000950142-25-002334.txt
+2025-08-30 01:14:53 | Benedetto Masi | Officer | Shares: 15000 | Value: $823,773.0 | Percent: 0.010046% | Link: https://www.sec.gov/Archives/edgar/data/1061894/000095014225002334/0000950142-25-002334.txt
