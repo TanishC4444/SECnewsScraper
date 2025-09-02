@@ -2510,3 +2510,7 @@
 2025-09-02 22:51:36 | Ong Geok Chin | Member of immediate family of any of the foregoing | Shares: 12700 | Value: $571,500.0 | Percent: 0.024375% | Link: https://www.sec.gov/Archives/edgar/data/1611005/000208313925000002/0002083139-25-000002.txt
 2025-09-02 23:00:38 | Leandro Bousquet Viana | Affiliate | Shares: 213327 | Value: $2,137,536.54 | Percent: 0.430267% | Link: https://www.sec.gov/Archives/edgar/data/2028291/000196858225000843/0001968582-25-000843.txt
 2025-09-02 23:00:39 | Leandro Bousquet Viana | Affiliate | Shares: 213327 | Value: $2,137,536.54 | Percent: 0.430267% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000196858225000843/0001968582-25-000843.txt
+2025-09-02 23:21:47 | MEF Holdings, LLLP | Shareholder | Shares: 1200000 | Value: $41,567,614.8 | Percent: 0.288539% | Link: https://www.sec.gov/Archives/edgar/data/1796209/000200731725001017/0002007317-25-001017.txt
+2025-09-02 23:21:48 | MEF Holdings, LLLP | Shareholder | Shares: 1200000 | Value: $41,567,614.8 | Percent: 0.288539% | Link: https://www.sec.gov/Archives/edgar/data/1725761/000200731725001017/0002007317-25-001017.txt
+2025-09-02 23:21:50 | Scott A. Bibaud | Officer - CEO and President | Shares: 9314 | Value: $29,437.09 | Percent: 0.029584% | Link: https://www.sec.gov/Archives/edgar/data/1464249/000168316825006636/0001683168-25-006636.txt
+2025-09-02 23:21:52 | Scott A. Bibaud | Officer - CEO and President | Shares: 9314 | Value: $29,437.09 | Percent: 0.029584% | Link: https://www.sec.gov/Archives/edgar/data/1420520/000168316825006636/0001683168-25-006636.txt
