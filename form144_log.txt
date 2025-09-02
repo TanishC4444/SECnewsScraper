@@ -2452,3 +2452,5 @@
 2025-09-02 18:30:26 | WEIL MEREDITH S | Officer | Shares: 15000 | Value: $205,200.0 | Percent: 0.005344% | Link: https://www.sec.gov/Archives/edgar/data/1381668/000194984625000438/0001949846-25-000438.txt
 2025-09-02 18:30:27 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $6,800,820.0 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1868272/000195917325005685/0001959173-25-005685.txt
 2025-09-02 18:30:28 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $6,800,820.0 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005685/0001959173-25-005685.txt
+2025-09-02 18:48:03 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $828,600.0 | Percent: 0.013014% | Link: https://www.sec.gov/Archives/edgar/data/1687897/000195917325005687/0001959173-25-005687.txt
+2025-09-02 18:48:04 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $828,600.0 | Percent: 0.013014% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325005687/0001959173-25-005687.txt
