@@ -2412,3 +2412,5 @@
 2025-09-02 10:39:38 | Fan Min | Director | Shares: 70000 | Value: $4,544,400.0 | Percent: 0.010715% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000173839625000026/0001738396-25-000026.txt
 2025-09-02 11:21:33 | Geddes Nicholas Campbell | Officer | Shares: 150000 | Value: $207,000.0 | Percent: 0.069516% | Link: https://www.sec.gov/Archives/edgar/data/2008262/000197640825000285/0001976408-25-000285.txt
 2025-09-02 11:21:34 | Geddes Nicholas Campbell | Officer | Shares: 150000 | Value: $207,000.0 | Percent: 0.069516% | Link: https://www.sec.gov/Archives/edgar/data/1643303/000197640825000285/0001976408-25-000285.txt
+2025-09-02 12:55:59 | Gavin Wood | Chief Financial Officer | Shares: 16000 | Value: $942.4 | Percent: 0.006249% | Link: https://www.sec.gov/Archives/edgar/data/1621227/000110465925086007/0001104659-25-086007.txt
+2025-09-02 12:56:03 | Gavin Wood | Chief Financial Officer | Shares: 16000 | Value: $942.4 | Percent: 0.006249% | Link: https://www.sec.gov/Archives/edgar/data/1577539/000110465925086007/0001104659-25-086007.txt
