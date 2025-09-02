@@ -2458,3 +2458,5 @@
 2025-09-02 19:15:44 | Welgus Howard G. | Director | Shares: 10000 | Value: $156,083.0 | Percent: 0.008340% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725001006/0002007317-25-001006.txt
 2025-09-02 19:15:46 | Degnan Christopher William | Former Officer | Shares: 7188 | Value: $1,681,992.0 | Percent: 0.002154% | Link: https://www.sec.gov/Archives/edgar/data/1821732/000195917325005689/0001959173-25-005689.txt
 2025-09-02 19:15:47 | Degnan Christopher William | Former Officer | Shares: 7188 | Value: $1,681,992.0 | Percent: 0.002154% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005689/0001959173-25-005689.txt
+2025-09-02 19:26:15 | Dillow Stacy L | Officer | Shares: 30000 | Value: $1,200,000.0 | Percent: 0.018557% | Link: https://www.sec.gov/Archives/edgar/data/1788574/000200731725001007/0002007317-25-001007.txt
+2025-09-02 19:26:16 | Dillow Stacy L | Officer | Shares: 30000 | Value: $1,200,000.0 | Percent: 0.018557% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725001007/0002007317-25-001007.txt
