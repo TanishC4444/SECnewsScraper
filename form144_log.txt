@@ -2474,3 +2474,9 @@
 2025-09-02 20:17:33 | STEVEN L CHAPMAN | Officer | Shares: 5079 | Value: $845,794.7 | Percent: 0.003701% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725006609/0001950047-25-006609.txt
 2025-09-02 20:31:57 | Guyer William | Officer | Shares: 20000 | Value: $1,394,400.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1879013/000197325125000063/0001973251-25-000063.txt
 2025-09-02 20:31:58 | Guyer William | Officer | Shares: 20000 | Value: $1,394,400.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000063/0001973251-25-000063.txt
+2025-09-02 20:42:39 | SHADRAK KROEGER | Officer | Shares: 23850 | Value: $4,841,375.9 | Percent: 0.008072% | Link: https://www.sec.gov/Archives/edgar/data/1724314/000195004725006670/0001950047-25-006670.txt
+2025-09-02 20:42:40 | SHADRAK KROEGER | Officer | Shares: 23850 | Value: $4,841,375.9 | Percent: 0.008072% | Link: https://www.sec.gov/Archives/edgar/data/1385157/000195004725006670/0001950047-25-006670.txt
+2025-09-02 20:42:42 | Geary Richard S | Officer | Shares: 10000 | Value: $503,671.0 | Percent: 0.006274% | Link: https://www.sec.gov/Archives/edgar/data/1442730/000197248125000185/0001972481-25-000185.txt
+2025-09-02 20:42:43 | Geary Richard S | Officer | Shares: 10000 | Value: $503,671.0 | Percent: 0.006274% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000185/0001972481-25-000185.txt
+2025-09-02 20:42:44 | The Gardner 2008 Living Trust dated March 22, 2008 | Director | Shares: 750000 | Value: $4,773,750.0 | Percent: 0.180735% | Link: https://www.sec.gov/Archives/edgar/data/1864306/000195004725006668/0001950047-25-006668.txt
+2025-09-02 20:42:45 | The Gardner 2008 Living Trust dated March 22, 2008 | Director | Shares: 750000 | Value: $4,773,750.0 | Percent: 0.180735% | Link: https://www.sec.gov/Archives/edgar/data/1522540/000195004725006668/0001950047-25-006668.txt
