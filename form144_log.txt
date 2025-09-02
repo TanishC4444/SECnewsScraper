@@ -2472,3 +2472,5 @@
 2025-09-02 19:55:32 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $174,720.0 | Percent: 0.009000% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005697/0001959173-25-005697.txt
 2025-09-02 20:17:32 | STEVEN L CHAPMAN | Officer | Shares: 5079 | Value: $845,794.7 | Percent: 0.003701% | Link: https://www.sec.gov/Archives/edgar/data/1711968/000195004725006609/0001950047-25-006609.txt
 2025-09-02 20:17:33 | STEVEN L CHAPMAN | Officer | Shares: 5079 | Value: $845,794.7 | Percent: 0.003701% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725006609/0001950047-25-006609.txt
+2025-09-02 20:31:57 | Guyer William | Officer | Shares: 20000 | Value: $1,394,400.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1879013/000197325125000063/0001973251-25-000063.txt
+2025-09-02 20:31:58 | Guyer William | Officer | Shares: 20000 | Value: $1,394,400.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000063/0001973251-25-000063.txt
