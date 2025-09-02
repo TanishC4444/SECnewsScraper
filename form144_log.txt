@@ -2444,3 +2444,7 @@
 2025-09-02 16:38:43 | Hayden Phillip Brady | Officer | Shares: 16149 | Value: $73,639.44 | Percent: 0.027877% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000195917325005674/0001959173-25-005674.txt
 2025-09-02 16:38:45 | Hopper Jonathan Mark | Officer | Shares: 10000 | Value: $357,700.0 | Percent: 0.019818% | Link: https://www.sec.gov/Archives/edgar/data/1626325/000195917325005671/0001959173-25-005671.txt
 2025-09-02 16:38:46 | Hopper Jonathan Mark | Officer | Shares: 10000 | Value: $357,700.0 | Percent: 0.019818% | Link: https://www.sec.gov/Archives/edgar/data/887359/000195917325005671/0001959173-25-005671.txt
+2025-09-02 17:08:36 | Phillips Ronald L | Officer | Shares: 7351 | Value: $595,431.0 | Percent: 0.001537% | Link: https://www.sec.gov/Archives/edgar/data/1861524/000195917325005677/0001959173-25-005677.txt
+2025-09-02 17:08:37 | Phillips Ronald L | Officer | Shares: 7351 | Value: $595,431.0 | Percent: 0.001537% | Link: https://www.sec.gov/Archives/edgar/data/96021/000195917325005677/0001959173-25-005677.txt
+2025-09-02 17:08:39 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,500,338.77 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1834366/000200731725001003/0002007317-25-001003.txt
+2025-09-02 17:08:40 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,500,338.77 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725001003/0002007317-25-001003.txt
