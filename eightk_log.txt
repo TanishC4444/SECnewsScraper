@@ -3108,3 +3108,11 @@
 2025-09-02 19:26:12 | 8-K - Elite Health Systems Inc. (0001089815) (Filer) | 2025-09-02T15:25:22-04:00 | https://www.sec.gov/Archives/edgar/data/1089815/000143774925028131/0001437749-25-028131.txt
 2025-09-02 19:37:09 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-02T15:35:20-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000197/0001331465-25-000197.txt
 2025-09-02 19:37:10 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-02T15:33:23-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000161/0001331757-25-000161.txt
+2025-09-02 20:17:18 | 8-K - UDR, Inc. (0000074208) (Filer) | 2025-09-02T16:16:50-04:00 | https://www.sec.gov/Archives/edgar/data/74208/000007420825000059/0000074208-25-000059.txt
+2025-09-02 20:17:20 | 8-K - Pacific Coast Oil Trust (0001538822) (Filer) | 2025-09-02T16:16:46-04:00 | https://www.sec.gov/Archives/edgar/data/1538822/000110465925086379/0001104659-25-086379.txt
+2025-09-02 20:17:21 | 8-K - Nauticus Robotics, Inc. (0001849820) (Filer) | 2025-09-02T16:16:11-04:00 | https://www.sec.gov/Archives/edgar/data/1849820/000184982025000227/0001849820-25-000227.txt
+2025-09-02 20:17:23 | 8-K - FB Financial Corp (0001649749) (Filer) | 2025-09-02T16:15:34-04:00 | https://www.sec.gov/Archives/edgar/data/1649749/000164974925000194/0001649749-25-000194.txt
+2025-09-02 20:17:25 | 8-K - PATHWARD FINANCIAL, INC. (0000907471) (Filer) | 2025-09-02T16:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/907471/000090747125000088/0000907471-25-000088.txt
+2025-09-02 20:17:26 | 8-K/A - QT IMAGING HOLDINGS, INC. (0001844505) (Filer) | 2025-09-02T16:15:04-04:00 | https://www.sec.gov/Archives/edgar/data/1844505/000184450525000121/0001844505-25-000121.txt
+2025-09-02 20:17:28 | 8-K - Pebblebrook Hotel Trust (0001474098) (Filer) | 2025-09-02T16:14:20-04:00 | https://www.sec.gov/Archives/edgar/data/1474098/000147409825000123/0001474098-25-000123.txt
+2025-09-02 20:17:30 | 8-K - AVIAT NETWORKS, INC. (0001377789) (Filer) | 2025-09-02T16:14:06-04:00 | https://www.sec.gov/Archives/edgar/data/1377789/000137778925000040/0001377789-25-000040.txt

@@ -2470,3 +2470,5 @@
 2025-09-02 19:55:29 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/924719/000197407825000283/0001974078-25-000283.txt
 2025-09-02 19:55:31 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $174,720.0 | Percent: 0.009000% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325005697/0001959173-25-005697.txt
 2025-09-02 19:55:32 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $174,720.0 | Percent: 0.009000% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005697/0001959173-25-005697.txt
+2025-09-02 20:17:32 | STEVEN L CHAPMAN | Officer | Shares: 5079 | Value: $845,794.7 | Percent: 0.003701% | Link: https://www.sec.gov/Archives/edgar/data/1711968/000195004725006609/0001950047-25-006609.txt
+2025-09-02 20:17:33 | STEVEN L CHAPMAN | Officer | Shares: 5079 | Value: $845,794.7 | Percent: 0.003701% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725006609/0001950047-25-006609.txt
