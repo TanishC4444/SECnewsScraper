@@ -2500,3 +2500,7 @@
 2025-09-02 21:31:51 | WHEELER CARRIE | Former Affiliate | Shares: 7000000 | Value: $34,951,350.0 | Percent: 0.951146% | Link: https://www.sec.gov/Archives/edgar/data/1126013/000195004725006683/0001950047-25-006683.txt
 2025-09-02 21:31:52 | STEVEN VATTUONE | Officer | Shares: 29475 | Value: $165,142.53 | Percent: 0.069670% | Link: https://www.sec.gov/Archives/edgar/data/1335061/000195004725006682/0001950047-25-006682.txt
 2025-09-02 21:31:53 | STEVEN VATTUONE | Officer | Shares: 29475 | Value: $165,142.53 | Percent: 0.069670% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725006682/0001950047-25-006682.txt
+2025-09-02 21:40:41 | Swayze Eric | Officer | Shares: 11130 | Value: $552,865.0 | Percent: 0.006983% | Link: https://www.sec.gov/Archives/edgar/data/1791058/000197248125000187/0001972481-25-000187.txt
+2025-09-02 21:40:42 | Swayze Eric | Officer | Shares: 11130 | Value: $552,865.0 | Percent: 0.006983% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000187/0001972481-25-000187.txt
+2025-09-02 21:40:45 | JAMES BLACKIE | Officer | Shares: 25305 | Value: $141,778.85 | Percent: 0.059814% | Link: https://www.sec.gov/Archives/edgar/data/1841671/000195004725006684/0001950047-25-006684.txt
+2025-09-02 21:40:46 | JAMES BLACKIE | Officer | Shares: 25305 | Value: $141,778.85 | Percent: 0.059814% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725006684/0001950047-25-006684.txt
