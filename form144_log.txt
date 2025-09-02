@@ -2496,3 +2496,7 @@
 2025-09-02 21:02:23 | HUDSON DAWN E | Director | Shares: 72000 | Value: $12,285,063.0 | Percent: 0.000296% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001069/0001921094-25-001069.txt
 2025-09-02 21:02:25 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,723,420.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001068/0001921094-25-001068.txt
 2025-09-02 21:02:26 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,723,420.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001068/0001921094-25-001068.txt
+2025-09-02 21:31:50 | WHEELER CARRIE | Former Affiliate | Shares: 7000000 | Value: $34,951,350.0 | Percent: 0.951146% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000195004725006683/0001950047-25-006683.txt
+2025-09-02 21:31:51 | WHEELER CARRIE | Former Affiliate | Shares: 7000000 | Value: $34,951,350.0 | Percent: 0.951146% | Link: https://www.sec.gov/Archives/edgar/data/1126013/000195004725006683/0001950047-25-006683.txt
+2025-09-02 21:31:52 | STEVEN VATTUONE | Officer | Shares: 29475 | Value: $165,142.53 | Percent: 0.069670% | Link: https://www.sec.gov/Archives/edgar/data/1335061/000195004725006682/0001950047-25-006682.txt
+2025-09-02 21:31:53 | STEVEN VATTUONE | Officer | Shares: 29475 | Value: $165,142.53 | Percent: 0.069670% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725006682/0001950047-25-006682.txt

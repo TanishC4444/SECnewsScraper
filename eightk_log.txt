@@ -3151,3 +3151,7 @@
 2025-09-02 21:22:31 | 8-K/A - 3D SYSTEMS CORP (0000910638) (Filer) | 2025-09-02T17:18:51-04:00 | https://www.sec.gov/Archives/edgar/data/910638/000119312525194137/0001193125-25-194137.txt
 2025-09-02 21:22:33 | 8-K - Great Elm Group, Inc. (0001831096) (Filer) | 2025-09-02T17:18:43-04:00 | https://www.sec.gov/Archives/edgar/data/1831096/000119312525194136/0001193125-25-194136.txt
 2025-09-02 21:22:36 | 8-K - DORCHESTER MINERALS, L.P. (0001172358) (Filer) | 2025-09-02T17:18:14-04:00 | https://www.sec.gov/Archives/edgar/data/1172358/000143774925028172/0001437749-25-028172.txt
+2025-09-02 21:31:44 | 8-K - Transportation & Logistics Systems, Inc. (0001463208) (Filer) | 2025-09-02T17:28:21-04:00 | https://www.sec.gov/Archives/edgar/data/1463208/000149315225012569/0001493152-25-012569.txt
+2025-09-02 21:31:46 | 8-K - Nukkleus Inc. (0001787518) (Filer) | 2025-09-02T17:27:49-04:00 | https://www.sec.gov/Archives/edgar/data/1787518/000121390025083514/0001213900-25-083514.txt
+2025-09-02 21:31:47 | 8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer) | 2025-09-02T17:26:12-04:00 | https://www.sec.gov/Archives/edgar/data/1637880/000163788025000045/0001637880-25-000045.txt
+2025-09-02 21:31:48 | 8-K - Dream Finders Homes, Inc. (0001825088) (Filer) | 2025-09-02T17:23:06-04:00 | https://www.sec.gov/Archives/edgar/data/1825088/000182508825000064/0001825088-25-000064.txt
