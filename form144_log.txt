@@ -2410,3 +2410,5 @@
 2025-08-30 01:14:53 | Benedetto Masi | Officer | Shares: 15000 | Value: $823,773.0 | Percent: 0.010046% | Link: https://www.sec.gov/Archives/edgar/data/1061894/000095014225002334/0000950142-25-002334.txt
 2025-09-02 10:39:37 | Fan Min | Director | Shares: 70000 | Value: $4,544,400.0 | Percent: 0.010715% | Link: https://www.sec.gov/Archives/edgar/data/1972457/000173839625000026/0001738396-25-000026.txt
 2025-09-02 10:39:38 | Fan Min | Director | Shares: 70000 | Value: $4,544,400.0 | Percent: 0.010715% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000173839625000026/0001738396-25-000026.txt
+2025-09-02 11:21:33 | Geddes Nicholas Campbell | Officer | Shares: 150000 | Value: $207,000.0 | Percent: 0.069516% | Link: https://www.sec.gov/Archives/edgar/data/2008262/000197640825000285/0001976408-25-000285.txt
+2025-09-02 11:21:34 | Geddes Nicholas Campbell | Officer | Shares: 150000 | Value: $207,000.0 | Percent: 0.069516% | Link: https://www.sec.gov/Archives/edgar/data/1643303/000197640825000285/0001976408-25-000285.txt
