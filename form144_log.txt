@@ -2416,3 +2416,5 @@
 2025-09-02 12:56:03 | Gavin Wood | Chief Financial Officer | Shares: 16000 | Value: $942.4 | Percent: 0.006249% | Link: https://www.sec.gov/Archives/edgar/data/1577539/000110465925086007/0001104659-25-086007.txt
 2025-09-02 13:46:50 | Robusto Dino | Officer | Shares: 6250 | Value: $306,250.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/1348889/000195917325005648/0001959173-25-005648.txt
 2025-09-02 13:46:51 | Robusto Dino | Officer | Shares: 6250 | Value: $306,250.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325005648/0001959173-25-005648.txt
+2025-09-02 13:56:08 | Nguyen Heidi | Member of immediate family of any of the foregoing | Shares: 22993 | Value: $114,160.25 | Percent: 0.058729% | Link: https://www.sec.gov/Archives/edgar/data/1894926/000194984625000434/0001949846-25-000434.txt
+2025-09-02 13:56:08 | Nguyen Heidi | Member of immediate family of any of the foregoing | Shares: 22993 | Value: $114,160.25 | Percent: 0.058729% | Link: https://www.sec.gov/Archives/edgar/data/1114925/000194984625000434/0001949846-25-000434.txt
