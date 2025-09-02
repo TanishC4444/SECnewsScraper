@@ -2438,3 +2438,5 @@
 2025-09-02 15:29:02 | Elkins David V | Officer | Shares: 56000 | Value: $2,648,800.0 | Percent: 0.002751% | Link: https://www.sec.gov/Archives/edgar/data/14272/000195917325005660/0001959173-25-005660.txt
 2025-09-02 15:43:15 | Cervellione Marty | Former General Manager of Piedmont | Shares: 9375 | Value: $353,718.75 | Percent: 0.085692% | Link: https://www.sec.gov/Archives/edgar/data/2036105/000197640825000287/0001976408-25-000287.txt
 2025-09-02 15:43:16 | Cervellione Marty | Former General Manager of Piedmont | Shares: 9375 | Value: $353,718.75 | Percent: 0.085692% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000287/0001976408-25-000287.txt
+2025-09-02 16:12:05 | ROCHE VINCENT | Officer | Shares: 10000 | Value: $2,465,000.0 | Percent: 0.002033% | Link: https://www.sec.gov/Archives/edgar/data/1201872/000195917325005668/0001959173-25-005668.txt
+2025-09-02 16:12:06 | ROCHE VINCENT | Officer | Shares: 10000 | Value: $2,465,000.0 | Percent: 0.002033% | Link: https://www.sec.gov/Archives/edgar/data/6281/000195917325005668/0001959173-25-005668.txt
