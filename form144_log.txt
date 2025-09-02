@@ -2508,3 +2508,5 @@
 2025-09-02 22:20:18 | Paul B. Murphy Jr. | Director | Shares: 10000 | Value: $244,000.0 | Percent: 0.009979% | Link: https://www.sec.gov/Archives/edgar/data/73756/000196858225000840/0001968582-25-000840.txt
 2025-09-02 22:51:35 | Ong Geok Chin | Member of immediate family of any of the foregoing | Shares: 12700 | Value: $571,500.0 | Percent: 0.024375% | Link: https://www.sec.gov/Archives/edgar/data/2083139/000208313925000002/0002083139-25-000002.txt
 2025-09-02 22:51:36 | Ong Geok Chin | Member of immediate family of any of the foregoing | Shares: 12700 | Value: $571,500.0 | Percent: 0.024375% | Link: https://www.sec.gov/Archives/edgar/data/1611005/000208313925000002/0002083139-25-000002.txt
+2025-09-02 23:00:38 | Leandro Bousquet Viana | Affiliate | Shares: 213327 | Value: $2,137,536.54 | Percent: 0.430267% | Link: https://www.sec.gov/Archives/edgar/data/2028291/000196858225000843/0001968582-25-000843.txt
+2025-09-02 23:00:39 | Leandro Bousquet Viana | Affiliate | Shares: 213327 | Value: $2,137,536.54 | Percent: 0.430267% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000196858225000843/0001968582-25-000843.txt
