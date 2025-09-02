@@ -2420,3 +2420,5 @@
 2025-09-02 13:56:08 | Nguyen Heidi | Member of immediate family of any of the foregoing | Shares: 22993 | Value: $114,160.25 | Percent: 0.058729% | Link: https://www.sec.gov/Archives/edgar/data/1114925/000194984625000434/0001949846-25-000434.txt
 2025-09-02 14:18:20 | Black Maria | Officer | Shares: 7721 | Value: $2,328,962.44 | Percent: 0.001906% | Link: https://www.sec.gov/Archives/edgar/data/1608466/000195917325005651/0001959173-25-005651.txt
 2025-09-02 14:18:21 | Black Maria | Officer | Shares: 7721 | Value: $2,328,962.44 | Percent: 0.001906% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005651/0001959173-25-005651.txt
+2025-09-02 14:39:50 | Hamilton Alex P. | Director | Shares: 23095 | Value: $12,935.51 | Percent: 0.197135% | Link: https://www.sec.gov/Archives/edgar/data/1970448/000194984625000435/0001949846-25-000435.txt
+2025-09-02 14:39:51 | Hamilton Alex P. | Director | Shares: 23095 | Value: $12,935.51 | Percent: 0.197135% | Link: https://www.sec.gov/Archives/edgar/data/1650101/000194984625000435/0001949846-25-000435.txt
