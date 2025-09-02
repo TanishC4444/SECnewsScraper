@@ -2504,3 +2504,5 @@
 2025-09-02 21:40:42 | Swayze Eric | Officer | Shares: 11130 | Value: $552,865.0 | Percent: 0.006983% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000187/0001972481-25-000187.txt
 2025-09-02 21:40:45 | JAMES BLACKIE | Officer | Shares: 25305 | Value: $141,778.85 | Percent: 0.059814% | Link: https://www.sec.gov/Archives/edgar/data/1841671/000195004725006684/0001950047-25-006684.txt
 2025-09-02 21:40:46 | JAMES BLACKIE | Officer | Shares: 25305 | Value: $141,778.85 | Percent: 0.059814% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725006684/0001950047-25-006684.txt
+2025-09-02 22:20:17 | Paul B. Murphy Jr. | Director | Shares: 10000 | Value: $244,000.0 | Percent: 0.009979% | Link: https://www.sec.gov/Archives/edgar/data/1185201/000196858225000840/0001968582-25-000840.txt
+2025-09-02 22:20:18 | Paul B. Murphy Jr. | Director | Shares: 10000 | Value: $244,000.0 | Percent: 0.009979% | Link: https://www.sec.gov/Archives/edgar/data/73756/000196858225000840/0001968582-25-000840.txt
