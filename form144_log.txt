@@ -2448,3 +2448,7 @@
 2025-09-02 17:08:37 | Phillips Ronald L | Officer | Shares: 7351 | Value: $595,431.0 | Percent: 0.001537% | Link: https://www.sec.gov/Archives/edgar/data/96021/000195917325005677/0001959173-25-005677.txt
 2025-09-02 17:08:39 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,500,338.77 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1834366/000200731725001003/0002007317-25-001003.txt
 2025-09-02 17:08:40 | ROOSILEHT EINAR | Officer | Shares: 70000 | Value: $1,500,338.77 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725001003/0002007317-25-001003.txt
+2025-09-02 18:30:25 | WEIL MEREDITH S | Officer | Shares: 15000 | Value: $205,200.0 | Percent: 0.005344% | Link: https://www.sec.gov/Archives/edgar/data/1530997/000194984625000438/0001949846-25-000438.txt
+2025-09-02 18:30:26 | WEIL MEREDITH S | Officer | Shares: 15000 | Value: $205,200.0 | Percent: 0.005344% | Link: https://www.sec.gov/Archives/edgar/data/1381668/000194984625000438/0001949846-25-000438.txt
+2025-09-02 18:30:27 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $6,800,820.0 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1868272/000195917325005685/0001959173-25-005685.txt
+2025-09-02 18:30:28 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $6,800,820.0 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005685/0001959173-25-005685.txt

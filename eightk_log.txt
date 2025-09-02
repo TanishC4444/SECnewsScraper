@@ -3104,3 +3104,4 @@
 2025-09-02 17:08:32 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-02T12:56:45-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010300/0001654954-25-010300.txt
 2025-09-02 17:27:48 | 8-K - QHSLab, Inc. (0000856984) (Filer) | 2025-09-02T13:16:07-04:00 | https://www.sec.gov/Archives/edgar/data/856984/000164117225026187/0001641172-25-026187.txt
 2025-09-02 17:27:48 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-02T13:16:06-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000192/0001325878-25-000192.txt
+2025-09-02 18:30:23 | 8-K - Medicus Pharma Ltd. (0001997296) (Filer) | 2025-09-02T14:15:18-04:00 | https://www.sec.gov/Archives/edgar/data/1997296/000106299325015149/0001062993-25-015149.txt
