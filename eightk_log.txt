@@ -3102,3 +3102,5 @@
 2025-09-02 15:52:27 | 8-K - PGIM Private Credit Fund (0001923622) (Filer) | 2025-09-02T11:46:23-04:00 | https://www.sec.gov/Archives/edgar/data/1923622/000095017025112404/0000950170-25-112404.txt
 2025-09-02 16:52:20 | 8-K - MMEX Resources Corp (0001440799) (Filer) | 2025-09-02T12:43:29-04:00 | https://www.sec.gov/Archives/edgar/data/1440799/000147793225006458/0001477932-25-006458.txt
 2025-09-02 17:08:32 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-02T12:56:45-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010300/0001654954-25-010300.txt
+2025-09-02 17:27:48 | 8-K - QHSLab, Inc. (0000856984) (Filer) | 2025-09-02T13:16:07-04:00 | https://www.sec.gov/Archives/edgar/data/856984/000164117225026187/0001641172-25-026187.txt
+2025-09-02 17:27:48 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-02T13:16:06-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000192/0001325878-25-000192.txt
