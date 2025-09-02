@@ -2454,3 +2454,7 @@
 2025-09-02 18:30:28 | Comparato Christopher P | Former Officer and Director | Shares: 156000 | Value: $6,800,820.0 | Percent: 0.030588% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325005685/0001959173-25-005685.txt
 2025-09-02 18:48:03 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $828,600.0 | Percent: 0.013014% | Link: https://www.sec.gov/Archives/edgar/data/1687897/000195917325005687/0001959173-25-005687.txt
 2025-09-02 18:48:04 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $828,600.0 | Percent: 0.013014% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325005687/0001959173-25-005687.txt
+2025-09-02 19:15:42 | Welgus Howard G. | Director | Shares: 10000 | Value: $156,083.0 | Percent: 0.008340% | Link: https://www.sec.gov/Archives/edgar/data/1801050/000200731725001006/0002007317-25-001006.txt
+2025-09-02 19:15:44 | Welgus Howard G. | Director | Shares: 10000 | Value: $156,083.0 | Percent: 0.008340% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000200731725001006/0002007317-25-001006.txt
+2025-09-02 19:15:46 | Degnan Christopher William | Former Officer | Shares: 7188 | Value: $1,681,992.0 | Percent: 0.002154% | Link: https://www.sec.gov/Archives/edgar/data/1821732/000195917325005689/0001959173-25-005689.txt
+2025-09-02 19:15:47 | Degnan Christopher William | Former Officer | Shares: 7188 | Value: $1,681,992.0 | Percent: 0.002154% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005689/0001959173-25-005689.txt
