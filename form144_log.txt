@@ -2422,3 +2422,7 @@
 2025-09-02 14:18:21 | Black Maria | Officer | Shares: 7721 | Value: $2,328,962.44 | Percent: 0.001906% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005651/0001959173-25-005651.txt
 2025-09-02 14:39:50 | Hamilton Alex P. | Director | Shares: 23095 | Value: $12,935.51 | Percent: 0.197135% | Link: https://www.sec.gov/Archives/edgar/data/1970448/000194984625000435/0001949846-25-000435.txt
 2025-09-02 14:39:51 | Hamilton Alex P. | Director | Shares: 23095 | Value: $12,935.51 | Percent: 0.197135% | Link: https://www.sec.gov/Archives/edgar/data/1650101/000194984625000435/0001949846-25-000435.txt
+2025-09-02 14:51:47 | Doyle John Q | Officer | Shares: 21079 | Value: $4,334,896.35 | Percent: 0.004288% | Link: https://www.sec.gov/Archives/edgar/data/1580963/000195917325005655/0001959173-25-005655.txt
+2025-09-02 14:51:48 | Doyle John Q | Officer | Shares: 21079 | Value: $4,334,896.35 | Percent: 0.004288% | Link: https://www.sec.gov/Archives/edgar/data/62709/000195917325005655/0001959173-25-005655.txt
+2025-09-02 14:51:49 | Radulescu Razvan | Officer | Shares: 6709 | Value: $390,000.0 | Percent: 0.021094% | Link: https://www.sec.gov/Archives/edgar/data/1884757/000188475725000020/0001884757-25-000020.txt
+2025-09-02 14:51:50 | Radulescu Razvan | Officer | Shares: 6709 | Value: $390,000.0 | Percent: 0.021094% | Link: https://www.sec.gov/Archives/edgar/data/1589526/000188475725000020/0001884757-25-000020.txt
