@@ -2480,3 +2480,9 @@
 2025-09-02 20:42:43 | Geary Richard S | Officer | Shares: 10000 | Value: $503,671.0 | Percent: 0.006274% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000185/0001972481-25-000185.txt
 2025-09-02 20:42:44 | The Gardner 2008 Living Trust dated March 22, 2008 | Director | Shares: 750000 | Value: $4,773,750.0 | Percent: 0.180735% | Link: https://www.sec.gov/Archives/edgar/data/1864306/000195004725006668/0001950047-25-006668.txt
 2025-09-02 20:42:45 | The Gardner 2008 Living Trust dated March 22, 2008 | Director | Shares: 750000 | Value: $4,773,750.0 | Percent: 0.180735% | Link: https://www.sec.gov/Archives/edgar/data/1522540/000195004725006668/0001950047-25-006668.txt
+2025-09-02 20:52:00 | DOUGLAS BUCKMINSTER | Officer | Shares: 23505 | Value: $7,671,425.57 | Percent: 0.003378% | Link: https://www.sec.gov/Archives/edgar/data/1477675/000195004725006677/0001950047-25-006677.txt
+2025-09-02 20:52:01 | DOUGLAS BUCKMINSTER | Officer | Shares: 23505 | Value: $7,671,425.57 | Percent: 0.003378% | Link: https://www.sec.gov/Archives/edgar/data/4962/000195004725006677/0001950047-25-006677.txt
+2025-09-02 20:52:02 | DIRK ALLISON | Officer | Shares: 25000 | Value: $2,895,722.5 | Percent: 0.135816% | Link: https://www.sec.gov/Archives/edgar/data/1468328/000195004725006676/0001950047-25-006676.txt
+2025-09-02 20:52:03 | DIRK ALLISON | Officer | Shares: 25000 | Value: $2,895,722.5 | Percent: 0.135816% | Link: https://www.sec.gov/Archives/edgar/data/1253500/000195004725006676/0001950047-25-006676.txt
+2025-09-02 20:52:05 | Flammer Martina M.D. | Officer | Shares: 186648 | Value: $26,935,498.0 | Percent: 0.088302% | Link: https://www.sec.gov/Archives/edgar/data/1796960/000200731725001013/0002007317-25-001013.txt
+2025-09-02 20:52:05 | Flammer Martina M.D. | Officer | Shares: 186648 | Value: $26,935,498.0 | Percent: 0.088302% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725001013/0002007317-25-001013.txt
