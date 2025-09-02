@@ -2426,3 +2426,5 @@
 2025-09-02 14:51:48 | Doyle John Q | Officer | Shares: 21079 | Value: $4,334,896.35 | Percent: 0.004288% | Link: https://www.sec.gov/Archives/edgar/data/62709/000195917325005655/0001959173-25-005655.txt
 2025-09-02 14:51:49 | Radulescu Razvan | Officer | Shares: 6709 | Value: $390,000.0 | Percent: 0.021094% | Link: https://www.sec.gov/Archives/edgar/data/1884757/000188475725000020/0001884757-25-000020.txt
 2025-09-02 14:51:50 | Radulescu Razvan | Officer | Shares: 6709 | Value: $390,000.0 | Percent: 0.021094% | Link: https://www.sec.gov/Archives/edgar/data/1589526/000188475725000020/0001884757-25-000020.txt
+2025-09-02 15:00:56 | Bonakdarpour Mahtiyar | Officer | Shares: 5750 | Value: $516,005.0 | Percent: 0.042221% | Link: https://www.sec.gov/Archives/edgar/data/1913361/000195917325005657/0001959173-25-005657.txt
+2025-09-02 15:00:58 | Bonakdarpour Mahtiyar | Officer | Shares: 5750 | Value: $516,005.0 | Percent: 0.042221% | Link: https://www.sec.gov/Archives/edgar/data/1788882/000195917325005657/0001959173-25-005657.txt
