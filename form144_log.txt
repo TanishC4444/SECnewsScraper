@@ -2464,3 +2464,9 @@
 2025-09-02 19:37:11 | Griffith Susan Patricia | Officer | Shares: 30659 | Value: $7,600,672.69 | Percent: 0.005230% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005692/0001959173-25-005692.txt
 2025-09-02 19:46:36 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,335,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1979088/000195917325005696/0001959173-25-005696.txt
 2025-09-02 19:46:37 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,335,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005696/0001959173-25-005696.txt
+2025-09-02 19:55:26 | Wayne DeVeydt | Former Director | Shares: 25000 | Value: $562,000.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000694/0001969223-25-000694.txt
+2025-09-02 19:55:27 | Wayne DeVeydt | Former Director | Shares: 25000 | Value: $562,000.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000694/0001969223-25-000694.txt
+2025-09-02 19:55:28 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/1008220/000197407825000283/0001974078-25-000283.txt
+2025-09-02 19:55:29 | SMITH RODNEY I | 10% Stockholder | Shares: 15000 | Value: $628,350.0 | Percent: 0.282773% | Link: https://www.sec.gov/Archives/edgar/data/924719/000197407825000283/0001974078-25-000283.txt
+2025-09-02 19:55:31 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $174,720.0 | Percent: 0.009000% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325005697/0001959173-25-005697.txt
+2025-09-02 19:55:32 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $174,720.0 | Percent: 0.009000% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005697/0001959173-25-005697.txt
