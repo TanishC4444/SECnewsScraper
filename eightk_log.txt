@@ -3036,3 +3036,13 @@
 2025-08-29 21:37:20 | 8-K - ECD Automotive Design, Inc. (0001922858) (Filer) | 2025-08-29T17:28:08-04:00 | https://www.sec.gov/Archives/edgar/data/1922858/000121390025082698/0001213900-25-082698.txt
 2025-08-29 21:37:22 | 8-K - Kinetic Seas Inc. (0001945619) (Filer) | 2025-08-29T17:27:15-04:00 | https://www.sec.gov/Archives/edgar/data/1945619/000168316825006590/0001683168-25-006590.txt
 2025-08-29 21:37:23 | 8-K - Aterian, Inc. (0001757715) (Filer) | 2025-08-29T17:27:07-04:00 | https://www.sec.gov/Archives/edgar/data/1757715/000143774925028059/0001437749-25-028059.txt
+2025-09-02 10:18:04 | 8-K - EVERTEC, Inc. (0001559865) (Filer) | 2025-09-02T06:15:18-04:00 | https://www.sec.gov/Archives/edgar/data/1559865/000155986525000043/0001559865-25-000043.txt
+2025-09-02 10:18:06 | 8-K - DOW INC. (0001751788) (Filer) | 2025-09-02T06:14:07-04:00 | https://www.sec.gov/Archives/edgar/data/1751788/000119312525193293/0001193125-25-193293.txt
+2025-09-02 10:18:07 | 8-K - DOW CHEMICAL CO /DE/ (0000029915) (Filer) | 2025-09-02T06:14:07-04:00 | https://www.sec.gov/Archives/edgar/data/29915/000119312525193293/0001193125-25-193293.txt
+2025-09-02 10:18:09 | 8-K - CleanCore Solutions, Inc. (0001956741) (Filer) | 2025-09-02T06:14:03-04:00 | https://www.sec.gov/Archives/edgar/data/1956741/000121390025082880/0001213900-25-082880.txt
+2025-09-02 10:18:11 | 8-K - Compass Diversified Holdings (0001345126) (Filer) | 2025-09-02T06:08:44-04:00 | https://www.sec.gov/Archives/edgar/data/1345126/000134512625000050/0001345126-25-000050.txt
+2025-09-02 10:18:11 | 8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer) | 2025-09-02T06:08:44-04:00 | https://www.sec.gov/Archives/edgar/data/1345122/000134512625000050/0001345126-25-000050.txt
+2025-09-02 10:18:13 | 8-K - Midland States Bancorp, Inc. (0001466026) (Filer) | 2025-09-02T06:06:41-04:00 | https://www.sec.gov/Archives/edgar/data/1466026/000110465925085897/0001104659-25-085897.txt
+2025-09-02 10:18:15 | 8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer) | 2025-09-02T06:05:42-04:00 | https://www.sec.gov/Archives/edgar/data/1805521/000121390025082869/0001213900-25-082869.txt
+2025-09-02 10:18:18 | 8-K - DuPont de Nemours, Inc. (0001666700) (Filer) | 2025-09-02T06:05:30-04:00 | https://www.sec.gov/Archives/edgar/data/1666700/000119312525193274/0001193125-25-193274.txt
+2025-09-02 10:18:19 | 8-K - Kraft Heinz Co (0001637459) (Filer) | 2025-09-02T06:05:17-04:00 | https://www.sec.gov/Archives/edgar/data/1637459/000095014225002336/0000950142-25-002336.txt
