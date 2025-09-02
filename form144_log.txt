@@ -2462,3 +2462,5 @@
 2025-09-02 19:26:16 | Dillow Stacy L | Officer | Shares: 30000 | Value: $1,200,000.0 | Percent: 0.018557% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000200731725001007/0002007317-25-001007.txt
 2025-09-02 19:37:11 | Griffith Susan Patricia | Officer | Shares: 30659 | Value: $7,600,672.69 | Percent: 0.005230% | Link: https://www.sec.gov/Archives/edgar/data/1198113/000195917325005692/0001959173-25-005692.txt
 2025-09-02 19:37:11 | Griffith Susan Patricia | Officer | Shares: 30659 | Value: $7,600,672.69 | Percent: 0.005230% | Link: https://www.sec.gov/Archives/edgar/data/80661/000195917325005692/0001959173-25-005692.txt
+2025-09-02 19:46:36 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,335,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1979088/000195917325005696/0001959173-25-005696.txt
+2025-09-02 19:46:37 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,335,000.0 | Percent: 0.002997% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005696/0001959173-25-005696.txt
