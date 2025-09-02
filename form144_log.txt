@@ -2486,3 +2486,13 @@
 2025-09-02 20:52:03 | DIRK ALLISON | Officer | Shares: 25000 | Value: $2,895,722.5 | Percent: 0.135816% | Link: https://www.sec.gov/Archives/edgar/data/1253500/000195004725006676/0001950047-25-006676.txt
 2025-09-02 20:52:05 | Flammer Martina M.D. | Officer | Shares: 186648 | Value: $26,935,498.0 | Percent: 0.088302% | Link: https://www.sec.gov/Archives/edgar/data/1796960/000200731725001013/0002007317-25-001013.txt
 2025-09-02 20:52:05 | Flammer Martina M.D. | Officer | Shares: 186648 | Value: $26,935,498.0 | Percent: 0.088302% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725001013/0002007317-25-001013.txt
+2025-09-02 21:02:12 | Guerra Ivan Daniel | Officer | Shares: 5500 | Value: $193,107.57 | Percent: 0.010824% | Link: https://www.sec.gov/Archives/edgar/data/1707611/000196535325000156/0001965353-25-000156.txt
+2025-09-02 21:02:13 | Guerra Ivan Daniel | Officer | Shares: 5500 | Value: $193,107.57 | Percent: 0.010824% | Link: https://www.sec.gov/Archives/edgar/data/821483/000196535325000156/0001965353-25-000156.txt
+2025-09-02 21:02:16 | Joseph Gebbia | Director | Shares: 1648000 | Value: $215,113,440.0 | Percent: 0.384078% | Link: https://www.sec.gov/Archives/edgar/data/1834171/000196858225000838/0001968582-25-000838.txt
+2025-09-02 21:02:17 | Joseph Gebbia | Director | Shares: 1648000 | Value: $215,113,440.0 | Percent: 0.384078% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000196858225000838/0001968582-25-000838.txt
+2025-09-02 21:02:19 | CAFARO DEBRA A | Officer | Shares: 10322 | Value: $699,863.18 | Percent: 0.002271% | Link: https://www.sec.gov/Archives/edgar/data/1215188/000196430625000341/0001964306-25-000341.txt
+2025-09-02 21:02:20 | CAFARO DEBRA A | Officer | Shares: 10322 | Value: $699,863.18 | Percent: 0.002271% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000341/0001964306-25-000341.txt
+2025-09-02 21:02:22 | HUDSON DAWN E | Director | Shares: 72000 | Value: $12,285,063.0 | Percent: 0.000296% | Link: https://www.sec.gov/Archives/edgar/data/1219888/000192109425001069/0001921094-25-001069.txt
+2025-09-02 21:02:23 | HUDSON DAWN E | Director | Shares: 72000 | Value: $12,285,063.0 | Percent: 0.000296% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001069/0001921094-25-001069.txt
+2025-09-02 21:02:25 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,723,420.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001068/0001921094-25-001068.txt
+2025-09-02 21:02:26 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,723,420.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001068/0001921094-25-001068.txt
