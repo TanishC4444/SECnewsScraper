@@ -2528,3 +2528,5 @@
 2025-09-03 12:31:40 | Kooij Louise Frederika | Officer | Shares: 18073 | Value: $434,655.65 | Percent: 0.016047% | Link: https://www.sec.gov/Archives/edgar/data/1936258/000200437925000005/0002004379-25-000005.txt
 2025-09-03 13:35:31 | Goodman Anthony Brian | Officer | Shares: 50000 | Value: $52,655.0 | Percent: 0.035847% | Link: https://www.sec.gov/Archives/edgar/data/1672837/000010362325000037/0000103623-25-000037.txt
 2025-09-03 13:35:33 | Goodman Anthony Brian | Officer | Shares: 50000 | Value: $52,655.0 | Percent: 0.035847% | Link: https://www.sec.gov/Archives/edgar/data/1437925/000010362325000037/0000103623-25-000037.txt
+2025-09-03 13:56:37 | Fox-Geen Jeremy | Officer | Shares: 33608 | Value: $4,081,691.6 | Percent: 0.016016% | Link: https://www.sec.gov/Archives/edgar/data/1876042/000195917325005720/0001959173-25-005720.txt
+2025-09-03 13:56:38 | Fox-Geen Jeremy | Officer | Shares: 33608 | Value: $4,081,691.6 | Percent: 0.016016% | Link: https://www.sec.gov/Archives/edgar/data/1818008/000195917325005720/0001959173-25-005720.txt
