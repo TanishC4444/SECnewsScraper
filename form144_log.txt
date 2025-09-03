@@ -2572,3 +2572,7 @@
 2025-09-03 19:38:27 | Dotson Judith | Former Officer | Shares: 46173 | Value: $4,940,051.27 | Percent: 0.037463% | Link: https://www.sec.gov/Archives/edgar/data/1443646/000195917325005749/0001959173-25-005749.txt
 2025-09-03 19:57:32 | LANDY SAMUEL A | Officer | Shares: 10000 | Value: $151,493.0 | Percent: 0.011775% | Link: https://www.sec.gov/Archives/edgar/data/1232891/000195779925000204/0001957799-25-000204.txt
 2025-09-03 19:57:33 | LANDY SAMUEL A | Officer | Shares: 10000 | Value: $151,493.0 | Percent: 0.011775% | Link: https://www.sec.gov/Archives/edgar/data/752642/000195779925000204/0001957799-25-000204.txt
+2025-09-03 20:21:33 | Schneider Eugene | Officer | Shares: 19658 | Value: $1,195,421.0 | Percent: 0.012333% | Link: https://www.sec.gov/Archives/edgar/data/1838539/000197248125000188/0001972481-25-000188.txt
+2025-09-03 20:21:34 | Schneider Eugene | Officer | Shares: 19658 | Value: $1,195,421.0 | Percent: 0.012333% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000188/0001972481-25-000188.txt
+2025-09-03 20:21:36 | Marian Walters | Officer | Shares: 50000 | Value: $395,091.0 | Percent: 0.019242% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000716/0001969223-25-000716.txt
+2025-09-03 20:21:37 | Marian Walters | Officer | Shares: 50000 | Value: $395,091.0 | Percent: 0.019242% | Link: https://www.sec.gov/Archives/edgar/data/1782905/000196922325000716/0001969223-25-000716.txt
