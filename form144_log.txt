@@ -2522,3 +2522,5 @@
 2025-09-03 01:51:06 | NBSH Blue Investments II, LLC | 10% Stockholder | Shares: 2063007 | Value: $37,928,383.7 | Percent: 0.316853% | Link: https://www.sec.gov/Archives/edgar/data/1823945/000095017025112637/0000950170-25-112637.txt
 2025-09-03 01:51:06 | Bruno Augusto Sacchi Zaremba | Affiliate | Shares: 419238 | Value: $4,200,764.76 | Percent: 0.845577% | Link: https://www.sec.gov/Archives/edgar/data/2028300/000196858225000849/0001968582-25-000849.txt
 2025-09-03 01:51:06 | Bruno Augusto Sacchi Zaremba | Affiliate | Shares: 419238 | Value: $4,200,764.76 | Percent: 0.845577% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000196858225000849/0001968582-25-000849.txt
+2025-09-03 10:45:24 | Lu Chengfang | Officer | Shares: 10000 | Value: $71,600.0 | Percent: 0.001110% | Link: https://www.sec.gov/Archives/edgar/data/1984035/000173332625000002/0001733326-25-000002.txt
+2025-09-03 10:45:26 | Lu Chengfang | Officer | Shares: 10000 | Value: $71,600.0 | Percent: 0.001110% | Link: https://www.sec.gov/Archives/edgar/data/1783407/000173332625000002/0001733326-25-000002.txt
