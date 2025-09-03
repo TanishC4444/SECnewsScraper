@@ -2548,3 +2548,5 @@
 2025-09-03 15:56:32 | Cardenas Alan B | Officer | Shares: 24631 | Value: $273,157.79 | Percent: 0.015046% | Link: https://www.sec.gov/Archives/edgar/data/1651562/000195917325005733/0001959173-25-005733.txt
 2025-09-03 16:22:03 | Elsbernd Brian | Officer | Shares: 20000 | Value: $401,514.1 | Percent: 0.016341% | Link: https://www.sec.gov/Archives/edgar/data/1763511/000195917325005734/0001959173-25-005734.txt
 2025-09-03 16:22:05 | Elsbernd Brian | Officer | Shares: 20000 | Value: $401,514.1 | Percent: 0.016341% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005734/0001959173-25-005734.txt
+2025-09-03 16:42:40 | Smart Charm Ltd | Member of immediate family of any of the foregoing | Shares: 1000000 | Value: $73,750,000.0 | Percent: 0.151501% | Link: https://www.sec.gov/Archives/edgar/data/1992097/000199209725000001/0001992097-25-000001.txt
+2025-09-03 16:42:41 | Smart Charm Ltd | Member of immediate family of any of the foregoing | Shares: 1000000 | Value: $73,750,000.0 | Percent: 0.151501% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000199209725000001/0001992097-25-000001.txt
