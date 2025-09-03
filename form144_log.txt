@@ -2566,3 +2566,5 @@
 2025-09-03 18:57:51 | Clark Chayce David | Officer | Shares: 20000 | Value: $239,433.56 | Percent: 0.040406% | Link: https://www.sec.gov/Archives/edgar/data/1021561/000195917325005743/0001959173-25-005743.txt
 2025-09-03 19:17:21 | Glover Paula R | Director | Shares: 6159 | Value: $59,709.81 | Percent: 0.003526% | Link: https://www.sec.gov/Archives/edgar/data/1861282/000195917325005744/0001959173-25-005744.txt
 2025-09-03 19:17:22 | Glover Paula R | Director | Shares: 6159 | Value: $59,709.81 | Percent: 0.003526% | Link: https://www.sec.gov/Archives/edgar/data/1724965/000195917325005744/0001959173-25-005744.txt
+2025-09-03 19:27:53 | KIIL HARRY SKIP | Officer | Shares: 8605 | Value: $788,048.74 | Percent: 0.000671% | Link: https://www.sec.gov/Archives/edgar/data/1708062/000195917325005748/0001959173-25-005748.txt
+2025-09-03 19:27:54 | KIIL HARRY SKIP | Officer | Shares: 8605 | Value: $788,048.74 | Percent: 0.000671% | Link: https://www.sec.gov/Archives/edgar/data/1613103/000195917325005748/0001959173-25-005748.txt
