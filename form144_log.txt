@@ -2550,3 +2550,7 @@
 2025-09-03 16:22:05 | Elsbernd Brian | Officer | Shares: 20000 | Value: $401,514.1 | Percent: 0.016341% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005734/0001959173-25-005734.txt
 2025-09-03 16:42:40 | Smart Charm Ltd | Member of immediate family of any of the foregoing | Shares: 1000000 | Value: $73,750,000.0 | Percent: 0.151501% | Link: https://www.sec.gov/Archives/edgar/data/1992097/000199209725000001/0001992097-25-000001.txt
 2025-09-03 16:42:41 | Smart Charm Ltd | Member of immediate family of any of the foregoing | Shares: 1000000 | Value: $73,750,000.0 | Percent: 0.151501% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000199209725000001/0001992097-25-000001.txt
+2025-09-03 16:53:36 | Saha Bratin | Officer | Shares: 13010 | Value: $414,628.7 | Percent: 0.014291% | Link: https://www.sec.gov/Archives/edgar/data/2026550/000195917325005738/0001959173-25-005738.txt
+2025-09-03 16:53:37 | Saha Bratin | Officer | Shares: 13010 | Value: $414,628.7 | Percent: 0.014291% | Link: https://www.sec.gov/Archives/edgar/data/1582961/000195917325005738/0001959173-25-005738.txt
+2025-09-03 16:53:39 | Storey Paul H. | Officer | Shares: 7500 | Value: $456,981.72 | Percent: 0.002908% | Link: https://www.sec.gov/Archives/edgar/data/1990789/000195917325005737/0001959173-25-005737.txt
+2025-09-03 16:53:40 | Storey Paul H. | Officer | Shares: 7500 | Value: $456,981.72 | Percent: 0.002908% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000195917325005737/0001959173-25-005737.txt
