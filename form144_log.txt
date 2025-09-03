@@ -2554,3 +2554,5 @@
 2025-09-03 16:53:37 | Saha Bratin | Officer | Shares: 13010 | Value: $414,628.7 | Percent: 0.014291% | Link: https://www.sec.gov/Archives/edgar/data/1582961/000195917325005738/0001959173-25-005738.txt
 2025-09-03 16:53:39 | Storey Paul H. | Officer | Shares: 7500 | Value: $456,981.72 | Percent: 0.002908% | Link: https://www.sec.gov/Archives/edgar/data/1990789/000195917325005737/0001959173-25-005737.txt
 2025-09-03 16:53:40 | Storey Paul H. | Officer | Shares: 7500 | Value: $456,981.72 | Percent: 0.002908% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000195917325005737/0001959173-25-005737.txt
+2025-09-03 17:29:14 | Meaney William L | Officer | Shares: 69125 | Value: $6,191,057.81 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1566391/000195917325005739/0001959173-25-005739.txt
+2025-09-03 17:29:15 | Meaney William L | Officer | Shares: 69125 | Value: $6,191,057.81 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325005739/0001959173-25-005739.txt
