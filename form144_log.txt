@@ -2606,3 +2606,7 @@
 2025-09-03 21:28:08 | O'NEIL PATRICK R. | Officer | Shares: 124850 | Value: $7,634,553.0 | Percent: 0.078329% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000193/0001972481-25-000193.txt
 2025-09-03 21:37:56 | LOSCALZO JOSEPH | Officer | Shares: 16000 | Value: $962,371.0 | Percent: 0.010038% | Link: https://www.sec.gov/Archives/edgar/data/1276128/000197248125000194/0001972481-25-000194.txt
 2025-09-03 21:37:57 | LOSCALZO JOSEPH | Officer | Shares: 16000 | Value: $962,371.0 | Percent: 0.010038% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000194/0001972481-25-000194.txt
+2025-09-03 22:51:38 | PAULSON &amp; CO. INC. | 10% Stockholder | Shares: 1206839 | Value: $60,921,232.0 | Percent: 3.369937% | Link: https://www.sec.gov/Archives/edgar/data/1748824/000101359425001126/0001013594-25-001126.txt
+2025-09-03 22:51:40 | PAULSON &amp; CO. INC. | 10% Stockholder | Shares: 1206839 | Value: $60,921,232.0 | Percent: 3.369937% | Link: https://www.sec.gov/Archives/edgar/data/1035674/000101359425001126/0001013594-25-001126.txt
+2025-09-03 22:51:42 | TOBIAS DAVID | Officer | Shares: 325239 | Value: $8,781.0 | Percent: 0.218358% | Link: https://www.sec.gov/Archives/edgar/data/1582097/000109690625001475/0001096906-25-001475.txt
+2025-09-03 22:51:43 | TOBIAS DAVID | Officer | Shares: 325239 | Value: $8,781.0 | Percent: 0.218358% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000109690625001475/0001096906-25-001475.txt
