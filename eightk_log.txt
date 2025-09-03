@@ -3232,3 +3232,4 @@
 2025-09-03 17:10:59 | 8-K - NutriBand Inc. (0001676047) (Filer) | 2025-09-03T13:06:55-04:00 | https://www.sec.gov/Archives/edgar/data/1676047/000121390025083882/0001213900-25-083882.txt
 2025-09-03 17:10:59 | 8-K - Steele Creek Capital Corp (0001817825) (Filer) | 2025-09-03T12:58:38-04:00 | https://www.sec.gov/Archives/edgar/data/1817825/000121390025083875/0001213900-25-083875.txt
 2025-09-03 17:10:59 | 8-K/A - Steele Creek Capital Corp (0001817825) (Filer) | 2025-09-03T12:56:51-04:00 | https://www.sec.gov/Archives/edgar/data/1817825/000121390025083870/0001213900-25-083870.txt
+2025-09-03 17:40:59 | 8-K - Roivant Sciences Ltd. (0001635088) (Filer) | 2025-09-03T13:38:54-04:00 | https://www.sec.gov/Archives/edgar/data/1635088/000114036125033767/0001140361-25-033767.txt
