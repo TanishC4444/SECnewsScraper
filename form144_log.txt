@@ -2570,3 +2570,5 @@
 2025-09-03 19:27:54 | KIIL HARRY SKIP | Officer | Shares: 8605 | Value: $788,048.74 | Percent: 0.000671% | Link: https://www.sec.gov/Archives/edgar/data/1613103/000195917325005748/0001959173-25-005748.txt
 2025-09-03 19:38:26 | Dotson Judith | Former Officer | Shares: 46173 | Value: $4,940,051.27 | Percent: 0.037463% | Link: https://www.sec.gov/Archives/edgar/data/1807157/000195917325005749/0001959173-25-005749.txt
 2025-09-03 19:38:27 | Dotson Judith | Former Officer | Shares: 46173 | Value: $4,940,051.27 | Percent: 0.037463% | Link: https://www.sec.gov/Archives/edgar/data/1443646/000195917325005749/0001959173-25-005749.txt
+2025-09-03 19:57:32 | LANDY SAMUEL A | Officer | Shares: 10000 | Value: $151,493.0 | Percent: 0.011775% | Link: https://www.sec.gov/Archives/edgar/data/1232891/000195779925000204/0001957799-25-000204.txt
+2025-09-03 19:57:33 | LANDY SAMUEL A | Officer | Shares: 10000 | Value: $151,493.0 | Percent: 0.011775% | Link: https://www.sec.gov/Archives/edgar/data/752642/000195779925000204/0001957799-25-000204.txt
