@@ -2524,3 +2524,5 @@
 2025-09-03 01:51:06 | Bruno Augusto Sacchi Zaremba | Affiliate | Shares: 419238 | Value: $4,200,764.76 | Percent: 0.845577% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000196858225000849/0001968582-25-000849.txt
 2025-09-03 10:45:24 | Lu Chengfang | Officer | Shares: 10000 | Value: $71,600.0 | Percent: 0.001110% | Link: https://www.sec.gov/Archives/edgar/data/1984035/000173332625000002/0001733326-25-000002.txt
 2025-09-03 10:45:26 | Lu Chengfang | Officer | Shares: 10000 | Value: $71,600.0 | Percent: 0.001110% | Link: https://www.sec.gov/Archives/edgar/data/1783407/000173332625000002/0001733326-25-000002.txt
+2025-09-03 12:31:39 | Kooij Louise Frederika | Officer | Shares: 18073 | Value: $434,655.65 | Percent: 0.016047% | Link: https://www.sec.gov/Archives/edgar/data/2004379/000200437925000005/0002004379-25-000005.txt
+2025-09-03 12:31:40 | Kooij Louise Frederika | Officer | Shares: 18073 | Value: $434,655.65 | Percent: 0.016047% | Link: https://www.sec.gov/Archives/edgar/data/1936258/000200437925000005/0002004379-25-000005.txt
