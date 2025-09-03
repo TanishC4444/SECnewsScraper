@@ -2564,3 +2564,5 @@
 2025-09-03 18:34:30 | Tiffany Meriweather | Officer | Shares: 7844 | Value: $206,610.96 | Percent: 0.010152% | Link: https://www.sec.gov/Archives/edgar/data/1288847/000128884725000203/0001288847-25-000203.txt
 2025-09-03 18:57:50 | Clark Chayce David | Officer | Shares: 20000 | Value: $239,433.56 | Percent: 0.040406% | Link: https://www.sec.gov/Archives/edgar/data/1873048/000195917325005743/0001959173-25-005743.txt
 2025-09-03 18:57:51 | Clark Chayce David | Officer | Shares: 20000 | Value: $239,433.56 | Percent: 0.040406% | Link: https://www.sec.gov/Archives/edgar/data/1021561/000195917325005743/0001959173-25-005743.txt
+2025-09-03 19:17:21 | Glover Paula R | Director | Shares: 6159 | Value: $59,709.81 | Percent: 0.003526% | Link: https://www.sec.gov/Archives/edgar/data/1861282/000195917325005744/0001959173-25-005744.txt
+2025-09-03 19:17:22 | Glover Paula R | Director | Shares: 6159 | Value: $59,709.81 | Percent: 0.003526% | Link: https://www.sec.gov/Archives/edgar/data/1724965/000195917325005744/0001959173-25-005744.txt
