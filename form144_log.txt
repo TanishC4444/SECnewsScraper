@@ -2576,3 +2576,13 @@
 2025-09-03 20:21:34 | Schneider Eugene | Officer | Shares: 19658 | Value: $1,195,421.0 | Percent: 0.012333% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000188/0001972481-25-000188.txt
 2025-09-03 20:21:36 | Marian Walters | Officer | Shares: 50000 | Value: $395,091.0 | Percent: 0.019242% | Link: https://www.sec.gov/Archives/edgar/data/1805077/000196922325000716/0001969223-25-000716.txt
 2025-09-03 20:21:37 | Marian Walters | Officer | Shares: 50000 | Value: $395,091.0 | Percent: 0.019242% | Link: https://www.sec.gov/Archives/edgar/data/1782905/000196922325000716/0001969223-25-000716.txt
+2025-09-03 20:36:19 | THOMAS G. KRAMER | Officer | Shares: 158330 | Value: $6,806,606.7 | Percent: 0.053339% | Link: https://www.sec.gov/Archives/edgar/data/1824920/000195004725006726/0001950047-25-006726.txt
+2025-09-03 20:36:20 | THOMAS G. KRAMER | Officer | Shares: 158330 | Value: $6,806,606.7 | Percent: 0.053339% | Link: https://www.sec.gov/Archives/edgar/data/1601483/000195004725006726/0001950047-25-006726.txt
+2025-09-03 20:36:22 | Singh Raman | Director | Shares: 7500 | Value: $220,650.0 | Percent: 0.008712% | Link: https://www.sec.gov/Archives/edgar/data/1819576/000110465925087068/0001104659-25-087068.txt
+2025-09-03 20:36:23 | Singh Raman | Director | Shares: 7500 | Value: $220,650.0 | Percent: 0.008712% | Link: https://www.sec.gov/Archives/edgar/data/1747589/000110465925087068/0001104659-25-087068.txt
+2025-09-03 20:36:25 | TJ CAPITAL INVESTORS LLC | Director | Shares: 300000 | Value: $53,934,000.0 | Percent: 0.138931% | Link: https://www.sec.gov/Archives/edgar/data/1956305/000195004725006725/0001950047-25-006725.txt
+2025-09-03 20:36:27 | TJ CAPITAL INVESTORS LLC | Director | Shares: 300000 | Value: $53,934,000.0 | Percent: 0.138931% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006725/0001950047-25-006725.txt
+2025-09-03 20:36:28 | David Matthew T | Former Officer | Shares: 300000 | Value: $4,350,000.0 | Percent: 0.401881% | Link: https://www.sec.gov/Archives/edgar/data/1811612/000200731725001021/0002007317-25-001021.txt
+2025-09-03 20:36:31 | David Matthew T | Former Officer | Shares: 300000 | Value: $4,350,000.0 | Percent: 0.401881% | Link: https://www.sec.gov/Archives/edgar/data/1410098/000200731725001021/0002007317-25-001021.txt
+2025-09-03 20:36:32 | SCHULZE RICHARD M | 10% Stockholder | Shares: 196100 | Value: $14,601,606.0 | Percent: 0.092784% | Link: https://www.sec.gov/Archives/edgar/data/1006394/000196794025000064/0001967940-25-000064.txt
+2025-09-03 20:36:33 | SCHULZE RICHARD M | 10% Stockholder | Shares: 196100 | Value: $14,601,606.0 | Percent: 0.092784% | Link: https://www.sec.gov/Archives/edgar/data/764478/000196794025000064/0001967940-25-000064.txt
