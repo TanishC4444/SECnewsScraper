@@ -2590,3 +2590,9 @@
 2025-09-03 20:45:53 | Luca Gilles | Officer | Shares: 35000 | Value: $1,708,275.0 | Percent: 0.049148% | Link: https://www.sec.gov/Archives/edgar/data/314808/000200731725001022/0002007317-25-001022.txt
 2025-09-03 20:45:54 | Baroldi Joseph | Officer | Shares: 45000 | Value: $2,658,996.0 | Percent: 0.028232% | Link: https://www.sec.gov/Archives/edgar/data/1813775/000197248125000191/0001972481-25-000191.txt
 2025-09-03 20:45:55 | Baroldi Joseph | Officer | Shares: 45000 | Value: $2,658,996.0 | Percent: 0.028232% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000191/0001972481-25-000191.txt
+2025-09-03 20:55:13 | BENNETT C FRANK | Officer | Shares: 51800 | Value: $3,152,698.0 | Percent: 0.032499% | Link: https://www.sec.gov/Archives/edgar/data/1073387/000197248125000192/0001972481-25-000192.txt
+2025-09-03 20:55:15 | BENNETT C FRANK | Officer | Shares: 51800 | Value: $3,152,698.0 | Percent: 0.032499% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000192/0001972481-25-000192.txt
+2025-09-03 20:55:16 | Dmitry Zamansky | Officer | Shares: 26500 | Value: $180,661.1 | Percent: 0.187116% | Link: https://www.sec.gov/Archives/edgar/data/2059643/000205964325000004/0002059643-25-000004.txt
+2025-09-03 20:55:17 | Dmitry Zamansky | Officer | Shares: 26500 | Value: $180,661.1 | Percent: 0.187116% | Link: https://www.sec.gov/Archives/edgar/data/1393584/000205964325000004/0002059643-25-000004.txt
+2025-09-03 20:55:19 | ADAM ELSESSER | Officer | Shares: 15800 | Value: $4,260,403.64 | Percent: 0.040514% | Link: https://www.sec.gov/Archives/edgar/data/1651323/000195004725006728/0001950047-25-006728.txt
+2025-09-03 20:55:20 | ADAM ELSESSER | Officer | Shares: 15800 | Value: $4,260,403.64 | Percent: 0.040514% | Link: https://www.sec.gov/Archives/edgar/data/1321732/000195004725006728/0001950047-25-006728.txt
