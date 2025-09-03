@@ -2556,3 +2556,5 @@
 2025-09-03 16:53:40 | Storey Paul H. | Officer | Shares: 7500 | Value: $456,981.72 | Percent: 0.002908% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000195917325005737/0001959173-25-005737.txt
 2025-09-03 17:29:14 | Meaney William L | Officer | Shares: 69125 | Value: $6,191,057.81 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1566391/000195917325005739/0001959173-25-005739.txt
 2025-09-03 17:29:15 | Meaney William L | Officer | Shares: 69125 | Value: $6,191,057.81 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325005739/0001959173-25-005739.txt
+2025-09-03 17:59:41 | Reprogrammed Interchange LLC | 10% Stockholder | Shares: 23000000 | Value: $46,115,000.0 | Percent: 18.155538% | Link: https://www.sec.gov/Archives/edgar/data/2050755/000195917325005742/0001959173-25-005742.txt
+2025-09-03 17:59:42 | Reprogrammed Interchange LLC | 10% Stockholder | Shares: 23000000 | Value: $46,115,000.0 | Percent: 18.155538% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000195917325005742/0001959173-25-005742.txt
