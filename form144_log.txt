@@ -2538,3 +2538,7 @@
 2025-09-03 14:37:44 | Park Han Kyung | Officer | Shares: 15000 | Value: $330,000.0 | Percent: 0.024937% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325005724/0001959173-25-005724.txt
 2025-09-03 14:48:33 | Black Maria | Officer | Shares: 23605 | Value: $7,000,534.85 | Percent: 0.005828% | Link: https://www.sec.gov/Archives/edgar/data/1608466/000195917325005728/0001959173-25-005728.txt
 2025-09-03 14:48:34 | Black Maria | Officer | Shares: 23605 | Value: $7,000,534.85 | Percent: 0.005828% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005728/0001959173-25-005728.txt
+2025-09-03 14:57:30 | Brailo Andy | Officer | Shares: 6521 | Value: $168,176.59 | Percent: 0.007899% | Link: https://www.sec.gov/Archives/edgar/data/1995357/000195917325005730/0001959173-25-005730.txt
+2025-09-03 14:57:30 | Brailo Andy | Officer | Shares: 6521 | Value: $168,176.59 | Percent: 0.007899% | Link: https://www.sec.gov/Archives/edgar/data/1577916/000195917325005730/0001959173-25-005730.txt
+2025-09-03 14:57:32 | Rodriguez Carlos A | Director | Shares: 11701 | Value: $3,470,165.57 | Percent: 0.002889% | Link: https://www.sec.gov/Archives/edgar/data/1378514/000195917325005729/0001959173-25-005729.txt
+2025-09-03 14:57:33 | Rodriguez Carlos A | Director | Shares: 11701 | Value: $3,470,165.57 | Percent: 0.002889% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005729/0001959173-25-005729.txt
