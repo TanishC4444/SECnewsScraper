@@ -2600,3 +2600,7 @@
 2025-09-03 21:13:33 | Charming Jade Ltd | Director | Shares: 100000 | Value: $2,746,000.0 | Percent: 0.131152% | Link: https://www.sec.gov/Archives/edgar/data/1991792/000196186325000140/0001961863-25-000140.txt
 2025-09-03 21:13:35 | Tessari Eben | Officer | Shares: 15091 | Value: $535,778.0 | Percent: 0.034714% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001079/0001921094-25-001079.txt
 2025-09-03 21:13:36 | Tessari Eben | Officer | Shares: 15091 | Value: $535,778.0 | Percent: 0.034714% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001079/0001921094-25-001079.txt
+2025-09-03 21:28:04 | PHILIP EIGENMANN | Officer | Shares: 6531 | Value: $245,024.18 | Percent: 0.002714% | Link: https://www.sec.gov/Archives/edgar/data/1721984/000195004725006729/0001950047-25-006729.txt
+2025-09-03 21:28:06 | PHILIP EIGENMANN | Officer | Shares: 6531 | Value: $245,024.18 | Percent: 0.002714% | Link: https://www.sec.gov/Archives/edgar/data/891103/000195004725006729/0001950047-25-006729.txt
+2025-09-03 21:28:08 | O'NEIL PATRICK R. | Officer | Shares: 124850 | Value: $7,634,553.0 | Percent: 0.078329% | Link: https://www.sec.gov/Archives/edgar/data/1564926/000197248125000193/0001972481-25-000193.txt
+2025-09-03 21:28:08 | O'NEIL PATRICK R. | Officer | Shares: 124850 | Value: $7,634,553.0 | Percent: 0.078329% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000193/0001972481-25-000193.txt
