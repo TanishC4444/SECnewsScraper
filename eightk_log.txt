@@ -3223,3 +3223,4 @@
 2025-09-03 13:35:29 | 8-K - Gryphon Digital Mining, Inc. (0001755953) (Filer) | 2025-09-03T09:13:35-04:00 | https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726.txt
 2025-09-03 14:19:16 | 8-K - HG Holdings, Inc. (0000797465) (Filer) | 2025-09-03T10:10:54-04:00 | https://www.sec.gov/Archives/edgar/data/797465/000143774925028211/0001437749-25-028211.txt
 2025-09-03 14:37:39 | 8-K - Benson Hill, Inc. (0001830210) (Filer) | 2025-09-03T10:25:58-04:00 | https://www.sec.gov/Archives/edgar/data/1830210/000110465925086777/0001104659-25-086777.txt
+2025-09-03 15:21:40 | 8-K - FS Bancorp, Inc. (0001530249) (Filer) | 2025-09-03T11:05:35-04:00 | https://www.sec.gov/Archives/edgar/data/1530249/000093905725000246/0000939057-25-000246.txt

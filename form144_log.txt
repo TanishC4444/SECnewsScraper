@@ -2542,3 +2542,5 @@
 2025-09-03 14:57:30 | Brailo Andy | Officer | Shares: 6521 | Value: $168,176.59 | Percent: 0.007899% | Link: https://www.sec.gov/Archives/edgar/data/1577916/000195917325005730/0001959173-25-005730.txt
 2025-09-03 14:57:32 | Rodriguez Carlos A | Director | Shares: 11701 | Value: $3,470,165.57 | Percent: 0.002889% | Link: https://www.sec.gov/Archives/edgar/data/1378514/000195917325005729/0001959173-25-005729.txt
 2025-09-03 14:57:33 | Rodriguez Carlos A | Director | Shares: 11701 | Value: $3,470,165.57 | Percent: 0.002889% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005729/0001959173-25-005729.txt
+2025-09-03 15:21:43 | Goldstein Lainie | Officer | Shares: 10000 | Value: $2,399,600.0 | Percent: 0.005421% | Link: https://www.sec.gov/Archives/edgar/data/1399513/000200731725001018/0002007317-25-001018.txt
+2025-09-03 15:21:44 | Goldstein Lainie | Officer | Shares: 10000 | Value: $2,399,600.0 | Percent: 0.005421% | Link: https://www.sec.gov/Archives/edgar/data/946581/000200731725001018/0002007317-25-001018.txt
