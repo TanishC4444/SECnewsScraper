@@ -2526,3 +2526,5 @@
 2025-09-03 10:45:26 | Lu Chengfang | Officer | Shares: 10000 | Value: $71,600.0 | Percent: 0.001110% | Link: https://www.sec.gov/Archives/edgar/data/1783407/000173332625000002/0001733326-25-000002.txt
 2025-09-03 12:31:39 | Kooij Louise Frederika | Officer | Shares: 18073 | Value: $434,655.65 | Percent: 0.016047% | Link: https://www.sec.gov/Archives/edgar/data/2004379/000200437925000005/0002004379-25-000005.txt
 2025-09-03 12:31:40 | Kooij Louise Frederika | Officer | Shares: 18073 | Value: $434,655.65 | Percent: 0.016047% | Link: https://www.sec.gov/Archives/edgar/data/1936258/000200437925000005/0002004379-25-000005.txt
+2025-09-03 13:35:31 | Goodman Anthony Brian | Officer | Shares: 50000 | Value: $52,655.0 | Percent: 0.035847% | Link: https://www.sec.gov/Archives/edgar/data/1672837/000010362325000037/0000103623-25-000037.txt
+2025-09-03 13:35:33 | Goodman Anthony Brian | Officer | Shares: 50000 | Value: $52,655.0 | Percent: 0.035847% | Link: https://www.sec.gov/Archives/edgar/data/1437925/000010362325000037/0000103623-25-000037.txt
