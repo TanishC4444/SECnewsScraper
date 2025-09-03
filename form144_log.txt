@@ -2604,3 +2604,5 @@
 2025-09-03 21:28:06 | PHILIP EIGENMANN | Officer | Shares: 6531 | Value: $245,024.18 | Percent: 0.002714% | Link: https://www.sec.gov/Archives/edgar/data/891103/000195004725006729/0001950047-25-006729.txt
 2025-09-03 21:28:08 | O'NEIL PATRICK R. | Officer | Shares: 124850 | Value: $7,634,553.0 | Percent: 0.078329% | Link: https://www.sec.gov/Archives/edgar/data/1564926/000197248125000193/0001972481-25-000193.txt
 2025-09-03 21:28:08 | O'NEIL PATRICK R. | Officer | Shares: 124850 | Value: $7,634,553.0 | Percent: 0.078329% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000193/0001972481-25-000193.txt
+2025-09-03 21:37:56 | LOSCALZO JOSEPH | Officer | Shares: 16000 | Value: $962,371.0 | Percent: 0.010038% | Link: https://www.sec.gov/Archives/edgar/data/1276128/000197248125000194/0001972481-25-000194.txt
+2025-09-03 21:37:57 | LOSCALZO JOSEPH | Officer | Shares: 16000 | Value: $962,371.0 | Percent: 0.010038% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000194/0001972481-25-000194.txt
