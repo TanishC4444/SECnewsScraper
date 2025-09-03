@@ -2530,3 +2530,5 @@
 2025-09-03 13:35:33 | Goodman Anthony Brian | Officer | Shares: 50000 | Value: $52,655.0 | Percent: 0.035847% | Link: https://www.sec.gov/Archives/edgar/data/1437925/000010362325000037/0000103623-25-000037.txt
 2025-09-03 13:56:37 | Fox-Geen Jeremy | Officer | Shares: 33608 | Value: $4,081,691.6 | Percent: 0.016016% | Link: https://www.sec.gov/Archives/edgar/data/1876042/000195917325005720/0001959173-25-005720.txt
 2025-09-03 13:56:38 | Fox-Geen Jeremy | Officer | Shares: 33608 | Value: $4,081,691.6 | Percent: 0.016016% | Link: https://www.sec.gov/Archives/edgar/data/1818008/000195917325005720/0001959173-25-005720.txt
+2025-09-03 14:19:18 | McGuire Don | Officer | Shares: 13599 | Value: $4,033,055.43 | Percent: 0.003357% | Link: https://www.sec.gov/Archives/edgar/data/1743672/000195917325005722/0001959173-25-005722.txt
+2025-09-03 14:19:19 | McGuire Don | Officer | Shares: 13599 | Value: $4,033,055.43 | Percent: 0.003357% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005722/0001959173-25-005722.txt
