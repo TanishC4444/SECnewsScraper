@@ -2596,3 +2596,7 @@
 2025-09-03 20:55:17 | Dmitry Zamansky | Officer | Shares: 26500 | Value: $180,661.1 | Percent: 0.187116% | Link: https://www.sec.gov/Archives/edgar/data/1393584/000205964325000004/0002059643-25-000004.txt
 2025-09-03 20:55:19 | ADAM ELSESSER | Officer | Shares: 15800 | Value: $4,260,403.64 | Percent: 0.040514% | Link: https://www.sec.gov/Archives/edgar/data/1651323/000195004725006728/0001950047-25-006728.txt
 2025-09-03 20:55:20 | ADAM ELSESSER | Officer | Shares: 15800 | Value: $4,260,403.64 | Percent: 0.040514% | Link: https://www.sec.gov/Archives/edgar/data/1321732/000195004725006728/0001950047-25-006728.txt
+2025-09-03 21:13:31 | Charming Jade Ltd | Director | Shares: 100000 | Value: $2,746,000.0 | Percent: 0.131152% | Link: https://www.sec.gov/Archives/edgar/data/2008426/000196186325000140/0001961863-25-000140.txt
+2025-09-03 21:13:33 | Charming Jade Ltd | Director | Shares: 100000 | Value: $2,746,000.0 | Percent: 0.131152% | Link: https://www.sec.gov/Archives/edgar/data/1991792/000196186325000140/0001961863-25-000140.txt
+2025-09-03 21:13:35 | Tessari Eben | Officer | Shares: 15091 | Value: $535,778.0 | Percent: 0.034714% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001079/0001921094-25-001079.txt
+2025-09-03 21:13:36 | Tessari Eben | Officer | Shares: 15091 | Value: $535,778.0 | Percent: 0.034714% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001079/0001921094-25-001079.txt
