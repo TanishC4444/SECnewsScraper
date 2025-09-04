@@ -2668,3 +2668,9 @@
 2025-09-04 19:56:47 | Arunkundrum Prakash | Officer | Shares: 9900 | Value: $1,039,500.0 | Percent: 0.006721% | Link: https://www.sec.gov/Archives/edgar/data/1032975/000197337925000249/0001973379-25-000249.txt
 2025-09-04 19:56:48 | Harrison Bane | Officer | Shares: 9339 | Value: $209,944.0 | Percent: 0.007284% | Link: https://www.sec.gov/Archives/edgar/data/1952229/000196922325000721/0001969223-25-000721.txt
 2025-09-04 19:56:49 | Harrison Bane | Officer | Shares: 9339 | Value: $209,944.0 | Percent: 0.007284% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000721/0001969223-25-000721.txt
+2025-09-04 20:19:55 | Cashman Steve | Officer | Shares: 142590 | Value: $214,255.73 | Percent: 0.063285% | Link: https://www.sec.gov/Archives/edgar/data/2035576/000195917325005775/0001959173-25-005775.txt
+2025-09-04 20:19:56 | Cashman Steve | Officer | Shares: 142590 | Value: $214,255.73 | Percent: 0.063285% | Link: https://www.sec.gov/Archives/edgar/data/1804176/000195917325005775/0001959173-25-005775.txt
+2025-09-04 20:19:57 | Jiyane Siphelele | Officer | Shares: 25533 | Value: $2,316,126.0 | Percent: 0.008962% | Link: https://www.sec.gov/Archives/edgar/data/1832806/000192109425001080/0001921094-25-001080.txt
+2025-09-04 20:19:58 | Jiyane Siphelele | Officer | Shares: 25533 | Value: $2,316,126.0 | Percent: 0.008962% | Link: https://www.sec.gov/Archives/edgar/data/1820953/000192109425001080/0001921094-25-001080.txt
+2025-09-04 20:20:01 | THOMAS AXMACHER | Officer | Shares: 9255 | Value: $347,062.5 | Percent: 0.024118% | Link: https://www.sec.gov/Archives/edgar/data/1140170/000195004725006739/0001950047-25-006739.txt
+2025-09-04 20:20:02 | THOMAS AXMACHER | Officer | Shares: 9255 | Value: $347,062.5 | Percent: 0.024118% | Link: https://www.sec.gov/Archives/edgar/data/945114/000195004725006739/0001950047-25-006739.txt
