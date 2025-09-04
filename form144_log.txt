@@ -2648,3 +2648,5 @@
 2025-09-04 17:14:35 | Gill Harpal | President &amp; COO | Shares: 14203 | Value: $5,042,065.0 | Percent: 0.039751% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000248/0001973379-25-000248.txt
 2025-09-04 17:14:37 | Mark Crossley | affiliate | Shares: 30000 | Value: $744,009.6 | Percent: 0.024044% | Link: https://www.sec.gov/Archives/edgar/data/2014472/000197449425000099/0001974494-25-000099.txt
 2025-09-04 17:14:38 | Mark Crossley | affiliate | Shares: 30000 | Value: $744,009.6 | Percent: 0.024044% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000099/0001974494-25-000099.txt
+2025-09-04 17:30:42 | Eric Reynolds | Officer | Shares: 15041 | Value: $1,861,847.74 | Percent: 0.012297% | Link: https://www.sec.gov/Archives/edgar/data/1631391/000196922325000718/0001969223-25-000718.txt
+2025-09-04 17:30:43 | Eric Reynolds | Officer | Shares: 15041 | Value: $1,861,847.74 | Percent: 0.012297% | Link: https://www.sec.gov/Archives/edgar/data/21076/000196922325000718/0001969223-25-000718.txt

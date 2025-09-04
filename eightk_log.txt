@@ -3359,3 +3359,5 @@
 2025-09-04 16:56:06 | 8-K - Fat Brands, Inc (0001705012) (Filer) | 2025-09-04T12:46:44-04:00 | https://www.sec.gov/Archives/edgar/data/1705012/000164117225026540/0001641172-25-026540.txt
 2025-09-04 17:14:25 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-04T13:05:53-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000163/0001331757-25-000163.txt
 2025-09-04 17:14:27 | 8-K - Genvor Inc (0001792941) (Filer) | 2025-09-04T12:57:41-04:00 | https://www.sec.gov/Archives/edgar/data/1792941/000190359625000441/0001903596-25-000441.txt
+2025-09-04 17:30:38 | 8-K - Nova Lifestyle, Inc. (0001473334) (Filer) | 2025-09-04T13:23:24-04:00 | https://www.sec.gov/Archives/edgar/data/1473334/000164117225026544/0001641172-25-026544.txt
+2025-09-04 17:30:39 | 8-K - CSAIL 2017-CX10 Commercial Mortgage Trust (0001720474) (Filer) | 2025-09-04T13:18:52-04:00 | https://www.sec.gov/Archives/edgar/data/1720474/000188852425015809/0001888524-25-015809.txt
