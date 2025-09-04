@@ -2638,3 +2638,7 @@
 2025-09-04 16:25:32 | Wilson Julie F. | Officer | Shares: 15000 | Value: $262,050.0 | Percent: 0.004266% | Link: https://www.sec.gov/Archives/edgar/data/1360604/000194984625000443/0001949846-25-000443.txt
 2025-09-04 16:45:00 | Paterson Dan | Officer | Shares: 31790 | Value: $310,429.0 | Percent: 0.050426% | Link: https://www.sec.gov/Archives/edgar/data/1563202/000197407825000285/0001974078-25-000285.txt
 2025-09-04 16:45:01 | Paterson Dan | Officer | Shares: 31790 | Value: $310,429.0 | Percent: 0.050426% | Link: https://www.sec.gov/Archives/edgar/data/1526119/000197407825000285/0001974078-25-000285.txt
+2025-09-04 16:56:07 | Hull Stephen Edward | Sector President | Shares: 12497 | Value: $2,227,590.0 | Percent: 0.009741% | Link: https://www.sec.gov/Archives/edgar/data/2002273/000197337925000247/0001973379-25-000247.txt
+2025-09-04 16:56:08 | Hull Stephen Edward | Sector President | Shares: 12497 | Value: $2,227,590.0 | Percent: 0.009741% | Link: https://www.sec.gov/Archives/edgar/data/1336920/000197337925000247/0001973379-25-000247.txt
+2025-09-04 16:56:10 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000286/0001974078-25-000286.txt
+2025-09-04 16:56:11 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000286/0001974078-25-000286.txt
