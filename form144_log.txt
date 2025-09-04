@@ -2703,3 +2703,7 @@
 2025-09-04 21:10:25 | ROBIN HOWARD W | Officer | Shares: 5166 | Value: $174,119.16 | Percent: 0.027163% | Link: https://www.sec.gov/Archives/edgar/data/906709/000195917325005786/0001959173-25-005786.txt
 2025-09-04 21:37:41 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $270,018.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000123/0001000275-25-000123.txt
 2025-09-04 21:37:42 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $270,018.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000123/0001000275-25-000123.txt
+2025-09-04 22:16:29 | DANIEL REDINGTON | Officer | Shares: 20000 | Value: $83,252.0 | Percent: 0.011294% | Link: https://www.sec.gov/Archives/edgar/data/1967463/000195004725006767/0001950047-25-006767.txt
+2025-09-04 22:16:31 | DANIEL REDINGTON | Officer | Shares: 20000 | Value: $83,252.0 | Percent: 0.011294% | Link: https://www.sec.gov/Archives/edgar/data/1708055/000195004725006767/0001950047-25-006767.txt
+2025-09-04 22:16:33 | ANTHONY A RABB | Officer | Shares: 5001 | Value: $6,375.27 | Percent: 0.035244% | Link: https://www.sec.gov/Archives/edgar/data/1953607/000195004725006766/0001950047-25-006766.txt
+2025-09-04 22:16:34 | ANTHONY A RABB | Officer | Shares: 5001 | Value: $6,375.27 | Percent: 0.035244% | Link: https://www.sec.gov/Archives/edgar/data/1819438/000195004725006766/0001950047-25-006766.txt
