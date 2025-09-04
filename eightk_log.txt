@@ -3367,3 +3367,7 @@
 2025-09-04 18:50:23 | 8-K/A - KKR FS Income Trust (0001930679) (Filer) | 2025-09-04T14:42:39-04:00 | https://www.sec.gov/Archives/edgar/data/1930679/000110465925087414/0001104659-25-087414.txt
 2025-09-04 18:50:23 | 8-K/A - KKR FS Income Trust Select (0001975736) (Filer) | 2025-09-04T14:41:10-04:00 | https://www.sec.gov/Archives/edgar/data/1975736/000110465925087413/0001104659-25-087413.txt
 2025-09-04 18:59:27 | 8-K - DarkPulse, Inc. (0000866439) (Filer) | 2025-09-04T14:50:43-04:00 | https://www.sec.gov/Archives/edgar/data/866439/000168316825006684/0001683168-25-006684.txt
+2025-09-04 19:19:05 | 8-K - TPI COMPOSITES, INC (0001455684) (Filer) | 2025-09-04T15:13:34-04:00 | https://www.sec.gov/Archives/edgar/data/1455684/000117184325005740/0001171843-25-005740.txt
+2025-09-04 19:19:07 | 8-K - C2 Blockchain, Inc. (0001882781) (Filer) | 2025-09-04T15:01:50-04:00 | https://www.sec.gov/Archives/edgar/data/1882781/000159991625000122/0001599916-25-000122.txt
+2025-09-04 19:19:07 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-09-04T15:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525195941/0001193125-25-195941.txt
+2025-09-04 19:19:07 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-04T14:59:59-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000199/0001331465-25-000199.txt

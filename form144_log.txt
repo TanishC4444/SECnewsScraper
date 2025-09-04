@@ -2658,3 +2658,5 @@
 2025-09-04 18:35:20 | ZOLEY GEORGE C | Officer | Shares: 155881 | Value: $3,268,824.57 | Percent: 0.110136% | Link: https://www.sec.gov/Archives/edgar/data/923796/000200731725001025/0002007317-25-001025.txt
 2025-09-04 18:50:24 | Taubert Jennifer L | Officer | Shares: 56471 | Value: $10,040,904.33 | Percent: 0.002345% | Link: https://www.sec.gov/Archives/edgar/data/1745938/000195917325005770/0001959173-25-005770.txt
 2025-09-04 18:50:24 | Taubert Jennifer L | Officer | Shares: 56471 | Value: $10,040,904.33 | Percent: 0.002345% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005770/0001959173-25-005770.txt
+2025-09-04 19:19:09 | Thompson Rebecca | Officer | Shares: 9350 | Value: $758,201.08 | Percent: 0.011468% | Link: https://www.sec.gov/Archives/edgar/data/1565768/000195917325005771/0001959173-25-005771.txt
+2025-09-04 19:19:10 | Thompson Rebecca | Officer | Shares: 9350 | Value: $758,201.08 | Percent: 0.011468% | Link: https://www.sec.gov/Archives/edgar/data/824142/000195917325005771/0001959173-25-005771.txt
