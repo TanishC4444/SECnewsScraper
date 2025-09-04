@@ -3392,3 +3392,9 @@
 2025-09-04 20:34:10 | 8-K - MARRIOTT VACATIONS WORLDWIDE Corp (0001524358) (Filer) | 2025-09-04T16:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1524358/000152435825000158/0001524358-25-000158.txt
 2025-09-04 20:34:12 | 8-K - American Outdoor Brands, Inc. (0001808997) (Filer) | 2025-09-04T16:29:55-04:00 | https://www.sec.gov/Archives/edgar/data/1808997/000180899725000034/0001808997-25-000034.txt
 2025-09-04 20:34:13 | 8-K - CSLM Digital Asset Acquisition Corp III, Ltd (0002068454) (Filer) | 2025-09-04T16:28:15-04:00 | https://www.sec.gov/Archives/edgar/data/2068454/000182912625007166/0001829126-25-007166.txt
+2025-09-04 20:43:56 | 8-K - Sweetgreen, Inc. (0001477815) (Filer) | 2025-09-04T16:41:30-04:00 | https://www.sec.gov/Archives/edgar/data/1477815/000147781525000013/0001477815-25-000013.txt
+2025-09-04 20:43:57 | 8-K - TPG RE Finance Trust, Inc. (0001630472) (Filer) | 2025-09-04T16:39:23-04:00 | https://www.sec.gov/Archives/edgar/data/1630472/000119312525196146/0001193125-25-196146.txt
+2025-09-04 20:43:59 | 8-K - Red Cat Holdings, Inc. (0000748268) (Filer) | 2025-09-04T16:39:04-04:00 | https://www.sec.gov/Archives/edgar/data/748268/000164117225026596/0001641172-25-026596.txt
+2025-09-04 20:44:01 | 8-K - SYNTEC OPTICS HOLDINGS, INC. (0001866816) (Filer) | 2025-09-04T16:35:09-04:00 | https://www.sec.gov/Archives/edgar/data/1866816/000149315225012643/0001493152-25-012643.txt
+2025-09-04 20:44:03 | 8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer) | 2025-09-04T16:34:16-04:00 | https://www.sec.gov/Archives/edgar/data/1914496/000191449625000103/0001914496-25-000103.txt
+2025-09-04 20:44:04 | 8-K - M3-Brigade Acquisition VI Corp. (0002073928) (Filer) | 2025-09-04T16:33:43-04:00 | https://www.sec.gov/Archives/edgar/data/2073928/000121390025084538/0001213900-25-084538.txt
