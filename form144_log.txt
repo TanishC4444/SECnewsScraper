@@ -2660,3 +2660,5 @@
 2025-09-04 18:50:24 | Taubert Jennifer L | Officer | Shares: 56471 | Value: $10,040,904.33 | Percent: 0.002345% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005770/0001959173-25-005770.txt
 2025-09-04 19:19:09 | Thompson Rebecca | Officer | Shares: 9350 | Value: $758,201.08 | Percent: 0.011468% | Link: https://www.sec.gov/Archives/edgar/data/1565768/000195917325005771/0001959173-25-005771.txt
 2025-09-04 19:19:10 | Thompson Rebecca | Officer | Shares: 9350 | Value: $758,201.08 | Percent: 0.011468% | Link: https://www.sec.gov/Archives/edgar/data/824142/000195917325005771/0001959173-25-005771.txt
+2025-09-04 19:28:12 | Hwang Tim | Director | Shares: 5785 | Value: $24,545.18 | Percent: 0.003529% | Link: https://www.sec.gov/Archives/edgar/data/1937743/000195917325005772/0001959173-25-005772.txt
+2025-09-04 19:28:13 | Hwang Tim | Director | Shares: 5785 | Value: $24,545.18 | Percent: 0.003529% | Link: https://www.sec.gov/Archives/edgar/data/1823466/000195917325005772/0001959173-25-005772.txt
