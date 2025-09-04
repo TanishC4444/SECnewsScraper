@@ -2695,3 +2695,9 @@
 2025-09-04 20:53:21 | Tessari Eben | Officer | Shares: 85271 | Value: $3,028,740.0 | Percent: 0.196147% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001088/0001921094-25-001088.txt
 2025-09-04 20:53:22 | Tessari Eben | Officer | Shares: 85271 | Value: $3,028,740.0 | Percent: 0.196147% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001088/0001921094-25-001088.txt
 2025-09-04 20:53:23 | EDWARD GOLDBERG | Officer | Shares: 250000 | Value: $5,567,750.0 | Percent: 0.170704% | Link: https://www.sec.gov/Archives/edgar/data/1893007/000195004725006764/0001950047-25-006764.txt
+2025-09-04 21:10:20 | Nicholas J. Calamari | Officer | Shares: 34847 | Value: $789,633.0 | Percent: 0.372685% | Link: https://www.sec.gov/Archives/edgar/data/1835856/000196858225000855/0001968582-25-000855.txt
+2025-09-04 21:10:20 | Nicholas J. Calamari | Officer | Shares: 34847 | Value: $789,633.0 | Percent: 0.372685% | Link: https://www.sec.gov/Archives/edgar/data/1614749/000196858225000855/0001968582-25-000855.txt
+2025-09-04 21:10:22 | Fisher David | Officer | Shares: 20000 | Value: $2,420,000.0 | Percent: 0.079960% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000200731725001031/0002007317-25-001031.txt
+2025-09-04 21:10:22 | Fisher David | Officer | Shares: 20000 | Value: $2,420,000.0 | Percent: 0.079960% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000200731725001031/0002007317-25-001031.txt
+2025-09-04 21:10:24 | ROBIN HOWARD W | Officer | Shares: 5166 | Value: $174,119.16 | Percent: 0.027163% | Link: https://www.sec.gov/Archives/edgar/data/1206869/000195917325005786/0001959173-25-005786.txt
+2025-09-04 21:10:25 | ROBIN HOWARD W | Officer | Shares: 5166 | Value: $174,119.16 | Percent: 0.027163% | Link: https://www.sec.gov/Archives/edgar/data/906709/000195917325005786/0001959173-25-005786.txt
