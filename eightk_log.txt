@@ -3311,3 +3311,4 @@
 2025-09-04 10:34:50 | 8-K - SHOE CARNIVAL INC (0000895447) (Filer) | 2025-09-04T06:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/895447/000119312525195319/0001193125-25-195319.txt
 2025-09-04 10:34:52 | 8-K - Dine Brands Global, Inc. (0000049754) (Filer) | 2025-09-04T06:17:22-04:00 | https://www.sec.gov/Archives/edgar/data/49754/000119312525195317/0001193125-25-195317.txt
 2025-09-04 10:34:53 | 8-K - Stardust Power Inc. (0001831979) (Filer) | 2025-09-04T06:15:40-04:00 | https://www.sec.gov/Archives/edgar/data/1831979/000149315225012599/0001493152-25-012599.txt
+2025-09-04 10:45:41 | 8-K - Ingevity Corp (0001653477) (Filer) | 2025-09-04T06:45:01-04:00 | https://www.sec.gov/Archives/edgar/data/1653477/000149315225012603/0001493152-25-012603.txt
