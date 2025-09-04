@@ -3417,3 +3417,4 @@
 2025-09-04 21:27:18 | 8-K - Huntsman CORP (0001307954) (Filer) | 2025-09-04T17:16:33-04:00 | https://www.sec.gov/Archives/edgar/data/1307954/000110465925087509/0001104659-25-087509.txt
 2025-09-04 21:27:21 | 8-K - Quality Industrial Corp. (0001393781) (Filer) | 2025-09-04T17:16:22-04:00 | https://www.sec.gov/Archives/edgar/data/1393781/000164117225026607/0001641172-25-026607.txt
 2025-09-04 21:27:23 | 8-K - Hour Loop, Inc (0001874875) (Filer) | 2025-09-04T17:15:11-04:00 | https://www.sec.gov/Archives/edgar/data/1874875/000164117225026606/0001641172-25-026606.txt
+2025-09-04 21:37:38 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-04T17:29:03-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003248/0001178913-25-003248.txt
