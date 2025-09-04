@@ -3357,3 +3357,5 @@
 2025-09-04 16:56:02 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-04T12:53:49-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000194/0001325878-25-000194.txt
 2025-09-04 16:56:02 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-04T12:48:51-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000166/0001326771-25-000166.txt
 2025-09-04 16:56:06 | 8-K - Fat Brands, Inc (0001705012) (Filer) | 2025-09-04T12:46:44-04:00 | https://www.sec.gov/Archives/edgar/data/1705012/000164117225026540/0001641172-25-026540.txt
+2025-09-04 17:14:25 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-04T13:05:53-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000163/0001331757-25-000163.txt
+2025-09-04 17:14:27 | 8-K - Genvor Inc (0001792941) (Filer) | 2025-09-04T12:57:41-04:00 | https://www.sec.gov/Archives/edgar/data/1792941/000190359625000441/0001903596-25-000441.txt

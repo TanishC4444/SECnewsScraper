@@ -2642,3 +2642,9 @@
 2025-09-04 16:56:08 | Hull Stephen Edward | Sector President | Shares: 12497 | Value: $2,227,590.0 | Percent: 0.009741% | Link: https://www.sec.gov/Archives/edgar/data/1336920/000197337925000247/0001973379-25-000247.txt
 2025-09-04 16:56:10 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000286/0001974078-25-000286.txt
 2025-09-04 16:56:11 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $465,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000286/0001974078-25-000286.txt
+2025-09-04 17:14:30 | Lovett William Radford II | 10% Stockholder | Shares: 100000 | Value: $2,901,000.0 | Percent: 0.284450% | Link: https://www.sec.gov/Archives/edgar/data/1825088/000194984625000444/0001949846-25-000444.txt
+2025-09-04 17:14:31 | Lovett William Radford II | 10% Stockholder | Shares: 100000 | Value: $2,901,000.0 | Percent: 0.284450% | Link: https://www.sec.gov/Archives/edgar/data/1545674/000194984625000444/0001949846-25-000444.txt
+2025-09-04 17:14:34 | Gill Harpal | President &amp; COO | Shares: 14203 | Value: $5,042,065.0 | Percent: 0.039751% | Link: https://www.sec.gov/Archives/edgar/data/1494794/000197337925000248/0001973379-25-000248.txt
+2025-09-04 17:14:35 | Gill Harpal | President &amp; COO | Shares: 14203 | Value: $5,042,065.0 | Percent: 0.039751% | Link: https://www.sec.gov/Archives/edgar/data/1408710/000197337925000248/0001973379-25-000248.txt
+2025-09-04 17:14:37 | Mark Crossley | affiliate | Shares: 30000 | Value: $744,009.6 | Percent: 0.024044% | Link: https://www.sec.gov/Archives/edgar/data/2014472/000197449425000099/0001974494-25-000099.txt
+2025-09-04 17:14:38 | Mark Crossley | affiliate | Shares: 30000 | Value: $744,009.6 | Percent: 0.024044% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000099/0001974494-25-000099.txt
