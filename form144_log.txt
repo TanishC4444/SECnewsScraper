@@ -2634,3 +2634,5 @@
 2025-09-04 15:37:01 | Yeung Mike Yan | Officer | Shares: 44000 | Value: $411,070.0 | Percent: 0.038335% | Link: https://www.sec.gov/Archives/edgar/data/1720446/000208433125000003/0002084331-25-000003.txt
 2025-09-04 15:37:03 | Elsbernd Brian | Officer | Shares: 30000 | Value: $585,640.54 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1763511/000195917325005766/0001959173-25-005766.txt
 2025-09-04 15:37:04 | Elsbernd Brian | Officer | Shares: 30000 | Value: $585,640.54 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005766/0001959173-25-005766.txt
+2025-09-04 16:25:31 | Wilson Julie F. | Officer | Shares: 15000 | Value: $262,050.0 | Percent: 0.004266% | Link: https://www.sec.gov/Archives/edgar/data/1871645/000194984625000443/0001949846-25-000443.txt
+2025-09-04 16:25:32 | Wilson Julie F. | Officer | Shares: 15000 | Value: $262,050.0 | Percent: 0.004266% | Link: https://www.sec.gov/Archives/edgar/data/1360604/000194984625000443/0001949846-25-000443.txt
