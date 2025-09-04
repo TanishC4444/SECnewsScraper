@@ -2626,3 +2626,5 @@
 2025-09-04 13:05:34 | Doherty John N. | Officer | Shares: 38114 | Value: $57,171.0 | Percent: 0.024671% | Link: https://www.sec.gov/Archives/edgar/data/1432133/000197640825000289/0001976408-25-000289.txt
 2025-09-04 13:05:35 | LI KAN | Officer | Shares: 83333 | Value: $1,310,828.0 | Percent: 0.197428% | Link: https://www.sec.gov/Archives/edgar/data/1991563/000199156325000002/0001991563-25-000002.txt
 2025-09-04 13:05:36 | LI KAN | Officer | Shares: 83333 | Value: $1,310,828.0 | Percent: 0.197428% | Link: https://www.sec.gov/Archives/edgar/data/1725033/000199156325000002/0001991563-25-000002.txt
+2025-09-04 13:56:14 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,573,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325005763/0001959173-25-005763.txt
+2025-09-04 13:56:15 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,573,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005763/0001959173-25-005763.txt
