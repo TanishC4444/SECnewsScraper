@@ -2690,3 +2690,8 @@
 2025-09-04 20:44:15 | McMahon Robert W. | Former Officer | Shares: 15303 | Value: $1,968,223.83 | Percent: 0.005398% | Link: https://www.sec.gov/Archives/edgar/data/1090872/000195917325005781/0001959173-25-005781.txt
 2025-09-04 20:44:16 | JOHNSON MARIANNE BOYD | Officer | Shares: 100000 | Value: $8,658,298.0 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/1186742/000200731725001029/0002007317-25-001029.txt
 2025-09-04 20:44:17 | JOHNSON MARIANNE BOYD | Officer | Shares: 100000 | Value: $8,658,298.0 | Percent: 0.124713% | Link: https://www.sec.gov/Archives/edgar/data/906553/000200731725001029/0002007317-25-001029.txt
+2025-09-04 20:53:19 | JEFFREY EMERY | Officer | Shares: 300000 | Value: $6,684,540.0 | Percent: 0.204845% | Link: https://www.sec.gov/Archives/edgar/data/1926809/000195004725006765/0001950047-25-006765.txt
+2025-09-04 20:53:20 | JEFFREY EMERY | Officer | Shares: 300000 | Value: $6,684,540.0 | Percent: 0.204845% | Link: https://www.sec.gov/Archives/edgar/data/1880319/000195004725006765/0001950047-25-006765.txt
+2025-09-04 20:53:21 | Tessari Eben | Officer | Shares: 85271 | Value: $3,028,740.0 | Percent: 0.196147% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001088/0001921094-25-001088.txt
+2025-09-04 20:53:22 | Tessari Eben | Officer | Shares: 85271 | Value: $3,028,740.0 | Percent: 0.196147% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001088/0001921094-25-001088.txt
+2025-09-04 20:53:23 | EDWARD GOLDBERG | Officer | Shares: 250000 | Value: $5,567,750.0 | Percent: 0.170704% | Link: https://www.sec.gov/Archives/edgar/data/1893007/000195004725006764/0001950047-25-006764.txt
