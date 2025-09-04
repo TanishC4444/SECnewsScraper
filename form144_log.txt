@@ -2610,3 +2610,5 @@
 2025-09-03 22:51:40 | PAULSON &amp; CO. INC. | 10% Stockholder | Shares: 1206839 | Value: $60,921,232.0 | Percent: 3.369937% | Link: https://www.sec.gov/Archives/edgar/data/1035674/000101359425001126/0001013594-25-001126.txt
 2025-09-03 22:51:42 | TOBIAS DAVID | Officer | Shares: 325239 | Value: $8,781.0 | Percent: 0.218358% | Link: https://www.sec.gov/Archives/edgar/data/1582097/000109690625001475/0001096906-25-001475.txt
 2025-09-03 22:51:43 | TOBIAS DAVID | Officer | Shares: 325239 | Value: $8,781.0 | Percent: 0.218358% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000109690625001475/0001096906-25-001475.txt
+2025-09-04 01:54:30 | Yao Huiwen | Officer | Shares: 16000 | Value: $768,626.0 | Percent: 0.005945% | Link: https://www.sec.gov/Archives/edgar/data/2027976/000149315225012594/0001493152-25-012594.txt
+2025-09-04 01:54:31 | Yao Huiwen | Officer | Shares: 16000 | Value: $768,626.0 | Percent: 0.005945% | Link: https://www.sec.gov/Archives/edgar/data/1780312/000149315225012594/0001493152-25-012594.txt
