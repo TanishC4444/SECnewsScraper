@@ -2630,3 +2630,7 @@
 2025-09-04 13:56:15 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,573,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005763/0001959173-25-005763.txt
 2025-09-04 15:20:44 | Strahan Gary Eugene | 10% Stockholder | Shares: 40438 | Value: $26,927.66 | Percent: 0.116959% | Link: https://www.sec.gov/Archives/edgar/data/2004751/000194984625000441/0001949846-25-000441.txt
 2025-09-04 15:20:45 | Strahan Gary Eugene | 10% Stockholder | Shares: 40438 | Value: $26,927.66 | Percent: 0.116959% | Link: https://www.sec.gov/Archives/edgar/data/1863990/000194984625000441/0001949846-25-000441.txt
+2025-09-04 15:37:00 | Yeung Mike Yan | Officer | Shares: 44000 | Value: $411,070.0 | Percent: 0.038335% | Link: https://www.sec.gov/Archives/edgar/data/2084331/000208433125000003/0002084331-25-000003.txt
+2025-09-04 15:37:01 | Yeung Mike Yan | Officer | Shares: 44000 | Value: $411,070.0 | Percent: 0.038335% | Link: https://www.sec.gov/Archives/edgar/data/1720446/000208433125000003/0002084331-25-000003.txt
+2025-09-04 15:37:03 | Elsbernd Brian | Officer | Shares: 30000 | Value: $585,640.54 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1763511/000195917325005766/0001959173-25-005766.txt
+2025-09-04 15:37:04 | Elsbernd Brian | Officer | Shares: 30000 | Value: $585,640.54 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005766/0001959173-25-005766.txt
