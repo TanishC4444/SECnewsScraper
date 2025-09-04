@@ -2628,3 +2628,5 @@
 2025-09-04 13:05:36 | LI KAN | Officer | Shares: 83333 | Value: $1,310,828.0 | Percent: 0.197428% | Link: https://www.sec.gov/Archives/edgar/data/1725033/000199156325000002/0001991563-25-000002.txt
 2025-09-04 13:56:14 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,573,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325005763/0001959173-25-005763.txt
 2025-09-04 13:56:15 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,573,000.0 | Percent: 0.007492% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325005763/0001959173-25-005763.txt
+2025-09-04 15:20:44 | Strahan Gary Eugene | 10% Stockholder | Shares: 40438 | Value: $26,927.66 | Percent: 0.116959% | Link: https://www.sec.gov/Archives/edgar/data/2004751/000194984625000441/0001949846-25-000441.txt
+2025-09-04 15:20:45 | Strahan Gary Eugene | 10% Stockholder | Shares: 40438 | Value: $26,927.66 | Percent: 0.116959% | Link: https://www.sec.gov/Archives/edgar/data/1863990/000194984625000441/0001949846-25-000441.txt

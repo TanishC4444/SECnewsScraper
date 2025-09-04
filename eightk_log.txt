@@ -3351,3 +3351,6 @@
 2025-09-04 13:56:10 | 8-K - Limitless X Holdings Inc. (0001803977) (Filer) | 2025-09-04T09:48:22-04:00 | https://www.sec.gov/Archives/edgar/data/1803977/000164117225026525/0001641172-25-026525.txt
 2025-09-04 14:16:19 | 8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer) | 2025-09-04T10:13:53-04:00 | https://www.sec.gov/Archives/edgar/data/1971532/000164117225026527/0001641172-25-026527.txt
 2025-09-04 14:36:18 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-09-04T10:25:11-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000133039925000025/0001330399-25-000025.txt
+2025-09-04 15:20:39 | 8-K - Mind Medicine (MindMed) Inc. (0001813814) (Filer) | 2025-09-04T11:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1813814/000095017025112973/0000950170-25-112973.txt
+2025-09-04 15:20:41 | 8-K - JOHN WILEY & SONS, INC. (0000107140) (Filer) | 2025-09-04T11:02:45-04:00 | https://www.sec.gov/Archives/edgar/data/107140/000010714025000152/0000107140-25-000152.txt
+2025-09-04 15:20:42 | 8-K - CANADIAN DERIVATIVES CLEARING CORP (0000319643) (Filer) | 2025-09-04T10:59:11-04:00 | https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211.txt
