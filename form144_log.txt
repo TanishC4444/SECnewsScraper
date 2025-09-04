@@ -2656,3 +2656,5 @@
 2025-09-04 18:35:18 | Eilers Peter | Officer | Shares: 6000 | Value: $32,078.56 | Percent: 0.021104% | Link: https://www.sec.gov/Archives/edgar/data/5981/000200731725001026/0002007317-25-001026.txt
 2025-09-04 18:35:19 | ZOLEY GEORGE C | Officer | Shares: 155881 | Value: $3,268,824.57 | Percent: 0.110136% | Link: https://www.sec.gov/Archives/edgar/data/1012998/000200731725001025/0002007317-25-001025.txt
 2025-09-04 18:35:20 | ZOLEY GEORGE C | Officer | Shares: 155881 | Value: $3,268,824.57 | Percent: 0.110136% | Link: https://www.sec.gov/Archives/edgar/data/923796/000200731725001025/0002007317-25-001025.txt
+2025-09-04 18:50:24 | Taubert Jennifer L | Officer | Shares: 56471 | Value: $10,040,904.33 | Percent: 0.002345% | Link: https://www.sec.gov/Archives/edgar/data/1745938/000195917325005770/0001959173-25-005770.txt
+2025-09-04 18:50:24 | Taubert Jennifer L | Officer | Shares: 56471 | Value: $10,040,904.33 | Percent: 0.002345% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325005770/0001959173-25-005770.txt
