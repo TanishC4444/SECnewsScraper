@@ -2664,3 +2664,7 @@
 2025-09-04 19:28:13 | Hwang Tim | Director | Shares: 5785 | Value: $24,545.18 | Percent: 0.003529% | Link: https://www.sec.gov/Archives/edgar/data/1823466/000195917325005772/0001959173-25-005772.txt
 2025-09-04 19:38:41 | Slack Stephen | Director | Shares: 188913 | Value: $217,249.95 | Percent: 0.555242% | Link: https://www.sec.gov/Archives/edgar/data/1225203/000194984625000445/0001949846-25-000445.txt
 2025-09-04 19:38:42 | Slack Stephen | Director | Shares: 188913 | Value: $217,249.95 | Percent: 0.555242% | Link: https://www.sec.gov/Archives/edgar/data/101594/000194984625000445/0001949846-25-000445.txt
+2025-09-04 19:56:46 | Arunkundrum Prakash | Officer | Shares: 9900 | Value: $1,039,500.0 | Percent: 0.006721% | Link: https://www.sec.gov/Archives/edgar/data/1813492/000197337925000249/0001973379-25-000249.txt
+2025-09-04 19:56:47 | Arunkundrum Prakash | Officer | Shares: 9900 | Value: $1,039,500.0 | Percent: 0.006721% | Link: https://www.sec.gov/Archives/edgar/data/1032975/000197337925000249/0001973379-25-000249.txt
+2025-09-04 19:56:48 | Harrison Bane | Officer | Shares: 9339 | Value: $209,944.0 | Percent: 0.007284% | Link: https://www.sec.gov/Archives/edgar/data/1952229/000196922325000721/0001969223-25-000721.txt
+2025-09-04 19:56:49 | Harrison Bane | Officer | Shares: 9339 | Value: $209,944.0 | Percent: 0.007284% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000721/0001969223-25-000721.txt
