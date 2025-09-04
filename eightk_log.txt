@@ -3349,3 +3349,4 @@
 2025-09-04 13:35:03 | 8-K - LivaNova PLC (0001639691) (Filer) | 2025-09-04T09:07:05-04:00 | https://www.sec.gov/Archives/edgar/data/1639691/000163969125000120/0001639691-25-000120.txt
 2025-09-04 13:35:05 | 8-K - ACTELIS NETWORKS INC (0001141284) (Filer) | 2025-09-04T09:05:27-04:00 | https://www.sec.gov/Archives/edgar/data/1141284/000121390025084298/0001213900-25-084298.txt
 2025-09-04 13:56:10 | 8-K - Limitless X Holdings Inc. (0001803977) (Filer) | 2025-09-04T09:48:22-04:00 | https://www.sec.gov/Archives/edgar/data/1803977/000164117225026525/0001641172-25-026525.txt
+2025-09-04 14:16:19 | 8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer) | 2025-09-04T10:13:53-04:00 | https://www.sec.gov/Archives/edgar/data/1971532/000164117225026527/0001641172-25-026527.txt
