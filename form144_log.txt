@@ -2707,3 +2707,7 @@
 2025-09-04 22:16:31 | DANIEL REDINGTON | Officer | Shares: 20000 | Value: $83,252.0 | Percent: 0.011294% | Link: https://www.sec.gov/Archives/edgar/data/1708055/000195004725006767/0001950047-25-006767.txt
 2025-09-04 22:16:33 | ANTHONY A RABB | Officer | Shares: 5001 | Value: $6,375.27 | Percent: 0.035244% | Link: https://www.sec.gov/Archives/edgar/data/1953607/000195004725006766/0001950047-25-006766.txt
 2025-09-04 22:16:34 | ANTHONY A RABB | Officer | Shares: 5001 | Value: $6,375.27 | Percent: 0.035244% | Link: https://www.sec.gov/Archives/edgar/data/1819438/000195004725006766/0001950047-25-006766.txt
+2025-09-04 22:32:43 | William S. Fisher | Director | Shares: 243064 | Value: $5,788,669.0 | Percent: 0.065508% | Link: https://www.sec.gov/Archives/edgar/data/1217081/000141588925023740/0001415889-25-023740.txt
+2025-09-04 22:32:44 | William S. Fisher | Director | Shares: 243064 | Value: $5,788,669.0 | Percent: 0.065508% | Link: https://www.sec.gov/Archives/edgar/data/39911/000141588925023740/0001415889-25-023740.txt
+2025-09-04 22:32:45 | Benjamin S. Butcher | Director | Shares: 25000 | Value: $912,250.0 | Percent: 0.013391% | Link: https://www.sec.gov/Archives/edgar/data/1517406/000141588925023736/0001415889-25-023736.txt
+2025-09-04 22:32:46 | Benjamin S. Butcher | Director | Shares: 25000 | Value: $912,250.0 | Percent: 0.013391% | Link: https://www.sec.gov/Archives/edgar/data/1479094/000141588925023736/0001415889-25-023736.txt
