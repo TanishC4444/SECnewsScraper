@@ -3382,3 +3382,13 @@
 2025-09-04 20:19:50 | 8-K - Level 3 Parent, LLC (0000794323) (Filer) | 2025-09-04T16:15:49-04:00 | https://www.sec.gov/Archives/edgar/data/794323/000119312525196061/0001193125-25-196061.txt
 2025-09-04 20:19:51 | 8-K - Lumen Technologies, Inc. (0000018926) (Filer) | 2025-09-04T16:15:49-04:00 | https://www.sec.gov/Archives/edgar/data/18926/000119312525196061/0001193125-25-196061.txt
 2025-09-04 20:19:53 | 8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer) | 2025-09-04T16:15:40-04:00 | https://www.sec.gov/Archives/edgar/data/1136869/000119312525196060/0001193125-25-196060.txt
+2025-09-04 20:33:59 | 8-K - CADENCE DESIGN SYSTEMS INC (0000813672) (Filer) | 2025-09-04T16:32:23-04:00 | https://www.sec.gov/Archives/edgar/data/813672/000081367225000126/0000813672-25-000126.txt
+2025-09-04 20:34:00 | 8-K - Cartica Acquisition Corp (0001848437) (Filer) | 2025-09-04T16:31:46-04:00 | https://www.sec.gov/Archives/edgar/data/1848437/000110465925087488/0001104659-25-087488.txt
+2025-09-04 20:34:01 | 8-K - STRATA Skin Sciences, Inc. (0001051514) (Filer) | 2025-09-04T16:31:12-04:00 | https://www.sec.gov/Archives/edgar/data/1051514/000114036125034000/0001140361-25-034000.txt
+2025-09-04 20:34:03 | 8-K - MEI Pharma, Inc. (0001262104) (Filer) | 2025-09-04T16:31:01-04:00 | https://www.sec.gov/Archives/edgar/data/1262104/000092963825003398/0000929638-25-003398.txt
+2025-09-04 20:34:04 | 8-K - Stonepeak-Plus Infrastructure Fund LP (0002045458) (Filer) | 2025-09-04T16:30:44-04:00 | https://www.sec.gov/Archives/edgar/data/2045458/000114036125033999/0001140361-25-033999.txt
+2025-09-04 20:34:05 | 8-K - Borealis Foods Inc. (0001852973) (Filer) | 2025-09-04T16:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1852973/000121390025084534/0001213900-25-084534.txt
+2025-09-04 20:34:07 | 8-K - Freshworks Inc. (0001544522) (Filer) | 2025-09-04T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1544522/000154452225000078/0001544522-25-000078.txt
+2025-09-04 20:34:10 | 8-K - MARRIOTT VACATIONS WORLDWIDE Corp (0001524358) (Filer) | 2025-09-04T16:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1524358/000152435825000158/0001524358-25-000158.txt
+2025-09-04 20:34:12 | 8-K - American Outdoor Brands, Inc. (0001808997) (Filer) | 2025-09-04T16:29:55-04:00 | https://www.sec.gov/Archives/edgar/data/1808997/000180899725000034/0001808997-25-000034.txt
+2025-09-04 20:34:13 | 8-K - CSLM Digital Asset Acquisition Corp III, Ltd (0002068454) (Filer) | 2025-09-04T16:28:15-04:00 | https://www.sec.gov/Archives/edgar/data/2068454/000182912625007166/0001829126-25-007166.txt

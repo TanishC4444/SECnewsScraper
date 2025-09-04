@@ -2674,3 +2674,9 @@
 2025-09-04 20:19:58 | Jiyane Siphelele | Officer | Shares: 25533 | Value: $2,316,126.0 | Percent: 0.008962% | Link: https://www.sec.gov/Archives/edgar/data/1820953/000192109425001080/0001921094-25-001080.txt
 2025-09-04 20:20:01 | THOMAS AXMACHER | Officer | Shares: 9255 | Value: $347,062.5 | Percent: 0.024118% | Link: https://www.sec.gov/Archives/edgar/data/1140170/000195004725006739/0001950047-25-006739.txt
 2025-09-04 20:20:02 | THOMAS AXMACHER | Officer | Shares: 9255 | Value: $347,062.5 | Percent: 0.024118% | Link: https://www.sec.gov/Archives/edgar/data/945114/000195004725006739/0001950047-25-006739.txt
+2025-09-04 20:34:15 | Hopman Mark | Officer | Shares: 6818 | Value: $136,179.7 | Percent: 0.015684% | Link: https://www.sec.gov/Archives/edgar/data/2048497/000200731725001028/0002007317-25-001028.txt
+2025-09-04 20:34:16 | Hopman Mark | Officer | Shares: 6818 | Value: $136,179.7 | Percent: 0.015684% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725001028/0002007317-25-001028.txt
+2025-09-04 20:34:17 | MICHAEL WEENING | Officer | Shares: 24000 | Value: $1,440,000.0 | Percent: 0.036751% | Link: https://www.sec.gov/Archives/edgar/data/1678385/000195004725006761/0001950047-25-006761.txt
+2025-09-04 20:34:17 | MICHAEL WEENING | Officer | Shares: 24000 | Value: $1,440,000.0 | Percent: 0.036751% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725006761/0001950047-25-006761.txt
+2025-09-04 20:34:19 | MATTHEW OHAYER | Officer | Shares: 100000 | Value: $5,096,010.0 | Percent: 0.223784% | Link: https://www.sec.gov/Archives/edgar/data/1579733/000195004725006760/0001950047-25-006760.txt
+2025-09-04 20:34:21 | MATTHEW OHAYER | Officer | Shares: 100000 | Value: $5,096,010.0 | Percent: 0.223784% | Link: https://www.sec.gov/Archives/edgar/data/1025680/000195004725006760/0001950047-25-006760.txt
