@@ -2785,3 +2785,9 @@
 2025-09-05 21:13:39 | Spectrum VII Co-Investment Fund, L.P. | Affiliate | Shares: 5773 | Value: $23,092.0 | Percent: 0.005856% | Link: https://www.sec.gov/Archives/edgar/data/1809519/000196186325000141/0001961863-25-000141.txt
 2025-09-05 21:13:41 | Saad Mark E | Director | Shares: 9127 | Value: $1,141,529.0 | Percent: 0.018290% | Link: https://www.sec.gov/Archives/edgar/data/1579428/000192109425001106/0001921094-25-001106.txt
 2025-09-05 21:13:43 | Saad Mark E | Director | Shares: 9127 | Value: $1,141,529.0 | Percent: 0.018290% | Link: https://www.sec.gov/Archives/edgar/data/1295913/000192109425001106/0001921094-25-001106.txt
+2025-09-05 21:27:53 | Hopman Mark | Officer | Shares: 11411 | Value: $234,656.73 | Percent: 0.026250% | Link: https://www.sec.gov/Archives/edgar/data/2048497/000200731725001038/0002007317-25-001038.txt
+2025-09-05 21:27:54 | Hopman Mark | Officer | Shares: 11411 | Value: $234,656.73 | Percent: 0.026250% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725001038/0002007317-25-001038.txt
+2025-09-05 21:27:56 | TAMIR POLEG | Officer | Shares: 9223 | Value: $49,695.37 | Percent: 0.004407% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725006815/0001950047-25-006815.txt
+2025-09-05 21:27:57 | TAMIR POLEG | Officer | Shares: 9223 | Value: $49,695.37 | Percent: 0.004407% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725006815/0001950047-25-006815.txt
+2025-09-05 21:27:59 | Landini Kenneth W | Director | Shares: 7000 | Value: $595,000.0 | Percent: 0.030395% | Link: https://www.sec.gov/Archives/edgar/data/1517035/000197407825000288/0001974078-25-000288.txt
+2025-09-05 21:28:00 | Landini Kenneth W | Director | Shares: 7000 | Value: $595,000.0 | Percent: 0.030395% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000197407825000288/0001974078-25-000288.txt

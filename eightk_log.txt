@@ -3527,3 +3527,11 @@
 2025-09-05 21:13:22 | 8-K - APPYEA, INC (0001568969) (Filer) | 2025-09-05T17:02:15-04:00 | https://www.sec.gov/Archives/edgar/data/1568969/000164117225026731/0001641172-25-026731.txt
 2025-09-05 21:13:25 | 8-K - VisionWave Holdings, Inc. (0002038439) (Filer) | 2025-09-05T17:01:15-04:00 | https://www.sec.gov/Archives/edgar/data/2038439/000173112225001202/0001731122-25-001202.txt
 2025-09-05 21:13:27 | 8-K - Petros Pharmaceuticals, Inc. (0001815903) (Filer) | 2025-09-05T17:00:53-04:00 | https://www.sec.gov/Archives/edgar/data/1815903/000110465925087887/0001104659-25-087887.txt
+2025-09-05 21:27:40 | 8-K - SOCIETY PASS INCORPORATED. (0001817511) (Filer) | 2025-09-05T17:27:06-04:00 | https://www.sec.gov/Archives/edgar/data/1817511/000164117225026750/0001641172-25-026750.txt
+2025-09-05 21:27:41 | 8-K - BioSig Technologies, Inc. (0001530766) (Filer) | 2025-09-05T17:26:42-04:00 | https://www.sec.gov/Archives/edgar/data/1530766/000164117225026749/0001641172-25-026749.txt
+2025-09-05 21:27:43 | 8-K - Worksport Ltd (0001096275) (Filer) | 2025-09-05T17:25:50-04:00 | https://www.sec.gov/Archives/edgar/data/1096275/000164117225026746/0001641172-25-026746.txt
+2025-09-05 21:27:45 | 8-K - Kartoon Studios, Inc. (0001355848) (Filer) | 2025-09-05T17:25:26-04:00 | https://www.sec.gov/Archives/edgar/data/1355848/000168316825006730/0001683168-25-006730.txt
+2025-09-05 21:27:46 | 8-K - Emergent BioSolutions Inc. (0001367644) (Filer) | 2025-09-05T17:23:20-04:00 | https://www.sec.gov/Archives/edgar/data/1367644/000136764425000183/0001367644-25-000183.txt
+2025-09-05 21:27:48 | 8-K - XTI Aerospace, Inc. (0001529113) (Filer) | 2025-09-05T17:22:46-04:00 | https://www.sec.gov/Archives/edgar/data/1529113/000121390025085154/0001213900-25-085154.txt
+2025-09-05 21:27:49 | 8-K - Cyngn Inc. (0001874097) (Filer) | 2025-09-05T17:22:15-04:00 | https://www.sec.gov/Archives/edgar/data/1874097/000121390025085151/0001213900-25-085151.txt
+2025-09-05 21:27:52 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-09-05T17:20:45-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025085148/0001213900-25-085148.txt
