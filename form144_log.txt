@@ -2753,3 +2753,5 @@
 2025-09-05 18:00:18 | Saba Capital Management, L.P. | Investment Manager | Shares: 254128 | Value: $2,355,766.56 | Percent: 0.916900% | Link: https://www.sec.gov/Archives/edgar/data/828803/000151028125000451/0001510281-25-000451.txt
 2025-09-05 18:48:15 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,408,878.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000197325125000066/0001973251-25-000066.txt
 2025-09-05 18:48:17 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,408,878.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000066/0001973251-25-000066.txt
+2025-09-05 19:47:40 | Cotter Martin | Officer | Shares: 12500 | Value: $3,078,092.5 | Percent: 0.002541% | Link: https://www.sec.gov/Archives/edgar/data/1685760/000195917325005809/0001959173-25-005809.txt
+2025-09-05 19:47:41 | Cotter Martin | Officer | Shares: 12500 | Value: $3,078,092.5 | Percent: 0.002541% | Link: https://www.sec.gov/Archives/edgar/data/6281/000195917325005809/0001959173-25-005809.txt
