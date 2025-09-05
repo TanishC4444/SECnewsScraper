@@ -2797,3 +2797,5 @@
 2025-09-05 21:57:10 | J. Craig Smith Rev Trust Kari G. Smith Rev Trust TEN COMM | Board Member | Shares: 20000 | Value: $1,186,677.89 | Percent: 0.039093% | Link: https://www.sec.gov/Archives/edgar/data/885245/000196922325000735/0001969223-25-000735.txt
 2025-09-05 22:17:37 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 642906 | Value: $4,461,767.0 | Percent: 0.577840% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000033/0001178937-25-000033.txt
 2025-09-05 22:17:38 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 642906 | Value: $4,461,767.0 | Percent: 0.577840% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000033/0001178937-25-000033.txt
+2025-09-05 23:25:45 | Warburg Pincus, LLC | Affiliate | Shares: 4500000 | Value: $76,455,000.0 | Percent: 3.054968% | Link: https://www.sec.gov/Archives/edgar/data/1169770/000095017025113304/0000950170-25-113304.txt
+2025-09-05 23:25:46 | Warburg Pincus, LLC | Affiliate | Shares: 4500000 | Value: $76,455,000.0 | Percent: 3.054968% | Link: https://www.sec.gov/Archives/edgar/data/1162870/000095017025113304/0000950170-25-113304.txt
