@@ -2727,3 +2727,5 @@
 2025-09-05 14:34:06 | Child Jason | Officer | Shares: 10640 | Value: $1,468,320.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325005796/0001959173-25-005796.txt
 2025-09-05 14:34:06 | Sun Angela | Director | Shares: 6800 | Value: $108,936.0 | Percent: 0.002937% | Link: https://www.sec.gov/Archives/edgar/data/1746818/000195917325005795/0001959173-25-005795.txt
 2025-09-05 14:34:06 | Sun Angela | Director | Shares: 6800 | Value: $108,936.0 | Percent: 0.002937% | Link: https://www.sec.gov/Archives/edgar/data/1628369/000195917325005795/0001959173-25-005795.txt
+2025-09-05 14:45:31 | HENNING THOMAS EDWARD | Director | Shares: 8196 | Value: $1,056,218.52 | Percent: 0.032122% | Link: https://www.sec.gov/Archives/edgar/data/1269806/000195917325005797/0001959173-25-005797.txt
+2025-09-05 14:45:32 | HENNING THOMAS EDWARD | Director | Shares: 8196 | Value: $1,056,218.52 | Percent: 0.032122% | Link: https://www.sec.gov/Archives/edgar/data/1258602/000195917325005797/0001959173-25-005797.txt
