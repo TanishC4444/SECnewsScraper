@@ -2733,3 +2733,5 @@
 2025-09-05 15:15:04 | Clark Ralph A. | Officer | Shares: 16161 | Value: $190,711.0 | Percent: 0.126344% | Link: https://www.sec.gov/Archives/edgar/data/1351636/000197337925000251/0001973379-25-000251.txt
 2025-09-05 15:15:07 | RUSSELL HEATHER J | Officer | Shares: 5337 | Value: $480,383.37 | Percent: 0.002740% | Link: https://www.sec.gov/Archives/edgar/data/1741750/000195917325005800/0001959173-25-005800.txt
 2025-09-05 15:15:08 | RUSSELL HEATHER J | Officer | Shares: 5337 | Value: $480,383.37 | Percent: 0.002740% | Link: https://www.sec.gov/Archives/edgar/data/1552033/000195917325005800/0001959173-25-005800.txt
+2025-09-05 15:31:51 | GOODSON JOHN PAGE | Officer | Shares: 42531 | Value: $412,976.01 | Percent: 0.006544% | Link: https://www.sec.gov/Archives/edgar/data/1818201/000195917325005802/0001959173-25-005802.txt
+2025-09-05 15:31:52 | GOODSON JOHN PAGE | Officer | Shares: 42531 | Value: $412,976.01 | Percent: 0.006544% | Link: https://www.sec.gov/Archives/edgar/data/1421872/000195917325005802/0001959173-25-005802.txt
