@@ -2767,3 +2767,7 @@
 2025-09-05 20:36:23 | Kirgan Danielle L. | Officer | Shares: 200000 | Value: $3,448,000.0 | Percent: 0.073654% | Link: https://www.sec.gov/Archives/edgar/data/794367/000079436725000140/0000794367-25-000140.txt
 2025-09-05 20:36:25 | LESLIE A SWANSON GALLARDO | Officer | Shares: 17500 | Value: $607,925.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/1826424/000195004725006808/0001950047-25-006808.txt
 2025-09-05 20:36:25 | LESLIE A SWANSON GALLARDO | Officer | Shares: 17500 | Value: $607,925.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/899715/000195004725006808/0001950047-25-006808.txt
+2025-09-05 20:46:26 | FRANK P. MCCORMICK | Director | Shares: 74000 | Value: $3,932,056.6 | Percent: 0.038709% | Link: https://www.sec.gov/Archives/edgar/data/1743881/000195004725006810/0001950047-25-006810.txt
+2025-09-05 20:46:27 | FRANK P. MCCORMICK | Director | Shares: 74000 | Value: $3,932,056.6 | Percent: 0.038709% | Link: https://www.sec.gov/Archives/edgar/data/1257809/000195004725006810/0001950047-25-006810.txt
+2025-09-05 20:46:30 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,485,261.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001104/0001921094-25-001104.txt
+2025-09-05 20:46:31 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,485,261.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001104/0001921094-25-001104.txt
