@@ -2771,3 +2771,9 @@
 2025-09-05 20:46:27 | FRANK P. MCCORMICK | Director | Shares: 74000 | Value: $3,932,056.6 | Percent: 0.038709% | Link: https://www.sec.gov/Archives/edgar/data/1257809/000195004725006810/0001950047-25-006810.txt
 2025-09-05 20:46:30 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,485,261.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001104/0001921094-25-001104.txt
 2025-09-05 20:46:31 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $12,485,261.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001104/0001921094-25-001104.txt
+2025-09-05 20:55:24 | EVANGELOS PERROS | Officer | Shares: 9435 | Value: $366,432.76 | Percent: 0.012316% | Link: https://www.sec.gov/Archives/edgar/data/2018687/000195004725006812/0001950047-25-006812.txt
+2025-09-05 20:55:25 | EVANGELOS PERROS | Officer | Shares: 9435 | Value: $366,432.76 | Percent: 0.012316% | Link: https://www.sec.gov/Archives/edgar/data/1883085/000195004725006812/0001950047-25-006812.txt
+2025-09-05 20:55:27 | James E Shada Rev Trust dtd 10/30/2006 | Board Member | Shares: 20000 | Value: $1,180,000.0 | Percent: 0.039093% | Link: https://www.sec.gov/Archives/edgar/data/1247710/000196922325000734/0001969223-25-000734.txt
+2025-09-05 20:55:28 | James E Shada Rev Trust dtd 10/30/2006 | Board Member | Shares: 20000 | Value: $1,180,000.0 | Percent: 0.039093% | Link: https://www.sec.gov/Archives/edgar/data/885245/000196922325000734/0001969223-25-000734.txt
+2025-09-05 20:55:29 | OCAMPO SUSAN | 10% Stockholder | Shares: 113275 | Value: $14,885,389.21 | Percent: 0.152106% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000449/0001949846-25-000449.txt
+2025-09-05 20:55:30 | OCAMPO SUSAN | 10% Stockholder | Shares: 113275 | Value: $14,885,389.21 | Percent: 0.152106% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000449/0001949846-25-000449.txt
