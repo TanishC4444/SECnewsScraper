@@ -2759,3 +2759,7 @@
 2025-09-05 19:56:51 | Wayne DeVeydt | former director | Shares: 25000 | Value: $563,700.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000728/0001969223-25-000728.txt
 2025-09-05 19:56:52 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $230,000.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000076490025000020/0000764900-25-000020.txt
 2025-09-05 19:56:53 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $230,000.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1228716/000076490025000020/0000764900-25-000020.txt
+2025-09-05 20:20:09 | Antonoff Lauren | Officer | Shares: 17764 | Value: $1,614,806.22 | Percent: 0.022907% | Link: https://www.sec.gov/Archives/edgar/data/1942029/000195917325005813/0001959173-25-005813.txt
+2025-09-05 20:20:10 | Antonoff Lauren | Officer | Shares: 17764 | Value: $1,614,806.22 | Percent: 0.022907% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000195917325005813/0001959173-25-005813.txt
+2025-09-05 20:20:12 | Halvorsen Laila Cecilie | Chief Financial Officer | Shares: 30000 | Value: $368,100.0 | Percent: 0.018657% | Link: https://www.sec.gov/Archives/edgar/data/1991919/000095015725000760/0000950157-25-000760.txt
+2025-09-05 20:20:13 | Halvorsen Laila Cecilie | Chief Financial Officer | Shares: 30000 | Value: $368,100.0 | Percent: 0.018657% | Link: https://www.sec.gov/Archives/edgar/data/1331284/000095015725000760/0000950157-25-000760.txt

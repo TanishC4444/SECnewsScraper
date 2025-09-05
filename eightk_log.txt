@@ -3484,3 +3484,10 @@
 2025-09-05 19:27:32 | 8-K - Benchmark 2020-B16 Mortgage Trust (0001797288) (Filer) | 2025-09-05T15:17:11-04:00 | https://www.sec.gov/Archives/edgar/data/1797288/000188852425015916/0001888524-25-015916.txt
 2025-09-05 19:38:09 | 8-K - Veritex Holdings, Inc. (0001501570) (Filer) | 2025-09-05T15:32:58-04:00 | https://www.sec.gov/Archives/edgar/data/1501570/000150157025000149/0001501570-25-000149.txt
 2025-09-05 19:56:48 | 8-K - COMM 2015-LC19 Mortgage Trust (0001628112) (Filer) | 2025-09-05T15:50:04-04:00 | https://www.sec.gov/Archives/edgar/data/1628112/000188852425015922/0001888524-25-015922.txt
+2025-09-05 20:19:59 | 8-K - Hess Midstream LP (0001789832) (Filer) | 2025-09-05T16:17:06-04:00 | https://www.sec.gov/Archives/edgar/data/1789832/000119312525197236/0001193125-25-197236.txt
+2025-09-05 20:20:00 | 8-K - Sotera Health Co (0001822479) (Filer) | 2025-09-05T16:16:04-04:00 | https://www.sec.gov/Archives/edgar/data/1822479/000119312525197231/0001193125-25-197231.txt
+2025-09-05 20:20:02 | 8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer) | 2025-09-05T16:15:56-04:00 | https://www.sec.gov/Archives/edgar/data/1837671/000183767125000051/0001837671-25-000051.txt
+2025-09-05 20:20:03 | 8-K - Provident Bancorp, Inc. /MD/ (0001778784) (Filer) | 2025-09-05T16:15:55-04:00 | https://www.sec.gov/Archives/edgar/data/1778784/000110465925087811/0001104659-25-087811.txt
+2025-09-05 20:20:05 | 8-K - Cohen & Co Inc. (0001270436) (Filer) | 2025-09-05T16:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/1270436/000110465925087809/0001104659-25-087809.txt
+2025-09-05 20:20:06 | 8-K - BODY & MIND INC. (0001715611) (Filer) | 2025-09-05T16:15:43-04:00 | https://www.sec.gov/Archives/edgar/data/1715611/000164033425001639/0001640334-25-001639.txt
+2025-09-05 20:20:07 | 8-K - Silver Pegasus Acquisition Corp. (0002028735) (Filer) | 2025-09-05T16:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/2028735/000121390025085032/0001213900-25-085032.txt
