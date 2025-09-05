@@ -2721,3 +2721,9 @@
 2025-09-05 13:46:17 | Brailo Andy | Officer | Shares: 5581 | Value: $146,724.49 | Percent: 0.006761% | Link: https://www.sec.gov/Archives/edgar/data/1577916/000195917325005787/0001959173-25-005787.txt
 2025-09-05 14:16:09 | Rodriguez Carlos A | Director | Shares: 12056 | Value: $3,631,146.64 | Percent: 0.002976% | Link: https://www.sec.gov/Archives/edgar/data/1378514/000195917325005790/0001959173-25-005790.txt
 2025-09-05 14:16:10 | Rodriguez Carlos A | Director | Shares: 12056 | Value: $3,631,146.64 | Percent: 0.002976% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005790/0001959173-25-005790.txt
+2025-09-05 14:34:04 | Boyd Peter E. | Officer | Shares: 15000 | Value: $79,500.0 | Percent: 0.015042% | Link: https://www.sec.gov/Archives/edgar/data/1739816/000200731725001032/0002007317-25-001032.txt
+2025-09-05 14:34:05 | Boyd Peter E. | Officer | Shares: 15000 | Value: $79,500.0 | Percent: 0.015042% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000200731725001032/0002007317-25-001032.txt
+2025-09-05 14:34:05 | Child Jason | Officer | Shares: 10640 | Value: $1,468,320.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1973239/000195917325005796/0001959173-25-005796.txt
+2025-09-05 14:34:06 | Child Jason | Officer | Shares: 10640 | Value: $1,468,320.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325005796/0001959173-25-005796.txt
+2025-09-05 14:34:06 | Sun Angela | Director | Shares: 6800 | Value: $108,936.0 | Percent: 0.002937% | Link: https://www.sec.gov/Archives/edgar/data/1746818/000195917325005795/0001959173-25-005795.txt
+2025-09-05 14:34:06 | Sun Angela | Director | Shares: 6800 | Value: $108,936.0 | Percent: 0.002937% | Link: https://www.sec.gov/Archives/edgar/data/1628369/000195917325005795/0001959173-25-005795.txt
