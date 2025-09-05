@@ -2717,3 +2717,5 @@
 2025-09-05 10:35:30 | Xiong Xing | Director | Shares: 400000 | Value: $28,492,000.0 | Percent: 0.061230% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000173839625000027/0001738396-25-000027.txt
 2025-09-05 11:37:57 | LCGP3 Pro Makeup, L.P. | Stockholder | Shares: 500000 | Value: $30,605,000.0 | Percent: 1.129145% | Link: https://www.sec.gov/Archives/edgar/data/2007510/000095015725000754/0000950157-25-000754.txt
 2025-09-05 11:37:58 | LCGP3 Pro Makeup, L.P. | Stockholder | Shares: 500000 | Value: $30,605,000.0 | Percent: 1.129145% | Link: https://www.sec.gov/Archives/edgar/data/1907085/000095015725000754/0000950157-25-000754.txt
+2025-09-05 13:46:16 | Brailo Andy | Officer | Shares: 5581 | Value: $146,724.49 | Percent: 0.006761% | Link: https://www.sec.gov/Archives/edgar/data/1995357/000195917325005787/0001959173-25-005787.txt
+2025-09-05 13:46:17 | Brailo Andy | Officer | Shares: 5581 | Value: $146,724.49 | Percent: 0.006761% | Link: https://www.sec.gov/Archives/edgar/data/1577916/000195917325005787/0001959173-25-005787.txt

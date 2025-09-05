@@ -3451,3 +3451,4 @@
 2025-09-05 13:06:18 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-09-05T08:45:21-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000149315225012681/0001493152-25-012681.txt
 2025-09-05 13:34:41 | 8-K - Voyager Acquisition Corp./Cayman Islands (0002006815) (Filer) | 2025-09-05T09:31:27-04:00 | https://www.sec.gov/Archives/edgar/data/2006815/000182912625007177/0001829126-25-007177.txt
 2025-09-05 13:34:43 | 8-K - Nukkleus Inc. (0001787518) (Filer) | 2025-09-05T09:31:10-04:00 | https://www.sec.gov/Archives/edgar/data/1787518/000121390025084752/0001213900-25-084752.txt
+2025-09-05 13:46:14 | 8-K - HURCO COMPANIES INC (0000315374) (Filer) | 2025-09-05T09:36:37-04:00 | https://www.sec.gov/Archives/edgar/data/315374/000155837025011891/0001558370-25-011891.txt
