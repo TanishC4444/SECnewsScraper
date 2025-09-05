@@ -3483,3 +3483,4 @@
 2025-09-05 19:27:32 | 8-K - Benchmark 2020-B17 Mortgage Trust (0001802215) (Filer) | 2025-09-05T15:17:25-04:00 | https://www.sec.gov/Archives/edgar/data/1802215/000188852425015918/0001888524-25-015918.txt
 2025-09-05 19:27:32 | 8-K - Benchmark 2020-B16 Mortgage Trust (0001797288) (Filer) | 2025-09-05T15:17:11-04:00 | https://www.sec.gov/Archives/edgar/data/1797288/000188852425015916/0001888524-25-015916.txt
 2025-09-05 19:38:09 | 8-K - Veritex Holdings, Inc. (0001501570) (Filer) | 2025-09-05T15:32:58-04:00 | https://www.sec.gov/Archives/edgar/data/1501570/000150157025000149/0001501570-25-000149.txt
+2025-09-05 19:56:48 | 8-K - COMM 2015-LC19 Mortgage Trust (0001628112) (Filer) | 2025-09-05T15:50:04-04:00 | https://www.sec.gov/Archives/edgar/data/1628112/000188852425015922/0001888524-25-015922.txt

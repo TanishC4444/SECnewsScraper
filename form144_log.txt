@@ -2755,3 +2755,7 @@
 2025-09-05 18:48:17 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,408,878.0 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000066/0001973251-25-000066.txt
 2025-09-05 19:47:40 | Cotter Martin | Officer | Shares: 12500 | Value: $3,078,092.5 | Percent: 0.002541% | Link: https://www.sec.gov/Archives/edgar/data/1685760/000195917325005809/0001959173-25-005809.txt
 2025-09-05 19:47:41 | Cotter Martin | Officer | Shares: 12500 | Value: $3,078,092.5 | Percent: 0.002541% | Link: https://www.sec.gov/Archives/edgar/data/6281/000195917325005809/0001959173-25-005809.txt
+2025-09-05 19:56:50 | Wayne DeVeydt | former director | Shares: 25000 | Value: $563,700.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000728/0001969223-25-000728.txt
+2025-09-05 19:56:51 | Wayne DeVeydt | former director | Shares: 25000 | Value: $563,700.0 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000728/0001969223-25-000728.txt
+2025-09-05 19:56:52 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $230,000.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000076490025000020/0000764900-25-000020.txt
+2025-09-05 19:56:53 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $230,000.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1228716/000076490025000020/0000764900-25-000020.txt
