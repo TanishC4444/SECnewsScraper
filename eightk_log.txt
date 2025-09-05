@@ -3418,3 +3418,11 @@
 2025-09-04 21:27:21 | 8-K - Quality Industrial Corp. (0001393781) (Filer) | 2025-09-04T17:16:22-04:00 | https://www.sec.gov/Archives/edgar/data/1393781/000164117225026607/0001641172-25-026607.txt
 2025-09-04 21:27:23 | 8-K - Hour Loop, Inc (0001874875) (Filer) | 2025-09-04T17:15:11-04:00 | https://www.sec.gov/Archives/edgar/data/1874875/000164117225026606/0001641172-25-026606.txt
 2025-09-04 21:37:38 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-04T17:29:03-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003248/0001178913-25-003248.txt
+2025-09-05 10:13:55 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-05T06:01:36-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015352/0001062993-25-015352.txt
+2025-09-05 10:13:56 | 8-K - Sana Biotechnology, Inc. (0001770121) (Filer) | 2025-09-05T06:00:36-04:00 | https://www.sec.gov/Archives/edgar/data/1770121/000119312525196414/0001193125-25-196414.txt
+2025-09-05 10:13:58 | 8-K - PHOENIX MOTOR INC. (0001879848) (Filer) | 2025-09-04T21:15:21-04:00 | https://www.sec.gov/Archives/edgar/data/1879848/000164117225026622/0001641172-25-026622.txt
+2025-09-05 10:13:59 | 8-K - Tharimmune, Inc. (0001861657) (Filer) | 2025-09-04T21:11:05-04:00 | https://www.sec.gov/Archives/edgar/data/1861657/000164117225026620/0001641172-25-026620.txt
+2025-09-05 10:14:00 | 8-K - Kindly MD, Inc. (0001946573) (Filer) | 2025-09-04T21:08:22-04:00 | https://www.sec.gov/Archives/edgar/data/1946573/000121390025084677/0001213900-25-084677.txt
+2025-09-05 10:14:01 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-09-04T20:56:01-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000497/0001564708-25-000497.txt
+2025-09-05 10:14:03 | 8-K - Allegiant Travel CO (0001362468) (Filer) | 2025-09-04T20:03:52-04:00 | https://www.sec.gov/Archives/edgar/data/1362468/000136246825000044/0001362468-25-000044.txt
+2025-09-05 10:14:04 | 8-K - Inspirato Inc (0001820566) (Filer) | 2025-09-04T18:03:14-04:00 | https://www.sec.gov/Archives/edgar/data/1820566/000182056625000160/0001820566-25-000160.txt
