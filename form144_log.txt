@@ -2739,3 +2739,7 @@
 2025-09-05 15:59:59 | Hingst Marcy C | Officer | Shares: 41100 | Value: $739,820.71 | Percent: 0.002817% | Link: https://www.sec.gov/Archives/edgar/data/49196/000200731725001033/0002007317-25-001033.txt
 2025-09-05 16:00:01 | Brett P Milkie Trust | Officer | Shares: 6000 | Value: $360,414.15 | Percent: 0.011728% | Link: https://www.sec.gov/Archives/edgar/data/1249137/000196922325000724/0001969223-25-000724.txt
 2025-09-05 16:00:02 | Brett P Milkie Trust | Officer | Shares: 6000 | Value: $360,414.15 | Percent: 0.011728% | Link: https://www.sec.gov/Archives/edgar/data/885245/000196922325000724/0001969223-25-000724.txt
+2025-09-05 16:29:00 | Garry Gregor J | Officer | Shares: 13000 | Value: $1,007,760.0 | Percent: 0.028218% | Link: https://www.sec.gov/Archives/edgar/data/1765288/000197407825000287/0001974078-25-000287.txt
+2025-09-05 16:29:01 | Garry Gregor J | Officer | Shares: 13000 | Value: $1,007,760.0 | Percent: 0.028218% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000197407825000287/0001974078-25-000287.txt
+2025-09-05 16:29:08 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $181,720.0 | Percent: 0.008892% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325005804/0001959173-25-005804.txt
+2025-09-05 16:29:09 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $181,720.0 | Percent: 0.008892% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005804/0001959173-25-005804.txt
