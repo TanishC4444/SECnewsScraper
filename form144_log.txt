@@ -2745,3 +2745,5 @@
 2025-09-05 16:29:09 | Geisser Melinda L. | Officer | Shares: 14000 | Value: $181,720.0 | Percent: 0.008892% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325005804/0001959173-25-005804.txt
 2025-09-05 17:11:02 | Binowitz Dan | Former Officer | Shares: 100000 | Value: $257,117.67 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1942324/000195917325005807/0001959173-25-005807.txt
 2025-09-05 17:11:02 | Binowitz Dan | Former Officer | Shares: 100000 | Value: $257,117.67 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005807/0001959173-25-005807.txt
+2025-09-05 17:29:49 | Jawad Kawaja | Director | Shares: 35000 | Value: $962,500.0 | Percent: 22.037527% | Link: https://www.sec.gov/Archives/edgar/data/1895262/000196922325000725/0001969223-25-000725.txt
+2025-09-05 17:29:50 | Jawad Kawaja | Director | Shares: 35000 | Value: $962,500.0 | Percent: 22.037527% | Link: https://www.sec.gov/Archives/edgar/data/1828511/000196922325000725/0001969223-25-000725.txt
