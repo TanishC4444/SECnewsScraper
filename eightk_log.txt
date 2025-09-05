@@ -3535,3 +3535,7 @@
 2025-09-05 21:27:48 | 8-K - XTI Aerospace, Inc. (0001529113) (Filer) | 2025-09-05T17:22:46-04:00 | https://www.sec.gov/Archives/edgar/data/1529113/000121390025085154/0001213900-25-085154.txt
 2025-09-05 21:27:49 | 8-K - Cyngn Inc. (0001874097) (Filer) | 2025-09-05T17:22:15-04:00 | https://www.sec.gov/Archives/edgar/data/1874097/000121390025085151/0001213900-25-085151.txt
 2025-09-05 21:27:52 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-09-05T17:20:45-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025085148/0001213900-25-085148.txt
+2025-09-05 21:38:29 | 8-K/A - TNF Pharmaceuticals, Inc. (0001321834) (Filer) | 2025-09-05T17:30:47-04:00 | https://www.sec.gov/Archives/edgar/data/1321834/000164117225026762/0001641172-25-026762.txt
+2025-09-05 21:38:30 | 8-K - Permex Petroleum Corp (0001922639) (Filer) | 2025-09-05T17:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1922639/000164117225026760/0001641172-25-026760.txt
+2025-09-05 21:38:32 | 8-K - bioAffinity Technologies, Inc. (0001712762) (Filer) | 2025-09-05T17:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/1712762/000164117225026758/0001641172-25-026758.txt
+2025-09-05 21:38:33 | 8-K - INVO Fertility, Inc. (0001417926) (Filer) | 2025-09-05T17:29:33-04:00 | https://www.sec.gov/Archives/edgar/data/1417926/000164117225026757/0001641172-25-026757.txt
