@@ -2763,3 +2763,7 @@
 2025-09-05 20:20:10 | Antonoff Lauren | Officer | Shares: 17764 | Value: $1,614,806.22 | Percent: 0.022907% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000195917325005813/0001959173-25-005813.txt
 2025-09-05 20:20:12 | Halvorsen Laila Cecilie | Chief Financial Officer | Shares: 30000 | Value: $368,100.0 | Percent: 0.018657% | Link: https://www.sec.gov/Archives/edgar/data/1991919/000095015725000760/0000950157-25-000760.txt
 2025-09-05 20:20:13 | Halvorsen Laila Cecilie | Chief Financial Officer | Shares: 30000 | Value: $368,100.0 | Percent: 0.018657% | Link: https://www.sec.gov/Archives/edgar/data/1331284/000095015725000760/0000950157-25-000760.txt
+2025-09-05 20:36:21 | Kirgan Danielle L. | Officer | Shares: 200000 | Value: $3,448,000.0 | Percent: 0.073654% | Link: https://www.sec.gov/Archives/edgar/data/1629771/000079436725000140/0000794367-25-000140.txt
+2025-09-05 20:36:23 | Kirgan Danielle L. | Officer | Shares: 200000 | Value: $3,448,000.0 | Percent: 0.073654% | Link: https://www.sec.gov/Archives/edgar/data/794367/000079436725000140/0000794367-25-000140.txt
+2025-09-05 20:36:25 | LESLIE A SWANSON GALLARDO | Officer | Shares: 17500 | Value: $607,925.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/1826424/000195004725006808/0001950047-25-006808.txt
+2025-09-05 20:36:25 | LESLIE A SWANSON GALLARDO | Officer | Shares: 17500 | Value: $607,925.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/899715/000195004725006808/0001950047-25-006808.txt
