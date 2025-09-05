@@ -2729,3 +2729,7 @@
 2025-09-05 14:34:06 | Sun Angela | Director | Shares: 6800 | Value: $108,936.0 | Percent: 0.002937% | Link: https://www.sec.gov/Archives/edgar/data/1628369/000195917325005795/0001959173-25-005795.txt
 2025-09-05 14:45:31 | HENNING THOMAS EDWARD | Director | Shares: 8196 | Value: $1,056,218.52 | Percent: 0.032122% | Link: https://www.sec.gov/Archives/edgar/data/1269806/000195917325005797/0001959173-25-005797.txt
 2025-09-05 14:45:32 | HENNING THOMAS EDWARD | Director | Shares: 8196 | Value: $1,056,218.52 | Percent: 0.032122% | Link: https://www.sec.gov/Archives/edgar/data/1258602/000195917325005797/0001959173-25-005797.txt
+2025-09-05 15:15:03 | Clark Ralph A. | Officer | Shares: 16161 | Value: $190,711.0 | Percent: 0.126344% | Link: https://www.sec.gov/Archives/edgar/data/1705470/000197337925000251/0001973379-25-000251.txt
+2025-09-05 15:15:04 | Clark Ralph A. | Officer | Shares: 16161 | Value: $190,711.0 | Percent: 0.126344% | Link: https://www.sec.gov/Archives/edgar/data/1351636/000197337925000251/0001973379-25-000251.txt
+2025-09-05 15:15:07 | RUSSELL HEATHER J | Officer | Shares: 5337 | Value: $480,383.37 | Percent: 0.002740% | Link: https://www.sec.gov/Archives/edgar/data/1741750/000195917325005800/0001959173-25-005800.txt
+2025-09-05 15:15:08 | RUSSELL HEATHER J | Officer | Shares: 5337 | Value: $480,383.37 | Percent: 0.002740% | Link: https://www.sec.gov/Archives/edgar/data/1552033/000195917325005800/0001959173-25-005800.txt
