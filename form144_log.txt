@@ -2793,3 +2793,5 @@
 2025-09-05 21:28:00 | Landini Kenneth W | Director | Shares: 7000 | Value: $595,000.0 | Percent: 0.030395% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000197407825000288/0001974078-25-000288.txt
 2025-09-05 21:47:55 | John B. Wood | Officer | Shares: 174700 | Value: $1,077,327.0 | Percent: 0.240293% | Link: https://www.sec.gov/Archives/edgar/data/1356849/000135684925000016/0001356849-25-000016.txt
 2025-09-05 21:47:56 | John B. Wood | Officer | Shares: 174700 | Value: $1,077,327.0 | Percent: 0.240293% | Link: https://www.sec.gov/Archives/edgar/data/320121/000135684925000016/0001356849-25-000016.txt
+2025-09-05 21:57:09 | J. Craig Smith Rev Trust Kari G. Smith Rev Trust TEN COMM | Board Member | Shares: 20000 | Value: $1,186,677.89 | Percent: 0.039093% | Link: https://www.sec.gov/Archives/edgar/data/1247713/000196922325000735/0001969223-25-000735.txt
+2025-09-05 21:57:10 | J. Craig Smith Rev Trust Kari G. Smith Rev Trust TEN COMM | Board Member | Shares: 20000 | Value: $1,186,677.89 | Percent: 0.039093% | Link: https://www.sec.gov/Archives/edgar/data/885245/000196922325000735/0001969223-25-000735.txt
