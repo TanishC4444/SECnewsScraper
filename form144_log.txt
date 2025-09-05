@@ -2715,3 +2715,5 @@
 2025-09-04 23:25:57 | Knutson Jeffrey Scott (TWIN) | Officer | Shares: 10275 | Value: $134,499.75 | Percent: 0.072627% | Link: https://www.sec.gov/Archives/edgar/data/100378/000143774925028421/0001437749-25-028421.txt
 2025-09-05 10:35:28 | Xiong Xing | Director | Shares: 400000 | Value: $28,492,000.0 | Percent: 0.061230% | Link: https://www.sec.gov/Archives/edgar/data/1974813/000173839625000027/0001738396-25-000027.txt
 2025-09-05 10:35:30 | Xiong Xing | Director | Shares: 400000 | Value: $28,492,000.0 | Percent: 0.061230% | Link: https://www.sec.gov/Archives/edgar/data/1269238/000173839625000027/0001738396-25-000027.txt
+2025-09-05 11:37:57 | LCGP3 Pro Makeup, L.P. | Stockholder | Shares: 500000 | Value: $30,605,000.0 | Percent: 1.129145% | Link: https://www.sec.gov/Archives/edgar/data/2007510/000095015725000754/0000950157-25-000754.txt
+2025-09-05 11:37:58 | LCGP3 Pro Makeup, L.P. | Stockholder | Shares: 500000 | Value: $30,605,000.0 | Percent: 1.129145% | Link: https://www.sec.gov/Archives/edgar/data/1907085/000095015725000754/0000950157-25-000754.txt
