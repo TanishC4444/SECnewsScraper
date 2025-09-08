@@ -2847,3 +2847,5 @@
 2025-09-08 18:41:26 | Mark Crossley | affiliate | Shares: 183938 | Value: $4,593,150.74 | Percent: 0.147422% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000101/0001974494-25-000101.txt
 2025-09-08 18:41:28 | Feider Stephen | Officer | Shares: 9900 | Value: $209,152.15 | Percent: 0.022774% | Link: https://www.sec.gov/Archives/edgar/data/2048588/000200731725001042/0002007317-25-001042.txt
 2025-09-08 18:41:29 | Feider Stephen | Officer | Shares: 9900 | Value: $209,152.15 | Percent: 0.022774% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725001042/0002007317-25-001042.txt
+2025-09-08 18:53:07 | Elsbernd Brian | Officer | Shares: 30000 | Value: $609,035.49 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1763511/000195917325005829/0001959173-25-005829.txt
+2025-09-08 18:53:09 | Elsbernd Brian | Officer | Shares: 30000 | Value: $609,035.49 | Percent: 0.024512% | Link: https://www.sec.gov/Archives/edgar/data/1369568/000195917325005829/0001959173-25-005829.txt
