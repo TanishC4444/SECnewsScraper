@@ -2893,3 +2893,7 @@
 2025-09-08 21:13:22 | Bessemer Venture Partners VIII L.P. | 10% Stockholder | Shares: 221596 | Value: $25,259,728.04 | Percent: 0.286793% | Link: https://www.sec.gov/Archives/edgar/data/1508900/000196186325000145/0001961863-25-000145.txt
 2025-09-08 21:13:23 | 15 Angels II LLC | 10% Stockholder | Shares: 11902 | Value: $1,356,708.98 | Percent: 0.015404% | Link: https://www.sec.gov/Archives/edgar/data/1713257/000196186325000144/0001961863-25-000144.txt
 2025-09-08 21:13:25 | 15 Angels II LLC | 10% Stockholder | Shares: 11902 | Value: $1,356,708.98 | Percent: 0.015404% | Link: https://www.sec.gov/Archives/edgar/data/1638826/000196186325000144/0001961863-25-000144.txt
+2025-09-08 21:28:54 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 86459 | Value: $608,628.13 | Percent: 0.077709% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000034/0001178937-25-000034.txt
+2025-09-08 21:28:55 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 86459 | Value: $608,628.13 | Percent: 0.077709% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000034/0001178937-25-000034.txt
+2025-09-08 21:28:56 | Kashani Ali | Officer | Shares: 164735 | Value: $1,701,729.0 | Percent: 0.267514% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000291/0001974078-25-000291.txt
+2025-09-08 21:28:56 | Kashani Ali | Officer | Shares: 164735 | Value: $1,701,729.0 | Percent: 0.267514% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000291/0001974078-25-000291.txt
