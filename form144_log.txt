@@ -2877,3 +2877,5 @@
 2025-09-08 20:33:54 | Gaske Paul | Officer | Shares: 45000 | Value: $3,611,250.0 | Percent: 0.028778% | Link: https://www.sec.gov/Archives/edgar/data/1353340/000195917325005846/0001959173-25-005846.txt
 2025-09-08 20:33:56 | Patel Anish | Officer | Shares: 20001 | Value: $403,020.15 | Percent: 0.033900% | Link: https://www.sec.gov/Archives/edgar/data/1967163/000197415825000057/0001974158-25-000057.txt
 2025-09-08 20:33:57 | Patel Anish | Officer | Shares: 20001 | Value: $403,020.15 | Percent: 0.033900% | Link: https://www.sec.gov/Archives/edgar/data/1672619/000197415825000057/0001974158-25-000057.txt
+2025-09-08 20:45:28 | Abraham Euan | Officer | Shares: 12603 | Value: $133,606.92 | Percent: 0.020466% | Link: https://www.sec.gov/Archives/edgar/data/1983554/000197407825000290/0001974078-25-000290.txt
+2025-09-08 20:45:29 | Abraham Euan | Officer | Shares: 12603 | Value: $133,606.92 | Percent: 0.020466% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000290/0001974078-25-000290.txt
