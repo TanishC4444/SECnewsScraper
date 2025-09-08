@@ -2831,3 +2831,7 @@
 2025-09-08 16:23:48 | HENRY CHRISTIAN O | Director | Shares: 10000 | Value: $109,209.34 | Percent: 0.021236% | Link: https://www.sec.gov/Archives/edgar/data/1263805/000195917325005824/0001959173-25-005824.txt
 2025-09-08 16:23:50 | PAGE JANICE E | Director | Shares: 26869 | Value: $484,806.56 | Percent: 0.015507% | Link: https://www.sec.gov/Archives/edgar/data/1181513/000195917325005823/0001959173-25-005823.txt
 2025-09-08 16:23:52 | PAGE JANICE E | Director | Shares: 26869 | Value: $484,806.56 | Percent: 0.015507% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325005823/0001959173-25-005823.txt
+2025-09-08 16:43:45 | Boehm Amiram | Director | Shares: 82793 | Value: $823,790.35 | Percent: 0.145207% | Link: https://www.sec.gov/Archives/edgar/data/2085022/000208502225000001/0002085022-25-000001.txt
+2025-09-08 16:43:46 | Boehm Amiram | Director | Shares: 82793 | Value: $823,790.35 | Percent: 0.145207% | Link: https://www.sec.gov/Archives/edgar/data/897322/000208502225000001/0002085022-25-000001.txt
+2025-09-08 16:43:48 | BOGER RICHARD LEE | Director | Shares: 20000 | Value: $123,600.0 | Percent: 0.021622% | Link: https://www.sec.gov/Archives/edgar/data/1244839/000194984625000451/0001949846-25-000451.txt
+2025-09-08 16:43:49 | BOGER RICHARD LEE | Director | Shares: 20000 | Value: $123,600.0 | Percent: 0.021622% | Link: https://www.sec.gov/Archives/edgar/data/43196/000194984625000451/0001949846-25-000451.txt
