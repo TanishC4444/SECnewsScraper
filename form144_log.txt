@@ -2879,3 +2879,9 @@
 2025-09-08 20:33:57 | Patel Anish | Officer | Shares: 20001 | Value: $403,020.15 | Percent: 0.033900% | Link: https://www.sec.gov/Archives/edgar/data/1672619/000197415825000057/0001974158-25-000057.txt
 2025-09-08 20:45:28 | Abraham Euan | Officer | Shares: 12603 | Value: $133,606.92 | Percent: 0.020466% | Link: https://www.sec.gov/Archives/edgar/data/1983554/000197407825000290/0001974078-25-000290.txt
 2025-09-08 20:45:29 | Abraham Euan | Officer | Shares: 12603 | Value: $133,606.92 | Percent: 0.020466% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000290/0001974078-25-000290.txt
+2025-09-08 20:54:43 | MOHSIN HUSSAIN | Officer | Shares: 12734 | Value: $355,724.29 | Percent: 0.019410% | Link: https://www.sec.gov/Archives/edgar/data/1878536/000195004725006861/0001950047-25-006861.txt
+2025-09-08 20:54:44 | MOHSIN HUSSAIN | Officer | Shares: 12734 | Value: $355,724.29 | Percent: 0.019410% | Link: https://www.sec.gov/Archives/edgar/data/733269/000195004725006861/0001950047-25-006861.txt
+2025-09-08 20:54:45 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1620814/000195917325005847/0001959173-25-005847.txt
+2025-09-08 20:54:46 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325005847/0001959173-25-005847.txt
+2025-09-08 20:54:48 | KAUFFMAN ROBERT I | Director | Shares: 38085 | Value: $457,400.0 | Percent: 0.041878% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000200731725001046/0002007317-25-001046.txt
+2025-09-08 20:54:49 | KAUFFMAN ROBERT I | Director | Shares: 38085 | Value: $457,400.0 | Percent: 0.041878% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000200731725001046/0002007317-25-001046.txt

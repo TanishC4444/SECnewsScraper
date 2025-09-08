@@ -3646,3 +3646,5 @@
 2025-09-08 20:45:25 | 8-K - PubMatic, Inc. (0001422930) (Filer) | 2025-09-08T16:40:19-04:00 | https://www.sec.gov/Archives/edgar/data/1422930/000142293025000044/0001422930-25-000044.txt
 2025-09-08 20:45:27 | 8-K - Spring Valley Acquisition Corp. III (0002074850) (Filer) | 2025-09-08T16:38:01-04:00 | https://www.sec.gov/Archives/edgar/data/2074850/000110465925088292/0001104659-25-088292.txt
 2025-09-08 20:45:28 | 8-K - Vaxart, Inc. (0000072444) (Filer) | 2025-09-08T16:37:40-04:00 | https://www.sec.gov/Archives/edgar/data/72444/000143774925028570/0001437749-25-028570.txt
+2025-09-08 20:54:40 | 8-K - SANDRIDGE ENERGY INC (0001349436) (Filer) | 2025-09-08T16:52:48-04:00 | https://www.sec.gov/Archives/edgar/data/1349436/000121390025085583/0001213900-25-085583.txt
+2025-09-08 20:54:41 | 8-K - Resolute Holdings Management, Inc. (0002039497) (Filer) | 2025-09-08T16:45:54-04:00 | https://www.sec.gov/Archives/edgar/data/2039497/000095014225002400/0000950142-25-002400.txt
