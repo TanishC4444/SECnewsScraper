@@ -2819,3 +2819,5 @@
 2025-09-08 14:12:09 | Sullivan Timothy Eugene | Officer | Shares: 32729 | Value: $911,829.94 | Percent: 0.025916% | Link: https://www.sec.gov/Archives/edgar/data/1492422/000195917325005819/0001959173-25-005819.txt
 2025-09-08 14:35:18 | Carson Seana | Officer | Shares: 13370 | Value: $97,734.7 | Percent: 0.003616% | Link: https://www.sec.gov/Archives/edgar/data/1923756/000195917325005820/0001959173-25-005820.txt
 2025-09-08 14:35:19 | Carson Seana | Officer | Shares: 13370 | Value: $97,734.7 | Percent: 0.003616% | Link: https://www.sec.gov/Archives/edgar/data/885590/000195917325005820/0001959173-25-005820.txt
+2025-09-08 14:48:58 | MCMILLAN CARY D | Director | Shares: 9002 | Value: $163,072.07 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/1224829/000195917325005821/0001959173-25-005821.txt
+2025-09-08 14:48:59 | MCMILLAN CARY D | Director | Shares: 9002 | Value: $163,072.07 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325005821/0001959173-25-005821.txt
