@@ -2897,3 +2897,5 @@
 2025-09-08 21:28:55 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 86459 | Value: $608,628.13 | Percent: 0.077709% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000034/0001178937-25-000034.txt
 2025-09-08 21:28:56 | Kashani Ali | Officer | Shares: 164735 | Value: $1,701,729.0 | Percent: 0.267514% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000291/0001974078-25-000291.txt
 2025-09-08 21:28:56 | Kashani Ali | Officer | Shares: 164735 | Value: $1,701,729.0 | Percent: 0.267514% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000291/0001974078-25-000291.txt
+2025-09-08 21:58:14 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1620814/000195917325005848/0001959173-25-005848.txt
+2025-09-08 21:58:15 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325005848/0001959173-25-005848.txt
