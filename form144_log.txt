@@ -2857,3 +2857,7 @@
 2025-09-08 19:24:46 | HAHN KENNETH R | Officer | Shares: 20364 | Value: $233,367.69 | Percent: 0.012440% | Link: https://www.sec.gov/Archives/edgar/data/1202943/000195917325005832/0001959173-25-005832.txt
 2025-09-08 19:45:04 | Mealer-Burke Vicki | Director | Shares: 14887 | Value: $226,580.14 | Percent: 0.004019% | Link: https://www.sec.gov/Archives/edgar/data/2017875/000195917325005839/0001959173-25-005839.txt
 2025-09-08 19:45:05 | Mealer-Burke Vicki | Director | Shares: 14887 | Value: $226,580.14 | Percent: 0.004019% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325005839/0001959173-25-005839.txt
+2025-09-08 19:54:44 | Goldstein Lainie | Officer | Shares: 10000 | Value: $2,500,000.0 | Percent: 0.005421% | Link: https://www.sec.gov/Archives/edgar/data/1399513/000200731725001043/0002007317-25-001043.txt
+2025-09-08 19:54:45 | Goldstein Lainie | Officer | Shares: 10000 | Value: $2,500,000.0 | Percent: 0.005421% | Link: https://www.sec.gov/Archives/edgar/data/946581/000200731725001043/0002007317-25-001043.txt
+2025-09-08 19:54:47 | Shlomi Ben Haim | Officer | Shares: 93159 | Value: $4,243,634.0 | Percent: 0.079799% | Link: https://www.sec.gov/Archives/edgar/data/1823009/000194984625000453/0001949846-25-000453.txt
+2025-09-08 19:54:48 | Shlomi Ben Haim | Officer | Shares: 93159 | Value: $4,243,634.0 | Percent: 0.079799% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000194984625000453/0001949846-25-000453.txt
