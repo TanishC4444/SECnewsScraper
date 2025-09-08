@@ -2903,3 +2903,7 @@
 2025-09-08 22:35:26 | Raiford Daryl | Officer | Shares: 34375 | Value: $539,000.0 | Percent: 0.121971% | Link: https://www.sec.gov/Archives/edgar/data/1405026/000157856325000398/0001578563-25-000398.txt
 2025-09-08 22:35:28 | Thomas R. SZOKE | Officer | Shares: 10000 | Value: $37,500.0 | Percent: 0.074384% | Link: https://www.sec.gov/Archives/edgar/data/1620625/000121390025085700/0001213900-25-085700.txt
 2025-09-08 22:35:29 | Thomas R. SZOKE | Officer | Shares: 10000 | Value: $37,500.0 | Percent: 0.074384% | Link: https://www.sec.gov/Archives/edgar/data/1534154/000121390025085700/0001213900-25-085700.txt
+2025-09-08 22:54:22 | Insight SN Holdings 2, LLC | Director | Shares: 241850 | Value: $7,352,240.0 | Percent: 0.208825% | Link: https://www.sec.gov/Archives/edgar/data/1903196/000196186325000148/0001961863-25-000148.txt
+2025-09-08 22:54:23 | Insight SN Holdings 2, LLC | Director | Shares: 241850 | Value: $7,352,240.0 | Percent: 0.208825% | Link: https://www.sec.gov/Archives/edgar/data/1902733/000196186325000148/0001961863-25-000148.txt
+2025-09-08 22:54:24 | Insight SN Holdings, LLC | Director | Shares: 160392 | Value: $4,875,916.8 | Percent: 0.138490% | Link: https://www.sec.gov/Archives/edgar/data/1903190/000196186325000147/0001961863-25-000147.txt
+2025-09-08 22:54:25 | Insight SN Holdings, LLC | Director | Shares: 160392 | Value: $4,875,916.8 | Percent: 0.138490% | Link: https://www.sec.gov/Archives/edgar/data/1902733/000196186325000147/0001961863-25-000147.txt
