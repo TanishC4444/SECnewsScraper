@@ -3583,3 +3583,13 @@
 2025-09-08 11:47:08 | 8-K - Summit Therapeutics Inc. (0001599298) (Filer) | 2025-09-08T07:45:14-04:00 | https://www.sec.gov/Archives/edgar/data/1599298/000159929825000137/0001599298-25-000137.txt
 2025-09-08 11:47:10 | 8-K - Installed Building Products, Inc. (0001580905) (Filer) | 2025-09-08T07:43:25-04:00 | https://www.sec.gov/Archives/edgar/data/1580905/000158090525000031/0001580905-25-000031.txt
 2025-09-08 11:55:54 | 8-K - Antero Midstream Corp (0001623925) (Filer) | 2025-09-08T07:49:51-04:00 | https://www.sec.gov/Archives/edgar/data/1623925/000110465925088042/0001104659-25-088042.txt
+2025-09-08 12:36:52 | 8-K - Marqeta, Inc. (0001522540) (Filer) | 2025-09-08T08:35:20-04:00 | https://www.sec.gov/Archives/edgar/data/1522540/000121390025085298/0001213900-25-085298.txt
+2025-09-08 12:36:55 | 8-K - DENTSPLY SIRONA Inc. (0000818479) (Filer) | 2025-09-08T08:33:06-04:00 | https://www.sec.gov/Archives/edgar/data/818479/000081847925000167/0000818479-25-000167.txt
+2025-09-08 12:36:57 | 8-K - Evolus, Inc. (0001570562) (Filer) | 2025-09-08T08:32:35-04:00 | https://www.sec.gov/Archives/edgar/data/1570562/000157056225000110/0001570562-25-000110.txt
+2025-09-08 12:37:00 | 8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer) | 2025-09-08T08:32:27-04:00 | https://www.sec.gov/Archives/edgar/data/1527541/000152754125000223/0001527541-25-000223.txt
+2025-09-08 12:37:02 | 8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer) | 2025-09-08T08:32:00-04:00 | https://www.sec.gov/Archives/edgar/data/1398733/000139873325000018/0001398733-25-000018.txt
+2025-09-08 12:37:03 | 8-K - GLOBALINK INVESTMENT INC. (0001888734) (Filer) | 2025-09-08T08:30:35-04:00 | https://www.sec.gov/Archives/edgar/data/1888734/000149315225012780/0001493152-25-012780.txt
+2025-09-08 12:37:05 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-09-08T08:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825006738/0001683168-25-006738.txt
+2025-09-08 12:37:08 | 8-K - Moleculin Biotech, Inc. (0001659617) (Filer) | 2025-09-08T08:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1659617/000143774925028528/0001437749-25-028528.txt
+2025-09-08 12:37:10 | 8-K - Microbot Medical Inc. (0000883975) (Filer) | 2025-09-08T08:28:56-04:00 | https://www.sec.gov/Archives/edgar/data/883975/000164117225026815/0001641172-25-026815.txt
+2025-09-08 12:37:12 | 8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer) | 2025-09-08T08:23:12-04:00 | https://www.sec.gov/Archives/edgar/data/908937/000090893725000025/0000908937-25-000025.txt

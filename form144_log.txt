@@ -2805,3 +2805,9 @@
 2025-09-08 10:27:18 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1725123/000176600025000003/0001766000-25-000003.txt
 2025-09-08 11:55:55 | Wong Andrew Luen Cheung | Director | Shares: 6773 | Value: $75,654.41 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1979240/000197337925000253/0001973379-25-000253.txt
 2025-09-08 11:55:56 | Wong Andrew Luen Cheung | Director | Shares: 6773 | Value: $75,654.41 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1375877/000197337925000253/0001973379-25-000253.txt
+2025-09-08 12:37:14 | Wolfing Shay | Officer | Shares: 6667 | Value: $1,704,751.9 | Percent: 0.022771% | Link: https://www.sec.gov/Archives/edgar/data/1961103/000197640825000291/0001976408-25-000291.txt
+2025-09-08 12:37:16 | Wolfing Shay | Officer | Shares: 6667 | Value: $1,704,751.9 | Percent: 0.022771% | Link: https://www.sec.gov/Archives/edgar/data/1109345/000197640825000291/0001976408-25-000291.txt
+2025-09-08 12:37:18 | Zhang Kejing | Officer | Shares: 25000 | Value: $829,250.0 | Percent: 0.001501% | Link: https://www.sec.gov/Archives/edgar/data/1972411/000197337925000255/0001973379-25-000255.txt
+2025-09-08 12:37:19 | Zhang Kejing | Officer | Shares: 25000 | Value: $829,250.0 | Percent: 0.001501% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000255/0001973379-25-000255.txt
+2025-09-08 12:37:19 | WINKLER EVAN ANDREW | Director | Shares: 390000 | Value: $3,798,600.0 | Percent: 0.030551% | Link: https://www.sec.gov/Archives/edgar/data/1963892/000197337925000254/0001973379-25-000254.txt
+2025-09-08 12:37:20 | WINKLER EVAN ANDREW | Director | Shares: 390000 | Value: $3,798,600.0 | Percent: 0.030551% | Link: https://www.sec.gov/Archives/edgar/data/1381640/000197337925000254/0001973379-25-000254.txt
