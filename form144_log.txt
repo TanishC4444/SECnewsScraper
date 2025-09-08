@@ -2899,3 +2899,7 @@
 2025-09-08 21:28:56 | Kashani Ali | Officer | Shares: 164735 | Value: $1,701,729.0 | Percent: 0.267514% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000291/0001974078-25-000291.txt
 2025-09-08 21:58:14 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1620814/000195917325005848/0001959173-25-005848.txt
 2025-09-08 21:58:15 | Shah Dharmesh | Officer | Shares: 17253 | Value: $8,637,970.94 | Percent: 0.032742% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325005848/0001959173-25-005848.txt
+2025-09-08 22:35:25 | Raiford Daryl | Officer | Shares: 34375 | Value: $539,000.0 | Percent: 0.121971% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000157856325000398/0001578563-25-000398.txt
+2025-09-08 22:35:26 | Raiford Daryl | Officer | Shares: 34375 | Value: $539,000.0 | Percent: 0.121971% | Link: https://www.sec.gov/Archives/edgar/data/1405026/000157856325000398/0001578563-25-000398.txt
+2025-09-08 22:35:28 | Thomas R. SZOKE | Officer | Shares: 10000 | Value: $37,500.0 | Percent: 0.074384% | Link: https://www.sec.gov/Archives/edgar/data/1620625/000121390025085700/0001213900-25-085700.txt
+2025-09-08 22:35:29 | Thomas R. SZOKE | Officer | Shares: 10000 | Value: $37,500.0 | Percent: 0.074384% | Link: https://www.sec.gov/Archives/edgar/data/1534154/000121390025085700/0001213900-25-085700.txt
