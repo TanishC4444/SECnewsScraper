@@ -2843,3 +2843,7 @@
 2025-09-08 18:15:17 | Moe Christopher R. | Director | Shares: 10000 | Value: $89,000.0 | Percent: 0.010024% | Link: https://www.sec.gov/Archives/edgar/data/748268/000200731725001041/0002007317-25-001041.txt
 2025-09-08 18:15:18 | Saba Capital Management, L.P. | Investment Manager | Shares: 258287 | Value: $2,396,903.36 | Percent: 0.931905% | Link: https://www.sec.gov/Archives/edgar/data/1510281/000151028125000454/0001510281-25-000454.txt
 2025-09-08 18:15:18 | Saba Capital Management, L.P. | Investment Manager | Shares: 258287 | Value: $2,396,903.36 | Percent: 0.931905% | Link: https://www.sec.gov/Archives/edgar/data/828803/000151028125000454/0001510281-25-000454.txt
+2025-09-08 18:41:25 | Mark Crossley | affiliate | Shares: 183938 | Value: $4,593,150.74 | Percent: 0.147422% | Link: https://www.sec.gov/Archives/edgar/data/2014472/000197449425000101/0001974494-25-000101.txt
+2025-09-08 18:41:26 | Mark Crossley | affiliate | Shares: 183938 | Value: $4,593,150.74 | Percent: 0.147422% | Link: https://www.sec.gov/Archives/edgar/data/1625297/000197449425000101/0001974494-25-000101.txt
+2025-09-08 18:41:28 | Feider Stephen | Officer | Shares: 9900 | Value: $209,152.15 | Percent: 0.022774% | Link: https://www.sec.gov/Archives/edgar/data/2048588/000200731725001042/0002007317-25-001042.txt
+2025-09-08 18:41:29 | Feider Stephen | Officer | Shares: 9900 | Value: $209,152.15 | Percent: 0.022774% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000200731725001042/0002007317-25-001042.txt
