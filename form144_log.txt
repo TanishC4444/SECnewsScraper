@@ -2813,3 +2813,5 @@
 2025-09-08 12:37:20 | WINKLER EVAN ANDREW | Director | Shares: 390000 | Value: $3,798,600.0 | Percent: 0.030551% | Link: https://www.sec.gov/Archives/edgar/data/1381640/000197337925000254/0001973379-25-000254.txt
 2025-09-08 13:42:49 | Dunne Michael | Officer | Shares: 10000 | Value: $707,900.0 | Percent: 0.000486% | Link: https://www.sec.gov/Archives/edgar/data/1960457/000195917325005817/0001959173-25-005817.txt
 2025-09-08 13:42:50 | Dunne Michael | Officer | Shares: 10000 | Value: $707,900.0 | Percent: 0.000486% | Link: https://www.sec.gov/Archives/edgar/data/753308/000195917325005817/0001959173-25-005817.txt
+2025-09-08 13:52:58 | RAWLINGS DARRYL | Director | Shares: 30369 | Value: $1,357,943.0 | Percent: 0.706343% | Link: https://www.sec.gov/Archives/edgar/data/1611679/000195917325005818/0001959173-25-005818.txt
+2025-09-08 13:52:59 | RAWLINGS DARRYL | Director | Shares: 30369 | Value: $1,357,943.0 | Percent: 0.706343% | Link: https://www.sec.gov/Archives/edgar/data/1371285/000195917325005818/0001959173-25-005818.txt
