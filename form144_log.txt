@@ -2801,3 +2801,5 @@
 2025-09-05 23:25:46 | Warburg Pincus, LLC | Affiliate | Shares: 4500000 | Value: $76,455,000.0 | Percent: 3.054968% | Link: https://www.sec.gov/Archives/edgar/data/1162870/000095017025113304/0000950170-25-113304.txt
 2025-09-05 23:45:24 | Raiford Daryl | Officer | Shares: 19000 | Value: $297,350.0 | Percent: 0.067416% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000157856325000394/0001578563-25-000394.txt
 2025-09-05 23:45:25 | Raiford Daryl | Officer | Shares: 19000 | Value: $297,350.0 | Percent: 0.067416% | Link: https://www.sec.gov/Archives/edgar/data/1405026/000157856325000394/0001578563-25-000394.txt
+2025-09-08 10:27:17 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1766000/000176600025000003/0001766000-25-000003.txt
+2025-09-08 10:27:18 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1725123/000176600025000003/0001766000-25-000003.txt
