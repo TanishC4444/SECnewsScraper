@@ -2855,3 +2855,5 @@
 2025-09-08 19:24:44 | Hudson Scott R | Officer | Shares: 12855 | Value: $3,825,688.01 | Percent: 0.005014% | Link: https://www.sec.gov/Archives/edgar/data/354190/000195917325005834/0001959173-25-005834.txt
 2025-09-08 19:24:45 | HAHN KENNETH R | Officer | Shares: 20364 | Value: $233,367.69 | Percent: 0.012440% | Link: https://www.sec.gov/Archives/edgar/data/1651562/000195917325005832/0001959173-25-005832.txt
 2025-09-08 19:24:46 | HAHN KENNETH R | Officer | Shares: 20364 | Value: $233,367.69 | Percent: 0.012440% | Link: https://www.sec.gov/Archives/edgar/data/1202943/000195917325005832/0001959173-25-005832.txt
+2025-09-08 19:45:04 | Mealer-Burke Vicki | Director | Shares: 14887 | Value: $226,580.14 | Percent: 0.004019% | Link: https://www.sec.gov/Archives/edgar/data/2017875/000195917325005839/0001959173-25-005839.txt
+2025-09-08 19:45:05 | Mealer-Burke Vicki | Director | Shares: 14887 | Value: $226,580.14 | Percent: 0.004019% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325005839/0001959173-25-005839.txt
