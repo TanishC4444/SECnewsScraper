@@ -2821,3 +2821,5 @@
 2025-09-08 14:35:19 | Carson Seana | Officer | Shares: 13370 | Value: $97,734.7 | Percent: 0.003616% | Link: https://www.sec.gov/Archives/edgar/data/885590/000195917325005820/0001959173-25-005820.txt
 2025-09-08 14:48:58 | MCMILLAN CARY D | Director | Shares: 9002 | Value: $163,072.07 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/1224829/000195917325005821/0001959173-25-005821.txt
 2025-09-08 14:48:59 | MCMILLAN CARY D | Director | Shares: 9002 | Value: $163,072.07 | Percent: 0.005195% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325005821/0001959173-25-005821.txt
+2025-09-08 14:58:03 | Foyle Jennifer M. | Officer | Shares: 54950 | Value: $996,851.13 | Percent: 0.031714% | Link: https://www.sec.gov/Archives/edgar/data/1595988/000195917325005822/0001959173-25-005822.txt
+2025-09-08 14:58:04 | Foyle Jennifer M. | Officer | Shares: 54950 | Value: $996,851.13 | Percent: 0.031714% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325005822/0001959173-25-005822.txt
