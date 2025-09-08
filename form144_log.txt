@@ -2803,3 +2803,5 @@
 2025-09-05 23:45:25 | Raiford Daryl | Officer | Shares: 19000 | Value: $297,350.0 | Percent: 0.067416% | Link: https://www.sec.gov/Archives/edgar/data/1405026/000157856325000394/0001578563-25-000394.txt
 2025-09-08 10:27:17 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1766000/000176600025000003/0001766000-25-000003.txt
 2025-09-08 10:27:18 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1725123/000176600025000003/0001766000-25-000003.txt
+2025-09-08 11:55:55 | Wong Andrew Luen Cheung | Director | Shares: 6773 | Value: $75,654.41 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1979240/000197337925000253/0001973379-25-000253.txt
+2025-09-08 11:55:56 | Wong Andrew Luen Cheung | Director | Shares: 6773 | Value: $75,654.41 | Percent: 0.010084% | Link: https://www.sec.gov/Archives/edgar/data/1375877/000197337925000253/0001973379-25-000253.txt
