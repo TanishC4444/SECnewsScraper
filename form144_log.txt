@@ -2815,3 +2815,5 @@
 2025-09-08 13:42:50 | Dunne Michael | Officer | Shares: 10000 | Value: $707,900.0 | Percent: 0.000486% | Link: https://www.sec.gov/Archives/edgar/data/753308/000195917325005817/0001959173-25-005817.txt
 2025-09-08 13:52:58 | RAWLINGS DARRYL | Director | Shares: 30369 | Value: $1,357,943.0 | Percent: 0.706343% | Link: https://www.sec.gov/Archives/edgar/data/1611679/000195917325005818/0001959173-25-005818.txt
 2025-09-08 13:52:59 | RAWLINGS DARRYL | Director | Shares: 30369 | Value: $1,357,943.0 | Percent: 0.706343% | Link: https://www.sec.gov/Archives/edgar/data/1371285/000195917325005818/0001959173-25-005818.txt
+2025-09-08 14:12:08 | Sullivan Timothy Eugene | Officer | Shares: 32729 | Value: $911,829.94 | Percent: 0.025916% | Link: https://www.sec.gov/Archives/edgar/data/1707000/000195917325005819/0001959173-25-005819.txt
+2025-09-08 14:12:09 | Sullivan Timothy Eugene | Officer | Shares: 32729 | Value: $911,829.94 | Percent: 0.025916% | Link: https://www.sec.gov/Archives/edgar/data/1492422/000195917325005819/0001959173-25-005819.txt
