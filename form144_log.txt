@@ -2945,3 +2945,5 @@
 2025-09-09 11:41:51 | SHARIR DAFNA | Director | Shares: 10825 | Value: $107,925.25 | Percent: 0.018986% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000293/0001976408-25-000293.txt
 2025-09-09 11:51:13 | Livneh Regev Efraim | Officer | Shares: 13983 | Value: $18,457.56 | Percent: 0.109097% | Link: https://www.sec.gov/Archives/edgar/data/2070608/000197640825000294/0001976408-25-000294.txt
 2025-09-09 11:51:14 | Livneh Regev Efraim | Officer | Shares: 13983 | Value: $18,457.56 | Percent: 0.109097% | Link: https://www.sec.gov/Archives/edgar/data/1916241/000197640825000294/0001976408-25-000294.txt
+2025-09-09 13:30:17 | Parang Touraj | Officer | Shares: 53690 | Value: $555,568.01 | Percent: 0.087187% | Link: https://www.sec.gov/Archives/edgar/data/1983441/000197407825000292/0001974078-25-000292.txt
+2025-09-09 13:30:17 | Parang Touraj | Officer | Shares: 53690 | Value: $555,568.01 | Percent: 0.087187% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000292/0001974078-25-000292.txt
