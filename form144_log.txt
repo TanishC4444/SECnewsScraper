@@ -2973,3 +2973,5 @@
 2025-09-09 17:59:02 | SHIEH HAN-PING | Affiliate | Shares: 6000 | Value: $509,100.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1329394/000199545625000004/0001995456-25-000004.txt
 2025-09-09 18:31:01 | Manson Dean | Officer | Shares: 60000 | Value: $4,874,536.28 | Percent: 0.038371% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005865/0001959173-25-005865.txt
 2025-09-09 18:31:02 | Manson Dean | Officer | Shares: 60000 | Value: $4,874,536.28 | Percent: 0.038371% | Link: https://www.sec.gov/Archives/edgar/data/1353333/000195917325005865/0001959173-25-005865.txt
+2025-09-09 18:47:03 | Dussan Luis | Officer | Shares: 40000 | Value: $116,800.0 | Percent: 0.100142% | Link: https://www.sec.gov/Archives/edgar/data/1877925/000200731725001052/0002007317-25-001052.txt
+2025-09-09 18:47:04 | Dussan Luis | Officer | Shares: 40000 | Value: $116,800.0 | Percent: 0.100142% | Link: https://www.sec.gov/Archives/edgar/data/1818644/000200731725001052/0002007317-25-001052.txt
