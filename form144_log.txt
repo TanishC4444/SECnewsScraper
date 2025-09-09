@@ -2953,3 +2953,5 @@
 2025-09-09 14:23:07 | Fields Kimberly A | Officer | Shares: 15941 | Value: $1,235,746.32 | Percent: 0.011566% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325005853/0001959173-25-005853.txt
 2025-09-09 14:40:12 | Bonarti Michael A | Officer | Shares: 8728 | Value: $2,604,697.04 | Percent: 0.002155% | Link: https://www.sec.gov/Archives/edgar/data/1487699/000195917325005854/0001959173-25-005854.txt
 2025-09-09 14:40:13 | Bonarti Michael A | Officer | Shares: 8728 | Value: $2,604,697.04 | Percent: 0.002155% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005854/0001959173-25-005854.txt
+2025-09-09 15:28:16 | HENRY CHRISTIAN O | Director | Shares: 10000 | Value: $110,599.54 | Percent: 0.021236% | Link: https://www.sec.gov/Archives/edgar/data/1830214/000195917325005856/0001959173-25-005856.txt
+2025-09-09 15:28:17 | HENRY CHRISTIAN O | Director | Shares: 10000 | Value: $110,599.54 | Percent: 0.021236% | Link: https://www.sec.gov/Archives/edgar/data/1263805/000195917325005856/0001959173-25-005856.txt
