@@ -2939,3 +2939,5 @@
 2025-09-09 01:46:28 | Christopher Joyce | Chief Legal &amp; Administrative Officer | Shares: 35000 | Value: $555,100.0 | Percent: 0.017674% | Link: https://www.sec.gov/Archives/edgar/data/1032563/000103256325000004/0001032563-25-000004.txt
 2025-09-09 01:46:29 | Robert Scavo | Chief Information Officer | Shares: 35000 | Value: $555,100.0 | Percent: 0.017674% | Link: https://www.sec.gov/Archives/edgar/data/1975024/000197502425000004/0001975024-25-000004.txt
 2025-09-09 01:46:31 | Robert Scavo | Chief Information Officer | Shares: 35000 | Value: $555,100.0 | Percent: 0.017674% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000197502425000004/0001975024-25-000004.txt
+2025-09-09 10:50:04 | Offer Or | Officer | Shares: 100000 | Value: $972,000.0 | Percent: 0.121038% | Link: https://www.sec.gov/Archives/edgar/data/1910424/000197640825000292/0001976408-25-000292.txt
+2025-09-09 10:50:05 | Offer Or | Officer | Shares: 100000 | Value: $972,000.0 | Percent: 0.121038% | Link: https://www.sec.gov/Archives/edgar/data/1842731/000197640825000292/0001976408-25-000292.txt
