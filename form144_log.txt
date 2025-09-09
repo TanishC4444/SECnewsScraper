@@ -3025,3 +3025,9 @@
 2025-09-09 21:26:48 | Rothstein Adam | Board Member | Shares: 34719 | Value: $273,527.81 | Percent: 0.052958% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725001060/0002007317-25-001060.txt
 2025-09-09 21:26:50 | OCAMPO SUSAN | 10% Stockholder | Shares: 45986 | Value: $5,968,522.0 | Percent: 0.061750% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000457/0001949846-25-000457.txt
 2025-09-09 21:26:51 | OCAMPO SUSAN | 10% Stockholder | Shares: 45986 | Value: $5,968,522.0 | Percent: 0.061750% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000457/0001949846-25-000457.txt
+2025-09-09 21:36:44 | Eltoukhy Helmy | Officer | Shares: 300000 | Value: $17,835,990.0 | Percent: 0.240566% | Link: https://www.sec.gov/Archives/edgar/data/1752968/000197248125000202/0001972481-25-000202.txt
+2025-09-09 21:36:45 | Eltoukhy Helmy | Officer | Shares: 300000 | Value: $17,835,990.0 | Percent: 0.240566% | Link: https://www.sec.gov/Archives/edgar/data/1576280/000197248125000202/0001972481-25-000202.txt
+2025-09-09 21:36:46 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 13979 | Value: $433,349.0 | Percent: 0.031849% | Link: https://www.sec.gov/Archives/edgar/data/1085393/000089914025001116/0000899140-25-001116.txt
+2025-09-09 21:36:47 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 13979 | Value: $433,349.0 | Percent: 0.031849% | Link: https://www.sec.gov/Archives/edgar/data/846617/000089914025001116/0000899140-25-001116.txt
+2025-09-09 21:36:49 | Klamkin Jonathan | Officer | Shares: 150000 | Value: $2,827,312.5 | Percent: 0.949640% | Link: https://www.sec.gov/Archives/edgar/data/1869626/000121390025086272/0001213900-25-086272.txt
+2025-09-09 21:36:50 | Klamkin Jonathan | Officer | Shares: 150000 | Value: $2,827,312.5 | Percent: 0.949640% | Link: https://www.sec.gov/Archives/edgar/data/1828805/000121390025086272/0001213900-25-086272.txt

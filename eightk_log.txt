@@ -3783,3 +3783,6 @@
 2025-09-09 21:26:39 | 8-K - AUGUSTA GOLD CORP. (0001448597) (Filer) | 2025-09-09T17:19:37-04:00 | https://www.sec.gov/Archives/edgar/data/1448597/000121390025086260/0001213900-25-086260.txt
 2025-09-09 21:26:41 | 8-K - International Seaways, Inc. (0001679049) (Filer) | 2025-09-09T17:16:18-04:00 | https://www.sec.gov/Archives/edgar/data/1679049/000110465925088680/0001104659-25-088680.txt
 2025-09-09 21:26:44 | 8-K - CEA Industries Inc. (0001482541) (Filer) | 2025-09-09T17:14:29-04:00 | https://www.sec.gov/Archives/edgar/data/1482541/000149315225012922/0001493152-25-012922.txt
+2025-09-09 21:36:39 | 8-K - Mitesco, Inc. (0000802257) (Filer) | 2025-09-09T17:28:03-04:00 | https://www.sec.gov/Archives/edgar/data/802257/000118518525001157/0001185185-25-001157.txt
+2025-09-09 21:36:41 | 8-K - Broadcom Inc. (0001730168) (Filer) | 2025-09-09T17:28:00-04:00 | https://www.sec.gov/Archives/edgar/data/1730168/000119312525199281/0001193125-25-199281.txt
+2025-09-09 21:36:42 | 8-K - Crisp Momentum Inc. (0000924396) (Filer) | 2025-09-09T17:27:00-04:00 | https://www.sec.gov/Archives/edgar/data/924396/000164117225026990/0001641172-25-026990.txt
