@@ -3039,3 +3039,7 @@
 2025-09-09 22:51:04 | Xykis Constantine | Officer | Shares: 7854 | Value: $662,799.0 | Percent: 0.034104% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000095017025113849/0000950170-25-113849.txt
 2025-09-09 23:22:20 | Asia Equity Partners Ltd | Affiliate | Shares: 1000000 | Value: $87,240,000.0 | Percent: 0.524152% | Link: https://www.sec.gov/Archives/edgar/data/2025162/000110465925088708/0001104659-25-088708.txt
 2025-09-09 23:22:21 | Asia Equity Partners Ltd | Affiliate | Shares: 1000000 | Value: $87,240,000.0 | Percent: 0.524152% | Link: https://www.sec.gov/Archives/edgar/data/1985487/000110465925088708/0001104659-25-088708.txt
+2025-09-09 23:32:03 | Lindgardt Zhenya | Officer | Shares: 21158 | Value: $66,572.0 | Percent: 0.055588% | Link: https://www.sec.gov/Archives/edgar/data/1891299/000189129925000009/0001891299-25-000009.txt
+2025-09-09 23:32:04 | Lindgardt Zhenya | Officer | Shares: 21158 | Value: $66,572.0 | Percent: 0.055588% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000189129925000009/0001891299-25-000009.txt
+2025-09-09 23:32:08 | Aerts Austin | Officer | Shares: 5263 | Value: $16,560.0 | Percent: 0.013827% | Link: https://www.sec.gov/Archives/edgar/data/1979974/000197997425000008/0001979974-25-000008.txt
+2025-09-09 23:32:11 | Aerts Austin | Officer | Shares: 5263 | Value: $16,560.0 | Percent: 0.013827% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000197997425000008/0001979974-25-000008.txt
