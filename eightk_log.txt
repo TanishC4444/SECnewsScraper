@@ -3736,3 +3736,12 @@
 2025-09-09 19:25:46 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-09T15:17:58-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000172/0001325814-25-000172.txt
 2025-09-09 19:25:46 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-09T15:17:54-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000201/0001331465-25-000201.txt
 2025-09-09 19:45:48 | 8-K - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer) | 2025-09-09T15:40:43-04:00 | https://www.sec.gov/Archives/edgar/data/2077702/000153949725002317/0001539497-25-002317.txt
+2025-09-09 20:16:54 | 8-K - Bunge Global SA (0001996862) (Filer) | 2025-09-09T16:16:29-04:00 | https://www.sec.gov/Archives/edgar/data/1996862/000199686225000207/0001996862-25-000207.txt
+2025-09-09 20:16:57 | 8-K - Blink Charging Co. (0001429764) (Filer) | 2025-09-09T16:15:59-04:00 | https://www.sec.gov/Archives/edgar/data/1429764/000164117225026972/0001641172-25-026972.txt
+2025-09-09 20:16:59 | 8-K - JACK IN THE BOX INC (0000807882) (Filer) | 2025-09-09T16:15:58-04:00 | https://www.sec.gov/Archives/edgar/data/807882/000080788225000046/0000807882-25-000046.txt
+2025-09-09 20:17:02 | 8-K - N2OFF, Inc. (0001789192) (Filer) | 2025-09-09T16:15:43-04:00 | https://www.sec.gov/Archives/edgar/data/1789192/000149315225012904/0001493152-25-012904.txt
+2025-09-09 20:17:05 | 8-K - Brookfield Asset Management Ltd. (0001937926) (Filer) | 2025-09-09T16:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/1937926/000110465925088626/0001104659-25-088626.txt
+2025-09-09 20:17:07 | 8-K - Transportation & Logistics Systems, Inc. (0001463208) (Filer) | 2025-09-09T16:15:36-04:00 | https://www.sec.gov/Archives/edgar/data/1463208/000149315225012902/0001493152-25-012902.txt
+2025-09-09 20:17:10 | 8-K - Byrna Technologies Inc. (0001354866) (Filer) | 2025-09-09T16:15:30-04:00 | https://www.sec.gov/Archives/edgar/data/1354866/000143774925028688/0001437749-25-028688.txt
+2025-09-09 20:17:13 | 8-K - ARES CAPITAL CORP (0001287750) (Filer) | 2025-09-09T16:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1287750/000110465925088625/0001104659-25-088625.txt
+2025-09-09 20:17:15 | 8-K - Mobile Global Esports, Inc. (0001886362) (Filer) | 2025-09-09T16:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/1886362/000121390025086150/0001213900-25-086150.txt

@@ -2981,3 +2981,11 @@
 2025-09-09 19:36:37 | SOUTHWELL DAVID P | Director | Shares: 12000 | Value: $700,128.81 | Percent: 0.015106% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325005867/0001959173-25-005867.txt
 2025-09-09 19:36:39 | Pangrazio Vincent P | Officer | Shares: 6443 | Value: $1,575,764.0 | Percent: 0.027301% | Link: https://www.sec.gov/Archives/edgar/data/1514114/000197325125000067/0001973251-25-000067.txt
 2025-09-09 19:36:40 | Pangrazio Vincent P | Officer | Shares: 6443 | Value: $1,575,764.0 | Percent: 0.027301% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000067/0001973251-25-000067.txt
+2025-09-09 20:17:18 | Binowitz Dan | Former Officer | Shares: 19800 | Value: $66,592.35 | Percent: 0.017623% | Link: https://www.sec.gov/Archives/edgar/data/1942324/000195917325005871/0001959173-25-005871.txt
+2025-09-09 20:17:19 | Binowitz Dan | Former Officer | Shares: 19800 | Value: $66,592.35 | Percent: 0.017623% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005871/0001959173-25-005871.txt
+2025-09-09 20:17:22 | SEAWELL A BROOKE | Director | Shares: 15000 | Value: $462,040.42 | Percent: 0.012386% | Link: https://www.sec.gov/Archives/edgar/data/1660280/000196530125000133/0001965301-25-000133.txt
+2025-09-09 20:17:23 | SEAWELL A BROOKE | Director | Shares: 15000 | Value: $462,040.42 | Percent: 0.012386% | Link: https://www.sec.gov/Archives/edgar/data/1197652/000196530125000133/0001965301-25-000133.txt
+2025-09-09 20:17:26 | Pedersen Leif E | Officer | Shares: 51224 | Value: $559,303.56 | Percent: 0.031891% | Link: https://www.sec.gov/Archives/edgar/data/1827090/000195917325005870/0001959173-25-005870.txt
+2025-09-09 20:17:27 | Pedersen Leif E | Officer | Shares: 51224 | Value: $559,303.56 | Percent: 0.031891% | Link: https://www.sec.gov/Archives/edgar/data/1559712/000195917325005870/0001959173-25-005870.txt
+2025-09-09 20:17:30 | RONA JEAN SPIEGEL | Spouse of Director | Shares: 40000 | Value: $724,856.0 | Percent: 0.023086% | Link: https://www.sec.gov/Archives/edgar/data/1513234/000195004725006879/0001950047-25-006879.txt
+2025-09-09 20:17:31 | RONA JEAN SPIEGEL | Spouse of Director | Shares: 40000 | Value: $724,856.0 | Percent: 0.023086% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195004725006879/0001950047-25-006879.txt
