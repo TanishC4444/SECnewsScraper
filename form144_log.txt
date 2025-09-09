@@ -3021,3 +3021,7 @@
 2025-09-09 21:10:38 | 15 Angels II LLC | 10% Stockholder | Shares: 5951 | Value: $708,288.02 | Percent: 0.007702% | Link: https://www.sec.gov/Archives/edgar/data/1638826/000196186325000159/0001961863-25-000159.txt
 2025-09-09 21:10:41 | Simon Frederic | Officer | Shares: 35000 | Value: $1,749,130.08 | Percent: 0.032282% | Link: https://www.sec.gov/Archives/edgar/data/1823308/000200731725001059/0002007317-25-001059.txt
 2025-09-09 21:10:42 | Simon Frederic | Officer | Shares: 35000 | Value: $1,749,130.08 | Percent: 0.032282% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000200731725001059/0002007317-25-001059.txt
+2025-09-09 21:26:46 | Rothstein Adam | Board Member | Shares: 34719 | Value: $273,527.81 | Percent: 0.052958% | Link: https://www.sec.gov/Archives/edgar/data/1824403/000200731725001060/0002007317-25-001060.txt
+2025-09-09 21:26:48 | Rothstein Adam | Board Member | Shares: 34719 | Value: $273,527.81 | Percent: 0.052958% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725001060/0002007317-25-001060.txt
+2025-09-09 21:26:50 | OCAMPO SUSAN | 10% Stockholder | Shares: 45986 | Value: $5,968,522.0 | Percent: 0.061750% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000457/0001949846-25-000457.txt
+2025-09-09 21:26:51 | OCAMPO SUSAN | 10% Stockholder | Shares: 45986 | Value: $5,968,522.0 | Percent: 0.061750% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000457/0001949846-25-000457.txt
