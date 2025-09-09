@@ -3043,3 +3043,5 @@
 2025-09-09 23:32:04 | Lindgardt Zhenya | Officer | Shares: 21158 | Value: $66,572.0 | Percent: 0.055588% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000189129925000009/0001891299-25-000009.txt
 2025-09-09 23:32:08 | Aerts Austin | Officer | Shares: 5263 | Value: $16,560.0 | Percent: 0.013827% | Link: https://www.sec.gov/Archives/edgar/data/1979974/000197997425000008/0001979974-25-000008.txt
 2025-09-09 23:32:11 | Aerts Austin | Officer | Shares: 5263 | Value: $16,560.0 | Percent: 0.013827% | Link: https://www.sec.gov/Archives/edgar/data/1534969/000197997425000008/0001979974-25-000008.txt
+2025-09-09 23:50:53 | John C. Wobensmith | Chairman of the Board, CEO and President | Shares: 62752 | Value: $1,133,301.0 | Percent: 0.145114% | Link: https://www.sec.gov/Archives/edgar/data/1333673/000114036125034470/0001140361-25-034470.txt
+2025-09-09 23:50:53 | John C. Wobensmith | Chairman of the Board, CEO and President | Shares: 62752 | Value: $1,133,301.0 | Percent: 0.145114% | Link: https://www.sec.gov/Archives/edgar/data/1326200/000114036125034470/0001140361-25-034470.txt
