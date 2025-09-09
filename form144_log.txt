@@ -2977,3 +2977,7 @@
 2025-09-09 18:47:04 | Dussan Luis | Officer | Shares: 40000 | Value: $116,800.0 | Percent: 0.100142% | Link: https://www.sec.gov/Archives/edgar/data/1818644/000200731725001052/0002007317-25-001052.txt
 2025-09-09 19:13:27 | DUVALL DAVID L. | Officer | Shares: 50000 | Value: $1,039,500.0 | Percent: 0.564467% | Link: https://www.sec.gov/Archives/edgar/data/1757008/000194984625000456/0001949846-25-000456.txt
 2025-09-09 19:13:28 | DUVALL DAVID L. | Officer | Shares: 50000 | Value: $1,039,500.0 | Percent: 0.564467% | Link: https://www.sec.gov/Archives/edgar/data/1026655/000194984625000456/0001949846-25-000456.txt
+2025-09-09 19:36:35 | SOUTHWELL DAVID P | Director | Shares: 12000 | Value: $700,128.81 | Percent: 0.015106% | Link: https://www.sec.gov/Archives/edgar/data/1251553/000195917325005867/0001959173-25-005867.txt
+2025-09-09 19:36:37 | SOUTHWELL DAVID P | Director | Shares: 12000 | Value: $700,128.81 | Percent: 0.015106% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325005867/0001959173-25-005867.txt
+2025-09-09 19:36:39 | Pangrazio Vincent P | Officer | Shares: 6443 | Value: $1,575,764.0 | Percent: 0.027301% | Link: https://www.sec.gov/Archives/edgar/data/1514114/000197325125000067/0001973251-25-000067.txt
+2025-09-09 19:36:40 | Pangrazio Vincent P | Officer | Shares: 6443 | Value: $1,575,764.0 | Percent: 0.027301% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000067/0001973251-25-000067.txt
