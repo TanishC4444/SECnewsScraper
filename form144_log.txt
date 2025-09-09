@@ -2951,3 +2951,5 @@
 2025-09-09 13:49:53 | PAINTER ROBERT G | Officer | Shares: 7500 | Value: $609,825.0 | Percent: 0.003152% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325005850/0001959173-25-005850.txt
 2025-09-09 14:23:06 | Fields Kimberly A | Officer | Shares: 15941 | Value: $1,235,746.32 | Percent: 0.011566% | Link: https://www.sec.gov/Archives/edgar/data/1773072/000195917325005853/0001959173-25-005853.txt
 2025-09-09 14:23:07 | Fields Kimberly A | Officer | Shares: 15941 | Value: $1,235,746.32 | Percent: 0.011566% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325005853/0001959173-25-005853.txt
+2025-09-09 14:40:12 | Bonarti Michael A | Officer | Shares: 8728 | Value: $2,604,697.04 | Percent: 0.002155% | Link: https://www.sec.gov/Archives/edgar/data/1487699/000195917325005854/0001959173-25-005854.txt
+2025-09-09 14:40:13 | Bonarti Michael A | Officer | Shares: 8728 | Value: $2,604,697.04 | Percent: 0.002155% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005854/0001959173-25-005854.txt
