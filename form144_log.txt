@@ -3007,3 +3007,9 @@
 2025-09-09 20:44:05 | Dolomita Capital Ltd. | Affiliate | Shares: 266057 | Value: $2,676,533.42 | Percent: 0.412615% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000095010325011456/0000950103-25-011456.txt
 2025-09-09 20:44:07 | Comings Douglas N. | Officer | Shares: 16000 | Value: $2,503,711.82 | Percent: 0.035957% | Link: https://www.sec.gov/Archives/edgar/data/1789183/000195917325005877/0001959173-25-005877.txt
 2025-09-09 20:44:08 | Comings Douglas N. | Officer | Shares: 16000 | Value: $2,503,711.82 | Percent: 0.035957% | Link: https://www.sec.gov/Archives/edgar/data/703351/000195917325005877/0001959173-25-005877.txt
+2025-09-09 20:53:33 | Zelnick Kaufman Beth | Officer | Shares: 50000 | Value: $673,000.0 | Percent: 0.066980% | Link: https://www.sec.gov/Archives/edgar/data/2004480/000200731725001058/0002007317-25-001058.txt
+2025-09-09 20:53:34 | Zelnick Kaufman Beth | Officer | Shares: 50000 | Value: $673,000.0 | Percent: 0.066980% | Link: https://www.sec.gov/Archives/edgar/data/1410098/000200731725001058/0002007317-25-001058.txt
+2025-09-09 20:53:35 | Hurlburt Elizabeth | Officer | Shares: 53997 | Value: $728,959.0 | Percent: 0.072335% | Link: https://www.sec.gov/Archives/edgar/data/1735256/000200731725001057/0002007317-25-001057.txt
+2025-09-09 20:53:36 | Hurlburt Elizabeth | Officer | Shares: 53997 | Value: $728,959.0 | Percent: 0.072335% | Link: https://www.sec.gov/Archives/edgar/data/1410098/000200731725001057/0002007317-25-001057.txt
+2025-09-09 20:53:37 | Benjamin Sun | Affiliate | Shares: 815797 | Value: $26,007,404.13 | Percent: 0.048989% | Link: https://www.sec.gov/Archives/edgar/data/1849164/000196922325000752/0001969223-25-000752.txt
+2025-09-09 20:53:38 | Benjamin Sun | Affiliate | Shares: 815797 | Value: $26,007,404.13 | Percent: 0.048989% | Link: https://www.sec.gov/Archives/edgar/data/1834584/000196922325000752/0001969223-25-000752.txt
