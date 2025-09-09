@@ -2999,3 +2999,11 @@
 2025-09-09 20:33:46 | TJ CAPITAL INVESTORS LLC | Director | Shares: 95701 | Value: $16,867,301.25 | Percent: 0.044319% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006905/0001950047-25-006905.txt
 2025-09-09 20:33:47 | CANNON-BROOKES HEAD TRUST | Director | Shares: 490560 | Value: $84,719,712.0 | Percent: 0.295012% | Link: https://www.sec.gov/Archives/edgar/data/1666120/000195004725006904/0001950047-25-006904.txt
 2025-09-09 20:33:48 | CANNON-BROOKES HEAD TRUST | Director | Shares: 490560 | Value: $84,719,712.0 | Percent: 0.295012% | Link: https://www.sec.gov/Archives/edgar/data/1650372/000195004725006904/0001950047-25-006904.txt
+2025-09-09 20:44:00 | James A. Clark (LYTS) | Officer | Shares: 500000 | Value: $11,500,000.0 | Percent: 1.666419% | Link: https://www.sec.gov/Archives/edgar/data/1756328/000143774925028696/0001437749-25-028696.txt
+2025-09-09 20:44:01 | James A. Clark (LYTS) | Officer | Shares: 500000 | Value: $11,500,000.0 | Percent: 1.666419% | Link: https://www.sec.gov/Archives/edgar/data/763532/000143774925028696/0001437749-25-028696.txt
+2025-09-09 20:44:02 | MATTHEW J. HART | Director | Shares: 23270 | Value: $801,546.79 | Percent: 0.006274% | Link: https://www.sec.gov/Archives/edgar/data/1562401/000195004725006908/0001950047-25-006908.txt
+2025-09-09 20:44:03 | MATTHEW J. HART | Director | Shares: 23270 | Value: $801,546.79 | Percent: 0.006274% | Link: https://www.sec.gov/Archives/edgar/data/1188272/000195004725006908/0001950047-25-006908.txt
+2025-09-09 20:44:05 | Dolomita Capital Ltd. | Affiliate | Shares: 266057 | Value: $2,676,533.42 | Percent: 0.412615% | Link: https://www.sec.gov/Archives/edgar/data/2028299/000095010325011456/0000950103-25-011456.txt
+2025-09-09 20:44:05 | Dolomita Capital Ltd. | Affiliate | Shares: 266057 | Value: $2,676,533.42 | Percent: 0.412615% | Link: https://www.sec.gov/Archives/edgar/data/1826286/000095010325011456/0000950103-25-011456.txt
+2025-09-09 20:44:07 | Comings Douglas N. | Officer | Shares: 16000 | Value: $2,503,711.82 | Percent: 0.035957% | Link: https://www.sec.gov/Archives/edgar/data/1789183/000195917325005877/0001959173-25-005877.txt
+2025-09-09 20:44:08 | Comings Douglas N. | Officer | Shares: 16000 | Value: $2,503,711.82 | Percent: 0.035957% | Link: https://www.sec.gov/Archives/edgar/data/703351/000195917325005877/0001959173-25-005877.txt
