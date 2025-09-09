@@ -2971,3 +2971,5 @@
 2025-09-09 17:59:00 | DeVeydt Wayne S | Director | Shares: 10775 | Value: $314,545.1 | Percent: 0.002194% | Link: https://www.sec.gov/Archives/edgar/data/1071739/000200731725001051/0002007317-25-001051.txt
 2025-09-09 17:59:01 | SHIEH HAN-PING | Affiliate | Shares: 6000 | Value: $509,100.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1995456/000199545625000004/0001995456-25-000004.txt
 2025-09-09 17:59:02 | SHIEH HAN-PING | Affiliate | Shares: 6000 | Value: $509,100.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1329394/000199545625000004/0001995456-25-000004.txt
+2025-09-09 18:31:01 | Manson Dean | Officer | Shares: 60000 | Value: $4,874,536.28 | Percent: 0.038371% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005865/0001959173-25-005865.txt
+2025-09-09 18:31:02 | Manson Dean | Officer | Shares: 60000 | Value: $4,874,536.28 | Percent: 0.038371% | Link: https://www.sec.gov/Archives/edgar/data/1353333/000195917325005865/0001959173-25-005865.txt
