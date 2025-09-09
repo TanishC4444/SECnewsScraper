@@ -3732,3 +3732,6 @@
 2025-09-09 17:50:15 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-09T13:46:13-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010538/0001654954-25-010538.txt
 2025-09-09 17:50:16 | 8-K - FREEPORT-MCMORAN INC (0000831259) (Filer) | 2025-09-09T13:44:40-04:00 | https://www.sec.gov/Archives/edgar/data/831259/000083125925000034/0000831259-25-000034.txt
 2025-09-09 19:13:25 | 8-K - Rapid Line Inc. (0001910975) (Filer) | 2025-09-09T15:06:07-04:00 | https://www.sec.gov/Archives/edgar/data/1910975/000168316825006776/0001683168-25-006776.txt
+2025-09-09 19:25:46 | 8-K - Serina Therapeutics, Inc. (0001708599) (Filer) | 2025-09-09T15:23:30-04:00 | https://www.sec.gov/Archives/edgar/data/1708599/000170859925000108/0001708599-25-000108.txt
+2025-09-09 19:25:46 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-09T15:17:58-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000172/0001325814-25-000172.txt
+2025-09-09 19:25:46 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-09T15:17:54-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000201/0001331465-25-000201.txt
