@@ -3843,3 +3843,5 @@
 2025-09-10 14:16:38 | 8-K - EQUATOR Beverage Co (0001414953) (Filer) | 2025-09-10T10:11:02-04:00 | https://www.sec.gov/Archives/edgar/data/1414953/000147793225006601/0001477932-25-006601.txt
 2025-09-10 14:34:53 | 8-K - ONE Group Hospitality, Inc. (0001399520) (Filer) | 2025-09-10T10:20:53-04:00 | https://www.sec.gov/Archives/edgar/data/1399520/000155837025011985/0001558370-25-011985.txt
 2025-09-10 14:55:34 | 8-K - General Enterprise Ventures, Inc. (0000894556) (Filer) | 2025-09-10T10:50:58-04:00 | https://www.sec.gov/Archives/edgar/data/894556/000164033425001666/0001640334-25-001666.txt
+2025-09-10 15:33:18 | 8-K/A - Medalist Diversified REIT, Inc. (0001654595) (Filer) | 2025-09-10T11:30:39-04:00 | https://www.sec.gov/Archives/edgar/data/1654595/000155837025011989/0001558370-25-011989.txt
+2025-09-10 15:33:20 | 8-K - PECO ENERGY CO (0000078100) (Filer) | 2025-09-10T11:21:54-04:00 | https://www.sec.gov/Archives/edgar/data/78100/000007810025000006/0000078100-25-000006.txt
