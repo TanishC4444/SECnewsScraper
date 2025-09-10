@@ -3059,3 +3059,5 @@
 2025-09-10 10:57:28 | Shafran Ami | Director | Shares: 16477 | Value: $174,161.89 | Percent: 0.028898% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000297/0001976408-25-000297.txt
 2025-09-10 12:41:03 | Liang Yan | Officer | Shares: 10000 | Value: $342,600.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1972302/000197337925000258/0001973379-25-000258.txt
 2025-09-10 12:41:04 | Liang Yan | Officer | Shares: 10000 | Value: $342,600.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000258/0001973379-25-000258.txt
+2025-09-10 14:16:40 | GOULD JEFFREY | Officer | Shares: 8600 | Value: $199,000.0 | Percent: 0.039815% | Link: https://www.sec.gov/Archives/edgar/data/1187903/000197235925000005/0001972359-25-000005.txt
+2025-09-10 14:16:41 | GOULD JEFFREY | Officer | Shares: 8600 | Value: $199,000.0 | Percent: 0.039815% | Link: https://www.sec.gov/Archives/edgar/data/712770/000197235925000005/0001972359-25-000005.txt
