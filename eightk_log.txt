@@ -3832,3 +3832,10 @@
 2025-09-10 13:13:59 | 8-K - NEXTNRG, INC. (0001817004) (Filer) | 2025-09-10T09:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1817004/000149315225012960/0001493152-25-012960.txt
 2025-09-10 13:14:00 | 8-K - PACS Group, Inc. (0002001184) (Filer) | 2025-09-10T09:00:10-04:00 | https://www.sec.gov/Archives/edgar/data/2001184/000200118425000043/0002001184-25-000043.txt
 2025-09-10 13:14:02 | 8-K - ENERGIZER HOLDINGS, INC. (0001632790) (Filer) | 2025-09-10T08:53:31-04:00 | https://www.sec.gov/Archives/edgar/data/1632790/000114036125034505/0001140361-25-034505.txt
+2025-09-10 13:36:30 | 8-K - Stellus Capital Investment Corp (0001551901) (Filer) | 2025-09-10T09:29:58-04:00 | https://www.sec.gov/Archives/edgar/data/1551901/000110465925088902/0001104659-25-088902.txt
+2025-09-10 13:36:31 | 8-K - Light & Wonder, Inc. (0000750004) (Filer) | 2025-09-10T09:29:33-04:00 | https://www.sec.gov/Archives/edgar/data/750004/000110465925088901/0001104659-25-088901.txt
+2025-09-10 13:36:33 | 8-K - FS Specialty Lending Fund (0001501729) (Filer) | 2025-09-10T09:25:03-04:00 | https://www.sec.gov/Archives/edgar/data/1501729/000110465925088900/0001104659-25-088900.txt
+2025-09-10 13:36:34 | 8-K - Vimeo, Inc. (0001837686) (Filer) | 2025-09-10T09:22:11-04:00 | https://www.sec.gov/Archives/edgar/data/1837686/000110465925088898/0001104659-25-088898.txt
+2025-09-10 13:36:36 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-09-10T09:18:57-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125034510/0001140361-25-034510.txt
+2025-09-10 13:36:37 | 8-K - Pelican Acquisition Corp (0002037431) (Filer) | 2025-09-10T09:17:12-04:00 | https://www.sec.gov/Archives/edgar/data/2037431/000182912625007274/0001829126-25-007274.txt
+2025-09-10 13:36:38 | 8-K - Lucid Diagnostics Inc. (0001799011) (Filer) | 2025-09-10T09:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1799011/000149315225012962/0001493152-25-012962.txt
