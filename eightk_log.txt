@@ -3866,3 +3866,12 @@
 2025-09-10 20:22:52 | 8-K - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer) | 2025-09-10T16:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/1113809/000143774925028766/0001437749-25-028766.txt
 2025-09-10 20:22:53 | 8-K - Charging Robotics Inc. (0001459188) (Filer) | 2025-09-10T16:15:47-04:00 | https://www.sec.gov/Archives/edgar/data/1459188/000121390025086538/0001213900-25-086538.txt
 2025-09-10 20:22:56 | 8-K - Alchemy Investments Acquisition Corp 1 (0001901336) (Filer) | 2025-09-10T16:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1901336/000110465925089073/0001104659-25-089073.txt
+2025-09-10 20:37:05 | 8-K - Great Elm Capital Corp. (0001675033) (Filer) | 2025-09-10T16:36:44-04:00 | https://www.sec.gov/Archives/edgar/data/1675033/000095010325011498/0000950103-25-011498.txt
+2025-09-10 20:37:06 | 8-K - Fox Corp (0001754301) (Filer) | 2025-09-10T16:36:33-04:00 | https://www.sec.gov/Archives/edgar/data/1754301/000119312525200134/0001193125-25-200134.txt
+2025-09-10 20:37:08 | 8-K - Victory Capital Holdings, Inc. (0001570827) (Filer) | 2025-09-10T16:36:07-04:00 | https://www.sec.gov/Archives/edgar/data/1570827/000095017025114000/0000950170-25-114000.txt
+2025-09-10 20:37:10 | 8-K - Planet Labs PBC (0001836833) (Filer) | 2025-09-10T16:33:58-04:00 | https://www.sec.gov/Archives/edgar/data/1836833/000183683325000108/0001836833-25-000108.txt
+2025-09-10 20:37:12 | 8-K - Beacon Financial Corp (0001108134) (Filer) | 2025-09-10T16:32:42-04:00 | https://www.sec.gov/Archives/edgar/data/1108134/000110465925089092/0001104659-25-089092.txt
+2025-09-10 20:37:12 | 8-K - SIERRA PACIFIC POWER CO (0000090144) (Filer) | 2025-09-10T16:32:27-04:00 | https://www.sec.gov/Archives/edgar/data/90144/000110465925089091/0001104659-25-089091.txt
+2025-09-10 20:37:14 | 8-K - Tilray Brands, Inc. (0001731348) (Filer) | 2025-09-10T16:32:19-04:00 | https://www.sec.gov/Archives/edgar/data/1731348/000114036125034569/0001140361-25-034569.txt
+2025-09-10 20:37:16 | 8-K - CULP INC (0000723603) (Filer) | 2025-09-10T16:31:33-04:00 | https://www.sec.gov/Archives/edgar/data/723603/000095017025113998/0000950170-25-113998.txt
+2025-09-10 20:37:19 | 8-K - Nixxy, Inc. (0001462223) (Filer) | 2025-09-10T16:30:32-04:00 | https://www.sec.gov/Archives/edgar/data/1462223/000168316825006827/0001683168-25-006827.txt
