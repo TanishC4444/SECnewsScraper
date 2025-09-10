@@ -3154,3 +3154,7 @@
 2025-09-10 21:49:03 | FORREST E NORROD | Officer | Shares: 17200 | Value: $2,768,018.16 | Percent: 0.001060% | Link: https://www.sec.gov/Archives/edgar/data/2488/000195004725006962/0001950047-25-006962.txt
 2025-09-10 21:49:03 | MICHAEL WEENING | Officer | Shares: 157990 | Value: $9,803,370.0 | Percent: 0.241930% | Link: https://www.sec.gov/Archives/edgar/data/1678385/000195004725006961/0001950047-25-006961.txt
 2025-09-10 21:49:04 | MICHAEL WEENING | Officer | Shares: 157990 | Value: $9,803,370.0 | Percent: 0.241930% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725006961/0001950047-25-006961.txt
+2025-09-10 22:19:25 | Michael Wittmann | Officer | Shares: 20908 | Value: $82,649.32 | Percent: 0.009672% | Link: https://www.sec.gov/Archives/edgar/data/2009989/000195004725006964/0001950047-25-006964.txt
+2025-09-10 22:19:26 | Michael Wittmann | Officer | Shares: 20908 | Value: $82,649.32 | Percent: 0.009672% | Link: https://www.sec.gov/Archives/edgar/data/1841925/000195004725006964/0001950047-25-006964.txt
+2025-09-10 22:19:28 | GREGORY Q BROWN | Officer | Shares: 25000 | Value: $12,046,577.5 | Percent: 0.015006% | Link: https://www.sec.gov/Archives/edgar/data/1201232/000195004725006963/0001950047-25-006963.txt
+2025-09-10 22:19:29 | GREGORY Q BROWN | Officer | Shares: 25000 | Value: $12,046,577.5 | Percent: 0.015006% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725006963/0001950047-25-006963.txt
