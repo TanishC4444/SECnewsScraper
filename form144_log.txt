@@ -3095,3 +3095,5 @@
 2025-09-10 19:18:32 | Elson Marilyn | Associate to Affiliate | Shares: 23150 | Value: $402.81 | Percent: 1.347497% | Link: https://www.sec.gov/Archives/edgar/data/1527352/000196530125000134/0001965301-25-000134.txt
 2025-09-10 19:18:33 | Walsh Jeff Alexander | Former Officer | Shares: 100000 | Value: $349,613.93 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1842775/000195917325005903/0001959173-25-005903.txt
 2025-09-10 19:18:34 | Walsh Jeff Alexander | Former Officer | Shares: 100000 | Value: $349,613.93 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005903/0001959173-25-005903.txt
+2025-09-10 19:28:15 | Vines John R | Former director | Shares: 11297 | Value: $681,302.71 | Percent: 0.019566% | Link: https://www.sec.gov/Archives/edgar/data/1582749/000200731725001064/0002007317-25-001064.txt
+2025-09-10 19:28:16 | Vines John R | Former director | Shares: 11297 | Value: $681,302.71 | Percent: 0.019566% | Link: https://www.sec.gov/Archives/edgar/data/825542/000200731725001064/0002007317-25-001064.txt
