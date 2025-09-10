@@ -3055,3 +3055,5 @@
 2025-09-10 01:55:11 | SCHWARTZ RICHARD TODD | Officer | Shares: 57167 | Value: $1,192,972.0 | Percent: 0.060459% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725001062/0002007317-25-001062.txt
 2025-09-10 10:39:11 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1766000/000176600025000004/0001766000-25-000004.txt
 2025-09-10 10:39:12 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1725123/000176600025000004/0001766000-25-000004.txt
+2025-09-10 10:57:27 | Shafran Ami | Director | Shares: 16477 | Value: $174,161.89 | Percent: 0.028898% | Link: https://www.sec.gov/Archives/edgar/data/1978224/000197640825000297/0001976408-25-000297.txt
+2025-09-10 10:57:28 | Shafran Ami | Director | Shares: 16477 | Value: $174,161.89 | Percent: 0.028898% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000297/0001976408-25-000297.txt
