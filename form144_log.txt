@@ -3144,3 +3144,7 @@
 2025-09-10 21:29:34 | John Markovich | Affiliate | Shares: 50000 | Value: $315,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000197449425000112/0001974494-25-000112.txt
 2025-09-10 21:29:36 | Rothstein Adam | Board Member | Shares: 65281 | Value: $506,585.29 | Percent: 0.099576% | Link: https://www.sec.gov/Archives/edgar/data/1824403/000200731725001068/0002007317-25-001068.txt
 2025-09-10 21:29:37 | Rothstein Adam | Board Member | Shares: 65281 | Value: $506,585.29 | Percent: 0.099576% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725001068/0002007317-25-001068.txt
+2025-09-10 21:39:29 | SANDEEP LAUMAS | Officer | Shares: 30000 | Value: $701,595.0 | Percent: 0.444397% | Link: https://www.sec.gov/Archives/edgar/data/1789769/000195004725006960/0001950047-25-006960.txt
+2025-09-10 21:39:30 | SANDEEP LAUMAS | Officer | Shares: 30000 | Value: $701,595.0 | Percent: 0.444397% | Link: https://www.sec.gov/Archives/edgar/data/1721664/000195004725006960/0001950047-25-006960.txt
+2025-09-10 21:39:32 | DON M BAILEY | Director | Shares: 80000 | Value: $97,472.0 | Percent: 0.035033% | Link: https://www.sec.gov/Archives/edgar/data/1223697/000195004725006959/0001950047-25-006959.txt
+2025-09-10 21:39:33 | DON M BAILEY | Director | Shares: 80000 | Value: $97,472.0 | Percent: 0.035033% | Link: https://www.sec.gov/Archives/edgar/data/876343/000195004725006959/0001950047-25-006959.txt
