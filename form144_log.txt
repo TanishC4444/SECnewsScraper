@@ -3091,3 +3091,7 @@
 2025-09-10 16:41:00 | STT GARNET PTE. LTD. | Owner | Shares: 24000000 | Value: $100,530,000.0 | Percent: 1.493066% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000119312525199868/0001193125-25-199868.txt
 2025-09-10 17:08:50 | Butcher Stephanie | Officer | Shares: 103192 | Value: $2,282,708.32 | Percent: 0.023139% | Link: https://www.sec.gov/Archives/edgar/data/1965994/000195917325005901/0001959173-25-005901.txt
 2025-09-10 17:08:51 | Butcher Stephanie | Officer | Shares: 103192 | Value: $2,282,708.32 | Percent: 0.023139% | Link: https://www.sec.gov/Archives/edgar/data/914208/000195917325005901/0001959173-25-005901.txt
+2025-09-10 19:18:30 | Elson Marilyn | Associate to Affiliate | Shares: 23150 | Value: $402.81 | Percent: 1.347497% | Link: https://www.sec.gov/Archives/edgar/data/1916491/000196530125000134/0001965301-25-000134.txt
+2025-09-10 19:18:32 | Elson Marilyn | Associate to Affiliate | Shares: 23150 | Value: $402.81 | Percent: 1.347497% | Link: https://www.sec.gov/Archives/edgar/data/1527352/000196530125000134/0001965301-25-000134.txt
+2025-09-10 19:18:33 | Walsh Jeff Alexander | Former Officer | Shares: 100000 | Value: $349,613.93 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1842775/000195917325005903/0001959173-25-005903.txt
+2025-09-10 19:18:34 | Walsh Jeff Alexander | Former Officer | Shares: 100000 | Value: $349,613.93 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005903/0001959173-25-005903.txt
