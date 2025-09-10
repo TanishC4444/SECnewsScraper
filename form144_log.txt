@@ -3140,3 +3140,7 @@
 2025-09-10 21:16:01 | JAMES SAMSON | Officer | Shares: 100000 | Value: $426,370.0 | Percent: 0.014876% | Link: https://www.sec.gov/Archives/edgar/data/1764046/000195004725006956/0001950047-25-006956.txt
 2025-09-10 21:16:02 | OCAMPO SUSAN | 10% Stockholder | Shares: 50361 | Value: $6,632,543.0 | Percent: 0.067625% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000461/0001949846-25-000461.txt
 2025-09-10 21:16:03 | OCAMPO SUSAN | 10% Stockholder | Shares: 50361 | Value: $6,632,543.0 | Percent: 0.067625% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000461/0001949846-25-000461.txt
+2025-09-10 21:29:31 | John Markovich | Affiliate | Shares: 50000 | Value: $315,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000112/0001974494-25-000112.txt
+2025-09-10 21:29:34 | John Markovich | Affiliate | Shares: 50000 | Value: $315,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000197449425000112/0001974494-25-000112.txt
+2025-09-10 21:29:36 | Rothstein Adam | Board Member | Shares: 65281 | Value: $506,585.29 | Percent: 0.099576% | Link: https://www.sec.gov/Archives/edgar/data/1824403/000200731725001068/0002007317-25-001068.txt
+2025-09-10 21:29:37 | Rothstein Adam | Board Member | Shares: 65281 | Value: $506,585.29 | Percent: 0.099576% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725001068/0002007317-25-001068.txt
