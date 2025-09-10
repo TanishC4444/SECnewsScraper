@@ -3101,3 +3101,5 @@
 2025-09-10 19:39:20 | Sutaria Saumya | Officer | Shares: 78762 | Value: $15,025,892.48 | Percent: 0.089147% | Link: https://www.sec.gov/Archives/edgar/data/70318/000195917325005905/0001959173-25-005905.txt
 2025-09-10 19:39:22 | Harris Ryan | Officer | Shares: 9841 | Value: $751,070.0 | Percent: 0.021361% | Link: https://www.sec.gov/Archives/edgar/data/1765318/000197407825000297/0001974078-25-000297.txt
 2025-09-10 19:39:24 | Harris Ryan | Officer | Shares: 9841 | Value: $751,070.0 | Percent: 0.021361% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000197407825000297/0001974078-25-000297.txt
+2025-09-10 19:57:50 | Kite John A | Officer | Shares: 50000 | Value: $1,133,249.05 | Percent: 0.022742% | Link: https://www.sec.gov/Archives/edgar/data/1295834/000197407825000298/0001974078-25-000298.txt
+2025-09-10 19:57:52 | Kite John A | Officer | Shares: 50000 | Value: $1,133,249.05 | Percent: 0.022742% | Link: https://www.sec.gov/Archives/edgar/data/1286043/000197407825000298/0001974078-25-000298.txt
