@@ -3053,3 +3053,5 @@
 2025-09-10 01:55:08 | William John Sibold | Officer and Director | Shares: 7279 | Value: $3,303,210.2 | Percent: 0.032657% | Link: https://www.sec.gov/Archives/edgar/data/1157601/000110465925088744/0001104659-25-088744.txt
 2025-09-10 01:55:10 | SCHWARTZ RICHARD TODD | Officer | Shares: 57167 | Value: $1,192,972.0 | Percent: 0.060459% | Link: https://www.sec.gov/Archives/edgar/data/1834345/000200731725001062/0002007317-25-001062.txt
 2025-09-10 01:55:11 | SCHWARTZ RICHARD TODD | Officer | Shares: 57167 | Value: $1,192,972.0 | Percent: 0.060459% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000200731725001062/0002007317-25-001062.txt
+2025-09-10 10:39:11 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1766000/000176600025000004/0001766000-25-000004.txt
+2025-09-10 10:39:12 | Lin Jiayuan | Director | Shares: 800000 | Value: $3,784,000.0 | Percent: 0.770842% | Link: https://www.sec.gov/Archives/edgar/data/1725123/000176600025000004/0001766000-25-000004.txt
