@@ -3061,3 +3061,9 @@
 2025-09-10 12:41:04 | Liang Yan | Officer | Shares: 10000 | Value: $342,600.0 | Percent: 0.000600% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000258/0001973379-25-000258.txt
 2025-09-10 14:16:40 | GOULD JEFFREY | Officer | Shares: 8600 | Value: $199,000.0 | Percent: 0.039815% | Link: https://www.sec.gov/Archives/edgar/data/1187903/000197235925000005/0001972359-25-000005.txt
 2025-09-10 14:16:41 | GOULD JEFFREY | Officer | Shares: 8600 | Value: $199,000.0 | Percent: 0.039815% | Link: https://www.sec.gov/Archives/edgar/data/712770/000197235925000005/0001972359-25-000005.txt
+2025-09-10 14:34:55 | Thomas Sonderman | Affiliate | Shares: 8355 | Value: $88,392.86 | Percent: 0.017532% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000197449425000108/0001974494-25-000108.txt
+2025-09-10 14:34:55 | Thomas Sonderman | Affiliate | Shares: 8355 | Value: $88,392.86 | Percent: 0.017532% | Link: https://www.sec.gov/Archives/edgar/data/1611597/000197449425000108/0001974494-25-000108.txt
+2025-09-10 14:34:57 | SONNENBERG HARVEY L | Director | Shares: 72000 | Value: $316,800.0 | Percent: 0.172205% | Link: https://www.sec.gov/Archives/edgar/data/1319947/000194984625000458/0001949846-25-000458.txt
+2025-09-10 14:34:58 | SONNENBERG HARVEY L | Director | Shares: 72000 | Value: $316,800.0 | Percent: 0.172205% | Link: https://www.sec.gov/Archives/edgar/data/1195384/000194984625000458/0001949846-25-000458.txt
+2025-09-10 14:34:59 | WENDLER DANIEL | Officer | Shares: 10000 | Value: $566,600.0 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/1916194/000195917325005890/0001959173-25-005890.txt
+2025-09-10 14:35:01 | WENDLER DANIEL | Officer | Shares: 10000 | Value: $566,600.0 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325005890/0001959173-25-005890.txt
