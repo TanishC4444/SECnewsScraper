@@ -3067,3 +3067,9 @@
 2025-09-10 14:34:58 | SONNENBERG HARVEY L | Director | Shares: 72000 | Value: $316,800.0 | Percent: 0.172205% | Link: https://www.sec.gov/Archives/edgar/data/1195384/000194984625000458/0001949846-25-000458.txt
 2025-09-10 14:34:59 | WENDLER DANIEL | Officer | Shares: 10000 | Value: $566,600.0 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/1916194/000195917325005890/0001959173-25-005890.txt
 2025-09-10 14:35:01 | WENDLER DANIEL | Officer | Shares: 10000 | Value: $566,600.0 | Percent: 0.002664% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325005890/0001959173-25-005890.txt
+2025-09-10 14:46:07 | Alvarez Nicholas P | Officer | Shares: 75000 | Value: $459,000.0 | Percent: 0.158170% | Link: https://www.sec.gov/Archives/edgar/data/1802844/000194984625000459/0001949846-25-000459.txt
+2025-09-10 14:46:08 | Alvarez Nicholas P | Officer | Shares: 75000 | Value: $459,000.0 | Percent: 0.158170% | Link: https://www.sec.gov/Archives/edgar/data/948320/000194984625000459/0001949846-25-000459.txt
+2025-09-10 14:46:08 | Child Jason | Officer | Shares: 10640 | Value: $1,542,800.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1973239/000195917325005894/0001959173-25-005894.txt
+2025-09-10 14:46:08 | Child Jason | Officer | Shares: 10640 | Value: $1,542,800.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325005894/0001959173-25-005894.txt
+2025-09-10 14:46:10 | Bhalla Vikas | Officer | Shares: 8000 | Value: $350,080.0 | Percent: 0.004953% | Link: https://www.sec.gov/Archives/edgar/data/1373633/000195917325005893/0001959173-25-005893.txt
+2025-09-10 14:46:10 | Bhalla Vikas | Officer | Shares: 8000 | Value: $350,080.0 | Percent: 0.004953% | Link: https://www.sec.gov/Archives/edgar/data/1297989/000195917325005893/0001959173-25-005893.txt
