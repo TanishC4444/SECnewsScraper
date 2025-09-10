@@ -3839,3 +3839,4 @@
 2025-09-10 13:36:36 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-09-10T09:18:57-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125034510/0001140361-25-034510.txt
 2025-09-10 13:36:37 | 8-K - Pelican Acquisition Corp (0002037431) (Filer) | 2025-09-10T09:17:12-04:00 | https://www.sec.gov/Archives/edgar/data/2037431/000182912625007274/0001829126-25-007274.txt
 2025-09-10 13:36:38 | 8-K - Lucid Diagnostics Inc. (0001799011) (Filer) | 2025-09-10T09:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1799011/000149315225012962/0001493152-25-012962.txt
+2025-09-10 13:56:06 | 8-K - Zivo Bioscience, Inc. (0001101026) (Filer) | 2025-09-10T09:49:23-04:00 | https://www.sec.gov/Archives/edgar/data/1101026/000165495425010579/0001654954-25-010579.txt
