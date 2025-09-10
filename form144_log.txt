@@ -3089,3 +3089,5 @@
 2025-09-10 16:40:57 | Ahamad Samsheer | Officer | Shares: 6000 | Value: $1,499,700.0 | Percent: 0.023077% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000068/0001973251-25-000068.txt
 2025-09-10 16:40:58 | STT GARNET PTE. LTD. | Owner | Shares: 24000000 | Value: $100,530,000.0 | Percent: 1.493066% | Link: https://www.sec.gov/Archives/edgar/data/2028855/000119312525199868/0001193125-25-199868.txt
 2025-09-10 16:41:00 | STT GARNET PTE. LTD. | Owner | Shares: 24000000 | Value: $100,530,000.0 | Percent: 1.493066% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000119312525199868/0001193125-25-199868.txt
+2025-09-10 17:08:50 | Butcher Stephanie | Officer | Shares: 103192 | Value: $2,282,708.32 | Percent: 0.023139% | Link: https://www.sec.gov/Archives/edgar/data/1965994/000195917325005901/0001959173-25-005901.txt
+2025-09-10 17:08:51 | Butcher Stephanie | Officer | Shares: 103192 | Value: $2,282,708.32 | Percent: 0.023139% | Link: https://www.sec.gov/Archives/edgar/data/914208/000195917325005901/0001959173-25-005901.txt
