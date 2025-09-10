@@ -3125,3 +3125,8 @@
 2025-09-10 20:46:51 | MARC DROBNY | Officer | Shares: 20000 | Value: $532,800.0 | Percent: 0.005980% | Link: https://www.sec.gov/Archives/edgar/data/2025410/000195004725006949/0001950047-25-006949.txt
 2025-09-10 20:46:52 | Makagon Kira | Officer | Shares: 6495 | Value: $206,281.2 | Percent: 0.008105% | Link: https://www.sec.gov/Archives/edgar/data/1586648/000200731725001067/0002007317-25-001067.txt
 2025-09-10 20:46:53 | Makagon Kira | Officer | Shares: 6495 | Value: $206,281.2 | Percent: 0.008105% | Link: https://www.sec.gov/Archives/edgar/data/1384905/000200731725001067/0002007317-25-001067.txt
+2025-09-10 20:56:27 | DAWN MARONEY | Officer | Shares: 107223 | Value: $1,767,035.04 | Percent: 0.054144% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000195004725006952/0001950047-25-006952.txt
+2025-09-10 20:56:28 | Randall D.  Miles | Director | Shares: 80000 | Value: $886,400.0 | Percent: 0.050880% | Link: https://www.sec.gov/Archives/edgar/data/1495932/000196858225000880/0001968582-25-000880.txt
+2025-09-10 20:56:30 | Randall D.  Miles | Director | Shares: 80000 | Value: $886,400.0 | Percent: 0.050880% | Link: https://www.sec.gov/Archives/edgar/data/1198741/000196858225000880/0001968582-25-000880.txt
+2025-09-10 20:56:32 | Remer Eric Richard | Officer and Director | Shares: 5021 | Value: $57,221.32 | Percent: 0.002738% | Link: https://www.sec.gov/Archives/edgar/data/1856906/000195917325005912/0001959173-25-005912.txt
+2025-09-10 20:56:33 | Remer Eric Richard | Officer and Director | Shares: 5021 | Value: $57,221.32 | Percent: 0.002738% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195917325005912/0001959173-25-005912.txt
