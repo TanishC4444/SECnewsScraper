@@ -3097,3 +3097,7 @@
 2025-09-10 19:18:34 | Walsh Jeff Alexander | Former Officer | Shares: 100000 | Value: $349,613.93 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005903/0001959173-25-005903.txt
 2025-09-10 19:28:15 | Vines John R | Former director | Shares: 11297 | Value: $681,302.71 | Percent: 0.019566% | Link: https://www.sec.gov/Archives/edgar/data/1582749/000200731725001064/0002007317-25-001064.txt
 2025-09-10 19:28:16 | Vines John R | Former director | Shares: 11297 | Value: $681,302.71 | Percent: 0.019566% | Link: https://www.sec.gov/Archives/edgar/data/825542/000200731725001064/0002007317-25-001064.txt
+2025-09-10 19:39:19 | Sutaria Saumya | Officer | Shares: 78762 | Value: $15,025,892.48 | Percent: 0.089147% | Link: https://www.sec.gov/Archives/edgar/data/1760857/000195917325005905/0001959173-25-005905.txt
+2025-09-10 19:39:20 | Sutaria Saumya | Officer | Shares: 78762 | Value: $15,025,892.48 | Percent: 0.089147% | Link: https://www.sec.gov/Archives/edgar/data/70318/000195917325005905/0001959173-25-005905.txt
+2025-09-10 19:39:22 | Harris Ryan | Officer | Shares: 9841 | Value: $751,070.0 | Percent: 0.021361% | Link: https://www.sec.gov/Archives/edgar/data/1765318/000197407825000297/0001974078-25-000297.txt
+2025-09-10 19:39:24 | Harris Ryan | Officer | Shares: 9841 | Value: $751,070.0 | Percent: 0.021361% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000197407825000297/0001974078-25-000297.txt
