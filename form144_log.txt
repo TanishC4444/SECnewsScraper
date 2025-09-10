@@ -3073,3 +3073,11 @@
 2025-09-10 14:46:08 | Child Jason | Officer | Shares: 10640 | Value: $1,542,800.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325005894/0001959173-25-005894.txt
 2025-09-10 14:46:10 | Bhalla Vikas | Officer | Shares: 8000 | Value: $350,080.0 | Percent: 0.004953% | Link: https://www.sec.gov/Archives/edgar/data/1373633/000195917325005893/0001959173-25-005893.txt
 2025-09-10 14:46:10 | Bhalla Vikas | Officer | Shares: 8000 | Value: $350,080.0 | Percent: 0.004953% | Link: https://www.sec.gov/Archives/edgar/data/1297989/000195917325005893/0001959173-25-005893.txt
+2025-09-10 15:16:55 | Gibson Christopher | Officer | Shares: 100000 | Value: $471,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325005897/0001959173-25-005897.txt
+2025-09-10 15:16:56 | Gibson Christopher | Officer | Shares: 100000 | Value: $471,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325005897/0001959173-25-005897.txt
+2025-09-10 15:16:57 | PLATT IRA J. | Director | Shares: 14000 | Value: $5,307,960.0 | Percent: 0.010139% | Link: https://www.sec.gov/Archives/edgar/data/1702455/000194984625000460/0001949846-25-000460.txt
+2025-09-10 15:16:59 | PLATT IRA J. | Director | Shares: 14000 | Value: $5,307,960.0 | Percent: 0.010139% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000194984625000460/0001949846-25-000460.txt
+2025-09-10 15:17:01 | MARSHALL THURGOOD JR | Director | Shares: 6000 | Value: $123,120.0 | Percent: 0.005604% | Link: https://www.sec.gov/Archives/edgar/data/1244530/000200731725001063/0002007317-25-001063.txt
+2025-09-10 15:17:03 | MARSHALL THURGOOD JR | Director | Shares: 6000 | Value: $123,120.0 | Percent: 0.005604% | Link: https://www.sec.gov/Archives/edgar/data/1070985/000200731725001063/0002007317-25-001063.txt
+2025-09-10 15:17:05 | BORRAS MARIA C | Officer | Shares: 50362 | Value: $2,361,474.18 | Percent: 0.005108% | Link: https://www.sec.gov/Archives/edgar/data/1701605/000195917325005896/0001959173-25-005896.txt
+2025-09-10 15:17:06 | BORRAS MARIA C | Officer | Shares: 50362 | Value: $2,361,474.18 | Percent: 0.005108% | Link: https://www.sec.gov/Archives/edgar/data/1588503/000195917325005896/0001959173-25-005896.txt
