@@ -3085,3 +3085,7 @@
 2025-09-10 15:33:23 | Dolores Skarjune | OFFICER | Shares: 6200 | Value: $870,852.0 | Percent: 0.007708% | Link: https://www.sec.gov/Archives/edgar/data/320335/000165495425010594/0001654954-25-010594.txt
 2025-09-10 15:54:27 | MCDONALD JOHN T | Officer | Shares: 15000 | Value: $34,650.0 | Percent: 0.052144% | Link: https://www.sec.gov/Archives/edgar/data/1505155/000195917325005899/0001959173-25-005899.txt
 2025-09-10 15:54:28 | MCDONALD JOHN T | Officer | Shares: 15000 | Value: $34,650.0 | Percent: 0.052144% | Link: https://www.sec.gov/Archives/edgar/data/1094792/000195917325005899/0001959173-25-005899.txt
+2025-09-10 16:40:56 | Ahamad Samsheer | Officer | Shares: 6000 | Value: $1,499,700.0 | Percent: 0.023077% | Link: https://www.sec.gov/Archives/edgar/data/2014208/000197325125000068/0001973251-25-000068.txt
+2025-09-10 16:40:57 | Ahamad Samsheer | Officer | Shares: 6000 | Value: $1,499,700.0 | Percent: 0.023077% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000068/0001973251-25-000068.txt
+2025-09-10 16:40:58 | STT GARNET PTE. LTD. | Owner | Shares: 24000000 | Value: $100,530,000.0 | Percent: 1.493066% | Link: https://www.sec.gov/Archives/edgar/data/2028855/000119312525199868/0001193125-25-199868.txt
+2025-09-10 16:41:00 | STT GARNET PTE. LTD. | Owner | Shares: 24000000 | Value: $100,530,000.0 | Percent: 1.493066% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000119312525199868/0001193125-25-199868.txt
