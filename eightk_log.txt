@@ -3857,3 +3857,12 @@
 2025-09-10 19:18:26 | 8-K - Maison Solutions Inc. (0001892292) (Filer) | 2025-09-10T15:04:46-04:00 | https://www.sec.gov/Archives/edgar/data/1892292/000121390025086498/0001213900-25-086498.txt
 2025-09-10 19:18:28 | 8-K - IMAC Holdings, Inc. (0001729944) (Filer) | 2025-09-10T15:00:47-04:00 | https://www.sec.gov/Archives/edgar/data/1729944/000164117225027034/0001641172-25-027034.txt
 2025-09-10 19:39:15 | 8-K - Axos Financial, Inc. (0001299709) (Filer) | 2025-09-10T15:32:48-04:00 | https://www.sec.gov/Archives/edgar/data/1299709/000129970925000134/0001299709-25-000134.txt
+2025-09-10 20:22:40 | 8-K - Artisan Partners Asset Management Inc. (0001517302) (Filer) | 2025-09-10T16:20:03-04:00 | https://www.sec.gov/Archives/edgar/data/1517302/000151730225000075/0001517302-25-000075.txt
+2025-09-10 20:22:43 | 8-K - CHIMERA INVESTMENT CORP (0001409493) (Filer) | 2025-09-10T16:19:16-04:00 | https://www.sec.gov/Archives/edgar/data/1409493/000119312525200111/0001193125-25-200111.txt
+2025-09-10 20:22:43 | 8-K - Blackstone Private Credit Fund (0001803498) (Filer) | 2025-09-10T16:18:13-04:00 | https://www.sec.gov/Archives/edgar/data/1803498/000121390025086542/0001213900-25-086542.txt
+2025-09-10 20:22:44 | 8-K/A - ASTEC INDUSTRIES INC (0000792987) (Filer) | 2025-09-10T16:18:06-04:00 | https://www.sec.gov/Archives/edgar/data/792987/000079298725000056/0000792987-25-000056.txt
+2025-09-10 20:22:47 | 8-K - Broadcom Inc. (0001730168) (Filer) | 2025-09-10T16:16:49-04:00 | https://www.sec.gov/Archives/edgar/data/1730168/000119312525200108/0001193125-25-200108.txt
+2025-09-10 20:22:49 | 8-K - Athena Bitcoin Global (0001095146) (Filer) | 2025-09-10T16:15:54-04:00 | https://www.sec.gov/Archives/edgar/data/1095146/000168316825006824/0001683168-25-006824.txt
+2025-09-10 20:22:52 | 8-K - BUILD-A-BEAR WORKSHOP INC (0001113809) (Filer) | 2025-09-10T16:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/1113809/000143774925028766/0001437749-25-028766.txt
+2025-09-10 20:22:53 | 8-K - Charging Robotics Inc. (0001459188) (Filer) | 2025-09-10T16:15:47-04:00 | https://www.sec.gov/Archives/edgar/data/1459188/000121390025086538/0001213900-25-086538.txt
+2025-09-10 20:22:56 | 8-K - Alchemy Investments Acquisition Corp 1 (0001901336) (Filer) | 2025-09-10T16:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1901336/000110465925089073/0001104659-25-089073.txt

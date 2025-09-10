@@ -3103,3 +3103,11 @@
 2025-09-10 19:39:24 | Harris Ryan | Officer | Shares: 9841 | Value: $751,070.0 | Percent: 0.021361% | Link: https://www.sec.gov/Archives/edgar/data/1295401/000197407825000297/0001974078-25-000297.txt
 2025-09-10 19:57:50 | Kite John A | Officer | Shares: 50000 | Value: $1,133,249.05 | Percent: 0.022742% | Link: https://www.sec.gov/Archives/edgar/data/1295834/000197407825000298/0001974078-25-000298.txt
 2025-09-10 19:57:52 | Kite John A | Officer | Shares: 50000 | Value: $1,133,249.05 | Percent: 0.022742% | Link: https://www.sec.gov/Archives/edgar/data/1286043/000197407825000298/0001974078-25-000298.txt
+2025-09-10 20:22:58 | Hunt Anthony | Director | Shares: 29111 | Value: $3,508,378.25 | Percent: 0.051746% | Link: https://www.sec.gov/Archives/edgar/data/1606030/000195917325005909/0001959173-25-005909.txt
+2025-09-10 20:22:59 | Hunt Anthony | Director | Shares: 29111 | Value: $3,508,378.25 | Percent: 0.051746% | Link: https://www.sec.gov/Archives/edgar/data/730272/000195917325005909/0001959173-25-005909.txt
+2025-09-10 20:23:02 | Rodriguez Carlos A | Director | Shares: 21950 | Value: $6,430,440.84 | Percent: 0.005419% | Link: https://www.sec.gov/Archives/edgar/data/1378514/000195917325005908/0001959173-25-005908.txt
+2025-09-10 20:23:03 | Rodriguez Carlos A | Director | Shares: 21950 | Value: $6,430,440.84 | Percent: 0.005419% | Link: https://www.sec.gov/Archives/edgar/data/8670/000195917325005908/0001959173-25-005908.txt
+2025-09-10 20:23:05 | DON LIYANEARACHCHI | Officer | Shares: 10672 | Value: $1,654,160.0 | Percent: 0.005517% | Link: https://www.sec.gov/Archives/edgar/data/2049789/000195004725006926/0001950047-25-006926.txt
+2025-09-10 20:23:07 | DON LIYANEARACHCHI | Officer | Shares: 10672 | Value: $1,654,160.0 | Percent: 0.005517% | Link: https://www.sec.gov/Archives/edgar/data/1013871/000195004725006926/0001950047-25-006926.txt
+2025-09-10 20:23:09 | EMILIANO KARGIEMAN | Officer | Shares: 80951 | Value: $304,910.04 | Percent: 0.085224% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725006924/0001950047-25-006924.txt
+2025-09-10 20:23:10 | EMILIANO KARGIEMAN | Officer | Shares: 80951 | Value: $304,910.04 | Percent: 0.085224% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725006924/0001950047-25-006924.txt
