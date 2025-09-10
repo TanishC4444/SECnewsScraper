@@ -3117,3 +3117,11 @@
 2025-09-10 20:37:35 | STEVEN M ORESKOVICH | Officer | Shares: 16666 | Value: $681,472.74 | Percent: 0.009565% | Link: https://www.sec.gov/Archives/edgar/data/1368470/000195004725006937/0001950047-25-006937.txt
 2025-09-10 20:37:37 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 25000 | Value: $2,424,750.0 | Percent: 0.019194% | Link: https://www.sec.gov/Archives/edgar/data/1716837/000195004725006936/0001950047-25-006936.txt
 2025-09-10 20:37:39 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 25000 | Value: $2,424,750.0 | Percent: 0.019194% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725006936/0001950047-25-006936.txt
+2025-09-10 20:46:45 | Russo Evan L | Officer | Shares: 25000 | Value: $1,392,661.22 | Percent: 0.022170% | Link: https://www.sec.gov/Archives/edgar/data/1717489/000195917325005911/0001959173-25-005911.txt
+2025-09-10 20:46:46 | Russo Evan L | Officer | Shares: 25000 | Value: $1,392,661.22 | Percent: 0.022170% | Link: https://www.sec.gov/Archives/edgar/data/1311370/000195917325005911/0001959173-25-005911.txt
+2025-09-10 20:46:48 | TJ CAPITAL INVESTORS LLC | Director | Shares: 128837 | Value: $22,555,493.59 | Percent: 0.059665% | Link: https://www.sec.gov/Archives/edgar/data/1956305/000195004725006950/0001950047-25-006950.txt
+2025-09-10 20:46:49 | TJ CAPITAL INVESTORS LLC | Director | Shares: 128837 | Value: $22,555,493.59 | Percent: 0.059665% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725006950/0001950047-25-006950.txt
+2025-09-10 20:46:50 | MARC DROBNY | Officer | Shares: 20000 | Value: $532,800.0 | Percent: 0.005980% | Link: https://www.sec.gov/Archives/edgar/data/2037482/000195004725006949/0001950047-25-006949.txt
+2025-09-10 20:46:51 | MARC DROBNY | Officer | Shares: 20000 | Value: $532,800.0 | Percent: 0.005980% | Link: https://www.sec.gov/Archives/edgar/data/2025410/000195004725006949/0001950047-25-006949.txt
+2025-09-10 20:46:52 | Makagon Kira | Officer | Shares: 6495 | Value: $206,281.2 | Percent: 0.008105% | Link: https://www.sec.gov/Archives/edgar/data/1586648/000200731725001067/0002007317-25-001067.txt
+2025-09-10 20:46:53 | Makagon Kira | Officer | Shares: 6495 | Value: $206,281.2 | Percent: 0.008105% | Link: https://www.sec.gov/Archives/edgar/data/1384905/000200731725001067/0002007317-25-001067.txt
