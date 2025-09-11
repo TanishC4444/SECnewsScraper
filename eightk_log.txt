@@ -3914,3 +3914,5 @@
 2025-09-11 10:16:16 | 8-K - INTERSTATE POWER & LIGHT CO (0000052485) (Filer) | 2025-09-10T21:34:36-04:00 | https://www.sec.gov/Archives/edgar/data/52485/000035254125000074/0000352541-25-000074.txt
 2025-09-11 10:16:17 | 8-K - A-Mark Precious Metals, Inc. (0001591588) (Filer) | 2025-09-10T21:20:42-04:00 | https://www.sec.gov/Archives/edgar/data/1591588/000119312525200453/0001193125-25-200453.txt
 2025-09-11 10:16:18 | 8-K - Momentus Inc. (0001781162) (Filer) | 2025-09-10T21:20:23-04:00 | https://www.sec.gov/Archives/edgar/data/1781162/000114036125034600/0001140361-25-034600.txt
+2025-09-11 10:35:17 | 8-K - Forward Industries, Inc. (0000038264) (Filer) | 2025-09-11T06:28:50-04:00 | https://www.sec.gov/Archives/edgar/data/38264/000168316825006838/0001683168-25-006838.txt
+2025-09-11 10:35:19 | 8-K - reAlpha Tech Corp. (0001859199) (Filer) | 2025-09-11T06:26:10-04:00 | https://www.sec.gov/Archives/edgar/data/1859199/000200858925000080/0002008589-25-000080.txt
