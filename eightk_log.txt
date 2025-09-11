@@ -3933,3 +3933,13 @@
 2025-09-11 11:37:26 | 8-K - NATHANS FAMOUS, INC. (0000069733) (Filer) | 2025-09-11T07:26:28-04:00 | https://www.sec.gov/Archives/edgar/data/69733/000110465925089241/0001104659-25-089241.txt
 2025-09-11 11:46:48 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-09-11T07:42:04-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225013038/0001493152-25-013038.txt
 2025-09-11 11:55:42 | 8-K - Maze Therapeutics, Inc. (0001842295) (Filer) | 2025-09-11T07:48:53-04:00 | https://www.sec.gov/Archives/edgar/data/1842295/000119312525200760/0001193125-25-200760.txt
+2025-09-11 12:32:30 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-11T08:22:49-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015551/0001062993-25-015551.txt
+2025-09-11 12:32:31 | 8-K - KROGER CO (0000056873) (Filer) | 2025-09-11T08:14:26-04:00 | https://www.sec.gov/Archives/edgar/data/56873/000110465925089265/0001104659-25-089265.txt
+2025-09-11 12:32:33 | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | 2025-09-11T08:08:14-04:00 | https://www.sec.gov/Archives/edgar/data/356309/000114036125034616/0001140361-25-034616.txt
+2025-09-11 12:32:35 | 8-K - VerifyMe, Inc. (0001104038) (Filer) | 2025-09-11T08:05:41-04:00 | https://www.sec.gov/Archives/edgar/data/1104038/000121465925013626/0001214659-25-013626.txt
+2025-09-11 12:32:36 | 8-K - GameSquare Holdings, Inc. (0001714562) (Filer) | 2025-09-11T08:05:29-04:00 | https://www.sec.gov/Archives/edgar/data/1714562/000164117225027096/0001641172-25-027096.txt
+2025-09-11 12:32:37 | 8-K - QXO, Inc. (0001236275) (Filer) | 2025-09-11T08:01:06-04:00 | https://www.sec.gov/Archives/edgar/data/1236275/000123627525000005/0001236275-25-000005.txt
+2025-09-11 12:32:40 | 8-K - ACV Auctions Inc. (0001637873) (Filer) | 2025-09-11T08:01:02-04:00 | https://www.sec.gov/Archives/edgar/data/1637873/000095010325011517/0000950103-25-011517.txt
+2025-09-11 12:32:41 | 8-K - Kairos Pharma, LTD. (0001962011) (Filer) | 2025-09-11T08:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1962011/000149315225013040/0001493152-25-013040.txt
+2025-09-11 12:32:42 | 8-K - Blink Charging Co. (0001429764) (Filer) | 2025-09-11T08:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/1429764/000164117225027095/0001641172-25-027095.txt
+2025-09-11 12:32:44 | 8-K - XTI Aerospace, Inc. (0001529113) (Filer) | 2025-09-11T08:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1529113/000121390025086671/0001213900-25-086671.txt
