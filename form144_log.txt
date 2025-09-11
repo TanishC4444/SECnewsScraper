@@ -3214,3 +3214,5 @@
 2025-09-11 19:06:59 | Graeler Darren | Officer | Shares: 100000 | Value: $430,213.59 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005929/0001959173-25-005929.txt
 2025-09-11 19:21:24 | SCHEUNEMAN RANDALL J | Officer | Shares: 6802 | Value: $1,803,069.97 | Percent: 0.002333% | Link: https://www.sec.gov/Archives/edgar/data/1470159/000195917325005930/0001959173-25-005930.txt
 2025-09-11 19:21:25 | SCHEUNEMAN RANDALL J | Officer | Shares: 6802 | Value: $1,803,069.97 | Percent: 0.002333% | Link: https://www.sec.gov/Archives/edgar/data/49826/000195917325005930/0001959173-25-005930.txt
+2025-09-11 19:30:33 | DIVITA CHARLES III | Officer | Shares: 16787 | Value: $127,435.15 | Percent: 0.009501% | Link: https://www.sec.gov/Archives/edgar/data/1477449/000195917325005931/0001959173-25-005931.txt
+2025-09-11 19:30:34 | DIVITA CHARLES III | Officer | Shares: 16787 | Value: $127,435.15 | Percent: 0.009501% | Link: https://www.sec.gov/Archives/edgar/data/1347535/000195917325005931/0001959173-25-005931.txt
