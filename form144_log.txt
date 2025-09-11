@@ -3270,3 +3270,5 @@
 2025-09-11 21:31:50 | Da Silva Valentina Lancaster Cardoso | Officer | Shares: 2000000000 | Value: $1,000.0 | Percent: 100.000000% | Link: https://www.sec.gov/Archives/edgar/data/312070/000208555925000004/0002085559-25-000004.txt
 2025-09-11 21:31:52 | AJAY SINGH | Officer | Shares: 18280 | Value: $1,505,820.48 | Percent: 0.005562% | Link: https://www.sec.gov/Archives/edgar/data/1897944/000195004725007017/0001950047-25-007017.txt
 2025-09-11 21:31:52 | AJAY SINGH | Officer | Shares: 18280 | Value: $1,505,820.48 | Percent: 0.005562% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725007017/0001950047-25-007017.txt
+2025-09-11 21:41:08 | JOSEPH M MCFARLAND | Officer | Shares: 43810 | Value: $11,942,439.52 | Percent: 0.007812% | Link: https://www.sec.gov/Archives/edgar/data/1675461/000195004725007020/0001950047-25-007020.txt
+2025-09-11 21:41:09 | JOSEPH M MCFARLAND | Officer | Shares: 43810 | Value: $11,942,439.52 | Percent: 0.007812% | Link: https://www.sec.gov/Archives/edgar/data/60667/000195004725007020/0001950047-25-007020.txt
