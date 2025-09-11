@@ -3226,3 +3226,11 @@
 2025-09-11 20:21:43 | ROBERT STEEL | Officer | Shares: 60606 | Value: $1,358,659.25 | Percent: 0.096936% | Link: https://www.sec.gov/Archives/edgar/data/1180592/000195004725006985/0001950047-25-006985.txt
 2025-09-11 20:21:45 | de Masi Niccolo | Officer | Shares: 20470 | Value: $900,680.0 | Percent: 0.006876% | Link: https://www.sec.gov/Archives/edgar/data/1824920/000095017025114230/0000950170-25-114230.txt
 2025-09-11 20:21:46 | de Masi Niccolo | Officer | Shares: 20470 | Value: $900,680.0 | Percent: 0.006876% | Link: https://www.sec.gov/Archives/edgar/data/1480011/000095017025114230/0000950170-25-114230.txt
+2025-09-11 20:32:39 | NEIL BLUMENTHAL | Director | Shares: 50000 | Value: $1,350,500.0 | Percent: 0.047534% | Link: https://www.sec.gov/Archives/edgar/data/1883345/000195004725007008/0001950047-25-007008.txt
+2025-09-11 20:32:40 | NEIL BLUMENTHAL | Director | Shares: 50000 | Value: $1,350,500.0 | Percent: 0.047534% | Link: https://www.sec.gov/Archives/edgar/data/1504776/000195004725007008/0001950047-25-007008.txt
+2025-09-11 20:32:41 | David Gilboa | Director | Shares: 50000 | Value: $1,350,500.0 | Percent: 0.047534% | Link: https://www.sec.gov/Archives/edgar/data/1883353/000195004725007007/0001950047-25-007007.txt
+2025-09-11 20:32:41 | David Gilboa | Director | Shares: 50000 | Value: $1,350,500.0 | Percent: 0.047534% | Link: https://www.sec.gov/Archives/edgar/data/1504776/000195004725007007/0001950047-25-007007.txt
+2025-09-11 20:32:43 | STEPHEN M. KELSEY | Officer | Shares: 150000 | Value: $6,067,500.0 | Percent: 0.080243% | Link: https://www.sec.gov/Archives/edgar/data/1628171/000195004725007005/0001950047-25-007005.txt
+2025-09-11 20:32:44 | STEPHEN M. KELSEY | Officer | Shares: 150000 | Value: $6,067,500.0 | Percent: 0.080243% | Link: https://www.sec.gov/Archives/edgar/data/1462808/000195004725007005/0001950047-25-007005.txt
+2025-09-11 20:32:45 | DARRIN UECKER | Director | Shares: 120000 | Value: $1,772,400.0 | Percent: 0.178363% | Link: https://www.sec.gov/Archives/edgar/data/1625101/000195004725007004/0001950047-25-007004.txt
+2025-09-11 20:32:47 | DARRIN UECKER | Director | Shares: 120000 | Value: $1,772,400.0 | Percent: 0.178363% | Link: https://www.sec.gov/Archives/edgar/data/1276311/000195004725007004/0001950047-25-007004.txt
