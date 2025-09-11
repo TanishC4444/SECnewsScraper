@@ -3240,3 +3240,9 @@
 2025-09-11 20:41:54 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 114560 | Value: $1,840,956.29 | Percent: 0.122627% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007011/0001950047-25-007011.txt
 2025-09-11 20:41:56 | Navratil Tomas | Officer | Shares: 5142 | Value: $453,607.98 | Percent: 0.008966% | Link: https://www.sec.gov/Archives/edgar/data/1920053/000195917325005943/0001959173-25-005943.txt
 2025-09-11 20:41:57 | Navratil Tomas | Officer | Shares: 5142 | Value: $453,607.98 | Percent: 0.008966% | Link: https://www.sec.gov/Archives/edgar/data/1192448/000195917325005943/0001959173-25-005943.txt
+2025-09-11 20:51:46 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $468,000.0 | Percent: 1.905879% | Link: https://www.sec.gov/Archives/edgar/data/1879464/000196794025000066/0001967940-25-000066.txt
+2025-09-11 20:51:48 | Emerald Green Trust | 10% Stockholder | Shares: 200000 | Value: $468,000.0 | Percent: 1.905879% | Link: https://www.sec.gov/Archives/edgar/data/1819493/000196794025000066/0001967940-25-000066.txt
+2025-09-11 20:51:50 | Vivek Raj | Director | Shares: 25000 | Value: $550,500.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1880319/000196858225000890/0001968582-25-000890.txt
+2025-09-11 20:51:51 | Vivek Raj | Director | Shares: 25000 | Value: $550,500.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1708641/000196858225000890/0001968582-25-000890.txt
+2025-09-11 20:51:54 | JOHN PUGLIESE | Director | Shares: 25000 | Value: $497,775.0 | Percent: 0.019139% | Link: https://www.sec.gov/Archives/edgar/data/1609239/000195004725007015/0001950047-25-007015.txt
+2025-09-11 20:51:55 | JOHN PUGLIESE | Director | Shares: 25000 | Value: $497,775.0 | Percent: 0.019139% | Link: https://www.sec.gov/Archives/edgar/data/1178970/000195004725007015/0001950047-25-007015.txt
