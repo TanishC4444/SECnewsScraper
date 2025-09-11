@@ -3190,3 +3190,5 @@
 2025-09-11 14:45:05 | John Markovich | Affiliate | Shares: 50000 | Value: $815,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000197449425000114/0001974494-25-000114.txt
 2025-09-11 15:29:40 | Reeve Emma | Director | Shares: 15705 | Value: $934,447.5 | Percent: 0.019770% | Link: https://www.sec.gov/Archives/edgar/data/1680329/000195917325005918/0001959173-25-005918.txt
 2025-09-11 15:29:41 | Reeve Emma | Director | Shares: 15705 | Value: $934,447.5 | Percent: 0.019770% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325005918/0001959173-25-005918.txt
+2025-09-11 16:00:20 | Walsh Jeff Alexander | Former Officer | Shares: 150000 | Value: $628,113.72 | Percent: 0.133510% | Link: https://www.sec.gov/Archives/edgar/data/1842775/000195917325005920/0001959173-25-005920.txt
+2025-09-11 16:00:21 | Walsh Jeff Alexander | Former Officer | Shares: 150000 | Value: $628,113.72 | Percent: 0.133510% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005920/0001959173-25-005920.txt
