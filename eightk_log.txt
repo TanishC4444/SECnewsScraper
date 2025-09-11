@@ -3968,3 +3968,5 @@
 2025-09-11 14:32:19 | 8-K - DURECT CORP (0001082038) (Filer) | 2025-09-11T10:19:14-04:00 | https://www.sec.gov/Archives/edgar/data/1082038/000119312525200904/0001193125-25-200904.txt
 2025-09-11 15:13:14 | 8-K - Fidelity Private Credit Fund (0001920453) (Filer) | 2025-09-11T11:05:07-04:00 | https://www.sec.gov/Archives/edgar/data/1920453/000119312525200978/0001193125-25-200978.txt
 2025-09-11 15:41:14 | 8-K - Freshworks Inc. (0001544522) (Filer) | 2025-09-11T11:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/1544522/000119312525201038/0001193125-25-201038.txt
+2025-09-11 16:31:19 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-11T12:09:42-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010650/0001654954-25-010650.txt
+2025-09-11 16:31:21 | 8-K - CME GROUP INC. (0001156375) (Filer) | 2025-09-11T12:06:44-04:00 | https://www.sec.gov/Archives/edgar/data/1156375/000115637525000190/0001156375-25-000190.txt
