@@ -3188,3 +3188,5 @@
 2025-09-11 14:10:54 | MARIUCCI ANNE L | Director | Shares: 14002 | Value: $980,140.0 | Percent: 0.014166% | Link: https://www.sec.gov/Archives/edgar/data/1288050/000195917325005915/0001959173-25-005915.txt
 2025-09-11 14:45:03 | John Markovich | Affiliate | Shares: 50000 | Value: $815,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000114/0001974494-25-000114.txt
 2025-09-11 14:45:05 | John Markovich | Affiliate | Shares: 50000 | Value: $815,000.0 | Percent: 0.018757% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000197449425000114/0001974494-25-000114.txt
+2025-09-11 15:29:40 | Reeve Emma | Director | Shares: 15705 | Value: $934,447.5 | Percent: 0.019770% | Link: https://www.sec.gov/Archives/edgar/data/1680329/000195917325005918/0001959173-25-005918.txt
+2025-09-11 15:29:41 | Reeve Emma | Director | Shares: 15705 | Value: $934,447.5 | Percent: 0.019770% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325005918/0001959173-25-005918.txt
