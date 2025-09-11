@@ -3218,3 +3218,11 @@
 2025-09-11 19:30:34 | DIVITA CHARLES III | Officer | Shares: 16787 | Value: $127,435.15 | Percent: 0.009501% | Link: https://www.sec.gov/Archives/edgar/data/1347535/000195917325005931/0001959173-25-005931.txt
 2025-09-11 19:49:51 | Bates Jonathan Robert | CEO | Shares: 250000 | Value: $11,895,000.0 | Percent: 0.144095% | Link: https://www.sec.gov/Archives/edgar/data/1840020/000196922325000758/0001969223-25-000758.txt
 2025-09-11 19:49:52 | Bates Jonathan Robert | CEO | Shares: 250000 | Value: $11,895,000.0 | Percent: 0.144095% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000196922325000758/0001969223-25-000758.txt
+2025-09-11 20:21:36 | Russo Evan L | Officer | Shares: 50000 | Value: $2,847,600.2 | Percent: 0.044340% | Link: https://www.sec.gov/Archives/edgar/data/1717489/000195917325005939/0001959173-25-005939.txt
+2025-09-11 20:21:37 | Russo Evan L | Officer | Shares: 50000 | Value: $2,847,600.2 | Percent: 0.044340% | Link: https://www.sec.gov/Archives/edgar/data/1311370/000195917325005939/0001959173-25-005939.txt
+2025-09-11 20:21:39 | Griscom Paul | Officer | Shares: 12843 | Value: $218,844.72 | Percent: 0.004783% | Link: https://www.sec.gov/Archives/edgar/data/1813891/000079436725000149/0000794367-25-000149.txt
+2025-09-11 20:21:40 | Griscom Paul | Officer | Shares: 12843 | Value: $218,844.72 | Percent: 0.004783% | Link: https://www.sec.gov/Archives/edgar/data/794367/000079436725000149/0000794367-25-000149.txt
+2025-09-11 20:21:41 | ROBERT STEEL | Officer | Shares: 60606 | Value: $1,358,659.25 | Percent: 0.096936% | Link: https://www.sec.gov/Archives/edgar/data/1777835/000195004725006985/0001950047-25-006985.txt
+2025-09-11 20:21:43 | ROBERT STEEL | Officer | Shares: 60606 | Value: $1,358,659.25 | Percent: 0.096936% | Link: https://www.sec.gov/Archives/edgar/data/1180592/000195004725006985/0001950047-25-006985.txt
+2025-09-11 20:21:45 | de Masi Niccolo | Officer | Shares: 20470 | Value: $900,680.0 | Percent: 0.006876% | Link: https://www.sec.gov/Archives/edgar/data/1824920/000095017025114230/0000950170-25-114230.txt
+2025-09-11 20:21:46 | de Masi Niccolo | Officer | Shares: 20470 | Value: $900,680.0 | Percent: 0.006876% | Link: https://www.sec.gov/Archives/edgar/data/1480011/000095017025114230/0000950170-25-114230.txt
