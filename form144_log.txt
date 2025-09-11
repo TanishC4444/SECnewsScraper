@@ -3216,3 +3216,5 @@
 2025-09-11 19:21:25 | SCHEUNEMAN RANDALL J | Officer | Shares: 6802 | Value: $1,803,069.97 | Percent: 0.002333% | Link: https://www.sec.gov/Archives/edgar/data/49826/000195917325005930/0001959173-25-005930.txt
 2025-09-11 19:30:33 | DIVITA CHARLES III | Officer | Shares: 16787 | Value: $127,435.15 | Percent: 0.009501% | Link: https://www.sec.gov/Archives/edgar/data/1477449/000195917325005931/0001959173-25-005931.txt
 2025-09-11 19:30:34 | DIVITA CHARLES III | Officer | Shares: 16787 | Value: $127,435.15 | Percent: 0.009501% | Link: https://www.sec.gov/Archives/edgar/data/1347535/000195917325005931/0001959173-25-005931.txt
+2025-09-11 19:49:51 | Bates Jonathan Robert | CEO | Shares: 250000 | Value: $11,895,000.0 | Percent: 0.144095% | Link: https://www.sec.gov/Archives/edgar/data/1840020/000196922325000758/0001969223-25-000758.txt
+2025-09-11 19:49:52 | Bates Jonathan Robert | CEO | Shares: 250000 | Value: $11,895,000.0 | Percent: 0.144095% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000196922325000758/0001969223-25-000758.txt
