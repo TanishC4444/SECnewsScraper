@@ -3256,3 +3256,9 @@
 2025-09-11 21:01:00 | Moe Christopher R. | Director | Shares: 30000 | Value: $303,404.87 | Percent: 0.030071% | Link: https://www.sec.gov/Archives/edgar/data/748268/000200731725001072/0002007317-25-001072.txt
 2025-09-11 21:01:06 | THOMAS EDWARD EARL | Officer | Shares: 840076 | Value: $11,540,040.0 | Percent: 0.182887% | Link: https://www.sec.gov/Archives/edgar/data/2050375/000195004725007016/0001950047-25-007016.txt
 2025-09-11 21:01:07 | THOMAS EDWARD EARL | Officer | Shares: 840076 | Value: $11,540,040.0 | Percent: 0.182887% | Link: https://www.sec.gov/Archives/edgar/data/2007855/000195004725007016/0001950047-25-007016.txt
+2025-09-11 21:22:09 | Pedro Franceschi | Director | Shares: 21428 | Value: $688,267.0 | Percent: 0.001287% | Link: https://www.sec.gov/Archives/edgar/data/1916530/000196858225000891/0001968582-25-000891.txt
+2025-09-11 21:22:09 | Pedro Franceschi | Director | Shares: 21428 | Value: $688,267.0 | Percent: 0.001287% | Link: https://www.sec.gov/Archives/edgar/data/1834584/000196858225000891/0001968582-25-000891.txt
+2025-09-11 21:22:11 | Rothstein Adam | Board Member | Shares: 150000 | Value: $299,223.37 | Percent: 0.420240% | Link: https://www.sec.gov/Archives/edgar/data/1828972/000200731725001073/0002007317-25-001073.txt
+2025-09-11 21:22:13 | Rothstein Adam | Board Member | Shares: 150000 | Value: $299,223.37 | Percent: 0.420240% | Link: https://www.sec.gov/Archives/edgar/data/1602273/000200731725001073/0002007317-25-001073.txt
+2025-09-11 21:22:15 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,326,450.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001137/0001921094-25-001137.txt
+2025-09-11 21:22:16 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,326,450.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001137/0001921094-25-001137.txt
