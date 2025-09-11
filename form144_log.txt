@@ -3198,3 +3198,5 @@
 2025-09-11 17:12:10 | Rios Brunilda | Former Officer | Shares: 7287 | Value: $927,781.57 | Percent: 0.002163% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325005922/0001959173-25-005922.txt
 2025-09-11 17:29:09 | Billingsley Jessica | former Officer | Shares: 47765 | Value: $429,885.0 | Percent: 0.057686% | Link: https://www.sec.gov/Archives/edgar/data/1780003/000195917325005923/0001959173-25-005923.txt
 2025-09-11 17:29:09 | Billingsley Jessica | former Officer | Shares: 47765 | Value: $429,885.0 | Percent: 0.057686% | Link: https://www.sec.gov/Archives/edgar/data/1757953/000195917325005923/0001959173-25-005923.txt
+2025-09-11 17:38:40 | KOWLZAN MARK W | 10% Stockholder | Shares: 25000 | Value: $5,376,500.0 | Percent: 0.027784% | Link: https://www.sec.gov/Archives/edgar/data/1247456/000196530125000135/0001965301-25-000135.txt
+2025-09-11 17:38:43 | KOWLZAN MARK W | 10% Stockholder | Shares: 25000 | Value: $5,376,500.0 | Percent: 0.027784% | Link: https://www.sec.gov/Archives/edgar/data/75677/000196530125000135/0001965301-25-000135.txt
