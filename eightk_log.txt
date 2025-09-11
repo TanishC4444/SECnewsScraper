@@ -3974,3 +3974,6 @@
 2025-09-11 17:29:05 | 8-K - LIXTE BIOTECHNOLOGY HOLDINGS, INC. (0001335105) (Filer) | 2025-09-11T13:28:10-04:00 | https://www.sec.gov/Archives/edgar/data/1335105/000164117225027109/0001641172-25-027109.txt
 2025-09-11 17:29:07 | 8-K - Totaligent, Inc. (0000846377) (Filer) | 2025-09-11T13:25:23-04:00 | https://www.sec.gov/Archives/edgar/data/846377/000147793225006639/0001477932-25-006639.txt
 2025-09-11 17:57:02 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-11T13:52:56-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000203/0001331465-25-000203.txt
+2025-09-11 18:24:12 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-11T14:19:15-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000170/0001326771-25-000170.txt
+2025-09-11 18:24:14 | 8-K - Ameritek Ventures, Inc. (0001530185) (Filer) | 2025-09-11T14:07:41-04:00 | https://www.sec.gov/Archives/edgar/data/1530185/000137647425000799/0001376474-25-000799.txt
+2025-09-11 18:24:14 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-09-11T14:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525201180/0001193125-25-201180.txt

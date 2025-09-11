@@ -3204,3 +3204,5 @@
 2025-09-11 17:57:05 | Campbell Richard D | Director | Shares: 60000 | Value: $2,424,000.0 | Percent: 0.369533% | Link: https://www.sec.gov/Archives/edgar/data/1163668/000177446325000006/0001774463-25-000006.txt
 2025-09-11 17:57:07 | Montrone Ralph T. | Officer | Shares: 6000 | Value: $151,386.0 | Percent: 0.010363% | Link: https://www.sec.gov/Archives/edgar/data/1965498/000100027525000126/0001000275-25-000126.txt
 2025-09-11 17:57:08 | Montrone Ralph T. | Officer | Shares: 6000 | Value: $151,386.0 | Percent: 0.010363% | Link: https://www.sec.gov/Archives/edgar/data/933036/000100027525000126/0001000275-25-000126.txt
+2025-09-11 18:24:16 | Lau Alan Ka Ming | Director | Shares: 16313 | Value: $1,732,282.48 | Percent: 0.007838% | Link: https://www.sec.gov/Archives/edgar/data/1973262/000195917325005926/0001959173-25-005926.txt
+2025-09-11 18:24:18 | Lau Alan Ka Ming | Director | Shares: 16313 | Value: $1,732,282.48 | Percent: 0.007838% | Link: https://www.sec.gov/Archives/edgar/data/1116132/000195917325005926/0001959173-25-005926.txt
