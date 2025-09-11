@@ -3194,3 +3194,5 @@
 2025-09-11 16:00:21 | Walsh Jeff Alexander | Former Officer | Shares: 150000 | Value: $628,113.72 | Percent: 0.133510% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005920/0001959173-25-005920.txt
 2025-09-11 16:31:24 | Sealock Valeria Vigas | Spouse former CEO | Shares: 595547 | Value: $332,911.0 | Percent: 2.649226% | Link: https://www.sec.gov/Archives/edgar/data/2073532/000207353225000002/0002073532-25-000002.txt
 2025-09-11 16:31:25 | Sealock Valeria Vigas | Spouse former CEO | Shares: 595547 | Value: $332,911.0 | Percent: 2.649226% | Link: https://www.sec.gov/Archives/edgar/data/1812447/000207353225000002/0002073532-25-000002.txt
+2025-09-11 17:12:09 | Rios Brunilda | Former Officer | Shares: 7287 | Value: $927,781.57 | Percent: 0.002163% | Link: https://www.sec.gov/Archives/edgar/data/1803866/000195917325005922/0001959173-25-005922.txt
+2025-09-11 17:12:10 | Rios Brunilda | Former Officer | Shares: 7287 | Value: $927,781.57 | Percent: 0.002163% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325005922/0001959173-25-005922.txt
