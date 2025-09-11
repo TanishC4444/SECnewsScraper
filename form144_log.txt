@@ -3234,3 +3234,9 @@
 2025-09-11 20:32:44 | STEPHEN M. KELSEY | Officer | Shares: 150000 | Value: $6,067,500.0 | Percent: 0.080243% | Link: https://www.sec.gov/Archives/edgar/data/1462808/000195004725007005/0001950047-25-007005.txt
 2025-09-11 20:32:45 | DARRIN UECKER | Director | Shares: 120000 | Value: $1,772,400.0 | Percent: 0.178363% | Link: https://www.sec.gov/Archives/edgar/data/1625101/000195004725007004/0001950047-25-007004.txt
 2025-09-11 20:32:47 | DARRIN UECKER | Director | Shares: 120000 | Value: $1,772,400.0 | Percent: 0.178363% | Link: https://www.sec.gov/Archives/edgar/data/1276311/000195004725007004/0001950047-25-007004.txt
+2025-09-11 20:41:51 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 85440 | Value: $1,373,003.71 | Percent: 0.091456% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007013/0001950047-25-007013.txt
+2025-09-11 20:41:53 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 85440 | Value: $1,373,003.71 | Percent: 0.091456% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007013/0001950047-25-007013.txt
+2025-09-11 20:41:54 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 114560 | Value: $1,840,956.29 | Percent: 0.122627% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007011/0001950047-25-007011.txt
+2025-09-11 20:41:54 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 114560 | Value: $1,840,956.29 | Percent: 0.122627% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007011/0001950047-25-007011.txt
+2025-09-11 20:41:56 | Navratil Tomas | Officer | Shares: 5142 | Value: $453,607.98 | Percent: 0.008966% | Link: https://www.sec.gov/Archives/edgar/data/1920053/000195917325005943/0001959173-25-005943.txt
+2025-09-11 20:41:57 | Navratil Tomas | Officer | Shares: 5142 | Value: $453,607.98 | Percent: 0.008966% | Link: https://www.sec.gov/Archives/edgar/data/1192448/000195917325005943/0001959173-25-005943.txt
