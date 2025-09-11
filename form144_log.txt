@@ -3276,3 +3276,7 @@
 2025-09-11 23:26:20 | Strategic Value Partners, LLC | Director | Shares: 5000000 | Value: $238,450,000.0 | Percent: 1.654419% | Link: https://www.sec.gov/Archives/edgar/data/1047716/000141057825002159/0001410578-25-002159.txt
 2025-09-11 23:36:52 | Nitin Agrawal | Officer | Shares: 63230 | Value: $7,289,772.07 | Percent: 0.017067% | Link: https://www.sec.gov/Archives/edgar/data/2058038/000141588925024312/0001415889-25-024312.txt
 2025-09-11 23:36:53 | Nitin Agrawal | Officer | Shares: 63230 | Value: $7,289,772.07 | Percent: 0.017067% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000141588925024312/0001415889-25-024312.txt
+2025-09-11 23:46:16 | Mark Frichtl | Officer | Shares: 26674 | Value: $760,475.74 | Percent: 0.046133% | Link: https://www.sec.gov/Archives/edgar/data/1847596/000119312525201503/0001193125-25-201503.txt
+2025-09-11 23:46:16 | Mark Frichtl | Officer | Shares: 26674 | Value: $760,475.74 | Percent: 0.046133% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201503/0001193125-25-201503.txt
+2025-09-11 23:46:17 | Megan Chung | Officer | Shares: 18011 | Value: $513,493.61 | Percent: 0.031151% | Link: https://www.sec.gov/Archives/edgar/data/1966411/000119312525201496/0001193125-25-201496.txt
+2025-09-11 23:46:18 | Megan Chung | Officer | Shares: 18011 | Value: $513,493.61 | Percent: 0.031151% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201496/0001193125-25-201496.txt
