@@ -3964,3 +3964,5 @@
 2025-09-11 14:10:46 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-09-11T10:09:42-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000133039925000031/0001330399-25-000031.txt
 2025-09-11 14:10:48 | 8-K - AUTOLIV INC (0001034670) (Filer) | 2025-09-11T10:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1034670/000103467025000003/0001034670-25-000003.txt
 2025-09-11 14:10:49 | 8-K - NexPoint Capital, Inc. (0001588272) (Filer) | 2025-09-11T09:57:34-04:00 | https://www.sec.gov/Archives/edgar/data/1588272/000119312525200876/0001193125-25-200876.txt
+2025-09-11 14:32:17 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-09-11T10:19:57-04:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925089324/0001104659-25-089324.txt
+2025-09-11 14:32:19 | 8-K - DURECT CORP (0001082038) (Filer) | 2025-09-11T10:19:14-04:00 | https://www.sec.gov/Archives/edgar/data/1082038/000119312525200904/0001193125-25-200904.txt
