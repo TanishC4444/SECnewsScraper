@@ -3176,3 +3176,5 @@
 2025-09-11 02:39:14 | SYLEBRA CAPITAL LLC | Director | Shares: 300000 | Value: $58,873,670.0 | Percent: 16.400074% | Link: https://www.sec.gov/Archives/edgar/data/1114995/000200307425000015/0002003074-25-000015.txt
 2025-09-11 02:39:16 | Brian Long | Director | Shares: 750000 | Value: $4,470,000.0 | Percent: 0.351935% | Link: https://www.sec.gov/Archives/edgar/data/1821769/000120101025000015/0001201010-25-000015.txt
 2025-09-11 02:39:17 | Brian Long | Director | Shares: 750000 | Value: $4,470,000.0 | Percent: 0.351935% | Link: https://www.sec.gov/Archives/edgar/data/1201010/000120101025000015/0001201010-25-000015.txt
+2025-09-11 13:05:00 | Ofek Amir Yechiel | Director | Shares: 10555 | Value: $93,939.5 | Percent: 0.018512% | Link: https://www.sec.gov/Archives/edgar/data/2085390/000208539025000001/0002085390-25-000001.txt
+2025-09-11 13:05:01 | Ofek Amir Yechiel | Director | Shares: 10555 | Value: $93,939.5 | Percent: 0.018512% | Link: https://www.sec.gov/Archives/edgar/data/897322/000208539025000001/0002085390-25-000001.txt

@@ -3943,3 +3943,12 @@
 2025-09-11 12:32:41 | 8-K - Kairos Pharma, LTD. (0001962011) (Filer) | 2025-09-11T08:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1962011/000149315225013040/0001493152-25-013040.txt
 2025-09-11 12:32:42 | 8-K - Blink Charging Co. (0001429764) (Filer) | 2025-09-11T08:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/1429764/000164117225027095/0001641172-25-027095.txt
 2025-09-11 12:32:44 | 8-K - XTI Aerospace, Inc. (0001529113) (Filer) | 2025-09-11T08:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1529113/000121390025086671/0001213900-25-086671.txt
+2025-09-11 13:04:44 | 8-K - NextTrip, Inc. (0000788611) (Filer) | 2025-09-11T09:01:31-04:00 | https://www.sec.gov/Archives/edgar/data/788611/000149315225013043/0001493152-25-013043.txt
+2025-09-11 13:04:45 | 8-K - Athira Pharma, Inc. (0001620463) (Filer) | 2025-09-11T09:00:30-04:00 | https://www.sec.gov/Archives/edgar/data/1620463/000095017025114093/0000950170-25-114093.txt
+2025-09-11 13:04:47 | 8-K - DELTA AIR LINES, INC. (0000027904) (Filer) | 2025-09-11T09:00:29-04:00 | https://www.sec.gov/Archives/edgar/data/27904/000168316825006844/0001683168-25-006844.txt
+2025-09-11 13:04:48 | 8-K - JETBLUE AIRWAYS CORP (0001158463) (Filer) | 2025-09-11T09:00:24-04:00 | https://www.sec.gov/Archives/edgar/data/1158463/000115846325000097/0001158463-25-000097.txt
+2025-09-11 13:04:51 | 8-K - StepStone Group Inc. (0001796022) (Filer) | 2025-09-11T09:00:23-04:00 | https://www.sec.gov/Archives/edgar/data/1796022/000179602225000068/0001796022-25-000068.txt
+2025-09-11 13:04:52 | 8-K - PACS Group, Inc. (0002001184) (Filer) | 2025-09-11T08:45:31-04:00 | https://www.sec.gov/Archives/edgar/data/2001184/000200118425000047/0002001184-25-000047.txt
+2025-09-11 13:04:53 | 8-K - GCT Semiconductor Holding, Inc. (0001851961) (Filer) | 2025-09-11T08:44:26-04:00 | https://www.sec.gov/Archives/edgar/data/1851961/000092963825003426/0000929638-25-003426.txt
+2025-09-11 13:04:55 | 8-K - SELLAS Life Sciences Group, Inc. (0001390478) (Filer) | 2025-09-11T08:40:41-04:00 | https://www.sec.gov/Archives/edgar/data/1390478/000110465925089272/0001104659-25-089272.txt
+2025-09-11 13:04:58 | 8-K - VirnetX Holding Corp (0001082324) (Filer) | 2025-09-11T08:36:19-04:00 | https://www.sec.gov/Archives/edgar/data/1082324/000114036125034625/0001140361-25-034625.txt
