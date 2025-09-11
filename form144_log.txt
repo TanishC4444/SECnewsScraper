@@ -3182,3 +3182,7 @@
 2025-09-11 13:31:58 | Vanship Limited | Affiliate | Shares: 1266204 | Value: $28,211,025.0 | Percent: 0.306665% | Link: https://www.sec.gov/Archives/edgar/data/1723690/000095010325011519/0000950103-25-011519.txt
 2025-09-11 13:43:11 | Vertex Aerospace Holdco LLC | Affiliate | Shares: 1700000 | Value: $93,415,000.0 | Percent: 5.395143% | Link: https://www.sec.gov/Archives/edgar/data/1936847/000095017025114097/0000950170-25-114097.txt
 2025-09-11 13:43:12 | Vertex Aerospace Holdco LLC | Affiliate | Shares: 1700000 | Value: $93,415,000.0 | Percent: 5.395143% | Link: https://www.sec.gov/Archives/edgar/data/1601548/000095017025114097/0000950170-25-114097.txt
+2025-09-11 14:10:51 | BURKE JAMES A | Officer | Shares: 43074 | Value: $8,991,625.76 | Percent: 0.012713% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325005916/0001959173-25-005916.txt
+2025-09-11 14:10:52 | BURKE JAMES A | Officer | Shares: 43074 | Value: $8,991,625.76 | Percent: 0.012713% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325005916/0001959173-25-005916.txt
+2025-09-11 14:10:53 | MARIUCCI ANNE L | Director | Shares: 14002 | Value: $980,140.0 | Percent: 0.014166% | Link: https://www.sec.gov/Archives/edgar/data/1562476/000195917325005915/0001959173-25-005915.txt
+2025-09-11 14:10:54 | MARIUCCI ANNE L | Director | Shares: 14002 | Value: $980,140.0 | Percent: 0.014166% | Link: https://www.sec.gov/Archives/edgar/data/1288050/000195917325005915/0001959173-25-005915.txt

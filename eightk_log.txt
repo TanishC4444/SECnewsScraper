@@ -3961,3 +3961,6 @@
 2025-09-11 13:31:54 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-09-11T09:07:34-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125034636/0001140361-25-034636.txt
 2025-09-11 13:43:09 | 8-K - F5, INC. (0001048695) (Filer) | 2025-09-11T09:33:01-04:00 | https://www.sec.gov/Archives/edgar/data/1048695/000104869525000143/0001048695-25-000143.txt
 2025-09-11 13:53:10 | 8-K - Bausch Health Companies Inc. (0000885590) (Filer) | 2025-09-11T09:52:05-04:00 | https://www.sec.gov/Archives/edgar/data/885590/000119312525200869/0001193125-25-200869.txt
+2025-09-11 14:10:46 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-09-11T10:09:42-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000133039925000031/0001330399-25-000031.txt
+2025-09-11 14:10:48 | 8-K - AUTOLIV INC (0001034670) (Filer) | 2025-09-11T10:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1034670/000103467025000003/0001034670-25-000003.txt
+2025-09-11 14:10:49 | 8-K - NexPoint Capital, Inc. (0001588272) (Filer) | 2025-09-11T09:57:34-04:00 | https://www.sec.gov/Archives/edgar/data/1588272/000119312525200876/0001193125-25-200876.txt
