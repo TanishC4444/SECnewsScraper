@@ -3246,3 +3246,13 @@
 2025-09-11 20:51:51 | Vivek Raj | Director | Shares: 25000 | Value: $550,500.0 | Percent: 0.017070% | Link: https://www.sec.gov/Archives/edgar/data/1708641/000196858225000890/0001968582-25-000890.txt
 2025-09-11 20:51:54 | JOHN PUGLIESE | Director | Shares: 25000 | Value: $497,775.0 | Percent: 0.019139% | Link: https://www.sec.gov/Archives/edgar/data/1609239/000195004725007015/0001950047-25-007015.txt
 2025-09-11 20:51:55 | JOHN PUGLIESE | Director | Shares: 25000 | Value: $497,775.0 | Percent: 0.019139% | Link: https://www.sec.gov/Archives/edgar/data/1178970/000195004725007015/0001950047-25-007015.txt
+2025-09-11 21:00:40 | Christopher Vanderhook | Officer | Shares: 9500 | Value: $97,945.0 | Percent: 0.058445% | Link: https://www.sec.gov/Archives/edgar/data/1843104/000182879125000066/0001828791-25-000066.txt
+2025-09-11 21:00:46 | Christopher Vanderhook | Officer | Shares: 9500 | Value: $97,945.0 | Percent: 0.058445% | Link: https://www.sec.gov/Archives/edgar/data/1828791/000182879125000066/0001828791-25-000066.txt
+2025-09-11 21:00:47 | Lonial Sagar | Director | Shares: 20852 | Value: $672,232.59 | Percent: 0.013142% | Link: https://www.sec.gov/Archives/edgar/data/1816609/000195917325005946/0001959173-25-005946.txt
+2025-09-11 21:00:49 | Lonial Sagar | Director | Shares: 20852 | Value: $672,232.59 | Percent: 0.013142% | Link: https://www.sec.gov/Archives/edgar/data/1001316/000195917325005946/0001959173-25-005946.txt
+2025-09-11 21:00:51 | Timothy Vanderhook | Officer | Shares: 9500 | Value: $97,945.0 | Percent: 0.058445% | Link: https://www.sec.gov/Archives/edgar/data/1843103/000182879125000064/0001828791-25-000064.txt
+2025-09-11 21:00:55 | Timothy Vanderhook | Officer | Shares: 9500 | Value: $97,945.0 | Percent: 0.058445% | Link: https://www.sec.gov/Archives/edgar/data/1828791/000182879125000064/0001828791-25-000064.txt
+2025-09-11 21:00:59 | Moe Christopher R. | Director | Shares: 30000 | Value: $303,404.87 | Percent: 0.030071% | Link: https://www.sec.gov/Archives/edgar/data/1930171/000200731725001072/0002007317-25-001072.txt
+2025-09-11 21:01:00 | Moe Christopher R. | Director | Shares: 30000 | Value: $303,404.87 | Percent: 0.030071% | Link: https://www.sec.gov/Archives/edgar/data/748268/000200731725001072/0002007317-25-001072.txt
+2025-09-11 21:01:06 | THOMAS EDWARD EARL | Officer | Shares: 840076 | Value: $11,540,040.0 | Percent: 0.182887% | Link: https://www.sec.gov/Archives/edgar/data/2050375/000195004725007016/0001950047-25-007016.txt
+2025-09-11 21:01:07 | THOMAS EDWARD EARL | Officer | Shares: 840076 | Value: $11,540,040.0 | Percent: 0.182887% | Link: https://www.sec.gov/Archives/edgar/data/2007855/000195004725007016/0001950047-25-007016.txt
