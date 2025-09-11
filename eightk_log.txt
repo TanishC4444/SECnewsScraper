@@ -3966,3 +3966,4 @@
 2025-09-11 14:10:49 | 8-K - NexPoint Capital, Inc. (0001588272) (Filer) | 2025-09-11T09:57:34-04:00 | https://www.sec.gov/Archives/edgar/data/1588272/000119312525200876/0001193125-25-200876.txt
 2025-09-11 14:32:17 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-09-11T10:19:57-04:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925089324/0001104659-25-089324.txt
 2025-09-11 14:32:19 | 8-K - DURECT CORP (0001082038) (Filer) | 2025-09-11T10:19:14-04:00 | https://www.sec.gov/Archives/edgar/data/1082038/000119312525200904/0001193125-25-200904.txt
+2025-09-11 15:13:14 | 8-K - Fidelity Private Credit Fund (0001920453) (Filer) | 2025-09-11T11:05:07-04:00 | https://www.sec.gov/Archives/edgar/data/1920453/000119312525200978/0001193125-25-200978.txt
