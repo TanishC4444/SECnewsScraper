@@ -3180,3 +3180,5 @@
 2025-09-11 13:05:01 | Ofek Amir Yechiel | Director | Shares: 10555 | Value: $93,939.5 | Percent: 0.018512% | Link: https://www.sec.gov/Archives/edgar/data/897322/000208539025000001/0002085390-25-000001.txt
 2025-09-11 13:31:57 | Vanship Limited | Affiliate | Shares: 1266204 | Value: $28,211,025.0 | Percent: 0.306665% | Link: https://www.sec.gov/Archives/edgar/data/1765369/000095010325011519/0000950103-25-011519.txt
 2025-09-11 13:31:58 | Vanship Limited | Affiliate | Shares: 1266204 | Value: $28,211,025.0 | Percent: 0.306665% | Link: https://www.sec.gov/Archives/edgar/data/1723690/000095010325011519/0000950103-25-011519.txt
+2025-09-11 13:43:11 | Vertex Aerospace Holdco LLC | Affiliate | Shares: 1700000 | Value: $93,415,000.0 | Percent: 5.395143% | Link: https://www.sec.gov/Archives/edgar/data/1936847/000095017025114097/0000950170-25-114097.txt
+2025-09-11 13:43:12 | Vertex Aerospace Holdco LLC | Affiliate | Shares: 1700000 | Value: $93,415,000.0 | Percent: 5.395143% | Link: https://www.sec.gov/Archives/edgar/data/1601548/000095017025114097/0000950170-25-114097.txt
