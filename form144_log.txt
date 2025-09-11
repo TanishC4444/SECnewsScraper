@@ -3280,3 +3280,7 @@
 2025-09-11 23:46:16 | Mark Frichtl | Officer | Shares: 26674 | Value: $760,475.74 | Percent: 0.046133% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201503/0001193125-25-201503.txt
 2025-09-11 23:46:17 | Megan Chung | Officer | Shares: 18011 | Value: $513,493.61 | Percent: 0.031151% | Link: https://www.sec.gov/Archives/edgar/data/1966411/000119312525201496/0001193125-25-201496.txt
 2025-09-11 23:46:18 | Megan Chung | Officer | Shares: 18011 | Value: $513,493.61 | Percent: 0.031151% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201496/0001193125-25-201496.txt
+2025-09-11 23:55:23 | Darien Spencer | Officer | Shares: 19168 | Value: $546,479.68 | Percent: 0.033152% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201510/0001193125-25-201510.txt
+2025-09-11 23:55:24 | Darien Spencer | Officer | Shares: 19168 | Value: $546,479.68 | Percent: 0.033152% | Link: https://www.sec.gov/Archives/edgar/data/1226378/000119312525201510/0001193125-25-201510.txt
+2025-09-11 23:55:25 | Charles Angus Pacala | Officer | Shares: 40009 | Value: $1,140,656.59 | Percent: 0.069197% | Link: https://www.sec.gov/Archives/edgar/data/1848817/000119312525201507/0001193125-25-201507.txt
+2025-09-11 23:55:26 | Charles Angus Pacala | Officer | Shares: 40009 | Value: $1,140,656.59 | Percent: 0.069197% | Link: https://www.sec.gov/Archives/edgar/data/1816581/000119312525201507/0001193125-25-201507.txt
