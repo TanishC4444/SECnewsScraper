@@ -3212,3 +3212,5 @@
 2025-09-11 19:06:57 | Tillman Alicia L. | former board director | Shares: 34367 | Value: $889,046.21 | Percent: 0.013342% | Link: https://www.sec.gov/Archives/edgar/data/1718512/000200731725001070/0002007317-25-001070.txt
 2025-09-11 19:06:58 | Graeler Darren | Officer | Shares: 100000 | Value: $430,213.59 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1983414/000195917325005929/0001959173-25-005929.txt
 2025-09-11 19:06:59 | Graeler Darren | Officer | Shares: 100000 | Value: $430,213.59 | Percent: 0.089007% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005929/0001959173-25-005929.txt
+2025-09-11 19:21:24 | SCHEUNEMAN RANDALL J | Officer | Shares: 6802 | Value: $1,803,069.97 | Percent: 0.002333% | Link: https://www.sec.gov/Archives/edgar/data/1470159/000195917325005930/0001959173-25-005930.txt
+2025-09-11 19:21:25 | SCHEUNEMAN RANDALL J | Officer | Shares: 6802 | Value: $1,803,069.97 | Percent: 0.002333% | Link: https://www.sec.gov/Archives/edgar/data/49826/000195917325005930/0001959173-25-005930.txt
