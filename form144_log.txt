@@ -3352,3 +3352,13 @@
 2025-09-12 20:14:33 | ELISE BASKEL | Officer | Shares: 21212 | Value: $742,420.0 | Percent: 0.032657% | Link: https://www.sec.gov/Archives/edgar/data/1046568/000195004725007036/0001950047-25-007036.txt
 2025-09-12 20:14:35 | Akhavan Hamid | Officer | Shares: 233918 | Value: $17,627,215.62 | Percent: 0.149595% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005977/0001959173-25-005977.txt
 2025-09-12 20:14:36 | Akhavan Hamid | Officer | Shares: 233918 | Value: $17,627,215.62 | Percent: 0.149595% | Link: https://www.sec.gov/Archives/edgar/data/1295252/000195917325005977/0001959173-25-005977.txt
+2025-09-12 20:31:37 | DARA KHOSROWSHAHI | Director | Shares: 300000 | Value: $28,404,000.0 | Percent: 0.014386% | Link: https://www.sec.gov/Archives/edgar/data/1543151/000195004725007054/0001950047-25-007054.txt
+2025-09-12 20:31:38 | DARA KHOSROWSHAHI | Director | Shares: 300000 | Value: $28,404,000.0 | Percent: 0.014386% | Link: https://www.sec.gov/Archives/edgar/data/1184237/000195004725007054/0001950047-25-007054.txt
+2025-09-12 20:31:40 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,071,050.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1600033/000195004725007053/0001950047-25-007053.txt
+2025-09-12 20:31:40 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,071,050.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1448992/000195004725007053/0001950047-25-007053.txt
+2025-09-12 20:31:42 | KORY MARCHISOTTO | Officer | Shares: 13515 | Value: $1,866,016.05 | Percent: 0.023821% | Link: https://www.sec.gov/Archives/edgar/data/1768965/000195004725007052/0001950047-25-007052.txt
+2025-09-12 20:31:42 | KORY MARCHISOTTO | Officer | Shares: 13515 | Value: $1,866,016.05 | Percent: 0.023821% | Link: https://www.sec.gov/Archives/edgar/data/1600033/000195004725007052/0001950047-25-007052.txt
+2025-09-12 20:31:44 | JANE PRIOR | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1886154/000195004725007051/0001950047-25-007051.txt
+2025-09-12 20:31:45 | JANE PRIOR | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007051/0001950047-25-007051.txt
+2025-09-12 20:31:46 | CHARLES VAN ES | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1886344/000195004725007050/0001950047-25-007050.txt
+2025-09-12 20:31:47 | CHARLES VAN ES | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007050/0001950047-25-007050.txt

@@ -4097,3 +4097,11 @@
 2025-09-12 20:14:20 | 8-K - AETHLON MEDICAL INC (0000882291) (Filer) | 2025-09-12T16:10:36-04:00 | https://www.sec.gov/Archives/edgar/data/882291/000168316825006917/0001683168-25-006917.txt
 2025-09-12 20:14:20 | 8-K/A - Vyome Holdings, Inc (0001427570) (Filer) | 2025-09-12T16:10:26-04:00 | https://www.sec.gov/Archives/edgar/data/1427570/000121390025087217/0001213900-25-087217.txt
 2025-09-12 20:14:23 | 8-K - LB PHARMACEUTICALS INC (0001691082) (Filer) | 2025-09-12T16:06:50-04:00 | https://www.sec.gov/Archives/edgar/data/1691082/000119312525202195/0001193125-25-202195.txt
+2025-09-12 20:31:27 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-12T16:30:40-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003309/0001178913-25-003309.txt
+2025-09-12 20:31:29 | 8-K - Legacy Education Inc. (0001836754) (Filer) | 2025-09-12T16:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1836754/000149315225013211/0001493152-25-013211.txt
+2025-09-12 20:31:30 | 8-K - Applied Digital Corp. (0001144879) (Filer) | 2025-09-12T16:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/1144879/000149315225013210/0001493152-25-013210.txt
+2025-09-12 20:31:32 | 8-K - Tourmaline Bio, Inc. (0001827506) (Filer) | 2025-09-12T16:30:09-04:00 | https://www.sec.gov/Archives/edgar/data/1827506/000119312525202252/0001193125-25-202252.txt
+2025-09-12 20:31:33 | 8-K - Mediaco Holding Inc. (0001784254) (Filer) | 2025-09-12T16:29:34-04:00 | https://www.sec.gov/Archives/edgar/data/1784254/000114036125034855/0001140361-25-034855.txt
+2025-09-12 20:31:33 | 8-K - Verizon Master Trust (0001844964) (Filer) | 2025-09-12T16:27:40-04:00 | https://www.sec.gov/Archives/edgar/data/1844964/000092963825003452/0000929638-25-003452.txt
+2025-09-12 20:31:34 | 8-K - Verizon ABS II LLC (0001836995) (Filer) | 2025-09-12T16:27:40-04:00 | https://www.sec.gov/Archives/edgar/data/1836995/000092963825003452/0000929638-25-003452.txt
+2025-09-12 20:31:35 | 8-K - Adaptimmune Therapeutics PLC (0001621227) (Filer) | 2025-09-12T16:27:38-04:00 | https://www.sec.gov/Archives/edgar/data/1621227/000110465925089558/0001104659-25-089558.txt
