@@ -3378,3 +3378,11 @@
 2025-09-12 20:52:16 | Gaske Paul | Officer | Shares: 9483 | Value: $719,450.21 | Percent: 0.006065% | Link: https://www.sec.gov/Archives/edgar/data/1353340/000195917325005986/0001959173-25-005986.txt
 2025-09-12 20:52:18 | Rovaldi Christopher | Affiliate | Shares: 85306 | Value: $1,340,157.26 | Percent: 0.210034% | Link: https://www.sec.gov/Archives/edgar/data/1706040/000196922325000767/0001969223-25-000767.txt
 2025-09-12 20:52:19 | Rovaldi Christopher | Affiliate | Shares: 85306 | Value: $1,340,157.26 | Percent: 0.210034% | Link: https://www.sec.gov/Archives/edgar/data/1664710/000196922325000767/0001969223-25-000767.txt
+2025-09-12 21:01:16 | GREGORY Q BROWN | Officer | Shares: 50000 | Value: $24,175,045.0 | Percent: 0.030011% | Link: https://www.sec.gov/Archives/edgar/data/1201232/000195004725007073/0001950047-25-007073.txt
+2025-09-12 21:01:17 | GREGORY Q BROWN | Officer | Shares: 50000 | Value: $24,175,045.0 | Percent: 0.030011% | Link: https://www.sec.gov/Archives/edgar/data/68505/000195004725007073/0001950047-25-007073.txt
+2025-09-12 21:01:19 | Fitzpatrick Jonathan G. | Officer | Shares: 185000 | Value: $3,381,800.0 | Percent: 0.112613% | Link: https://www.sec.gov/Archives/edgar/data/1832331/000200731725001085/0002007317-25-001085.txt
+2025-09-12 21:01:20 | Fitzpatrick Jonathan G. | Officer | Shares: 185000 | Value: $3,381,800.0 | Percent: 0.112613% | Link: https://www.sec.gov/Archives/edgar/data/1804745/000200731725001085/0002007317-25-001085.txt
+2025-09-12 21:01:22 | Sandford Helene Gail | Director | Shares: 25000 | Value: $417,250.0 | Percent: 0.007712% | Link: https://www.sec.gov/Archives/edgar/data/1913235/000196794025000070/0001967940-25-000070.txt
+2025-09-12 21:01:25 | Sandford Helene Gail | Director | Shares: 25000 | Value: $417,250.0 | Percent: 0.007712% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000070/0001967940-25-000070.txt
+2025-09-12 21:01:27 | WALDEN TECHNOLOGY VENTURES II LP | Director | Shares: 25000 | Value: $4,049,250.0 | Percent: 0.014451% | Link: https://www.sec.gov/Archives/edgar/data/1807794/000195004725007072/0001950047-25-007072.txt
+2025-09-12 21:01:28 | WALDEN TECHNOLOGY VENTURES II LP | Director | Shares: 25000 | Value: $4,049,250.0 | Percent: 0.014451% | Link: https://www.sec.gov/Archives/edgar/data/1624530/000195004725007072/0001950047-25-007072.txt
