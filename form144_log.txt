@@ -3298,3 +3298,5 @@
 2025-09-12 02:33:45 | William Roberts | Co-Founder, Co-CEO, and Director | Shares: 1000000 | Value: $33,131,000.0 | Percent: 0.364588% | Link: https://www.sec.gov/Archives/edgar/data/1878848/000095010325011562/0000950103-25-011562.txt
 2025-09-12 02:33:46 | Daniel Roberts | Co-Founder, Co-CEO, and Director | Shares: 1000000 | Value: $33,131,000.0 | Percent: 0.364588% | Link: https://www.sec.gov/Archives/edgar/data/1909120/000095010325011560/0000950103-25-011560.txt
 2025-09-12 02:33:47 | Daniel Roberts | Co-Founder, Co-CEO, and Director | Shares: 1000000 | Value: $33,131,000.0 | Percent: 0.364588% | Link: https://www.sec.gov/Archives/edgar/data/1878848/000095010325011560/0000950103-25-011560.txt
+2025-09-12 10:41:53 | Shai Omer | Officer | Shares: 58824 | Value: $9,649,488.96 | Percent: 0.104841% | Link: https://www.sec.gov/Archives/edgar/data/1976036/000197640825000300/0001976408-25-000300.txt
+2025-09-12 10:41:54 | Shai Omer | Officer | Shares: 58824 | Value: $9,649,488.96 | Percent: 0.104841% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000300/0001976408-25-000300.txt
