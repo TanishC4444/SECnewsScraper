@@ -3338,3 +3338,5 @@
 2025-09-12 17:27:01 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,419,304.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325005962/0001959173-25-005962.txt
 2025-09-12 17:50:33 | Harmer Derek | Officer | Shares: 10000 | Value: $110,000.0 | Percent: 0.011667% | Link: https://www.sec.gov/Archives/edgar/data/1794002/000200731725001076/0002007317-25-001076.txt
 2025-09-12 17:50:34 | Harmer Derek | Officer | Shares: 10000 | Value: $110,000.0 | Percent: 0.011667% | Link: https://www.sec.gov/Archives/edgar/data/1698991/000200731725001076/0002007317-25-001076.txt
+2025-09-12 18:31:36 | Ralston Dianne B. | Officer | Shares: 39727 | Value: $1,433,364.89 | Percent: 0.002940% | Link: https://www.sec.gov/Archives/edgar/data/1614246/000195917325005969/0001959173-25-005969.txt
+2025-09-12 18:31:36 | Ralston Dianne B. | Officer | Shares: 39727 | Value: $1,433,364.89 | Percent: 0.002940% | Link: https://www.sec.gov/Archives/edgar/data/87347/000195917325005969/0001959173-25-005969.txt
