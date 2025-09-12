@@ -3304,3 +3304,5 @@
 2025-09-12 11:20:36 | Boehm Amiram | Director | Shares: 23165 | Value: $244,854.05 | Percent: 0.040628% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000302/0001976408-25-000302.txt
 2025-09-12 11:20:37 | Sfadia Adi | Officer | Shares: 62451 | Value: $660,107.07 | Percent: 0.109530% | Link: https://www.sec.gov/Archives/edgar/data/1978150/000197640825000301/0001976408-25-000301.txt
 2025-09-12 11:20:38 | Sfadia Adi | Officer | Shares: 62451 | Value: $660,107.07 | Percent: 0.109530% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000301/0001976408-25-000301.txt
+2025-09-12 11:29:40 | LIM AH DOO | Director | Shares: 20000 | Value: $770,000.0 | Percent: 0.001201% | Link: https://www.sec.gov/Archives/edgar/data/1971436/000197337925000260/0001973379-25-000260.txt
+2025-09-12 11:29:41 | LIM AH DOO | Director | Shares: 20000 | Value: $770,000.0 | Percent: 0.001201% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000260/0001973379-25-000260.txt
