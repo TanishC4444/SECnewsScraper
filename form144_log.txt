@@ -3368,3 +3368,13 @@
 2025-09-12 20:42:24 | Kumar Suresh | Officer | Shares: 30000 | Value: $3,103,967.05 | Percent: 0.000376% | Link: https://www.sec.gov/Archives/edgar/data/104169/000195917325005985/0001959173-25-005985.txt
 2025-09-12 20:42:26 | Iannotti Thomas J | Director | Shares: 100000 | Value: $1,669,000.0 | Percent: 0.030848% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000068/0001967940-25-000068.txt
 2025-09-12 20:42:27 | Iannotti Thomas J | Director | Shares: 100000 | Value: $1,669,000.0 | Percent: 0.030848% | Link: https://www.sec.gov/Archives/edgar/data/1339297/000196794025000068/0001967940-25-000068.txt
+2025-09-12 20:52:05 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 106897 | Value: $1,706,531.26 | Percent: 0.114424% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007070/0001950047-25-007070.txt
+2025-09-12 20:52:06 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 106897 | Value: $1,706,531.26 | Percent: 0.114424% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007070/0001950047-25-007070.txt
+2025-09-12 20:52:08 | Johnson Ray O | Director | Shares: 126295 | Value: $2,107,863.55 | Percent: 0.038960% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000069/0001967940-25-000069.txt
+2025-09-12 20:52:09 | Johnson Ray O | Director | Shares: 126295 | Value: $2,107,863.55 | Percent: 0.038960% | Link: https://www.sec.gov/Archives/edgar/data/1684685/000196794025000069/0001967940-25-000069.txt
+2025-09-12 20:52:11 | Kenneth Stacherski | Former Officer | Shares: 11757 | Value: $905,590.0 | Percent: 0.002575% | Link: https://www.sec.gov/Archives/edgar/data/1932393/000196922325000768/0001969223-25-000768.txt
+2025-09-12 20:52:13 | Kenneth Stacherski | Former Officer | Shares: 11757 | Value: $905,590.0 | Percent: 0.002575% | Link: https://www.sec.gov/Archives/edgar/data/1889865/000196922325000768/0001969223-25-000768.txt
+2025-09-12 20:52:15 | Gaske Paul | Officer | Shares: 9483 | Value: $719,450.21 | Percent: 0.006065% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005986/0001959173-25-005986.txt
+2025-09-12 20:52:16 | Gaske Paul | Officer | Shares: 9483 | Value: $719,450.21 | Percent: 0.006065% | Link: https://www.sec.gov/Archives/edgar/data/1353340/000195917325005986/0001959173-25-005986.txt
+2025-09-12 20:52:18 | Rovaldi Christopher | Affiliate | Shares: 85306 | Value: $1,340,157.26 | Percent: 0.210034% | Link: https://www.sec.gov/Archives/edgar/data/1706040/000196922325000767/0001969223-25-000767.txt
+2025-09-12 20:52:19 | Rovaldi Christopher | Affiliate | Shares: 85306 | Value: $1,340,157.26 | Percent: 0.210034% | Link: https://www.sec.gov/Archives/edgar/data/1664710/000196922325000767/0001969223-25-000767.txt
