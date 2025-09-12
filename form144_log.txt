@@ -3340,3 +3340,7 @@
 2025-09-12 17:50:34 | Harmer Derek | Officer | Shares: 10000 | Value: $110,000.0 | Percent: 0.011667% | Link: https://www.sec.gov/Archives/edgar/data/1698991/000200731725001076/0002007317-25-001076.txt
 2025-09-12 18:31:36 | Ralston Dianne B. | Officer | Shares: 39727 | Value: $1,433,364.89 | Percent: 0.002940% | Link: https://www.sec.gov/Archives/edgar/data/1614246/000195917325005969/0001959173-25-005969.txt
 2025-09-12 18:31:36 | Ralston Dianne B. | Officer | Shares: 39727 | Value: $1,433,364.89 | Percent: 0.002940% | Link: https://www.sec.gov/Archives/edgar/data/87347/000195917325005969/0001959173-25-005969.txt
+2025-09-12 19:12:42 | Walsh Jeff Alexander | Former Officer | Shares: 75000 | Value: $320,559.46 | Percent: 0.066755% | Link: https://www.sec.gov/Archives/edgar/data/1842775/000195917325005972/0001959173-25-005972.txt
+2025-09-12 19:12:43 | Walsh Jeff Alexander | Former Officer | Shares: 75000 | Value: $320,559.46 | Percent: 0.066755% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005972/0001959173-25-005972.txt
+2025-09-12 19:12:44 | Ferraro Joseph A. | Officer | Shares: 35000 | Value: $5,484,850.0 | Percent: 0.099432% | Link: https://www.sec.gov/Archives/edgar/data/1628500/000200731725001078/0002007317-25-001078.txt
+2025-09-12 19:12:45 | Ferraro Joseph A. | Officer | Shares: 35000 | Value: $5,484,850.0 | Percent: 0.099432% | Link: https://www.sec.gov/Archives/edgar/data/723612/000200731725001078/0002007317-25-001078.txt
