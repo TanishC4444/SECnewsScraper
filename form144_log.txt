@@ -3308,3 +3308,5 @@
 2025-09-12 11:29:41 | LIM AH DOO | Director | Shares: 20000 | Value: $770,000.0 | Percent: 0.001201% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000197337925000260/0001973379-25-000260.txt
 2025-09-12 12:48:37 | Ryan Charles E | Director | Shares: 49504 | Value: $4,415,261.0 | Percent: 0.020790% | Link: https://www.sec.gov/Archives/edgar/data/1704816/000197337925000261/0001973379-25-000261.txt
 2025-09-12 12:48:38 | Ryan Charles E | Director | Shares: 49504 | Value: $4,415,261.0 | Percent: 0.020790% | Link: https://www.sec.gov/Archives/edgar/data/1513845/000197337925000261/0001973379-25-000261.txt
+2025-09-12 13:55:50 | Dippold Michael | Officer | Shares: 19360 | Value: $806,344.0 | Percent: 0.007275% | Link: https://www.sec.gov/Archives/edgar/data/1849658/000195917325005949/0001959173-25-005949.txt
+2025-09-12 13:55:51 | Dippold Michael | Officer | Shares: 19360 | Value: $806,344.0 | Percent: 0.007275% | Link: https://www.sec.gov/Archives/edgar/data/1833756/000195917325005949/0001959173-25-005949.txt
