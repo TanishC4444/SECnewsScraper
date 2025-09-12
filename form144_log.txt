@@ -3316,3 +3316,5 @@
 2025-09-12 14:16:00 | Carden Mark | Director | Shares: 50000 | Value: $110,000.0 | Percent: 0.413626% | Link: https://www.sec.gov/Archives/edgar/data/1110607/000195917325005950/0001959173-25-005950.txt
 2025-09-12 14:16:02 | Stockbridge Partners LLC | May be deemed affiliate | Shares: 10000 | Value: $12,873,200.0 | Percent: 0.017746% | Link: https://www.sec.gov/Archives/edgar/data/1505183/000091957425005640/0000919574-25-005640.txt
 2025-09-12 14:16:03 | Stockbridge Partners LLC | May be deemed affiliate | Shares: 10000 | Value: $12,873,200.0 | Percent: 0.017746% | Link: https://www.sec.gov/Archives/edgar/data/1260221/000091957425005640/0000919574-25-005640.txt
+2025-09-12 14:34:57 | Kovitz Investment Group Partners, LLC | 10% Stockholder | Shares: 53541 | Value: $1,346,556.15 | Percent: 2.394740% | Link: https://www.sec.gov/Archives/edgar/data/1665198/000195917325005952/0001959173-25-005952.txt
+2025-09-12 14:34:58 | Kovitz Investment Group Partners, LLC | 10% Stockholder | Shares: 53541 | Value: $1,346,556.15 | Percent: 2.394740% | Link: https://www.sec.gov/Archives/edgar/data/897802/000195917325005952/0001959173-25-005952.txt
