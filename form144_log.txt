@@ -3332,3 +3332,7 @@
 2025-09-12 15:51:00 | GAN JP | Affiliate Shareholder | Shares: 20000 | Value: $510,791.84 | Percent: 0.004801% | Link: https://www.sec.gov/Archives/edgar/data/1431826/000200731725001074/0002007317-25-001074.txt
 2025-09-12 15:59:59 | Billingsley Jessica | former Officer | Shares: 49295 | Value: $374,888.48 | Percent: 0.059533% | Link: https://www.sec.gov/Archives/edgar/data/1780003/000195917325005959/0001959173-25-005959.txt
 2025-09-12 15:59:59 | Billingsley Jessica | former Officer | Shares: 49295 | Value: $374,888.48 | Percent: 0.059533% | Link: https://www.sec.gov/Archives/edgar/data/1757953/000195917325005959/0001959173-25-005959.txt
+2025-09-12 17:26:57 | Karellis Nikolaos | Director | Shares: 11500 | Value: $224,500.0 | Percent: 0.010060% | Link: https://www.sec.gov/Archives/edgar/data/2011929/000201192925000002/0002011929-25-000002.txt
+2025-09-12 17:26:58 | Karellis Nikolaos | Director | Shares: 11500 | Value: $224,500.0 | Percent: 0.010060% | Link: https://www.sec.gov/Archives/edgar/data/1386716/000201192925000002/0002011929-25-000002.txt
+2025-09-12 17:27:00 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,419,304.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325005962/0001959173-25-005962.txt
+2025-09-12 17:27:01 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,419,304.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325005962/0001959173-25-005962.txt
