@@ -3404,3 +3404,5 @@
 2025-09-12 21:40:38 | Neal Stephen C | Director | Shares: 28000 | Value: $4,972,343.6 | Percent: 0.000115% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000197372725000027/0001973727-25-000027.txt
 2025-09-12 21:40:39 | Family Trust III U/A DTD 5/26/2022 | Stockholder | Shares: 1526658 | Value: $31,067,490.3 | Percent: 0.641343% | Link: https://www.sec.gov/Archives/edgar/data/1985611/000200731725001088/0002007317-25-001088.txt
 2025-09-12 21:40:41 | Family Trust III U/A DTD 5/26/2022 | Stockholder | Shares: 1526658 | Value: $31,067,490.3 | Percent: 0.641343% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000200731725001088/0002007317-25-001088.txt
+2025-09-12 21:50:02 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $153,893.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1805704/000196530125000138/0001965301-25-000138.txt
+2025-09-12 21:50:03 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $153,893.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1720592/000196530125000138/0001965301-25-000138.txt
