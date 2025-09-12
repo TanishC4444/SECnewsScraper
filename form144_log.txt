@@ -3344,3 +3344,11 @@
 2025-09-12 19:12:43 | Walsh Jeff Alexander | Former Officer | Shares: 75000 | Value: $320,559.46 | Percent: 0.066755% | Link: https://www.sec.gov/Archives/edgar/data/1831631/000195917325005972/0001959173-25-005972.txt
 2025-09-12 19:12:44 | Ferraro Joseph A. | Officer | Shares: 35000 | Value: $5,484,850.0 | Percent: 0.099432% | Link: https://www.sec.gov/Archives/edgar/data/1628500/000200731725001078/0002007317-25-001078.txt
 2025-09-12 19:12:45 | Ferraro Joseph A. | Officer | Shares: 35000 | Value: $5,484,850.0 | Percent: 0.099432% | Link: https://www.sec.gov/Archives/edgar/data/723612/000200731725001078/0002007317-25-001078.txt
+2025-09-12 20:14:25 | EMILIANO KARGIEMAN | Officer | Shares: 435956 | Value: $1,716,271.58 | Percent: 0.458970% | Link: https://www.sec.gov/Archives/edgar/data/1897580/000195004725007037/0001950047-25-007037.txt
+2025-09-12 20:14:26 | EMILIANO KARGIEMAN | Officer | Shares: 435956 | Value: $1,716,271.58 | Percent: 0.458970% | Link: https://www.sec.gov/Archives/edgar/data/1874315/000195004725007037/0001950047-25-007037.txt
+2025-09-12 20:14:29 | KUBASIK CHRISTOPHER E | Officer | Shares: 83000 | Value: $23,231,539.66 | Percent: 0.044363% | Link: https://www.sec.gov/Archives/edgar/data/1194001/000195917325005978/0001959173-25-005978.txt
+2025-09-12 20:14:30 | KUBASIK CHRISTOPHER E | Officer | Shares: 83000 | Value: $23,231,539.66 | Percent: 0.044363% | Link: https://www.sec.gov/Archives/edgar/data/202058/000195917325005978/0001959173-25-005978.txt
+2025-09-12 20:14:32 | ELISE BASKEL | Officer | Shares: 21212 | Value: $742,420.0 | Percent: 0.032657% | Link: https://www.sec.gov/Archives/edgar/data/1907968/000195004725007036/0001950047-25-007036.txt
+2025-09-12 20:14:33 | ELISE BASKEL | Officer | Shares: 21212 | Value: $742,420.0 | Percent: 0.032657% | Link: https://www.sec.gov/Archives/edgar/data/1046568/000195004725007036/0001950047-25-007036.txt
+2025-09-12 20:14:35 | Akhavan Hamid | Officer | Shares: 233918 | Value: $17,627,215.62 | Percent: 0.149595% | Link: https://www.sec.gov/Archives/edgar/data/1415404/000195917325005977/0001959173-25-005977.txt
+2025-09-12 20:14:36 | Akhavan Hamid | Officer | Shares: 233918 | Value: $17,627,215.62 | Percent: 0.149595% | Link: https://www.sec.gov/Archives/edgar/data/1295252/000195917325005977/0001959173-25-005977.txt
