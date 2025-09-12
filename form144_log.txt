@@ -3320,3 +3320,7 @@
 2025-09-12 14:34:58 | Kovitz Investment Group Partners, LLC | 10% Stockholder | Shares: 53541 | Value: $1,346,556.15 | Percent: 2.394740% | Link: https://www.sec.gov/Archives/edgar/data/897802/000195917325005952/0001959173-25-005952.txt
 2025-09-12 14:45:39 | BURKE JAMES A | Officer | Shares: 21374 | Value: $4,335,603.7 | Percent: 0.006308% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325005955/0001959173-25-005955.txt
 2025-09-12 14:45:41 | BURKE JAMES A | Officer | Shares: 21374 | Value: $4,335,603.7 | Percent: 0.006308% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325005955/0001959173-25-005955.txt
+2025-09-12 15:14:50 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $237,500.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1776909/000076490025000021/0000764900-25-000021.txt
+2025-09-12 15:14:50 | HUBERMAN JONATHAN | Director | Shares: 50000 | Value: $237,500.0 | Percent: 0.086311% | Link: https://www.sec.gov/Archives/edgar/data/1228716/000076490025000021/0000764900-25-000021.txt
+2025-09-12 15:14:52 | Scot Michael Levine | Officer | Shares: 8000 | Value: $304,000.0 | Percent: 0.056947% | Link: https://www.sec.gov/Archives/edgar/data/2059233/000205923325000004/0002059233-25-000004.txt
+2025-09-12 15:14:53 | Scot Michael Levine | Officer | Shares: 8000 | Value: $304,000.0 | Percent: 0.056947% | Link: https://www.sec.gov/Archives/edgar/data/1791145/000205923325000004/0002059233-25-000004.txt
