@@ -3362,3 +3362,9 @@
 2025-09-12 20:31:45 | JANE PRIOR | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007051/0001950047-25-007051.txt
 2025-09-12 20:31:46 | CHARLES VAN ES | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1886344/000195004725007050/0001950047-25-007050.txt
 2025-09-12 20:31:47 | CHARLES VAN ES | Officer | Shares: 10000 | Value: $389,900.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007050/0001950047-25-007050.txt
+2025-09-12 20:42:21 | ANDREA M.A PFEIFER | Officer | Shares: 35000 | Value: $83,300.0 | Percent: 0.034857% | Link: https://www.sec.gov/Archives/edgar/data/1697107/000195004725007069/0001950047-25-007069.txt
+2025-09-12 20:42:21 | ANDREA M.A PFEIFER | Officer | Shares: 35000 | Value: $83,300.0 | Percent: 0.034857% | Link: https://www.sec.gov/Archives/edgar/data/1651625/000195004725007069/0001950047-25-007069.txt
+2025-09-12 20:42:23 | Kumar Suresh | Officer | Shares: 30000 | Value: $3,103,967.05 | Percent: 0.000376% | Link: https://www.sec.gov/Archives/edgar/data/1781198/000195917325005985/0001959173-25-005985.txt
+2025-09-12 20:42:24 | Kumar Suresh | Officer | Shares: 30000 | Value: $3,103,967.05 | Percent: 0.000376% | Link: https://www.sec.gov/Archives/edgar/data/104169/000195917325005985/0001959173-25-005985.txt
+2025-09-12 20:42:26 | Iannotti Thomas J | Director | Shares: 100000 | Value: $1,669,000.0 | Percent: 0.030848% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000068/0001967940-25-000068.txt
+2025-09-12 20:42:27 | Iannotti Thomas J | Director | Shares: 100000 | Value: $1,669,000.0 | Percent: 0.030848% | Link: https://www.sec.gov/Archives/edgar/data/1339297/000196794025000068/0001967940-25-000068.txt

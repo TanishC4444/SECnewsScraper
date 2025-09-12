@@ -4105,3 +4105,11 @@
 2025-09-12 20:31:33 | 8-K - Verizon Master Trust (0001844964) (Filer) | 2025-09-12T16:27:40-04:00 | https://www.sec.gov/Archives/edgar/data/1844964/000092963825003452/0000929638-25-003452.txt
 2025-09-12 20:31:34 | 8-K - Verizon ABS II LLC (0001836995) (Filer) | 2025-09-12T16:27:40-04:00 | https://www.sec.gov/Archives/edgar/data/1836995/000092963825003452/0000929638-25-003452.txt
 2025-09-12 20:31:35 | 8-K - Adaptimmune Therapeutics PLC (0001621227) (Filer) | 2025-09-12T16:27:38-04:00 | https://www.sec.gov/Archives/edgar/data/1621227/000110465925089558/0001104659-25-089558.txt
+2025-09-12 20:42:09 | 8-K - Cooper-Standard Holdings Inc. (0001320461) (Filer) | 2025-09-12T16:40:55-04:00 | https://www.sec.gov/Archives/edgar/data/1320461/000132046125000140/0001320461-25-000140.txt
+2025-09-12 20:42:10 | 8-K - American Strategic Investment Co. (0001595527) (Filer) | 2025-09-12T16:36:45-04:00 | https://www.sec.gov/Archives/edgar/data/1595527/000110465925089566/0001104659-25-089566.txt
+2025-09-12 20:42:12 | 8-K - byNordic Acquisition Corp (0001801417) (Filer) | 2025-09-12T16:35:42-04:00 | https://www.sec.gov/Archives/edgar/data/1801417/000121390025087247/0001213900-25-087247.txt
+2025-09-12 20:42:13 | 8-K - Traws Pharma, Inc. (0001130598) (Filer) | 2025-09-12T16:33:58-04:00 | https://www.sec.gov/Archives/edgar/data/1130598/000110465925089564/0001104659-25-089564.txt
+2025-09-12 20:42:15 | 8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer) | 2025-09-12T16:33:35-04:00 | https://www.sec.gov/Archives/edgar/data/1719406/000143774925028949/0001437749-25-028949.txt
+2025-09-12 20:42:16 | 8-K - MANGOCEUTICALS, INC. (0001938046) (Filer) | 2025-09-12T16:33:10-04:00 | https://www.sec.gov/Archives/edgar/data/1938046/000149315225013213/0001493152-25-013213.txt
+2025-09-12 20:42:18 | 8-K - VisionWave Holdings, Inc. (0002038439) (Filer) | 2025-09-12T16:32:46-04:00 | https://www.sec.gov/Archives/edgar/data/2038439/000173112225001238/0001731122-25-001238.txt
+2025-09-12 20:42:19 | 8-K - NATIONAL BEVERAGE CORP (0000069891) (Filer) | 2025-09-12T16:32:38-04:00 | https://www.sec.gov/Archives/edgar/data/69891/000143774925028947/0001437749-25-028947.txt
