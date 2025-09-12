@@ -4135,3 +4135,13 @@
 2025-09-12 21:22:06 | 8-K - B. Riley Financial, Inc. (0001464790) (Filer) | 2025-09-12T17:16:06-04:00 | https://www.sec.gov/Archives/edgar/data/1464790/000121390025087284/0001213900-25-087284.txt
 2025-09-12 21:22:07 | 8-K - Amergent Hospitality Group Inc. (0001805024) (Filer) | 2025-09-12T17:14:00-04:00 | https://www.sec.gov/Archives/edgar/data/1805024/000164117225027228/0001641172-25-027228.txt
 2025-09-12 21:22:09 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-12T17:10:37-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025087278/0001213900-25-087278.txt
+2025-09-12 21:30:58 | 8-K - Cocrystal Pharma, Inc. (0001412486) (Filer) | 2025-09-12T17:30:19-04:00 | https://www.sec.gov/Archives/edgar/data/1412486/000164117225027246/0001641172-25-027246.txt
+2025-09-12 21:31:00 | 8-K - ADVENT TECHNOLOGIES HOLDINGS, INC. (0001744494) (Filer) | 2025-09-12T17:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/1744494/000182912625007376/0001829126-25-007376.txt
+2025-09-12 21:31:02 | 8-K - Falcon's Beyond Global, Inc. (0001937987) (Filer) | 2025-09-12T17:29:58-04:00 | https://www.sec.gov/Archives/edgar/data/1937987/000121390025087305/0001213900-25-087305.txt
+2025-09-12 21:31:05 | 8-K - CLEARONE INC (0000840715) (Filer) | 2025-09-12T17:29:40-04:00 | https://www.sec.gov/Archives/edgar/data/840715/000175392625001474/0001753926-25-001474.txt
+2025-09-12 21:31:06 | 8-K - ECD Automotive Design, Inc. (0001922858) (Filer) | 2025-09-12T17:29:35-04:00 | https://www.sec.gov/Archives/edgar/data/1922858/000121390025087304/0001213900-25-087304.txt
+2025-09-12 21:31:08 | 8-K - Glucotrack, Inc. (0001506983) (Filer) | 2025-09-12T17:29:25-04:00 | https://www.sec.gov/Archives/edgar/data/1506983/000149315225013290/0001493152-25-013290.txt
+2025-09-12 21:31:10 | 8-K - Awaysis Capital, Inc. (0001021917) (Filer) | 2025-09-12T17:29:10-04:00 | https://www.sec.gov/Archives/edgar/data/1021917/000164117225027245/0001641172-25-027245.txt
+2025-09-12 21:31:12 | 8-K - Brand Engagement Network Inc. (0001838163) (Filer) | 2025-09-12T17:28:11-04:00 | https://www.sec.gov/Archives/edgar/data/1838163/000164117225027241/0001641172-25-027241.txt
+2025-09-12 21:31:14 | 8-K - DarioHealth Corp. (0001533998) (Filer) | 2025-09-12T17:24:17-04:00 | https://www.sec.gov/Archives/edgar/data/1533998/000110465925089629/0001104659-25-089629.txt
+2025-09-12 21:31:17 | 8-K - Avidity Biosciences, Inc. (0001599901) (Filer) | 2025-09-12T17:23:24-04:00 | https://www.sec.gov/Archives/edgar/data/1599901/000119312525202371/0001193125-25-202371.txt

@@ -3394,3 +3394,7 @@
 2025-09-12 21:22:15 | Roper Martin | Director | Shares: 560000 | Value: $22,388,800.0 | Percent: 0.985517% | Link: https://www.sec.gov/Archives/edgar/data/1206513/000195779925000212/0001957799-25-000212.txt
 2025-09-12 21:22:17 | Schaeffer Orlov S Nicole | Officer | Shares: 76520 | Value: $11,127,662.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1401017/000200731725001086/0002007317-25-001086.txt
 2025-09-12 21:22:17 | Schaeffer Orlov S Nicole | Officer | Shares: 76520 | Value: $11,127,662.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725001086/0002007317-25-001086.txt
+2025-09-12 21:31:20 | Family Trust No. S4 | Stockholder | Shares: 686726 | Value: $13,974,874.1 | Percent: 0.288491% | Link: https://www.sec.gov/Archives/edgar/data/1995395/000200731725001087/0002007317-25-001087.txt
+2025-09-12 21:31:21 | Family Trust No. S4 | Stockholder | Shares: 686726 | Value: $13,974,874.1 | Percent: 0.288491% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000200731725001087/0002007317-25-001087.txt
+2025-09-12 21:31:23 | AI LiquidRE LLC | Other / Affiliate | Shares: 10874000 | Value: $98,627,180.0 | Percent: 1.465262% | Link: https://www.sec.gov/Archives/edgar/data/1879878/000119312525202376/0001193125-25-202376.txt
+2025-09-12 21:31:24 | AI LiquidRE LLC | Other / Affiliate | Shares: 10874000 | Value: $98,627,180.0 | Percent: 1.465262% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000119312525202376/0001193125-25-202376.txt
