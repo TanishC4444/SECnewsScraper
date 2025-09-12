@@ -3328,3 +3328,5 @@
 2025-09-12 15:31:06 | Keeney Scott H | Officer | Shares: 15391 | Value: $448,339.83 | Percent: 0.030844% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325005957/0001959173-25-005957.txt
 2025-09-12 15:31:08 | DUVALL DAVID L. | Officer | Shares: 10000 | Value: $210,800.0 | Percent: 0.112893% | Link: https://www.sec.gov/Archives/edgar/data/1757008/000194984625000466/0001949846-25-000466.txt
 2025-09-12 15:31:09 | DUVALL DAVID L. | Officer | Shares: 10000 | Value: $210,800.0 | Percent: 0.112893% | Link: https://www.sec.gov/Archives/edgar/data/1026655/000194984625000466/0001949846-25-000466.txt
+2025-09-12 15:50:59 | GAN JP | Affiliate Shareholder | Shares: 20000 | Value: $510,791.84 | Percent: 0.004801% | Link: https://www.sec.gov/Archives/edgar/data/1723690/000200731725001074/0002007317-25-001074.txt
+2025-09-12 15:51:00 | GAN JP | Affiliate Shareholder | Shares: 20000 | Value: $510,791.84 | Percent: 0.004801% | Link: https://www.sec.gov/Archives/edgar/data/1431826/000200731725001074/0002007317-25-001074.txt
