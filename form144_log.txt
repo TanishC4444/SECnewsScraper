@@ -3386,3 +3386,11 @@
 2025-09-12 21:01:25 | Sandford Helene Gail | Director | Shares: 25000 | Value: $417,250.0 | Percent: 0.007712% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000070/0001967940-25-000070.txt
 2025-09-12 21:01:27 | WALDEN TECHNOLOGY VENTURES II LP | Director | Shares: 25000 | Value: $4,049,250.0 | Percent: 0.014451% | Link: https://www.sec.gov/Archives/edgar/data/1807794/000195004725007072/0001950047-25-007072.txt
 2025-09-12 21:01:28 | WALDEN TECHNOLOGY VENTURES II LP | Director | Shares: 25000 | Value: $4,049,250.0 | Percent: 0.014451% | Link: https://www.sec.gov/Archives/edgar/data/1624530/000195004725007072/0001950047-25-007072.txt
+2025-09-12 21:22:10 | Daniel Antony Newman | Officer | Shares: 1200000 | Value: $46,200,000.0 | Percent: 0.074653% | Link: https://www.sec.gov/Archives/edgar/data/1972874/000196858225000900/0001968582-25-000900.txt
+2025-09-12 21:22:11 | Daniel Antony Newman | Officer | Shares: 1200000 | Value: $46,200,000.0 | Percent: 0.074653% | Link: https://www.sec.gov/Archives/edgar/data/1526125/000196858225000900/0001968582-25-000900.txt
+2025-09-12 21:22:11 | Scott Lovett | Officer | Shares: 33949 | Value: $255,296.0 | Percent: 0.022812% | Link: https://www.sec.gov/Archives/edgar/data/2024441/000151741325000262/0001517413-25-000262.txt
+2025-09-12 21:22:13 | Scott Lovett | Officer | Shares: 33949 | Value: $255,296.0 | Percent: 0.022812% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000151741325000262/0001517413-25-000262.txt
+2025-09-12 21:22:14 | Roper Martin | Director | Shares: 560000 | Value: $22,388,800.0 | Percent: 0.985517% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195779925000212/0001957799-25-000212.txt
+2025-09-12 21:22:15 | Roper Martin | Director | Shares: 560000 | Value: $22,388,800.0 | Percent: 0.985517% | Link: https://www.sec.gov/Archives/edgar/data/1206513/000195779925000212/0001957799-25-000212.txt
+2025-09-12 21:22:17 | Schaeffer Orlov S Nicole | Officer | Shares: 76520 | Value: $11,127,662.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1401017/000200731725001086/0002007317-25-001086.txt
+2025-09-12 21:22:17 | Schaeffer Orlov S Nicole | Officer | Shares: 76520 | Value: $11,127,662.0 | Percent: 0.036201% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000200731725001086/0002007317-25-001086.txt
