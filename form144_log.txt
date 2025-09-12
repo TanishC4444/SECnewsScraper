@@ -3336,3 +3336,5 @@
 2025-09-12 17:26:58 | Karellis Nikolaos | Director | Shares: 11500 | Value: $224,500.0 | Percent: 0.010060% | Link: https://www.sec.gov/Archives/edgar/data/1386716/000201192925000002/0002011929-25-000002.txt
 2025-09-12 17:27:00 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,419,304.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325005962/0001959173-25-005962.txt
 2025-09-12 17:27:01 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,419,304.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325005962/0001959173-25-005962.txt
+2025-09-12 17:50:33 | Harmer Derek | Officer | Shares: 10000 | Value: $110,000.0 | Percent: 0.011667% | Link: https://www.sec.gov/Archives/edgar/data/1794002/000200731725001076/0002007317-25-001076.txt
+2025-09-12 17:50:34 | Harmer Derek | Officer | Shares: 10000 | Value: $110,000.0 | Percent: 0.011667% | Link: https://www.sec.gov/Archives/edgar/data/1698991/000200731725001076/0002007317-25-001076.txt
