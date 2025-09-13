@@ -3412,3 +3412,5 @@
 2025-09-12 23:09:10 | John C. Wobensmith | Chairman of the Board, CEO and President | Shares: 82752 | Value: $1,469,675.0 | Percent: 0.191364% | Link: https://www.sec.gov/Archives/edgar/data/1326200/000114036125034925/0001140361-25-034925.txt
 2025-09-13 00:56:41 | Lynrock Lake Master Fund LP | 10% Stockholder | Shares: 7366 | Value: $69,188.1 | Percent: 0.016015% | Link: https://www.sec.gov/Archives/edgar/data/1736419/000141588925024466/0001415889-25-024466.txt
 2025-09-13 00:56:42 | Lynrock Lake Master Fund LP | 10% Stockholder | Shares: 7366 | Value: $69,188.1 | Percent: 0.016015% | Link: https://www.sec.gov/Archives/edgar/data/1365767/000141588925024466/0001415889-25-024466.txt
+2025-09-13 02:13:07 | Karanikolas Thomas | Officer | Shares: 5023 | Value: $67,941.63 | Percent: 0.001269% | Link: https://www.sec.gov/Archives/edgar/data/2034924/000182965525000019/0001829655-25-000019.txt
+2025-09-13 02:13:08 | Karanikolas Thomas | Officer | Shares: 5023 | Value: $67,941.63 | Percent: 0.001269% | Link: https://www.sec.gov/Archives/edgar/data/1322422/000182965525000019/0001829655-25-000019.txt
