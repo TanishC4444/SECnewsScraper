@@ -3498,3 +3498,11 @@
 2025-09-15 21:16:52 | AARON SALTZ | Officer | Shares: 6180 | Value: $147,949.2 | Percent: 0.004340% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000195004725007171/0001950047-25-007171.txt
 2025-09-15 21:16:54 | JOHN P FRIEL | Director | Shares: 13479 | Value: $317,850.99 | Percent: 0.027774% | Link: https://www.sec.gov/Archives/edgar/data/1647357/000195004725007170/0001950047-25-007170.txt
 2025-09-15 21:16:54 | JOHN P FRIEL | Director | Shares: 13479 | Value: $317,850.99 | Percent: 0.027774% | Link: https://www.sec.gov/Archives/edgar/data/915779/000195004725007170/0001950047-25-007170.txt
+2025-09-15 21:30:01 | Mohammad Farooq Kathwari | Director | Shares: 80100 | Value: $2,336,517.0 | Percent: 0.314836% | Link: https://www.sec.gov/Archives/edgar/data/1217614/000196858225000915/0001968582-25-000915.txt
+2025-09-15 21:30:03 | Mohammad Farooq Kathwari | Director | Shares: 80100 | Value: $2,336,517.0 | Percent: 0.314836% | Link: https://www.sec.gov/Archives/edgar/data/896156/000196858225000915/0001968582-25-000915.txt
+2025-09-15 21:30:05 | TAMIR POLEG | Officer | Shares: 29519 | Value: $150,050.98 | Percent: 0.014104% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725007173/0001950047-25-007173.txt
+2025-09-15 21:30:07 | TAMIR POLEG | Officer | Shares: 29519 | Value: $150,050.98 | Percent: 0.014104% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007173/0001950047-25-007173.txt
+2025-09-15 21:30:09 | Tessari Eben | Officer | Shares: 16400 | Value: $598,016.0 | Percent: 0.037725% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001156/0001921094-25-001156.txt
+2025-09-15 21:30:10 | Tessari Eben | Officer | Shares: 16400 | Value: $598,016.0 | Percent: 0.037725% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001156/0001921094-25-001156.txt
+2025-09-15 21:30:12 | Llewellyn Lindsay Catherine | Officer | Shares: 14606 | Value: $292,120.0 | Percent: 0.003671% | Link: https://www.sec.gov/Archives/edgar/data/2034826/000192109425001155/0001921094-25-001155.txt
+2025-09-15 21:30:13 | Llewellyn Lindsay Catherine | Officer | Shares: 14606 | Value: $292,120.0 | Percent: 0.003671% | Link: https://www.sec.gov/Archives/edgar/data/1759509/000192109425001155/0001921094-25-001155.txt
