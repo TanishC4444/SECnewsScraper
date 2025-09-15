@@ -4213,3 +4213,10 @@
 2025-09-15 19:00:32 | 8-K - Chilean Cobalt Corp. (0001727255) (Filer) | 2025-09-15T14:54:00-04:00 | https://www.sec.gov/Archives/edgar/data/1727255/000168316825006976/0001683168-25-006976.txt
 2025-09-15 19:40:15 | 8-K/A - Mayville Engineering Company, Inc. (0001766368) (Filer) | 2025-09-15T15:30:24-04:00 | https://www.sec.gov/Archives/edgar/data/1766368/000110465925089961/0001104659-25-089961.txt
 2025-09-15 19:58:32 | 8-K - Tennessee Valley Authority (0001376986) (Filer) | 2025-09-15T15:53:35-04:00 | https://www.sec.gov/Archives/edgar/data/1376986/000137698625000051/0001376986-25-000051.txt
+2025-09-15 20:24:30 | 8-K - NL INDUSTRIES INC (0000072162) (Filer) | 2025-09-15T16:23:50-04:00 | https://www.sec.gov/Archives/edgar/data/72162/000007216225000030/0000072162-25-000030.txt
+2025-09-15 20:24:31 | 8-K - FB Financial Corp (0001649749) (Filer) | 2025-09-15T16:22:18-04:00 | https://www.sec.gov/Archives/edgar/data/1649749/000164974925000203/0001649749-25-000203.txt
+2025-09-15 20:24:33 | 8-K - reAlpha Tech Corp. (0001859199) (Filer) | 2025-09-15T16:21:09-04:00 | https://www.sec.gov/Archives/edgar/data/1859199/000200858925000082/0002008589-25-000082.txt
+2025-09-15 20:24:34 | 8-K - MSP Recovery, Inc. (0001802450) (Filer) | 2025-09-15T16:20:11-04:00 | https://www.sec.gov/Archives/edgar/data/1802450/000119312525203601/0001193125-25-203601.txt
+2025-09-15 20:24:36 | 8-K - GAP INC (0000039911) (Filer) | 2025-09-15T16:18:51-04:00 | https://www.sec.gov/Archives/edgar/data/39911/000003991125000114/0000039911-25-000114.txt
+2025-09-15 20:24:38 | 8-K - OMEGA HEALTHCARE INVESTORS INC (0000888491) (Filer) | 2025-09-15T16:18:45-04:00 | https://www.sec.gov/Archives/edgar/data/888491/000088849125000029/0000888491-25-000029.txt
+2025-09-15 20:24:39 | 8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer) | 2025-09-15T16:18:13-04:00 | https://www.sec.gov/Archives/edgar/data/1819928/000110465925090017/0001104659-25-090017.txt
