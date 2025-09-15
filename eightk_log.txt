@@ -4189,3 +4189,13 @@
 2025-09-15 12:50:45 | 8-K - aTYR PHARMA INC (0001339970) (Filer) | 2025-09-15T08:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/1339970/000119312525202865/0001193125-25-202865.txt
 2025-09-15 12:50:46 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-09-15T08:30:26-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825006960/0001683168-25-006960.txt
 2025-09-15 12:50:48 | 8-K - Coeur Mining, Inc. (0000215466) (Filer) | 2025-09-15T08:28:59-04:00 | https://www.sec.gov/Archives/edgar/data/215466/000021546625000128/0000215466-25-000128.txt
+2025-09-15 13:19:04 | 8-K - Reliance Global Group, Inc. (0001812727) (Filer) | 2025-09-15T09:18:23-04:00 | https://www.sec.gov/Archives/edgar/data/1812727/000149315225013416/0001493152-25-013416.txt
+2025-09-15 13:19:06 | 8-K - ProPhase Labs, Inc. (0000868278) (Filer) | 2025-09-15T09:16:13-04:00 | https://www.sec.gov/Archives/edgar/data/868278/000149315225013415/0001493152-25-013415.txt
+2025-09-15 13:19:07 | 8-K - Reliance Global Group, Inc. (0001812727) (Filer) | 2025-09-15T09:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/1812727/000149315225013413/0001493152-25-013413.txt
+2025-09-15 13:19:08 | 8-K - Sadot Group Inc. (0001701756) (Filer) | 2025-09-15T09:15:23-04:00 | https://www.sec.gov/Archives/edgar/data/1701756/000170175625000170/0001701756-25-000170.txt
+2025-09-15 13:19:10 | 8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer) | 2025-09-15T09:11:17-04:00 | https://www.sec.gov/Archives/edgar/data/885550/000088555025000098/0000885550-25-000098.txt
+2025-09-15 13:19:11 | 8-K - Perma-Pipe International Holdings, Inc. (0000914122) (Filer) | 2025-09-15T09:10:52-04:00 | https://www.sec.gov/Archives/edgar/data/914122/000143774925029018/0001437749-25-029018.txt
+2025-09-15 13:19:13 | 8-K - Inspirato Inc (0001820566) (Filer) | 2025-09-15T09:01:27-04:00 | https://www.sec.gov/Archives/edgar/data/1820566/000182056625000176/0001820566-25-000176.txt
+2025-09-15 13:19:15 | 8-K - Hudson Pacific Properties, Inc. (0001482512) (Filer) | 2025-09-15T09:00:11-04:00 | https://www.sec.gov/Archives/edgar/data/1482512/000148251225000130/0001482512-25-000130.txt
+2025-09-15 13:19:17 | 8-K - CoreWeave, Inc. (0001769628) (Filer) | 2025-09-15T08:59:20-04:00 | https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/0001769628-25-000047.txt
+2025-09-15 13:19:18 | 8-K - Verano Holdings Corp. (0001848416) (Filer) | 2025-09-15T08:54:26-04:00 | https://www.sec.gov/Archives/edgar/data/1848416/000149315225013409/0001493152-25-013409.txt
