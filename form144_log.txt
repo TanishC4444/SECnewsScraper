@@ -3534,3 +3534,5 @@
 2025-09-15 22:20:07 | Yao Huiwen | Officer | Shares: 40000 | Value: $1,534,800.0 | Percent: 0.014863% | Link: https://www.sec.gov/Archives/edgar/data/1780312/000121390025087756/0001213900-25-087756.txt
 2025-09-15 22:34:46 | Mateus-Tique Jaime | Director | Shares: 5403 | Value: $148,305.0 | Percent: 0.017297% | Link: https://www.sec.gov/Archives/edgar/data/1352656/000100027525000134/0001000275-25-000134.txt
 2025-09-15 22:34:47 | Mateus-Tique Jaime | Director | Shares: 5403 | Value: $148,305.0 | Percent: 0.017297% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000100027525000134/0001000275-25-000134.txt
+2025-09-15 22:44:07 | Gary M. Reiner | Director | Shares: 40000 | Value: $989,200.0 | Percent: 0.003032% | Link: https://www.sec.gov/Archives/edgar/data/1645590/000196858225000920/0001968582-25-000920.txt
+2025-09-15 22:44:08 | Gary M. Reiner | Director | Shares: 40000 | Value: $989,200.0 | Percent: 0.003032% | Link: https://www.sec.gov/Archives/edgar/data/1233171/000196858225000920/0001968582-25-000920.txt
