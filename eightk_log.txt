@@ -4171,3 +4171,5 @@
 2025-09-15 11:19:44 | 8-K - Bunker Hill Mining Corp. (0001407583) (Filer) | 2025-09-15T07:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1407583/000149315225013370/0001493152-25-013370.txt
 2025-09-15 11:19:46 | 8-K - Monopar Therapeutics (0001645469) (Filer) | 2025-09-15T07:00:11-04:00 | https://www.sec.gov/Archives/edgar/data/1645469/000143774925029005/0001437749-25-029005.txt
 2025-09-15 11:19:47 | 8-K - NovoCure Ltd (0001645113) (Filer) | 2025-09-15T07:00:10-04:00 | https://www.sec.gov/Archives/edgar/data/1645113/000164511325000037/0001645113-25-000037.txt
+2025-09-15 11:29:13 | 8-K - TKO Group Holdings, Inc. (0001973266) (Filer) | 2025-09-15T07:23:13-04:00 | https://www.sec.gov/Archives/edgar/data/1973266/000119312525202794/0001193125-25-202794.txt
+2025-09-15 11:29:15 | 8-K - HAIN CELESTIAL GROUP INC (0000910406) (Filer) | 2025-09-15T07:20:26-04:00 | https://www.sec.gov/Archives/edgar/data/910406/000119312525202787/0001193125-25-202787.txt
