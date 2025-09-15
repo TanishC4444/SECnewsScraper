@@ -3452,3 +3452,9 @@
 2025-09-15 19:20:27 | Rieger April | Officer | Shares: 6018 | Value: $182,968.86 | Percent: 0.005196% | Link: https://www.sec.gov/Archives/edgar/data/1902733/000195917325006007/0001959173-25-006007.txt
 2025-09-15 19:40:18 | JOHN MCMANUS | OFFICER | Shares: 60000 | Value: $2,167,159.81 | Percent: 0.022043% | Link: https://www.sec.gov/Archives/edgar/data/1440053/000144005325000004/0001440053-25-000004.txt
 2025-09-15 19:40:19 | JOHN MCMANUS | OFFICER | Shares: 60000 | Value: $2,167,159.81 | Percent: 0.022043% | Link: https://www.sec.gov/Archives/edgar/data/789570/000144005325000004/0001440053-25-000004.txt
+2025-09-15 19:58:34 | RHOADS ANN D | Director | Shares: 10000 | Value: $584,000.0 | Percent: 0.010178% | Link: https://www.sec.gov/Archives/edgar/data/1250252/000197407825000307/0001974078-25-000307.txt
+2025-09-15 19:58:35 | RHOADS ANN D | Director | Shares: 10000 | Value: $584,000.0 | Percent: 0.010178% | Link: https://www.sec.gov/Archives/edgar/data/1237831/000197407825000307/0001974078-25-000307.txt
+2025-09-15 19:58:36 | VASHIST RAJESH | Officer | Shares: 10000 | Value: $2,769,500.0 | Percent: 0.384615% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000072/0001973251-25-000072.txt
+2025-09-15 19:58:37 | VASHIST RAJESH | Officer | Shares: 10000 | Value: $2,769,500.0 | Percent: 0.384615% | Link: https://www.sec.gov/Archives/edgar/data/1339076/000197325125000072/0001973251-25-000072.txt
+2025-09-15 19:58:39 | Calloway Kenneth L | Officer | Shares: 16450 | Value: $433,457.5 | Percent: 0.017624% | Link: https://www.sec.gov/Archives/edgar/data/2014963/000194984625000477/0001949846-25-000477.txt
+2025-09-15 19:58:40 | Calloway Kenneth L | Officer | Shares: 16450 | Value: $433,457.5 | Percent: 0.017624% | Link: https://www.sec.gov/Archives/edgar/data/949157/000194984625000477/0001949846-25-000477.txt

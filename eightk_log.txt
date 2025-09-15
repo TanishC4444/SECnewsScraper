@@ -4212,3 +4212,4 @@
 2025-09-15 18:36:41 | 8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer) | 2025-09-15T14:26:16-04:00 | https://www.sec.gov/Archives/edgar/data/1585389/000119312525203382/0001193125-25-203382.txt
 2025-09-15 19:00:32 | 8-K - Chilean Cobalt Corp. (0001727255) (Filer) | 2025-09-15T14:54:00-04:00 | https://www.sec.gov/Archives/edgar/data/1727255/000168316825006976/0001683168-25-006976.txt
 2025-09-15 19:40:15 | 8-K/A - Mayville Engineering Company, Inc. (0001766368) (Filer) | 2025-09-15T15:30:24-04:00 | https://www.sec.gov/Archives/edgar/data/1766368/000110465925089961/0001104659-25-089961.txt
+2025-09-15 19:58:32 | 8-K - Tennessee Valley Authority (0001376986) (Filer) | 2025-09-15T15:53:35-04:00 | https://www.sec.gov/Archives/edgar/data/1376986/000137698625000051/0001376986-25-000051.txt
