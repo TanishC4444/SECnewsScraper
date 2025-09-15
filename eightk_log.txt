@@ -4209,3 +4209,4 @@
 2025-09-15 17:29:48 | 8-K - Kairous Acquisition Corp. Ltd (0001865468) (Filer) | 2025-09-15T13:11:42-04:00 | https://www.sec.gov/Archives/edgar/data/1865468/000149315225013434/0001493152-25-013434.txt
 2025-09-15 17:41:43 | 8-K - Unicoin Inc. (0001740742) (Filer) | 2025-09-15T13:35:46-04:00 | https://www.sec.gov/Archives/edgar/data/1740742/000182912625007390/0001829126-25-007390.txt
 2025-09-15 18:00:26 | 8-K - CULLEN/FROST BANKERS, INC. (0000039263) (Filer) | 2025-09-15T13:51:58-04:00 | https://www.sec.gov/Archives/edgar/data/39263/000003926325000106/0000039263-25-000106.txt
+2025-09-15 18:36:41 | 8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer) | 2025-09-15T14:26:16-04:00 | https://www.sec.gov/Archives/edgar/data/1585389/000119312525203382/0001193125-25-203382.txt

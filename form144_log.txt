@@ -3446,3 +3446,5 @@
 2025-09-15 17:11:47 | SCHEID STEVEN | Director | Shares: 20426 | Value: $805,397.0 | Percent: 0.026331% | Link: https://www.sec.gov/Archives/edgar/data/1188413/000194984625000473/0001949846-25-000473.txt
 2025-09-15 17:29:52 | Wiedenfels Gunnar | Officer | Shares: 530793 | Value: $10,350,463.5 | Percent: 0.021439% | Link: https://www.sec.gov/Archives/edgar/data/1694392/000195917325006003/0001959173-25-006003.txt
 2025-09-15 17:29:53 | Wiedenfels Gunnar | Officer | Shares: 530793 | Value: $10,350,463.5 | Percent: 0.021439% | Link: https://www.sec.gov/Archives/edgar/data/1437107/000195917325006003/0001959173-25-006003.txt
+2025-09-15 18:36:43 | Isaacs Ian | Director | Shares: 8000 | Value: $100,160.0 | Percent: 0.023393% | Link: https://www.sec.gov/Archives/edgar/data/1433548/000194984625000475/0001949846-25-000475.txt
+2025-09-15 18:36:44 | Isaacs Ian | Director | Shares: 8000 | Value: $100,160.0 | Percent: 0.023393% | Link: https://www.sec.gov/Archives/edgar/data/1385613/000194984625000475/0001949846-25-000475.txt
