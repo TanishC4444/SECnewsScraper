@@ -3438,3 +3438,5 @@
 2025-09-15 16:24:50 | Azzurro Capital Inc. | 10% Stockholder | Shares: 75000 | Value: $714,000.0 | Percent: 0.683002% | Link: https://www.sec.gov/Archives/edgar/data/1133311/000134913225000006/0001349132-25-000006.txt
 2025-09-15 16:24:53 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,481,773.62 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325005997/0001959173-25-005997.txt
 2025-09-15 16:24:54 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,481,773.62 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325005997/0001959173-25-005997.txt
+2025-09-15 16:44:22 | Alesia Haas | Officer | Shares: 6417 | Value: $2,067,787.39 | Percent: 0.002982% | Link: https://www.sec.gov/Archives/edgar/data/1679788/000166871125000009/0001668711-25-000009.txt
+2025-09-15 16:44:23 | Alesia Haas | Officer | Shares: 6417 | Value: $2,067,787.39 | Percent: 0.002982% | Link: https://www.sec.gov/Archives/edgar/data/1668711/000166871125000009/0001668711-25-000009.txt
