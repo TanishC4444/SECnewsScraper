@@ -3434,3 +3434,7 @@
 2025-09-15 15:47:52 | Antoine Maillet-Mezeray | Executive Vice President, Finance &amp; Operations | Shares: 15000 | Value: $148,650.0 | Percent: 0.012111% | Link: https://www.sec.gov/Archives/edgar/data/1756708/000175670825000049/0001756708-25-000049.txt
 2025-09-15 15:57:07 | Duhay Francis | Director | Shares: 9800 | Value: $8,143.0 | Percent: 0.050917% | Link: https://www.sec.gov/Archives/edgar/data/1760582/000194984625000472/0001949846-25-000472.txt
 2025-09-15 15:57:08 | Duhay Francis | Director | Shares: 9800 | Value: $8,143.0 | Percent: 0.050917% | Link: https://www.sec.gov/Archives/edgar/data/1661053/000194984625000472/0001949846-25-000472.txt
+2025-09-15 16:24:50 | Azzurro Capital Inc. | 10% Stockholder | Shares: 75000 | Value: $714,000.0 | Percent: 0.683002% | Link: https://www.sec.gov/Archives/edgar/data/1349132/000134913225000006/0001349132-25-000006.txt
+2025-09-15 16:24:50 | Azzurro Capital Inc. | 10% Stockholder | Shares: 75000 | Value: $714,000.0 | Percent: 0.683002% | Link: https://www.sec.gov/Archives/edgar/data/1133311/000134913225000006/0001349132-25-000006.txt
+2025-09-15 16:24:53 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,481,773.62 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325005997/0001959173-25-005997.txt
+2025-09-15 16:24:54 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,481,773.62 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325005997/0001959173-25-005997.txt

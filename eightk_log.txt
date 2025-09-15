@@ -4203,3 +4203,6 @@
 2025-09-15 13:49:14 | 8-K - Welsbach Technology Metals Acquisition Corp. (0001866226) (Filer) | 2025-09-15T09:42:30-04:00 | https://www.sec.gov/Archives/edgar/data/1866226/000121390025087457/0001213900-25-087457.txt
 2025-09-15 13:58:15 | 8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer) | 2025-09-15T09:53:55-04:00 | https://www.sec.gov/Archives/edgar/data/1937993/000121390025087461/0001213900-25-087461.txt
 2025-09-15 15:37:58 | 8-K - Via Renewables, Inc. (0001606268) (Filer) | 2025-09-15T11:36:04-04:00 | https://www.sec.gov/Archives/edgar/data/1606268/000160626825000030/0001606268-25-000030.txt
+2025-09-15 16:24:46 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-09-15T12:14:25-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225006736/0001477932-25-006736.txt
+2025-09-15 16:24:47 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-09-15T12:03:28-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000026/0002035428-25-000026.txt
+2025-09-15 16:24:48 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-09-15T12:00:54-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525203169/0001193125-25-203169.txt
