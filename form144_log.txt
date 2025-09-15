@@ -3488,3 +3488,13 @@
 2025-09-15 20:57:00 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,242,957.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001154/0001921094-25-001154.txt
 2025-09-15 20:57:03 | Rolle Janet L | Officer | Shares: 37092 | Value: $74,184.0 | Percent: 0.100140% | Link: https://www.sec.gov/Archives/edgar/data/1828972/000196794025000071/0001967940-25-000071.txt
 2025-09-15 20:57:04 | Rolle Janet L | Officer | Shares: 37092 | Value: $74,184.0 | Percent: 0.100140% | Link: https://www.sec.gov/Archives/edgar/data/1497617/000196794025000071/0001967940-25-000071.txt
+2025-09-15 21:16:44 | Sea of Stars Ltd | Affiliate | Shares: 150000 | Value: $29,407,500.0 | Percent: 0.027595% | Link: https://www.sec.gov/Archives/edgar/data/1965725/000196858225000914/0001968582-25-000914.txt
+2025-09-15 21:16:45 | Sea of Stars Ltd | Affiliate | Shares: 150000 | Value: $29,407,500.0 | Percent: 0.027595% | Link: https://www.sec.gov/Archives/edgar/data/1703399/000196858225000914/0001968582-25-000914.txt
+2025-09-15 21:16:47 | KEVIN GRAHMANN | Officer | Shares: 23867 | Value: $658,908.2 | Percent: 0.001074% | Link: https://www.sec.gov/Archives/edgar/data/1819612/000195004725007172/0001950047-25-007172.txt
+2025-09-15 21:16:47 | KEVIN GRAHMANN | Officer | Shares: 23867 | Value: $658,908.2 | Percent: 0.001074% | Link: https://www.sec.gov/Archives/edgar/data/1506307/000195004725007172/0001950047-25-007172.txt
+2025-09-15 21:16:49 | Peter Henry Oey | Officer | Shares: 150000 | Value: $900,000.0 | Percent: 0.003797% | Link: https://www.sec.gov/Archives/edgar/data/1976718/000196858225000911/0001968582-25-000911.txt
+2025-09-15 21:16:50 | Peter Henry Oey | Officer | Shares: 150000 | Value: $900,000.0 | Percent: 0.003797% | Link: https://www.sec.gov/Archives/edgar/data/1855612/000196858225000911/0001968582-25-000911.txt
+2025-09-15 21:16:51 | AARON SALTZ | Officer | Shares: 6180 | Value: $147,949.2 | Percent: 0.004340% | Link: https://www.sec.gov/Archives/edgar/data/1807986/000195004725007171/0001950047-25-007171.txt
+2025-09-15 21:16:52 | AARON SALTZ | Officer | Shares: 6180 | Value: $147,949.2 | Percent: 0.004340% | Link: https://www.sec.gov/Archives/edgar/data/1595974/000195004725007171/0001950047-25-007171.txt
+2025-09-15 21:16:54 | JOHN P FRIEL | Director | Shares: 13479 | Value: $317,850.99 | Percent: 0.027774% | Link: https://www.sec.gov/Archives/edgar/data/1647357/000195004725007170/0001950047-25-007170.txt
+2025-09-15 21:16:54 | JOHN P FRIEL | Director | Shares: 13479 | Value: $317,850.99 | Percent: 0.027774% | Link: https://www.sec.gov/Archives/edgar/data/915779/000195004725007170/0001950047-25-007170.txt
