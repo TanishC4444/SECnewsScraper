@@ -3516,3 +3516,9 @@
 2025-09-15 21:49:42 | John D. DiLullo | Director | Shares: 16000 | Value: $284,160.0 | Percent: 0.004725% | Link: https://www.sec.gov/Archives/edgar/data/1346345/000196858225000918/0001968582-25-000918.txt
 2025-09-15 21:49:43 | Duggan Kerry C | Director | Shares: 5653 | Value: $51,555.0 | Percent: 0.030594% | Link: https://www.sec.gov/Archives/edgar/data/1861456/000186145625000004/0001861456-25-000004.txt
 2025-09-15 21:49:45 | Duggan Kerry C | Director | Shares: 5653 | Value: $51,555.0 | Percent: 0.030594% | Link: https://www.sec.gov/Archives/edgar/data/891532/000186145625000004/0001861456-25-000004.txt
+2025-09-15 21:58:39 | Peter Solvik | Director | Shares: 15000 | Value: $1,202,850.0 | Percent: 0.007459% | Link: https://www.sec.gov/Archives/edgar/data/1686308/000168630825000010/0001686308-25-000010.txt
+2025-09-15 21:58:40 | Peter Solvik | Director | Shares: 15000 | Value: $1,202,850.0 | Percent: 0.007459% | Link: https://www.sec.gov/Archives/edgar/data/1261333/000168630825000010/0001686308-25-000010.txt
+2025-09-15 21:58:42 | SHAWN DUFFY | Officer | Shares: 50000 | Value: $1,643,950.0 | Percent: 0.037240% | Link: https://www.sec.gov/Archives/edgar/data/1548472/000195004725007174/0001950047-25-007174.txt
+2025-09-15 21:58:43 | SHAWN DUFFY | Officer | Shares: 50000 | Value: $1,643,950.0 | Percent: 0.037240% | Link: https://www.sec.gov/Archives/edgar/data/797721/000195004725007174/0001950047-25-007174.txt
+2025-09-15 21:58:45 | Laura Alber | Officer | Shares: 90000 | Value: $18,011,359.4 | Percent: 0.073897% | Link: https://www.sec.gov/Archives/edgar/data/1225922/000122592225000005/0001225922-25-000005.txt
+2025-09-15 21:58:46 | Laura Alber | Officer | Shares: 90000 | Value: $18,011,359.4 | Percent: 0.073897% | Link: https://www.sec.gov/Archives/edgar/data/719955/000122592225000005/0001225922-25-000005.txt
