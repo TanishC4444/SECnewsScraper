@@ -3510,3 +3510,9 @@
 2025-09-15 21:40:12 | Robert I. Kauffman | Director | Shares: 11433 | Value: $146,228.0 | Percent: 0.012572% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000112446225000020/0001124462-25-000020.txt
 2025-09-15 21:40:14 | James Murdoch | Affiliate | Shares: 60000 | Value: $23,756,400.0 | Percent: 0.001860% | Link: https://www.sec.gov/Archives/edgar/data/1420590/000196858225000917/0001968582-25-000917.txt
 2025-09-15 21:40:15 | James Murdoch | Affiliate | Shares: 60000 | Value: $23,756,400.0 | Percent: 0.001860% | Link: https://www.sec.gov/Archives/edgar/data/1318605/000196858225000917/0001968582-25-000917.txt
+2025-09-15 21:49:39 | Rohit Ghai | Director | Shares: 10000 | Value: $177,600.0 | Percent: 0.002953% | Link: https://www.sec.gov/Archives/edgar/data/1960794/000196858225000919/0001968582-25-000919.txt
+2025-09-15 21:49:40 | Rohit Ghai | Director | Shares: 10000 | Value: $177,600.0 | Percent: 0.002953% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000196858225000919/0001968582-25-000919.txt
+2025-09-15 21:49:41 | John D. DiLullo | Director | Shares: 16000 | Value: $284,160.0 | Percent: 0.004725% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000196858225000918/0001968582-25-000918.txt
+2025-09-15 21:49:42 | John D. DiLullo | Director | Shares: 16000 | Value: $284,160.0 | Percent: 0.004725% | Link: https://www.sec.gov/Archives/edgar/data/1346345/000196858225000918/0001968582-25-000918.txt
+2025-09-15 21:49:43 | Duggan Kerry C | Director | Shares: 5653 | Value: $51,555.0 | Percent: 0.030594% | Link: https://www.sec.gov/Archives/edgar/data/1861456/000186145625000004/0001861456-25-000004.txt
+2025-09-15 21:49:45 | Duggan Kerry C | Director | Shares: 5653 | Value: $51,555.0 | Percent: 0.030594% | Link: https://www.sec.gov/Archives/edgar/data/891532/000186145625000004/0001861456-25-000004.txt
