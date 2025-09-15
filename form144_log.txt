@@ -3444,3 +3444,5 @@
 2025-09-15 16:54:33 | Hallen Ed | Officer | Shares: 89748 | Value: $2,845,870.5 | Percent: 0.076775% | Link: https://www.sec.gov/Archives/edgar/data/1835830/000195917325006002/0001959173-25-006002.txt
 2025-09-15 17:11:46 | SCHEID STEVEN | Director | Shares: 20426 | Value: $805,397.0 | Percent: 0.026331% | Link: https://www.sec.gov/Archives/edgar/data/1547903/000194984625000473/0001949846-25-000473.txt
 2025-09-15 17:11:47 | SCHEID STEVEN | Director | Shares: 20426 | Value: $805,397.0 | Percent: 0.026331% | Link: https://www.sec.gov/Archives/edgar/data/1188413/000194984625000473/0001949846-25-000473.txt
+2025-09-15 17:29:52 | Wiedenfels Gunnar | Officer | Shares: 530793 | Value: $10,350,463.5 | Percent: 0.021439% | Link: https://www.sec.gov/Archives/edgar/data/1694392/000195917325006003/0001959173-25-006003.txt
+2025-09-15 17:29:53 | Wiedenfels Gunnar | Officer | Shares: 530793 | Value: $10,350,463.5 | Percent: 0.021439% | Link: https://www.sec.gov/Archives/edgar/data/1437107/000195917325006003/0001959173-25-006003.txt
