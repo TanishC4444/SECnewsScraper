@@ -3442,3 +3442,5 @@
 2025-09-15 16:44:23 | Alesia Haas | Officer | Shares: 6417 | Value: $2,067,787.39 | Percent: 0.002982% | Link: https://www.sec.gov/Archives/edgar/data/1668711/000166871125000009/0001668711-25-000009.txt
 2025-09-15 16:54:32 | Hallen Ed | Officer | Shares: 89748 | Value: $2,845,870.5 | Percent: 0.076775% | Link: https://www.sec.gov/Archives/edgar/data/1991125/000195917325006002/0001959173-25-006002.txt
 2025-09-15 16:54:33 | Hallen Ed | Officer | Shares: 89748 | Value: $2,845,870.5 | Percent: 0.076775% | Link: https://www.sec.gov/Archives/edgar/data/1835830/000195917325006002/0001959173-25-006002.txt
+2025-09-15 17:11:46 | SCHEID STEVEN | Director | Shares: 20426 | Value: $805,397.0 | Percent: 0.026331% | Link: https://www.sec.gov/Archives/edgar/data/1547903/000194984625000473/0001949846-25-000473.txt
+2025-09-15 17:11:47 | SCHEID STEVEN | Director | Shares: 20426 | Value: $805,397.0 | Percent: 0.026331% | Link: https://www.sec.gov/Archives/edgar/data/1188413/000194984625000473/0001949846-25-000473.txt
