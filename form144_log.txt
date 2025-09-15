@@ -3450,3 +3450,5 @@
 2025-09-15 18:36:44 | Isaacs Ian | Director | Shares: 8000 | Value: $100,160.0 | Percent: 0.023393% | Link: https://www.sec.gov/Archives/edgar/data/1385613/000194984625000475/0001949846-25-000475.txt
 2025-09-15 19:20:26 | Rieger April | Officer | Shares: 6018 | Value: $182,968.86 | Percent: 0.005196% | Link: https://www.sec.gov/Archives/edgar/data/1928630/000195917325006007/0001959173-25-006007.txt
 2025-09-15 19:20:27 | Rieger April | Officer | Shares: 6018 | Value: $182,968.86 | Percent: 0.005196% | Link: https://www.sec.gov/Archives/edgar/data/1902733/000195917325006007/0001959173-25-006007.txt
+2025-09-15 19:40:18 | JOHN MCMANUS | OFFICER | Shares: 60000 | Value: $2,167,159.81 | Percent: 0.022043% | Link: https://www.sec.gov/Archives/edgar/data/1440053/000144005325000004/0001440053-25-000004.txt
+2025-09-15 19:40:19 | JOHN MCMANUS | OFFICER | Shares: 60000 | Value: $2,167,159.81 | Percent: 0.022043% | Link: https://www.sec.gov/Archives/edgar/data/789570/000144005325000004/0001440053-25-000004.txt
