@@ -3422,3 +3422,7 @@
 2025-09-15 14:22:58 | Elwell Lesley Lissette | Director | Shares: 8000 | Value: $580,160.0 | Percent: 0.000048% | Link: https://www.sec.gov/Archives/edgar/data/1711269/000197309725000023/0001973097-25-000023.txt
 2025-09-15 14:38:43 | Prober Charles J. | Director | Shares: 7930 | Value: $794,903.2 | Percent: 0.010226% | Link: https://www.sec.gov/Archives/edgar/data/1696247/000195917325005989/0001959173-25-005989.txt
 2025-09-15 14:38:44 | Prober Charles J. | Director | Shares: 7930 | Value: $794,903.2 | Percent: 0.010226% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000195917325005989/0001959173-25-005989.txt
+2025-09-15 14:57:54 | David Gibbs | officer | Shares: 7176 | Value: $1,074,965.0 | Percent: 0.002586% | Link: https://www.sec.gov/Archives/edgar/data/1628590/000162859025000003/0001628590-25-000003.txt
+2025-09-15 14:57:55 | David Gibbs | officer | Shares: 7176 | Value: $1,074,965.0 | Percent: 0.002586% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000162859025000003/0001628590-25-000003.txt
+2025-09-15 14:57:57 | Becker Steven R | Officer | Shares: 104000 | Value: $314,080.0 | Percent: 0.270614% | Link: https://www.sec.gov/Archives/edgar/data/1349005/000194984625000470/0001949846-25-000470.txt
+2025-09-15 14:57:58 | Becker Steven R | Officer | Shares: 104000 | Value: $314,080.0 | Percent: 0.270614% | Link: https://www.sec.gov/Archives/edgar/data/1132105/000194984625000470/0001949846-25-000470.txt
