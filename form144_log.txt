@@ -3416,3 +3416,7 @@
 2025-09-13 02:13:08 | Karanikolas Thomas | Officer | Shares: 5023 | Value: $67,941.63 | Percent: 0.001269% | Link: https://www.sec.gov/Archives/edgar/data/1322422/000182965525000019/0001829655-25-000019.txt
 2025-09-15 13:19:20 | Jennifer Hyman | Director &amp; Officer | Shares: 6127 | Value: $39,090.26 | Percent: 0.155455% | Link: https://www.sec.gov/Archives/edgar/data/1737388/000146832725000188/0001468327-25-000188.txt
 2025-09-15 13:19:21 | Jennifer Hyman | Director &amp; Officer | Shares: 6127 | Value: $39,090.26 | Percent: 0.155455% | Link: https://www.sec.gov/Archives/edgar/data/1468327/000146832725000188/0001468327-25-000188.txt
+2025-09-15 14:22:54 | Mehta Satish | Officer | Shares: 46765 | Value: $1,622,277.85 | Percent: 0.020779% | Link: https://www.sec.gov/Archives/edgar/data/1778095/000177809525000004/0001778095-25-000004.txt
+2025-09-15 14:22:55 | Mehta Satish | Officer | Shares: 46765 | Value: $1,622,277.85 | Percent: 0.020779% | Link: https://www.sec.gov/Archives/edgar/data/1766502/000177809525000004/0001778095-25-000004.txt
+2025-09-15 14:22:57 | Elwell Lesley Lissette | Director | Shares: 8000 | Value: $580,160.0 | Percent: 0.000048% | Link: https://www.sec.gov/Archives/edgar/data/1881806/000197309725000023/0001973097-25-000023.txt
+2025-09-15 14:22:58 | Elwell Lesley Lissette | Director | Shares: 8000 | Value: $580,160.0 | Percent: 0.000048% | Link: https://www.sec.gov/Archives/edgar/data/1711269/000197309725000023/0001973097-25-000023.txt
