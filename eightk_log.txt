@@ -4207,3 +4207,4 @@
 2025-09-15 16:24:47 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-09-15T12:03:28-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000026/0002035428-25-000026.txt
 2025-09-15 16:24:48 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-09-15T12:00:54-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525203169/0001193125-25-203169.txt
 2025-09-15 17:29:48 | 8-K - Kairous Acquisition Corp. Ltd (0001865468) (Filer) | 2025-09-15T13:11:42-04:00 | https://www.sec.gov/Archives/edgar/data/1865468/000149315225013434/0001493152-25-013434.txt
+2025-09-15 17:41:43 | 8-K - Unicoin Inc. (0001740742) (Filer) | 2025-09-15T13:35:46-04:00 | https://www.sec.gov/Archives/edgar/data/1740742/000182912625007390/0001829126-25-007390.txt
