@@ -3476,3 +3476,7 @@
 2025-09-15 20:38:05 | STUART A ROTHSTEIN | Director | Shares: 52073 | Value: $564,471.32 | Percent: 0.037478% | Link: https://www.sec.gov/Archives/edgar/data/1128865/000195004725007158/0001950047-25-007158.txt
 2025-09-15 20:38:07 | PAUL LAWRENCE ALPERN | Officer | Shares: 10000 | Value: $87,500.0 | Percent: 0.023447% | Link: https://www.sec.gov/Archives/edgar/data/1888542/000195004725007157/0001950047-25-007157.txt
 2025-09-15 20:38:09 | PAUL LAWRENCE ALPERN | Officer | Shares: 10000 | Value: $87,500.0 | Percent: 0.023447% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725007157/0001950047-25-007157.txt
+2025-09-15 20:47:37 | Taylor George Anthony | Officer | Shares: 26414 | Value: $1,357,351.12 | Percent: 0.048013% | Link: https://www.sec.gov/Archives/edgar/data/1570331/000196430625000357/0001964306-25-000357.txt
+2025-09-15 20:47:38 | Taylor George Anthony | Officer | Shares: 26414 | Value: $1,357,351.12 | Percent: 0.048013% | Link: https://www.sec.gov/Archives/edgar/data/1564902/000196430625000357/0001964306-25-000357.txt
+2025-09-15 20:47:40 | STOLPER MARK | Officer | Shares: 35000 | Value: $2,590,350.0 | Percent: 0.045504% | Link: https://www.sec.gov/Archives/edgar/data/1281961/000168316825006993/0001683168-25-006993.txt
+2025-09-15 20:47:42 | STOLPER MARK | Officer | Shares: 35000 | Value: $2,590,350.0 | Percent: 0.045504% | Link: https://www.sec.gov/Archives/edgar/data/790526/000168316825006993/0001683168-25-006993.txt
