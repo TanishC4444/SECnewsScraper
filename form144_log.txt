@@ -3536,3 +3536,5 @@
 2025-09-15 22:34:47 | Mateus-Tique Jaime | Director | Shares: 5403 | Value: $148,305.0 | Percent: 0.017297% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000100027525000134/0001000275-25-000134.txt
 2025-09-15 22:44:07 | Gary M. Reiner | Director | Shares: 40000 | Value: $989,200.0 | Percent: 0.003032% | Link: https://www.sec.gov/Archives/edgar/data/1645590/000196858225000920/0001968582-25-000920.txt
 2025-09-15 22:44:08 | Gary M. Reiner | Director | Shares: 40000 | Value: $989,200.0 | Percent: 0.003032% | Link: https://www.sec.gov/Archives/edgar/data/1233171/000196858225000920/0001968582-25-000920.txt
+2025-09-15 23:10:26 | SFS Holding Corp | 10% Stockholder | Shares: 38166811 | Value: $261,442,657.0 | Percent: 16.733350% | Link: https://www.sec.gov/Archives/edgar/data/1842002/000184200225000024/0001842002-25-000024.txt
+2025-09-15 23:10:26 | SFS Holding Corp | 10% Stockholder | Shares: 38166811 | Value: $261,442,657.0 | Percent: 16.733350% | Link: https://www.sec.gov/Archives/edgar/data/1783398/000184200225000024/0001842002-25-000024.txt
