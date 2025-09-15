@@ -3480,3 +3480,11 @@
 2025-09-15 20:47:38 | Taylor George Anthony | Officer | Shares: 26414 | Value: $1,357,351.12 | Percent: 0.048013% | Link: https://www.sec.gov/Archives/edgar/data/1564902/000196430625000357/0001964306-25-000357.txt
 2025-09-15 20:47:40 | STOLPER MARK | Officer | Shares: 35000 | Value: $2,590,350.0 | Percent: 0.045504% | Link: https://www.sec.gov/Archives/edgar/data/1281961/000168316825006993/0001683168-25-006993.txt
 2025-09-15 20:47:42 | STOLPER MARK | Officer | Shares: 35000 | Value: $2,590,350.0 | Percent: 0.045504% | Link: https://www.sec.gov/Archives/edgar/data/790526/000168316825006993/0001683168-25-006993.txt
+2025-09-15 20:56:52 | THOMAS N TRYFOROS | Director | Shares: 228840 | Value: $10,879,053.6 | Percent: 0.023667% | Link: https://www.sec.gov/Archives/edgar/data/900075/000195004725007166/0001950047-25-007166.txt
+2025-09-15 20:56:54 | THOMAS N TRYFOROS | Director | Shares: 228840 | Value: $10,879,053.6 | Percent: 0.023667% | Link: https://www.sec.gov/Archives/edgar/data/897542/000195004725007166/0001950047-25-007166.txt
+2025-09-15 20:56:56 | Sarah Blanchard | Officer | Shares: 25000 | Value: $179,250.0 | Percent: 0.016629% | Link: https://www.sec.gov/Archives/edgar/data/1883129/000196858225000910/0001968582-25-000910.txt
+2025-09-15 20:56:57 | Sarah Blanchard | Officer | Shares: 25000 | Value: $179,250.0 | Percent: 0.016629% | Link: https://www.sec.gov/Archives/edgar/data/1607939/000196858225000910/0001968582-25-000910.txt
+2025-09-15 20:56:59 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,242,957.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001154/0001921094-25-001154.txt
+2025-09-15 20:57:00 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,242,957.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001154/0001921094-25-001154.txt
+2025-09-15 20:57:03 | Rolle Janet L | Officer | Shares: 37092 | Value: $74,184.0 | Percent: 0.100140% | Link: https://www.sec.gov/Archives/edgar/data/1828972/000196794025000071/0001967940-25-000071.txt
+2025-09-15 20:57:04 | Rolle Janet L | Officer | Shares: 37092 | Value: $74,184.0 | Percent: 0.100140% | Link: https://www.sec.gov/Archives/edgar/data/1497617/000196794025000071/0001967940-25-000071.txt
