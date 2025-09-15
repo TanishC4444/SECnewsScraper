@@ -3468,3 +3468,11 @@
 2025-09-15 20:24:50 | Girouard Dave | Officer | Shares: 41667 | Value: $2,705,545.0 | Percent: 0.043305% | Link: https://www.sec.gov/Archives/edgar/data/1647639/000192109425001151/0001921094-25-001151.txt
 2025-09-15 20:24:52 | MEHROTRA SANJAY | Officer | Shares: 7500 | Value: $1,200,300.0 | Percent: 0.000670% | Link: https://www.sec.gov/Archives/edgar/data/1242654/000196922325000772/0001969223-25-000772.txt
 2025-09-15 20:24:53 | MEHROTRA SANJAY | Officer | Shares: 7500 | Value: $1,200,300.0 | Percent: 0.000670% | Link: https://www.sec.gov/Archives/edgar/data/723125/000196922325000772/0001969223-25-000772.txt
+2025-09-15 20:38:00 | Simo Fidji | Director | Shares: 7140 | Value: $337,744.0 | Percent: 0.002710% | Link: https://www.sec.gov/Archives/edgar/data/1962727/000192109425001153/0001921094-25-001153.txt
+2025-09-15 20:38:01 | Simo Fidji | Director | Shares: 7140 | Value: $337,744.0 | Percent: 0.002710% | Link: https://www.sec.gov/Archives/edgar/data/1579091/000192109425001153/0001921094-25-001153.txt
+2025-09-15 20:38:02 | Kneafsey Brian | Officer | Shares: 25000 | Value: $109,069.0 | Percent: 0.009777% | Link: https://www.sec.gov/Archives/edgar/data/2020521/000192109425001152/0001921094-25-001152.txt
+2025-09-15 20:38:03 | Kneafsey Brian | Officer | Shares: 25000 | Value: $109,069.0 | Percent: 0.009777% | Link: https://www.sec.gov/Archives/edgar/data/1855747/000192109425001152/0001921094-25-001152.txt
+2025-09-15 20:38:04 | STUART A ROTHSTEIN | Director | Shares: 52073 | Value: $564,471.32 | Percent: 0.037478% | Link: https://www.sec.gov/Archives/edgar/data/1467760/000195004725007158/0001950047-25-007158.txt
+2025-09-15 20:38:05 | STUART A ROTHSTEIN | Director | Shares: 52073 | Value: $564,471.32 | Percent: 0.037478% | Link: https://www.sec.gov/Archives/edgar/data/1128865/000195004725007158/0001950047-25-007158.txt
+2025-09-15 20:38:07 | PAUL LAWRENCE ALPERN | Officer | Shares: 10000 | Value: $87,500.0 | Percent: 0.023447% | Link: https://www.sec.gov/Archives/edgar/data/1888542/000195004725007157/0001950047-25-007157.txt
+2025-09-15 20:38:09 | PAUL LAWRENCE ALPERN | Officer | Shares: 10000 | Value: $87,500.0 | Percent: 0.023447% | Link: https://www.sec.gov/Archives/edgar/data/1667011/000195004725007157/0001950047-25-007157.txt

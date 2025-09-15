@@ -4220,3 +4220,12 @@
 2025-09-15 20:24:36 | 8-K - GAP INC (0000039911) (Filer) | 2025-09-15T16:18:51-04:00 | https://www.sec.gov/Archives/edgar/data/39911/000003991125000114/0000039911-25-000114.txt
 2025-09-15 20:24:38 | 8-K - OMEGA HEALTHCARE INVESTORS INC (0000888491) (Filer) | 2025-09-15T16:18:45-04:00 | https://www.sec.gov/Archives/edgar/data/888491/000088849125000029/0000888491-25-000029.txt
 2025-09-15 20:24:39 | 8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer) | 2025-09-15T16:18:13-04:00 | https://www.sec.gov/Archives/edgar/data/1819928/000110465925090017/0001104659-25-090017.txt
+2025-09-15 20:37:45 | 8-K - Atlas Energy Solutions Inc. (0001984060) (Filer) | 2025-09-15T16:36:16-04:00 | https://www.sec.gov/Archives/edgar/data/1984060/000119312525203668/0001193125-25-203668.txt
+2025-09-15 20:37:47 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-15T16:35:53-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003329/0001178913-25-003329.txt
+2025-09-15 20:37:48 | 8-K - NN INC (0000918541) (Filer) | 2025-09-15T16:35:37-04:00 | https://www.sec.gov/Archives/edgar/data/918541/000110465925090035/0001104659-25-090035.txt
+2025-09-15 20:37:50 | 8-K - OTG Acquisition Corp. I (0002077010) (Filer) | 2025-09-15T16:35:34-04:00 | https://www.sec.gov/Archives/edgar/data/2077010/000149315225013496/0001493152-25-013496.txt
+2025-09-15 20:37:51 | 8-K - Bolt Projects Holdings, Inc. (0001841125) (Filer) | 2025-09-15T16:35:34-04:00 | https://www.sec.gov/Archives/edgar/data/1841125/000184112525000129/0001841125-25-000129.txt
+2025-09-15 20:37:52 | 8-K - Cocrystal Pharma, Inc. (0001412486) (Filer) | 2025-09-15T16:35:33-04:00 | https://www.sec.gov/Archives/edgar/data/1412486/000149315225013495/0001493152-25-013495.txt
+2025-09-15 20:37:54 | 8-K - TPG RE Finance Trust, Inc. (0001630472) (Filer) | 2025-09-15T16:34:13-04:00 | https://www.sec.gov/Archives/edgar/data/1630472/000119312525203662/0001193125-25-203662.txt
+2025-09-15 20:37:55 | 8-K - METLIFE INC (0001099219) (Filer) | 2025-09-15T16:33:05-04:00 | https://www.sec.gov/Archives/edgar/data/1099219/000109921925000219/0001099219-25-000219.txt
+2025-09-15 20:37:58 | 8-K - Stellus Capital Investment Corp (0001551901) (Filer) | 2025-09-15T16:32:52-04:00 | https://www.sec.gov/Archives/edgar/data/1551901/000110465925090030/0001104659-25-090030.txt
