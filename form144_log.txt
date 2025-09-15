@@ -3432,3 +3432,5 @@
 2025-09-15 15:22:54 | Koefoed William A | Officer | Shares: 8943 | Value: $170,185.29 | Percent: 0.010147% | Link: https://www.sec.gov/Archives/edgar/data/1642337/000195917325005993/0001959173-25-005993.txt
 2025-09-15 15:47:51 | Antoine Maillet-Mezeray | Executive Vice President, Finance &amp; Operations | Shares: 15000 | Value: $148,650.0 | Percent: 0.012111% | Link: https://www.sec.gov/Archives/edgar/data/2085902/000175670825000049/0001756708-25-000049.txt
 2025-09-15 15:47:52 | Antoine Maillet-Mezeray | Executive Vice President, Finance &amp; Operations | Shares: 15000 | Value: $148,650.0 | Percent: 0.012111% | Link: https://www.sec.gov/Archives/edgar/data/1756708/000175670825000049/0001756708-25-000049.txt
+2025-09-15 15:57:07 | Duhay Francis | Director | Shares: 9800 | Value: $8,143.0 | Percent: 0.050917% | Link: https://www.sec.gov/Archives/edgar/data/1760582/000194984625000472/0001949846-25-000472.txt
+2025-09-15 15:57:08 | Duhay Francis | Director | Shares: 9800 | Value: $8,143.0 | Percent: 0.050917% | Link: https://www.sec.gov/Archives/edgar/data/1661053/000194984625000472/0001949846-25-000472.txt
