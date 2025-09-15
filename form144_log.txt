@@ -3532,3 +3532,5 @@
 2025-09-15 22:20:05 | Didier Papadopoulos | Officer | Shares: 5987 | Value: $87,102.92 | Percent: 0.000699% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000525/0001819848-25-000525.txt
 2025-09-15 22:20:07 | Yao Huiwen | Officer | Shares: 40000 | Value: $1,534,800.0 | Percent: 0.014863% | Link: https://www.sec.gov/Archives/edgar/data/2027976/000121390025087756/0001213900-25-087756.txt
 2025-09-15 22:20:07 | Yao Huiwen | Officer | Shares: 40000 | Value: $1,534,800.0 | Percent: 0.014863% | Link: https://www.sec.gov/Archives/edgar/data/1780312/000121390025087756/0001213900-25-087756.txt
+2025-09-15 22:34:46 | Mateus-Tique Jaime | Director | Shares: 5403 | Value: $148,305.0 | Percent: 0.017297% | Link: https://www.sec.gov/Archives/edgar/data/1352656/000100027525000134/0001000275-25-000134.txt
+2025-09-15 22:34:47 | Mateus-Tique Jaime | Director | Shares: 5403 | Value: $148,305.0 | Percent: 0.017297% | Link: https://www.sec.gov/Archives/edgar/data/1235468/000100027525000134/0001000275-25-000134.txt
