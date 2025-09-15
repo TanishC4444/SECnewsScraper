@@ -4202,3 +4202,4 @@
 2025-09-15 13:39:07 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-09-15T09:26:58-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025087452/0001213900-25-087452.txt
 2025-09-15 13:49:14 | 8-K - Welsbach Technology Metals Acquisition Corp. (0001866226) (Filer) | 2025-09-15T09:42:30-04:00 | https://www.sec.gov/Archives/edgar/data/1866226/000121390025087457/0001213900-25-087457.txt
 2025-09-15 13:58:15 | 8-K - Cadrenal Therapeutics, Inc. (0001937993) (Filer) | 2025-09-15T09:53:55-04:00 | https://www.sec.gov/Archives/edgar/data/1937993/000121390025087461/0001213900-25-087461.txt
+2025-09-15 15:37:58 | 8-K - Via Renewables, Inc. (0001606268) (Filer) | 2025-09-15T11:36:04-04:00 | https://www.sec.gov/Archives/edgar/data/1606268/000160626825000030/0001606268-25-000030.txt
