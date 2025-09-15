@@ -3430,3 +3430,5 @@
 2025-09-15 15:22:51 | Khan Salman Hassan | Officer | Shares: 34732 | Value: $564,047.68 | Percent: 0.009375% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325005994/0001959173-25-005994.txt
 2025-09-15 15:22:53 | Koefoed William A | Officer | Shares: 8943 | Value: $170,185.29 | Percent: 0.010147% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325005993/0001959173-25-005993.txt
 2025-09-15 15:22:54 | Koefoed William A | Officer | Shares: 8943 | Value: $170,185.29 | Percent: 0.010147% | Link: https://www.sec.gov/Archives/edgar/data/1642337/000195917325005993/0001959173-25-005993.txt
+2025-09-15 15:47:51 | Antoine Maillet-Mezeray | Executive Vice President, Finance &amp; Operations | Shares: 15000 | Value: $148,650.0 | Percent: 0.012111% | Link: https://www.sec.gov/Archives/edgar/data/2085902/000175670825000049/0001756708-25-000049.txt
+2025-09-15 15:47:52 | Antoine Maillet-Mezeray | Executive Vice President, Finance &amp; Operations | Shares: 15000 | Value: $148,650.0 | Percent: 0.012111% | Link: https://www.sec.gov/Archives/edgar/data/1756708/000175670825000049/0001756708-25-000049.txt
