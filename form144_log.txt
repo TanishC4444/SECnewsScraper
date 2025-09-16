@@ -3554,3 +3554,5 @@
 2025-09-16 11:13:37 | David Jeffrey Katz | Officer | Shares: 14000 | Value: $1,049,860.0 | Percent: 0.018202% | Link: https://www.sec.gov/Archives/edgar/data/790526/000168316825007011/0001683168-25-007011.txt
 2025-09-16 11:26:57 | Fluor Corp | Director | Shares: 15000000 | Value: $585,000,000.0 | Percent: 11.202526% | Link: https://www.sec.gov/Archives/edgar/data/1822966/000112419825000036/0001124198-25-000036.txt
 2025-09-16 11:26:58 | Fluor Corp | Director | Shares: 15000000 | Value: $585,000,000.0 | Percent: 11.202526% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000112419825000036/0001124198-25-000036.txt
+2025-09-16 12:37:27 | Nagar Yaacov | Officer | Shares: 1500000 | Value: $525,000.0 | Percent: 0.981794% | Link: https://www.sec.gov/Archives/edgar/data/1861377/000197309725000024/0001973097-25-000024.txt
+2025-09-16 12:37:29 | Nagar Yaacov | Officer | Shares: 1500000 | Value: $525,000.0 | Percent: 0.981794% | Link: https://www.sec.gov/Archives/edgar/data/933972/000197309725000024/0001973097-25-000024.txt
