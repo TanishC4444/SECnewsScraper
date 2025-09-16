@@ -3644,3 +3644,5 @@
 2025-09-16 21:49:55 | Vojin Todorovic | Officer | Shares: 12744 | Value: $966,632.4 | Percent: 0.097089% | Link: https://www.sec.gov/Archives/edgar/data/1113809/000161876425000004/0001618764-25-000004.txt
 2025-09-16 22:21:22 | KUANG JIN | Officer | Shares: 3982606 | Value: $80,000.0 | Percent: 0.108302% | Link: https://www.sec.gov/Archives/edgar/data/1991479/000199147925000004/0001991479-25-000004.txt
 2025-09-16 22:21:22 | KUANG JIN | Officer | Shares: 3982606 | Value: $80,000.0 | Percent: 0.108302% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000199147925000004/0001991479-25-000004.txt
+2025-09-16 22:31:13 | Sharon John | Officer | Shares: 42643 | Value: $3,234,471.5 | Percent: 0.324870% | Link: https://www.sec.gov/Archives/edgar/data/1578217/000157821725000004/0001578217-25-000004.txt
+2025-09-16 22:31:14 | Sharon John | Officer | Shares: 42643 | Value: $3,234,471.5 | Percent: 0.324870% | Link: https://www.sec.gov/Archives/edgar/data/1113809/000157821725000004/0001578217-25-000004.txt
