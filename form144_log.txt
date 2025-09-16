@@ -3568,3 +3568,7 @@
 2025-09-16 14:25:22 | Alventosa Abril Enric | Officer | Shares: 12062 | Value: $36,427.24 | Percent: 0.024256% | Link: https://www.sec.gov/Archives/edgar/data/1927719/000197640825000310/0001976408-25-000310.txt
 2025-09-16 14:25:24 | Halligan Brian | Director | Shares: 8500 | Value: $4,305,420.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1603527/000195917325006019/0001959173-25-006019.txt
 2025-09-16 14:25:25 | Halligan Brian | Director | Shares: 8500 | Value: $4,305,420.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325006019/0001959173-25-006019.txt
+2025-09-16 14:42:05 | Orszag Peter Richard | Officer | Shares: 32475 | Value: $1,762,743.0 | Percent: 0.028799% | Link: https://www.sec.gov/Archives/edgar/data/1837678/000195917325006024/0001959173-25-006024.txt
+2025-09-16 14:42:06 | Orszag Peter Richard | Officer | Shares: 32475 | Value: $1,762,743.0 | Percent: 0.028799% | Link: https://www.sec.gov/Archives/edgar/data/1311370/000195917325006024/0001959173-25-006024.txt
+2025-09-16 14:42:08 | COLLIS STEVEN H | Director | Shares: 31350 | Value: $9,140,092.5 | Percent: 0.016170% | Link: https://www.sec.gov/Archives/edgar/data/1191508/000195917325006022/0001959173-25-006022.txt
+2025-09-16 14:42:09 | COLLIS STEVEN H | Director | Shares: 31350 | Value: $9,140,092.5 | Percent: 0.016170% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325006022/0001959173-25-006022.txt

@@ -4310,3 +4310,4 @@
 2025-09-16 13:49:50 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-16T09:42:12-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015648/0001062993-25-015648.txt
 2025-09-16 13:59:13 | 8-K - International Stem Cell CORP (0001355790) (Filer) | 2025-09-16T09:57:40-04:00 | https://www.sec.gov/Archives/edgar/data/1355790/000168316825007018/0001683168-25-007018.txt
 2025-09-16 14:25:16 | 8-K/A - Processa Pharmaceuticals, Inc. (0001533743) (Filer) | 2025-09-16T10:19:47-04:00 | https://www.sec.gov/Archives/edgar/data/1533743/000149315225013648/0001493152-25-013648.txt
+2025-09-16 14:42:04 | 8-K - INNOVATIVE FOOD HOLDINGS INC (0000312257) (Filer) | 2025-09-16T10:41:10-04:00 | https://www.sec.gov/Archives/edgar/data/312257/000118518525001214/0001185185-25-001214.txt
