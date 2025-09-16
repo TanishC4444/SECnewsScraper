@@ -4260,3 +4260,13 @@
 2025-09-15 21:29:58 | 8-K - NextTrip, Inc. (0000788611) (Filer) | 2025-09-15T17:19:01-04:00 | https://www.sec.gov/Archives/edgar/data/788611/000149315225013530/0001493152-25-013530.txt
 2025-09-15 21:29:58 | 8-K - BLACK HILLS CORP /SD/ (0001130464) (Filer) | 2025-09-15T17:17:44-04:00 | https://www.sec.gov/Archives/edgar/data/1130464/000119312525203783/0001193125-25-203783.txt
 2025-09-15 21:40:09 | 8-K - FOXO TECHNOLOGIES INC. (0001812360) (Filer) | 2025-09-15T17:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1812360/000149315225013552/0001493152-25-013552.txt
+2025-09-16 10:10:17 | 8-K - Berry Corp (bry) (0001705873) (Filer) | 2025-09-16T06:05:29-04:00 | https://www.sec.gov/Archives/edgar/data/1705873/000119312525204224/0001193125-25-204224.txt
+2025-09-16 10:10:19 | 8-K - Permian Resources Corp (0001658566) (Filer) | 2025-09-16T06:03:26-04:00 | https://www.sec.gov/Archives/edgar/data/1658566/000119312525204221/0001193125-25-204221.txt
+2025-09-16 10:10:21 | 8-K - Sidus Space Inc. (0001879726) (Filer) | 2025-09-16T06:03:22-04:00 | https://www.sec.gov/Archives/edgar/data/1879726/000149315225013604/0001493152-25-013604.txt
+2025-09-16 10:10:23 | 8-K - Sonder Holdings Inc. (0001819395) (Filer) | 2025-09-16T06:02:56-04:00 | https://www.sec.gov/Archives/edgar/data/1819395/000175392625001492/0001753926-25-001492.txt
+2025-09-16 10:10:25 | 8-K - Target Hospitality Corp. (0001712189) (Filer) | 2025-09-16T06:02:27-04:00 | https://www.sec.gov/Archives/edgar/data/1712189/000171218925000073/0001712189-25-000073.txt
+2025-09-16 10:10:27 | 8-K - European Wax Center, Inc. (0001856236) (Filer) | 2025-09-16T06:00:34-04:00 | https://www.sec.gov/Archives/edgar/data/1856236/000119312525204171/0001193125-25-204171.txt
+2025-09-16 10:10:28 | 8-K - Five Point Holdings, LLC (0001574197) (Filer) | 2025-09-15T21:23:35-04:00 | https://www.sec.gov/Archives/edgar/data/1574197/000119312525204078/0001193125-25-204078.txt
+2025-09-16 10:10:32 | 8-K - Paysign, Inc. (0001496443) (Filer) | 2025-09-15T21:01:05-04:00 | https://www.sec.gov/Archives/edgar/data/1496443/000168316825007009/0001683168-25-007009.txt
+2025-09-16 10:10:33 | 8-K - ESH Acquisition Corp. (0001918661) (Filer) | 2025-09-15T20:32:03-04:00 | https://www.sec.gov/Archives/edgar/data/1918661/000121390025087827/0001213900-25-087827.txt
+2025-09-16 10:10:36 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-09-15T20:22:53-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000506/0001564708-25-000506.txt
