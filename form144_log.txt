@@ -3538,3 +3538,11 @@
 2025-09-15 22:44:08 | Gary M. Reiner | Director | Shares: 40000 | Value: $989,200.0 | Percent: 0.003032% | Link: https://www.sec.gov/Archives/edgar/data/1233171/000196858225000920/0001968582-25-000920.txt
 2025-09-15 23:10:26 | SFS Holding Corp | 10% Stockholder | Shares: 38166811 | Value: $261,442,657.0 | Percent: 16.733350% | Link: https://www.sec.gov/Archives/edgar/data/1842002/000184200225000024/0001842002-25-000024.txt
 2025-09-15 23:10:26 | SFS Holding Corp | 10% Stockholder | Shares: 38166811 | Value: $261,442,657.0 | Percent: 16.733350% | Link: https://www.sec.gov/Archives/edgar/data/1783398/000184200225000024/0001842002-25-000024.txt
+2025-09-16 01:04:50 | Daniel Vidal | Director | Shares: 5858 | Value: $11,130.2 | Percent: 0.007273% | Link: https://www.sec.gov/Archives/edgar/data/1891862/000189186225000015/0001891862-25-000015.txt
+2025-09-16 01:04:51 | Daniel Vidal | Director | Shares: 5858 | Value: $11,130.2 | Percent: 0.007273% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189186225000015/0001891862-25-000015.txt
+2025-09-16 01:04:52 | David Barrett | Director | Shares: 105024 | Value: $199,545.6 | Percent: 0.130385% | Link: https://www.sec.gov/Archives/edgar/data/1892682/000189268225000013/0001892682-25-000013.txt
+2025-09-16 01:04:53 | David Barrett | Director | Shares: 105024 | Value: $199,545.6 | Percent: 0.130385% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189268225000013/0001892682-25-000013.txt
+2025-09-16 01:04:54 | Ryan Schaffer | Director | Shares: 5550 | Value: $10,545.0 | Percent: 0.006890% | Link: https://www.sec.gov/Archives/edgar/data/1891061/000189106125000014/0001891061-25-000014.txt
+2025-09-16 01:04:54 | Ryan Schaffer | Director | Shares: 5550 | Value: $10,545.0 | Percent: 0.006890% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189106125000014/0001891061-25-000014.txt
+2025-09-16 01:04:55 | Jason Mills | Director | Shares: 7105 | Value: $13,499.5 | Percent: 0.008821% | Link: https://www.sec.gov/Archives/edgar/data/1891197/000189119725000015/0001891197-25-000015.txt
+2025-09-16 01:04:56 | Jason Mills | Director | Shares: 7105 | Value: $13,499.5 | Percent: 0.008821% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189119725000015/0001891197-25-000015.txt
