@@ -4275,3 +4275,9 @@
 2025-09-16 10:34:06 | 8-K - Oscar Health, Inc. (0001568651) (Filer) | 2025-09-16T06:10:07-04:00 | https://www.sec.gov/Archives/edgar/data/1568651/000119312525204231/0001193125-25-204231.txt
 2025-09-16 10:55:42 | 8-K - Performance Food Group Co (0001618673) (Filer) | 2025-09-16T06:50:21-04:00 | https://www.sec.gov/Archives/edgar/data/1618673/000119312525204256/0001193125-25-204256.txt
 2025-09-16 10:55:42 | 8-K - Ferguson Enterprises Inc. /DE/ (0002011641) (Filer) | 2025-09-16T06:50:14-04:00 | https://www.sec.gov/Archives/edgar/data/2011641/000201164125000025/0002011641-25-000025.txt
+2025-09-16 11:13:23 | 8-K - Ocean Power Technologies, Inc. (0001378140) (Filer) | 2025-09-16T07:11:39-04:00 | https://www.sec.gov/Archives/edgar/data/1378140/000149315225013624/0001493152-25-013624.txt
+2025-09-16 11:13:25 | 8-K - CHARLES RIVER LABORATORIES INTERNATIONAL, INC. (0001100682) (Filer) | 2025-09-16T07:10:48-04:00 | https://www.sec.gov/Archives/edgar/data/1100682/000095010325011676/0000950103-25-011676.txt
+2025-09-16 11:13:27 | 8-K - INSULET CORP (0001145197) (Filer) | 2025-09-16T07:05:56-04:00 | https://www.sec.gov/Archives/edgar/data/1145197/000119312525204276/0001193125-25-204276.txt
+2025-09-16 11:13:30 | 8-K - Pasithea Therapeutics Corp. (0001841330) (Filer) | 2025-09-16T07:04:47-04:00 | https://www.sec.gov/Archives/edgar/data/1841330/000121390025087903/0001213900-25-087903.txt
+2025-09-16 11:13:32 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-09-16T07:00:20-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225013614/0001493152-25-013614.txt
+2025-09-16 11:13:34 | 8-K - Marpai, Inc. (0001844392) (Filer) | 2025-09-16T06:59:49-04:00 | https://www.sec.gov/Archives/edgar/data/1844392/000121390025087900/0001213900-25-087900.txt
