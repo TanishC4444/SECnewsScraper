@@ -3588,3 +3588,5 @@
 2025-09-16 16:33:06 | Baggio Barbara | WIFE OF CEO | Shares: 36773055 | Value: $478,000.0 | Percent: 1.000000% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000196737025000003/0001967370-25-000003.txt
 2025-09-16 16:57:40 | Strahan Gary Eugene | Former 10% shareholder | Shares: 152125 | Value: $108,510.76 | Percent: 0.439992% | Link: https://www.sec.gov/Archives/edgar/data/2004751/000194984625000480/0001949846-25-000480.txt
 2025-09-16 16:57:41 | Strahan Gary Eugene | Former 10% shareholder | Shares: 152125 | Value: $108,510.76 | Percent: 0.439992% | Link: https://www.sec.gov/Archives/edgar/data/1863990/000194984625000480/0001949846-25-000480.txt
+2025-09-16 17:17:41 | LIN KUAN-MING | Affiliate | Shares: 12500 | Value: $1,125,000.0 | Percent: 0.035562% | Link: https://www.sec.gov/Archives/edgar/data/2014102/000201410225000002/0002014102-25-000002.txt
+2025-09-16 17:17:42 | LIN KUAN-MING | Affiliate | Shares: 12500 | Value: $1,125,000.0 | Percent: 0.035562% | Link: https://www.sec.gov/Archives/edgar/data/1329394/000201410225000002/0002014102-25-000002.txt
