@@ -4270,3 +4270,6 @@
 2025-09-16 10:10:32 | 8-K - Paysign, Inc. (0001496443) (Filer) | 2025-09-15T21:01:05-04:00 | https://www.sec.gov/Archives/edgar/data/1496443/000168316825007009/0001683168-25-007009.txt
 2025-09-16 10:10:33 | 8-K - ESH Acquisition Corp. (0001918661) (Filer) | 2025-09-15T20:32:03-04:00 | https://www.sec.gov/Archives/edgar/data/1918661/000121390025087827/0001213900-25-087827.txt
 2025-09-16 10:10:36 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-09-15T20:22:53-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000506/0001564708-25-000506.txt
+2025-09-16 10:34:03 | 8-K - HighPeak Energy, Inc. (0001792849) (Filer) | 2025-09-16T06:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1792849/000143774925029107/0001437749-25-029107.txt
+2025-09-16 10:34:04 | 8-K/A - Steele Creek Capital Corp (0001817825) (Filer) | 2025-09-16T06:25:12-04:00 | https://www.sec.gov/Archives/edgar/data/1817825/000121390025087883/0001213900-25-087883.txt
+2025-09-16 10:34:06 | 8-K - Oscar Health, Inc. (0001568651) (Filer) | 2025-09-16T06:10:07-04:00 | https://www.sec.gov/Archives/edgar/data/1568651/000119312525204231/0001193125-25-204231.txt
