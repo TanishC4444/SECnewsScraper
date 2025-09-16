@@ -3546,3 +3546,7 @@
 2025-09-16 01:04:54 | Ryan Schaffer | Director | Shares: 5550 | Value: $10,545.0 | Percent: 0.006890% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189106125000014/0001891061-25-000014.txt
 2025-09-16 01:04:55 | Jason Mills | Director | Shares: 7105 | Value: $13,499.5 | Percent: 0.008821% | Link: https://www.sec.gov/Archives/edgar/data/1891197/000189119725000015/0001891197-25-000015.txt
 2025-09-16 01:04:56 | Jason Mills | Director | Shares: 7105 | Value: $13,499.5 | Percent: 0.008821% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000189119725000015/0001891197-25-000015.txt
+2025-09-16 02:34:03 | BRIAN LONG | DIRECTOR | Shares: 500000 | Value: $3,115,000.0 | Percent: 0.234624% | Link: https://www.sec.gov/Archives/edgar/data/1821769/000120101025000023/0001201010-25-000023.txt
+2025-09-16 02:34:04 | BRIAN LONG | DIRECTOR | Shares: 500000 | Value: $3,115,000.0 | Percent: 0.234624% | Link: https://www.sec.gov/Archives/edgar/data/1201010/000120101025000023/0001201010-25-000023.txt
+2025-09-16 02:34:05 | Kelsey Stephen Michael | Officer | Shares: 5296 | Value: $246,528.8 | Percent: 0.002833% | Link: https://www.sec.gov/Archives/edgar/data/1628171/000146280825000007/0001462808-25-000007.txt
+2025-09-16 02:34:06 | Kelsey Stephen Michael | Officer | Shares: 5296 | Value: $246,528.8 | Percent: 0.002833% | Link: https://www.sec.gov/Archives/edgar/data/1462808/000146280825000007/0001462808-25-000007.txt
