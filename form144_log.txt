@@ -3578,3 +3578,7 @@
 2025-09-16 15:28:22 | Slootman Frank | Director | Shares: 7551 | Value: $1,670,583.24 | Percent: 0.002229% | Link: https://www.sec.gov/Archives/edgar/data/1402348/000195917325006028/0001959173-25-006028.txt
 2025-09-16 15:28:35 | BURKE JAMES A | Officer | Shares: 21358 | Value: $4,565,882.35 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006027/0001959173-25-006027.txt
 2025-09-16 15:28:36 | BURKE JAMES A | Officer | Shares: 21358 | Value: $4,565,882.35 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006027/0001959173-25-006027.txt
+2025-09-16 15:42:13 | Thiel Frederick G | Officer | Shares: 27505 | Value: $449,706.75 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1567383/000195917325006031/0001959173-25-006031.txt
+2025-09-16 15:42:14 | Thiel Frederick G | Officer | Shares: 27505 | Value: $449,706.75 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006031/0001959173-25-006031.txt
+2025-09-16 15:42:16 | Dudum Andrew | Officer | Shares: 175661 | Value: $9,384,625.88 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325006029/0001959173-25-006029.txt
+2025-09-16 15:42:17 | Dudum Andrew | Officer | Shares: 175661 | Value: $9,384,625.88 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006029/0001959173-25-006029.txt
