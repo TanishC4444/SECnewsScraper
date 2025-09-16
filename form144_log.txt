@@ -3612,3 +3612,7 @@
 2025-09-16 19:33:00 | Parks Robert | Officer | Shares: 7338 | Value: $73,007.96 | Percent: 0.008081% | Link: https://www.sec.gov/Archives/edgar/data/1707662/000195917325006039/0001959173-25-006039.txt
 2025-09-16 19:41:56 | Haycraft Benjamin Toby Patrick | Officer | Shares: 10972 | Value: $17,445.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/2085249/000100027525000136/0001000275-25-000136.txt
 2025-09-16 19:41:58 | Haycraft Benjamin Toby Patrick | Officer | Shares: 10972 | Value: $17,445.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/1093691/000100027525000136/0001000275-25-000136.txt
+2025-09-16 20:00:23 | Tekhill USA LLC | Director | Shares: 250000 | Value: $10,000,000.0 | Percent: 1.283473% | Link: https://www.sec.gov/Archives/edgar/data/1971269/000196922325000774/0001969223-25-000774.txt
+2025-09-16 20:00:24 | Tekhill USA LLC | Director | Shares: 250000 | Value: $10,000,000.0 | Percent: 1.283473% | Link: https://www.sec.gov/Archives/edgar/data/1474627/000196922325000774/0001969223-25-000774.txt
+2025-09-16 20:00:26 | Indig Chaim | Officer | Shares: 6328 | Value: $147,343.68 | Percent: 0.010562% | Link: https://www.sec.gov/Archives/edgar/data/1776732/000195917325006046/0001959173-25-006046.txt
+2025-09-16 20:00:27 | Indig Chaim | Officer | Shares: 6328 | Value: $147,343.68 | Percent: 0.010562% | Link: https://www.sec.gov/Archives/edgar/data/1412408/000195917325006046/0001959173-25-006046.txt
