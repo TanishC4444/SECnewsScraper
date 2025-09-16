@@ -3634,3 +3634,7 @@
 2025-09-16 20:50:36 | Wayne DeVeydt | former director | Shares: 25000 | Value: $541,517.6 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000777/0001969223-25-000777.txt
 2025-09-16 20:50:38 | JENNA ROZENBLAT | Officer | Shares: 7606 | Value: $38,714.54 | Percent: 0.003634% | Link: https://www.sec.gov/Archives/edgar/data/2026961/000195004725007229/0001950047-25-007229.txt
 2025-09-16 20:50:40 | JENNA ROZENBLAT | Officer | Shares: 7606 | Value: $38,714.54 | Percent: 0.003634% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007229/0001950047-25-007229.txt
+2025-09-16 20:59:30 | Brazeal Mark David | Officer | Shares: 10646 | Value: $3,836,651.0 | Percent: 0.000225% | Link: https://www.sec.gov/Archives/edgar/data/1730168/000192109425001164/0001921094-25-001164.txt
+2025-09-16 20:59:31 | Brazeal Mark David | Officer | Shares: 10646 | Value: $3,836,651.0 | Percent: 0.000225% | Link: https://www.sec.gov/Archives/edgar/data/1627720/000192109425001164/0001921094-25-001164.txt
+2025-09-16 20:59:33 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $155,490.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1805704/000196530125000140/0001965301-25-000140.txt
+2025-09-16 20:59:34 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $155,490.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1720592/000196530125000140/0001965301-25-000140.txt
