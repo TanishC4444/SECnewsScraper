@@ -3560,3 +3560,11 @@
 2025-09-16 13:09:17 | Benyamini Gil | Officer | Shares: 8497 | Value: $91,937.54 | Percent: 0.014903% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000308/0001976408-25-000308.txt
 2025-09-16 13:49:53 | Sicilia Michael D. | Officer | Shares: 16323 | Value: $5,118,892.8 | Percent: 0.000574% | Link: https://www.sec.gov/Archives/edgar/data/2071965/000195917325006017/0001959173-25-006017.txt
 2025-09-16 13:49:53 | Sicilia Michael D. | Officer | Shares: 16323 | Value: $5,118,892.8 | Percent: 0.000574% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006017/0001959173-25-006017.txt
+2025-09-16 14:25:19 | Zales Samuel | Officer | Shares: 10000 | Value: $360,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1718790/000195917325006021/0001959173-25-006021.txt
+2025-09-16 14:25:19 | Zales Samuel | Officer | Shares: 10000 | Value: $360,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006021/0001959173-25-006021.txt
+2025-09-16 14:25:21 | Hartung Michael P | Officer | Shares: 45000 | Value: $2,607,300.0 | Percent: 0.011990% | Link: https://www.sec.gov/Archives/edgar/data/1820263/000195917325006020/0001959173-25-006020.txt
+2025-09-16 14:25:22 | Hartung Michael P | Officer | Shares: 45000 | Value: $2,607,300.0 | Percent: 0.011990% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325006020/0001959173-25-006020.txt
+2025-09-16 14:25:22 | Alventosa Abril Enric | Officer | Shares: 12062 | Value: $36,427.24 | Percent: 0.024256% | Link: https://www.sec.gov/Archives/edgar/data/2084930/000197640825000310/0001976408-25-000310.txt
+2025-09-16 14:25:22 | Alventosa Abril Enric | Officer | Shares: 12062 | Value: $36,427.24 | Percent: 0.024256% | Link: https://www.sec.gov/Archives/edgar/data/1927719/000197640825000310/0001976408-25-000310.txt
+2025-09-16 14:25:24 | Halligan Brian | Director | Shares: 8500 | Value: $4,305,420.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1603527/000195917325006019/0001959173-25-006019.txt
+2025-09-16 14:25:25 | Halligan Brian | Director | Shares: 8500 | Value: $4,305,420.0 | Percent: 0.016131% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325006019/0001959173-25-006019.txt
