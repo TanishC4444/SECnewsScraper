@@ -3604,3 +3604,9 @@
 2025-09-16 19:23:19 | STEVEN L BERMAN | BOARD MEMBER | Shares: 144000 | Value: $22,896,000.0 | Percent: 0.471602% | Link: https://www.sec.gov/Archives/edgar/data/868780/000120540525000004/0001205405-25-000004.txt
 2025-09-16 19:23:20 | Pinto Arun | Officer | Shares: 5743 | Value: $154,999.55 | Percent: 0.000480% | Link: https://www.sec.gov/Archives/edgar/data/2012135/000195917325006035/0001959173-25-006035.txt
 2025-09-16 19:23:21 | Pinto Arun | Officer | Shares: 5743 | Value: $154,999.55 | Percent: 0.000480% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006035/0001959173-25-006035.txt
+2025-09-16 19:32:52 | Link Matthew | Former Officer | Shares: 15990 | Value: $55,291.81 | Percent: 0.030534% | Link: https://www.sec.gov/Archives/edgar/data/1565950/000195917325006041/0001959173-25-006041.txt
+2025-09-16 19:32:53 | Link Matthew | Former Officer | Shares: 15990 | Value: $55,291.81 | Percent: 0.030534% | Link: https://www.sec.gov/Archives/edgar/data/1531177/000195917325006041/0001959173-25-006041.txt
+2025-09-16 19:32:55 | White Derek J | Officer | Shares: 36190 | Value: $976,742.77 | Percent: 0.003022% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006040/0001959173-25-006040.txt
+2025-09-16 19:32:57 | White Derek J | Officer | Shares: 36190 | Value: $976,742.77 | Percent: 0.003022% | Link: https://www.sec.gov/Archives/edgar/data/1778401/000195917325006040/0001959173-25-006040.txt
+2025-09-16 19:32:59 | Parks Robert | Officer | Shares: 7338 | Value: $73,007.96 | Percent: 0.008081% | Link: https://www.sec.gov/Archives/edgar/data/1965040/000195917325006039/0001959173-25-006039.txt
+2025-09-16 19:33:00 | Parks Robert | Officer | Shares: 7338 | Value: $73,007.96 | Percent: 0.008081% | Link: https://www.sec.gov/Archives/edgar/data/1707662/000195917325006039/0001959173-25-006039.txt
