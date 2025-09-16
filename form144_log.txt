@@ -3582,3 +3582,7 @@
 2025-09-16 15:42:14 | Thiel Frederick G | Officer | Shares: 27505 | Value: $449,706.75 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006031/0001959173-25-006031.txt
 2025-09-16 15:42:16 | Dudum Andrew | Officer | Shares: 175661 | Value: $9,384,625.88 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325006029/0001959173-25-006029.txt
 2025-09-16 15:42:17 | Dudum Andrew | Officer | Shares: 175661 | Value: $9,384,625.88 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006029/0001959173-25-006029.txt
+2025-09-16 16:33:02 | HAVERTY RAWSON JR | Director | Shares: 25000 | Value: $572,000.0 | Percent: 0.166148% | Link: https://www.sec.gov/Archives/edgar/data/1214531/000194984625000479/0001949846-25-000479.txt
+2025-09-16 16:33:03 | HAVERTY RAWSON JR | Director | Shares: 25000 | Value: $572,000.0 | Percent: 0.166148% | Link: https://www.sec.gov/Archives/edgar/data/216085/000194984625000479/0001949846-25-000479.txt
+2025-09-16 16:33:05 | Baggio Barbara | WIFE OF CEO | Shares: 36773055 | Value: $478,000.0 | Percent: 1.000000% | Link: https://www.sec.gov/Archives/edgar/data/1967370/000196737025000003/0001967370-25-000003.txt
+2025-09-16 16:33:06 | Baggio Barbara | WIFE OF CEO | Shares: 36773055 | Value: $478,000.0 | Percent: 1.000000% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000196737025000003/0001967370-25-000003.txt

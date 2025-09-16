@@ -4314,3 +4314,6 @@
 2025-09-16 14:51:52 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-16T10:43:33-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000172/0001326771-25-000172.txt
 2025-09-16 15:51:53 | 8-K - CF BANKSHARES INC. (0001070680) (Filer) | 2025-09-16T11:45:31-04:00 | https://www.sec.gov/Archives/edgar/data/1070680/000119312525204598/0001193125-25-204598.txt
 2025-09-16 16:00:53 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-16T11:58:45-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000198/0001325878-25-000198.txt
+2025-09-16 16:32:57 | 8-K - ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc. (0001625941) (Filer) | 2025-09-16T12:12:35-04:00 | https://www.sec.gov/Archives/edgar/data/1625941/000162594125000051/0001625941-25-000051.txt
+2025-09-16 16:32:58 | 8-K - Ares Real Estate Income Trust Inc. (0001327978) (Filer) | 2025-09-16T12:10:09-04:00 | https://www.sec.gov/Archives/edgar/data/1327978/000132797825000065/0001327978-25-000065.txt
+2025-09-16 16:33:00 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-09-16T12:02:01-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000039/0001976927-25-000039.txt
