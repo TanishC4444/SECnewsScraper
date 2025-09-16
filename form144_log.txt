@@ -3592,3 +3592,5 @@
 2025-09-16 17:17:42 | LIN KUAN-MING | Affiliate | Shares: 12500 | Value: $1,125,000.0 | Percent: 0.035562% | Link: https://www.sec.gov/Archives/edgar/data/1329394/000201410225000002/0002014102-25-000002.txt
 2025-09-16 17:52:14 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $275,000.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000135/0001000275-25-000135.txt
 2025-09-16 17:52:15 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $275,000.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000135/0001000275-25-000135.txt
+2025-09-16 18:13:38 | Mathias Michael A. | Officer | Shares: 40471 | Value: $809,420.0 | Percent: 0.023899% | Link: https://www.sec.gov/Archives/edgar/data/1810871/000195917325006033/0001959173-25-006033.txt
+2025-09-16 18:13:40 | Mathias Michael A. | Officer | Shares: 40471 | Value: $809,420.0 | Percent: 0.023899% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325006033/0001959173-25-006033.txt
