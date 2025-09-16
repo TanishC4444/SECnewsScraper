@@ -3648,3 +3648,9 @@
 2025-09-16 22:31:14 | Sharon John | Officer | Shares: 42643 | Value: $3,234,471.5 | Percent: 0.324870% | Link: https://www.sec.gov/Archives/edgar/data/1113809/000157821725000004/0001578217-25-000004.txt
 2025-09-16 23:19:09 | CHANG DENNIS | Director | Shares: 1647595 | Value: $24,714.0 | Percent: 0.044804% | Link: https://www.sec.gov/Archives/edgar/data/1750219/000175021925000005/0001750219-25-000005.txt
 2025-09-16 23:19:10 | CHANG DENNIS | Director | Shares: 1647595 | Value: $24,714.0 | Percent: 0.044804% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000175021925000005/0001750219-25-000005.txt
+2025-09-16 23:28:49 | JACOB SCOTT | Officer | Shares: 6688 | Value: $51,807.25 | Percent: 0.004696% | Link: https://www.sec.gov/Archives/edgar/data/1967575/000195004725007234/0001950047-25-007234.txt
+2025-09-16 23:28:50 | JACOB SCOTT | Officer | Shares: 6688 | Value: $51,807.25 | Percent: 0.004696% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000195004725007234/0001950047-25-007234.txt
+2025-09-16 23:28:50 | MANISH SARIN | Officer | Shares: 37008 | Value: $286,675.07 | Percent: 0.025985% | Link: https://www.sec.gov/Archives/edgar/data/1906496/000195004725007233/0001950047-25-007233.txt
+2025-09-16 23:28:51 | MANISH SARIN | Officer | Shares: 37008 | Value: $286,675.07 | Percent: 0.025985% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000195004725007233/0001950047-25-007233.txt
+2025-09-16 23:28:52 | RAGY THOMAS | Officer | Shares: 28916 | Value: $223,992.01 | Percent: 0.020303% | Link: https://www.sec.gov/Archives/edgar/data/1866802/000195004725007232/0001950047-25-007232.txt
+2025-09-16 23:28:53 | RAGY THOMAS | Officer | Shares: 28916 | Value: $223,992.01 | Percent: 0.020303% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000195004725007232/0001950047-25-007232.txt
