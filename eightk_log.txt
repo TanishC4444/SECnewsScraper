@@ -4369,3 +4369,7 @@
 2025-09-16 21:21:52 | 8-K - Academy Sports & Outdoors, Inc. (0001817358) (Filer) | 2025-09-16T17:17:39-04:00 | https://www.sec.gov/Archives/edgar/data/1817358/000181735825000168/0001817358-25-000168.txt
 2025-09-16 21:21:54 | 8-K - Aeries Technology, Inc. (0001853044) (Filer) | 2025-09-16T17:15:49-04:00 | https://www.sec.gov/Archives/edgar/data/1853044/000182912625007430/0001829126-25-007430.txt
 2025-09-16 21:21:57 | 8-K - BOLLINGER INNOVATIONS, INC. (0001499961) (Filer) | 2025-09-16T17:15:29-04:00 | https://www.sec.gov/Archives/edgar/data/1499961/000182912625007429/0001829126-25-007429.txt
+2025-09-16 21:31:23 | 8-K - Orgenesis Inc. (0001460602) (Filer) | 2025-09-16T17:29:47-04:00 | https://www.sec.gov/Archives/edgar/data/1460602/000149315225013758/0001493152-25-013758.txt
+2025-09-16 21:31:23 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-09-16T17:26:46-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000107/0001756761-25-000107.txt
+2025-09-16 21:31:25 | 8-K - Nauticus Robotics, Inc. (0001849820) (Filer) | 2025-09-16T17:22:05-04:00 | https://www.sec.gov/Archives/edgar/data/1849820/000184982025000240/0001849820-25-000240.txt
+2025-09-16 21:31:28 | 8-K - Whitestone REIT (0001175535) (Filer) | 2025-09-16T17:21:17-04:00 | https://www.sec.gov/Archives/edgar/data/1175535/000143774925029197/0001437749-25-029197.txt
