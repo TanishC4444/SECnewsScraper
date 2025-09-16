@@ -3558,3 +3558,5 @@
 2025-09-16 12:37:29 | Nagar Yaacov | Officer | Shares: 1500000 | Value: $525,000.0 | Percent: 0.981794% | Link: https://www.sec.gov/Archives/edgar/data/933972/000197309725000024/0001973097-25-000024.txt
 2025-09-16 13:09:16 | Benyamini Gil | Officer | Shares: 8497 | Value: $91,937.54 | Percent: 0.014903% | Link: https://www.sec.gov/Archives/edgar/data/1978303/000197640825000308/0001976408-25-000308.txt
 2025-09-16 13:09:17 | Benyamini Gil | Officer | Shares: 8497 | Value: $91,937.54 | Percent: 0.014903% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000308/0001976408-25-000308.txt
+2025-09-16 13:49:53 | Sicilia Michael D. | Officer | Shares: 16323 | Value: $5,118,892.8 | Percent: 0.000574% | Link: https://www.sec.gov/Archives/edgar/data/2071965/000195917325006017/0001959173-25-006017.txt
+2025-09-16 13:49:53 | Sicilia Michael D. | Officer | Shares: 16323 | Value: $5,118,892.8 | Percent: 0.000574% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006017/0001959173-25-006017.txt
