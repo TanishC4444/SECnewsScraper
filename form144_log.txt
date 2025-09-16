@@ -3638,3 +3638,5 @@
 2025-09-16 20:59:31 | Brazeal Mark David | Officer | Shares: 10646 | Value: $3,836,651.0 | Percent: 0.000225% | Link: https://www.sec.gov/Archives/edgar/data/1627720/000192109425001164/0001921094-25-001164.txt
 2025-09-16 20:59:33 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $155,490.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1805704/000196530125000140/0001965301-25-000140.txt
 2025-09-16 20:59:34 | Moore Jacob Hamilton | Officer | Shares: 26385 | Value: $155,490.0 | Percent: 0.030664% | Link: https://www.sec.gov/Archives/edgar/data/1720592/000196530125000140/0001965301-25-000140.txt
+2025-09-16 21:41:01 | Jacobson Mark L. | Officer | Shares: 45783 | Value: $5,241,305.0 | Percent: 0.091747% | Link: https://www.sec.gov/Archives/edgar/data/1805812/000192109425001167/0001921094-25-001167.txt
+2025-09-16 21:41:02 | Jacobson Mark L. | Officer | Shares: 45783 | Value: $5,241,305.0 | Percent: 0.091747% | Link: https://www.sec.gov/Archives/edgar/data/1579428/000192109425001167/0001921094-25-001167.txt

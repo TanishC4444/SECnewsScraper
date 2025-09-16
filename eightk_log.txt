@@ -4373,3 +4373,4 @@
 2025-09-16 21:31:23 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-09-16T17:26:46-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000107/0001756761-25-000107.txt
 2025-09-16 21:31:25 | 8-K - Nauticus Robotics, Inc. (0001849820) (Filer) | 2025-09-16T17:22:05-04:00 | https://www.sec.gov/Archives/edgar/data/1849820/000184982025000240/0001849820-25-000240.txt
 2025-09-16 21:31:28 | 8-K - Whitestone REIT (0001175535) (Filer) | 2025-09-16T17:21:17-04:00 | https://www.sec.gov/Archives/edgar/data/1175535/000143774925029197/0001437749-25-029197.txt
+2025-09-16 21:40:59 | 8-K - WinVest Acquisition Corp. (0001854463) (Filer) | 2025-09-16T17:30:59-04:00 | https://www.sec.gov/Archives/edgar/data/1854463/000149315225013760/0001493152-25-013760.txt
