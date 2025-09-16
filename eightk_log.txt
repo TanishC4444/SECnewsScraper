@@ -4349,3 +4349,12 @@
 2025-09-16 20:41:05 | 8-K - PELOTON INTERACTIVE, INC. (0001639825) (Filer) | 2025-09-16T16:35:18-04:00 | https://www.sec.gov/Archives/edgar/data/1639825/000163982525000173/0001639825-25-000173.txt
 2025-09-16 20:41:07 | 8-K - AvePoint, Inc. (0001777921) (Filer) | 2025-09-16T16:34:39-04:00 | https://www.sec.gov/Archives/edgar/data/1777921/000143774925029175/0001437749-25-029175.txt
 2025-09-16 20:41:08 | 8-K - Aditxt, Inc. (0001726711) (Filer) | 2025-09-16T16:34:05-04:00 | https://www.sec.gov/Archives/edgar/data/1726711/000121390025088210/0001213900-25-088210.txt
+2025-09-16 20:50:17 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-16T16:48:06-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925090456/0001104659-25-090456.txt
+2025-09-16 20:50:20 | 8-K - AT&T INC. (0000732717) (Filer) | 2025-09-16T16:47:23-04:00 | https://www.sec.gov/Archives/edgar/data/732717/000119312525205072/0001193125-25-205072.txt
+2025-09-16 20:50:22 | 8-K - MERCADOLIBRE INC (0001099590) (Filer) | 2025-09-16T16:46:32-04:00 | https://www.sec.gov/Archives/edgar/data/1099590/000109959025000046/0001099590-25-000046.txt
+2025-09-16 20:50:24 | 8-K - BullFrog AI Holdings, Inc. (0001829247) (Filer) | 2025-09-16T16:46:23-04:00 | https://www.sec.gov/Archives/edgar/data/1829247/000149315225013729/0001493152-25-013729.txt
+2025-09-16 20:50:26 | 8-K - Rhinebeck Bancorp, Inc. (0001751783) (Filer) | 2025-09-16T16:45:18-04:00 | https://www.sec.gov/Archives/edgar/data/1751783/000094337425000402/0000943374-25-000402.txt
+2025-09-16 20:50:26 | 8-K/A - Morgan Stanley Bank of America Merrill Lynch Trust 2025-C35 (0002067195) (Filer) | 2025-09-16T16:44:55-04:00 | https://www.sec.gov/Archives/edgar/data/2067195/000153949725002371/0001539497-25-002371.txt
+2025-09-16 20:50:28 | 8-K - Outdoor Holding Co (0001015383) (Filer) | 2025-09-16T16:43:30-04:00 | https://www.sec.gov/Archives/edgar/data/1015383/000149315225013726/0001493152-25-013726.txt
+2025-09-16 20:50:30 | 8-K - HWH International Inc. (0001897245) (Filer) | 2025-09-16T16:42:15-04:00 | https://www.sec.gov/Archives/edgar/data/1897245/000149315225013724/0001493152-25-013724.txt
+2025-09-16 20:50:32 | 8-K - Medtronic plc (0001613103) (Filer) | 2025-09-16T16:41:16-04:00 | https://www.sec.gov/Archives/edgar/data/1613103/000119312525205061/0001193125-25-205061.txt
