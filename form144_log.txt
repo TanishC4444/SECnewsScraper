@@ -3610,3 +3610,5 @@
 2025-09-16 19:32:57 | White Derek J | Officer | Shares: 36190 | Value: $976,742.77 | Percent: 0.003022% | Link: https://www.sec.gov/Archives/edgar/data/1778401/000195917325006040/0001959173-25-006040.txt
 2025-09-16 19:32:59 | Parks Robert | Officer | Shares: 7338 | Value: $73,007.96 | Percent: 0.008081% | Link: https://www.sec.gov/Archives/edgar/data/1965040/000195917325006039/0001959173-25-006039.txt
 2025-09-16 19:33:00 | Parks Robert | Officer | Shares: 7338 | Value: $73,007.96 | Percent: 0.008081% | Link: https://www.sec.gov/Archives/edgar/data/1707662/000195917325006039/0001959173-25-006039.txt
+2025-09-16 19:41:56 | Haycraft Benjamin Toby Patrick | Officer | Shares: 10972 | Value: $17,445.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/2085249/000100027525000136/0001000275-25-000136.txt
+2025-09-16 19:41:58 | Haycraft Benjamin Toby Patrick | Officer | Shares: 10972 | Value: $17,445.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/1093691/000100027525000136/0001000275-25-000136.txt
