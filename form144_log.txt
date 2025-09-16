@@ -3596,3 +3596,11 @@
 2025-09-16 18:13:40 | Mathias Michael A. | Officer | Shares: 40471 | Value: $809,420.0 | Percent: 0.023899% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325006033/0001959173-25-006033.txt
 2025-09-16 18:53:05 | MARC H BERMAN | FAMILY MEMBER | Shares: 72000 | Value: $11,346,000.0 | Percent: 0.235801% | Link: https://www.sec.gov/Archives/edgar/data/1206109/000120610925000006/0001206109-25-000006.txt
 2025-09-16 18:53:06 | MARC H BERMAN | FAMILY MEMBER | Shares: 72000 | Value: $11,346,000.0 | Percent: 0.235801% | Link: https://www.sec.gov/Archives/edgar/data/868780/000120610925000006/0001206109-25-000006.txt
+2025-09-16 19:23:14 | Keough Kelli | Officer | Shares: 61364 | Value: $1,656,171.41 | Percent: 0.005125% | Link: https://www.sec.gov/Archives/edgar/data/2032458/000195917325006038/0001959173-25-006038.txt
+2025-09-16 19:23:15 | Keough Kelli | Officer | Shares: 61364 | Value: $1,656,171.41 | Percent: 0.005125% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006038/0001959173-25-006038.txt
+2025-09-16 19:23:16 | Rishel Jeremy | Officer | Shares: 142578 | Value: $3,848,080.42 | Percent: 0.011907% | Link: https://www.sec.gov/Archives/edgar/data/1934200/000195917325006037/0001959173-25-006037.txt
+2025-09-16 19:23:16 | Rishel Jeremy | Officer | Shares: 142578 | Value: $3,848,080.42 | Percent: 0.011907% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006037/0001959173-25-006037.txt
+2025-09-16 19:23:18 | STEVEN L BERMAN | BOARD MEMBER | Shares: 144000 | Value: $22,896,000.0 | Percent: 0.471602% | Link: https://www.sec.gov/Archives/edgar/data/1205405/000120540525000004/0001205405-25-000004.txt
+2025-09-16 19:23:19 | STEVEN L BERMAN | BOARD MEMBER | Shares: 144000 | Value: $22,896,000.0 | Percent: 0.471602% | Link: https://www.sec.gov/Archives/edgar/data/868780/000120540525000004/0001205405-25-000004.txt
+2025-09-16 19:23:20 | Pinto Arun | Officer | Shares: 5743 | Value: $154,999.55 | Percent: 0.000480% | Link: https://www.sec.gov/Archives/edgar/data/2012135/000195917325006035/0001959173-25-006035.txt
+2025-09-16 19:23:21 | Pinto Arun | Officer | Shares: 5743 | Value: $154,999.55 | Percent: 0.000480% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006035/0001959173-25-006035.txt
