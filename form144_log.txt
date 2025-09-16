@@ -3574,3 +3574,7 @@
 2025-09-16 14:42:09 | COLLIS STEVEN H | Director | Shares: 31350 | Value: $9,140,092.5 | Percent: 0.016170% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325006022/0001959173-25-006022.txt
 2025-09-16 15:01:02 | Hohenstein Ken | Officer | Shares: 40000 | Value: $740,000.0 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/2031265/000195917325006026/0001959173-25-006026.txt
 2025-09-16 15:01:03 | Hohenstein Ken | Officer | Shares: 40000 | Value: $740,000.0 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325006026/0001959173-25-006026.txt
+2025-09-16 15:28:21 | Slootman Frank | Director | Shares: 7551 | Value: $1,670,583.24 | Percent: 0.002229% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006028/0001959173-25-006028.txt
+2025-09-16 15:28:22 | Slootman Frank | Director | Shares: 7551 | Value: $1,670,583.24 | Percent: 0.002229% | Link: https://www.sec.gov/Archives/edgar/data/1402348/000195917325006028/0001959173-25-006028.txt
+2025-09-16 15:28:35 | BURKE JAMES A | Officer | Shares: 21358 | Value: $4,565,882.35 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006027/0001959173-25-006027.txt
+2025-09-16 15:28:36 | BURKE JAMES A | Officer | Shares: 21358 | Value: $4,565,882.35 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006027/0001959173-25-006027.txt
