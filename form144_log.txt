@@ -3710,3 +3710,5 @@
 2025-09-17 15:57:24 | Smith Joelle M | Officer | Shares: 9900 | Value: $155,467.66 | Percent: 0.005690% | Link: https://www.sec.gov/Archives/edgar/data/1210677/000195917325006069/0001959173-25-006069.txt
 2025-09-17 16:44:01 | Aryeh Jason | Director | Shares: 10000 | Value: $1,685,000.0 | Percent: 0.051029% | Link: https://www.sec.gov/Archives/edgar/data/1376960/000194984625000485/0001949846-25-000485.txt
 2025-09-17 16:44:02 | Aryeh Jason | Director | Shares: 10000 | Value: $1,685,000.0 | Percent: 0.051029% | Link: https://www.sec.gov/Archives/edgar/data/886163/000194984625000485/0001949846-25-000485.txt
+2025-09-17 16:54:01 | Dudum Andrew | Officer | Shares: 65110 | Value: $3,292,903.57 | Percent: 0.029916% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325006070/0001959173-25-006070.txt
+2025-09-17 16:54:02 | Dudum Andrew | Officer | Shares: 65110 | Value: $3,292,903.57 | Percent: 0.029916% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006070/0001959173-25-006070.txt
