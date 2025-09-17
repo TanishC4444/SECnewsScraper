@@ -3738,3 +3738,7 @@
 2025-09-17 19:39:36 | Koenig Sheldon L. | Officer | Shares: 28427 | Value: $79,240.27 | Percent: 0.014099% | Link: https://www.sec.gov/Archives/edgar/data/1434868/000195917325006080/0001959173-25-006080.txt
 2025-09-17 19:39:37 | Halladay Benjamin | Officer | Shares: 7046 | Value: $19,788.69 | Percent: 0.003495% | Link: https://www.sec.gov/Archives/edgar/data/1953943/000195917325006079/0001959173-25-006079.txt
 2025-09-17 19:39:37 | Halladay Benjamin | Officer | Shares: 7046 | Value: $19,788.69 | Percent: 0.003495% | Link: https://www.sec.gov/Archives/edgar/data/1434868/000195917325006079/0001959173-25-006079.txt
+2025-09-17 19:49:15 | Matrix Trust Co | Trustee for the Arthur J Gallagher Rabbi Trust | Shares: 15000 | Value: $4,371,900.0 | Percent: 0.005850% | Link: https://www.sec.gov/Archives/edgar/data/1784277/000178427725000008/0001784277-25-000008.txt
+2025-09-17 19:49:15 | Matrix Trust Co | Trustee for the Arthur J Gallagher Rabbi Trust | Shares: 15000 | Value: $4,371,900.0 | Percent: 0.005850% | Link: https://www.sec.gov/Archives/edgar/data/354190/000178427725000008/0001784277-25-000008.txt
+2025-09-17 19:49:17 | Sabino Anthony John | Officer | Shares: 96062 | Value: $65,946.56 | Percent: 0.099417% | Link: https://www.sec.gov/Archives/edgar/data/2008679/000195917325006081/0001959173-25-006081.txt
+2025-09-17 19:49:18 | Sabino Anthony John | Officer | Shares: 96062 | Value: $65,946.56 | Percent: 0.099417% | Link: https://www.sec.gov/Archives/edgar/data/1102993/000195917325006081/0001959173-25-006081.txt
