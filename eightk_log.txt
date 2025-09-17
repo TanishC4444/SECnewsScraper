@@ -4420,3 +4420,4 @@
 2025-09-17 13:40:37 | 8-K - HilleVax, Inc. (0001888012) (Filer) | 2025-09-17T09:24:18-04:00 | https://www.sec.gov/Archives/edgar/data/1888012/000119312525205570/0001193125-25-205570.txt
 2025-09-17 14:39:48 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-17T10:28:39-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000178/0001325814-25-000178.txt
 2025-09-17 15:48:00 | 8-K - AVADEL PHARMACEUTICALS PLC (0001012477) (Filer) | 2025-09-17T11:47:06-04:00 | https://www.sec.gov/Archives/edgar/data/1012477/000110465925090694/0001104659-25-090694.txt
+2025-09-17 15:57:21 | 8-K - Sealy Industrial Partners IV, LP (0001929017) (Filer) | 2025-09-17T11:56:02-04:00 | https://www.sec.gov/Archives/edgar/data/1929017/000192901725000021/0001929017-25-000021.txt

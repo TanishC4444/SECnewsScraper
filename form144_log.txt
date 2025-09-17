@@ -3706,3 +3706,5 @@
 2025-09-17 15:38:26 | WILLIAMS KEVIN BRYAN | Director | Shares: 6171885 | Value: $142,236.0 | Percent: 0.167837% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000193473725000004/0001934737-25-000004.txt
 2025-09-17 15:38:27 | BURKE JAMES A | Officer | Shares: 21361 | Value: $4,540,506.03 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006067/0001959173-25-006067.txt
 2025-09-17 15:38:28 | BURKE JAMES A | Officer | Shares: 21361 | Value: $4,540,506.03 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006067/0001959173-25-006067.txt
+2025-09-17 15:57:23 | Smith Joelle M | Officer | Shares: 9900 | Value: $155,467.66 | Percent: 0.005690% | Link: https://www.sec.gov/Archives/edgar/data/1927987/000195917325006069/0001959173-25-006069.txt
+2025-09-17 15:57:24 | Smith Joelle M | Officer | Shares: 9900 | Value: $155,467.66 | Percent: 0.005690% | Link: https://www.sec.gov/Archives/edgar/data/1210677/000195917325006069/0001959173-25-006069.txt
