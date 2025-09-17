@@ -3718,3 +3718,11 @@
 2025-09-17 17:40:57 | WIRTH JAMES F | Officer | Shares: 115861 | Value: $238,673.66 | Percent: 1.317905% | Link: https://www.sec.gov/Archives/edgar/data/82473/000194984625000486/0001949846-25-000486.txt
 2025-09-17 17:50:02 | Bealmear Richard Craig | Officer | Shares: 46203 | Value: $4,296,974.76 | Percent: 0.031301% | Link: https://www.sec.gov/Archives/edgar/data/1855623/000195917325006072/0001959173-25-006072.txt
 2025-09-17 17:50:03 | Bealmear Richard Craig | Officer | Shares: 46203 | Value: $4,296,974.76 | Percent: 0.031301% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000195917325006072/0001959173-25-006072.txt
+2025-09-17 18:34:24 | BERMAN LYLE | 10% Stockholder | Shares: 99402 | Value: $738,492.4 | Percent: 0.121003% | Link: https://www.sec.gov/Archives/edgar/data/1425355/000090329125000004/0000903291-25-000004.txt
+2025-09-17 18:34:24 | BERMAN LYLE | 10% Stockholder | Shares: 99402 | Value: $738,492.4 | Percent: 0.121003% | Link: https://www.sec.gov/Archives/edgar/data/903291/000090329125000004/0000903291-25-000004.txt
+2025-09-17 18:34:27 | Kutasi Leslie T | Director | Shares: 20000 | Value: $41,400.0 | Percent: 0.227498% | Link: https://www.sec.gov/Archives/edgar/data/1568182/000194984625000488/0001949846-25-000488.txt
+2025-09-17 18:34:28 | Kutasi Leslie T | Director | Shares: 20000 | Value: $41,400.0 | Percent: 0.227498% | Link: https://www.sec.gov/Archives/edgar/data/82473/000194984625000488/0001949846-25-000488.txt
+2025-09-17 18:34:30 | GOODSON JOHN PAGE | Officer | Shares: 150000 | Value: $1,438,671.36 | Percent: 0.023079% | Link: https://www.sec.gov/Archives/edgar/data/1818201/000195917325006073/0001959173-25-006073.txt
+2025-09-17 18:34:31 | GOODSON JOHN PAGE | Officer | Shares: 150000 | Value: $1,438,671.36 | Percent: 0.023079% | Link: https://www.sec.gov/Archives/edgar/data/1421872/000195917325006073/0001959173-25-006073.txt
+2025-09-17 18:34:33 | JANE PRIOR | Officer | Shares: 10000 | Value: $399,800.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1886154/000195004725007240/0001950047-25-007240.txt
+2025-09-17 18:34:34 | JANE PRIOR | Officer | Shares: 10000 | Value: $399,800.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007240/0001950047-25-007240.txt
