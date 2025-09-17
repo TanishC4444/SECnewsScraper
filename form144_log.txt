@@ -3712,3 +3712,5 @@
 2025-09-17 16:44:02 | Aryeh Jason | Director | Shares: 10000 | Value: $1,685,000.0 | Percent: 0.051029% | Link: https://www.sec.gov/Archives/edgar/data/886163/000194984625000485/0001949846-25-000485.txt
 2025-09-17 16:54:01 | Dudum Andrew | Officer | Shares: 65110 | Value: $3,292,903.57 | Percent: 0.029916% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325006070/0001959173-25-006070.txt
 2025-09-17 16:54:02 | Dudum Andrew | Officer | Shares: 65110 | Value: $3,292,903.57 | Percent: 0.029916% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006070/0001959173-25-006070.txt
+2025-09-17 17:29:40 | Lauro Emanuele | Officer | Shares: 151304 | Value: $9,297,630.8 | Percent: 0.296580% | Link: https://www.sec.gov/Archives/edgar/data/1978586/000197858625000002/0001978586-25-000002.txt
+2025-09-17 17:29:41 | Lauro Emanuele | Officer | Shares: 151304 | Value: $9,297,630.8 | Percent: 0.296580% | Link: https://www.sec.gov/Archives/edgar/data/1483934/000197858625000002/0001978586-25-000002.txt
