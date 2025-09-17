@@ -4429,3 +4429,4 @@
 2025-09-17 17:59:00 | 8-K - POTOMAC ELECTRIC POWER CO (0000079732) (Filer) | 2025-09-17T13:54:56-04:00 | https://www.sec.gov/Archives/edgar/data/79732/000007973225000011/0000079732-25-000011.txt
 2025-09-17 18:34:22 | 8-K - Redwood Enhanced Income Corp. (0001870267) (Filer) | 2025-09-17T14:03:46-04:00 | https://www.sec.gov/Archives/edgar/data/1870267/000110465925090749/0001104659-25-090749.txt
 2025-09-17 18:34:23 | 8-K - UBS Commercial Mortgage Trust 2017-C4 (0001716263) (Filer) | 2025-09-17T13:59:32-04:00 | https://www.sec.gov/Archives/edgar/data/1716263/000188852425016022/0001888524-25-016022.txt
+2025-09-17 18:50:21 | 8-K - Bit Digital, Inc (0001710350) (Filer) | 2025-09-17T14:42:26-04:00 | https://www.sec.gov/Archives/edgar/data/1710350/000121390025088495/0001213900-25-088495.txt
