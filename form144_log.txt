@@ -3756,3 +3756,7 @@
 2025-09-17 20:39:14 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $342,000.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007288/0001950047-25-007288.txt
 2025-09-17 20:39:15 | CHARLES VAN ES | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1886344/000195004725007287/0001950047-25-007287.txt
 2025-09-17 20:39:18 | CHARLES VAN ES | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007287/0001950047-25-007287.txt
+2025-09-17 20:47:57 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 20097 | Value: $311,909.46 | Percent: 0.021512% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007291/0001950047-25-007291.txt
+2025-09-17 20:47:58 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 20097 | Value: $311,909.46 | Percent: 0.021512% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007291/0001950047-25-007291.txt
+2025-09-17 20:47:59 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 14989 | Value: $232,632.28 | Percent: 0.016044% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007290/0001950047-25-007290.txt
+2025-09-17 20:48:00 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 14989 | Value: $232,632.28 | Percent: 0.016044% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007290/0001950047-25-007290.txt

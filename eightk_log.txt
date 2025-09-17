@@ -4454,3 +4454,12 @@
 2025-09-17 20:38:55 | 8-K - Atlassian Corp (0001650372) (Filer) | 2025-09-17T16:32:34-04:00 | https://www.sec.gov/Archives/edgar/data/1650372/000165037225000047/0001650372-25-000047.txt
 2025-09-17 20:38:58 | 8-K - Professional Diversity Network, Inc. (0001546296) (Filer) | 2025-09-17T16:32:10-04:00 | https://www.sec.gov/Archives/edgar/data/1546296/000143774925029303/0001437749-25-029303.txt
 2025-09-17 20:39:01 | 8-K - NRG ENERGY, INC. (0001013871) (Filer) | 2025-09-17T16:31:40-04:00 | https://www.sec.gov/Archives/edgar/data/1013871/000110465925090857/0001104659-25-090857.txt
+2025-09-17 20:47:44 | 8-K - HeartSciences Inc. (0001468492) (Filer) | 2025-09-17T16:47:01-04:00 | https://www.sec.gov/Archives/edgar/data/1468492/000119312525206295/0001193125-25-206295.txt
+2025-09-17 20:47:46 | 8-K - Grayscale Stellar Lumens Trust (XLM) (0001761325) (Filer) | 2025-09-17T16:45:35-04:00 | https://www.sec.gov/Archives/edgar/data/1761325/000119312525206291/0001193125-25-206291.txt
+2025-09-17 20:47:47 | 8-K - PMGC Holdings Inc. (0001840563) (Filer) | 2025-09-17T16:44:56-04:00 | https://www.sec.gov/Archives/edgar/data/1840563/000121390025088599/0001213900-25-088599.txt
+2025-09-17 20:47:49 | 8-K - Banzai International, Inc. (0001826011) (Filer) | 2025-09-17T16:44:25-04:00 | https://www.sec.gov/Archives/edgar/data/1826011/000149315225013900/0001493152-25-013900.txt
+2025-09-17 20:47:50 | 8-K - CenterPoint Energy Restoration Bond Co II, LLC (0002072436) (Filer) | 2025-09-17T16:44:01-04:00 | https://www.sec.gov/Archives/edgar/data/2072436/000110465925090869/0001104659-25-090869.txt
+2025-09-17 20:47:50 | 8-K - CENTERPOINT ENERGY HOUSTON ELECTRIC LLC (0000048732) (Filer) | 2025-09-17T16:44:01-04:00 | https://www.sec.gov/Archives/edgar/data/48732/000110465925090869/0001104659-25-090869.txt
+2025-09-17 20:47:52 | 8-K - Hyperscale Data, Inc. (0000896493) (Filer) | 2025-09-17T16:40:17-04:00 | https://www.sec.gov/Archives/edgar/data/896493/000121465925013877/0001214659-25-013877.txt
+2025-09-17 20:47:54 | 8-K - ESSENTIAL PROPERTIES REALTY TRUST, INC. (0001728951) (Filer) | 2025-09-17T16:39:16-04:00 | https://www.sec.gov/Archives/edgar/data/1728951/000172895125000169/0001728951-25-000169.txt
+2025-09-17 20:47:55 | 8-K - MetroCity Bankshares, Inc. (0001747068) (Filer) | 2025-09-17T16:38:55-04:00 | https://www.sec.gov/Archives/edgar/data/1747068/000174706825000053/0001747068-25-000053.txt
