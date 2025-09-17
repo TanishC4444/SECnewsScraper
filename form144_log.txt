@@ -3682,3 +3682,5 @@
 2025-09-17 10:40:50 | Shai Omer | Officer | Shares: 6945 | Value: $1,186,692.15 | Percent: 0.012378% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000312/0001976408-25-000312.txt
 2025-09-17 13:40:38 | Arroyo Ian | Officer | Shares: 18606 | Value: $56,190.12 | Percent: 0.037416% | Link: https://www.sec.gov/Archives/edgar/data/1976393/000197640825000314/0001976408-25-000314.txt
 2025-09-17 13:40:38 | Arroyo Ian | Officer | Shares: 18606 | Value: $56,190.12 | Percent: 0.037416% | Link: https://www.sec.gov/Archives/edgar/data/1927719/000197640825000314/0001976408-25-000314.txt
+2025-09-17 13:59:20 | Becklund Irene | Officer | Shares: 8410 | Value: $424,705.0 | Percent: 0.003864% | Link: https://www.sec.gov/Archives/edgar/data/1894602/000195917325006059/0001959173-25-006059.txt
+2025-09-17 13:59:21 | Becklund Irene | Officer | Shares: 8410 | Value: $424,705.0 | Percent: 0.003864% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006059/0001959173-25-006059.txt
