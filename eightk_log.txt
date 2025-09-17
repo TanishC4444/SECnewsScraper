@@ -4384,3 +4384,8 @@
 2025-09-17 10:25:38 | 8-K - Axos Financial, Inc. (0001299709) (Filer) | 2025-09-16T21:55:43-04:00 | https://www.sec.gov/Archives/edgar/data/1299709/000129970925000157/0001299709-25-000157.txt
 2025-09-17 10:25:39 | 8-K - Chord Energy Corp (0001486159) (Filer) | 2025-09-16T21:25:45-04:00 | https://www.sec.gov/Archives/edgar/data/1486159/000119312525205343/0001193125-25-205343.txt
 2025-09-17 10:25:41 | 8-K - Trailblazer Merger Corp I (0001934945) (Filer) | 2025-09-16T21:11:59-04:00 | https://www.sec.gov/Archives/edgar/data/1934945/000121390025088325/0001213900-25-088325.txt
+2025-09-17 11:19:20 | 8-K - ADTRAN Holdings, Inc. (0000926282) (Filer) | 2025-09-17T07:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/926282/000119312525205483/0001193125-25-205483.txt
+2025-09-17 11:19:22 | 8-K - GENERAL MILLS INC (0000040704) (Filer) | 2025-09-17T07:05:18-04:00 | https://www.sec.gov/Archives/edgar/data/40704/000119312525205477/0001193125-25-205477.txt
+2025-09-17 11:19:23 | 8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer) | 2025-09-17T07:05:17-04:00 | https://www.sec.gov/Archives/edgar/data/1430306/000199937125013413/0001999371-25-013413.txt
+2025-09-17 11:19:25 | 8-K - X4 Pharmaceuticals, Inc (0001501697) (Filer) | 2025-09-17T07:03:30-04:00 | https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/0001501697-25-000021.txt
+2025-09-17 11:19:26 | 8-K - Opendoor Technologies Inc. (0001801169) (Filer) | 2025-09-17T07:01:25-04:00 | https://www.sec.gov/Archives/edgar/data/1801169/000180116925000082/0001801169-25-000082.txt
