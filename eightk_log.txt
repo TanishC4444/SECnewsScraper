@@ -4389,3 +4389,4 @@
 2025-09-17 11:19:23 | 8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer) | 2025-09-17T07:05:17-04:00 | https://www.sec.gov/Archives/edgar/data/1430306/000199937125013413/0001999371-25-013413.txt
 2025-09-17 11:19:25 | 8-K - X4 Pharmaceuticals, Inc (0001501697) (Filer) | 2025-09-17T07:03:30-04:00 | https://www.sec.gov/Archives/edgar/data/1501697/000150169725000021/0001501697-25-000021.txt
 2025-09-17 11:19:26 | 8-K - Opendoor Technologies Inc. (0001801169) (Filer) | 2025-09-17T07:01:25-04:00 | https://www.sec.gov/Archives/edgar/data/1801169/000180116925000082/0001801169-25-000082.txt
+2025-09-17 11:29:09 | 8-K - IonQ, Inc. (0001824920) (Filer) | 2025-09-17T07:23:20-04:00 | https://www.sec.gov/Archives/edgar/data/1824920/000119312525205489/0001193125-25-205489.txt
