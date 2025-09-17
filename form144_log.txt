@@ -3702,3 +3702,7 @@
 2025-09-17 15:24:02 | Thiel Frederick G | Officer | Shares: 27505 | Value: $478,036.9 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006065/0001959173-25-006065.txt
 2025-09-17 15:24:04 | Sadowsky Kenneth | Director | Shares: 21700 | Value: $1,068,399.0 | Percent: 0.038189% | Link: https://www.sec.gov/Archives/edgar/data/1886372/000194984625000483/0001949846-25-000483.txt
 2025-09-17 15:24:06 | Sadowsky Kenneth | Director | Shares: 21700 | Value: $1,068,399.0 | Percent: 0.038189% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000194984625000483/0001949846-25-000483.txt
+2025-09-17 15:38:24 | WILLIAMS KEVIN BRYAN | Director | Shares: 6171885 | Value: $142,236.0 | Percent: 0.167837% | Link: https://www.sec.gov/Archives/edgar/data/1934737/000193473725000004/0001934737-25-000004.txt
+2025-09-17 15:38:26 | WILLIAMS KEVIN BRYAN | Director | Shares: 6171885 | Value: $142,236.0 | Percent: 0.167837% | Link: https://www.sec.gov/Archives/edgar/data/1410738/000193473725000004/0001934737-25-000004.txt
+2025-09-17 15:38:27 | BURKE JAMES A | Officer | Shares: 21361 | Value: $4,540,506.03 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006067/0001959173-25-006067.txt
+2025-09-17 15:38:28 | BURKE JAMES A | Officer | Shares: 21361 | Value: $4,540,506.03 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006067/0001959173-25-006067.txt
