@@ -3734,3 +3734,7 @@
 2025-09-17 19:19:30 | Bealmear Richard Craig | Officer | Shares: 46175 | Value: $4,361,228.75 | Percent: 0.031282% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000195917325006075/0001959173-25-006075.txt
 2025-09-17 19:28:33 | Looker Benjamin | Officer | Shares: 6267 | Value: $17,575.8 | Percent: 0.003108% | Link: https://www.sec.gov/Archives/edgar/data/1859509/000195917325006078/0001959173-25-006078.txt
 2025-09-17 19:28:34 | Looker Benjamin | Officer | Shares: 6267 | Value: $17,575.8 | Percent: 0.003108% | Link: https://www.sec.gov/Archives/edgar/data/1434868/000195917325006078/0001959173-25-006078.txt
+2025-09-17 19:39:35 | Koenig Sheldon L. | Officer | Shares: 28427 | Value: $79,240.27 | Percent: 0.014099% | Link: https://www.sec.gov/Archives/edgar/data/1766524/000195917325006080/0001959173-25-006080.txt
+2025-09-17 19:39:36 | Koenig Sheldon L. | Officer | Shares: 28427 | Value: $79,240.27 | Percent: 0.014099% | Link: https://www.sec.gov/Archives/edgar/data/1434868/000195917325006080/0001959173-25-006080.txt
+2025-09-17 19:39:37 | Halladay Benjamin | Officer | Shares: 7046 | Value: $19,788.69 | Percent: 0.003495% | Link: https://www.sec.gov/Archives/edgar/data/1953943/000195917325006079/0001959173-25-006079.txt
+2025-09-17 19:39:37 | Halladay Benjamin | Officer | Shares: 7046 | Value: $19,788.69 | Percent: 0.003495% | Link: https://www.sec.gov/Archives/edgar/data/1434868/000195917325006079/0001959173-25-006079.txt
