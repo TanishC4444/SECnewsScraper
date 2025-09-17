@@ -3714,3 +3714,5 @@
 2025-09-17 16:54:02 | Dudum Andrew | Officer | Shares: 65110 | Value: $3,292,903.57 | Percent: 0.029916% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006070/0001959173-25-006070.txt
 2025-09-17 17:29:40 | Lauro Emanuele | Officer | Shares: 151304 | Value: $9,297,630.8 | Percent: 0.296580% | Link: https://www.sec.gov/Archives/edgar/data/1978586/000197858625000002/0001978586-25-000002.txt
 2025-09-17 17:29:41 | Lauro Emanuele | Officer | Shares: 151304 | Value: $9,297,630.8 | Percent: 0.296580% | Link: https://www.sec.gov/Archives/edgar/data/1483934/000197858625000002/0001978586-25-000002.txt
+2025-09-17 17:40:56 | WIRTH JAMES F | Officer | Shares: 115861 | Value: $238,673.66 | Percent: 1.317905% | Link: https://www.sec.gov/Archives/edgar/data/1055365/000194984625000486/0001949846-25-000486.txt
+2025-09-17 17:40:57 | WIRTH JAMES F | Officer | Shares: 115861 | Value: $238,673.66 | Percent: 1.317905% | Link: https://www.sec.gov/Archives/edgar/data/82473/000194984625000486/0001949846-25-000486.txt
