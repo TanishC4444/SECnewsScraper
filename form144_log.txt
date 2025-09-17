@@ -3694,3 +3694,7 @@
 2025-09-17 14:23:33 | Saba Capital Management, L.P. | Investment Manager | Shares: 154558 | Value: $1,404,932.22 | Percent: 0.557649% | Link: https://www.sec.gov/Archives/edgar/data/828803/000151028125000484/0001510281-25-000484.txt
 2025-09-17 14:23:34 | Chi Michael | Officer | Shares: 13749 | Value: $694,324.5 | Percent: 0.006317% | Link: https://www.sec.gov/Archives/edgar/data/1965903/000195917325006060/0001959173-25-006060.txt
 2025-09-17 14:23:35 | Chi Michael | Officer | Shares: 13749 | Value: $694,324.5 | Percent: 0.006317% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006060/0001959173-25-006060.txt
+2025-09-17 14:39:50 | Sheena Jonathan | Director | Shares: 9210 | Value: $1,620,445.0 | Percent: 0.006710% | Link: https://www.sec.gov/Archives/edgar/data/1646649/000194984625000482/0001949846-25-000482.txt
+2025-09-17 14:39:51 | Sheena Jonathan | Director | Shares: 9210 | Value: $1,620,445.0 | Percent: 0.006710% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000194984625000482/0001949846-25-000482.txt
+2025-09-17 14:39:53 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 363541 | Value: $2,672,026.35 | Percent: 0.326748% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000037/0001178937-25-000037.txt
+2025-09-17 14:39:54 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 363541 | Value: $2,672,026.35 | Percent: 0.326748% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000037/0001178937-25-000037.txt
