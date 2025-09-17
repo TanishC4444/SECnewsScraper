@@ -4463,3 +4463,13 @@
 2025-09-17 20:47:52 | 8-K - Hyperscale Data, Inc. (0000896493) (Filer) | 2025-09-17T16:40:17-04:00 | https://www.sec.gov/Archives/edgar/data/896493/000121465925013877/0001214659-25-013877.txt
 2025-09-17 20:47:54 | 8-K - ESSENTIAL PROPERTIES REALTY TRUST, INC. (0001728951) (Filer) | 2025-09-17T16:39:16-04:00 | https://www.sec.gov/Archives/edgar/data/1728951/000172895125000169/0001728951-25-000169.txt
 2025-09-17 20:47:55 | 8-K - MetroCity Bankshares, Inc. (0001747068) (Filer) | 2025-09-17T16:38:55-04:00 | https://www.sec.gov/Archives/edgar/data/1747068/000174706825000053/0001747068-25-000053.txt
+2025-09-17 20:57:30 | 8-K - XPEL, Inc. (0001767258) (Filer) | 2025-09-17T16:56:33-04:00 | https://www.sec.gov/Archives/edgar/data/1767258/000176725825000054/0001767258-25-000054.txt
+2025-09-17 20:57:32 | 8-K - Pangaea Logistics Solutions Ltd. (0001606909) (Filer) | 2025-09-17T16:54:31-04:00 | https://www.sec.gov/Archives/edgar/data/1606909/000160690925000154/0001606909-25-000154.txt
+2025-09-17 20:57:33 | 8-K - Atlanticus Holdings Corp (0001464343) (Filer) | 2025-09-17T16:53:39-04:00 | https://www.sec.gov/Archives/edgar/data/1464343/000143774925029311/0001437749-25-029311.txt
+2025-09-17 20:57:34 | 8-K/A - Bio Green Med Solution, Inc. (0001130166) (Filer) | 2025-09-17T16:53:39-04:00 | https://www.sec.gov/Archives/edgar/data/1130166/000149315225013902/0001493152-25-013902.txt
+2025-09-17 20:57:35 | 8-K - Muzinich BDC, Inc. (0001779523) (Filer) | 2025-09-17T16:51:15-04:00 | https://www.sec.gov/Archives/edgar/data/1779523/000121390025088610/0001213900-25-088610.txt
+2025-09-17 20:57:37 | 8-K - California Resources Corp (0001609253) (Filer) | 2025-09-17T16:50:55-04:00 | https://www.sec.gov/Archives/edgar/data/1609253/000160925325000076/0001609253-25-000076.txt
+2025-09-17 20:57:39 | 8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer) | 2025-09-17T16:50:53-04:00 | https://www.sec.gov/Archives/edgar/data/1218683/000117184325005942/0001171843-25-005942.txt
+2025-09-17 20:57:40 | 8-K - Albertsons Companies, Inc. (0001646972) (Filer) | 2025-09-17T16:50:36-04:00 | https://www.sec.gov/Archives/edgar/data/1646972/000164697225000073/0001646972-25-000073.txt
+2025-09-17 20:57:41 | 8-K - Verizon Master Trust (0001844964) (Filer) | 2025-09-17T16:49:00-04:00 | https://www.sec.gov/Archives/edgar/data/1844964/000092963825003504/0000929638-25-003504.txt
+2025-09-17 20:57:41 | 8-K - Verizon ABS II LLC (0001836995) (Filer) | 2025-09-17T16:49:00-04:00 | https://www.sec.gov/Archives/edgar/data/1836995/000092963825003504/0000929638-25-003504.txt
