@@ -3744,3 +3744,7 @@
 2025-09-17 19:49:18 | Sabino Anthony John | Officer | Shares: 96062 | Value: $65,946.56 | Percent: 0.099417% | Link: https://www.sec.gov/Archives/edgar/data/1102993/000195917325006081/0001959173-25-006081.txt
 2025-09-17 19:58:40 | Domino Michael Wayne Jr. | Officer | Shares: 52075 | Value: $170,806.0 | Percent: 0.146032% | Link: https://www.sec.gov/Archives/edgar/data/1981953/000197407825000313/0001974078-25-000313.txt
 2025-09-17 19:58:40 | Domino Michael Wayne Jr. | Officer | Shares: 52075 | Value: $170,806.0 | Percent: 0.146032% | Link: https://www.sec.gov/Archives/edgar/data/1884516/000197407825000313/0001974078-25-000313.txt
+2025-09-17 20:24:58 | BRUCE N. JACOBS | Officer | Shares: 79220 | Value: $3,864,351.6 | Percent: 0.110801% | Link: https://www.sec.gov/Archives/edgar/data/1821074/000195004725007269/0001950047-25-007269.txt
+2025-09-17 20:25:00 | BRUCE N. JACOBS | Officer | Shares: 79220 | Value: $3,864,351.6 | Percent: 0.110801% | Link: https://www.sec.gov/Archives/edgar/data/1815442/000195004725007269/0001950047-25-007269.txt
+2025-09-17 20:25:02 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,149,200.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1600033/000195004725007268/0001950047-25-007268.txt
+2025-09-17 20:25:03 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,149,200.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1448992/000195004725007268/0001950047-25-007268.txt
