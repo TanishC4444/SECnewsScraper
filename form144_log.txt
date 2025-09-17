@@ -3684,3 +3684,13 @@
 2025-09-17 13:40:38 | Arroyo Ian | Officer | Shares: 18606 | Value: $56,190.12 | Percent: 0.037416% | Link: https://www.sec.gov/Archives/edgar/data/1927719/000197640825000314/0001976408-25-000314.txt
 2025-09-17 13:59:20 | Becklund Irene | Officer | Shares: 8410 | Value: $424,705.0 | Percent: 0.003864% | Link: https://www.sec.gov/Archives/edgar/data/1894602/000195917325006059/0001959173-25-006059.txt
 2025-09-17 13:59:21 | Becklund Irene | Officer | Shares: 8410 | Value: $424,705.0 | Percent: 0.003864% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006059/0001959173-25-006059.txt
+2025-09-17 14:23:26 | Carroll Patrick Harrison | Officer | Shares: 10021 | Value: $506,060.5 | Percent: 0.004604% | Link: https://www.sec.gov/Archives/edgar/data/1839736/000195917325006062/0001959173-25-006062.txt
+2025-09-17 14:23:27 | Carroll Patrick Harrison | Officer | Shares: 10021 | Value: $506,060.5 | Percent: 0.004604% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006062/0001959173-25-006062.txt
+2025-09-17 14:23:29 | Filson Brandon | Officer | Shares: 50000 | Value: $484,000.0 | Percent: 0.210392% | Link: https://www.sec.gov/Archives/edgar/data/1866903/000194984625000481/0001949846-25-000481.txt
+2025-09-17 14:23:30 | Filson Brandon | Officer | Shares: 50000 | Value: $484,000.0 | Percent: 0.210392% | Link: https://www.sec.gov/Archives/edgar/data/1766478/000194984625000481/0001949846-25-000481.txt
+2025-09-17 14:23:32 | Baylouny John | Officer | Shares: 11420 | Value: $477,127.6 | Percent: 0.004291% | Link: https://www.sec.gov/Archives/edgar/data/1833756/000195917325006061/0001959173-25-006061.txt
+2025-09-17 14:23:33 | Baylouny John | Officer | Shares: 11420 | Value: $477,127.6 | Percent: 0.004291% | Link: https://www.sec.gov/Archives/edgar/data/1397134/000195917325006061/0001959173-25-006061.txt
+2025-09-17 14:23:33 | Saba Capital Management, L.P. | Investment Manager | Shares: 154558 | Value: $1,404,932.22 | Percent: 0.557649% | Link: https://www.sec.gov/Archives/edgar/data/1510281/000151028125000484/0001510281-25-000484.txt
+2025-09-17 14:23:33 | Saba Capital Management, L.P. | Investment Manager | Shares: 154558 | Value: $1,404,932.22 | Percent: 0.557649% | Link: https://www.sec.gov/Archives/edgar/data/828803/000151028125000484/0001510281-25-000484.txt
+2025-09-17 14:23:34 | Chi Michael | Officer | Shares: 13749 | Value: $694,324.5 | Percent: 0.006317% | Link: https://www.sec.gov/Archives/edgar/data/1965903/000195917325006060/0001959173-25-006060.txt
+2025-09-17 14:23:35 | Chi Michael | Officer | Shares: 13749 | Value: $694,324.5 | Percent: 0.006317% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006060/0001959173-25-006060.txt
