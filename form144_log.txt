@@ -3774,3 +3774,5 @@
 2025-09-17 21:27:58 | Krupka Devin M | Officer | Shares: 7166 | Value: $129,009.5 | Percent: 0.025427% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000196780825000005/0001967808-25-000005.txt
 2025-09-17 21:38:37 | Roger E. Susi | Officer | Shares: 100000 | Value: $7,076,000.0 | Percent: 0.786163% | Link: https://www.sec.gov/Archives/edgar/data/1613801/000161380125000007/0001613801-25-000007.txt
 2025-09-17 21:38:38 | Roger E. Susi | Officer | Shares: 100000 | Value: $7,076,000.0 | Percent: 0.786163% | Link: https://www.sec.gov/Archives/edgar/data/1325618/000161380125000007/0001613801-25-000007.txt
+2025-09-17 21:57:12 | TRAWICK THOMAS STEEN JR (HFBL) | Director | Shares: 8200 | Value: $110,700.0 | Percent: 0.265823% | Link: https://www.sec.gov/Archives/edgar/data/1539738/000143774925029328/0001437749-25-029328.txt
+2025-09-17 21:57:13 | TRAWICK THOMAS STEEN JR (HFBL) | Director | Shares: 8200 | Value: $110,700.0 | Percent: 0.265823% | Link: https://www.sec.gov/Archives/edgar/data/1500375/000143774925029328/0001437749-25-029328.txt
