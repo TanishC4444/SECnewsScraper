@@ -3748,3 +3748,11 @@
 2025-09-17 20:25:00 | BRUCE N. JACOBS | Officer | Shares: 79220 | Value: $3,864,351.6 | Percent: 0.110801% | Link: https://www.sec.gov/Archives/edgar/data/1815442/000195004725007269/0001950047-25-007269.txt
 2025-09-17 20:25:02 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,149,200.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1600033/000195004725007268/0001950047-25-007268.txt
 2025-09-17 20:25:03 | SCOTT KENNETH MILSTEN | Officer | Shares: 15000 | Value: $2,149,200.0 | Percent: 0.026439% | Link: https://www.sec.gov/Archives/edgar/data/1448992/000195004725007268/0001950047-25-007268.txt
+2025-09-17 20:39:04 | Wayne DeVeydt | former director | Shares: 85785 | Value: $1,873,875.0 | Percent: 0.066910% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000780/0001969223-25-000780.txt
+2025-09-17 20:39:05 | Wayne DeVeydt | former director | Shares: 85785 | Value: $1,873,875.0 | Percent: 0.066910% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000780/0001969223-25-000780.txt
+2025-09-17 20:39:07 | JONATHAN BURTH | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1886142/000195004725007289/0001950047-25-007289.txt
+2025-09-17 20:39:09 | JONATHAN BURTH | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007289/0001950047-25-007289.txt
+2025-09-17 20:39:11 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $342,000.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1753662/000195004725007288/0001950047-25-007288.txt
+2025-09-17 20:39:14 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $342,000.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007288/0001950047-25-007288.txt
+2025-09-17 20:39:15 | CHARLES VAN ES | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1886344/000195004725007287/0001950047-25-007287.txt
+2025-09-17 20:39:18 | CHARLES VAN ES | Officer | Shares: 20000 | Value: $799,600.0 | Percent: 0.035197% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007287/0001950047-25-007287.txt
