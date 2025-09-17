@@ -3728,3 +3728,7 @@
 2025-09-17 18:34:34 | JANE PRIOR | Officer | Shares: 10000 | Value: $399,800.0 | Percent: 0.017599% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000195004725007240/0001950047-25-007240.txt
 2025-09-17 18:50:22 | Johnson Gary William | Officer | Shares: 35000 | Value: $206,850.0 | Percent: 0.098702% | Link: https://www.sec.gov/Archives/edgar/data/2085791/000194984625000489/0001949846-25-000489.txt
 2025-09-17 18:50:23 | Johnson Gary William | Officer | Shares: 35000 | Value: $206,850.0 | Percent: 0.098702% | Link: https://www.sec.gov/Archives/edgar/data/1477081/000194984625000489/0001949846-25-000489.txt
+2025-09-17 19:19:26 | Jaymin Amin | Officer | Shares: 17721 | Value: $1,367,672.3 | Percent: 0.002069% | Link: https://www.sec.gov/Archives/edgar/data/1930559/000196922325000779/0001969223-25-000779.txt
+2025-09-17 19:19:27 | Jaymin Amin | Officer | Shares: 17721 | Value: $1,367,672.3 | Percent: 0.002069% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000779/0001969223-25-000779.txt
+2025-09-17 19:19:29 | Bealmear Richard Craig | Officer | Shares: 46175 | Value: $4,361,228.75 | Percent: 0.031282% | Link: https://www.sec.gov/Archives/edgar/data/1855623/000195917325006075/0001959173-25-006075.txt
+2025-09-17 19:19:30 | Bealmear Richard Craig | Officer | Shares: 46175 | Value: $4,361,228.75 | Percent: 0.031282% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000195917325006075/0001959173-25-006075.txt

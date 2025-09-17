@@ -4430,3 +4430,8 @@
 2025-09-17 18:34:22 | 8-K - Redwood Enhanced Income Corp. (0001870267) (Filer) | 2025-09-17T14:03:46-04:00 | https://www.sec.gov/Archives/edgar/data/1870267/000110465925090749/0001104659-25-090749.txt
 2025-09-17 18:34:23 | 8-K - UBS Commercial Mortgage Trust 2017-C4 (0001716263) (Filer) | 2025-09-17T13:59:32-04:00 | https://www.sec.gov/Archives/edgar/data/1716263/000188852425016022/0001888524-25-016022.txt
 2025-09-17 18:50:21 | 8-K - Bit Digital, Inc (0001710350) (Filer) | 2025-09-17T14:42:26-04:00 | https://www.sec.gov/Archives/edgar/data/1710350/000121390025088495/0001213900-25-088495.txt
+2025-09-17 19:19:19 | 8-K - MongoDB, Inc. (0001441816) (Filer) | 2025-09-17T15:06:03-04:00 | https://www.sec.gov/Archives/edgar/data/1441816/000144181625000197/0001441816-25-000197.txt
+2025-09-17 19:19:21 | 8-K - NORWOOD FINANCIAL CORP (0001013272) (Filer) | 2025-09-17T15:04:18-04:00 | https://www.sec.gov/Archives/edgar/data/1013272/000119312525206042/0001193125-25-206042.txt
+2025-09-17 19:19:23 | 8-K - SPI Energy Co., Ltd. (0001210618) (Filer) | 2025-09-17T15:01:44-04:00 | https://www.sec.gov/Archives/edgar/data/1210618/000168316825007069/0001683168-25-007069.txt
+2025-09-17 19:19:23 | 8-K - Barclays Dryrock Issuance Trust (0001552111) (Filer) | 2025-09-17T15:01:27-04:00 | https://www.sec.gov/Archives/edgar/data/1552111/000120864625000052/0001208646-25-000052.txt
+2025-09-17 19:19:24 | 8-K - Barclays Dryrock Funding LLC (0001551964) (Filer) | 2025-09-17T15:01:27-04:00 | https://www.sec.gov/Archives/edgar/data/1551964/000120864625000052/0001208646-25-000052.txt
