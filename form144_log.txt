@@ -3768,3 +3768,7 @@
 2025-09-17 21:17:48 | Brazeal Mark David | Officer | Shares: 16558 | Value: $5,755,740.0 | Percent: 0.000351% | Link: https://www.sec.gov/Archives/edgar/data/1627720/000192109425001173/0001921094-25-001173.txt
 2025-09-17 21:17:50 | Liebowitz Matthew | Officer | Shares: 50000 | Value: $1,327,733.0 | Percent: 0.020694% | Link: https://www.sec.gov/Archives/edgar/data/2009347/000192109425001172/0001921094-25-001172.txt
 2025-09-17 21:17:50 | Liebowitz Matthew | Officer | Shares: 50000 | Value: $1,327,733.0 | Percent: 0.020694% | Link: https://www.sec.gov/Archives/edgar/data/1590714/000192109425001172/0001921094-25-001172.txt
+2025-09-17 21:27:55 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,742,806.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1773914/000192109425001176/0001921094-25-001176.txt
+2025-09-17 21:27:56 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,742,806.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1506293/000192109425001176/0001921094-25-001176.txt
+2025-09-17 21:27:57 | Krupka Devin M | Officer | Shares: 7166 | Value: $129,009.5 | Percent: 0.025427% | Link: https://www.sec.gov/Archives/edgar/data/1967808/000196780825000005/0001967808-25-000005.txt
+2025-09-17 21:27:58 | Krupka Devin M | Officer | Shares: 7166 | Value: $129,009.5 | Percent: 0.025427% | Link: https://www.sec.gov/Archives/edgar/data/1514416/000196780825000005/0001967808-25-000005.txt
