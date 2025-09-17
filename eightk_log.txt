@@ -4435,3 +4435,4 @@
 2025-09-17 19:19:23 | 8-K - SPI Energy Co., Ltd. (0001210618) (Filer) | 2025-09-17T15:01:44-04:00 | https://www.sec.gov/Archives/edgar/data/1210618/000168316825007069/0001683168-25-007069.txt
 2025-09-17 19:19:23 | 8-K - Barclays Dryrock Issuance Trust (0001552111) (Filer) | 2025-09-17T15:01:27-04:00 | https://www.sec.gov/Archives/edgar/data/1552111/000120864625000052/0001208646-25-000052.txt
 2025-09-17 19:19:24 | 8-K - Barclays Dryrock Funding LLC (0001551964) (Filer) | 2025-09-17T15:01:27-04:00 | https://www.sec.gov/Archives/edgar/data/1551964/000120864625000052/0001208646-25-000052.txt
+2025-09-17 19:28:29 | 8-K - Greenbacker Renewable Energy Co LLC (0001563922) (Filer) | 2025-09-17T15:19:23-04:00 | https://www.sec.gov/Archives/edgar/data/1563922/000175392625001515/0001753926-25-001515.txt
