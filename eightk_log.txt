@@ -4374,3 +4374,13 @@
 2025-09-16 21:31:25 | 8-K - Nauticus Robotics, Inc. (0001849820) (Filer) | 2025-09-16T17:22:05-04:00 | https://www.sec.gov/Archives/edgar/data/1849820/000184982025000240/0001849820-25-000240.txt
 2025-09-16 21:31:28 | 8-K - Whitestone REIT (0001175535) (Filer) | 2025-09-16T17:21:17-04:00 | https://www.sec.gov/Archives/edgar/data/1175535/000143774925029197/0001437749-25-029197.txt
 2025-09-16 21:40:59 | 8-K - WinVest Acquisition Corp. (0001854463) (Filer) | 2025-09-16T17:30:59-04:00 | https://www.sec.gov/Archives/edgar/data/1854463/000149315225013760/0001493152-25-013760.txt
+2025-09-17 10:25:28 | 8-K - AVANT TECHNOLOGIES INC. (0001740797) (Filer) | 2025-09-17T06:08:46-04:00 | https://www.sec.gov/Archives/edgar/data/1740797/000174079725000045/0001740797-25-000045.txt
+2025-09-17 10:25:29 | 8-K - Dermata Therapeutics, Inc. (0001853816) (Filer) | 2025-09-17T06:05:11-04:00 | https://www.sec.gov/Archives/edgar/data/1853816/000149315225013815/0001493152-25-013815.txt
+2025-09-17 10:25:31 | 8-K - XWELL, Inc. (0001410428) (Filer) | 2025-09-17T06:03:07-04:00 | https://www.sec.gov/Archives/edgar/data/1410428/000110465925090545/0001104659-25-090545.txt
+2025-09-17 10:25:32 | 8-K - Rise Gold Corp. (0001424864) (Filer) | 2025-09-17T06:03:00-04:00 | https://www.sec.gov/Archives/edgar/data/1424864/000106299325015672/0001062993-25-015672.txt
+2025-09-17 10:25:32 | 8-K/A - TON Strategy Co (0001566610) (Filer) | 2025-09-17T06:02:59-04:00 | https://www.sec.gov/Archives/edgar/data/1566610/000149315225013814/0001493152-25-013814.txt
+2025-09-17 10:25:34 | 8-K - V F CORP (0000103379) (Filer) | 2025-09-17T06:02:31-04:00 | https://www.sec.gov/Archives/edgar/data/103379/000119312525205451/0001193125-25-205451.txt
+2025-09-17 10:25:35 | 8-K - Lucky Strike Entertainment Corp (0001840572) (Filer) | 2025-09-16T21:58:18-04:00 | https://www.sec.gov/Archives/edgar/data/1840572/000184057225000019/0001840572-25-000019.txt
+2025-09-17 10:25:38 | 8-K - Axos Financial, Inc. (0001299709) (Filer) | 2025-09-16T21:55:43-04:00 | https://www.sec.gov/Archives/edgar/data/1299709/000129970925000157/0001299709-25-000157.txt
+2025-09-17 10:25:39 | 8-K - Chord Energy Corp (0001486159) (Filer) | 2025-09-16T21:25:45-04:00 | https://www.sec.gov/Archives/edgar/data/1486159/000119312525205343/0001193125-25-205343.txt
+2025-09-17 10:25:41 | 8-K - Trailblazer Merger Corp I (0001934945) (Filer) | 2025-09-16T21:11:59-04:00 | https://www.sec.gov/Archives/edgar/data/1934945/000121390025088325/0001213900-25-088325.txt
