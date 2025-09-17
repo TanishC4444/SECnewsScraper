@@ -3742,3 +3742,5 @@
 2025-09-17 19:49:15 | Matrix Trust Co | Trustee for the Arthur J Gallagher Rabbi Trust | Shares: 15000 | Value: $4,371,900.0 | Percent: 0.005850% | Link: https://www.sec.gov/Archives/edgar/data/354190/000178427725000008/0001784277-25-000008.txt
 2025-09-17 19:49:17 | Sabino Anthony John | Officer | Shares: 96062 | Value: $65,946.56 | Percent: 0.099417% | Link: https://www.sec.gov/Archives/edgar/data/2008679/000195917325006081/0001959173-25-006081.txt
 2025-09-17 19:49:18 | Sabino Anthony John | Officer | Shares: 96062 | Value: $65,946.56 | Percent: 0.099417% | Link: https://www.sec.gov/Archives/edgar/data/1102993/000195917325006081/0001959173-25-006081.txt
+2025-09-17 19:58:40 | Domino Michael Wayne Jr. | Officer | Shares: 52075 | Value: $170,806.0 | Percent: 0.146032% | Link: https://www.sec.gov/Archives/edgar/data/1981953/000197407825000313/0001974078-25-000313.txt
+2025-09-17 19:58:40 | Domino Michael Wayne Jr. | Officer | Shares: 52075 | Value: $170,806.0 | Percent: 0.146032% | Link: https://www.sec.gov/Archives/edgar/data/1884516/000197407825000313/0001974078-25-000313.txt
