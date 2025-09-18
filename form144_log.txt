@@ -3818,3 +3818,5 @@
 2025-09-18 15:56:14 | Mauch Robert P. | Officer | Shares: 5097 | Value: $1,478,130.0 | Percent: 0.002629% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325006100/0001959173-25-006100.txt
 2025-09-18 16:21:34 | Corbus Barclay | Officer | Shares: 105300 | Value: $276,700.0 | Percent: 0.048019% | Link: https://www.sec.gov/Archives/edgar/data/1411833/000197407825000314/0001974078-25-000314.txt
 2025-09-18 16:21:35 | Corbus Barclay | Officer | Shares: 105300 | Value: $276,700.0 | Percent: 0.048019% | Link: https://www.sec.gov/Archives/edgar/data/1368265/000197407825000314/0001974078-25-000314.txt
+2025-09-18 17:41:49 | KIRK RANDAL J | Director | Shares: 5000000 | Value: $19,625,000.0 | Percent: 1.678005% | Link: https://www.sec.gov/Archives/edgar/data/1356090/000194984625000493/0001949846-25-000493.txt
+2025-09-18 17:41:50 | KIRK RANDAL J | Director | Shares: 5000000 | Value: $19,625,000.0 | Percent: 1.678005% | Link: https://www.sec.gov/Archives/edgar/data/1091823/000194984625000493/0001949846-25-000493.txt
