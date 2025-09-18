@@ -4549,3 +4549,4 @@
 2025-09-18 14:57:23 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-18T10:47:23-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000174/0001326771-25-000174.txt
 2025-09-18 14:57:25 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-09-18T10:31:11-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000135/0001314152-25-000135.txt
 2025-09-18 14:57:26 | 8-K - NEURALBASE AI LTD. (0001130781) (Filer) | 2025-09-18T10:22:23-04:00 | https://www.sec.gov/Archives/edgar/data/1130781/000147793225006852/0001477932-25-006852.txt
+2025-09-18 15:21:11 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-18T10:57:31-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000180/0001325814-25-000180.txt

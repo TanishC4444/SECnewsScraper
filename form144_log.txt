@@ -3806,3 +3806,11 @@
 2025-09-18 14:57:37 | GREENBERG ANDREA | Former Officer | Shares: 8500 | Value: $531,250.0 | Percent: 0.029177% | Link: https://www.sec.gov/Archives/edgar/data/1653193/000195917325006093/0001959173-25-006093.txt
 2025-09-18 14:57:39 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,484,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325006092/0001959173-25-006092.txt
 2025-09-18 14:57:40 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,484,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006092/0001959173-25-006092.txt
+2025-09-18 15:21:13 | Hoffman Edward J | Officer | Shares: 10000 | Value: $370,000.0 | Percent: 0.007383% | Link: https://www.sec.gov/Archives/edgar/data/1439483/000195917325006099/0001959173-25-006099.txt
+2025-09-18 15:21:14 | Hoffman Edward J | Officer | Shares: 10000 | Value: $370,000.0 | Percent: 0.007383% | Link: https://www.sec.gov/Archives/edgar/data/890926/000195917325006099/0001959173-25-006099.txt
+2025-09-18 15:21:17 | Shaller Russell | Officer | Shares: 23743 | Value: $1,901,006.72 | Percent: 0.054512% | Link: https://www.sec.gov/Archives/edgar/data/1646159/000195917325006098/0001959173-25-006098.txt
+2025-09-18 15:21:18 | Shaller Russell | Officer | Shares: 23743 | Value: $1,901,006.72 | Percent: 0.054512% | Link: https://www.sec.gov/Archives/edgar/data/746598/000195917325006098/0001959173-25-006098.txt
+2025-09-18 15:21:21 | Furner John R. | Officer | Shares: 39375 | Value: $4,084,869.0 | Percent: 0.000494% | Link: https://www.sec.gov/Archives/edgar/data/1696737/000194984625000492/0001949846-25-000492.txt
+2025-09-18 15:21:22 | Furner John R. | Officer | Shares: 39375 | Value: $4,084,869.0 | Percent: 0.000494% | Link: https://www.sec.gov/Archives/edgar/data/104169/000194984625000492/0001949846-25-000492.txt
+2025-09-18 15:21:24 | Bhasin Vijay | Officer | Shares: 11479 | Value: $746,135.0 | Percent: 0.011650% | Link: https://www.sec.gov/Archives/edgar/data/1590262/000195917325006096/0001959173-25-006096.txt
+2025-09-18 15:21:25 | Bhasin Vijay | Officer | Shares: 11479 | Value: $746,135.0 | Percent: 0.011650% | Link: https://www.sec.gov/Archives/edgar/data/1448893/000195917325006096/0001959173-25-006096.txt
