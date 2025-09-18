@@ -3870,3 +3870,11 @@
 2025-09-18 21:28:38 | DENNIS MCGINN | Director | Shares: 7298 | Value: $775,910.22 | Percent: 0.049764% | Link: https://www.sec.gov/Archives/edgar/data/1370450/000195004725007344/0001950047-25-007344.txt
 2025-09-18 21:28:40 | Keefer James H JR | Officer | Shares: 12338 | Value: $243,660.42 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/1717672/000195917325006119/0001959173-25-006119.txt
 2025-09-18 21:28:41 | Keefer James H JR | Officer | Shares: 12338 | Value: $243,660.42 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325006119/0001959173-25-006119.txt
+2025-09-18 21:39:16 | TINKERBELLE II TR U/A DTD 10/22/2021 | Officer | Shares: 10000 | Value: $1,800,000.0 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/1646382/000195004725007346/0001950047-25-007346.txt
+2025-09-18 21:39:17 | TINKERBELLE II TR U/A DTD 10/22/2021 | Officer | Shares: 10000 | Value: $1,800,000.0 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725007346/0001950047-25-007346.txt
+2025-09-18 21:39:19 | HARVEY C JONES | DIRECTOR | Shares: 250000 | Value: $44,043,710.0 | Percent: 0.001029% | Link: https://www.sec.gov/Archives/edgar/data/1197650/000119765025000005/0001197650-25-000005.txt
+2025-09-18 21:39:21 | HARVEY C JONES | DIRECTOR | Shares: 250000 | Value: $44,043,710.0 | Percent: 0.001029% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000119765025000005/0001197650-25-000005.txt
+2025-09-18 21:39:22 | Chumas Christopher Phillip | Director | Shares: 75000 | Value: $1,190,000.0 | Percent: 0.178742% | Link: https://www.sec.gov/Archives/edgar/data/1862463/000197407825000317/0001974078-25-000317.txt
+2025-09-18 21:39:24 | Chumas Christopher Phillip | Director | Shares: 75000 | Value: $1,190,000.0 | Percent: 0.178742% | Link: https://www.sec.gov/Archives/edgar/data/1768026/000197407825000317/0001974078-25-000317.txt
+2025-09-18 21:39:26 | Kelli Keough | Officer | Shares: 30412 | Value: $825,381.68 | Percent: 0.002540% | Link: https://www.sec.gov/Archives/edgar/data/2032458/000196858225000935/0001968582-25-000935.txt
+2025-09-18 21:39:27 | Kelli Keough | Officer | Shares: 30412 | Value: $825,381.68 | Percent: 0.002540% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000196858225000935/0001968582-25-000935.txt
