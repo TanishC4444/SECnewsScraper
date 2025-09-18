@@ -4483,3 +4483,13 @@
 2025-09-17 21:27:48 | 8-K - VINEBROOK HOMES TRUST, INC. (0001755755) (Filer) | 2025-09-17T17:22:29-04:00 | https://www.sec.gov/Archives/edgar/data/1755755/000143774925029322/0001437749-25-029322.txt
 2025-09-17 21:27:49 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-09-17T17:22:06-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625007455/0001829126-25-007455.txt
 2025-09-17 21:27:52 | 8-K - Connexa Sports Technologies Inc. (0001674440) (Filer) | 2025-09-17T17:20:27-04:00 | https://www.sec.gov/Archives/edgar/data/1674440/000149315225013917/0001493152-25-013917.txt
+2025-09-18 10:17:56 | 8-K - Global Net Lease, Inc. (0001526113) (Filer) | 2025-09-18T06:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/1526113/000110465925090996/0001104659-25-090996.txt
+2025-09-18 10:17:58 | 8-K - 89bio, Inc. (0001785173) (Filer) | 2025-09-18T06:08:11-04:00 | https://www.sec.gov/Archives/edgar/data/1785173/000119312525206747/0001193125-25-206747.txt
+2025-09-18 10:17:58 | 8-K/A - IonQ, Inc. (0001824920) (Filer) | 2025-09-18T06:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1824920/000119312525206731/0001193125-25-206731.txt
+2025-09-18 10:17:59 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-18T06:02:15-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015697/0001062993-25-015697.txt
+2025-09-18 10:18:01 | 8-K - CANTALOUPE, INC. (0000896429) (Filer) | 2025-09-18T06:01:30-04:00 | https://www.sec.gov/Archives/edgar/data/896429/000114036125035319/0001140361-25-035319.txt
+2025-09-18 10:18:04 | 8-K - Humacyte, Inc. (0001818382) (Filer) | 2025-09-17T21:45:02-04:00 | https://www.sec.gov/Archives/edgar/data/1818382/000110465925090963/0001104659-25-090963.txt
+2025-09-18 10:18:06 | 8-K - Crane NXT, Co. (0000025445) (Filer) | 2025-09-17T21:42:40-04:00 | https://www.sec.gov/Archives/edgar/data/25445/000002544525000086/0000025445-25-000086.txt
+2025-09-18 10:18:08 | 8-K - GRAIL, Inc. (0001699031) (Filer) | 2025-09-17T21:35:07-04:00 | https://www.sec.gov/Archives/edgar/data/1699031/000169903125000180/0001699031-25-000180.txt
+2025-09-18 10:18:10 | 8-K - Hall of Fame Resort & Entertainment Co (0001708176) (Filer) | 2025-09-17T21:31:59-04:00 | https://www.sec.gov/Archives/edgar/data/1708176/000114036125035312/0001140361-25-035312.txt
+2025-09-18 10:18:11 | 8-K - BECTON DICKINSON & CO (0000010795) (Filer) | 2025-09-17T20:46:05-04:00 | https://www.sec.gov/Archives/edgar/data/10795/000114036125035307/0001140361-25-035307.txt
