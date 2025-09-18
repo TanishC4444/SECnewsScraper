@@ -3816,3 +3816,5 @@
 2025-09-18 15:21:25 | Bhasin Vijay | Officer | Shares: 11479 | Value: $746,135.0 | Percent: 0.011650% | Link: https://www.sec.gov/Archives/edgar/data/1448893/000195917325006096/0001959173-25-006096.txt
 2025-09-18 15:56:13 | Mauch Robert P. | Officer | Shares: 5097 | Value: $1,478,130.0 | Percent: 0.002629% | Link: https://www.sec.gov/Archives/edgar/data/1633897/000195917325006100/0001959173-25-006100.txt
 2025-09-18 15:56:14 | Mauch Robert P. | Officer | Shares: 5097 | Value: $1,478,130.0 | Percent: 0.002629% | Link: https://www.sec.gov/Archives/edgar/data/1140859/000195917325006100/0001959173-25-006100.txt
+2025-09-18 16:21:34 | Corbus Barclay | Officer | Shares: 105300 | Value: $276,700.0 | Percent: 0.048019% | Link: https://www.sec.gov/Archives/edgar/data/1411833/000197407825000314/0001974078-25-000314.txt
+2025-09-18 16:21:35 | Corbus Barclay | Officer | Shares: 105300 | Value: $276,700.0 | Percent: 0.048019% | Link: https://www.sec.gov/Archives/edgar/data/1368265/000197407825000314/0001974078-25-000314.txt
