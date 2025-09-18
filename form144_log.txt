@@ -3822,3 +3822,9 @@
 2025-09-18 17:41:50 | KIRK RANDAL J | Director | Shares: 5000000 | Value: $19,625,000.0 | Percent: 1.678005% | Link: https://www.sec.gov/Archives/edgar/data/1091823/000194984625000493/0001949846-25-000493.txt
 2025-09-18 17:51:35 | Brummer Derek | Former Officer | Shares: 72519 | Value: $2,638,966.41 | Percent: 0.053539% | Link: https://www.sec.gov/Archives/edgar/data/1578586/000195917325006105/0001959173-25-006105.txt
 2025-09-18 17:51:37 | Brummer Derek | Former Officer | Shares: 72519 | Value: $2,638,966.41 | Percent: 0.053539% | Link: https://www.sec.gov/Archives/edgar/data/890926/000195917325006105/0001959173-25-006105.txt
+2025-09-18 18:37:19 | WIRTH JAMES F | Officer | Shares: 83000 | Value: $154,380.0 | Percent: 0.944115% | Link: https://www.sec.gov/Archives/edgar/data/1055365/000194984625000494/0001949846-25-000494.txt
+2025-09-18 18:37:20 | WIRTH JAMES F | Officer | Shares: 83000 | Value: $154,380.0 | Percent: 0.944115% | Link: https://www.sec.gov/Archives/edgar/data/82473/000194984625000494/0001949846-25-000494.txt
+2025-09-18 18:37:21 | Keeney Scott H | Officer | Shares: 62507 | Value: $1,902,713.08 | Percent: 0.125266% | Link: https://www.sec.gov/Archives/edgar/data/1738235/000195917325006108/0001959173-25-006108.txt
+2025-09-18 18:37:22 | Keeney Scott H | Officer | Shares: 62507 | Value: $1,902,713.08 | Percent: 0.125266% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325006108/0001959173-25-006108.txt
+2025-09-18 18:37:23 | Harmon Cyrus | Director | Shares: 13086 | Value: $108,977.56 | Percent: 0.019066% | Link: https://www.sec.gov/Archives/edgar/data/1831410/000195917325006106/0001959173-25-006106.txt
+2025-09-18 18:37:24 | Harmon Cyrus | Director | Shares: 13086 | Value: $108,977.56 | Percent: 0.019066% | Link: https://www.sec.gov/Archives/edgar/data/1750284/000195917325006106/0001959173-25-006106.txt
