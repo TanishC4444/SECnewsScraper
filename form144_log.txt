@@ -3832,3 +3832,5 @@
 2025-09-18 19:07:40 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 300000 | Value: $228,039,000.0 | Percent: 0.031697% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000005/0000316011-25-000005.txt
 2025-09-18 19:07:42 | Shepard Julie A | Officer | Shares: 9937 | Value: $808,077.83 | Percent: 0.004176% | Link: https://www.sec.gov/Archives/edgar/data/1384126/000195917325006109/0001959173-25-006109.txt
 2025-09-18 19:07:43 | Shepard Julie A | Officer | Shares: 9937 | Value: $808,077.83 | Percent: 0.004176% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325006109/0001959173-25-006109.txt
+2025-09-18 19:50:57 | Shao Wei-Ming | Officer | Shares: 10000 | Value: $3,557,889.57 | Percent: 0.003789% | Link: https://www.sec.gov/Archives/edgar/data/1663488/000195917325006110/0001959173-25-006110.txt
+2025-09-18 19:50:58 | Shao Wei-Ming | Officer | Shares: 10000 | Value: $3,557,889.57 | Percent: 0.003789% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325006110/0001959173-25-006110.txt
