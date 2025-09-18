@@ -3880,3 +3880,5 @@
 2025-09-18 21:39:27 | Kelli Keough | Officer | Shares: 30412 | Value: $825,381.68 | Percent: 0.002540% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000196858225000935/0001968582-25-000935.txt
 2025-09-18 22:17:24 | Kirgan Danielle L. | Officer | Shares: 50000 | Value: $870,000.0 | Percent: 0.018622% | Link: https://www.sec.gov/Archives/edgar/data/1629771/000079436725000159/0000794367-25-000159.txt
 2025-09-18 22:17:25 | Kirgan Danielle L. | Officer | Shares: 50000 | Value: $870,000.0 | Percent: 0.018622% | Link: https://www.sec.gov/Archives/edgar/data/794367/000079436725000159/0000794367-25-000159.txt
+2025-09-18 23:00:55 | Kelli Keough | Officer | Shares: 30412 | Value: $825,381.68 | Percent: 0.002540% | Link: https://www.sec.gov/Archives/edgar/data/2032458/000196858225000936/0001968582-25-000936.txt
+2025-09-18 23:00:56 | Kelli Keough | Officer | Shares: 30412 | Value: $825,381.68 | Percent: 0.002540% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000196858225000936/0001968582-25-000936.txt
