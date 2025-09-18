@@ -4600,3 +4600,8 @@
 2025-09-18 21:12:14 | 8-K - Sotera Health Co (0001822479) (Filer) | 2025-09-18T17:01:56-04:00 | https://www.sec.gov/Archives/edgar/data/1822479/000119312525207549/0001193125-25-207549.txt
 2025-09-18 21:12:15 | 8-K - Laser Photonics Corp (0001807887) (Filer) | 2025-09-18T17:00:56-04:00 | https://www.sec.gov/Archives/edgar/data/1807887/000149315225014090/0001493152-25-014090.txt
 2025-09-18 21:12:17 | 8-K - Service Properties Trust (0000945394) (Filer) | 2025-09-18T17:00:47-04:00 | https://www.sec.gov/Archives/edgar/data/945394/000094539425000069/0000945394-25-000069.txt
+2025-09-18 21:28:30 | 8-K - WaterBridge Infrastructure LLC (0002064947) (Filer) | 2025-09-18T17:27:06-04:00 | https://www.sec.gov/Archives/edgar/data/2064947/000119312525207591/0001193125-25-207591.txt
+2025-09-18 21:28:32 | 8-K - Nutanix, Inc. (0001618732) (Filer) | 2025-09-18T17:19:08-04:00 | https://www.sec.gov/Archives/edgar/data/1618732/000119312525207584/0001193125-25-207584.txt
+2025-09-18 21:28:33 | 8-K - Roman DBDR Acquisition Corp. II (0002032528) (Filer) | 2025-09-18T17:15:55-04:00 | https://www.sec.gov/Archives/edgar/data/2032528/000110465925091346/0001104659-25-091346.txt
+2025-09-18 21:28:35 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-09-18T17:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025089067/0001213900-25-089067.txt
+2025-09-18 21:28:36 | 8-K - MAIA Biotechnology, Inc. (0001878313) (Filer) | 2025-09-18T17:14:45-04:00 | https://www.sec.gov/Archives/edgar/data/1878313/000149315225014100/0001493152-25-014100.txt

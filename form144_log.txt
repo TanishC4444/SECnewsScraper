@@ -3866,3 +3866,7 @@
 2025-09-18 21:12:26 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 30592 | Value: $473,157.29 | Percent: 0.032746% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007340/0001950047-25-007340.txt
 2025-09-18 21:12:27 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 41018 | Value: $634,413.1 | Percent: 0.043906% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007339/0001950047-25-007339.txt
 2025-09-18 21:12:28 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 41018 | Value: $634,413.1 | Percent: 0.043906% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007339/0001950047-25-007339.txt
+2025-09-18 21:28:38 | DENNIS MCGINN | Director | Shares: 7298 | Value: $775,910.22 | Percent: 0.049764% | Link: https://www.sec.gov/Archives/edgar/data/1701806/000195004725007344/0001950047-25-007344.txt
+2025-09-18 21:28:38 | DENNIS MCGINN | Director | Shares: 7298 | Value: $775,910.22 | Percent: 0.049764% | Link: https://www.sec.gov/Archives/edgar/data/1370450/000195004725007344/0001950047-25-007344.txt
+2025-09-18 21:28:40 | Keefer James H JR | Officer | Shares: 12338 | Value: $243,660.42 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/1717672/000195917325006119/0001959173-25-006119.txt
+2025-09-18 21:28:41 | Keefer James H JR | Officer | Shares: 12338 | Value: $243,660.42 | Percent: 0.007286% | Link: https://www.sec.gov/Archives/edgar/data/919012/000195917325006119/0001959173-25-006119.txt
