@@ -3782,3 +3782,9 @@
 2025-09-17 22:30:33 | Verlinvest Beverages SA | Affiliate | Shares: 3000000 | Value: $126,900,000.0 | Percent: 5.279554% | Link: https://www.sec.gov/Archives/edgar/data/1482981/000119312525206467/0001193125-25-206467.txt
 2025-09-17 22:40:54 | Michael Baur | Officer | Shares: 150000 | Value: $6,743,966.4 | Percent: 0.685416% | Link: https://www.sec.gov/Archives/edgar/data/1251456/000125145625000004/0001251456-25-000004.txt
 2025-09-17 22:40:55 | Michael Baur | Officer | Shares: 150000 | Value: $6,743,966.4 | Percent: 0.685416% | Link: https://www.sec.gov/Archives/edgar/data/918965/000125145625000004/0001251456-25-000004.txt
+2025-09-18 01:54:44 | Kenneth Duda | Officer | Shares: 30000 | Value: $4,264,800.0 | Percent: 0.002387% | Link: https://www.sec.gov/Archives/edgar/data/1605808/000196858225000929/0001968582-25-000929.txt
+2025-09-18 01:54:45 | Kenneth Duda | Officer | Shares: 30000 | Value: $4,264,800.0 | Percent: 0.002387% | Link: https://www.sec.gov/Archives/edgar/data/1596532/000196858225000929/0001968582-25-000929.txt
+2025-09-18 01:54:46 | Kenneth Duda | Officer | Shares: 24000 | Value: $3,411,840.0 | Percent: 0.001910% | Link: https://www.sec.gov/Archives/edgar/data/1605808/000196858225000928/0001968582-25-000928.txt
+2025-09-18 01:54:46 | Kenneth Duda | Officer | Shares: 24000 | Value: $3,411,840.0 | Percent: 0.001910% | Link: https://www.sec.gov/Archives/edgar/data/1596532/000196858225000928/0001968582-25-000928.txt
+2025-09-18 01:54:47 | Kenneth Duda | Officer | Shares: 24000 | Value: $3,411,840.0 | Percent: 0.001910% | Link: https://www.sec.gov/Archives/edgar/data/1605808/000196858225000927/0001968582-25-000927.txt
+2025-09-18 01:54:48 | Kenneth Duda | Officer | Shares: 24000 | Value: $3,411,840.0 | Percent: 0.001910% | Link: https://www.sec.gov/Archives/edgar/data/1596532/000196858225000927/0001968582-25-000927.txt
