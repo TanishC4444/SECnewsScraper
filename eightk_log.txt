@@ -4559,3 +4559,5 @@
 2025-09-18 17:29:08 | 8-K - Carvana Receivables Depositor LLC (0001770373) (Filer) | 2025-09-18T13:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/1770373/000177037325000043/0001770373-25-000043.txt
 2025-09-18 18:37:17 | 8-K - Wetouch Technology Inc. (0001826660) (Filer) | 2025-09-18T14:00:31-04:00 | https://www.sec.gov/Archives/edgar/data/1826660/000121390025088912/0001213900-25-088912.txt
 2025-09-18 18:52:32 | 8-K - INTERGROUP CORP (0000069422) (Filer) | 2025-09-18T14:40:29-04:00 | https://www.sec.gov/Archives/edgar/data/69422/000149315225014019/0001493152-25-014019.txt
+2025-09-18 19:07:35 | 8-K - Novelis Inc. (0001304280) (Filer) | 2025-09-18T15:06:27-04:00 | https://www.sec.gov/Archives/edgar/data/1304280/000130428025000047/0001304280-25-000047.txt
+2025-09-18 19:07:35 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-09-18T14:53:21-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000207/0001331465-25-000207.txt

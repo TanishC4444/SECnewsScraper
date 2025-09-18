@@ -3828,3 +3828,7 @@
 2025-09-18 18:37:22 | Keeney Scott H | Officer | Shares: 62507 | Value: $1,902,713.08 | Percent: 0.125266% | Link: https://www.sec.gov/Archives/edgar/data/1124796/000195917325006108/0001959173-25-006108.txt
 2025-09-18 18:37:23 | Harmon Cyrus | Director | Shares: 13086 | Value: $108,977.56 | Percent: 0.019066% | Link: https://www.sec.gov/Archives/edgar/data/1831410/000195917325006106/0001959173-25-006106.txt
 2025-09-18 18:37:24 | Harmon Cyrus | Director | Shares: 13086 | Value: $108,977.56 | Percent: 0.019066% | Link: https://www.sec.gov/Archives/edgar/data/1750284/000195917325006106/0001959173-25-006106.txt
+2025-09-18 19:07:39 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 300000 | Value: $228,039,000.0 | Percent: 0.031697% | Link: https://www.sec.gov/Archives/edgar/data/316011/000031601125000005/0000316011-25-000005.txt
+2025-09-18 19:07:40 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 300000 | Value: $228,039,000.0 | Percent: 0.031697% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000005/0000316011-25-000005.txt
+2025-09-18 19:07:42 | Shepard Julie A | Officer | Shares: 9937 | Value: $808,077.83 | Percent: 0.004176% | Link: https://www.sec.gov/Archives/edgar/data/1384126/000195917325006109/0001959173-25-006109.txt
+2025-09-18 19:07:43 | Shepard Julie A | Officer | Shares: 9937 | Value: $808,077.83 | Percent: 0.004176% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325006109/0001959173-25-006109.txt
