@@ -3790,3 +3790,7 @@
 2025-09-18 01:54:48 | Kenneth Duda | Officer | Shares: 24000 | Value: $3,411,840.0 | Percent: 0.001910% | Link: https://www.sec.gov/Archives/edgar/data/1596532/000196858225000927/0001968582-25-000927.txt
 2025-09-18 10:46:57 | Ben-Yair Ehud | Officer | Shares: 7650 | Value: $296,820.0 | Percent: 0.069925% | Link: https://www.sec.gov/Archives/edgar/data/2036292/000197640825000316/0001976408-25-000316.txt
 2025-09-18 10:46:58 | Ben-Yair Ehud | Officer | Shares: 7650 | Value: $296,820.0 | Percent: 0.069925% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000316/0001976408-25-000316.txt
+2025-09-18 10:56:26 | Fortune Rising Holdings Ltd | Affiliate | Shares: 115000 | Value: $4,052,600.0 | Percent: 0.004046% | Link: https://www.sec.gov/Archives/edgar/data/1971883/000173839625000028/0001738396-25-000028.txt
+2025-09-18 10:56:27 | Fortune Rising Holdings Ltd | Affiliate | Shares: 115000 | Value: $4,052,600.0 | Percent: 0.004046% | Link: https://www.sec.gov/Archives/edgar/data/1549802/000173839625000028/0001738396-25-000028.txt
+2025-09-18 10:56:29 | Topaz Liron | Officer | Shares: 7706 | Value: $298,992.8 | Percent: 0.070436% | Link: https://www.sec.gov/Archives/edgar/data/2035841/000197640825000317/0001976408-25-000317.txt
+2025-09-18 10:56:30 | Topaz Liron | Officer | Shares: 7706 | Value: $298,992.8 | Percent: 0.070436% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000317/0001976408-25-000317.txt

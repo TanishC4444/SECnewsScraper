@@ -4497,3 +4497,4 @@
 2025-09-18 10:37:04 | 8-K - Guardian Pharmacy Services, Inc. (0001802255) (Filer) | 2025-09-18T06:30:40-04:00 | https://www.sec.gov/Archives/edgar/data/1802255/000119312525206771/0001193125-25-206771.txt
 2025-09-18 10:37:05 | 8-K - TransDigm Group INC (0001260221) (Filer) | 2025-09-18T06:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1260221/000119312525206768/0001193125-25-206768.txt
 2025-09-18 10:37:07 | 8-K - Kennedy-Wilson Holdings, Inc. (0001408100) (Filer) | 2025-09-18T06:18:17-04:00 | https://www.sec.gov/Archives/edgar/data/1408100/000140810025000161/0001408100-25-000161.txt
+2025-09-18 10:56:24 | 8-K - COMMERCIAL METALS Co (0000022444) (Filer) | 2025-09-18T06:55:42-04:00 | https://www.sec.gov/Archives/edgar/data/22444/000119312525206788/0001193125-25-206788.txt
