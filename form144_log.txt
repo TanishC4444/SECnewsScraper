@@ -3796,3 +3796,5 @@
 2025-09-18 10:56:30 | Topaz Liron | Officer | Shares: 7706 | Value: $298,992.8 | Percent: 0.070436% | Link: https://www.sec.gov/Archives/edgar/data/808439/000197640825000317/0001976408-25-000317.txt
 2025-09-18 12:40:17 | Ben Volkow | Director | Shares: 6771 | Value: $25,391.25 | Percent: 0.485193% | Link: https://www.sec.gov/Archives/edgar/data/1913605/000197640825000318/0001976408-25-000318.txt
 2025-09-18 12:40:18 | Ben Volkow | Director | Shares: 6771 | Value: $25,391.25 | Percent: 0.485193% | Link: https://www.sec.gov/Archives/edgar/data/1603652/000197640825000318/0001976408-25-000318.txt
+2025-09-18 13:38:43 | Rishel Jeremy | Officer | Shares: 98733 | Value: $2,715,157.5 | Percent: 0.008245% | Link: https://www.sec.gov/Archives/edgar/data/1934200/000195917325006086/0001959173-25-006086.txt
+2025-09-18 13:38:44 | Rishel Jeremy | Officer | Shares: 98733 | Value: $2,715,157.5 | Percent: 0.008245% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006086/0001959173-25-006086.txt
