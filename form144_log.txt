@@ -3798,3 +3798,11 @@
 2025-09-18 12:40:18 | Ben Volkow | Director | Shares: 6771 | Value: $25,391.25 | Percent: 0.485193% | Link: https://www.sec.gov/Archives/edgar/data/1603652/000197640825000318/0001976408-25-000318.txt
 2025-09-18 13:38:43 | Rishel Jeremy | Officer | Shares: 98733 | Value: $2,715,157.5 | Percent: 0.008245% | Link: https://www.sec.gov/Archives/edgar/data/1934200/000195917325006086/0001959173-25-006086.txt
 2025-09-18 13:38:44 | Rishel Jeremy | Officer | Shares: 98733 | Value: $2,715,157.5 | Percent: 0.008245% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000195917325006086/0001959173-25-006086.txt
+2025-09-18 14:57:28 | BURKE JAMES A | Officer | Shares: 21366 | Value: $4,554,708.29 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006095/0001959173-25-006095.txt
+2025-09-18 14:57:29 | BURKE JAMES A | Officer | Shares: 21366 | Value: $4,554,708.29 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006095/0001959173-25-006095.txt
+2025-09-18 14:57:33 | Bealmear Richard Craig | Officer | Shares: 7622 | Value: $773,182.54 | Percent: 0.005164% | Link: https://www.sec.gov/Archives/edgar/data/1855623/000195917325006094/0001959173-25-006094.txt
+2025-09-18 14:57:34 | Bealmear Richard Craig | Officer | Shares: 7622 | Value: $773,182.54 | Percent: 0.005164% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000195917325006094/0001959173-25-006094.txt
+2025-09-18 14:57:36 | GREENBERG ANDREA | Former Officer | Shares: 8500 | Value: $531,250.0 | Percent: 0.029177% | Link: https://www.sec.gov/Archives/edgar/data/1795250/000195917325006093/0001959173-25-006093.txt
+2025-09-18 14:57:37 | GREENBERG ANDREA | Former Officer | Shares: 8500 | Value: $531,250.0 | Percent: 0.029177% | Link: https://www.sec.gov/Archives/edgar/data/1653193/000195917325006093/0001959173-25-006093.txt
+2025-09-18 14:57:39 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,484,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325006092/0001959173-25-006092.txt
+2025-09-18 14:57:40 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,484,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006092/0001959173-25-006092.txt

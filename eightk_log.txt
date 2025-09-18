@@ -4546,3 +4546,6 @@
 2025-09-18 13:48:43 | 8-K - N2OFF, Inc. (0001789192) (Filer) | 2025-09-18T09:39:10-04:00 | https://www.sec.gov/Archives/edgar/data/1789192/000149315225013998/0001493152-25-013998.txt
 2025-09-18 13:57:54 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-09-18T09:56:05-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525206956/0001193125-25-206956.txt
 2025-09-18 14:21:11 | 8-K - LUXURBAN HOTELS INC. (0001893311) (Filer) | 2025-09-18T10:03:26-04:00 | https://www.sec.gov/Archives/edgar/data/1893311/000182912625007474/0001829126-25-007474.txt
+2025-09-18 14:57:23 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-18T10:47:23-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000174/0001326771-25-000174.txt
+2025-09-18 14:57:25 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-09-18T10:31:11-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000135/0001314152-25-000135.txt
+2025-09-18 14:57:26 | 8-K - NEURALBASE AI LTD. (0001130781) (Filer) | 2025-09-18T10:22:23-04:00 | https://www.sec.gov/Archives/edgar/data/1130781/000147793225006852/0001477932-25-006852.txt
