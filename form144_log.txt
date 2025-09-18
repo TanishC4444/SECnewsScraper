@@ -3842,3 +3842,13 @@
 2025-09-18 20:28:26 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $362,800.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007319/0001950047-25-007319.txt
 2025-09-18 20:28:28 | AMY F GAREFIS | Officer | Shares: 5553 | Value: $29,042.19 | Percent: 0.007495% | Link: https://www.sec.gov/Archives/edgar/data/1861460/000195004725007318/0001950047-25-007318.txt
 2025-09-18 20:28:29 | AMY F GAREFIS | Officer | Shares: 5553 | Value: $29,042.19 | Percent: 0.007495% | Link: https://www.sec.gov/Archives/edgar/data/1617553/000195004725007318/0001950047-25-007318.txt
+2025-09-18 20:41:45 | Yu-Hsin Lin | CEO, Chairman | Shares: 96950 | Value: $7,077,350.0 | Percent: 0.295279% | Link: https://www.sec.gov/Archives/edgar/data/1965964/000196858225000930/0001968582-25-000930.txt
+2025-09-18 20:41:47 | Yu-Hsin Lin | CEO, Chairman | Shares: 96950 | Value: $7,077,350.0 | Percent: 0.295279% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000196858225000930/0001968582-25-000930.txt
+2025-09-18 20:41:48 | Gleason Todd R | Officer | Shares: 100000 | Value: $5,130,143.45 | Percent: 0.283061% | Link: https://www.sec.gov/Archives/edgar/data/1571235/000195917325006118/0001959173-25-006118.txt
+2025-09-18 20:41:50 | Gleason Todd R | Officer | Shares: 100000 | Value: $5,130,143.45 | Percent: 0.283061% | Link: https://www.sec.gov/Archives/edgar/data/3197/000195917325006118/0001959173-25-006118.txt
+2025-09-18 20:41:52 | OCAMPO SUSAN | 10% Stockholder | Shares: 150000 | Value: $19,449,000.0 | Percent: 0.201420% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000495/0001949846-25-000495.txt
+2025-09-18 20:41:53 | OCAMPO SUSAN | 10% Stockholder | Shares: 150000 | Value: $19,449,000.0 | Percent: 0.201420% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000495/0001949846-25-000495.txt
+2025-09-18 20:41:54 | MATTHEW RABINOWITZ | Director | Shares: 14473 | Value: $2,538,998.39 | Percent: 0.010545% | Link: https://www.sec.gov/Archives/edgar/data/1646382/000195004725007335/0001950047-25-007335.txt
+2025-09-18 20:41:56 | MATTHEW RABINOWITZ | Director | Shares: 14473 | Value: $2,538,998.39 | Percent: 0.010545% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725007335/0001950047-25-007335.txt
+2025-09-18 20:41:57 | ALEXANDER F TRAPP | Officer | Shares: 80626 | Value: $2,218,827.52 | Percent: 0.024106% | Link: https://www.sec.gov/Archives/edgar/data/2055939/000195004725007334/0001950047-25-007334.txt
+2025-09-18 20:41:59 | ALEXANDER F TRAPP | Officer | Shares: 80626 | Value: $2,218,827.52 | Percent: 0.024106% | Link: https://www.sec.gov/Archives/edgar/data/2025410/000195004725007334/0001950047-25-007334.txt
