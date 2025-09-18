@@ -3834,3 +3834,11 @@
 2025-09-18 19:07:43 | Shepard Julie A | Officer | Shares: 9937 | Value: $808,077.83 | Percent: 0.004176% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325006109/0001959173-25-006109.txt
 2025-09-18 19:50:57 | Shao Wei-Ming | Officer | Shares: 10000 | Value: $3,557,889.57 | Percent: 0.003789% | Link: https://www.sec.gov/Archives/edgar/data/1663488/000195917325006110/0001959173-25-006110.txt
 2025-09-18 19:50:58 | Shao Wei-Ming | Officer | Shares: 10000 | Value: $3,557,889.57 | Percent: 0.003789% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325006110/0001959173-25-006110.txt
+2025-09-18 20:28:18 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 25000 | Value: $2,458,500.0 | Percent: 0.019194% | Link: https://www.sec.gov/Archives/edgar/data/1716837/000195004725007321/0001950047-25-007321.txt
+2025-09-18 20:28:19 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 25000 | Value: $2,458,500.0 | Percent: 0.019194% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725007321/0001950047-25-007321.txt
+2025-09-18 20:28:21 | JAMES W KING | Officer | Shares: 7162 | Value: $1,782,059.15 | Percent: 0.008473% | Link: https://www.sec.gov/Archives/edgar/data/1586253/000195004725007320/0001950047-25-007320.txt
+2025-09-18 20:28:23 | JAMES W KING | Officer | Shares: 7162 | Value: $1,782,059.15 | Percent: 0.008473% | Link: https://www.sec.gov/Archives/edgar/data/1528396/000195004725007320/0001950047-25-007320.txt
+2025-09-18 20:28:25 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $362,800.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1753662/000195004725007319/0001950047-25-007319.txt
+2025-09-18 20:28:26 | HAYDEN L BROWN | Director | Shares: 20000 | Value: $362,800.0 | Percent: 0.015082% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007319/0001950047-25-007319.txt
+2025-09-18 20:28:28 | AMY F GAREFIS | Officer | Shares: 5553 | Value: $29,042.19 | Percent: 0.007495% | Link: https://www.sec.gov/Archives/edgar/data/1861460/000195004725007318/0001950047-25-007318.txt
+2025-09-18 20:28:29 | AMY F GAREFIS | Officer | Shares: 5553 | Value: $29,042.19 | Percent: 0.007495% | Link: https://www.sec.gov/Archives/edgar/data/1617553/000195004725007318/0001950047-25-007318.txt
