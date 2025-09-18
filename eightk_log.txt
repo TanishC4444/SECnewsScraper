@@ -4553,3 +4553,7 @@
 2025-09-18 16:21:32 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-09-18T12:05:47-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825007095/0001683168-25-007095.txt
 2025-09-18 16:21:32 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-18T11:57:55-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000200/0001325878-25-000200.txt
 2025-09-18 16:52:25 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-18T12:50:41-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425010900/0001654954-25-010900.txt
+2025-09-18 17:29:06 | 8-K - Carvana Auto Receivables Trust 2025-P3 (0002037953) (Filer) | 2025-09-18T13:16:03-04:00 | https://www.sec.gov/Archives/edgar/data/2037953/000177037325000045/0001770373-25-000045.txt
+2025-09-18 17:29:07 | 8-K - Carvana Receivables Depositor LLC (0001770373) (Filer) | 2025-09-18T13:16:03-04:00 | https://www.sec.gov/Archives/edgar/data/1770373/000177037325000045/0001770373-25-000045.txt
+2025-09-18 17:29:07 | 8-K - Carvana Auto Receivables Trust 2025-P3 (0002037953) (Filer) | 2025-09-18T13:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/2037953/000177037325000043/0001770373-25-000043.txt
+2025-09-18 17:29:08 | 8-K - Carvana Receivables Depositor LLC (0001770373) (Filer) | 2025-09-18T13:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/1770373/000177037325000043/0001770373-25-000043.txt
