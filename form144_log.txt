@@ -3852,3 +3852,7 @@
 2025-09-18 20:41:56 | MATTHEW RABINOWITZ | Director | Shares: 14473 | Value: $2,538,998.39 | Percent: 0.010545% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725007335/0001950047-25-007335.txt
 2025-09-18 20:41:57 | ALEXANDER F TRAPP | Officer | Shares: 80626 | Value: $2,218,827.52 | Percent: 0.024106% | Link: https://www.sec.gov/Archives/edgar/data/2055939/000195004725007334/0001950047-25-007334.txt
 2025-09-18 20:41:59 | ALEXANDER F TRAPP | Officer | Shares: 80626 | Value: $2,218,827.52 | Percent: 0.024106% | Link: https://www.sec.gov/Archives/edgar/data/2025410/000195004725007334/0001950047-25-007334.txt
+2025-09-18 20:54:08 | HAYDEN BROWN | Officer | Shares: 22344 | Value: $428,202.65 | Percent: 0.016850% | Link: https://www.sec.gov/Archives/edgar/data/1753662/000195004725007336/0001950047-25-007336.txt
+2025-09-18 20:54:09 | HAYDEN BROWN | Officer | Shares: 22344 | Value: $428,202.65 | Percent: 0.016850% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007336/0001950047-25-007336.txt
+2025-09-18 20:54:11 | Kelli Keough | Officer | Shares: 60824 | Value: $1,650,763.0 | Percent: 0.005079% | Link: https://www.sec.gov/Archives/edgar/data/2032458/000196858225000933/0001968582-25-000933.txt
+2025-09-18 20:54:12 | Kelli Keough | Officer | Shares: 60824 | Value: $1,650,763.0 | Percent: 0.005079% | Link: https://www.sec.gov/Archives/edgar/data/1818874/000196858225000933/0001968582-25-000933.txt
