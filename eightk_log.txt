@@ -4591,3 +4591,12 @@
 2025-09-18 20:54:04 | 8-K - DBV Technologies S.A. (0001613780) (Filer) | 2025-09-18T16:42:48-04:00 | https://www.sec.gov/Archives/edgar/data/1613780/000119312525207507/0001193125-25-207507.txt
 2025-09-18 20:54:05 | 8-K - New Mountain Guardian IV Income Fund, L.L.C. (0001976719) (Filer) | 2025-09-18T16:41:06-04:00 | https://www.sec.gov/Archives/edgar/data/1976719/000158064225006121/0001580642-25-006121.txt
 2025-09-18 20:54:06 | 8-K - Empire District Bondco, LLC (0001994341) (Filer) | 2025-09-18T16:40:56-04:00 | https://www.sec.gov/Archives/edgar/data/1994341/000110465925091310/0001104659-25-091310.txt
+2025-09-18 21:12:06 | 8-K - Shuttle Pharmaceuticals Holdings, Inc. (0001757499) (Filer) | 2025-09-18T17:11:44-04:00 | https://www.sec.gov/Archives/edgar/data/1757499/000149315225014097/0001493152-25-014097.txt
+2025-09-18 21:12:06 | 8-K - CINCINNATI BELL INC (0000716133) (Filer) | 2025-09-18T17:08:03-04:00 | https://www.sec.gov/Archives/edgar/data/716133/000095015725000796/0000950157-25-000796.txt
+2025-09-18 21:12:08 | 8-K - Getty Images Holdings, Inc. (0001898496) (Filer) | 2025-09-18T17:07:17-04:00 | https://www.sec.gov/Archives/edgar/data/1898496/000121390025089060/0001213900-25-089060.txt
+2025-09-18 21:12:09 | 8-K - Adapti, Inc. (0001420924) (Filer) | 2025-09-18T17:04:49-04:00 | https://www.sec.gov/Archives/edgar/data/1420924/000149315225014094/0001493152-25-014094.txt
+2025-09-18 21:12:10 | 8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer) | 2025-09-18T17:04:39-04:00 | https://www.sec.gov/Archives/edgar/data/1097149/000109714925000069/0001097149-25-000069.txt
+2025-09-18 21:12:12 | 8-K - Kodiak Gas Services, Inc. (0001767042) (Filer) | 2025-09-18T17:03:48-04:00 | https://www.sec.gov/Archives/edgar/data/1767042/000176704225000069/0001767042-25-000069.txt
+2025-09-18 21:12:14 | 8-K - Sotera Health Co (0001822479) (Filer) | 2025-09-18T17:01:56-04:00 | https://www.sec.gov/Archives/edgar/data/1822479/000119312525207549/0001193125-25-207549.txt
+2025-09-18 21:12:15 | 8-K - Laser Photonics Corp (0001807887) (Filer) | 2025-09-18T17:00:56-04:00 | https://www.sec.gov/Archives/edgar/data/1807887/000149315225014090/0001493152-25-014090.txt
+2025-09-18 21:12:17 | 8-K - Service Properties Trust (0000945394) (Filer) | 2025-09-18T17:00:47-04:00 | https://www.sec.gov/Archives/edgar/data/945394/000094539425000069/0000945394-25-000069.txt
