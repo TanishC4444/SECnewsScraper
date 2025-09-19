@@ -3924,3 +3924,5 @@
 2025-09-19 18:57:58 | MERRIMAN DWIGHT A | Director | Shares: 31000 | Value: $9,926,572.84 | Percent: 0.038104% | Link: https://www.sec.gov/Archives/edgar/data/1237858/000195779925000213/0001957799-25-000213.txt
 2025-09-19 18:57:58 | Abraham Euan | Officer | Shares: 25000 | Value: $374,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1983554/000197407825000319/0001974078-25-000319.txt
 2025-09-19 18:57:58 | Abraham Euan | Officer | Shares: 25000 | Value: $374,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000319/0001974078-25-000319.txt
+2025-09-19 19:16:34 | Nick Little | Officer | Shares: 40000 | Value: $4,729,200.0 | Percent: 0.254873% | Link: https://www.sec.gov/Archives/edgar/data/1904975/000102071025000163/0001020710-25-000163.txt
+2025-09-19 19:16:34 | Nick Little | Officer | Shares: 40000 | Value: $4,729,200.0 | Percent: 0.254873% | Link: https://www.sec.gov/Archives/edgar/data/1020710/000102071025000163/0001020710-25-000163.txt
