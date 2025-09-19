@@ -3958,3 +3958,9 @@
 2025-09-19 20:52:47 | Lake Harriet Holdings, LLC | Affiliate | Shares: 350000 | Value: $3,909,500.0 | Percent: 0.089302% | Link: https://www.sec.gov/Archives/edgar/data/1083301/000196858225000938/0001968582-25-000938.txt
 2025-09-19 20:52:48 | DAVID BOTTOMS | Officer | Shares: 10014 | Value: $196,274.4 | Percent: 0.007552% | Link: https://www.sec.gov/Archives/edgar/data/2019194/000195004725007377/0001950047-25-007377.txt
 2025-09-19 20:52:49 | DAVID BOTTOMS | Officer | Shares: 10014 | Value: $196,274.4 | Percent: 0.007552% | Link: https://www.sec.gov/Archives/edgar/data/1627475/000195004725007377/0001950047-25-007377.txt
+2025-09-19 21:08:56 | Andrew Adams | 10%  Beneficial Owner | Shares: 108005 | Value: $4,731,699.05 | Percent: 0.165348% | Link: https://www.sec.gov/Archives/edgar/data/1883085/000162828025042211/0001628280-25-042211.txt
+2025-09-19 21:08:57 | Andrew Adams | 10%  Beneficial Owner | Shares: 108005 | Value: $4,731,699.05 | Percent: 0.165348% | Link: https://www.sec.gov/Archives/edgar/data/1459348/000162828025042211/0001628280-25-042211.txt
+2025-09-19 21:08:58 | ANURADHA MURALIDHARAN | Officer | Shares: 14961 | Value: $28,961.93 | Percent: 0.016148% | Link: https://www.sec.gov/Archives/edgar/data/1891077/000195004725007380/0001950047-25-007380.txt
+2025-09-19 21:08:59 | ANURADHA MURALIDHARAN | Officer | Shares: 14961 | Value: $28,961.93 | Percent: 0.016148% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000195004725007380/0001950047-25-007380.txt
+2025-09-19 21:09:01 | Bacos Anthony | Officer | Shares: 90000 | Value: $505,230.0 | Percent: 0.078792% | Link: https://www.sec.gov/Archives/edgar/data/2004694/000192109425001184/0001921094-25-001184.txt
+2025-09-19 21:09:03 | Bacos Anthony | Officer | Shares: 90000 | Value: $505,230.0 | Percent: 0.078792% | Link: https://www.sec.gov/Archives/edgar/data/1576942/000192109425001184/0001921094-25-001184.txt
