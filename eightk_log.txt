@@ -4617,3 +4617,7 @@
 2025-09-19 10:18:50 | 8-K - Brand Engagement Network Inc. (0001838163) (Filer) | 2025-09-18T18:22:13-04:00 | https://www.sec.gov/Archives/edgar/data/1838163/000149315225014109/0001493152-25-014109.txt
 2025-09-19 10:38:41 | 8-K - Jefferies Financial Group Inc. (0000096223) (Filer) | 2025-09-19T06:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/96223/000114036125035471/0001140361-25-035471.txt
 2025-09-19 10:38:42 | 8-K - Envoy Medical, Inc. (0001840877) (Filer) | 2025-09-19T06:23:37-04:00 | https://www.sec.gov/Archives/edgar/data/1840877/000121390025089225/0001213900-25-089225.txt
+2025-09-19 11:18:13 | 8-K - Wayfair Inc. (0001616707) (Filer) | 2025-09-19T07:05:47-04:00 | https://www.sec.gov/Archives/edgar/data/1616707/000161670725000091/0001616707-25-000091.txt
+2025-09-19 11:18:15 | 8-K - Philip Morris International Inc. (0001413329) (Filer) | 2025-09-19T07:02:44-04:00 | https://www.sec.gov/Archives/edgar/data/1413329/000162828025042043/0001628280-25-042043.txt
+2025-09-19 11:18:17 | 8-K - EDISON INTERNATIONAL (0000827052) (Filer) | 2025-09-19T06:58:14-04:00 | https://www.sec.gov/Archives/edgar/data/827052/000082705225000086/0000827052-25-000086.txt
+2025-09-19 11:18:18 | 8-K - SOUTHERN CALIFORNIA EDISON Co (0000092103) (Filer) | 2025-09-19T06:58:14-04:00 | https://www.sec.gov/Archives/edgar/data/92103/000082705225000086/0000827052-25-000086.txt
