@@ -3918,3 +3918,5 @@
 2025-09-19 15:47:17 | Sheena Jonathan | Director | Shares: 22000 | Value: $4,237,900.0 | Percent: 0.016029% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000194984625000496/0001949846-25-000496.txt
 2025-09-19 15:56:26 | Motz Catherine J. | Director | Shares: 52942 | Value: $600,891.7 | Percent: 0.013508% | Link: https://www.sec.gov/Archives/edgar/data/1877502/000195917325006126/0001959173-25-006126.txt
 2025-09-19 15:56:27 | Motz Catherine J. | Director | Shares: 52942 | Value: $600,891.7 | Percent: 0.013508% | Link: https://www.sec.gov/Archives/edgar/data/1083301/000195917325006126/0001959173-25-006126.txt
+2025-09-19 17:08:24 | The Welch-Drell 2009 Revocable Tr U/A dtd 04/16/09 | On the board | Shares: 40000 | Value: $7,105,600.0 | Percent: 0.000165% | Link: https://www.sec.gov/Archives/edgar/data/1636665/000196922325000785/0001969223-25-000785.txt
+2025-09-19 17:08:25 | The Welch-Drell 2009 Revocable Tr U/A dtd 04/16/09 | On the board | Shares: 40000 | Value: $7,105,600.0 | Percent: 0.000165% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000196922325000785/0001969223-25-000785.txt
