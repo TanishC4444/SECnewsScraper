@@ -3894,3 +3894,5 @@
 2025-09-19 02:14:17 | Song Lin | Officer | Shares: 50000 | Value: $970,500.0 | Percent: 0.055858% | Link: https://www.sec.gov/Archives/edgar/data/1737450/000199252125000004/0001992521-25-000004.txt
 2025-09-19 10:38:44 | Zinman Eran | Officer | Shares: 7000 | Value: $1,318,730.0 | Percent: 0.013787% | Link: https://www.sec.gov/Archives/edgar/data/1952061/000197640825000319/0001976408-25-000319.txt
 2025-09-19 10:38:44 | Zinman Eran | Officer | Shares: 7000 | Value: $1,318,730.0 | Percent: 0.013787% | Link: https://www.sec.gov/Archives/edgar/data/1845338/000197640825000319/0001976408-25-000319.txt
+2025-09-19 10:48:29 | Zohar Nir | Officer | Shares: 44000 | Value: $7,963,560.0 | Percent: 0.078420% | Link: https://www.sec.gov/Archives/edgar/data/1975805/000197640825000320/0001976408-25-000320.txt
+2025-09-19 10:48:30 | Zohar Nir | Officer | Shares: 44000 | Value: $7,963,560.0 | Percent: 0.078420% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000320/0001976408-25-000320.txt
