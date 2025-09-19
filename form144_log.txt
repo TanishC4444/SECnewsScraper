@@ -3946,3 +3946,11 @@
 2025-09-19 20:34:27 | DELANO LADD | Officer | Shares: 9000 | Value: $860,310.0 | Percent: 0.010446% | Link: https://www.sec.gov/Archives/edgar/data/1428336/000195004725007374/0001950047-25-007374.txt
 2025-09-19 20:34:29 | MATTHEW RABINOWITZ | Director | Shares: 25527 | Value: $4,591,286.22 | Percent: 0.018599% | Link: https://www.sec.gov/Archives/edgar/data/1646382/000195004725007373/0001950047-25-007373.txt
 2025-09-19 20:34:30 | MATTHEW RABINOWITZ | Director | Shares: 25527 | Value: $4,591,286.22 | Percent: 0.018599% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000195004725007373/0001950047-25-007373.txt
+2025-09-19 20:43:21 | Tobias Lutke | Officer | Shares: 446584 | Value: $64,031,213.92 | Percent: 0.036593% | Link: https://www.sec.gov/Archives/edgar/data/1666546/000166654625000004/0001666546-25-000004.txt
+2025-09-19 20:43:22 | Tobias Lutke | Officer | Shares: 446584 | Value: $64,031,213.92 | Percent: 0.036593% | Link: https://www.sec.gov/Archives/edgar/data/1594805/000166654625000004/0001666546-25-000004.txt
+2025-09-19 20:43:24 | Wayne DeVeydt | former director | Shares: 10613 | Value: $234,547.3 | Percent: 0.008278% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000786/0001969223-25-000786.txt
+2025-09-19 20:43:25 | Wayne DeVeydt | former director | Shares: 10613 | Value: $234,547.3 | Percent: 0.008278% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000786/0001969223-25-000786.txt
+2025-09-19 20:43:26 | Jessica Hertz | Officer | Shares: 11340 | Value: $1,625,931.64 | Percent: 0.000929% | Link: https://www.sec.gov/Archives/edgar/data/1962731/000196273125000003/0001962731-25-000003.txt
+2025-09-19 20:43:27 | Jessica Hertz | Officer | Shares: 11340 | Value: $1,625,931.64 | Percent: 0.000929% | Link: https://www.sec.gov/Archives/edgar/data/1594805/000196273125000003/0001962731-25-000003.txt
+2025-09-19 20:43:28 | Jeff Hoffmeister | Officer | Shares: 9838 | Value: $1,410,570.79 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/1962732/000196273225000003/0001962732-25-000003.txt
+2025-09-19 20:43:29 | Jeff Hoffmeister | Officer | Shares: 9838 | Value: $1,410,570.79 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/1594805/000196273225000003/0001962732-25-000003.txt
