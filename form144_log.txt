@@ -3970,3 +3970,5 @@
 2025-09-19 21:36:13 | Danker Daniel | Former Affiliate | Shares: 8161 | Value: $347,268.0 | Percent: 0.003098% | Link: https://www.sec.gov/Archives/edgar/data/1579091/000192109425001185/0001921094-25-001185.txt
 2025-09-19 21:36:15 | Lyssikatos Joseph P | Officer | Shares: 12500 | Value: $249,125.0 | Percent: 0.021186% | Link: https://www.sec.gov/Archives/edgar/data/1967150/000197415825000060/0001974158-25-000060.txt
 2025-09-19 21:36:17 | Lyssikatos Joseph P | Officer | Shares: 12500 | Value: $249,125.0 | Percent: 0.021186% | Link: https://www.sec.gov/Archives/edgar/data/1672619/000197415825000060/0001974158-25-000060.txt
+2025-09-19 22:30:55 | Charles Giancarlo | Director | Shares: 82000 | Value: $12,026,120.0 | Percent: 0.006524% | Link: https://www.sec.gov/Archives/edgar/data/1596532/000196858225000940/0001968582-25-000940.txt
+2025-09-19 22:30:56 | Charles Giancarlo | Director | Shares: 82000 | Value: $12,026,120.0 | Percent: 0.006524% | Link: https://www.sec.gov/Archives/edgar/data/1299634/000196858225000940/0001968582-25-000940.txt
