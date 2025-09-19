@@ -3914,3 +3914,5 @@
 2025-09-19 15:24:00 | Kathryn J McLay | Officer | Shares: 12000 | Value: $1,231,800.0 | Percent: 0.000151% | Link: https://www.sec.gov/Archives/edgar/data/104169/000162828025042072/0001628280-25-042072.txt
 2025-09-19 15:24:02 | Kinzer John | Director | Shares: 30000 | Value: $600,000.0 | Percent: 0.034038% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325006125/0001959173-25-006125.txt
 2025-09-19 15:24:03 | Kinzer John | Director | Shares: 30000 | Value: $600,000.0 | Percent: 0.034038% | Link: https://www.sec.gov/Archives/edgar/data/1621078/000195917325006125/0001959173-25-006125.txt
+2025-09-19 15:47:16 | Sheena Jonathan | Director | Shares: 22000 | Value: $4,237,900.0 | Percent: 0.016029% | Link: https://www.sec.gov/Archives/edgar/data/1646649/000194984625000496/0001949846-25-000496.txt
+2025-09-19 15:47:17 | Sheena Jonathan | Director | Shares: 22000 | Value: $4,237,900.0 | Percent: 0.016029% | Link: https://www.sec.gov/Archives/edgar/data/1604821/000194984625000496/0001949846-25-000496.txt
