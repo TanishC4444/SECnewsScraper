@@ -3930,3 +3930,11 @@
 2025-09-19 19:37:50 | JETER JAMES J | Officer | Shares: 7000 | Value: $831,740.0 | Percent: 0.003772% | Link: https://www.sec.gov/Archives/edgar/data/1046102/000195917325006127/0001959173-25-006127.txt
 2025-09-19 19:47:27 | Killoy Christopher John | Officer | Shares: 10000 | Value: $400,000.0 | Percent: 0.061873% | Link: https://www.sec.gov/Archives/edgar/data/1308010/000194984625000497/0001949846-25-000497.txt
 2025-09-19 19:47:27 | Killoy Christopher John | Officer | Shares: 10000 | Value: $400,000.0 | Percent: 0.061873% | Link: https://www.sec.gov/Archives/edgar/data/95029/000194984625000497/0001949846-25-000497.txt
+2025-09-19 20:20:16 | WHITNEY K MCGUIRE LIV TRUST | Former Affiliate | Shares: 11051 | Value: $79,014.65 | Percent: 0.016494% | Link: https://www.sec.gov/Archives/edgar/data/2023920/000195004725007361/0001950047-25-007361.txt
+2025-09-19 20:20:17 | WHITNEY K MCGUIRE LIV TRUST | Former Affiliate | Shares: 11051 | Value: $79,014.65 | Percent: 0.016494% | Link: https://www.sec.gov/Archives/edgar/data/1597672/000195004725007361/0001950047-25-007361.txt
+2025-09-19 20:20:19 | Gleason Todd R | Officer | Shares: 101899 | Value: $5,025,672.34 | Percent: 0.288436% | Link: https://www.sec.gov/Archives/edgar/data/1571235/000195917325006130/0001959173-25-006130.txt
+2025-09-19 20:20:19 | Gleason Todd R | Officer | Shares: 101899 | Value: $5,025,672.34 | Percent: 0.288436% | Link: https://www.sec.gov/Archives/edgar/data/3197/000195917325006130/0001959173-25-006130.txt
+2025-09-19 20:20:21 | Dunlop A. Sinclair | Director | Shares: 93276 | Value: $2,140,917.0 | Percent: 0.073859% | Link: https://www.sec.gov/Archives/edgar/data/1721108/000197248125000213/0001972481-25-000213.txt
+2025-09-19 20:20:23 | Dunlop A. Sinclair | Director | Shares: 93276 | Value: $2,140,917.0 | Percent: 0.073859% | Link: https://www.sec.gov/Archives/edgar/data/1492422/000197248125000213/0001972481-25-000213.txt
+2025-09-19 20:20:25 | IP FIBRE DEVICES LTD | 10% Stockholder | Shares: 192501 | Value: $12,600,560.0 | Percent: 0.455948% | Link: https://www.sec.gov/Archives/edgar/data/1130423/000197248125000212/0001972481-25-000212.txt
+2025-09-19 20:20:26 | IP FIBRE DEVICES LTD | 10% Stockholder | Shares: 192501 | Value: $12,600,560.0 | Percent: 0.455948% | Link: https://www.sec.gov/Archives/edgar/data/1111928/000197248125000212/0001972481-25-000212.txt
