@@ -3896,3 +3896,5 @@
 2025-09-19 10:38:44 | Zinman Eran | Officer | Shares: 7000 | Value: $1,318,730.0 | Percent: 0.013787% | Link: https://www.sec.gov/Archives/edgar/data/1845338/000197640825000319/0001976408-25-000319.txt
 2025-09-19 10:48:29 | Zohar Nir | Officer | Shares: 44000 | Value: $7,963,560.0 | Percent: 0.078420% | Link: https://www.sec.gov/Archives/edgar/data/1975805/000197640825000320/0001976408-25-000320.txt
 2025-09-19 10:48:30 | Zohar Nir | Officer | Shares: 44000 | Value: $7,963,560.0 | Percent: 0.078420% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000320/0001976408-25-000320.txt
+2025-09-19 10:58:03 | Shai Omer | Officer | Shares: 6579 | Value: $1,190,733.21 | Percent: 0.011726% | Link: https://www.sec.gov/Archives/edgar/data/1976036/000197640825000321/0001976408-25-000321.txt
+2025-09-19 10:58:04 | Shai Omer | Officer | Shares: 6579 | Value: $1,190,733.21 | Percent: 0.011726% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000321/0001976408-25-000321.txt
