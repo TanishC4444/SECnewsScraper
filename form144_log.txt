@@ -3928,3 +3928,5 @@
 2025-09-19 19:16:34 | Nick Little | Officer | Shares: 40000 | Value: $4,729,200.0 | Percent: 0.254873% | Link: https://www.sec.gov/Archives/edgar/data/1020710/000102071025000163/0001020710-25-000163.txt
 2025-09-19 19:37:49 | JETER JAMES J | Officer | Shares: 7000 | Value: $831,740.0 | Percent: 0.003772% | Link: https://www.sec.gov/Archives/edgar/data/1242860/000195917325006127/0001959173-25-006127.txt
 2025-09-19 19:37:50 | JETER JAMES J | Officer | Shares: 7000 | Value: $831,740.0 | Percent: 0.003772% | Link: https://www.sec.gov/Archives/edgar/data/1046102/000195917325006127/0001959173-25-006127.txt
+2025-09-19 19:47:27 | Killoy Christopher John | Officer | Shares: 10000 | Value: $400,000.0 | Percent: 0.061873% | Link: https://www.sec.gov/Archives/edgar/data/1308010/000194984625000497/0001949846-25-000497.txt
+2025-09-19 19:47:27 | Killoy Christopher John | Officer | Shares: 10000 | Value: $400,000.0 | Percent: 0.061873% | Link: https://www.sec.gov/Archives/edgar/data/95029/000194984625000497/0001949846-25-000497.txt
