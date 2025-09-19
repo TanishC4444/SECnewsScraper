@@ -3898,3 +3898,7 @@
 2025-09-19 10:48:30 | Zohar Nir | Officer | Shares: 44000 | Value: $7,963,560.0 | Percent: 0.078420% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000320/0001976408-25-000320.txt
 2025-09-19 10:58:03 | Shai Omer | Officer | Shares: 6579 | Value: $1,190,733.21 | Percent: 0.011726% | Link: https://www.sec.gov/Archives/edgar/data/1976036/000197640825000321/0001976408-25-000321.txt
 2025-09-19 10:58:04 | Shai Omer | Officer | Shares: 6579 | Value: $1,190,733.21 | Percent: 0.011726% | Link: https://www.sec.gov/Archives/edgar/data/1576789/000197640825000321/0001976408-25-000321.txt
+2025-09-19 13:18:19 | Charles Edwin Collins IV | Officer | Shares: 49401 | Value: $11,955,042.0 | Percent: 0.357678% | Link: https://www.sec.gov/Archives/edgar/data/1791800/000179180025000004/0001791800-25-000004.txt
+2025-09-19 13:18:20 | Charles Edwin Collins IV | Officer | Shares: 49401 | Value: $11,955,042.0 | Percent: 0.357678% | Link: https://www.sec.gov/Archives/edgar/data/100591/000179180025000004/0001791800-25-000004.txt
+2025-09-19 13:18:21 | Lu Yong | Officer | Shares: 50000 | Value: $287,000.0 | Percent: 0.014685% | Link: https://www.sec.gov/Archives/edgar/data/2073612/000207361225000003/0002073612-25-000003.txt
+2025-09-19 13:18:22 | Lu Yong | Officer | Shares: 50000 | Value: $287,000.0 | Percent: 0.014685% | Link: https://www.sec.gov/Archives/edgar/data/1708259/000207361225000003/0002073612-25-000003.txt
