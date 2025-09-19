@@ -3966,3 +3966,7 @@
 2025-09-19 21:09:03 | Bacos Anthony | Officer | Shares: 90000 | Value: $505,230.0 | Percent: 0.078792% | Link: https://www.sec.gov/Archives/edgar/data/1576942/000192109425001184/0001921094-25-001184.txt
 2025-09-19 21:25:45 | BRACKEBUSCH GRANT A | DIRECTOR | Shares: 15937 | Value: $464,883.0 | Percent: 0.113363% | Link: https://www.sec.gov/Archives/edgar/data/1276957/000165495425010953/0001654954-25-010953.txt
 2025-09-19 21:25:47 | BRACKEBUSCH GRANT A | DIRECTOR | Shares: 15937 | Value: $464,883.0 | Percent: 0.113363% | Link: https://www.sec.gov/Archives/edgar/data/1030192/000165495425010953/0001654954-25-010953.txt
+2025-09-19 21:36:12 | Danker Daniel | Former Affiliate | Shares: 8161 | Value: $347,268.0 | Percent: 0.003098% | Link: https://www.sec.gov/Archives/edgar/data/2064502/000192109425001185/0001921094-25-001185.txt
+2025-09-19 21:36:13 | Danker Daniel | Former Affiliate | Shares: 8161 | Value: $347,268.0 | Percent: 0.003098% | Link: https://www.sec.gov/Archives/edgar/data/1579091/000192109425001185/0001921094-25-001185.txt
+2025-09-19 21:36:15 | Lyssikatos Joseph P | Officer | Shares: 12500 | Value: $249,125.0 | Percent: 0.021186% | Link: https://www.sec.gov/Archives/edgar/data/1967150/000197415825000060/0001974158-25-000060.txt
+2025-09-19 21:36:17 | Lyssikatos Joseph P | Officer | Shares: 12500 | Value: $249,125.0 | Percent: 0.021186% | Link: https://www.sec.gov/Archives/edgar/data/1672619/000197415825000060/0001974158-25-000060.txt
