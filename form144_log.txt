@@ -3964,3 +3964,5 @@
 2025-09-19 21:08:59 | ANURADHA MURALIDHARAN | Officer | Shares: 14961 | Value: $28,961.93 | Percent: 0.016148% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000195004725007380/0001950047-25-007380.txt
 2025-09-19 21:09:01 | Bacos Anthony | Officer | Shares: 90000 | Value: $505,230.0 | Percent: 0.078792% | Link: https://www.sec.gov/Archives/edgar/data/2004694/000192109425001184/0001921094-25-001184.txt
 2025-09-19 21:09:03 | Bacos Anthony | Officer | Shares: 90000 | Value: $505,230.0 | Percent: 0.078792% | Link: https://www.sec.gov/Archives/edgar/data/1576942/000192109425001184/0001921094-25-001184.txt
+2025-09-19 21:25:45 | BRACKEBUSCH GRANT A | DIRECTOR | Shares: 15937 | Value: $464,883.0 | Percent: 0.113363% | Link: https://www.sec.gov/Archives/edgar/data/1276957/000165495425010953/0001654954-25-010953.txt
+2025-09-19 21:25:47 | BRACKEBUSCH GRANT A | DIRECTOR | Shares: 15937 | Value: $464,883.0 | Percent: 0.113363% | Link: https://www.sec.gov/Archives/edgar/data/1030192/000165495425010953/0001654954-25-010953.txt
