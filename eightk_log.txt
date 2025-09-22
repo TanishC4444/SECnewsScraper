@@ -4816,3 +4816,6 @@
 2025-09-22 20:39:55 | 8-K - LGL GROUP INC (0000061004) (Filer) | 2025-09-22T16:31:12-04:00 | https://www.sec.gov/Archives/edgar/data/61004/000143774925029602/0001437749-25-029602.txt
 2025-09-22 20:39:57 | 8-K - Fathom Holdings Inc. (0001753162) (Filer) | 2025-09-22T16:30:49-04:00 | https://www.sec.gov/Archives/edgar/data/1753162/000110465925092155/0001104659-25-092155.txt
 2025-09-22 20:39:59 | 8-K - Hyperscale Data, Inc. (0000896493) (Filer) | 2025-09-22T16:30:33-04:00 | https://www.sec.gov/Archives/edgar/data/896493/000121465925014008/0001214659-25-014008.txt
+2025-09-22 20:49:07 | 8-K - Acurx Pharmaceuticals, Inc. (0001736243) (Filer) | 2025-09-22T16:42:31-04:00 | https://www.sec.gov/Archives/edgar/data/1736243/000110465925092166/0001104659-25-092166.txt
+2025-09-22 20:49:09 | 8-K - FS KKR Capital Corp (0001422183) (Filer) | 2025-09-22T16:41:51-04:00 | https://www.sec.gov/Archives/edgar/data/1422183/000110465925092165/0001104659-25-092165.txt
+2025-09-22 20:49:10 | 8-K - Fortrea Holdings Inc. (0001965040) (Filer) | 2025-09-22T16:41:14-04:00 | https://www.sec.gov/Archives/edgar/data/1965040/000162828025042341/0001628280-25-042341.txt

@@ -4018,3 +4018,11 @@
 2025-09-22 20:40:04 | Wayne DeVeydt | former director | Shares: 50000 | Value: $1,092,666.0 | Percent: 0.038999% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000790/0001969223-25-000790.txt
 2025-09-22 20:40:05 | JOHN SWYGERT | Director | Shares: 107058 | Value: $14,718,333.84 | Percent: 0.174617% | Link: https://www.sec.gov/Archives/edgar/data/1639300/000195004725007417/0001950047-25-007417.txt
 2025-09-22 20:40:06 | JOHN SWYGERT | Director | Shares: 107058 | Value: $14,718,333.84 | Percent: 0.174617% | Link: https://www.sec.gov/Archives/edgar/data/1276412/000195004725007417/0001950047-25-007417.txt
+2025-09-22 20:49:12 | Michelle S. Mapes | Officer | Shares: 31000 | Value: $299,150.0 | Percent: 0.047281% | Link: https://www.sec.gov/Archives/edgar/data/1475659/000147565925000004/0001475659-25-000004.txt
+2025-09-22 20:49:13 | Michelle S. Mapes | Officer | Shares: 31000 | Value: $299,150.0 | Percent: 0.047281% | Link: https://www.sec.gov/Archives/edgar/data/1309402/000147565925000004/0001475659-25-000004.txt
+2025-09-22 20:49:15 | Kenneth Stacherski | Former Officer | Shares: 19524 | Value: $1,453,773.0 | Percent: 0.004276% | Link: https://www.sec.gov/Archives/edgar/data/1932393/000196922325000791/0001969223-25-000791.txt
+2025-09-22 20:49:16 | Kenneth Stacherski | Former Officer | Shares: 19524 | Value: $1,453,773.0 | Percent: 0.004276% | Link: https://www.sec.gov/Archives/edgar/data/1889865/000196922325000791/0001969223-25-000791.txt
+2025-09-22 20:49:17 | EMAMI MAJID | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1920475/000192047525000008/0001920475-25-000008.txt
+2025-09-22 20:49:18 | EMAMI MAJID | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000192047525000008/0001920475-25-000008.txt
+2025-09-22 20:49:20 | 1 | Director | Shares: 34447 | Value: $426,608.0 | Percent: 0.037878% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025042342/0001628280-25-042342.txt
+2025-09-22 20:49:21 | 1 | Director | Shares: 34447 | Value: $426,608.0 | Percent: 0.037878% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025042342/0001628280-25-042342.txt
