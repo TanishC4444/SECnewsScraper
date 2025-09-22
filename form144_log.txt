@@ -3988,3 +3988,5 @@
 2025-09-22 14:36:30 | Fields Kimberly A | Officer | Shares: 20312 | Value: $1,631,662.96 | Percent: 0.014737% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006133/0001959173-25-006133.txt
 2025-09-22 14:58:50 | Goodsell Erin | Officer | Shares: 9541 | Value: $71,557.5 | Percent: 0.012385% | Link: https://www.sec.gov/Archives/edgar/data/1937042/000195917325006135/0001959173-25-006135.txt
 2025-09-22 14:58:52 | Goodsell Erin | Officer | Shares: 9541 | Value: $71,557.5 | Percent: 0.012385% | Link: https://www.sec.gov/Archives/edgar/data/1609151/000195917325006135/0001959173-25-006135.txt
+2025-09-22 15:25:35 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,503,715.06 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006136/0001959173-25-006136.txt
+2025-09-22 15:25:36 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,503,715.06 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006136/0001959173-25-006136.txt
