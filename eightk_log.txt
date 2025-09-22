@@ -4834,3 +4834,13 @@
 2025-09-22 21:18:41 | 8-K - PROS Holdings, Inc. (0001392972) (Filer) | 2025-09-22T17:05:53-04:00 | https://www.sec.gov/Archives/edgar/data/1392972/000119312525211519/0001193125-25-211519.txt
 2025-09-22 21:18:42 | 8-K - QDM International Inc. (0001094032) (Filer) | 2025-09-22T17:04:59-04:00 | https://www.sec.gov/Archives/edgar/data/1094032/000121390025090168/0001213900-25-090168.txt
 2025-09-22 21:18:42 | 8-K - Ares Core Infrastructure Fund (0002031750) (Filer) | 2025-09-22T17:03:48-04:00 | https://www.sec.gov/Archives/edgar/data/2031750/000203175025000016/0002031750-25-000016.txt
+2025-09-22 21:29:18 | 8-K - NORTHERN OIL & GAS, INC. (0001104485) (Filer) | 2025-09-22T17:28:18-04:00 | https://www.sec.gov/Archives/edgar/data/1104485/000119312525211603/0001193125-25-211603.txt
+2025-09-22 21:29:20 | 8-K - ENERGIZER HOLDINGS, INC. (0001632790) (Filer) | 2025-09-22T17:28:06-04:00 | https://www.sec.gov/Archives/edgar/data/1632790/000114036125035737/0001140361-25-035737.txt
+2025-09-22 21:29:22 | 8-K - BLUM HOLDINGS, INC. (0001996210) (Filer) | 2025-09-22T17:27:45-04:00 | https://www.sec.gov/Archives/edgar/data/1996210/000143774925029627/0001437749-25-029627.txt
+2025-09-22 21:29:25 | 8-K - Netcapital Inc. (0001414767) (Filer) | 2025-09-22T17:26:50-04:00 | https://www.sec.gov/Archives/edgar/data/1414767/000149315225014514/0001493152-25-014514.txt
+2025-09-22 21:29:27 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-22T17:26:19-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925092186/0001104659-25-092186.txt
+2025-09-22 21:29:29 | 8-K - Comstock Holding Companies, Inc. (0001299969) (Filer) | 2025-09-22T17:25:55-04:00 | https://www.sec.gov/Archives/edgar/data/1299969/000162828025042354/0001628280-25-042354.txt
+2025-09-22 21:29:31 | 8-K - Rithm Capital Corp. (0001556593) (Filer) | 2025-09-22T17:25:49-04:00 | https://www.sec.gov/Archives/edgar/data/1556593/000114036125035736/0001140361-25-035736.txt
+2025-09-22 21:29:32 | 8-K - StableX Technologies, Inc. (0001086745) (Filer) | 2025-09-22T17:25:23-04:00 | https://www.sec.gov/Archives/edgar/data/1086745/000149315225014513/0001493152-25-014513.txt
+2025-09-22 21:29:35 | 8-K - ASGN Inc (0000890564) (Filer) | 2025-09-22T17:24:58-04:00 | https://www.sec.gov/Archives/edgar/data/890564/000089056425000053/0000890564-25-000053.txt
+2025-09-22 21:29:35 | 8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer) | 2025-09-22T17:23:42-04:00 | https://www.sec.gov/Archives/edgar/data/1948056/000194805625000055/0001948056-25-000055.txt

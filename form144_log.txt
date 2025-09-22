@@ -4036,3 +4036,9 @@
 2025-09-22 21:18:48 | MOHAJER KEYVAN | Officer | Shares: 138523 | Value: $2,250,998.75 | Percent: 0.036007% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000191799525000002/0001917995-25-000002.txt
 2025-09-22 21:18:50 | DOUGLAS J. PFERDEHIRT IRREV TRUST | Spouse of Officer | Shares: 80304 | Value: $3,079,481.73 | Percent: 0.019538% | Link: https://www.sec.gov/Archives/edgar/data/1681459/000195004725007418/0001950047-25-007418.txt
 2025-09-22 21:18:52 | DOUGLAS J. PFERDEHIRT IRREV TRUST | Spouse of Officer | Shares: 80304 | Value: $3,079,481.73 | Percent: 0.019538% | Link: https://www.sec.gov/Archives/edgar/data/1250840/000195004725007418/0001950047-25-007418.txt
+2025-09-22 21:29:37 | George Robert Kurtz | CEO | Shares: 17830 | Value: $8,817,431.0 | Percent: 0.007105% | Link: https://www.sec.gov/Archives/edgar/data/1778564/000196858225000953/0001968582-25-000953.txt
+2025-09-22 21:29:39 | George Robert Kurtz | CEO | Shares: 17830 | Value: $8,817,431.0 | Percent: 0.007105% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225000953/0001968582-25-000953.txt
+2025-09-22 21:29:41 | GERALD BLOTZ | Officer | Shares: 11664 | Value: $537,489.95 | Percent: 0.045404% | Link: https://www.sec.gov/Archives/edgar/data/1606794/000195004725007422/0001950047-25-007422.txt
+2025-09-22 21:29:42 | GERALD BLOTZ | Officer | Shares: 11664 | Value: $537,489.95 | Percent: 0.045404% | Link: https://www.sec.gov/Archives/edgar/data/902791/000195004725007422/0001950047-25-007422.txt
+2025-09-22 21:29:44 | LAURENCE ROSE | Director | Shares: 20000 | Value: $100,064.0 | Percent: 0.009556% | Link: https://www.sec.gov/Archives/edgar/data/2001077/000195004725007421/0001950047-25-007421.txt
+2025-09-22 21:29:46 | LAURENCE ROSE | Director | Shares: 20000 | Value: $100,064.0 | Percent: 0.009556% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007421/0001950047-25-007421.txt
