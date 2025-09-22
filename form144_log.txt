@@ -4044,3 +4044,5 @@
 2025-09-22 21:29:46 | LAURENCE ROSE | Director | Shares: 20000 | Value: $100,064.0 | Percent: 0.009556% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007421/0001950047-25-007421.txt
 2025-09-22 21:48:46 | Patrick Dovigi | President, CEO and Director | Shares: 312301 | Value: $14,506,381.0 | Percent: 0.088840% | Link: https://www.sec.gov/Archives/edgar/data/1845837/000196858225000954/0001968582-25-000954.txt
 2025-09-22 21:48:47 | Patrick Dovigi | President, CEO and Director | Shares: 312301 | Value: $14,506,381.0 | Percent: 0.088840% | Link: https://www.sec.gov/Archives/edgar/data/1780232/000196858225000954/0001968582-25-000954.txt
+2025-09-22 22:52:38 | AI LiquidRE LLC | Other / Affiliate | Shares: 11355200 | Value: $95,156,576.0 | Percent: 1.530104% | Link: https://www.sec.gov/Archives/edgar/data/1879878/000119312525211778/0001193125-25-211778.txt
+2025-09-22 22:52:39 | AI LiquidRE LLC | Other / Affiliate | Shares: 11355200 | Value: $95,156,576.0 | Percent: 1.530104% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000119312525211778/0001193125-25-211778.txt
