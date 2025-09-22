@@ -4810,3 +4810,9 @@
 2025-09-22 20:26:20 | 8-K - Vestiage, Inc. (0001594968) (Filer) | 2025-09-22T16:17:52-04:00 | https://www.sec.gov/Archives/edgar/data/1594968/000168316825007175/0001683168-25-007175.txt
 2025-09-22 20:26:22 | 8-K - Professional Diversity Network, Inc. (0001546296) (Filer) | 2025-09-22T16:17:15-04:00 | https://www.sec.gov/Archives/edgar/data/1546296/000143774925029594/0001437749-25-029594.txt
 2025-09-22 20:26:23 | 8-K - Morgan Stanley Direct Lending Fund (0001782524) (Filer) | 2025-09-22T16:16:44-04:00 | https://www.sec.gov/Archives/edgar/data/1782524/000119312525211335/0001193125-25-211335.txt
+2025-09-22 20:39:52 | 8-K - MAXCYTE, INC. (0001287098) (Filer) | 2025-09-22T16:39:10-04:00 | https://www.sec.gov/Archives/edgar/data/1287098/000110465925092162/0001104659-25-092162.txt
+2025-09-22 20:39:52 | 8-K - Monroe Capital Income Plus Corp (0001742313) (Filer) | 2025-09-22T16:32:47-04:00 | https://www.sec.gov/Archives/edgar/data/1742313/000174231325000068/0001742313-25-000068.txt
+2025-09-22 20:39:54 | 8-K - AMKOR TECHNOLOGY, INC. (0001047127) (Filer) | 2025-09-22T16:31:33-04:00 | https://www.sec.gov/Archives/edgar/data/1047127/000104712725000184/0001047127-25-000184.txt
+2025-09-22 20:39:55 | 8-K - LGL GROUP INC (0000061004) (Filer) | 2025-09-22T16:31:12-04:00 | https://www.sec.gov/Archives/edgar/data/61004/000143774925029602/0001437749-25-029602.txt
+2025-09-22 20:39:57 | 8-K - Fathom Holdings Inc. (0001753162) (Filer) | 2025-09-22T16:30:49-04:00 | https://www.sec.gov/Archives/edgar/data/1753162/000110465925092155/0001104659-25-092155.txt
+2025-09-22 20:39:59 | 8-K - Hyperscale Data, Inc. (0000896493) (Filer) | 2025-09-22T16:30:33-04:00 | https://www.sec.gov/Archives/edgar/data/896493/000121465925014008/0001214659-25-014008.txt

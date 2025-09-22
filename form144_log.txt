@@ -4012,3 +4012,9 @@
 2025-09-22 20:26:31 | DEREK ANTHONY WEST | Officer | Shares: 93750 | Value: $9,235,312.5 | Percent: 0.004496% | Link: https://www.sec.gov/Archives/edgar/data/1543151/000195004725007411/0001950047-25-007411.txt
 2025-09-22 20:26:33 | ILVES Erika | Officer | Shares: 1591485 | Value: $9,185,980.34 | Percent: 0.391612% | Link: https://www.sec.gov/Archives/edgar/data/1878778/000196430625000363/0001964306-25-000363.txt
 2025-09-22 20:26:34 | ILVES Erika | Officer | Shares: 1591485 | Value: $9,185,980.34 | Percent: 0.391612% | Link: https://www.sec.gov/Archives/edgar/data/1798562/000196430625000363/0001964306-25-000363.txt
+2025-09-22 20:40:00 | Podbere Burt W. | Officer | Shares: 10706 | Value: $5,306,617.33 | Percent: 0.004266% | Link: https://www.sec.gov/Archives/edgar/data/1778610/000195917325006151/0001959173-25-006151.txt
+2025-09-22 20:40:01 | Podbere Burt W. | Officer | Shares: 10706 | Value: $5,306,617.33 | Percent: 0.004266% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000195917325006151/0001959173-25-006151.txt
+2025-09-22 20:40:02 | Wayne DeVeydt | former director | Shares: 50000 | Value: $1,092,666.0 | Percent: 0.038999% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000790/0001969223-25-000790.txt
+2025-09-22 20:40:04 | Wayne DeVeydt | former director | Shares: 50000 | Value: $1,092,666.0 | Percent: 0.038999% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000790/0001969223-25-000790.txt
+2025-09-22 20:40:05 | JOHN SWYGERT | Director | Shares: 107058 | Value: $14,718,333.84 | Percent: 0.174617% | Link: https://www.sec.gov/Archives/edgar/data/1639300/000195004725007417/0001950047-25-007417.txt
+2025-09-22 20:40:06 | JOHN SWYGERT | Director | Shares: 107058 | Value: $14,718,333.84 | Percent: 0.174617% | Link: https://www.sec.gov/Archives/edgar/data/1276412/000195004725007417/0001950047-25-007417.txt
