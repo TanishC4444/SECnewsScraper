@@ -4844,3 +4844,5 @@
 2025-09-22 21:29:32 | 8-K - StableX Technologies, Inc. (0001086745) (Filer) | 2025-09-22T17:25:23-04:00 | https://www.sec.gov/Archives/edgar/data/1086745/000149315225014513/0001493152-25-014513.txt
 2025-09-22 21:29:35 | 8-K - ASGN Inc (0000890564) (Filer) | 2025-09-22T17:24:58-04:00 | https://www.sec.gov/Archives/edgar/data/890564/000089056425000053/0000890564-25-000053.txt
 2025-09-22 21:29:35 | 8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer) | 2025-09-22T17:23:42-04:00 | https://www.sec.gov/Archives/edgar/data/1948056/000194805625000055/0001948056-25-000055.txt
+2025-09-22 21:39:19 | 8-K - Allarity Therapeutics, Inc. (0001860657) (Filer) | 2025-09-22T17:30:33-04:00 | https://www.sec.gov/Archives/edgar/data/1860657/000121390025090197/0001213900-25-090197.txt
+2025-09-22 21:39:20 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-22T17:30:12-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000095010325011965/0000950103-25-011965.txt
