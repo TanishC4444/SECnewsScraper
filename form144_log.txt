@@ -4026,3 +4026,5 @@
 2025-09-22 20:49:18 | EMAMI MAJID | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000192047525000008/0001920475-25-000008.txt
 2025-09-22 20:49:20 | 1 | Director | Shares: 34447 | Value: $426,608.0 | Percent: 0.037878% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025042342/0001628280-25-042342.txt
 2025-09-22 20:49:21 | 1 | Director | Shares: 34447 | Value: $426,608.0 | Percent: 0.037878% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025042342/0001628280-25-042342.txt
+2025-09-22 20:58:15 | HOM JAMES MING | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1920481/000192048125000002/0001920481-25-000002.txt
+2025-09-22 20:58:16 | HOM JAMES MING | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000192048125000002/0001920481-25-000002.txt
