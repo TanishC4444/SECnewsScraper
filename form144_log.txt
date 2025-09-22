@@ -4004,3 +4004,11 @@
 2025-09-22 17:41:07 | mDR Ltd | 10% Stockholder | Shares: 54644 | Value: $102,731.0 | Percent: 0.465701% | Link: https://www.sec.gov/Archives/edgar/data/1873093/000147793225006908/0001477932-25-006908.txt
 2025-09-22 18:35:15 | Morgan Robert John | Officer | Shares: 7143 | Value: $218,004.36 | Percent: 0.049244% | Link: https://www.sec.gov/Archives/edgar/data/1728890/000195917325006139/0001959173-25-006139.txt
 2025-09-22 18:35:16 | Morgan Robert John | Officer | Shares: 7143 | Value: $218,004.36 | Percent: 0.049244% | Link: https://www.sec.gov/Archives/edgar/data/1030192/000195917325006139/0001959173-25-006139.txt
+2025-09-22 20:26:25 | PEDRO OSVALDO HEILBRON CALONGE | Officer | Shares: 8057 | Value: $964,825.75 | Percent: 0.026682% | Link: https://www.sec.gov/Archives/edgar/data/1975040/000195004725007412/0001950047-25-007412.txt
+2025-09-22 20:26:26 | PEDRO OSVALDO HEILBRON CALONGE | Officer | Shares: 8057 | Value: $964,825.75 | Percent: 0.026682% | Link: https://www.sec.gov/Archives/edgar/data/1345105/000195004725007412/0001950047-25-007412.txt
+2025-09-22 20:26:28 | MACMILLAN STEPHEN P | Officer | Shares: 138358 | Value: $9,266,548.29 | Percent: 0.062206% | Link: https://www.sec.gov/Archives/edgar/data/1239351/000195917325006149/0001959173-25-006149.txt
+2025-09-22 20:26:29 | MACMILLAN STEPHEN P | Officer | Shares: 138358 | Value: $9,266,548.29 | Percent: 0.062206% | Link: https://www.sec.gov/Archives/edgar/data/859737/000195917325006149/0001959173-25-006149.txt
+2025-09-22 20:26:30 | DEREK ANTHONY WEST | Officer | Shares: 93750 | Value: $9,235,312.5 | Percent: 0.004496% | Link: https://www.sec.gov/Archives/edgar/data/1626201/000195004725007411/0001950047-25-007411.txt
+2025-09-22 20:26:31 | DEREK ANTHONY WEST | Officer | Shares: 93750 | Value: $9,235,312.5 | Percent: 0.004496% | Link: https://www.sec.gov/Archives/edgar/data/1543151/000195004725007411/0001950047-25-007411.txt
+2025-09-22 20:26:33 | ILVES Erika | Officer | Shares: 1591485 | Value: $9,185,980.34 | Percent: 0.391612% | Link: https://www.sec.gov/Archives/edgar/data/1878778/000196430625000363/0001964306-25-000363.txt
+2025-09-22 20:26:34 | ILVES Erika | Officer | Shares: 1591485 | Value: $9,185,980.34 | Percent: 0.391612% | Link: https://www.sec.gov/Archives/edgar/data/1798562/000196430625000363/0001964306-25-000363.txt
