@@ -4763,3 +4763,11 @@
 2025-09-22 12:55:01 | 8-K - Complete Solaria, Inc. (0001838987) (Filer) | 2025-09-22T08:30:25-04:00 | https://www.sec.gov/Archives/edgar/data/1838987/000121390025089842/0001213900-25-089842.txt
 2025-09-22 12:55:01 | 8-K - LAMAR ADVERTISING CO/NEW (0001090425) (Filer) | 2025-09-22T08:25:11-04:00 | https://www.sec.gov/Archives/edgar/data/1090425/000119312525210108/0001193125-25-210108.txt
 2025-09-22 12:55:01 | 8-K - LAMAR MEDIA CORP/DE (0000899045) (Filer) | 2025-09-22T08:25:11-04:00 | https://www.sec.gov/Archives/edgar/data/899045/000119312525210108/0001193125-25-210108.txt
+2025-09-22 13:25:24 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-22T09:20:56-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925091918/0001104659-25-091918.txt
+2025-09-22 13:25:25 | 8-K - Premier, Inc. (0001577916) (Filer) | 2025-09-22T09:20:28-04:00 | https://www.sec.gov/Archives/edgar/data/1577916/000119312525210204/0001193125-25-210204.txt
+2025-09-22 13:25:27 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-22T09:18:00-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000095010325011928/0000950103-25-011928.txt
+2025-09-22 13:25:28 | 8-K - Ceribell, Inc. (0001861107) (Filer) | 2025-09-22T09:14:42-04:00 | https://www.sec.gov/Archives/edgar/data/1861107/000119312525210195/0001193125-25-210195.txt
+2025-09-22 13:25:30 | 8-K - Celsius Holdings, Inc. (0001341766) (Filer) | 2025-09-22T09:00:45-04:00 | https://www.sec.gov/Archives/edgar/data/1341766/000134176625000120/0001341766-25-000120.txt
+2025-09-22 13:25:31 | 8-K - Peraso Inc. (0000890394) (Filer) | 2025-09-22T09:00:40-04:00 | https://www.sec.gov/Archives/edgar/data/890394/000121390025089850/0001213900-25-089850.txt
+2025-09-22 13:25:32 | 8-K - Freight Technologies, Inc. (0001687542) (Filer) | 2025-09-22T09:00:32-04:00 | https://www.sec.gov/Archives/edgar/data/1687542/000149315225014408/0001493152-25-014408.txt
+2025-09-22 13:25:32 | 8-K - Mallinckrodt plc (0001567892) (Filer) | 2025-09-22T08:54:30-04:00 | https://www.sec.gov/Archives/edgar/data/1567892/000110465925091914/0001104659-25-091914.txt
