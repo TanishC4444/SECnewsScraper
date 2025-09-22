@@ -4825,3 +4825,12 @@
 2025-09-22 20:58:12 | 8-K - COASTAL FINANCIAL CORP (0001437958) (Filer) | 2025-09-22T16:51:26-04:00 | https://www.sec.gov/Archives/edgar/data/1437958/000143795825000157/0001437958-25-000157.txt
 2025-09-22 20:58:13 | 8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer) | 2025-09-22T16:50:34-04:00 | https://www.sec.gov/Archives/edgar/data/1957845/000195784525000070/0001957845-25-000070.txt
 2025-09-22 20:58:13 | 8-K - AGL Private Credit Income Fund (0002011498) (Filer) | 2025-09-22T16:48:42-04:00 | https://www.sec.gov/Archives/edgar/data/2011498/000119312525211453/0001193125-25-211453.txt
+2025-09-22 21:18:33 | 8-K - Coterra Energy Inc. (0000858470) (Filer) | 2025-09-22T17:17:42-04:00 | https://www.sec.gov/Archives/edgar/data/858470/000085847025000171/0000858470-25-000171.txt
+2025-09-22 21:18:35 | 8-K - SUN COMMUNITIES INC (0000912593) (Filer) | 2025-09-22T17:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/912593/000091259325000243/0000912593-25-000243.txt
+2025-09-22 21:18:35 | 8-K - ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc. (0001625941) (Filer) | 2025-09-22T17:12:57-04:00 | https://www.sec.gov/Archives/edgar/data/1625941/000162594125000055/0001625941-25-000055.txt
+2025-09-22 21:18:37 | 8-K - Sun Country Airlines Holdings, Inc. (0001743907) (Filer) | 2025-09-22T17:11:29-04:00 | https://www.sec.gov/Archives/edgar/data/1743907/000174390725000045/0001743907-25-000045.txt
+2025-09-22 21:18:38 | 8-K - Odyssey Health, Inc. (0001626644) (Filer) | 2025-09-22T17:10:24-04:00 | https://www.sec.gov/Archives/edgar/data/1626644/000168316825007178/0001683168-25-007178.txt
+2025-09-22 21:18:39 | 8-K - Nexalin Technology, Inc. (0001527352) (Filer) | 2025-09-22T17:05:59-04:00 | https://www.sec.gov/Archives/edgar/data/1527352/000182912625007572/0001829126-25-007572.txt
+2025-09-22 21:18:41 | 8-K - PROS Holdings, Inc. (0001392972) (Filer) | 2025-09-22T17:05:53-04:00 | https://www.sec.gov/Archives/edgar/data/1392972/000119312525211519/0001193125-25-211519.txt
+2025-09-22 21:18:42 | 8-K - QDM International Inc. (0001094032) (Filer) | 2025-09-22T17:04:59-04:00 | https://www.sec.gov/Archives/edgar/data/1094032/000121390025090168/0001213900-25-090168.txt
+2025-09-22 21:18:42 | 8-K - Ares Core Infrastructure Fund (0002031750) (Filer) | 2025-09-22T17:03:48-04:00 | https://www.sec.gov/Archives/edgar/data/2031750/000203175025000016/0002031750-25-000016.txt

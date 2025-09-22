@@ -4028,3 +4028,11 @@
 2025-09-22 20:49:21 | 1 | Director | Shares: 34447 | Value: $426,608.0 | Percent: 0.037878% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025042342/0001628280-25-042342.txt
 2025-09-22 20:58:15 | HOM JAMES MING | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1920481/000192048125000002/0001920481-25-000002.txt
 2025-09-22 20:58:16 | HOM JAMES MING | Officer | Shares: 42119 | Value: $684,433.75 | Percent: 0.010948% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000192048125000002/0001920481-25-000002.txt
+2025-09-22 21:18:44 | ZAGORSEK MICHAEL | Officer | Shares: 69837 | Value: $1,134,851.25 | Percent: 0.018153% | Link: https://www.sec.gov/Archives/edgar/data/1921640/000192164025000002/0001921640-25-000002.txt
+2025-09-22 21:18:44 | ZAGORSEK MICHAEL | Officer | Shares: 69837 | Value: $1,134,851.25 | Percent: 0.018153% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000192164025000002/0001921640-25-000002.txt
+2025-09-22 21:18:45 | SHARAN NITESH | Officer | Shares: 66220 | Value: $1,076,075.0 | Percent: 0.017213% | Link: https://www.sec.gov/Archives/edgar/data/1917992/000191799225000008/0001917992-25-000008.txt
+2025-09-22 21:18:46 | SHARAN NITESH | Officer | Shares: 66220 | Value: $1,076,075.0 | Percent: 0.017213% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000191799225000008/0001917992-25-000008.txt
+2025-09-22 21:18:47 | MOHAJER KEYVAN | Officer | Shares: 138523 | Value: $2,250,998.75 | Percent: 0.036007% | Link: https://www.sec.gov/Archives/edgar/data/1917995/000191799525000002/0001917995-25-000002.txt
+2025-09-22 21:18:48 | MOHAJER KEYVAN | Officer | Shares: 138523 | Value: $2,250,998.75 | Percent: 0.036007% | Link: https://www.sec.gov/Archives/edgar/data/1840856/000191799525000002/0001917995-25-000002.txt
+2025-09-22 21:18:50 | DOUGLAS J. PFERDEHIRT IRREV TRUST | Spouse of Officer | Shares: 80304 | Value: $3,079,481.73 | Percent: 0.019538% | Link: https://www.sec.gov/Archives/edgar/data/1681459/000195004725007418/0001950047-25-007418.txt
+2025-09-22 21:18:52 | DOUGLAS J. PFERDEHIRT IRREV TRUST | Spouse of Officer | Shares: 80304 | Value: $3,079,481.73 | Percent: 0.019538% | Link: https://www.sec.gov/Archives/edgar/data/1250840/000195004725007418/0001950047-25-007418.txt
