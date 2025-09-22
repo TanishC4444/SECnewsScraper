@@ -3984,3 +3984,5 @@
 2025-09-22 13:44:39 | Xu Derek | Officer | Shares: 100000 | Value: $586,000.0 | Percent: 0.313388% | Link: https://www.sec.gov/Archives/edgar/data/1842566/000194984625000499/0001949846-25-000499.txt
 2025-09-22 14:14:41 | Conti Thierry | Officer | Shares: 50000 | Value: $1,932,000.0 | Percent: 0.012165% | Link: https://www.sec.gov/Archives/edgar/data/1928417/000195917325006132/0001959173-25-006132.txt
 2025-09-22 14:14:42 | Conti Thierry | Officer | Shares: 50000 | Value: $1,932,000.0 | Percent: 0.012165% | Link: https://www.sec.gov/Archives/edgar/data/1681459/000195917325006132/0001959173-25-006132.txt
+2025-09-22 14:36:29 | Fields Kimberly A | Officer | Shares: 20312 | Value: $1,631,662.96 | Percent: 0.014737% | Link: https://www.sec.gov/Archives/edgar/data/1773072/000195917325006133/0001959173-25-006133.txt
+2025-09-22 14:36:30 | Fields Kimberly A | Officer | Shares: 20312 | Value: $1,631,662.96 | Percent: 0.014737% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006133/0001959173-25-006133.txt
