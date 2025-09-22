@@ -4002,3 +4002,5 @@
 2025-09-22 17:29:53 | Tang Donald F | Former Director | Shares: 32469 | Value: $189,943.65 | Percent: 0.612825% | Link: https://www.sec.gov/Archives/edgar/data/1812173/000107997325001483/0001079973-25-001483.txt
 2025-09-22 17:41:07 | mDR Ltd | 10% Stockholder | Shares: 54644 | Value: $102,731.0 | Percent: 0.465701% | Link: https://www.sec.gov/Archives/edgar/data/1973616/000147793225006908/0001477932-25-006908.txt
 2025-09-22 17:41:07 | mDR Ltd | 10% Stockholder | Shares: 54644 | Value: $102,731.0 | Percent: 0.465701% | Link: https://www.sec.gov/Archives/edgar/data/1873093/000147793225006908/0001477932-25-006908.txt
+2025-09-22 18:35:15 | Morgan Robert John | Officer | Shares: 7143 | Value: $218,004.36 | Percent: 0.049244% | Link: https://www.sec.gov/Archives/edgar/data/1728890/000195917325006139/0001959173-25-006139.txt
+2025-09-22 18:35:16 | Morgan Robert John | Officer | Shares: 7143 | Value: $218,004.36 | Percent: 0.049244% | Link: https://www.sec.gov/Archives/edgar/data/1030192/000195917325006139/0001959173-25-006139.txt
