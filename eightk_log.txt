@@ -4718,3 +4718,13 @@
 2025-09-19 21:36:05 | 8-K - American Picture House Corp (0001771995) (Filer) | 2025-09-19T17:25:39-04:00 | https://www.sec.gov/Archives/edgar/data/1771995/000149315225014330/0001493152-25-014330.txt
 2025-09-19 21:36:08 | 8-K - Pearl Diver Credit Co Inc. (0001998043) (Filer) | 2025-09-19T17:25:34-04:00 | https://www.sec.gov/Archives/edgar/data/1998043/000121465925013978/0001214659-25-013978.txt
 2025-09-19 21:36:10 | 8-K - Belpointe PREP, LLC (0001807046) (Filer) | 2025-09-19T17:25:17-04:00 | https://www.sec.gov/Archives/edgar/data/1807046/000149315225014328/0001493152-25-014328.txt
+2025-09-22 10:10:45 | 8-K - Mobile Global Esports, Inc. (0001886362) (Filer) | 2025-09-22T06:08:26-04:00 | https://www.sec.gov/Archives/edgar/data/1886362/000121390025089740/0001213900-25-089740.txt
+2025-09-22 10:10:46 | 8-K - Outdoor Holding Co (0001015383) (Filer) | 2025-09-22T06:06:11-04:00 | https://www.sec.gov/Archives/edgar/data/1015383/000149315225014364/0001493152-25-014364.txt
+2025-09-22 10:10:48 | 8-K - CAMBER ENERGY, INC. (0001309082) (Filer) | 2025-09-22T06:05:06-04:00 | https://www.sec.gov/Archives/edgar/data/1309082/000147793225006898/0001477932-25-006898.txt
+2025-09-22 10:10:49 | 8-K - Prologis, L.P. (0001045610) (Filer) | 2025-09-22T06:04:12-04:00 | https://www.sec.gov/Archives/edgar/data/1045610/000110465925091816/0001104659-25-091816.txt
+2025-09-22 10:10:50 | 8-K - Prologis, Inc. (0001045609) (Filer) | 2025-09-22T06:04:12-04:00 | https://www.sec.gov/Archives/edgar/data/1045609/000110465925091816/0001104659-25-091816.txt
+2025-09-22 10:10:52 | 8-K - PERPETUA RESOURCES CORP. (0001526243) (Filer) | 2025-09-22T06:03:12-04:00 | https://www.sec.gov/Archives/edgar/data/1526243/000110465925091815/0001104659-25-091815.txt
+2025-09-22 10:10:53 | 8-K - CEA Industries Inc. (0001482541) (Filer) | 2025-09-22T06:02:46-04:00 | https://www.sec.gov/Archives/edgar/data/1482541/000149315225014360/0001493152-25-014360.txt
+2025-09-22 10:10:54 | 8-K - Prairie Operating Co. (0001162896) (Filer) | 2025-09-22T06:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1162896/000114036125035610/0001140361-25-035610.txt
+2025-09-22 10:10:56 | 8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer) | 2025-09-22T06:00:50-04:00 | https://www.sec.gov/Archives/edgar/data/1585389/000119312525209615/0001193125-25-209615.txt
+2025-09-22 10:10:57 | 8-K - Five Point Holdings, LLC (0001574197) (Filer) | 2025-09-19T21:10:53-04:00 | https://www.sec.gov/Archives/edgar/data/1574197/000119312525209530/0001193125-25-209530.txt
