@@ -3986,3 +3986,5 @@
 2025-09-22 14:14:42 | Conti Thierry | Officer | Shares: 50000 | Value: $1,932,000.0 | Percent: 0.012165% | Link: https://www.sec.gov/Archives/edgar/data/1681459/000195917325006132/0001959173-25-006132.txt
 2025-09-22 14:36:29 | Fields Kimberly A | Officer | Shares: 20312 | Value: $1,631,662.96 | Percent: 0.014737% | Link: https://www.sec.gov/Archives/edgar/data/1773072/000195917325006133/0001959173-25-006133.txt
 2025-09-22 14:36:30 | Fields Kimberly A | Officer | Shares: 20312 | Value: $1,631,662.96 | Percent: 0.014737% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006133/0001959173-25-006133.txt
+2025-09-22 14:58:50 | Goodsell Erin | Officer | Shares: 9541 | Value: $71,557.5 | Percent: 0.012385% | Link: https://www.sec.gov/Archives/edgar/data/1937042/000195917325006135/0001959173-25-006135.txt
+2025-09-22 14:58:52 | Goodsell Erin | Officer | Shares: 9541 | Value: $71,557.5 | Percent: 0.012385% | Link: https://www.sec.gov/Archives/edgar/data/1609151/000195917325006135/0001959173-25-006135.txt
