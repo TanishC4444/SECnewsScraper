@@ -3992,3 +3992,5 @@
 2025-09-22 15:25:36 | BURKE JAMES A | Officer | Shares: 21362 | Value: $4,503,715.06 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006136/0001959173-25-006136.txt
 2025-09-22 15:40:01 | Lewis Heidi Diane | Officer | Shares: 43712 | Value: $262,436.0 | Percent: 0.043809% | Link: https://www.sec.gov/Archives/edgar/data/1765471/000194984625000500/0001949846-25-000500.txt
 2025-09-22 15:40:02 | Lewis Heidi Diane | Officer | Shares: 43712 | Value: $262,436.0 | Percent: 0.043809% | Link: https://www.sec.gov/Archives/edgar/data/1712189/000194984625000500/0001949846-25-000500.txt
+2025-09-22 15:49:40 | Lawlar Russell Douglas | Officer | Shares: 148500 | Value: $1,636,470.0 | Percent: 0.022165% | Link: https://www.sec.gov/Archives/edgar/data/1841980/000184198025000004/0001841980-25-000004.txt
+2025-09-22 15:49:41 | Lawlar Russell Douglas | Officer | Shares: 148500 | Value: $1,636,470.0 | Percent: 0.022165% | Link: https://www.sec.gov/Archives/edgar/data/719413/000184198025000004/0001841980-25-000004.txt
