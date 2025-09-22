@@ -4000,3 +4000,5 @@
 2025-09-22 17:29:51 | WIRTH JAMES F | Officer | Shares: 17000 | Value: $32,130.0 | Percent: 0.193373% | Link: https://www.sec.gov/Archives/edgar/data/82473/000194984625000501/0001949846-25-000501.txt
 2025-09-22 17:29:52 | Tang Donald F | Former Director | Shares: 32469 | Value: $189,943.65 | Percent: 0.612825% | Link: https://www.sec.gov/Archives/edgar/data/1817370/000107997325001483/0001079973-25-001483.txt
 2025-09-22 17:29:53 | Tang Donald F | Former Director | Shares: 32469 | Value: $189,943.65 | Percent: 0.612825% | Link: https://www.sec.gov/Archives/edgar/data/1812173/000107997325001483/0001079973-25-001483.txt
+2025-09-22 17:41:07 | mDR Ltd | 10% Stockholder | Shares: 54644 | Value: $102,731.0 | Percent: 0.465701% | Link: https://www.sec.gov/Archives/edgar/data/1973616/000147793225006908/0001477932-25-006908.txt
+2025-09-22 17:41:07 | mDR Ltd | 10% Stockholder | Shares: 54644 | Value: $102,731.0 | Percent: 0.465701% | Link: https://www.sec.gov/Archives/edgar/data/1873093/000147793225006908/0001477932-25-006908.txt
