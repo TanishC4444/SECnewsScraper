@@ -4148,3 +4148,5 @@
 2025-09-23 21:49:14 | TAMIR POLEG | Officer | Shares: 15093 | Value: $76,830.92 | Percent: 0.007211% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007471/0001950047-25-007471.txt
 2025-09-23 21:58:29 | Biswas Sanjit | Officer | Shares: 960000 | Value: $37,401,600.0 | Percent: 0.320268% | Link: https://www.sec.gov/Archives/edgar/data/1895111/000192109425001199/0001921094-25-001199.txt
 2025-09-23 21:58:29 | Biswas Sanjit | Officer | Shares: 960000 | Value: $37,401,600.0 | Percent: 0.320268% | Link: https://www.sec.gov/Archives/edgar/data/1642896/000192109425001199/0001921094-25-001199.txt
+2025-09-23 23:10:33 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 6357 | Value: $168,653.75 | Percent: 0.041750% | Link: https://www.sec.gov/Archives/edgar/data/1227847/000122784725000004/0001227847-25-000004.txt
+2025-09-23 23:10:34 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 6357 | Value: $168,653.75 | Percent: 0.041750% | Link: https://www.sec.gov/Archives/edgar/data/814586/000122784725000004/0001227847-25-000004.txt
