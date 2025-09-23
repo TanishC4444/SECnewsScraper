@@ -4060,3 +4060,5 @@
 2025-09-23 01:07:12 | SL SPV-2, L.P. | See remarks | Shares: 296277 | Value: $39,090,787.38 | Percent: 0.087941% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000119312525211850/0001193125-25-211850.txt
 2025-09-23 02:36:02 | THOMAS HOGAN | DIRECTOR AND OFFICER | Shares: 34151 | Value: $601,399.11 | Percent: 0.013900% | Link: https://www.sec.gov/Archives/edgar/data/2013619/000121390025090303/0001213900-25-090303.txt
 2025-09-23 02:36:03 | THOMAS HOGAN | DIRECTOR AND OFFICER | Shares: 34151 | Value: $601,399.11 | Percent: 0.013900% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000121390025090303/0001213900-25-090303.txt
+2025-09-23 10:47:16 | Revach Moshe | Director | Shares: 10487 | Value: $18,037.64 | Percent: 0.081820% | Link: https://www.sec.gov/Archives/edgar/data/1973293/000197640825000325/0001976408-25-000325.txt
+2025-09-23 10:47:17 | Revach Moshe | Director | Shares: 10487 | Value: $18,037.64 | Percent: 0.081820% | Link: https://www.sec.gov/Archives/edgar/data/1916241/000197640825000325/0001976408-25-000325.txt
