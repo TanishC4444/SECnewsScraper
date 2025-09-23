@@ -4866,3 +4866,4 @@
 2025-09-23 11:38:54 | 8-K - reAlpha Tech Corp. (0001859199) (Filer) | 2025-09-23T07:35:37-04:00 | https://www.sec.gov/Archives/edgar/data/1859199/000200858925000089/0002008589-25-000089.txt
 2025-09-23 11:38:56 | 8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer) | 2025-09-23T07:32:26-04:00 | https://www.sec.gov/Archives/edgar/data/1794776/000119312525212202/0001193125-25-212202.txt
 2025-09-23 11:38:57 | 8-K - BeyondSpring Inc. (0001677940) (Filer) | 2025-09-23T07:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1677940/000117184325006027/0001171843-25-006027.txt
+2025-09-23 11:57:54 | 8-K - Morningstar, Inc. (0001289419) (Filer) | 2025-09-23T07:49:08-04:00 | https://www.sec.gov/Archives/edgar/data/1289419/000128941925000156/0001289419-25-000156.txt
