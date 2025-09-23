@@ -4863,3 +4863,6 @@
 2025-09-23 11:14:34 | 8-K - ATAI Life Sciences N.V. (0001840904) (Filer) | 2025-09-23T07:10:47-04:00 | https://www.sec.gov/Archives/edgar/data/1840904/000114036125035777/0001140361-25-035777.txt
 2025-09-23 11:14:35 | 8-K - Scholar Rock Holding Corp (0001727196) (Filer) | 2025-09-23T07:04:58-04:00 | https://www.sec.gov/Archives/edgar/data/1727196/000110465925092317/0001104659-25-092317.txt
 2025-09-23 11:14:36 | 8-K - NexMetals Mining Corp. (0000795800) (Filer) | 2025-09-23T07:00:37-04:00 | https://www.sec.gov/Archives/edgar/data/795800/000149315225014543/0001493152-25-014543.txt
+2025-09-23 11:38:54 | 8-K - reAlpha Tech Corp. (0001859199) (Filer) | 2025-09-23T07:35:37-04:00 | https://www.sec.gov/Archives/edgar/data/1859199/000200858925000089/0002008589-25-000089.txt
+2025-09-23 11:38:56 | 8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer) | 2025-09-23T07:32:26-04:00 | https://www.sec.gov/Archives/edgar/data/1794776/000119312525212202/0001193125-25-212202.txt
+2025-09-23 11:38:57 | 8-K - BeyondSpring Inc. (0001677940) (Filer) | 2025-09-23T07:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1677940/000117184325006027/0001171843-25-006027.txt
