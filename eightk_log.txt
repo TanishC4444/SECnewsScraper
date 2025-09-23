@@ -4900,3 +4900,4 @@
 2025-09-23 19:39:00 | 8-K - BROADWIND, INC. (0001120370) (Filer) | 2025-09-23T15:28:26-04:00 | https://www.sec.gov/Archives/edgar/data/1120370/000143774925029714/0001437749-25-029714.txt
 2025-09-23 19:48:44 | 8-K - INTEGRATED BIOPHARMA INC (0001016504) (Filer) | 2025-09-23T15:42:05-04:00 | https://www.sec.gov/Archives/edgar/data/1016504/000143774925029717/0001437749-25-029717.txt
 2025-09-23 19:48:45 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-23T15:41:35-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000202/0001325878-25-000202.txt
+2025-09-23 19:57:51 | 8-K - Tri-State Generation & Transmission Association, Inc. (0001637880) (Filer) | 2025-09-23T15:53:59-04:00 | https://www.sec.gov/Archives/edgar/data/1637880/000163788025000053/0001637880-25-000053.txt

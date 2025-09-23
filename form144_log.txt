@@ -4102,3 +4102,5 @@
 2025-09-23 19:48:52 | Progression Asset Management Corporation | Other / Affiliate | Shares: 100000 | Value: $5,510,000.0 | Percent: 0.035775% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000149315225014605/0001493152-25-014605.txt
 2025-09-23 19:48:53 | Bates Jonathan Robert | Chief Executive Officer and Director | Shares: 50000 | Value: $2,755,000.0 | Percent: 0.017888% | Link: https://www.sec.gov/Archives/edgar/data/1840020/000149315225014604/0001493152-25-014604.txt
 2025-09-23 19:48:54 | Bates Jonathan Robert | Chief Executive Officer and Director | Shares: 50000 | Value: $2,755,000.0 | Percent: 0.017888% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000149315225014604/0001493152-25-014604.txt
+2025-09-23 19:57:53 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $280,147.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000140/0001000275-25-000140.txt
+2025-09-23 19:57:54 | Taylor Stephen Charles | Director | Shares: 10000 | Value: $280,147.0 | Percent: 0.079730% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000140/0001000275-25-000140.txt
