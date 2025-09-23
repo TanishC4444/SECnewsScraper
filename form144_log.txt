@@ -4092,3 +4092,5 @@
 2025-09-23 17:47:57 | RAMASWAMY SREEGANESH | Officer | Shares: 25000 | Value: $1,250,000.0 | Percent: 0.002536% | Link: https://www.sec.gov/Archives/edgar/data/1701605/000195917325006163/0001959173-25-006163.txt
 2025-09-23 17:57:13 | Apostolides James E | Officer | Shares: 6216 | Value: $310,800.0 | Percent: 0.000631% | Link: https://www.sec.gov/Archives/edgar/data/1948293/000195917325006164/0001959173-25-006164.txt
 2025-09-23 17:57:14 | Apostolides James E | Officer | Shares: 6216 | Value: $310,800.0 | Percent: 0.000631% | Link: https://www.sec.gov/Archives/edgar/data/1701605/000195917325006164/0001959173-25-006164.txt
+2025-09-23 19:18:54 | TAN HOCK E | Officer | Shares: 100000 | Value: $33,958,418.78 | Percent: 0.002118% | Link: https://www.sec.gov/Archives/edgar/data/1730168/000195917325006166/0001959173-25-006166.txt
+2025-09-23 19:18:55 | TAN HOCK E | Officer | Shares: 100000 | Value: $33,958,418.78 | Percent: 0.002118% | Link: https://www.sec.gov/Archives/edgar/data/1211588/000195917325006166/0001959173-25-006166.txt
