@@ -4084,3 +4084,5 @@
 2025-09-23 15:20:51 | Landini Kenneth W | Director | Shares: 6000 | Value: $600,000.0 | Percent: 0.026053% | Link: https://www.sec.gov/Archives/edgar/data/1137091/000197407825000322/0001974078-25-000322.txt
 2025-09-23 15:36:21 | Tankson Robert N. III | Director | Shares: 542675 | Value: $17,000.0 | Percent: 0.364339% | Link: https://www.sec.gov/Archives/edgar/data/1805306/000180530625000010/0001805306-25-000010.txt
 2025-09-23 15:36:22 | Tankson Robert N. III | Director | Shares: 542675 | Value: $17,000.0 | Percent: 0.364339% | Link: https://www.sec.gov/Archives/edgar/data/1360442/000180530625000010/0001805306-25-000010.txt
+2025-09-23 17:38:29 | David Fisher | Officer | Shares: 35000 | Value: $4,270,000.0 | Percent: 0.139929% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000162828025042438/0001628280-25-042438.txt
+2025-09-23 17:38:30 | David Fisher | Officer | Shares: 35000 | Value: $4,270,000.0 | Percent: 0.139929% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000162828025042438/0001628280-25-042438.txt
