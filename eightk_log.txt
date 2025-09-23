@@ -4867,3 +4867,11 @@
 2025-09-23 11:38:56 | 8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer) | 2025-09-23T07:32:26-04:00 | https://www.sec.gov/Archives/edgar/data/1794776/000119312525212202/0001193125-25-212202.txt
 2025-09-23 11:38:57 | 8-K - BeyondSpring Inc. (0001677940) (Filer) | 2025-09-23T07:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1677940/000117184325006027/0001171843-25-006027.txt
 2025-09-23 11:57:54 | 8-K - Morningstar, Inc. (0001289419) (Filer) | 2025-09-23T07:49:08-04:00 | https://www.sec.gov/Archives/edgar/data/1289419/000128941925000156/0001289419-25-000156.txt
+2025-09-23 12:41:59 | 8-K - Microbot Medical Inc. (0000883975) (Filer) | 2025-09-23T08:37:38-04:00 | https://www.sec.gov/Archives/edgar/data/883975/000149315225014557/0001493152-25-014557.txt
+2025-09-23 12:42:01 | 8-K - Modular Medical, Inc. (0001074871) (Filer) | 2025-09-23T08:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/1074871/000121390025090336/0001213900-25-090336.txt
+2025-09-23 12:42:02 | 8-K - iPower Inc. (0001830072) (Filer) | 2025-09-23T08:30:26-04:00 | https://www.sec.gov/Archives/edgar/data/1830072/000168316825007187/0001683168-25-007187.txt
+2025-09-23 12:42:03 | 8-K - Flora Growth Corp. (0001790169) (Filer) | 2025-09-23T08:28:12-04:00 | https://www.sec.gov/Archives/edgar/data/1790169/000106299325015754/0001062993-25-015754.txt
+2025-09-23 12:42:05 | 8-K - UNITED STATES ANTIMONY CORP (0000101538) (Filer) | 2025-09-23T08:26:59-04:00 | https://www.sec.gov/Archives/edgar/data/101538/000165495425011011/0001654954-25-011011.txt
+2025-09-23 12:42:06 | 8-K - FG Nexus Inc. (0001591890) (Filer) | 2025-09-23T08:10:08-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000149315225014551/0001493152-25-014551.txt
+2025-09-23 12:42:08 | 8-K - MCKESSON CORP (0000927653) (Filer) | 2025-09-23T08:03:51-04:00 | https://www.sec.gov/Archives/edgar/data/927653/000092765325000125/0000927653-25-000125.txt
+2025-09-23 12:42:10 | 8-K - Crisp Momentum Inc. (0000924396) (Filer) | 2025-09-23T08:00:34-04:00 | https://www.sec.gov/Archives/edgar/data/924396/000149315225014548/0001493152-25-014548.txt
