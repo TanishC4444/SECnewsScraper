@@ -4074,3 +4074,5 @@
 2025-09-23 13:52:29 | Sicilia Michael D. | Officer | Shares: 33845 | Value: $10,869,660.2 | Percent: 0.001191% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006156/0001959173-25-006156.txt
 2025-09-23 14:10:11 | BURKE JAMES A | Officer | Shares: 21360 | Value: $4,490,151.57 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006159/0001959173-25-006159.txt
 2025-09-23 14:10:12 | BURKE JAMES A | Officer | Shares: 21360 | Value: $4,490,151.57 | Percent: 0.006304% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006159/0001959173-25-006159.txt
+2025-09-23 14:34:06 | Jennings Miles L | Director | Shares: 49782 | Value: $78,655.0 | Percent: 0.238954% | Link: https://www.sec.gov/Archives/edgar/data/1721114/000194984625000503/0001949846-25-000503.txt
+2025-09-23 14:34:07 | Jennings Miles L | Director | Shares: 49782 | Value: $78,655.0 | Percent: 0.238954% | Link: https://www.sec.gov/Archives/edgar/data/1462223/000194984625000503/0001949846-25-000503.txt
