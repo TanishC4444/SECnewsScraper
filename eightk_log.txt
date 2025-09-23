@@ -4846,3 +4846,13 @@
 2025-09-22 21:29:35 | 8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer) | 2025-09-22T17:23:42-04:00 | https://www.sec.gov/Archives/edgar/data/1948056/000194805625000055/0001948056-25-000055.txt
 2025-09-22 21:39:19 | 8-K - Allarity Therapeutics, Inc. (0001860657) (Filer) | 2025-09-22T17:30:33-04:00 | https://www.sec.gov/Archives/edgar/data/1860657/000121390025090197/0001213900-25-090197.txt
 2025-09-22 21:39:20 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-22T17:30:12-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000095010325011965/0000950103-25-011965.txt
+2025-09-23 10:13:58 | 8-K - Lucky Strike Entertainment Corp (0001840572) (Filer) | 2025-09-23T06:06:32-04:00 | https://www.sec.gov/Archives/edgar/data/1840572/000095010325011980/0000950103-25-011980.txt
+2025-09-23 10:14:01 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-23T06:04:29-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015750/0001062993-25-015750.txt
+2025-09-23 10:14:02 | 8-K - Flag Ship Acquisition Corp (0001850059) (Filer) | 2025-09-23T06:03:46-04:00 | https://www.sec.gov/Archives/edgar/data/1850059/000182912625007581/0001829126-25-007581.txt
+2025-09-23 10:14:04 | 8-K - ADVANCED DRAINAGE SYSTEMS, INC. (0001604028) (Filer) | 2025-09-23T06:02:26-04:00 | https://www.sec.gov/Archives/edgar/data/1604028/000119312525212097/0001193125-25-212097.txt
+2025-09-23 10:14:06 | 8-K - Flora Growth Corp. (0001790169) (Filer) | 2025-09-23T06:02:08-04:00 | https://www.sec.gov/Archives/edgar/data/1790169/000106299325015748/0001062993-25-015748.txt
+2025-09-23 10:14:08 | 8-K - STARWOOD PROPERTY TRUST, INC. (0001465128) (Filer) | 2025-09-22T22:00:01-04:00 | https://www.sec.gov/Archives/edgar/data/1465128/000110465925092279/0001104659-25-092279.txt
+2025-09-23 10:14:10 | 8-K - Bally's Corp (0001747079) (Filer) | 2025-09-22T20:38:14-04:00 | https://www.sec.gov/Archives/edgar/data/1747079/000121390025090289/0001213900-25-090289.txt
+2025-09-23 10:14:12 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-09-22T20:08:06-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000518/0001564708-25-000518.txt
+2025-09-23 10:14:14 | 8-K - FIRST NORTHERN COMMUNITY BANCORP (0001114927) (Filer) | 2025-09-22T19:15:45-04:00 | https://www.sec.gov/Archives/edgar/data/1114927/000111492725000045/0001114927-25-000045.txt
+2025-09-23 10:14:16 | 8-K - Trans American Aquaculture, Inc (0001990446) (Filer) | 2025-09-22T18:13:04-04:00 | https://www.sec.gov/Archives/edgar/data/1990446/000168316825007183/0001683168-25-007183.txt
