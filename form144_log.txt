@@ -4090,3 +4090,5 @@
 2025-09-23 17:47:54 | David Fisher | Officer | Shares: 6000 | Value: $750,000.0 | Percent: 0.023988% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000162828025042444/0001628280-25-042444.txt
 2025-09-23 17:47:56 | RAMASWAMY SREEGANESH | Officer | Shares: 25000 | Value: $1,250,000.0 | Percent: 0.002536% | Link: https://www.sec.gov/Archives/edgar/data/1795545/000195917325006163/0001959173-25-006163.txt
 2025-09-23 17:47:57 | RAMASWAMY SREEGANESH | Officer | Shares: 25000 | Value: $1,250,000.0 | Percent: 0.002536% | Link: https://www.sec.gov/Archives/edgar/data/1701605/000195917325006163/0001959173-25-006163.txt
+2025-09-23 17:57:13 | Apostolides James E | Officer | Shares: 6216 | Value: $310,800.0 | Percent: 0.000631% | Link: https://www.sec.gov/Archives/edgar/data/1948293/000195917325006164/0001959173-25-006164.txt
+2025-09-23 17:57:14 | Apostolides James E | Officer | Shares: 6216 | Value: $310,800.0 | Percent: 0.000631% | Link: https://www.sec.gov/Archives/edgar/data/1701605/000195917325006164/0001959173-25-006164.txt
