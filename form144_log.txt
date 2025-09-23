@@ -4096,3 +4096,5 @@
 2025-09-23 19:18:55 | TAN HOCK E | Officer | Shares: 100000 | Value: $33,958,418.78 | Percent: 0.002118% | Link: https://www.sec.gov/Archives/edgar/data/1211588/000195917325006166/0001959173-25-006166.txt
 2025-09-23 19:28:31 | LAMBRECHT COREY ALLEN | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000121473625000003/0001214736-25-000003.txt
 2025-09-23 19:28:32 | LAMBRECHT COREY ALLEN | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1214736/000121473625000003/0001214736-25-000003.txt
+2025-09-23 19:39:02 | Dominic Frederico | Officer | Shares: 25000 | Value: $2,087,500.0 | Percent: 0.052504% | Link: https://www.sec.gov/Archives/edgar/data/1273813/000162828025042458/0001628280-25-042458.txt
+2025-09-23 19:39:03 | Dominic Frederico | Officer | Shares: 25000 | Value: $2,087,500.0 | Percent: 0.052504% | Link: https://www.sec.gov/Archives/edgar/data/1072524/000162828025042458/0001628280-25-042458.txt
