@@ -4114,3 +4114,11 @@
 2025-09-23 20:23:30 | ELEANOR LACEY | Officer | Shares: 10570 | Value: $152,630.8 | Percent: 0.006746% | Link: https://www.sec.gov/Archives/edgar/data/1242726/000195004725007449/0001950047-25-007449.txt
 2025-09-23 20:23:32 | PEDRO OSVALDO HEILBRON CALONGE | Officer | Shares: 21943 | Value: $2,632,282.28 | Percent: 0.072668% | Link: https://www.sec.gov/Archives/edgar/data/1975040/000195004725007448/0001950047-25-007448.txt
 2025-09-23 20:23:34 | PEDRO OSVALDO HEILBRON CALONGE | Officer | Shares: 21943 | Value: $2,632,282.28 | Percent: 0.072668% | Link: https://www.sec.gov/Archives/edgar/data/1345105/000195004725007448/0001950047-25-007448.txt
+2025-09-23 20:38:05 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,460,868.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001195/0001921094-25-001195.txt
+2025-09-23 20:38:06 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,460,868.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001195/0001921094-25-001195.txt
+2025-09-23 20:38:08 | VINCENT OSSIPOW | Director | Shares: 21000 | Value: $82,530.0 | Percent: 0.031074% | Link: https://www.sec.gov/Archives/edgar/data/1840706/000195004725007466/0001950047-25-007466.txt
+2025-09-23 20:38:09 | VINCENT OSSIPOW | Director | Shares: 21000 | Value: $82,530.0 | Percent: 0.031074% | Link: https://www.sec.gov/Archives/edgar/data/1773679/000195004725007466/0001950047-25-007466.txt
+2025-09-23 20:38:10 | KJELTI ANN WILKES KELLOUGH | Officer | Shares: 10300 | Value: $20,703.0 | Percent: 0.002483% | Link: https://www.sec.gov/Archives/edgar/data/1939097/000195004725007465/0001950047-25-007465.txt
+2025-09-23 20:38:11 | KJELTI ANN WILKES KELLOUGH | Officer | Shares: 10300 | Value: $20,703.0 | Percent: 0.002483% | Link: https://www.sec.gov/Archives/edgar/data/1898496/000195004725007465/0001950047-25-007465.txt
+2025-09-23 20:38:12 | JENNIFER LEYDEN | Officer | Shares: 7740 | Value: $15,557.4 | Percent: 0.001866% | Link: https://www.sec.gov/Archives/edgar/data/1939001/000195004725007464/0001950047-25-007464.txt
+2025-09-23 20:38:13 | JENNIFER LEYDEN | Officer | Shares: 7740 | Value: $15,557.4 | Percent: 0.001866% | Link: https://www.sec.gov/Archives/edgar/data/1898496/000195004725007464/0001950047-25-007464.txt
