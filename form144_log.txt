@@ -4134,3 +4134,9 @@
 2025-09-23 20:56:55 | Remer Eric Richard | Officer and Director | Shares: 18772 | Value: $219,745.03 | Percent: 0.010236% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195917325006176/0001959173-25-006176.txt
 2025-09-23 20:56:57 | GUARINO CARL | Director | Shares: 10000 | Value: $864,120.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/1191720/000192109425001196/0001921094-25-001196.txt
 2025-09-23 20:56:58 | GUARINO CARL | Director | Shares: 10000 | Value: $864,120.0 | Percent: 0.008089% | Link: https://www.sec.gov/Archives/edgar/data/350894/000192109425001196/0001921094-25-001196.txt
+2025-09-23 21:16:09 | KENNETH ARRIGO MAINARDIS | Officer | Shares: 7240 | Value: $14,552.4 | Percent: 0.001745% | Link: https://www.sec.gov/Archives/edgar/data/1939054/000195004725007469/0001950047-25-007469.txt
+2025-09-23 21:16:10 | KENNETH ARRIGO MAINARDIS | Officer | Shares: 7240 | Value: $14,552.4 | Percent: 0.001745% | Link: https://www.sec.gov/Archives/edgar/data/1898496/000195004725007469/0001950047-25-007469.txt
+2025-09-23 21:16:11 | Leonardo Guimaraes Correa | Director | Shares: 20000 | Value: $137,000.0 | Percent: 0.006193% | Link: https://www.sec.gov/Archives/edgar/data/2086694/000207097925000034/0002070979-25-000034.txt
+2025-09-23 21:16:12 | Leonardo Guimaraes Correa | Director | Shares: 20000 | Value: $137,000.0 | Percent: 0.006193% | Link: https://www.sec.gov/Archives/edgar/data/1864163/000207097925000034/0002070979-25-000034.txt
+2025-09-23 21:16:14 | Muhsin Bilal | Former Affiliate | Shares: 25000 | Value: $3,518,983.0 | Percent: 0.046019% | Link: https://www.sec.gov/Archives/edgar/data/1734507/000192109425001197/0001921094-25-001197.txt
+2025-09-23 21:16:14 | Muhsin Bilal | Former Affiliate | Shares: 25000 | Value: $3,518,983.0 | Percent: 0.046019% | Link: https://www.sec.gov/Archives/edgar/data/937556/000192109425001197/0001921094-25-001197.txt
