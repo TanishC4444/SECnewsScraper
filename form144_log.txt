@@ -4144,3 +4144,5 @@
 2025-09-23 21:29:53 | Bicket John | Officer | Shares: 1020000 | Value: $39,739,200.0 | Percent: 0.292478% | Link: https://www.sec.gov/Archives/edgar/data/1642896/000192109425001198/0001921094-25-001198.txt
 2025-09-23 21:29:55 | LAURENCE ROSE | Director | Shares: 58781 | Value: $297,681.76 | Percent: 0.028085% | Link: https://www.sec.gov/Archives/edgar/data/2001077/000195004725007470/0001950047-25-007470.txt
 2025-09-23 21:29:56 | LAURENCE ROSE | Director | Shares: 58781 | Value: $297,681.76 | Percent: 0.028085% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007470/0001950047-25-007470.txt
+2025-09-23 21:49:13 | TAMIR POLEG | Officer | Shares: 15093 | Value: $76,830.92 | Percent: 0.007211% | Link: https://www.sec.gov/Archives/edgar/data/1919883/000195004725007471/0001950047-25-007471.txt
+2025-09-23 21:49:14 | TAMIR POLEG | Officer | Shares: 15093 | Value: $76,830.92 | Percent: 0.007211% | Link: https://www.sec.gov/Archives/edgar/data/1862461/000195004725007471/0001950047-25-007471.txt
