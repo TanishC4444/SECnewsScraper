@@ -4936,3 +4936,8 @@
 2025-09-23 21:16:05 | 8-K - WAFD INC (0000936528) (Filer) | 2025-09-23T17:03:37-04:00 | https://www.sec.gov/Archives/edgar/data/936528/000093652825000095/0000936528-25-000095.txt
 2025-09-23 21:16:06 | 8-K - M3-Brigade Acquisition V Corp. (0002016072) (Filer) | 2025-09-23T17:02:35-04:00 | https://www.sec.gov/Archives/edgar/data/2016072/000121390025090674/0001213900-25-090674.txt
 2025-09-23 21:16:08 | 8-K - Mitesco, Inc. (0000802257) (Filer) | 2025-09-23T17:01:44-04:00 | https://www.sec.gov/Archives/edgar/data/802257/000118518525001268/0001185185-25-001268.txt
+2025-09-23 21:29:45 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-09-23T17:28:46-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625007614/0001829126-25-007614.txt
+2025-09-23 21:29:47 | 8-K - ROYAL CARIBBEAN CRUISES LTD (0000884887) (Filer) | 2025-09-23T17:27:57-04:00 | https://www.sec.gov/Archives/edgar/data/884887/000110465925092590/0001104659-25-092590.txt
+2025-09-23 21:29:48 | 8-K - Dell Technologies Inc. (0001571996) (Filer) | 2025-09-23T17:26:09-04:00 | https://www.sec.gov/Archives/edgar/data/1571996/000119312525213629/0001193125-25-213629.txt
+2025-09-23 21:29:49 | 8-K - Netskope Inc (0002063196) (Filer) | 2025-09-23T17:25:49-04:00 | https://www.sec.gov/Archives/edgar/data/2063196/000119312525213627/0001193125-25-213627.txt
+2025-09-23 21:29:51 | 8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer) | 2025-09-23T17:24:57-04:00 | https://www.sec.gov/Archives/edgar/data/1728328/000121390025090715/0001213900-25-090715.txt
