@@ -4164,3 +4164,9 @@
 2025-09-24 17:14:23 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 1800000 | Value: $11,340,000.0 | Percent: 1.770299% | Link: https://www.sec.gov/Archives/edgar/data/1867102/000110465925092872/0001104659-25-092872.txt
 2025-09-24 18:41:33 | Keefer Lehner | Officer | Shares: 10998 | Value: $20,457.0 | Percent: 0.061646% | Link: https://www.sec.gov/Archives/edgar/data/1738827/000162828025042561/0001628280-25-042561.txt
 2025-09-24 18:41:35 | Keefer Lehner | Officer | Shares: 10998 | Value: $20,457.0 | Percent: 0.061646% | Link: https://www.sec.gov/Archives/edgar/data/1712745/000162828025042561/0001628280-25-042561.txt
+2025-09-24 20:12:33 | Brau Donnelly Julia | Officer | Shares: 22821 | Value: $795,400.0 | Percent: 0.003808% | Link: https://www.sec.gov/Archives/edgar/data/1983697/000192109425001202/0001921094-25-001202.txt
+2025-09-24 20:12:34 | Brau Donnelly Julia | Officer | Shares: 22821 | Value: $795,400.0 | Percent: 0.003808% | Link: https://www.sec.gov/Archives/edgar/data/1506293/000192109425001202/0001921094-25-001202.txt
+2025-09-24 20:12:36 | Gil Alexis II | Officer | Shares: 25901 | Value: $263,771.71 | Percent: 0.015588% | Link: https://www.sec.gov/Archives/edgar/data/2001306/000195917325006183/0001959173-25-006183.txt
+2025-09-24 20:12:37 | Gil Alexis II | Officer | Shares: 25901 | Value: $263,771.71 | Percent: 0.015588% | Link: https://www.sec.gov/Archives/edgar/data/1842718/000195917325006183/0001959173-25-006183.txt
+2025-09-24 20:12:39 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,558,115.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1773914/000192109425001201/0001921094-25-001201.txt
+2025-09-24 20:12:40 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,558,115.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1506293/000192109425001201/0001921094-25-001201.txt
