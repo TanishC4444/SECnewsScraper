@@ -4158,3 +4158,5 @@
 2025-09-24 16:43:32 | NordicSun Limited | Affiliate | Shares: 300000 | Value: $54,000,000.0 | Percent: 0.055189% | Link: https://www.sec.gov/Archives/edgar/data/1703399/000196922325000795/0001969223-25-000795.txt
 2025-09-24 16:43:34 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,355,909.13 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006180/0001959173-25-006180.txt
 2025-09-24 16:43:35 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,355,909.13 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006180/0001959173-25-006180.txt
+2025-09-24 16:55:38 | SMUCKER MARK T | Officer | Shares: 6500 | Value: $715,000.0 | Percent: 0.006093% | Link: https://www.sec.gov/Archives/edgar/data/1251544/000195917325006182/0001959173-25-006182.txt
+2025-09-24 16:55:39 | SMUCKER MARK T | Officer | Shares: 6500 | Value: $715,000.0 | Percent: 0.006093% | Link: https://www.sec.gov/Archives/edgar/data/91419/000195917325006182/0001959173-25-006182.txt
