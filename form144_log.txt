@@ -4170,3 +4170,11 @@
 2025-09-24 20:12:37 | Gil Alexis II | Officer | Shares: 25901 | Value: $263,771.71 | Percent: 0.015588% | Link: https://www.sec.gov/Archives/edgar/data/1842718/000195917325006183/0001959173-25-006183.txt
 2025-09-24 20:12:39 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,558,115.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1773914/000192109425001201/0001921094-25-001201.txt
 2025-09-24 20:12:40 | Silbermann Benjamin | Director | Shares: 102083 | Value: $3,558,115.0 | Percent: 0.017035% | Link: https://www.sec.gov/Archives/edgar/data/1506293/000192109425001201/0001921094-25-001201.txt
+2025-09-24 20:32:06 | Ladwa Akshay | Officer | Shares: 75000 | Value: $223,232.78 | Percent: 0.046338% | Link: https://www.sec.gov/Archives/edgar/data/1977206/000195917325006191/0001959173-25-006191.txt
+2025-09-24 20:32:07 | Ladwa Akshay | Officer | Shares: 75000 | Value: $223,232.78 | Percent: 0.046338% | Link: https://www.sec.gov/Archives/edgar/data/1828536/000195917325006191/0001959173-25-006191.txt
+2025-09-24 20:32:10 | Keller Michael R | Director | Shares: 30000 | Value: $219,497.32 | Percent: 2.685715% | Link: https://www.sec.gov/Archives/edgar/data/1768576/000196530125000145/0001965301-25-000145.txt
+2025-09-24 20:32:11 | Keller Michael R | Director | Shares: 30000 | Value: $219,497.32 | Percent: 2.685715% | Link: https://www.sec.gov/Archives/edgar/data/1621672/000196530125000145/0001965301-25-000145.txt
+2025-09-24 20:32:12 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,320,009.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001203/0001921094-25-001203.txt
+2025-09-24 20:32:13 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,320,009.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001203/0001921094-25-001203.txt
+2025-09-24 20:32:14 | Walsh Mark T. | Officer | Shares: 34184 | Value: $446,995.82 | Percent: 0.021975% | Link: https://www.sec.gov/Archives/edgar/data/1977188/000195917325006189/0001959173-25-006189.txt
+2025-09-24 20:32:16 | Walsh Mark T. | Officer | Shares: 34184 | Value: $446,995.82 | Percent: 0.021975% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325006189/0001959173-25-006189.txt
