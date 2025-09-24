@@ -4943,3 +4943,11 @@
 2025-09-23 21:29:51 | 8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer) | 2025-09-23T17:24:57-04:00 | https://www.sec.gov/Archives/edgar/data/1728328/000121390025090715/0001213900-25-090715.txt
 2025-09-23 21:40:18 | 8-K - GT Biopharma, Inc. (0000109657) (Filer) | 2025-09-23T17:30:50-04:00 | https://www.sec.gov/Archives/edgar/data/109657/000149315225014684/0001493152-25-014684.txt
 2025-09-23 21:40:19 | 8-K - AlphaVest Acquisition Corp. (0001937891) (Filer) | 2025-09-23T17:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1937891/000149315225014682/0001493152-25-014682.txt
+2025-09-24 10:18:04 | 8-K - ESSA Pharma Inc. (0001633932) (Filer) | 2025-09-24T06:06:06-04:00 | https://www.sec.gov/Archives/edgar/data/1633932/000110465925092710/0001104659-25-092710.txt
+2025-09-24 10:18:06 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-24T06:02:02-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015769/0001062993-25-015769.txt
+2025-09-24 10:18:09 | 8-K - PALVELLA THERAPEUTICS, INC. (0001583648) (Filer) | 2025-09-24T06:01:02-04:00 | https://www.sec.gov/Archives/edgar/data/1583648/000110465925092681/0001104659-25-092681.txt
+2025-09-24 10:18:11 | 8-K - Quanterix Corp (0001503274) (Filer) | 2025-09-23T21:42:44-04:00 | https://www.sec.gov/Archives/edgar/data/1503274/000110465925092669/0001104659-25-092669.txt
+2025-09-24 10:18:11 | 8-K/A - Mitesco, Inc. (0000802257) (Filer) | 2025-09-23T21:04:32-04:00 | https://www.sec.gov/Archives/edgar/data/802257/000118518525001273/0001185185-25-001273.txt
+2025-09-24 10:18:13 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-23T20:21:24-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025090815/0001213900-25-090815.txt
+2025-09-24 10:18:15 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-23T19:31:24-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925092624/0001104659-25-092624.txt
+2025-09-24 10:18:16 | 8-K/A - VIVOS INC (0001449349) (Filer) | 2025-09-23T19:19:44-04:00 | https://www.sec.gov/Archives/edgar/data/1449349/000149315225014694/0001493152-25-014694.txt
