@@ -4186,3 +4186,7 @@
 2025-09-24 20:51:11 | ALIAZAR KEINAN | Director | Shares: 508790 | Value: $9,366,104.61 | Percent: 0.208120% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725007494/0001950047-25-007494.txt
 2025-09-24 20:51:12 | JAMES HENDERSON | OFFICER | Shares: 23515 | Value: $621,679.57 | Percent: 0.060898% | Link: https://www.sec.gov/Archives/edgar/data/1944558/000140070625000010/0001400706-25-000010.txt
 2025-09-24 20:51:13 | JAMES HENDERSON | OFFICER | Shares: 23515 | Value: $621,679.57 | Percent: 0.060898% | Link: https://www.sec.gov/Archives/edgar/data/1400706/000140070625000010/0001400706-25-000010.txt
+2025-09-24 20:59:58 | Bobak Azamian Living Trust | Officer | Shares: 6000 | Value: $332,208.38 | Percent: 0.014213% | Link: https://www.sec.gov/Archives/edgar/data/1827672/000162828025042617/0001628280-25-042617.txt
+2025-09-24 20:59:59 | Bobak Azamian Living Trust | Officer | Shares: 6000 | Value: $332,208.38 | Percent: 0.014213% | Link: https://www.sec.gov/Archives/edgar/data/1819790/000162828025042617/0001628280-25-042617.txt
+2025-09-24 21:00:00 | Jason Les | CEO | Shares: 150000 | Value: $2,560,500.0 | Percent: 0.040582% | Link: https://www.sec.gov/Archives/edgar/data/1721702/000196858225000956/0001968582-25-000956.txt
+2025-09-24 21:00:01 | Jason Les | CEO | Shares: 150000 | Value: $2,560,500.0 | Percent: 0.040582% | Link: https://www.sec.gov/Archives/edgar/data/1167419/000196858225000956/0001968582-25-000956.txt
