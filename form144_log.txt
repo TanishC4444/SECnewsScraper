@@ -4194,3 +4194,5 @@
 2025-09-24 21:22:34 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $317,911.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025042629/0001628280-25-042629.txt
 2025-09-24 21:22:36 | Gary P. Bowman | Officer | Shares: 12500 | Value: $529,852.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1859488/000162828025042622/0001628280-25-042622.txt
 2025-09-24 21:22:37 | Gary P. Bowman | Officer | Shares: 12500 | Value: $529,852.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025042622/0001628280-25-042622.txt
+2025-09-24 21:32:22 | David L. Weinstein | Director | Shares: 12633 | Value: $178,756.95 | Percent: 0.061467% | Link: https://www.sec.gov/Archives/edgar/data/1854964/000144262725000004/0001442627-25-000004.txt
+2025-09-24 21:32:23 | David L. Weinstein | Director | Shares: 12633 | Value: $178,756.95 | Percent: 0.061467% | Link: https://www.sec.gov/Archives/edgar/data/1442627/000144262725000004/0001442627-25-000004.txt

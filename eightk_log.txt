@@ -5019,3 +5019,8 @@
 2025-09-24 21:22:28 | 8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer) | 2025-09-24T17:00:42-04:00 | https://www.sec.gov/Archives/edgar/data/1895249/000110465925092986/0001104659-25-092986.txt
 2025-09-24 21:22:30 | 8-K - XCF Global, Inc. (0002019793) (Filer) | 2025-09-24T17:00:34-04:00 | https://www.sec.gov/Archives/edgar/data/2019793/000149315225014819/0001493152-25-014819.txt
 2025-09-24 21:22:31 | 8-K - SeaStar Medical Holding Corp (0001831868) (Filer) | 2025-09-24T17:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1831868/000119312525215608/0001193125-25-215608.txt
+2025-09-24 21:32:14 | 8-K - WaterBridge Infrastructure LLC (0002064947) (Filer) | 2025-09-24T17:31:07-04:00 | https://www.sec.gov/Archives/edgar/data/2064947/000119312525215831/0001193125-25-215831.txt
+2025-09-24 21:32:16 | 8-K - Quantum Computing Inc. (0001758009) (Filer) | 2025-09-24T17:29:50-04:00 | https://www.sec.gov/Archives/edgar/data/1758009/000121390025091229/0001213900-25-091229.txt
+2025-09-24 21:32:17 | 8-K - INTEGRAL AD SCIENCE HOLDING CORP. (0001842718) (Filer) | 2025-09-24T17:29:34-04:00 | https://www.sec.gov/Archives/edgar/data/1842718/000119312525215824/0001193125-25-215824.txt
+2025-09-24 21:32:18 | 8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer) | 2025-09-24T17:29:03-04:00 | https://www.sec.gov/Archives/edgar/data/2066337/000199937125013955/0001999371-25-013955.txt
+2025-09-24 21:32:20 | 8-K - NRG ENERGY, INC. (0001013871) (Filer) | 2025-09-24T17:23:18-04:00 | https://www.sec.gov/Archives/edgar/data/1013871/000110465925093002/0001104659-25-093002.txt
