@@ -4200,3 +4200,5 @@
 2025-09-24 21:41:01 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000171904525000003/0001719045-25-000003.txt
 2025-09-24 22:53:52 | MARK REUSS | Officer | Shares: 26869 | Value: $1,612,871.65 | Percent: 0.002822% | Link: https://www.sec.gov/Archives/edgar/data/1492362/000195004725007497/0001950047-25-007497.txt
 2025-09-24 22:53:53 | MARK REUSS | Officer | Shares: 26869 | Value: $1,612,871.65 | Percent: 0.002822% | Link: https://www.sec.gov/Archives/edgar/data/1467858/000195004725007497/0001950047-25-007497.txt
+2025-09-24 23:11:17 | D95GT, LLC | Affiliate | Shares: 192024 | Value: $51,582,201.39 | Percent: 0.004066% | Link: https://www.sec.gov/Archives/edgar/data/2059824/000197372725000030/0001973727-25-000030.txt
+2025-09-24 23:11:18 | D95GT, LLC | Affiliate | Shares: 192024 | Value: $51,582,201.39 | Percent: 0.004066% | Link: https://www.sec.gov/Archives/edgar/data/1730168/000197372725000030/0001973727-25-000030.txt
