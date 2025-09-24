@@ -4162,3 +4162,5 @@
 2025-09-24 16:55:39 | SMUCKER MARK T | Officer | Shares: 6500 | Value: $715,000.0 | Percent: 0.006093% | Link: https://www.sec.gov/Archives/edgar/data/91419/000195917325006182/0001959173-25-006182.txt
 2025-09-24 17:14:22 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 1800000 | Value: $11,340,000.0 | Percent: 1.770299% | Link: https://www.sec.gov/Archives/edgar/data/1911254/000110465925092872/0001104659-25-092872.txt
 2025-09-24 17:14:23 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 1800000 | Value: $11,340,000.0 | Percent: 1.770299% | Link: https://www.sec.gov/Archives/edgar/data/1867102/000110465925092872/0001104659-25-092872.txt
+2025-09-24 18:41:33 | Keefer Lehner | Officer | Shares: 10998 | Value: $20,457.0 | Percent: 0.061646% | Link: https://www.sec.gov/Archives/edgar/data/1738827/000162828025042561/0001628280-25-042561.txt
+2025-09-24 18:41:35 | Keefer Lehner | Officer | Shares: 10998 | Value: $20,457.0 | Percent: 0.061646% | Link: https://www.sec.gov/Archives/edgar/data/1712745/000162828025042561/0001628280-25-042561.txt
