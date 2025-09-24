@@ -4196,3 +4196,5 @@
 2025-09-24 21:22:37 | Gary P. Bowman | Officer | Shares: 12500 | Value: $529,852.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025042622/0001628280-25-042622.txt
 2025-09-24 21:32:22 | David L. Weinstein | Director | Shares: 12633 | Value: $178,756.95 | Percent: 0.061467% | Link: https://www.sec.gov/Archives/edgar/data/1854964/000144262725000004/0001442627-25-000004.txt
 2025-09-24 21:32:23 | David L. Weinstein | Director | Shares: 12633 | Value: $178,756.95 | Percent: 0.061467% | Link: https://www.sec.gov/Archives/edgar/data/1442627/000144262725000004/0001442627-25-000004.txt
+2025-09-24 21:41:00 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1719045/000171904525000003/0001719045-25-000003.txt
+2025-09-24 21:41:01 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000171904525000003/0001719045-25-000003.txt
