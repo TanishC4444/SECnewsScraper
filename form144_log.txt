@@ -4178,3 +4178,7 @@
 2025-09-24 20:32:13 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,320,009.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001203/0001921094-25-001203.txt
 2025-09-24 20:32:14 | Walsh Mark T. | Officer | Shares: 34184 | Value: $446,995.82 | Percent: 0.021975% | Link: https://www.sec.gov/Archives/edgar/data/1977188/000195917325006189/0001959173-25-006189.txt
 2025-09-24 20:32:16 | Walsh Mark T. | Officer | Shares: 34184 | Value: $446,995.82 | Percent: 0.021975% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325006189/0001959173-25-006189.txt
+2025-09-24 20:41:36 | DON M BAILEY | Director | Shares: 60000 | Value: $96,024.0 | Percent: 0.026275% | Link: https://www.sec.gov/Archives/edgar/data/1223697/000195004725007493/0001950047-25-007493.txt
+2025-09-24 20:41:38 | DON M BAILEY | Director | Shares: 60000 | Value: $96,024.0 | Percent: 0.026275% | Link: https://www.sec.gov/Archives/edgar/data/876343/000195004725007493/0001950047-25-007493.txt
+2025-09-24 20:41:40 | Greenberg Monica L. | Officer | Shares: 157203 | Value: $100,389.84 | Percent: 0.162694% | Link: https://www.sec.gov/Archives/edgar/data/1434179/000195917325006192/0001959173-25-006192.txt
+2025-09-24 20:41:41 | Greenberg Monica L. | Officer | Shares: 157203 | Value: $100,389.84 | Percent: 0.162694% | Link: https://www.sec.gov/Archives/edgar/data/1102993/000195917325006192/0001959173-25-006192.txt
