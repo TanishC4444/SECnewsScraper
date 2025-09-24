@@ -4182,3 +4182,7 @@
 2025-09-24 20:41:38 | DON M BAILEY | Director | Shares: 60000 | Value: $96,024.0 | Percent: 0.026275% | Link: https://www.sec.gov/Archives/edgar/data/876343/000195004725007493/0001950047-25-007493.txt
 2025-09-24 20:41:40 | Greenberg Monica L. | Officer | Shares: 157203 | Value: $100,389.84 | Percent: 0.162694% | Link: https://www.sec.gov/Archives/edgar/data/1434179/000195917325006192/0001959173-25-006192.txt
 2025-09-24 20:41:41 | Greenberg Monica L. | Officer | Shares: 157203 | Value: $100,389.84 | Percent: 0.162694% | Link: https://www.sec.gov/Archives/edgar/data/1102993/000195917325006192/0001959173-25-006192.txt
+2025-09-24 20:51:10 | ALIAZAR KEINAN | Director | Shares: 508790 | Value: $9,366,104.61 | Percent: 0.208120% | Link: https://www.sec.gov/Archives/edgar/data/1883311/000195004725007494/0001950047-25-007494.txt
+2025-09-24 20:51:11 | ALIAZAR KEINAN | Director | Shares: 508790 | Value: $9,366,104.61 | Percent: 0.208120% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725007494/0001950047-25-007494.txt
+2025-09-24 20:51:12 | JAMES HENDERSON | OFFICER | Shares: 23515 | Value: $621,679.57 | Percent: 0.060898% | Link: https://www.sec.gov/Archives/edgar/data/1944558/000140070625000010/0001400706-25-000010.txt
+2025-09-24 20:51:13 | JAMES HENDERSON | OFFICER | Shares: 23515 | Value: $621,679.57 | Percent: 0.060898% | Link: https://www.sec.gov/Archives/edgar/data/1400706/000140070625000010/0001400706-25-000010.txt
