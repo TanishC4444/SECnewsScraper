@@ -4160,3 +4160,5 @@
 2025-09-24 16:43:35 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,355,909.13 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006180/0001959173-25-006180.txt
 2025-09-24 16:55:38 | SMUCKER MARK T | Officer | Shares: 6500 | Value: $715,000.0 | Percent: 0.006093% | Link: https://www.sec.gov/Archives/edgar/data/1251544/000195917325006182/0001959173-25-006182.txt
 2025-09-24 16:55:39 | SMUCKER MARK T | Officer | Shares: 6500 | Value: $715,000.0 | Percent: 0.006093% | Link: https://www.sec.gov/Archives/edgar/data/91419/000195917325006182/0001959173-25-006182.txt
+2025-09-24 17:14:22 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 1800000 | Value: $11,340,000.0 | Percent: 1.770299% | Link: https://www.sec.gov/Archives/edgar/data/1911254/000110465925092872/0001104659-25-092872.txt
+2025-09-24 17:14:23 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 1800000 | Value: $11,340,000.0 | Percent: 1.770299% | Link: https://www.sec.gov/Archives/edgar/data/1867102/000110465925092872/0001104659-25-092872.txt
