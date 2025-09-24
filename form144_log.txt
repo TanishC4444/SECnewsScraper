@@ -4152,3 +4152,9 @@
 2025-09-23 23:10:34 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 6357 | Value: $168,653.75 | Percent: 0.041750% | Link: https://www.sec.gov/Archives/edgar/data/814586/000122784725000004/0001227847-25-000004.txt
 2025-09-24 02:39:02 | AI LiquidRE LLC | Other / Affiliate | Shares: 13656898 | Value: $96,827,406.8 | Percent: 1.840256% | Link: https://www.sec.gov/Archives/edgar/data/1879878/000119312525213830/0001193125-25-213830.txt
 2025-09-24 02:39:03 | AI LiquidRE LLC | Other / Affiliate | Shares: 13656898 | Value: $96,827,406.8 | Percent: 1.840256% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000119312525213830/0001193125-25-213830.txt
+2025-09-24 16:43:29 | CMI Oxbow Partners, LLC | 10% Stockholder | Shares: 240000 | Value: $3,120,000.0 | Percent: 0.498175% | Link: https://www.sec.gov/Archives/edgar/data/1857392/000076490025000032/0000764900-25-000032.txt
+2025-09-24 16:43:30 | CMI Oxbow Partners, LLC | 10% Stockholder | Shares: 240000 | Value: $3,120,000.0 | Percent: 0.498175% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000076490025000032/0000764900-25-000032.txt
+2025-09-24 16:43:31 | NordicSun Limited | Affiliate | Shares: 300000 | Value: $54,000,000.0 | Percent: 0.055189% | Link: https://www.sec.gov/Archives/edgar/data/2004545/000196922325000795/0001969223-25-000795.txt
+2025-09-24 16:43:32 | NordicSun Limited | Affiliate | Shares: 300000 | Value: $54,000,000.0 | Percent: 0.055189% | Link: https://www.sec.gov/Archives/edgar/data/1703399/000196922325000795/0001969223-25-000795.txt
+2025-09-24 16:43:34 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,355,909.13 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006180/0001959173-25-006180.txt
+2025-09-24 16:43:35 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,355,909.13 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006180/0001959173-25-006180.txt
