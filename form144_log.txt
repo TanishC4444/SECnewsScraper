@@ -4198,3 +4198,5 @@
 2025-09-24 21:32:23 | David L. Weinstein | Director | Shares: 12633 | Value: $178,756.95 | Percent: 0.061467% | Link: https://www.sec.gov/Archives/edgar/data/1442627/000144262725000004/0001442627-25-000004.txt
 2025-09-24 21:41:00 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1719045/000171904525000003/0001719045-25-000003.txt
 2025-09-24 21:41:01 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $135,205.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000171904525000003/0001719045-25-000003.txt
+2025-09-24 22:53:52 | MARK REUSS | Officer | Shares: 26869 | Value: $1,612,871.65 | Percent: 0.002822% | Link: https://www.sec.gov/Archives/edgar/data/1492362/000195004725007497/0001950047-25-007497.txt
+2025-09-24 22:53:53 | MARK REUSS | Officer | Shares: 26869 | Value: $1,612,871.65 | Percent: 0.002822% | Link: https://www.sec.gov/Archives/edgar/data/1467858/000195004725007497/0001950047-25-007497.txt
