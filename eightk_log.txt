@@ -5009,3 +5009,13 @@
 2025-09-24 20:59:53 | 8-K - RANGE IMPACT, INC. (0001438943) (Filer) | 2025-09-24T16:56:14-04:00 | https://www.sec.gov/Archives/edgar/data/1438943/000149315225014817/0001493152-25-014817.txt
 2025-09-24 20:59:55 | 8-K - California Resources Corp (0001609253) (Filer) | 2025-09-24T16:55:07-04:00 | https://www.sec.gov/Archives/edgar/data/1609253/000119312525215598/0001193125-25-215598.txt
 2025-09-24 20:59:56 | 8-K - TaskUs, Inc. (0001829864) (Filer) | 2025-09-24T16:53:52-04:00 | https://www.sec.gov/Archives/edgar/data/1829864/000119312525215591/0001193125-25-215591.txt
+2025-09-24 21:22:19 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-09-24T17:20:24-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025091201/0001213900-25-091201.txt
+2025-09-24 21:22:20 | 8-K - PRA GROUP INC (0001185348) (Filer) | 2025-09-24T17:19:16-04:00 | https://www.sec.gov/Archives/edgar/data/1185348/000118534825000030/0001185348-25-000030.txt
+2025-09-24 21:22:20 | 8-K - MSD Investment Corp. (0001849894) (Filer) | 2025-09-24T17:18:45-04:00 | https://www.sec.gov/Archives/edgar/data/1849894/000119312525215795/0001193125-25-215795.txt
+2025-09-24 21:22:25 | 8-K - SmartStop Self Storage REIT, Inc. (0001585389) (Filer) | 2025-09-24T17:16:02-04:00 | https://www.sec.gov/Archives/edgar/data/1585389/000119312525215787/0001193125-25-215787.txt
+2025-09-24 21:22:25 | 8-K - New Mountain Private Credit Fund (0002037804) (Filer) | 2025-09-24T17:07:54-04:00 | https://www.sec.gov/Archives/edgar/data/2037804/000158064225006204/0001580642-25-006204.txt
+2025-09-24 21:22:27 | 8-K - Monopar Therapeutics (0001645469) (Filer) | 2025-09-24T17:06:06-04:00 | https://www.sec.gov/Archives/edgar/data/1645469/000143774925029819/0001437749-25-029819.txt
+2025-09-24 21:22:27 | 8-K - Blue Owl Credit Income Corp. (0001812554) (Filer) | 2025-09-24T17:02:06-04:00 | https://www.sec.gov/Archives/edgar/data/1812554/000181255425000070/0001812554-25-000070.txt
+2025-09-24 21:22:28 | 8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer) | 2025-09-24T17:00:42-04:00 | https://www.sec.gov/Archives/edgar/data/1895249/000110465925092986/0001104659-25-092986.txt
+2025-09-24 21:22:30 | 8-K - XCF Global, Inc. (0002019793) (Filer) | 2025-09-24T17:00:34-04:00 | https://www.sec.gov/Archives/edgar/data/2019793/000149315225014819/0001493152-25-014819.txt
+2025-09-24 21:22:31 | 8-K - SeaStar Medical Holding Corp (0001831868) (Filer) | 2025-09-24T17:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1831868/000119312525215608/0001193125-25-215608.txt

@@ -4190,3 +4190,7 @@
 2025-09-24 20:59:59 | Bobak Azamian Living Trust | Officer | Shares: 6000 | Value: $332,208.38 | Percent: 0.014213% | Link: https://www.sec.gov/Archives/edgar/data/1819790/000162828025042617/0001628280-25-042617.txt
 2025-09-24 21:00:00 | Jason Les | CEO | Shares: 150000 | Value: $2,560,500.0 | Percent: 0.040582% | Link: https://www.sec.gov/Archives/edgar/data/1721702/000196858225000956/0001968582-25-000956.txt
 2025-09-24 21:00:01 | Jason Les | CEO | Shares: 150000 | Value: $2,560,500.0 | Percent: 0.040582% | Link: https://www.sec.gov/Archives/edgar/data/1167419/000196858225000956/0001968582-25-000956.txt
+2025-09-24 21:22:33 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $317,911.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1859488/000162828025042629/0001628280-25-042629.txt
+2025-09-24 21:22:34 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $317,911.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025042629/0001628280-25-042629.txt
+2025-09-24 21:22:36 | Gary P. Bowman | Officer | Shares: 12500 | Value: $529,852.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1859488/000162828025042622/0001628280-25-042622.txt
+2025-09-24 21:22:37 | Gary P. Bowman | Officer | Shares: 12500 | Value: $529,852.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025042622/0001628280-25-042622.txt
