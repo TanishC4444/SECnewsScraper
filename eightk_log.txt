@@ -5150,3 +5150,6 @@
 2025-09-25 21:25:37 | 8-K - Duke Energy Carolinas, LLC (0000030371) (Filer) | 2025-09-25T17:17:35-04:00 | https://www.sec.gov/Archives/edgar/data/30371/000110465925093430/0001104659-25-093430.txt
 2025-09-25 21:25:38 | 8-K - Golub Capital Private Credit Fund (0001930087) (Filer) | 2025-09-25T17:17:03-04:00 | https://www.sec.gov/Archives/edgar/data/1930087/000193008725000059/0001930087-25-000059.txt
 2025-09-25 21:25:39 | 8-K - Armlogi Holding Corp. (0001972529) (Filer) | 2025-09-25T17:15:39-04:00 | https://www.sec.gov/Archives/edgar/data/1972529/000121390025091730/0001213900-25-091730.txt
+2025-09-25 21:36:27 | 8-K - Uniti Group Inc. (0002020795) (Filer) | 2025-09-25T17:30:14-04:00 | https://www.sec.gov/Archives/edgar/data/2020795/000095010325012239/0000950103-25-012239.txt
+2025-09-25 21:36:28 | 8-K - Fossil Group, Inc. (0000883569) (Filer) | 2025-09-25T17:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/883569/000119312525218024/0001193125-25-218024.txt
+2025-09-25 21:36:28 | 8-K - ZRCN Inc. (0001901297) (Filer) | 2025-09-25T17:29:56-04:00 | https://www.sec.gov/Archives/edgar/data/1901297/000149315225014988/0001493152-25-014988.txt
