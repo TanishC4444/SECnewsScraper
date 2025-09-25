@@ -5124,3 +5124,9 @@
 2025-09-25 20:45:09 | 8-K - Science Applications International Corp (0001571123) (Filer) | 2025-09-25T16:36:07-04:00 | https://www.sec.gov/Archives/edgar/data/1571123/000157112325000176/0001571123-25-000176.txt
 2025-09-25 20:45:09 | 8-K - Apollo Infrastructure Co LLC (0001971381) (Filer) | 2025-09-25T16:35:43-04:00 | https://www.sec.gov/Archives/edgar/data/1971381/000119312525217578/0001193125-25-217578.txt
 2025-09-25 20:45:10 | 8-K - GlobalTech Corp (0001938338) (Filer) | 2025-09-25T16:35:13-04:00 | https://www.sec.gov/Archives/edgar/data/1938338/000147793225007041/0001477932-25-007041.txt
+2025-09-25 20:54:09 | 8-K - AAR CORP (0000001750) (Filer) | 2025-09-25T16:52:50-04:00 | https://www.sec.gov/Archives/edgar/data/1750/000110465925093400/0001104659-25-093400.txt
+2025-09-25 20:54:10 | 8-K - CHART INDUSTRIES INC (0000892553) (Filer) | 2025-09-25T16:52:07-04:00 | https://www.sec.gov/Archives/edgar/data/892553/000119312525217778/0001193125-25-217778.txt
+2025-09-25 20:54:12 | 8-K - GOLUB CAPITAL BDC, Inc. (0001476765) (Filer) | 2025-09-25T16:48:36-04:00 | https://www.sec.gov/Archives/edgar/data/1476765/000110465925093394/0001104659-25-093394.txt
+2025-09-25 20:54:14 | 8-K - AtlasClear Holdings, Inc. (0001963088) (Filer) | 2025-09-25T16:45:44-04:00 | https://www.sec.gov/Archives/edgar/data/1963088/000110465925093393/0001104659-25-093393.txt
+2025-09-25 20:54:14 | 8-K/A - HarborOne Bancorp, Inc. (0001769617) (Filer) | 2025-09-25T16:45:30-04:00 | https://www.sec.gov/Archives/edgar/data/1769617/000110465925093392/0001104659-25-093392.txt
+2025-09-25 20:54:15 | 8-K - Prospect Floating Rate & Alternative Income Fund, Inc. (0001521945) (Filer) | 2025-09-25T16:44:54-04:00 | https://www.sec.gov/Archives/edgar/data/1521945/000152194525000084/0001521945-25-000084.txt
