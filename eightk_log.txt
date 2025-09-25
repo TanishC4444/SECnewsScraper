@@ -5116,3 +5116,11 @@
 2025-09-25 20:35:21 | 8-K - Alzamend Neuro, Inc. (0001677077) (Filer) | 2025-09-25T16:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/1677077/000121465925014200/0001214659-25-014200.txt
 2025-09-25 20:35:22 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-09-25T16:30:35-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000149315225014949/0001493152-25-014949.txt
 2025-09-25 20:35:24 | 8-K - LABCORP HOLDINGS INC. (0000920148) (Filer) | 2025-09-25T16:29:14-04:00 | https://www.sec.gov/Archives/edgar/data/920148/000092014825000088/0000920148-25-000088.txt
+2025-09-25 20:44:58 | 8-K - Rithm Capital Corp. (0001556593) (Filer) | 2025-09-25T16:42:45-04:00 | https://www.sec.gov/Archives/edgar/data/1556593/000114036125036142/0001140361-25-036142.txt
+2025-09-25 20:45:00 | 8-K - ASTROTECH Corp (0001001907) (Filer) | 2025-09-25T16:40:45-04:00 | https://www.sec.gov/Archives/edgar/data/1001907/000143774925029876/0001437749-25-029876.txt
+2025-09-25 20:45:01 | 8-K - FS KKR Capital Corp (0001422183) (Filer) | 2025-09-25T16:40:30-04:00 | https://www.sec.gov/Archives/edgar/data/1422183/000110465925093389/0001104659-25-093389.txt
+2025-09-25 20:45:03 | 8-K - SentinelOne, Inc. (0001583708) (Filer) | 2025-09-25T16:39:00-04:00 | https://www.sec.gov/Archives/edgar/data/1583708/000110465925093387/0001104659-25-093387.txt
+2025-09-25 20:45:05 | 8-K - Open Lending Corp (0001806201) (Filer) | 2025-09-25T16:38:23-04:00 | https://www.sec.gov/Archives/edgar/data/1806201/000180620125000097/0001806201-25-000097.txt
+2025-09-25 20:45:09 | 8-K - Science Applications International Corp (0001571123) (Filer) | 2025-09-25T16:36:07-04:00 | https://www.sec.gov/Archives/edgar/data/1571123/000157112325000176/0001571123-25-000176.txt
+2025-09-25 20:45:09 | 8-K - Apollo Infrastructure Co LLC (0001971381) (Filer) | 2025-09-25T16:35:43-04:00 | https://www.sec.gov/Archives/edgar/data/1971381/000119312525217578/0001193125-25-217578.txt
+2025-09-25 20:45:10 | 8-K - GlobalTech Corp (0001938338) (Filer) | 2025-09-25T16:35:13-04:00 | https://www.sec.gov/Archives/edgar/data/1938338/000147793225007041/0001477932-25-007041.txt
