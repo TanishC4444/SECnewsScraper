@@ -5089,3 +5089,6 @@
 2025-09-25 17:19:20 | 8-K - Klaviyo, Inc. (0001835830) (Filer) | 2025-09-25T13:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1835830/000183583025000103/0001835830-25-000103.txt
 2025-09-25 17:33:50 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-25T13:24:57-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000178/0001326771-25-000178.txt
 2025-09-25 17:52:36 | 8-K - QNB CORP. (0000750558) (Filer) | 2025-09-25T13:47:25-04:00 | https://www.sec.gov/Archives/edgar/data/750558/000119312525217155/0001193125-25-217155.txt
+2025-09-25 18:15:10 | 8-K - Unicoin Inc. (0001740742) (Filer) | 2025-09-25T14:13:16-04:00 | https://www.sec.gov/Archives/edgar/data/1740742/000182912625007649/0001829126-25-007649.txt
+2025-09-25 18:15:11 | 8-K - Fortress Net Lease REIT (0001966394) (Filer) | 2025-09-25T14:08:07-04:00 | https://www.sec.gov/Archives/edgar/data/1966394/000119312525217182/0001193125-25-217182.txt
+2025-09-25 18:15:11 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-25T14:06:03-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000184/0001325814-25-000184.txt
