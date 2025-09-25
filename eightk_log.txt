@@ -5078,3 +5078,4 @@
 2025-09-25 14:49:16 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-09-25T10:37:02-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000205/0001325878-25-000205.txt
 2025-09-25 15:24:22 | 8-K - BIOLARGO, INC. (0000880242) (Filer) | 2025-09-25T11:15:12-04:00 | https://www.sec.gov/Archives/edgar/data/880242/000143774925029852/0001437749-25-029852.txt
 2025-09-25 15:24:25 | 8-K - Securetech Innovations, Inc. (0001703157) (Filer) | 2025-09-25T10:59:09-04:00 | https://www.sec.gov/Archives/edgar/data/1703157/000101738625000120/0001017386-25-000120.txt
+2025-09-25 15:40:13 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-25T11:36:11-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000171/0001331757-25-000171.txt
