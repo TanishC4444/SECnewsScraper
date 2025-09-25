@@ -4216,3 +4216,5 @@
 2025-09-25 16:30:25 | Hafberg Agust F | Officer | Shares: 9493 | Value: $249,950.69 | Percent: 0.010170% | Link: https://www.sec.gov/Archives/edgar/data/949157/000194984625000505/0001949846-25-000505.txt
 2025-09-25 16:30:27 | YANG MING-RAIN | Officer | Shares: 8750 | Value: $265,300.0 | Percent: 0.013012% | Link: https://www.sec.gov/Archives/edgar/data/1979356/000197935625000002/0001979356-25-000002.txt
 2025-09-25 16:30:28 | YANG MING-RAIN | Officer | Shares: 8750 | Value: $265,300.0 | Percent: 0.013012% | Link: https://www.sec.gov/Archives/edgar/data/1477641/000197935625000002/0001979356-25-000002.txt
+2025-09-25 16:48:55 | Roger Noriega | Director | Shares: 50000 | Value: $238,000.0 | Percent: 0.237630% | Link: https://www.sec.gov/Archives/edgar/data/1608103/000149315225014892/0001493152-25-014892.txt
+2025-09-25 16:48:56 | Roger Noriega | Director | Shares: 50000 | Value: $238,000.0 | Percent: 0.237630% | Link: https://www.sec.gov/Archives/edgar/data/1540684/000149315225014892/0001493152-25-014892.txt

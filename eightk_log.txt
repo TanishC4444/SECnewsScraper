@@ -5082,3 +5082,5 @@
 2025-09-25 15:50:10 | 8-K - KonaTel, Inc. (0000845819) (Filer) | 2025-09-25T11:40:28-04:00 | https://www.sec.gov/Archives/edgar/data/845819/000151597125000080/0001515971-25-000080.txt
 2025-09-25 16:30:22 | 8-K - Apollo Asset Backed Credit Co LLC (0002000597) (Filer) | 2025-09-25T12:14:45-04:00 | https://www.sec.gov/Archives/edgar/data/2000597/000119312525216831/0001193125-25-216831.txt
 2025-09-25 16:30:22 | 8-K - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer) | 2025-09-25T12:14:36-04:00 | https://www.sec.gov/Archives/edgar/data/2077702/000153949725002492/0001539497-25-002492.txt
+2025-09-25 16:48:53 | 8-K/A - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer) | 2025-09-25T12:42:03-04:00 | https://www.sec.gov/Archives/edgar/data/2077702/000153949725002494/0001539497-25-002494.txt
+2025-09-25 16:48:53 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-25T12:35:49-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425011095/0001654954-25-011095.txt
