@@ -4218,3 +4218,5 @@
 2025-09-25 16:30:28 | YANG MING-RAIN | Officer | Shares: 8750 | Value: $265,300.0 | Percent: 0.013012% | Link: https://www.sec.gov/Archives/edgar/data/1477641/000197935625000002/0001979356-25-000002.txt
 2025-09-25 16:48:55 | Roger Noriega | Director | Shares: 50000 | Value: $238,000.0 | Percent: 0.237630% | Link: https://www.sec.gov/Archives/edgar/data/1608103/000149315225014892/0001493152-25-014892.txt
 2025-09-25 16:48:56 | Roger Noriega | Director | Shares: 50000 | Value: $238,000.0 | Percent: 0.237630% | Link: https://www.sec.gov/Archives/edgar/data/1540684/000149315225014892/0001493152-25-014892.txt
+2025-09-25 18:43:54 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1618303/000195917325006197/0001959173-25-006197.txt
+2025-09-25 18:43:55 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006197/0001959173-25-006197.txt
