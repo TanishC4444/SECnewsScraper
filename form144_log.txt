@@ -4220,3 +4220,7 @@
 2025-09-25 16:48:56 | Roger Noriega | Director | Shares: 50000 | Value: $238,000.0 | Percent: 0.237630% | Link: https://www.sec.gov/Archives/edgar/data/1540684/000149315225014892/0001493152-25-014892.txt
 2025-09-25 18:43:54 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1618303/000195917325006197/0001959173-25-006197.txt
 2025-09-25 18:43:55 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006197/0001959173-25-006197.txt
+2025-09-25 19:26:30 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,706,690.1 | Percent: 0.043216% | Link: https://www.sec.gov/Archives/edgar/data/1654375/000195917325006198/0001959173-25-006198.txt
+2025-09-25 19:26:31 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,706,690.1 | Percent: 0.043216% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006198/0001959173-25-006198.txt
+2025-09-25 19:26:33 | JACKSON SQUARE CAPITAL, LLC | Director | Shares: 12884 | Value: $2,144,026.44 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/1812178/000181217825000005/0001812178-25-000005.txt
+2025-09-25 19:26:33 | JACKSON SQUARE CAPITAL, LLC | Director | Shares: 12884 | Value: $2,144,026.44 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/723125/000181217825000005/0001812178-25-000005.txt
