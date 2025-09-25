@@ -5130,3 +5130,13 @@
 2025-09-25 20:54:14 | 8-K - AtlasClear Holdings, Inc. (0001963088) (Filer) | 2025-09-25T16:45:44-04:00 | https://www.sec.gov/Archives/edgar/data/1963088/000110465925093393/0001104659-25-093393.txt
 2025-09-25 20:54:14 | 8-K/A - HarborOne Bancorp, Inc. (0001769617) (Filer) | 2025-09-25T16:45:30-04:00 | https://www.sec.gov/Archives/edgar/data/1769617/000110465925093392/0001104659-25-093392.txt
 2025-09-25 20:54:15 | 8-K - Prospect Floating Rate & Alternative Income Fund, Inc. (0001521945) (Filer) | 2025-09-25T16:44:54-04:00 | https://www.sec.gov/Archives/edgar/data/1521945/000152194525000084/0001521945-25-000084.txt
+2025-09-25 21:11:59 | 8-K - Farmers & Merchants Bancshares, Inc. (0001698022) (Filer) | 2025-09-25T17:08:36-04:00 | https://www.sec.gov/Archives/edgar/data/1698022/000143774925029881/0001437749-25-029881.txt
+2025-09-25 21:12:01 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-09-25T17:08:24-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000162828025042845/0001628280-25-042845.txt
+2025-09-25 21:12:04 | 8-K - HF Foods Group Inc. (0001680873) (Filer) | 2025-09-25T17:06:09-04:00 | https://www.sec.gov/Archives/edgar/data/1680873/000168087325000060/0001680873-25-000060.txt
+2025-09-25 21:12:06 | 8-K - Qualigen Therapeutics, Inc. (0001460702) (Filer) | 2025-09-25T17:05:45-04:00 | https://www.sec.gov/Archives/edgar/data/1460702/000149315225014965/0001493152-25-014965.txt
+2025-09-25 21:12:06 | 8-K - Bain Capital Private Credit (0001899017) (Filer) | 2025-09-25T17:03:05-04:00 | https://www.sec.gov/Archives/edgar/data/1899017/000119312525217828/0001193125-25-217828.txt
+2025-09-25 21:12:08 | 8-K - Avidia Bancorp, Inc. (0002058758) (Filer) | 2025-09-25T17:02:50-04:00 | https://www.sec.gov/Archives/edgar/data/2058758/000094337425000418/0000943374-25-000418.txt
+2025-09-25 21:12:10 | 8-K - Inotiv, Inc. (0000720154) (Filer) | 2025-09-25T17:02:50-04:00 | https://www.sec.gov/Archives/edgar/data/720154/000162828025042837/0001628280-25-042837.txt
+2025-09-25 21:12:16 | 8-K - AMERICAN ELECTRIC POWER CO INC (0000004904) (Filer) | 2025-09-25T17:01:33-04:00 | https://www.sec.gov/Archives/edgar/data/4904/000000490425000165/0000004904-25-000165.txt
+2025-09-25 21:12:16 | 8-K/A - NETLIST INC (0001282631) (Filer) | 2025-09-25T17:00:47-04:00 | https://www.sec.gov/Archives/edgar/data/1282631/000110465925093410/0001104659-25-093410.txt
+2025-09-25 21:12:18 | 8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer) | 2025-09-25T17:00:32-04:00 | https://www.sec.gov/Archives/edgar/data/1725430/000149315225014961/0001493152-25-014961.txt
