@@ -4240,3 +4240,5 @@
 2025-09-25 21:12:20 | Quang X. Pham | Officer | Shares: 6790 | Value: $95,661.94 | Percent: 0.331729% | Link: https://www.sec.gov/Archives/edgar/data/1405290/000162828025042842/0001628280-25-042842.txt
 2025-09-25 21:12:22 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 500000 | Value: $3,900,000.0 | Percent: 0.449397% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000039/0001178937-25-000039.txt
 2025-09-25 21:12:23 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 500000 | Value: $3,900,000.0 | Percent: 0.449397% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000039/0001178937-25-000039.txt
+2025-09-25 21:54:38 | JACOBS PAUL E | Officer | Shares: 53479 | Value: $1,869,086.0 | Percent: 0.042218% | Link: https://www.sec.gov/Archives/edgar/data/1366868/000119131025000005/0001191310-25-000005.txt
+2025-09-25 21:54:39 | JACOBS PAUL E | Officer | Shares: 53479 | Value: $1,869,086.0 | Percent: 0.042218% | Link: https://www.sec.gov/Archives/edgar/data/1191310/000119131025000005/0001191310-25-000005.txt
