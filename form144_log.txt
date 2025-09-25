@@ -4202,3 +4202,7 @@
 2025-09-24 22:53:53 | MARK REUSS | Officer | Shares: 26869 | Value: $1,612,871.65 | Percent: 0.002822% | Link: https://www.sec.gov/Archives/edgar/data/1467858/000195004725007497/0001950047-25-007497.txt
 2025-09-24 23:11:17 | D95GT, LLC | Affiliate | Shares: 192024 | Value: $51,582,201.39 | Percent: 0.004066% | Link: https://www.sec.gov/Archives/edgar/data/2059824/000197372725000030/0001973727-25-000030.txt
 2025-09-24 23:11:18 | D95GT, LLC | Affiliate | Shares: 192024 | Value: $51,582,201.39 | Percent: 0.004066% | Link: https://www.sec.gov/Archives/edgar/data/1730168/000197372725000030/0001973727-25-000030.txt
+2025-09-25 01:15:50 | Robert J. Fisher | Director | Shares: 500000 | Value: $11,448,149.0 | Percent: 0.134754% | Link: https://www.sec.gov/Archives/edgar/data/1079848/000107984825000008/0001079848-25-000008.txt
+2025-09-25 01:15:51 | Robert J. Fisher | Director | Shares: 500000 | Value: $11,448,149.0 | Percent: 0.134754% | Link: https://www.sec.gov/Archives/edgar/data/39911/000107984825000008/0001079848-25-000008.txt
+2025-09-25 01:15:52 | Kapusta Matthew C | Director | Shares: 226316 | Value: $9,381,750.0 | Percent: 0.412482% | Link: https://www.sec.gov/Archives/edgar/data/1590560/000197337925000270/0001973379-25-000270.txt
+2025-09-25 01:15:53 | Kapusta Matthew C | Director | Shares: 226316 | Value: $9,381,750.0 | Percent: 0.412482% | Link: https://www.sec.gov/Archives/edgar/data/1536290/000197337925000270/0001973379-25-000270.txt
