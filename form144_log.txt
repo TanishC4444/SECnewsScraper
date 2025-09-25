@@ -4206,3 +4206,5 @@
 2025-09-25 01:15:51 | Robert J. Fisher | Director | Shares: 500000 | Value: $11,448,149.0 | Percent: 0.134754% | Link: https://www.sec.gov/Archives/edgar/data/39911/000107984825000008/0001079848-25-000008.txt
 2025-09-25 01:15:52 | Kapusta Matthew C | Director | Shares: 226316 | Value: $9,381,750.0 | Percent: 0.412482% | Link: https://www.sec.gov/Archives/edgar/data/1590560/000197337925000270/0001973379-25-000270.txt
 2025-09-25 01:15:53 | Kapusta Matthew C | Director | Shares: 226316 | Value: $9,381,750.0 | Percent: 0.412482% | Link: https://www.sec.gov/Archives/edgar/data/1536290/000197337925000270/0001973379-25-000270.txt
+2025-09-25 13:52:33 | Gibson Christopher | Officer | Shares: 100000 | Value: $476,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325006195/0001959173-25-006195.txt
+2025-09-25 13:52:34 | Gibson Christopher | Officer | Shares: 100000 | Value: $476,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006195/0001959173-25-006195.txt
