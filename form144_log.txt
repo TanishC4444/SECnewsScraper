@@ -4224,3 +4224,7 @@
 2025-09-25 19:26:31 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,706,690.1 | Percent: 0.043216% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006198/0001959173-25-006198.txt
 2025-09-25 19:26:33 | JACKSON SQUARE CAPITAL, LLC | Director | Shares: 12884 | Value: $2,144,026.44 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/1812178/000181217825000005/0001812178-25-000005.txt
 2025-09-25 19:26:33 | JACKSON SQUARE CAPITAL, LLC | Director | Shares: 12884 | Value: $2,144,026.44 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/723125/000181217825000005/0001812178-25-000005.txt
+2025-09-25 20:19:13 | DANIEL H MALAN | Officer | Shares: 7840 | Value: $100,858.46 | Percent: 0.024534% | Link: https://www.sec.gov/Archives/edgar/data/1820008/000195004725007512/0001950047-25-007512.txt
+2025-09-25 20:19:14 | DANIEL H MALAN | Officer | Shares: 7840 | Value: $100,858.46 | Percent: 0.024534% | Link: https://www.sec.gov/Archives/edgar/data/55135/000195004725007512/0001950047-25-007512.txt
+2025-09-25 20:19:16 | Ladwa Akshay | Officer | Shares: 75000 | Value: $233,030.44 | Percent: 0.046338% | Link: https://www.sec.gov/Archives/edgar/data/1977206/000195917325006200/0001959173-25-006200.txt
+2025-09-25 20:19:17 | Ladwa Akshay | Officer | Shares: 75000 | Value: $233,030.44 | Percent: 0.046338% | Link: https://www.sec.gov/Archives/edgar/data/1828536/000195917325006200/0001959173-25-006200.txt
