@@ -5094,3 +5094,4 @@
 2025-09-25 18:15:11 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-25T14:06:03-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000184/0001325814-25-000184.txt
 2025-09-25 18:43:49 | 8-K - FOCUS UNIVERSAL INC. (0001590418) (Filer) | 2025-09-25T14:40:59-04:00 | https://www.sec.gov/Archives/edgar/data/1590418/000168316825007235/0001683168-25-007235.txt
 2025-09-25 18:43:51 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-09-25T14:22:53-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000028/0002035428-25-000028.txt
+2025-09-25 18:55:34 | 8-K - Concrete Leveling Systems Inc (0001414382) (Filer) | 2025-09-25T14:51:10-04:00 | https://www.sec.gov/Archives/edgar/data/1414382/000147793225007034/0001477932-25-007034.txt
