@@ -5207,3 +5207,5 @@
 2025-09-26 17:27:38 | 8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer) | 2025-09-26T13:20:53-04:00 | https://www.sec.gov/Archives/edgar/data/1559998/000149315225015653/0001493152-25-015653.txt
 2025-09-26 17:27:40 | 8-K - CADIZ INC (0000727273) (Filer) | 2025-09-26T13:17:18-04:00 | https://www.sec.gov/Archives/edgar/data/727273/000121390025092126/0001213900-25-092126.txt
 2025-09-26 17:27:41 | 8-K - WK Kellogg Co (0001959348) (Filer) | 2025-09-26T13:09:47-04:00 | https://www.sec.gov/Archives/edgar/data/1959348/000119312525219988/0001193125-25-219988.txt
+2025-09-26 17:49:33 | 8-K - Lord Abbett Private Credit Fund S (0002041841) (Filer) | 2025-09-26T13:47:40-04:00 | https://www.sec.gov/Archives/edgar/data/2041841/000093041325003072/0000930413-25-003072.txt
+2025-09-26 17:49:33 | 8-K - Lord Abbett Private Credit Fund (0002008748) (Filer) | 2025-09-26T13:40:41-04:00 | https://www.sec.gov/Archives/edgar/data/2008748/000093041325003070/0000930413-25-003070.txt
