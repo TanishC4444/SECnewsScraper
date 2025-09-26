@@ -4260,3 +4260,7 @@
 2025-09-26 14:24:12 | Koo Lon Tien | Officer | Shares: 42070 | Value: $243,164.6 | Percent: 7.471248% | Link: https://www.sec.gov/Archives/edgar/data/1969863/000203780325000003/0002037803-25-000003.txt
 2025-09-26 14:47:53 | BURKE JAMES A | Officer | Shares: 21376 | Value: $4,300,490.44 | Percent: 0.006309% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006203/0001959173-25-006203.txt
 2025-09-26 14:47:54 | BURKE JAMES A | Officer | Shares: 21376 | Value: $4,300,490.44 | Percent: 0.006309% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006203/0001959173-25-006203.txt
+2025-09-26 15:19:04 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,406,033.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325006206/0001959173-25-006206.txt
+2025-09-26 15:19:05 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,406,033.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006206/0001959173-25-006206.txt
+2025-09-26 15:19:07 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1618303/000195917325006205/0001959173-25-006205.txt
+2025-09-26 15:19:08 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006205/0001959173-25-006205.txt
