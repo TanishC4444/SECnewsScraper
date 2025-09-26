@@ -5229,3 +5229,9 @@
 2025-09-26 20:17:51 | 8-K - Scilex Holding Co (0001820190) (Filer) | 2025-09-26T16:10:51-04:00 | https://www.sec.gov/Archives/edgar/data/1820190/000119312525220481/0001193125-25-220481.txt
 2025-09-26 20:17:53 | 8-K - Grayscale Bitcoin Mini Trust ETF (0002015034) (Filer) | 2025-09-26T16:10:47-04:00 | https://www.sec.gov/Archives/edgar/data/2015034/000119312525220479/0001193125-25-220479.txt
 2025-09-26 20:17:54 | 8-K - I-ON Digital Corp. (0001580490) (Filer) | 2025-09-26T16:10:29-04:00 | https://www.sec.gov/Archives/edgar/data/1580490/000149315225015719/0001493152-25-015719.txt
+2025-09-26 20:33:44 | 8-K - LanzaTech Global, Inc. (0001843724) (Filer) | 2025-09-26T16:32:24-04:00 | https://www.sec.gov/Archives/edgar/data/1843724/000162828025042944/0001628280-25-042944.txt
+2025-09-26 20:33:46 | 8-K - SANUWAVE Health, Inc. (0001417663) (Filer) | 2025-09-26T16:31:32-04:00 | https://www.sec.gov/Archives/edgar/data/1417663/000162828025042942/0001628280-25-042942.txt
+2025-09-26 20:33:47 | 8-K - Sunstone Hotel Investors, Inc. (0001295810) (Filer) | 2025-09-26T16:31:24-04:00 | https://www.sec.gov/Archives/edgar/data/1295810/000110465925093887/0001104659-25-093887.txt
+2025-09-26 20:33:50 | 8-K - International Land Alliance Inc. (0001657214) (Filer) | 2025-09-26T16:30:54-04:00 | https://www.sec.gov/Archives/edgar/data/1657214/000149315225015740/0001493152-25-015740.txt
+2025-09-26 20:33:51 | 8-K - Nova Lifestyle, Inc. (0001473334) (Filer) | 2025-09-26T16:30:54-04:00 | https://www.sec.gov/Archives/edgar/data/1473334/000149315225015739/0001493152-25-015739.txt
+2025-09-26 20:33:53 | 8-K - McEwen Inc. (0000314203) (Filer) | 2025-09-26T16:30:44-04:00 | https://www.sec.gov/Archives/edgar/data/314203/000110465925093885/0001104659-25-093885.txt

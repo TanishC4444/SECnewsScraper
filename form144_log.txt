@@ -4276,3 +4276,11 @@
 2025-09-26 20:18:02 | Geisser Melinda L. | Officer | Shares: 20000 | Value: $273,845.86 | Percent: 0.012857% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325006210/0001959173-25-006210.txt
 2025-09-26 20:18:03 | Lesinski, Thomas F. | Officer | Shares: 42000 | Value: $199,500.0 | Percent: 0.044815% | Link: https://www.sec.gov/Archives/edgar/data/1629303/000119312525220492/0001193125-25-220492.txt
 2025-09-26 20:18:05 | Lesinski, Thomas F. | Officer | Shares: 42000 | Value: $199,500.0 | Percent: 0.044815% | Link: https://www.sec.gov/Archives/edgar/data/1377630/000119312525220492/0001193125-25-220492.txt
+2025-09-26 20:33:54 | Wayne DeVeydt | former director | Shares: 5627 | Value: $123,794.0 | Percent: 0.004389% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000800/0001969223-25-000800.txt
+2025-09-26 20:33:55 | Wayne DeVeydt | former director | Shares: 5627 | Value: $123,794.0 | Percent: 0.004389% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000800/0001969223-25-000800.txt
+2025-09-26 20:33:57 | DANIEL BARBER | Director | Shares: 91343 | Value: $480,464.18 | Percent: 0.091596% | Link: https://www.sec.gov/Archives/edgar/data/1742266/000195004725007535/0001950047-25-007535.txt
+2025-09-26 20:33:58 | DANIEL BARBER | Director | Shares: 91343 | Value: $480,464.18 | Percent: 0.091596% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000195004725007535/0001950047-25-007535.txt
+2025-09-26 20:33:59 | MICHAEL CLOONAN | Director | Shares: 25000 | Value: $687,500.0 | Percent: 0.056638% | Link: https://www.sec.gov/Archives/edgar/data/2036042/000195004725007533/0001950047-25-007533.txt
+2025-09-26 20:34:00 | MICHAEL CLOONAN | Director | Shares: 25000 | Value: $687,500.0 | Percent: 0.056638% | Link: https://www.sec.gov/Archives/edgar/data/1704336/000195004725007533/0001950047-25-007533.txt
+2025-09-26 20:34:01 | Keller Michael R | Director | Shares: 5738 | Value: $28,869.03 | Percent: 0.532261% | Link: https://www.sec.gov/Archives/edgar/data/1768576/000196530125000147/0001965301-25-000147.txt
+2025-09-26 20:34:02 | Keller Michael R | Director | Shares: 5738 | Value: $28,869.03 | Percent: 0.532261% | Link: https://www.sec.gov/Archives/edgar/data/1621672/000196530125000147/0001965301-25-000147.txt
