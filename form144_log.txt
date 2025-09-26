@@ -4284,3 +4284,7 @@
 2025-09-26 20:34:00 | MICHAEL CLOONAN | Director | Shares: 25000 | Value: $687,500.0 | Percent: 0.056638% | Link: https://www.sec.gov/Archives/edgar/data/1704336/000195004725007533/0001950047-25-007533.txt
 2025-09-26 20:34:01 | Keller Michael R | Director | Shares: 5738 | Value: $28,869.03 | Percent: 0.532261% | Link: https://www.sec.gov/Archives/edgar/data/1768576/000196530125000147/0001965301-25-000147.txt
 2025-09-26 20:34:02 | Keller Michael R | Director | Shares: 5738 | Value: $28,869.03 | Percent: 0.532261% | Link: https://www.sec.gov/Archives/edgar/data/1621672/000196530125000147/0001965301-25-000147.txt
+2025-09-26 20:43:55 | Southbeach Trust R6 | Stockholder | Shares: 25000 | Value: $556,250.0 | Percent: 1.182318% | Link: https://www.sec.gov/Archives/edgar/data/2006594/000162828025042949/0001628280-25-042949.txt
+2025-09-26 20:43:56 | Southbeach Trust R6 | Stockholder | Shares: 25000 | Value: $556,250.0 | Percent: 1.182318% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000162828025042949/0001628280-25-042949.txt
+2025-09-26 20:43:58 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,272,110.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001207/0001921094-25-001207.txt
+2025-09-26 20:43:59 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,272,110.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001207/0001921094-25-001207.txt
