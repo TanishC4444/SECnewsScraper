@@ -4266,3 +4266,5 @@
 2025-09-26 15:19:08 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006205/0001959173-25-006205.txt
 2025-09-26 16:15:57 | BEYER RICHARD M | Director | Shares: 12884 | Value: $2,083,471.64 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/1224905/000181217825000006/0001812178-25-000006.txt
 2025-09-26 16:15:58 | BEYER RICHARD M | Director | Shares: 12884 | Value: $2,083,471.64 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/723125/000181217825000006/0001812178-25-000006.txt
+2025-09-26 18:31:10 | Taylor Stephen Charles | Director | Shares: 7915 | Value: $225,591.0 | Percent: 0.063106% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000143/0001000275-25-000143.txt
+2025-09-26 18:31:11 | Taylor Stephen Charles | Director | Shares: 7915 | Value: $225,591.0 | Percent: 0.063106% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000143/0001000275-25-000143.txt
