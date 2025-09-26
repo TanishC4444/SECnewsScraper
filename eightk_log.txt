@@ -5192,3 +5192,5 @@
 2025-09-26 14:38:16 | 8-K - PGIM Private Credit Fund (0001923622) (Filer) | 2025-09-26T10:35:30-04:00 | https://www.sec.gov/Archives/edgar/data/1923622/000119312525219455/0001193125-25-219455.txt
 2025-09-26 14:38:17 | 8-K - GLOBAL TECH INDUSTRIES GROUP, INC. (0000356590) (Filer) | 2025-09-26T10:34:58-04:00 | https://www.sec.gov/Archives/edgar/data/356590/000149315225015229/0001493152-25-015229.txt
 2025-09-26 14:38:22 | 8-K - Tronox Holdings plc (0001530804) (Filer) | 2025-09-26T10:32:59-04:00 | https://www.sec.gov/Archives/edgar/data/1530804/000114036125036224/0001140361-25-036224.txt
+2025-09-26 14:47:50 | 8-K - Future FinTech Group Inc. (0001066923) (Filer) | 2025-09-26T10:45:29-04:00 | https://www.sec.gov/Archives/edgar/data/1066923/000121390025092001/0001213900-25-092001.txt
+2025-09-26 14:47:51 | 8-K - Affinity Bancshares, Inc. (0001823406) (Filer) | 2025-09-26T10:42:16-04:00 | https://www.sec.gov/Archives/edgar/data/1823406/000094337425000419/0000943374-25-000419.txt
