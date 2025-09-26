@@ -4264,3 +4264,5 @@
 2025-09-26 15:19:05 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,406,033.6 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006206/0001959173-25-006206.txt
 2025-09-26 15:19:07 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1618303/000195917325006205/0001959173-25-006205.txt
 2025-09-26 15:19:08 | O Connor Thomas L | Officer | Shares: 30000 | Value: $1,020,000.0 | Percent: 0.025929% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006205/0001959173-25-006205.txt
+2025-09-26 16:15:57 | BEYER RICHARD M | Director | Shares: 12884 | Value: $2,083,471.64 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/1224905/000181217825000006/0001812178-25-000006.txt
+2025-09-26 16:15:58 | BEYER RICHARD M | Director | Shares: 12884 | Value: $2,083,471.64 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/723125/000181217825000006/0001812178-25-000006.txt
