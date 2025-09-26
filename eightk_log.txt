@@ -5170,3 +5170,6 @@
 2025-09-26 11:21:25 | 8-K/A - NEXTNAV INC. (0001865631) (Filer) | 2025-09-26T07:01:07-04:00 | https://www.sec.gov/Archives/edgar/data/1865631/000155485525001803/0001554855-25-001803.txt
 2025-09-26 11:21:27 | 8-K - Cipher Mining Inc. (0001819989) (Filer) | 2025-09-26T07:00:35-04:00 | https://www.sec.gov/Archives/edgar/data/1819989/000119312525218502/0001193125-25-218502.txt
 2025-09-26 11:21:28 | 8-K - PepGen Inc. (0001835597) (Filer) | 2025-09-26T07:00:15-04:00 | https://www.sec.gov/Archives/edgar/data/1835597/000119312525218503/0001193125-25-218503.txt
+2025-09-26 11:40:45 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-26T07:30:51-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925093562/0001104659-25-093562.txt
+2025-09-26 11:40:47 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-26T07:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025091908/0001213900-25-091908.txt
+2025-09-26 11:40:48 | 8-K - Victory Capital Holdings, Inc. (0001570827) (Filer) | 2025-09-26T07:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1570827/000119312525218521/0001193125-25-218521.txt
