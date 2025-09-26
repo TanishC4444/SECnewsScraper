@@ -4254,3 +4254,5 @@
 2025-09-26 01:57:37 | Blue Ridge Enterprises LLC/Donald Steinberg | Director | Shares: 394000 | Value: $8,668.0 | Percent: 0.999093% | Link: https://www.sec.gov/Archives/edgar/data/1334741/000107997325001500/0001079973-25-001500.txt
 2025-09-26 01:57:39 | Luke Pelosi | EVP &amp; CFO | Shares: 50926 | Value: $2,366,022.0 | Percent: 0.014487% | Link: https://www.sec.gov/Archives/edgar/data/2008699/000119312525218215/0001193125-25-218215.txt
 2025-09-26 01:57:41 | Luke Pelosi | EVP &amp; CFO | Shares: 50926 | Value: $2,366,022.0 | Percent: 0.014487% | Link: https://www.sec.gov/Archives/edgar/data/1780232/000119312525218215/0001193125-25-218215.txt
+2025-09-26 13:21:21 | Kami Sama Limited | Affiliate | Shares: 400000 | Value: $10,308,000.0 | Percent: 0.096778% | Link: https://www.sec.gov/Archives/edgar/data/1765539/000095010325012263/0000950103-25-012263.txt
+2025-09-26 13:21:22 | Kami Sama Limited | Affiliate | Shares: 400000 | Value: $10,308,000.0 | Percent: 0.096778% | Link: https://www.sec.gov/Archives/edgar/data/1723690/000095010325012263/0000950103-25-012263.txt
