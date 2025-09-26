@@ -4290,3 +4290,5 @@
 2025-09-26 20:43:59 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,272,110.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001207/0001921094-25-001207.txt
 2025-09-26 22:30:41 | NAVEEN KRISHNA | Officer | Shares: 5304 | Value: $732,572.57 | Percent: 0.003813% | Link: https://www.sec.gov/Archives/edgar/data/1976429/000195004725007538/0001950047-25-007538.txt
 2025-09-26 22:30:42 | NAVEEN KRISHNA | Officer | Shares: 5304 | Value: $732,572.57 | Percent: 0.003813% | Link: https://www.sec.gov/Archives/edgar/data/40987/000195004725007538/0001950047-25-007538.txt
+2025-09-26 23:32:56 | Manko Steve | Officer | Shares: 60829 | Value: $1,058,493.95 | Percent: 0.126265% | Link: https://www.sec.gov/Archives/edgar/data/1856680/000197415825000062/0001974158-25-000062.txt
+2025-09-26 23:32:57 | Manko Steve | Officer | Shares: 60829 | Value: $1,058,493.95 | Percent: 0.126265% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000197415825000062/0001974158-25-000062.txt
