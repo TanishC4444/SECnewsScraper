@@ -5204,3 +5204,6 @@
 2025-09-26 16:52:24 | 8-K - HPS Corporate Capital Solutions Fund (0001989817) (Filer) | 2025-09-26T12:50:51-04:00 | https://www.sec.gov/Archives/edgar/data/1989817/000198981725000071/0001989817-25-000071.txt
 2025-09-26 16:52:29 | 8-K - Global Innovative Platforms Inc. (0001837774) (Filer) | 2025-09-26T12:46:04-04:00 | https://www.sec.gov/Archives/edgar/data/1837774/000173112225001304/0001731122-25-001304.txt
 2025-09-26 16:52:29 | 8-K - HPS Corporate Lending Fund (0001838126) (Filer) | 2025-09-26T12:41:39-04:00 | https://www.sec.gov/Archives/edgar/data/1838126/000183812625000060/0001838126-25-000060.txt
+2025-09-26 17:27:38 | 8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer) | 2025-09-26T13:20:53-04:00 | https://www.sec.gov/Archives/edgar/data/1559998/000149315225015653/0001493152-25-015653.txt
+2025-09-26 17:27:40 | 8-K - CADIZ INC (0000727273) (Filer) | 2025-09-26T13:17:18-04:00 | https://www.sec.gov/Archives/edgar/data/727273/000121390025092126/0001213900-25-092126.txt
+2025-09-26 17:27:41 | 8-K - WK Kellogg Co (0001959348) (Filer) | 2025-09-26T13:09:47-04:00 | https://www.sec.gov/Archives/edgar/data/1959348/000119312525219988/0001193125-25-219988.txt
