@@ -4256,3 +4256,5 @@
 2025-09-26 01:57:41 | Luke Pelosi | EVP &amp; CFO | Shares: 50926 | Value: $2,366,022.0 | Percent: 0.014487% | Link: https://www.sec.gov/Archives/edgar/data/1780232/000119312525218215/0001193125-25-218215.txt
 2025-09-26 13:21:21 | Kami Sama Limited | Affiliate | Shares: 400000 | Value: $10,308,000.0 | Percent: 0.096778% | Link: https://www.sec.gov/Archives/edgar/data/1765539/000095010325012263/0000950103-25-012263.txt
 2025-09-26 13:21:22 | Kami Sama Limited | Affiliate | Shares: 400000 | Value: $10,308,000.0 | Percent: 0.096778% | Link: https://www.sec.gov/Archives/edgar/data/1723690/000095010325012263/0000950103-25-012263.txt
+2025-09-26 14:24:10 | Koo Lon Tien | Officer | Shares: 42070 | Value: $243,164.6 | Percent: 7.471248% | Link: https://www.sec.gov/Archives/edgar/data/2037803/000203780325000003/0002037803-25-000003.txt
+2025-09-26 14:24:12 | Koo Lon Tien | Officer | Shares: 42070 | Value: $243,164.6 | Percent: 7.471248% | Link: https://www.sec.gov/Archives/edgar/data/1969863/000203780325000003/0002037803-25-000003.txt
