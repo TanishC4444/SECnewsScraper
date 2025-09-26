@@ -106,3 +106,6 @@
 2025-09-26 15:54:07 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/932782/000119312525219824/0001193125-25-219824.txt
 2025-09-26 16:41:19 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1506307/000150630725000059/0001506307-25-000059.txt
 2025-09-26 19:55:50 | SD | DRC Status: Unknown | Minerals: Tin, Gold | Link: https://www.sec.gov/Archives/edgar/data/1001838/000110465925093825/0001104659-25-093825.txt
+2025-09-26 20:18:07 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1691303/000169130325000046/0001691303-25-000046.txt
+2025-09-26 20:18:08 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/1698990/000169899025000025/0001698990-25-000025.txt
+2025-09-26 20:18:09 | SD | DRC Status: Unknown | Minerals: Tin | Link: https://www.sec.gov/Archives/edgar/data/874499/000121390025092313/0001213900-25-092313.txt

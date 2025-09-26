@@ -4268,3 +4268,11 @@
 2025-09-26 16:15:58 | BEYER RICHARD M | Director | Shares: 12884 | Value: $2,083,471.64 | Percent: 0.983511% | Link: https://www.sec.gov/Archives/edgar/data/723125/000181217825000006/0001812178-25-000006.txt
 2025-09-26 18:31:10 | Taylor Stephen Charles | Director | Shares: 7915 | Value: $225,591.0 | Percent: 0.063106% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000143/0001000275-25-000143.txt
 2025-09-26 18:31:11 | Taylor Stephen Charles | Director | Shares: 7915 | Value: $225,591.0 | Percent: 0.063106% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000143/0001000275-25-000143.txt
+2025-09-26 20:17:56 | LANDY SAMUEL A | Officer | Shares: 22100 | Value: $323,956.8 | Percent: 0.026022% | Link: https://www.sec.gov/Archives/edgar/data/1232891/000123289125000003/0001232891-25-000003.txt
+2025-09-26 20:17:57 | LANDY SAMUEL A | Officer | Shares: 22100 | Value: $323,956.8 | Percent: 0.026022% | Link: https://www.sec.gov/Archives/edgar/data/752642/000123289125000003/0001232891-25-000003.txt
+2025-09-26 20:17:58 | Ng, Ronnie Y. | Officer | Shares: 22000 | Value: $104,500.0 | Percent: 0.023475% | Link: https://www.sec.gov/Archives/edgar/data/1882162/000119312525220496/0001193125-25-220496.txt
+2025-09-26 20:17:59 | Ng, Ronnie Y. | Officer | Shares: 22000 | Value: $104,500.0 | Percent: 0.023475% | Link: https://www.sec.gov/Archives/edgar/data/1377630/000119312525220496/0001193125-25-220496.txt
+2025-09-26 20:18:01 | Geisser Melinda L. | Officer | Shares: 20000 | Value: $273,845.86 | Percent: 0.012857% | Link: https://www.sec.gov/Archives/edgar/data/1977269/000195917325006210/0001959173-25-006210.txt
+2025-09-26 20:18:02 | Geisser Melinda L. | Officer | Shares: 20000 | Value: $273,845.86 | Percent: 0.012857% | Link: https://www.sec.gov/Archives/edgar/data/1883313/000195917325006210/0001959173-25-006210.txt
+2025-09-26 20:18:03 | Lesinski, Thomas F. | Officer | Shares: 42000 | Value: $199,500.0 | Percent: 0.044815% | Link: https://www.sec.gov/Archives/edgar/data/1629303/000119312525220492/0001193125-25-220492.txt
+2025-09-26 20:18:05 | Lesinski, Thomas F. | Officer | Shares: 42000 | Value: $199,500.0 | Percent: 0.044815% | Link: https://www.sec.gov/Archives/edgar/data/1377630/000119312525220492/0001193125-25-220492.txt
