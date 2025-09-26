@@ -4250,3 +4250,7 @@
 2025-09-25 23:23:26 | MARK REUSS | Officer | Shares: 136161 | Value: $8,185,175.76 | Percent: 0.014301% | Link: https://www.sec.gov/Archives/edgar/data/1467858/000195004725007520/0001950047-25-007520.txt
 2025-09-25 23:23:28 | Eric Lefkofsky | Officer | Shares: 332500 | Value: $27,973,225.0 | Percent: 0.197114% | Link: https://www.sec.gov/Archives/edgar/data/1717115/000196858225000960/0001968582-25-000960.txt
 2025-09-25 23:23:29 | Eric Lefkofsky | Officer | Shares: 332500 | Value: $27,973,225.0 | Percent: 0.197114% | Link: https://www.sec.gov/Archives/edgar/data/1114357/000196858225000960/0001968582-25-000960.txt
+2025-09-26 01:57:36 | Blue Ridge Enterprises LLC/Donald Steinberg | Director | Shares: 394000 | Value: $8,668.0 | Percent: 0.999093% | Link: https://www.sec.gov/Archives/edgar/data/1443001/000107997325001500/0001079973-25-001500.txt
+2025-09-26 01:57:37 | Blue Ridge Enterprises LLC/Donald Steinberg | Director | Shares: 394000 | Value: $8,668.0 | Percent: 0.999093% | Link: https://www.sec.gov/Archives/edgar/data/1334741/000107997325001500/0001079973-25-001500.txt
+2025-09-26 01:57:39 | Luke Pelosi | EVP &amp; CFO | Shares: 50926 | Value: $2,366,022.0 | Percent: 0.014487% | Link: https://www.sec.gov/Archives/edgar/data/2008699/000119312525218215/0001193125-25-218215.txt
+2025-09-26 01:57:41 | Luke Pelosi | EVP &amp; CFO | Shares: 50926 | Value: $2,366,022.0 | Percent: 0.014487% | Link: https://www.sec.gov/Archives/edgar/data/1780232/000119312525218215/0001193125-25-218215.txt
