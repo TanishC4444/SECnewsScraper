@@ -5173,3 +5173,13 @@
 2025-09-26 11:40:45 | 8-K - Semler Scientific, Inc. (0001554859) (Filer) | 2025-09-26T07:30:51-04:00 | https://www.sec.gov/Archives/edgar/data/1554859/000110465925093562/0001104659-25-093562.txt
 2025-09-26 11:40:47 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-09-26T07:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000121390025091908/0001213900-25-091908.txt
 2025-09-26 11:40:48 | 8-K - Victory Capital Holdings, Inc. (0001570827) (Filer) | 2025-09-26T07:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1570827/000119312525218521/0001193125-25-218521.txt
+2025-09-26 12:52:56 | 8-K - Onconetix, Inc. (0001782107) (Filer) | 2025-09-26T08:45:57-04:00 | https://www.sec.gov/Archives/edgar/data/1782107/000121390025091966/0001213900-25-091966.txt
+2025-09-26 12:52:58 | 8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer) | 2025-09-26T08:45:53-04:00 | https://www.sec.gov/Archives/edgar/data/1725430/000149315225015068/0001493152-25-015068.txt
+2025-09-26 12:52:59 | 8-K - Winning Catering Group, Inc. (0001503658) (Filer) | 2025-09-26T08:43:37-04:00 | https://www.sec.gov/Archives/edgar/data/1503658/000149315225015066/0001493152-25-015066.txt
+2025-09-26 12:53:01 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-09-26T08:30:44-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000149315225015064/0001493152-25-015064.txt
+2025-09-26 12:53:03 | 8-K - SS Innovations International, Inc. (0001676163) (Filer) | 2025-09-26T08:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1676163/000121390025091939/0001213900-25-091939.txt
+2025-09-26 12:53:05 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-09-26T08:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825007245/0001683168-25-007245.txt
+2025-09-26 12:53:06 | 8-K - Invesco DB Commodity Index Tracking Fund (0001328237) (Filer) | 2025-09-26T08:08:53-04:00 | https://www.sec.gov/Archives/edgar/data/1328237/000119312525218603/0001193125-25-218603.txt
+2025-09-26 12:53:07 | 8-K - INVESCO DB BASE METALS FUND (0001383084) (Filer) | 2025-09-26T08:07:45-04:00 | https://www.sec.gov/Archives/edgar/data/1383084/000119312525218586/0001193125-25-218586.txt
+2025-09-26 12:53:08 | 8-K - Invesco DB Multi-Sector Commodity Trust (0001367306) (Filer) | 2025-09-26T08:07:45-04:00 | https://www.sec.gov/Archives/edgar/data/1367306/000119312525218586/0001193125-25-218586.txt
+2025-09-26 12:53:09 | 8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer) | 2025-09-26T08:06:55-04:00 | https://www.sec.gov/Archives/edgar/data/2050260/000205026025000084/0002050260-25-000084.txt
