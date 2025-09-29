@@ -5400,3 +5400,13 @@
 2025-09-29 21:12:21 | 8-K - Momentus Inc. (0001781162) (Filer) | 2025-09-29T17:06:16-04:00 | https://www.sec.gov/Archives/edgar/data/1781162/000114036125036535/0001140361-25-036535.txt
 2025-09-29 21:12:21 | 8-K - LAGO Evergreen Credit (0002043759) (Filer) | 2025-09-29T17:05:39-04:00 | https://www.sec.gov/Archives/edgar/data/2043759/000119312525223412/0001193125-25-223412.txt
 2025-09-29 21:12:24 | 8-K - Lexaria Bioscience Corp. (0001348362) (Filer) | 2025-09-29T17:05:29-04:00 | https://www.sec.gov/Archives/edgar/data/1348362/000164033425001742/0001640334-25-001742.txt
+2025-09-29 21:27:50 | 8-K - Kite Realty Group, L.P. (0001636315) (Filer) | 2025-09-29T17:27:20-04:00 | https://www.sec.gov/Archives/edgar/data/1636315/000128604325000095/0001286043-25-000095.txt
+2025-09-29 21:27:53 | 8-K - KITE REALTY GROUP TRUST (0001286043) (Filer) | 2025-09-29T17:27:20-04:00 | https://www.sec.gov/Archives/edgar/data/1286043/000128604325000095/0001286043-25-000095.txt
+2025-09-29 21:27:55 | 8-K - ROCKET PHARMACEUTICALS, INC. (0001281895) (Filer) | 2025-09-29T17:19:41-04:00 | https://www.sec.gov/Archives/edgar/data/1281895/000114036125036556/0001140361-25-036556.txt
+2025-09-29 21:27:57 | 8-K - NewtekOne, Inc. (0001587987) (Filer) | 2025-09-29T17:19:25-04:00 | https://www.sec.gov/Archives/edgar/data/1587987/000162828025043139/0001628280-25-043139.txt
+2025-09-29 21:27:58 | 8-K - American Exceptionalism Acquisition Corp. A (0002079173) (Filer) | 2025-09-29T17:19:10-04:00 | https://www.sec.gov/Archives/edgar/data/2079173/000119312525223444/0001193125-25-223444.txt
+2025-09-29 21:28:00 | 8-K - Sharps Technology Inc. (0001737995) (Filer) | 2025-09-29T17:19:03-04:00 | https://www.sec.gov/Archives/edgar/data/1737995/000149315225016057/0001493152-25-016057.txt
+2025-09-29 21:28:02 | 8-K - Flora Growth Corp. (0001790169) (Filer) | 2025-09-29T17:18:40-04:00 | https://www.sec.gov/Archives/edgar/data/1790169/000106299325015845/0001062993-25-015845.txt
+2025-09-29 21:28:04 | 8-K - Metsera, Inc. (0002040807) (Filer) | 2025-09-29T17:16:53-04:00 | https://www.sec.gov/Archives/edgar/data/2040807/000119312525223440/0001193125-25-223440.txt
+2025-09-29 21:28:06 | 8-K - Beneficient (0001775734) (Filer) | 2025-09-29T17:16:12-04:00 | https://www.sec.gov/Archives/edgar/data/1775734/000177573425000020/0001775734-25-000020.txt
+2025-09-29 21:28:09 | 8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer) | 2025-09-29T17:15:35-04:00 | https://www.sec.gov/Archives/edgar/data/1832332/000119312525223435/0001193125-25-223435.txt
