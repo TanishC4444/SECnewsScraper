@@ -5366,3 +5366,13 @@
 2025-09-29 20:23:23 | 8-K - Jefferies Financial Group Inc. (0000096223) (Filer) | 2025-09-29T16:17:43-04:00 | https://www.sec.gov/Archives/edgar/data/96223/000009622325000010/0000096223-25-000010.txt
 2025-09-29 20:23:25 | 8-K - Inspirato Inc (0001820566) (Filer) | 2025-09-29T16:17:42-04:00 | https://www.sec.gov/Archives/edgar/data/1820566/000182056625000188/0001820566-25-000188.txt
 2025-09-29 20:23:32 | 8-K - Atkore Inc. (0001666138) (Filer) | 2025-09-29T16:17:06-04:00 | https://www.sec.gov/Archives/edgar/data/1666138/000166613825000189/0001666138-25-000189.txt
+2025-09-29 20:35:57 | 8-K - AMERICAN EXPRESS CO (0000004962) (Filer) | 2025-09-29T16:34:41-04:00 | https://www.sec.gov/Archives/edgar/data/4962/000000496225000177/0000004962-25-000177.txt
+2025-09-29 20:35:59 | 8-K - OPAL Fuels Inc. (0001842279) (Filer) | 2025-09-29T16:34:17-04:00 | https://www.sec.gov/Archives/edgar/data/1842279/000162828025043107/0001628280-25-043107.txt
+2025-09-29 20:36:02 | 8-K - ROCKWELL MEDICAL, INC. (0001041024) (Filer) | 2025-09-29T16:32:29-04:00 | https://www.sec.gov/Archives/edgar/data/1041024/000110465925094524/0001104659-25-094524.txt
+2025-09-29 20:36:04 | 8-K - Septerna, Inc. (0001984086) (Filer) | 2025-09-29T16:31:50-04:00 | https://www.sec.gov/Archives/edgar/data/1984086/000119312525223292/0001193125-25-223292.txt
+2025-09-29 20:36:06 | 8-K - Annovis Bio, Inc. (0001477845) (Filer) | 2025-09-29T16:31:24-04:00 | https://www.sec.gov/Archives/edgar/data/1477845/000110465925094522/0001104659-25-094522.txt
+2025-09-29 20:36:09 | 8-K - Eaton Corp plc (0001551182) (Filer) | 2025-09-29T16:31:18-04:00 | https://www.sec.gov/Archives/edgar/data/1551182/000114036125036514/0001140361-25-036514.txt
+2025-09-29 20:36:09 | 8-K - NEWMONT Corp /DE/ (0001164727) (Filer) | 2025-09-29T16:31:08-04:00 | https://www.sec.gov/Archives/edgar/data/1164727/000110465925094520/0001104659-25-094520.txt
+2025-09-29 20:36:11 | 8-K - reAlpha Tech Corp. (0001859199) (Filer) | 2025-09-29T16:31:01-04:00 | https://www.sec.gov/Archives/edgar/data/1859199/000200858925000095/0002008589-25-000095.txt
+2025-09-29 20:36:14 | 8-K - Sonoma Pharmaceuticals, Inc. (0001367083) (Filer) | 2025-09-29T16:30:54-04:00 | https://www.sec.gov/Archives/edgar/data/1367083/000168316825007307/0001683168-25-007307.txt
+2025-09-29 20:36:15 | 8-K - Blackstone Infrastructure Strategies L.P. (0002030772) (Filer) | 2025-09-29T16:30:51-04:00 | https://www.sec.gov/Archives/edgar/data/2030772/000119312525223285/0001193125-25-223285.txt
