@@ -4312,3 +4312,5 @@
 2025-09-29 19:21:00 | Leimkuhler William F. | Director | Shares: 11802 | Value: $3,228,909.0 | Percent: 0.085450% | Link: https://www.sec.gov/Archives/edgar/data/100591/000195917325006222/0001959173-25-006222.txt
 2025-09-29 19:49:59 | Kurtis Joseph Binder | Officer | Shares: 81440 | Value: $1,387,736.6 | Percent: 0.078030% | Link: https://www.sec.gov/Archives/edgar/data/1736946/000165473725000006/0001654737-25-000006.txt
 2025-09-29 19:50:00 | Kurtis Joseph Binder | Officer | Shares: 81440 | Value: $1,387,736.6 | Percent: 0.078030% | Link: https://www.sec.gov/Archives/edgar/data/1654737/000165473725000006/0001654737-25-000006.txt
+2025-09-29 20:23:35 | Techwolf Ltd | Officer | Shares: 94000 | Value: $2,201,480.0 | Percent: 0.009853% | Link: https://www.sec.gov/Archives/edgar/data/1982580/000196922325000802/0001969223-25-000802.txt
+2025-09-29 20:23:36 | Techwolf Ltd | Officer | Shares: 94000 | Value: $2,201,480.0 | Percent: 0.009853% | Link: https://www.sec.gov/Archives/edgar/data/1842827/000196922325000802/0001969223-25-000802.txt
