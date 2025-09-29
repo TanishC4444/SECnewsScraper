@@ -4306,3 +4306,5 @@
 2025-09-29 15:46:19 | LAMBRECHT COREY ALLEN | Officer | Shares: 175000 | Value: $231,000.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1214736/000121473625000006/0001214736-25-000006.txt
 2025-09-29 16:18:14 | Fendley Steven S. | Officer | Shares: 7000 | Value: $622,150.33 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1695434/000195917325006218/0001959173-25-006218.txt
 2025-09-29 16:18:15 | Fendley Steven S. | Officer | Shares: 7000 | Value: $622,150.33 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1069258/000195917325006218/0001959173-25-006218.txt
+2025-09-29 19:00:07 | Preusse Mary Hogan | Director | Shares: 23100 | Value: $500,142.95 | Percent: 0.003411% | Link: https://www.sec.gov/Archives/edgar/data/1697749/000169774925000004/0001697749-25-000004.txt
+2025-09-29 19:00:08 | Preusse Mary Hogan | Director | Shares: 23100 | Value: $500,142.95 | Percent: 0.003411% | Link: https://www.sec.gov/Archives/edgar/data/879101/000169774925000004/0001697749-25-000004.txt
