@@ -5386,3 +5386,7 @@
 2025-09-29 20:45:35 | 8-K - Worthington Steel, Inc. (0001968487) (Filer) | 2025-09-29T16:40:08-04:00 | https://www.sec.gov/Archives/edgar/data/1968487/000119312525223315/0001193125-25-223315.txt
 2025-09-29 20:45:35 | 8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer) | 2025-09-29T16:39:38-04:00 | https://www.sec.gov/Archives/edgar/data/1948056/000194805625000059/0001948056-25-000059.txt
 2025-09-29 20:45:37 | 8-K - FirstEnergy Transmission, LLC (0002038118) (Filer) | 2025-09-29T16:38:36-04:00 | https://www.sec.gov/Archives/edgar/data/2038118/000203811825000031/0002038118-25-000031.txt
+2025-09-29 20:54:28 | 8-K - Public Storage (0001393311) (Filer) | 2025-09-29T16:50:06-04:00 | https://www.sec.gov/Archives/edgar/data/1393311/000119312525223356/0001193125-25-223356.txt
+2025-09-29 20:54:31 | 8-K - Crypto Co (0001688126) (Filer) | 2025-09-29T16:46:52-04:00 | https://www.sec.gov/Archives/edgar/data/1688126/000149315225016022/0001493152-25-016022.txt
+2025-09-29 20:54:32 | 8-K - McEwen Inc. (0000314203) (Filer) | 2025-09-29T16:45:41-04:00 | https://www.sec.gov/Archives/edgar/data/314203/000110465925094542/0001104659-25-094542.txt
+2025-09-29 20:54:34 | 8-K - Sensata Technologies Holding plc (0001477294) (Filer) | 2025-09-29T16:45:38-04:00 | https://www.sec.gov/Archives/edgar/data/1477294/000147729425000126/0001477294-25-000126.txt

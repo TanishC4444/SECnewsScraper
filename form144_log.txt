@@ -4328,3 +4328,11 @@
 2025-09-29 20:45:46 | Atlas Venture Opportunity Fund II,  L.P. | Shareholder | Shares: 11468 | Value: $331,883.92 | Percent: 0.025981% | Link: https://www.sec.gov/Archives/edgar/data/1885327/000162828025043111/0001628280-25-043111.txt
 2025-09-29 20:45:49 | Wayne DeVeydt | former director | Shares: 18134 | Value: $399,822.0 | Percent: 0.014144% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000803/0001969223-25-000803.txt
 2025-09-29 20:45:50 | Wayne DeVeydt | former director | Shares: 18134 | Value: $399,822.0 | Percent: 0.014144% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000803/0001969223-25-000803.txt
+2025-09-29 20:54:35 | Xinyan Hao | Officer | Shares: 300000 | Value: $8,898,000.0 | Percent: 1.013879% | Link: https://www.sec.gov/Archives/edgar/data/2004292/000196858225000965/0001968582-25-000965.txt
+2025-09-29 20:54:37 | Xinyan Hao | Officer | Shares: 300000 | Value: $8,898,000.0 | Percent: 1.013879% | Link: https://www.sec.gov/Archives/edgar/data/1857816/000196858225000965/0001968582-25-000965.txt
+2025-09-29 20:54:39 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,675,417.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001212/0001921094-25-001212.txt
+2025-09-29 20:54:40 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,675,417.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001212/0001921094-25-001212.txt
+2025-09-29 20:54:42 | Muhsin Bilal | Former Affiliate | Shares: 25061 | Value: $3,553,637.0 | Percent: 0.046132% | Link: https://www.sec.gov/Archives/edgar/data/1734507/000192109425001211/0001921094-25-001211.txt
+2025-09-29 20:54:43 | Muhsin Bilal | Former Affiliate | Shares: 25061 | Value: $3,553,637.0 | Percent: 0.046132% | Link: https://www.sec.gov/Archives/edgar/data/937556/000192109425001211/0001921094-25-001211.txt
+2025-09-29 20:54:46 | 1 | Director | Shares: 5506 | Value: $64,809.0 | Percent: 0.006054% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025043121/0001628280-25-043121.txt
+2025-09-29 20:54:47 | 1 | Director | Shares: 5506 | Value: $64,809.0 | Percent: 0.006054% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025043121/0001628280-25-043121.txt
