@@ -4340,3 +4340,11 @@
 2025-09-29 21:12:27 | Seshadri Vishwas | Officer | Shares: 44274 | Value: $238,792.0 | Percent: 0.086546% | Link: https://www.sec.gov/Archives/edgar/data/318306/000197248125000220/0001972481-25-000220.txt
 2025-09-29 21:28:11 | Tessari Eben | Officer | Shares: 42000 | Value: $1,609,716.0 | Percent: 0.096612% | Link: https://www.sec.gov/Archives/edgar/data/1867899/000192109425001213/0001921094-25-001213.txt
 2025-09-29 21:28:12 | Tessari Eben | Officer | Shares: 42000 | Value: $1,609,716.0 | Percent: 0.096612% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001213/0001921094-25-001213.txt
+2025-09-29 23:59:39 | LEONI MOLLIE | Officer | Shares: 12314 | Value: $111,441.7 | Percent: 0.014151% | Link: https://www.sec.gov/Archives/edgar/data/2051106/000119312525223694/0001193125-25-223694.txt
+2025-09-29 23:59:40 | POWL BRIAN T | Officer | Shares: 8891 | Value: $80,463.55 | Percent: 0.010218% | Link: https://www.sec.gov/Archives/edgar/data/1934232/000119312525223697/0001193125-25-223697.txt
+2025-09-29 23:59:41 | BAIR TERESA BROPHY | Officer | Shares: 8805 | Value: $79,685.25 | Percent: 0.010119% | Link: https://www.sec.gov/Archives/edgar/data/1813058/000119312525223696/0001193125-25-223696.txt
+2025-09-29 23:59:41 | WILSON TROY EDWARD | Officer | Shares: 36615 | Value: $331,365.75 | Percent: 0.042079% | Link: https://www.sec.gov/Archives/edgar/data/1589597/000119312525223695/0001193125-25-223695.txt
+2025-09-29 23:59:42 | POWL BRIAN T | Officer | Shares: 8891 | Value: $80,463.55 | Percent: 0.010218% | Link: https://www.sec.gov/Archives/edgar/data/1422143/000119312525223697/0001193125-25-223697.txt
+2025-09-29 23:59:43 | BAIR TERESA BROPHY | Officer | Shares: 8805 | Value: $79,685.25 | Percent: 0.010119% | Link: https://www.sec.gov/Archives/edgar/data/1422143/000119312525223696/0001193125-25-223696.txt
+2025-09-29 23:59:44 | WILSON TROY EDWARD | Officer | Shares: 36615 | Value: $331,365.75 | Percent: 0.042079% | Link: https://www.sec.gov/Archives/edgar/data/1422143/000119312525223695/0001193125-25-223695.txt
+2025-09-29 23:59:45 | LEONI MOLLIE | Officer | Shares: 12314 | Value: $111,441.7 | Percent: 0.014151% | Link: https://www.sec.gov/Archives/edgar/data/1422143/000119312525223694/0001193125-25-223694.txt
