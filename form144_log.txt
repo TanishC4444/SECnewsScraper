@@ -4302,3 +4302,5 @@
 2025-09-29 15:19:06 | Wenger Howard | Officer | Shares: 5217 | Value: $391,275.0 | Percent: 0.003526% | Link: https://www.sec.gov/Archives/edgar/data/1387222/000195917325006216/0001959173-25-006216.txt
 2025-09-29 15:35:53 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $231,000.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1719045/000171904525000006/0001719045-25-000006.txt
 2025-09-29 15:35:53 | Ross Charles Andrew JR | Officer | Shares: 175000 | Value: $231,000.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000171904525000006/0001719045-25-000006.txt
+2025-09-29 15:46:18 | LAMBRECHT COREY ALLEN | Officer | Shares: 175000 | Value: $231,000.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1648087/000121473625000006/0001214736-25-000006.txt
+2025-09-29 15:46:19 | LAMBRECHT COREY ALLEN | Officer | Shares: 175000 | Value: $231,000.0 | Percent: 1.710865% | Link: https://www.sec.gov/Archives/edgar/data/1214736/000121473625000006/0001214736-25-000006.txt
