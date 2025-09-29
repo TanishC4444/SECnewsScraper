@@ -4292,3 +4292,5 @@
 2025-09-26 22:30:42 | NAVEEN KRISHNA | Officer | Shares: 5304 | Value: $732,572.57 | Percent: 0.003813% | Link: https://www.sec.gov/Archives/edgar/data/40987/000195004725007538/0001950047-25-007538.txt
 2025-09-26 23:32:56 | Manko Steve | Officer | Shares: 60829 | Value: $1,058,493.95 | Percent: 0.126265% | Link: https://www.sec.gov/Archives/edgar/data/1856680/000197415825000062/0001974158-25-000062.txt
 2025-09-26 23:32:57 | Manko Steve | Officer | Shares: 60829 | Value: $1,058,493.95 | Percent: 0.126265% | Link: https://www.sec.gov/Archives/edgar/data/1819974/000197415825000062/0001974158-25-000062.txt
+2025-09-29 14:35:17 | BURKE JAMES A | Officer | Shares: 21378 | Value: $4,316,995.03 | Percent: 0.006310% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006214/0001959173-25-006214.txt
+2025-09-29 14:35:18 | BURKE JAMES A | Officer | Shares: 21378 | Value: $4,316,995.03 | Percent: 0.006310% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006214/0001959173-25-006214.txt
