@@ -5335,3 +5335,5 @@
 2025-09-29 15:19:01 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-09-29T11:08:52-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225007115/0001477932-25-007115.txt
 2025-09-29 15:19:01 | 8-K - AB Private Credit Investors Corp (0001634452) (Filer) | 2025-09-29T11:01:48-04:00 | https://www.sec.gov/Archives/edgar/data/1634452/000119312525222049/0001193125-25-222049.txt
 2025-09-29 15:19:03 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-09-29T11:00:03-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125036430/0001140361-25-036430.txt
+2025-09-29 15:35:49 | 8-K - YORK WATER CO (0000108985) (Filer) | 2025-09-29T11:23:59-04:00 | https://www.sec.gov/Archives/edgar/data/108985/000010898525000077/0000108985-25-000077.txt
+2025-09-29 15:35:51 | 8-K - Constellation Energy Corp (0001868275) (Filer) | 2025-09-29T11:23:51-04:00 | https://www.sec.gov/Archives/edgar/data/1868275/000186827525000078/0001868275-25-000078.txt
