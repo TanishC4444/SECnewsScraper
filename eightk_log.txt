@@ -5346,3 +5346,10 @@
 2025-09-29 17:29:58 | 8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer) | 2025-09-29T13:26:26-04:00 | https://www.sec.gov/Archives/edgar/data/1959961/000119312525222726/0001193125-25-222726.txt
 2025-09-29 17:29:59 | 8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer) | 2025-09-29T13:24:17-04:00 | https://www.sec.gov/Archives/edgar/data/1528985/000119312525222719/0001193125-25-222719.txt
 2025-09-29 17:30:00 | 8-K - OZ VISION INC. (0001751707) (Filer) | 2025-09-29T13:21:05-04:00 | https://www.sec.gov/Archives/edgar/data/1751707/000149315225015943/0001493152-25-015943.txt
+2025-09-29 18:34:44 | 8-K - TRANSUITE.ORG INC. (0001758699) (Filer) | 2025-09-29T14:33:14-04:00 | https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734.txt
+2025-09-29 18:34:46 | 8-K - Elite Health Systems Inc. (0001089815) (Filer) | 2025-09-29T14:28:36-04:00 | https://www.sec.gov/Archives/edgar/data/1089815/000143774925029995/0001437749-25-029995.txt
+2025-09-29 18:34:46 | 8-K - Stone Point Credit Corp (0001825384) (Filer) | 2025-09-29T14:24:30-04:00 | https://www.sec.gov/Archives/edgar/data/1825384/000110465925094386/0001104659-25-094386.txt
+2025-09-29 18:34:48 | 8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer) | 2025-09-29T14:16:24-04:00 | https://www.sec.gov/Archives/edgar/data/1648087/000149315225015960/0001493152-25-015960.txt
+2025-09-29 18:34:49 | 8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer) | 2025-09-29T14:15:53-04:00 | https://www.sec.gov/Archives/edgar/data/1868516/000110465925094382/0001104659-25-094382.txt
+2025-09-29 18:34:49 | 8-K - Kennedy Lewis Capital Co (0001911321) (Filer) | 2025-09-29T14:14:04-04:00 | https://www.sec.gov/Archives/edgar/data/1911321/000191132125000006/0001911321-25-000006.txt
+2025-09-29 18:34:51 | 8-K - GEORGIA POWER CO (0000041091) (Filer) | 2025-09-29T14:01:52-04:00 | https://www.sec.gov/Archives/edgar/data/41091/000004109125000044/0000041091-25-000044.txt
