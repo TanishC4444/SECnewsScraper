@@ -5343,3 +5343,6 @@
 2025-09-29 15:46:16 | 8-K - FORD CREDIT AUTO RECEIVABLES TWO LLC (0001129987) (Filer) | 2025-09-29T11:42:08-04:00 | https://www.sec.gov/Archives/edgar/data/1129987/000110465925094276/0001104659-25-094276.txt
 2025-09-29 15:56:08 | 8-K - Audax Credit BDC Inc. (0001633858) (Filer) | 2025-09-29T11:52:15-04:00 | https://www.sec.gov/Archives/edgar/data/1633858/000119312525222174/0001193125-25-222174.txt
 2025-09-29 15:56:10 | 8-K - Chatham Lodging Trust (0001476045) (Filer) | 2025-09-29T11:51:10-04:00 | https://www.sec.gov/Archives/edgar/data/1476045/000143774925029977/0001437749-25-029977.txt
+2025-09-29 17:29:58 | 8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer) | 2025-09-29T13:26:26-04:00 | https://www.sec.gov/Archives/edgar/data/1959961/000119312525222726/0001193125-25-222726.txt
+2025-09-29 17:29:59 | 8-K - Inland Real Estate Income Trust, Inc. (0001528985) (Filer) | 2025-09-29T13:24:17-04:00 | https://www.sec.gov/Archives/edgar/data/1528985/000119312525222719/0001193125-25-222719.txt
+2025-09-29 17:30:00 | 8-K - OZ VISION INC. (0001751707) (Filer) | 2025-09-29T13:21:05-04:00 | https://www.sec.gov/Archives/edgar/data/1751707/000149315225015943/0001493152-25-015943.txt
