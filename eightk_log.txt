@@ -5277,3 +5277,12 @@
 2025-09-26 21:35:59 | 8-K - 5C Lending Partners Corp. (0001998387) (Filer) | 2025-09-26T17:26:12-04:00 | https://www.sec.gov/Archives/edgar/data/1998387/000093041325003083/0000930413-25-003083.txt
 2025-09-26 21:36:00 | 8-K - Laser Photonics Corp (0001807887) (Filer) | 2025-09-26T17:25:45-04:00 | https://www.sec.gov/Archives/edgar/data/1807887/000149315225015807/0001493152-25-015807.txt
 2025-09-26 21:36:02 | 8-K - Estrella Immunopharma, Inc. (0001844417) (Filer) | 2025-09-26T17:25:27-04:00 | https://www.sec.gov/Archives/edgar/data/1844417/000121390025092471/0001213900-25-092471.txt
+2025-09-29 10:28:51 | 8-K - COMSCORE, INC. (0001158172) (Filer) | 2025-09-29T06:18:15-04:00 | https://www.sec.gov/Archives/edgar/data/1158172/000119312525221284/0001193125-25-221284.txt
+2025-09-29 10:28:53 | 8-K - Trailblazer Merger Corp I (0001934945) (Filer) | 2025-09-29T06:15:33-04:00 | https://www.sec.gov/Archives/edgar/data/1934945/000121390025092585/0001213900-25-092585.txt
+2025-09-29 10:28:54 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-09-29T06:14:37-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015821/0001062993-25-015821.txt
+2025-09-29 10:28:55 | 8-K - PMGC Holdings Inc. (0001840563) (Filer) | 2025-09-29T06:10:51-04:00 | https://www.sec.gov/Archives/edgar/data/1840563/000121390025092582/0001213900-25-092582.txt
+2025-09-29 10:28:57 | 8-K - Better Home & Finance Holding Co (0001835856) (Filer) | 2025-09-29T06:10:26-04:00 | https://www.sec.gov/Archives/edgar/data/1835856/000162828025042995/0001628280-25-042995.txt
+2025-09-29 10:28:59 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-09-29T06:07:58-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000526/0001564708-25-000526.txt
+2025-09-29 10:29:00 | 8-K - Ingredion Inc (0001046257) (Filer) | 2025-09-29T06:05:34-04:00 | https://www.sec.gov/Archives/edgar/data/1046257/000162828025042993/0001628280-25-042993.txt
+2025-09-29 10:29:01 | 8-K - Qualigen Therapeutics, Inc. (0001460702) (Filer) | 2025-09-29T06:04:19-04:00 | https://www.sec.gov/Archives/edgar/data/1460702/000149315225015846/0001493152-25-015846.txt
+2025-09-29 10:29:03 | 8-K - ESCALADE INC (0000033488) (Filer) | 2025-09-29T06:02:08-04:00 | https://www.sec.gov/Archives/edgar/data/33488/000143774925029955/0001437749-25-029955.txt
