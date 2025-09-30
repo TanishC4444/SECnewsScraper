@@ -4404,3 +4404,5 @@
 2025-09-30 20:44:37 | JACK A. KHATTAR | Director | Shares: 8588 | Value: $408,788.8 | Percent: 0.015316% | Link: https://www.sec.gov/Archives/edgar/data/1356576/000195004725007587/0001950047-25-007587.txt
 2025-09-30 20:44:38 | Jacob Dewitt | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/2021433/000196858225000966/0001968582-25-000966.txt
 2025-09-30 20:44:39 | Jacob Dewitt | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000196858225000966/0001968582-25-000966.txt
+2025-09-30 20:53:27 | Geary Richard S | Officer | Shares: 57900 | Value: $3,777,668.0 | Percent: 0.036326% | Link: https://www.sec.gov/Archives/edgar/data/1442730/000197248125000222/0001972481-25-000222.txt
+2025-09-30 20:53:28 | Geary Richard S | Officer | Shares: 57900 | Value: $3,777,668.0 | Percent: 0.036326% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000222/0001972481-25-000222.txt
