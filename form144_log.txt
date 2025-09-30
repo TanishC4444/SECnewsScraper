@@ -4356,3 +4356,5 @@
 2025-09-30 12:55:28 | Nalamasu Omkaram | Officer | Shares: 21554 | Value: $4,417,492.3 | Percent: 0.002706% | Link: https://www.sec.gov/Archives/edgar/data/6951/000195917325006224/0001959173-25-006224.txt
 2025-09-30 13:26:49 | James W Quinn | Director | Shares: 13444 | Value: $3,667,792.08 | Percent: 0.097339% | Link: https://www.sec.gov/Archives/edgar/data/1094454/000109445425000010/0001094454-25-000010.txt
 2025-09-30 13:26:51 | James W Quinn | Director | Shares: 13444 | Value: $3,667,792.08 | Percent: 0.097339% | Link: https://www.sec.gov/Archives/edgar/data/100591/000109445425000010/0001094454-25-000010.txt
+2025-09-30 13:55:49 | Sauers Kyle | Officer | Shares: 15038 | Value: $335,948.92 | Percent: 0.015773% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000195917325006225/0001959173-25-006225.txt
+2025-09-30 13:55:50 | Sauers Kyle | Officer | Shares: 15038 | Value: $335,948.92 | Percent: 0.015773% | Link: https://www.sec.gov/Archives/edgar/data/1588894/000195917325006225/0001959173-25-006225.txt
