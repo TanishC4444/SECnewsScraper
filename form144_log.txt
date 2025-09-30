@@ -4362,3 +4362,5 @@
 2025-09-30 14:17:27 | Benedict Danielle | Officer | Shares: 6250 | Value: $211,500.0 | Percent: 0.010319% | Link: https://www.sec.gov/Archives/edgar/data/1020859/000195917325006227/0001959173-25-006227.txt
 2025-09-30 14:17:28 | BURKE JAMES A | Officer | Shares: 19596 | Value: $3,905,511.14 | Percent: 0.005784% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006226/0001959173-25-006226.txt
 2025-09-30 14:17:29 | BURKE JAMES A | Officer | Shares: 19596 | Value: $3,905,511.14 | Percent: 0.005784% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006226/0001959173-25-006226.txt
+2025-09-30 14:46:47 | Lo Gatto Simon Jonathan Rubel | 10% Stockholder | Shares: 150000 | Value: $211,500.0 | Percent: 0.500000% | Link: https://www.sec.gov/Archives/edgar/data/2089121/000194984625000508/0001949846-25-000508.txt
+2025-09-30 14:46:48 | Lo Gatto Simon Jonathan Rubel | 10% Stockholder | Shares: 150000 | Value: $211,500.0 | Percent: 0.500000% | Link: https://www.sec.gov/Archives/edgar/data/1993431/000194984625000508/0001949846-25-000508.txt

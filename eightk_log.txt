@@ -5459,3 +5459,4 @@
 2025-09-30 13:55:45 | 8-K - WaterBridge Infrastructure LLC (0002064947) (Filer) | 2025-09-30T09:51:35-04:00 | https://www.sec.gov/Archives/edgar/data/2064947/000119312525224311/0001193125-25-224311.txt
 2025-09-30 13:55:47 | 8-K - ISABELLA BANK CORP (0000842517) (Filer) | 2025-09-30T09:48:31-04:00 | https://www.sec.gov/Archives/edgar/data/842517/000084251725000193/0000842517-25-000193.txt
 2025-09-30 14:17:24 | 8-K - Hancock Park Corporate Income, Inc. (0001661306) (Filer) | 2025-09-30T10:06:20-04:00 | https://www.sec.gov/Archives/edgar/data/1661306/000166130625000070/0001661306-25-000070.txt
+2025-09-30 14:46:44 | 8-K - Manulife Private Credit Fund (0001988280) (Filer) | 2025-09-30T10:44:04-04:00 | https://www.sec.gov/Archives/edgar/data/1988280/000119312525224415/0001193125-25-224415.txt
