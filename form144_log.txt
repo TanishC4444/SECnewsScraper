@@ -4412,3 +4412,5 @@
 2025-09-30 22:16:51 | MICHAEL KLICHINSKY | Officer | Shares: 484347 | Value: $134,164.12 | Percent: 1.159055% | Link: https://www.sec.gov/Archives/edgar/data/1485003/000110465925095177/0001104659-25-095177.txt
 2025-09-30 22:16:53 | SHARAT SHARAN | Officer | Shares: 56490 | Value: $324,117.02 | Percent: 0.133526% | Link: https://www.sec.gov/Archives/edgar/data/1841654/000195004725007591/0001950047-25-007591.txt
 2025-09-30 22:16:54 | SHARAT SHARAN | Officer | Shares: 56490 | Value: $324,117.02 | Percent: 0.133526% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725007591/0001950047-25-007591.txt
+2025-09-30 23:36:28 | April S. Arnzen | Officer | Shares: 15000 | Value: $2,460,600.0 | Percent: 0.001340% | Link: https://www.sec.gov/Archives/edgar/data/1632063/000162828025043282/0001628280-25-043282.txt
+2025-09-30 23:36:29 | April S. Arnzen | Officer | Shares: 15000 | Value: $2,460,600.0 | Percent: 0.001340% | Link: https://www.sec.gov/Archives/edgar/data/723125/000162828025043282/0001628280-25-043282.txt
