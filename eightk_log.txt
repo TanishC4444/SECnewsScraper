@@ -5479,3 +5479,6 @@
 2025-09-30 18:40:32 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-30T14:32:55-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000173/0001331757-25-000173.txt
 2025-09-30 18:40:32 | 8-K - New Mountain Net Lease Trust (0002033695) (Filer) | 2025-09-30T14:24:14-04:00 | https://www.sec.gov/Archives/edgar/data/2033695/000158064225006294/0001580642-25-006294.txt
 2025-09-30 19:08:07 | 8-K - RETRACTABLE TECHNOLOGIES INC (0000946563) (Filer) | 2025-09-30T15:01:21-04:00 | https://www.sec.gov/Archives/edgar/data/946563/000110465925094946/0001104659-25-094946.txt
+2025-09-30 19:23:34 | 8-K - BGO Industrial Real Estate Income Trust, Inc. (0001942722) (Filer) | 2025-09-30T15:15:45-04:00 | https://www.sec.gov/Archives/edgar/data/1942722/000110465925094963/0001104659-25-094963.txt
+2025-09-30 19:23:36 | 8-K - PERMA FIX ENVIRONMENTAL SERVICES INC (0000891532) (Filer) | 2025-09-30T15:15:36-04:00 | https://www.sec.gov/Archives/edgar/data/891532/000149315225016271/0001493152-25-016271.txt
+2025-09-30 19:23:37 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-09-30T15:13:19-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000180/0001326771-25-000180.txt
