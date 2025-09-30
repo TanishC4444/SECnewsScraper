@@ -5478,3 +5478,4 @@
 2025-09-30 18:40:32 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-09-30T14:38:00-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000186/0001325814-25-000186.txt
 2025-09-30 18:40:32 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-09-30T14:32:55-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000173/0001331757-25-000173.txt
 2025-09-30 18:40:32 | 8-K - New Mountain Net Lease Trust (0002033695) (Filer) | 2025-09-30T14:24:14-04:00 | https://www.sec.gov/Archives/edgar/data/2033695/000158064225006294/0001580642-25-006294.txt
+2025-09-30 19:08:07 | 8-K - RETRACTABLE TECHNOLOGIES INC (0000946563) (Filer) | 2025-09-30T15:01:21-04:00 | https://www.sec.gov/Archives/edgar/data/946563/000110465925094946/0001104659-25-094946.txt
