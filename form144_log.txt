@@ -4396,3 +4396,11 @@
 2025-09-30 20:32:23 | CHARLES KIROL | Officer | Shares: 8969 | Value: $77,761.23 | Percent: 0.002288% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725007584/0001950047-25-007584.txt
 2025-09-30 20:32:25 | BRANNIN J. MCBEE 2022 IRR TRUST | Officer | Shares: 150000 | Value: $18,378,000.0 | Percent: 0.040489% | Link: https://www.sec.gov/Archives/edgar/data/2058103/000195004725007583/0001950047-25-007583.txt
 2025-09-30 20:32:26 | BRANNIN J. MCBEE 2022 IRR TRUST | Officer | Shares: 150000 | Value: $18,378,000.0 | Percent: 0.040489% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725007583/0001950047-25-007583.txt
+2025-09-30 20:44:31 | HOUGEN ELIZABETH L | Officer | Shares: 49800 | Value: $3,249,734.0 | Percent: 0.031244% | Link: https://www.sec.gov/Archives/edgar/data/1074773/000197248125000221/0001972481-25-000221.txt
+2025-09-30 20:44:32 | HOUGEN ELIZABETH L | Officer | Shares: 49800 | Value: $3,249,734.0 | Percent: 0.031244% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000221/0001972481-25-000221.txt
+2025-09-30 20:44:34 | Caroline Cochran | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/2021786/000196858225000967/0001968582-25-000967.txt
+2025-09-30 20:44:35 | Caroline Cochran | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000196858225000967/0001968582-25-000967.txt
+2025-09-30 20:44:36 | JACK A. KHATTAR | Director | Shares: 8588 | Value: $408,788.8 | Percent: 0.015316% | Link: https://www.sec.gov/Archives/edgar/data/1539937/000195004725007587/0001950047-25-007587.txt
+2025-09-30 20:44:37 | JACK A. KHATTAR | Director | Shares: 8588 | Value: $408,788.8 | Percent: 0.015316% | Link: https://www.sec.gov/Archives/edgar/data/1356576/000195004725007587/0001950047-25-007587.txt
+2025-09-30 20:44:38 | Jacob Dewitt | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/2021433/000196858225000966/0001968582-25-000966.txt
+2025-09-30 20:44:39 | Jacob Dewitt | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000196858225000966/0001968582-25-000966.txt
