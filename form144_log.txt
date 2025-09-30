@@ -4378,3 +4378,11 @@
 2025-09-30 19:08:12 | Sheldon Richard Bentley | 10% stockholder / Founder | Shares: 1000000 | Value: $1,360,000.0 | Percent: 5.589287% | Link: https://www.sec.gov/Archives/edgar/data/1709628/000168316825007333/0001683168-25-007333.txt
 2025-09-30 19:43:46 | Marshall Tucker H | Officer | Shares: 11139 | Value: $1,204,219.73 | Percent: 0.010441% | Link: https://www.sec.gov/Archives/edgar/data/1810809/000195917325006232/0001959173-25-006232.txt
 2025-09-30 19:43:47 | Marshall Tucker H | Officer | Shares: 11139 | Value: $1,204,219.73 | Percent: 0.010441% | Link: https://www.sec.gov/Archives/edgar/data/91419/000195917325006232/0001959173-25-006232.txt
+2025-09-30 20:11:23 | Haas Rene A. | Officer | Shares: 6152 | Value: $862,347.54 | Percent: 0.000582% | Link: https://www.sec.gov/Archives/edgar/data/1998912/000195917325006233/0001959173-25-006233.txt
+2025-09-30 20:11:24 | Haas Rene A. | Officer | Shares: 6152 | Value: $862,347.54 | Percent: 0.000582% | Link: https://www.sec.gov/Archives/edgar/data/1973239/000195917325006233/0001959173-25-006233.txt
+2025-09-30 20:11:27 | BRYAN ANDERSON | OFFICER | Shares: 6206 | Value: $582,308.98 | Percent: 0.000564% | Link: https://www.sec.gov/Archives/edgar/data/1831824/000162828025043226/0001628280-25-043226.txt
+2025-09-30 20:11:27 | BRYAN ANDERSON | OFFICER | Shares: 6206 | Value: $582,308.98 | Percent: 0.000564% | Link: https://www.sec.gov/Archives/edgar/data/92122/000162828025043226/0001628280-25-043226.txt
+2025-09-30 20:11:29 | ROBERT J. SCARINGE | Officer | Shares: 17450 | Value: $264,186.02 | Percent: 0.001438% | Link: https://www.sec.gov/Archives/edgar/data/1891517/000195004725007573/0001950047-25-007573.txt
+2025-09-30 20:11:31 | ROBERT J. SCARINGE | Officer | Shares: 17450 | Value: $264,186.02 | Percent: 0.001438% | Link: https://www.sec.gov/Archives/edgar/data/1874178/000195004725007573/0001950047-25-007573.txt
+2025-09-30 20:11:32 | OMAR TAWAKOL | Director | Shares: 14279 | Value: $401,953.85 | Percent: 0.021765% | Link: https://www.sec.gov/Archives/edgar/data/1857556/000195004725007572/0001950047-25-007572.txt
+2025-09-30 20:11:33 | OMAR TAWAKOL | Director | Shares: 14279 | Value: $401,953.85 | Percent: 0.021765% | Link: https://www.sec.gov/Archives/edgar/data/733269/000195004725007572/0001950047-25-007572.txt
