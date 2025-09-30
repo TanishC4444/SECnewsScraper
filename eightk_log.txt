@@ -5470,3 +5470,5 @@
 2025-09-30 17:10:59 | 8-K - Chord Energy Corp (0001486159) (Filer) | 2025-09-30T13:01:18-04:00 | https://www.sec.gov/Archives/edgar/data/1486159/000119312525224698/0001193125-25-224698.txt
 2025-09-30 17:29:53 | 8-K - CD 2017-CD3 Mortgage Trust (0001693368) (Filer) | 2025-09-30T13:24:13-04:00 | https://www.sec.gov/Archives/edgar/data/1693368/000188852425017003/0001888524-25-017003.txt
 2025-09-30 17:29:53 | 8-K - Nuveen Churchill Private Capital Income Fund (0001911066) (Filer) | 2025-09-30T13:18:49-04:00 | https://www.sec.gov/Archives/edgar/data/1911066/000191106625000030/0001911066-25-000030.txt
+2025-09-30 17:42:40 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-30T13:32:42-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425011243/0001654954-25-011243.txt
+2025-09-30 17:42:43 | 8-K - Civeo Corp (0001590584) (Filer) | 2025-09-30T13:31:10-04:00 | https://www.sec.gov/Archives/edgar/data/1590584/000159058425000126/0001590584-25-000126.txt
