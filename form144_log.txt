@@ -4406,3 +4406,5 @@
 2025-09-30 20:44:39 | Jacob Dewitt | Affiliate | Shares: 300000 | Value: $34,953,000.0 | Percent: 0.203239% | Link: https://www.sec.gov/Archives/edgar/data/1849056/000196858225000966/0001968582-25-000966.txt
 2025-09-30 20:53:27 | Geary Richard S | Officer | Shares: 57900 | Value: $3,777,668.0 | Percent: 0.036326% | Link: https://www.sec.gov/Archives/edgar/data/1442730/000197248125000222/0001972481-25-000222.txt
 2025-09-30 20:53:28 | Geary Richard S | Officer | Shares: 57900 | Value: $3,777,668.0 | Percent: 0.036326% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000222/0001972481-25-000222.txt
+2025-09-30 21:27:51 | KIRK RANDAL J | Director | Shares: 1809667 | Value: $6,569,091.0 | Percent: 0.607326% | Link: https://www.sec.gov/Archives/edgar/data/1356090/000194984625000510/0001949846-25-000510.txt
+2025-09-30 21:27:52 | KIRK RANDAL J | Director | Shares: 1809667 | Value: $6,569,091.0 | Percent: 0.607326% | Link: https://www.sec.gov/Archives/edgar/data/1091823/000194984625000510/0001949846-25-000510.txt
