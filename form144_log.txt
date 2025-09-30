@@ -4352,3 +4352,5 @@
 2025-09-30 01:53:57 | Mahmud Ul Haq | Executive Chairman | Shares: 11960 | Value: $252,000.0 | Percent: 0.791334% | Link: https://www.sec.gov/Archives/edgar/data/1582982/000149315225016122/0001493152-25-016122.txt
 2025-09-30 01:53:58 | Sagara Kevin C. | Director | Shares: 14433 | Value: $1,278,619.47 | Percent: 0.002212% | Link: https://www.sec.gov/Archives/edgar/data/1815360/000181536025000011/0001815360-25-000011.txt
 2025-09-30 01:53:59 | Sagara Kevin C. | Director | Shares: 14433 | Value: $1,278,619.47 | Percent: 0.002212% | Link: https://www.sec.gov/Archives/edgar/data/1032208/000181536025000011/0001815360-25-000011.txt
+2025-09-30 12:55:27 | Nalamasu Omkaram | Officer | Shares: 21554 | Value: $4,417,492.3 | Percent: 0.002706% | Link: https://www.sec.gov/Archives/edgar/data/1510815/000195917325006224/0001959173-25-006224.txt
+2025-09-30 12:55:28 | Nalamasu Omkaram | Officer | Shares: 21554 | Value: $4,417,492.3 | Percent: 0.002706% | Link: https://www.sec.gov/Archives/edgar/data/6951/000195917325006224/0001959173-25-006224.txt
