@@ -5472,3 +5472,6 @@
 2025-09-30 17:29:53 | 8-K - Nuveen Churchill Private Capital Income Fund (0001911066) (Filer) | 2025-09-30T13:18:49-04:00 | https://www.sec.gov/Archives/edgar/data/1911066/000191106625000030/0001911066-25-000030.txt
 2025-09-30 17:42:40 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-09-30T13:32:42-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425011243/0001654954-25-011243.txt
 2025-09-30 17:42:43 | 8-K - Civeo Corp (0001590584) (Filer) | 2025-09-30T13:31:10-04:00 | https://www.sec.gov/Archives/edgar/data/1590584/000159058425000126/0001590584-25-000126.txt
+2025-09-30 18:12:35 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-09-30T13:55:54-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000042/0001976927-25-000042.txt
+2025-09-30 18:12:35 | 8-K - Apollo Infrastructure Co LLC (0001971381) (Filer) | 2025-09-30T13:53:55-04:00 | https://www.sec.gov/Archives/edgar/data/1971381/000119312525224774/0001193125-25-224774.txt
+2025-09-30 18:12:36 | 8-K - MacKenzie Realty Capital, Inc. (0001550913) (Filer) | 2025-09-30T13:52:13-04:00 | https://www.sec.gov/Archives/edgar/data/1550913/000155091325000157/0001550913-25-000157.txt

@@ -4370,3 +4370,5 @@
 2025-09-30 17:11:02 | Becker Steven R | Officer | Shares: 50016 | Value: $139,044.48 | Percent: 0.130145% | Link: https://www.sec.gov/Archives/edgar/data/1132105/000194984625000509/0001949846-25-000509.txt
 2025-09-30 17:29:56 | Benedict Danielle | Officer | Shares: 5405 | Value: $199,985.0 | Percent: 0.008924% | Link: https://www.sec.gov/Archives/edgar/data/1682963/000195917325006231/0001959173-25-006231.txt
 2025-09-30 17:29:56 | Benedict Danielle | Officer | Shares: 5405 | Value: $199,985.0 | Percent: 0.008924% | Link: https://www.sec.gov/Archives/edgar/data/1020859/000195917325006231/0001959173-25-006231.txt
+2025-09-30 18:12:37 | Moeller Jon R | Officer | Shares: 13893 | Value: $2,113,194.77 | Percent: 0.000593% | Link: https://www.sec.gov/Archives/edgar/data/1450613/000008042425000183/0000080424-25-000183.txt
+2025-09-30 18:12:37 | Moeller Jon R | Officer | Shares: 13893 | Value: $2,113,194.77 | Percent: 0.000593% | Link: https://www.sec.gov/Archives/edgar/data/80424/000008042425000183/0000080424-25-000183.txt
