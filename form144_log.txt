@@ -4386,3 +4386,13 @@
 2025-09-30 20:11:31 | ROBERT J. SCARINGE | Officer | Shares: 17450 | Value: $264,186.02 | Percent: 0.001438% | Link: https://www.sec.gov/Archives/edgar/data/1874178/000195004725007573/0001950047-25-007573.txt
 2025-09-30 20:11:32 | OMAR TAWAKOL | Director | Shares: 14279 | Value: $401,953.85 | Percent: 0.021765% | Link: https://www.sec.gov/Archives/edgar/data/1857556/000195004725007572/0001950047-25-007572.txt
 2025-09-30 20:11:33 | OMAR TAWAKOL | Director | Shares: 14279 | Value: $401,953.85 | Percent: 0.021765% | Link: https://www.sec.gov/Archives/edgar/data/733269/000195004725007572/0001950047-25-007572.txt
+2025-09-30 20:32:11 | BRAD C BRUBAKER | Officer | Shares: 16083 | Value: $202,002.48 | Percent: 0.003546% | Link: https://www.sec.gov/Archives/edgar/data/1734722/000195004725007586/0001950047-25-007586.txt
+2025-09-30 20:32:13 | BRAD C BRUBAKER | Officer | Shares: 16083 | Value: $202,002.48 | Percent: 0.003546% | Link: https://www.sec.gov/Archives/edgar/data/1543401/000195004725007586/0001950047-25-007586.txt
+2025-09-30 20:32:15 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,898,547.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001218/0001921094-25-001218.txt
+2025-09-30 20:32:16 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,898,547.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001218/0001921094-25-001218.txt
+2025-09-30 20:32:18 | EDWARD KAYE | Director | Shares: 6695 | Value: $360,793.55 | Percent: 0.005595% | Link: https://www.sec.gov/Archives/edgar/data/1522780/000195004725007585/0001950047-25-007585.txt
+2025-09-30 20:32:20 | EDWARD KAYE | Director | Shares: 6695 | Value: $360,793.55 | Percent: 0.005595% | Link: https://www.sec.gov/Archives/edgar/data/1061983/000195004725007585/0001950047-25-007585.txt
+2025-09-30 20:32:22 | CHARLES KIROL | Officer | Shares: 8969 | Value: $77,761.23 | Percent: 0.002288% | Link: https://www.sec.gov/Archives/edgar/data/2065340/000195004725007584/0001950047-25-007584.txt
+2025-09-30 20:32:23 | CHARLES KIROL | Officer | Shares: 8969 | Value: $77,761.23 | Percent: 0.002288% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725007584/0001950047-25-007584.txt
+2025-09-30 20:32:25 | BRANNIN J. MCBEE 2022 IRR TRUST | Officer | Shares: 150000 | Value: $18,378,000.0 | Percent: 0.040489% | Link: https://www.sec.gov/Archives/edgar/data/2058103/000195004725007583/0001950047-25-007583.txt
+2025-09-30 20:32:26 | BRANNIN J. MCBEE 2022 IRR TRUST | Officer | Shares: 150000 | Value: $18,378,000.0 | Percent: 0.040489% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725007583/0001950047-25-007583.txt
