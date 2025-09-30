@@ -5451,3 +5451,8 @@
 2025-09-30 13:26:45 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-30T09:05:56-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003444/0001178913-25-003444.txt
 2025-09-30 13:26:46 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-09-30T09:04:06-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000119312525224200/0001193125-25-224200.txt
 2025-09-30 13:26:47 | 8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer) | 2025-09-30T09:03:11-04:00 | https://www.sec.gov/Archives/edgar/data/885550/000088555025000107/0000885550-25-000107.txt
+2025-09-30 13:45:55 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-09-30T09:38:35-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525224272/0001193125-25-224272.txt
+2025-09-30 13:45:58 | 8-K - NewtekOne, Inc. (0001587987) (Filer) | 2025-09-30T09:37:33-04:00 | https://www.sec.gov/Archives/edgar/data/1587987/000162828025043174/0001628280-25-043174.txt
+2025-09-30 13:46:00 | 8-K - Co-Diagnostics, Inc. (0001692415) (Filer) | 2025-09-30T09:32:23-04:00 | https://www.sec.gov/Archives/edgar/data/1692415/000149315225016211/0001493152-25-016211.txt
+2025-09-30 13:46:02 | 8-K - Lipocine Inc. (0001535955) (Filer) | 2025-09-30T09:30:33-04:00 | https://www.sec.gov/Archives/edgar/data/1535955/000149315225016210/0001493152-25-016210.txt
+2025-09-30 13:46:03 | 8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer) | 2025-09-30T09:29:53-04:00 | https://www.sec.gov/Archives/edgar/data/1986395/000119312525224262/0001193125-25-224262.txt
