@@ -4354,3 +4354,5 @@
 2025-09-30 01:53:59 | Sagara Kevin C. | Director | Shares: 14433 | Value: $1,278,619.47 | Percent: 0.002212% | Link: https://www.sec.gov/Archives/edgar/data/1032208/000181536025000011/0001815360-25-000011.txt
 2025-09-30 12:55:27 | Nalamasu Omkaram | Officer | Shares: 21554 | Value: $4,417,492.3 | Percent: 0.002706% | Link: https://www.sec.gov/Archives/edgar/data/1510815/000195917325006224/0001959173-25-006224.txt
 2025-09-30 12:55:28 | Nalamasu Omkaram | Officer | Shares: 21554 | Value: $4,417,492.3 | Percent: 0.002706% | Link: https://www.sec.gov/Archives/edgar/data/6951/000195917325006224/0001959173-25-006224.txt
+2025-09-30 13:26:49 | James W Quinn | Director | Shares: 13444 | Value: $3,667,792.08 | Percent: 0.097339% | Link: https://www.sec.gov/Archives/edgar/data/1094454/000109445425000010/0001094454-25-000010.txt
+2025-09-30 13:26:51 | James W Quinn | Director | Shares: 13444 | Value: $3,667,792.08 | Percent: 0.097339% | Link: https://www.sec.gov/Archives/edgar/data/100591/000109445425000010/0001094454-25-000010.txt

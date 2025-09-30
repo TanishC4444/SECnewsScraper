@@ -5442,3 +5442,12 @@
 2025-09-30 12:55:24 | 8-K - Tonix Pharmaceuticals Holding Corp. (0001430306) (Filer) | 2025-09-30T08:36:03-04:00 | https://www.sec.gov/Archives/edgar/data/1430306/000199937125014216/0001999371-25-014216.txt
 2025-09-30 12:55:25 | 8-K - NewtekOne, Inc. (0001587987) (Filer) | 2025-09-30T08:33:18-04:00 | https://www.sec.gov/Archives/edgar/data/1587987/000162828025043166/0001628280-25-043166.txt
 2025-09-30 12:55:27 | 8-K - Lamb Weston Holdings, Inc. (0001679273) (Filer) | 2025-09-30T08:32:47-04:00 | https://www.sec.gov/Archives/edgar/data/1679273/000167927325000068/0001679273-25-000068.txt
+2025-09-30 13:26:33 | 8-K - Spring Valley Acquisition Corp. II (0001843477) (Filer) | 2025-09-30T09:24:33-04:00 | https://www.sec.gov/Archives/edgar/data/1843477/000110465925094781/0001104659-25-094781.txt
+2025-09-30 13:26:35 | 8-K - WOLFSPEED, INC. (0000895419) (Filer) | 2025-09-30T09:21:14-04:00 | https://www.sec.gov/Archives/edgar/data/895419/000119312525224251/0001193125-25-224251.txt
+2025-09-30 13:26:37 | 8-K - ADC Therapeutics SA (0001771910) (Filer) | 2025-09-30T09:16:20-04:00 | https://www.sec.gov/Archives/edgar/data/1771910/000095010325012514/0000950103-25-012514.txt
+2025-09-30 13:26:38 | 8-K - Alset Inc. (0001750106) (Filer) | 2025-09-30T09:15:31-04:00 | https://www.sec.gov/Archives/edgar/data/1750106/000149315225016204/0001493152-25-016204.txt
+2025-09-30 13:26:42 | 8-K - Tamboran Resources Corp (0001997652) (Filer) | 2025-09-30T09:07:05-04:00 | https://www.sec.gov/Archives/edgar/data/1997652/000162828025043169/0001628280-25-043169.txt
+2025-09-30 13:26:43 | 8-K - Vaxcyte, Inc. (0001649094) (Filer) | 2025-09-30T09:06:36-04:00 | https://www.sec.gov/Archives/edgar/data/1649094/000164909425000102/0001649094-25-000102.txt
+2025-09-30 13:26:45 | 8-K - Silexion Therapeutics Corp (0002022416) (Filer) | 2025-09-30T09:05:56-04:00 | https://www.sec.gov/Archives/edgar/data/2022416/000117891325003444/0001178913-25-003444.txt
+2025-09-30 13:26:46 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-09-30T09:04:06-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000119312525224200/0001193125-25-224200.txt
+2025-09-30 13:26:47 | 8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer) | 2025-09-30T09:03:11-04:00 | https://www.sec.gov/Archives/edgar/data/885550/000088555025000107/0000885550-25-000107.txt
