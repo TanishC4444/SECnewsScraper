@@ -4470,3 +4470,7 @@
 2025-10-01 19:12:54 | Wei Zheng | 10% Stockholder | Shares: 200000 | Value: $305,940.0 | Percent: 0.358927% | Link: https://www.sec.gov/Archives/edgar/data/1835268/000194984625000514/0001949846-25-000514.txt
 2025-10-01 19:25:44 | Howard Welgus | Director | Shares: 10000 | Value: $189,227.0 | Percent: 0.008340% | Link: https://www.sec.gov/Archives/edgar/data/1801050/000162828025043391/0001628280-25-043391.txt
 2025-10-01 19:26:17 | Howard Welgus | Director | Shares: 10000 | Value: $189,227.0 | Percent: 0.008340% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025043391/0001628280-25-043391.txt
+2025-10-01 19:36:47 | BELANOFF JOSEPH K | Officer | Shares: 40000 | Value: $3,324,400.0 | Percent: 0.037961% | Link: https://www.sec.gov/Archives/edgar/data/1286199/000197325125000077/0001973251-25-000077.txt
+2025-10-01 19:36:48 | BELANOFF JOSEPH K | Officer | Shares: 40000 | Value: $3,324,400.0 | Percent: 0.037961% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000077/0001973251-25-000077.txt
+2025-10-01 19:36:50 | PERNICE THOMAS J | Director | Shares: 17750 | Value: $18,389.0 | Percent: 0.210287% | Link: https://www.sec.gov/Archives/edgar/data/1898766/000010362325000038/0000103623-25-000038.txt
+2025-10-01 19:36:51 | PERNICE THOMAS J | Director | Shares: 17750 | Value: $18,389.0 | Percent: 0.210287% | Link: https://www.sec.gov/Archives/edgar/data/1193534/000010362325000038/0000103623-25-000038.txt
