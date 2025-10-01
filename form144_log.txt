@@ -4490,3 +4490,13 @@
 2025-10-01 20:34:23 | MATTHEW FEIERSTEIN | Officer | Shares: 75000 | Value: $834,750.0 | Percent: 0.041373% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195004725007656/0001950047-25-007656.txt
 2025-10-01 20:34:25 | VICKI LEE SATO | Director | Shares: 66000 | Value: $376,860.0 | Percent: 0.047511% | Link: https://www.sec.gov/Archives/edgar/data/1706431/000195004725007655/0001950047-25-007655.txt
 2025-10-01 20:34:26 | VICKI LEE SATO | Director | Shares: 66000 | Value: $376,860.0 | Percent: 0.047511% | Link: https://www.sec.gov/Archives/edgar/data/1197020/000195004725007655/0001950047-25-007655.txt
+2025-10-01 20:45:09 | Stephen Feider | Officer | Shares: 15018 | Value: $311,836.91 | Percent: 0.034548% | Link: https://www.sec.gov/Archives/edgar/data/2048588/000162828025043463/0001628280-25-043463.txt
+2025-10-01 20:45:10 | Stephen Feider | Officer | Shares: 15018 | Value: $311,836.91 | Percent: 0.034548% | Link: https://www.sec.gov/Archives/edgar/data/1674632/000162828025043463/0001628280-25-043463.txt
+2025-10-01 20:45:12 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,995,480.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001222/0001921094-25-001222.txt
+2025-10-01 20:45:13 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,995,480.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001222/0001921094-25-001222.txt
+2025-10-01 20:45:14 | Swayze Eric | Officer | Shares: 27114 | Value: $1,789,524.0 | Percent: 0.017011% | Link: https://www.sec.gov/Archives/edgar/data/1791058/000197248125000223/0001972481-25-000223.txt
+2025-10-01 20:45:15 | Swayze Eric | Officer | Shares: 27114 | Value: $1,789,524.0 | Percent: 0.017011% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000223/0001972481-25-000223.txt
+2025-10-01 20:45:17 | MARK CHIPLOCK | Officer | Shares: 5602 | Value: $188,115.16 | Percent: 0.016142% | Link: https://www.sec.gov/Archives/edgar/data/1755243/000195004725007674/0001950047-25-007674.txt
+2025-10-01 20:45:17 | MARK CHIPLOCK | Officer | Shares: 5602 | Value: $188,115.16 | Percent: 0.016142% | Link: https://www.sec.gov/Archives/edgar/data/1488139/000195004725007674/0001950047-25-007674.txt
+2025-10-01 20:45:19 | NASEEM SAGATI AGHILI | Officer | Shares: 21000 | Value: $3,357,690.0 | Percent: 0.009725% | Link: https://www.sec.gov/Archives/edgar/data/1779014/000195004725007673/0001950047-25-007673.txt
+2025-10-01 20:45:20 | NASEEM SAGATI AGHILI | Officer | Shares: 21000 | Value: $3,357,690.0 | Percent: 0.009725% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725007673/0001950047-25-007673.txt
