@@ -4464,3 +4464,7 @@
 2025-10-01 18:44:04 | Phillips Elizabeth D | Officer | Shares: 6880 | Value: $293,432.0 | Percent: 0.240081% | Link: https://www.sec.gov/Archives/edgar/data/55529/000146743725000006/0001467437-25-000006.txt
 2025-10-01 18:55:23 | Haas Margaret E. | 10% Stockholder | Shares: 350000 | Value: $9,600,000.0 | Percent: 0.326472% | Link: https://www.sec.gov/Archives/edgar/data/1771089/000194984625000513/0001949846-25-000513.txt
 2025-10-01 18:55:24 | Haas Margaret E. | 10% Stockholder | Shares: 350000 | Value: $9,600,000.0 | Percent: 0.326472% | Link: https://www.sec.gov/Archives/edgar/data/94845/000194984625000513/0001949846-25-000513.txt
+2025-10-01 19:12:53 | Almond Roger Kent | Officer | Shares: 25000 | Value: $128,000.0 | Percent: 0.217868% | Link: https://www.sec.gov/Archives/edgar/data/1585901/000194984625000515/0001949846-25-000515.txt
+2025-10-01 19:12:54 | Almond Roger Kent | Officer | Shares: 25000 | Value: $128,000.0 | Percent: 0.217868% | Link: https://www.sec.gov/Archives/edgar/data/1039280/000194984625000515/0001949846-25-000515.txt
+2025-10-01 19:12:54 | Wei Zheng | 10% Stockholder | Shares: 200000 | Value: $305,940.0 | Percent: 0.358927% | Link: https://www.sec.gov/Archives/edgar/data/1913491/000194984625000514/0001949846-25-000514.txt
+2025-10-01 19:12:54 | Wei Zheng | 10% Stockholder | Shares: 200000 | Value: $305,940.0 | Percent: 0.358927% | Link: https://www.sec.gov/Archives/edgar/data/1835268/000194984625000514/0001949846-25-000514.txt
