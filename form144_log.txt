@@ -4458,3 +4458,5 @@
 2025-10-01 17:43:56 | Lee Anthony P | Director | Shares: 66000 | Value: $8,997,938.4 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325006259/0001959173-25-006259.txt
 2025-10-01 17:43:57 | Michael A McManus | board member | Shares: 50000 | Value: $365,791.8 | Percent: 0.038842% | Link: https://www.sec.gov/Archives/edgar/data/1051997/000162828025043374/0001628280-25-043374.txt
 2025-10-01 17:43:57 | Michael A McManus | board member | Shares: 50000 | Value: $365,791.8 | Percent: 0.038842% | Link: https://www.sec.gov/Archives/edgar/data/101538/000162828025043374/0001628280-25-043374.txt
+2025-10-01 18:15:29 | Maduck Sean | Officer | Shares: 20000 | Value: $1,662,200.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1698310/000197325125000076/0001973251-25-000076.txt
+2025-10-01 18:15:30 | Maduck Sean | Officer | Shares: 20000 | Value: $1,662,200.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000076/0001973251-25-000076.txt
