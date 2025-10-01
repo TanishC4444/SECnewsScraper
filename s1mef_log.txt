@@ -18,3 +18,4 @@
 2025-09-25 01:15:55 | MBX Biosciences, Inc. | BATCH EMAIL
 2025-09-26 10:27:18 | American Exceptionalism Acquisition Corp. A | BATCH EMAIL
 2025-10-01 12:52:19 | Alaska Silver Corp. | BATCH EMAIL
+2025-10-01 13:22:39 | PALISADE BIO, INC. | BATCH EMAIL
