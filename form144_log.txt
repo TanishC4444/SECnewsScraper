@@ -4478,3 +4478,5 @@
 2025-10-01 19:45:45 | James Hamilton | Officer | Shares: 20000 | Value: $700,014.67 | Percent: 0.014466% | Link: https://www.sec.gov/Archives/edgar/data/879407/000162828025043402/0001628280-25-043402.txt
 2025-10-01 19:45:47 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/2075167/000162828025043400/0001628280-25-043400.txt
 2025-10-01 19:45:48 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000162828025043400/0001628280-25-043400.txt
+2025-10-01 20:17:37 | Marc Benioff | Officer | Shares: 51872 | Value: $12,261,607.93 | Percent: 0.005449% | Link: https://www.sec.gov/Archives/edgar/data/1294693/000162828025043416/0001628280-25-043416.txt
+2025-10-01 20:17:38 | Marc Benioff | Officer | Shares: 51872 | Value: $12,261,607.93 | Percent: 0.005449% | Link: https://www.sec.gov/Archives/edgar/data/1108524/000162828025043416/0001628280-25-043416.txt
