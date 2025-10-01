@@ -4480,3 +4480,13 @@
 2025-10-01 19:45:48 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000162828025043400/0001628280-25-043400.txt
 2025-10-01 20:17:37 | Marc Benioff | Officer | Shares: 51872 | Value: $12,261,607.93 | Percent: 0.005449% | Link: https://www.sec.gov/Archives/edgar/data/1294693/000162828025043416/0001628280-25-043416.txt
 2025-10-01 20:17:38 | Marc Benioff | Officer | Shares: 51872 | Value: $12,261,607.93 | Percent: 0.005449% | Link: https://www.sec.gov/Archives/edgar/data/1108524/000162828025043416/0001628280-25-043416.txt
+2025-10-01 20:34:16 | JOEBEN BEVIRT | Director | Shares: 172400 | Value: $2,782,536.0 | Percent: 0.020141% | Link: https://www.sec.gov/Archives/edgar/data/1877280/000195004725007659/0001950047-25-007659.txt
+2025-10-01 20:34:17 | JOEBEN BEVIRT | Director | Shares: 172400 | Value: $2,782,536.0 | Percent: 0.020141% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000195004725007659/0001950047-25-007659.txt
+2025-10-01 20:34:18 | JAMES SKLAR | Officer | Shares: 7468 | Value: $12,396.88 | Percent: 0.021496% | Link: https://www.sec.gov/Archives/edgar/data/1641547/000195004725007658/0001950047-25-007658.txt
+2025-10-01 20:34:19 | JAMES SKLAR | Officer | Shares: 7468 | Value: $12,396.88 | Percent: 0.021496% | Link: https://www.sec.gov/Archives/edgar/data/849145/000195004725007658/0001950047-25-007658.txt
+2025-10-01 20:34:20 | THE JOBY TRUST | Director | Shares: 253600 | Value: $4,093,104.0 | Percent: 0.029627% | Link: https://www.sec.gov/Archives/edgar/data/1877280/000195004725007657/0001950047-25-007657.txt
+2025-10-01 20:34:21 | THE JOBY TRUST | Director | Shares: 253600 | Value: $4,093,104.0 | Percent: 0.029627% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000195004725007657/0001950047-25-007657.txt
+2025-10-01 20:34:23 | MATTHEW FEIERSTEIN | Officer | Shares: 75000 | Value: $834,750.0 | Percent: 0.041373% | Link: https://www.sec.gov/Archives/edgar/data/1856776/000195004725007656/0001950047-25-007656.txt
+2025-10-01 20:34:23 | MATTHEW FEIERSTEIN | Officer | Shares: 75000 | Value: $834,750.0 | Percent: 0.041373% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195004725007656/0001950047-25-007656.txt
+2025-10-01 20:34:25 | VICKI LEE SATO | Director | Shares: 66000 | Value: $376,860.0 | Percent: 0.047511% | Link: https://www.sec.gov/Archives/edgar/data/1706431/000195004725007655/0001950047-25-007655.txt
+2025-10-01 20:34:26 | VICKI LEE SATO | Director | Shares: 66000 | Value: $376,860.0 | Percent: 0.047511% | Link: https://www.sec.gov/Archives/edgar/data/1197020/000195004725007655/0001950047-25-007655.txt
