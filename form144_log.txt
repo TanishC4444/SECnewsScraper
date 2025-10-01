@@ -4428,3 +4428,5 @@
 2025-10-01 02:50:09 | SON I TAM | CEO and Chairman of the Board | Shares: 26000 | Value: $457,000,000.0 | Percent: 0.983346% | Link: https://www.sec.gov/Archives/edgar/data/1883437/000121390025094276/0001213900-25-094276.txt
 2025-10-01 02:50:10 | Stilwell Value LLC | 10% Stockholder | Shares: 10000 | Value: $800,000.0 | Percent: 0.851705% | Link: https://www.sec.gov/Archives/edgar/data/1527541/000110465925095227/0001104659-25-095227.txt
 2025-10-01 02:50:11 | Stilwell Value LLC | 10% Stockholder | Shares: 10000 | Value: $800,000.0 | Percent: 0.851705% | Link: https://www.sec.gov/Archives/edgar/data/1397076/000110465925095227/0001104659-25-095227.txt
+2025-10-01 11:58:57 | Gat Amnon | Officer | Shares: 16000 | Value: $72,160.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1968258/000197640825000327/0001976408-25-000327.txt
+2025-10-01 11:58:58 | Gat Amnon | Officer | Shares: 16000 | Value: $72,160.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1871321/000197640825000327/0001976408-25-000327.txt
