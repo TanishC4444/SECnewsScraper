@@ -4500,3 +4500,9 @@
 2025-10-01 20:45:17 | MARK CHIPLOCK | Officer | Shares: 5602 | Value: $188,115.16 | Percent: 0.016142% | Link: https://www.sec.gov/Archives/edgar/data/1488139/000195004725007674/0001950047-25-007674.txt
 2025-10-01 20:45:19 | NASEEM SAGATI AGHILI | Officer | Shares: 21000 | Value: $3,357,690.0 | Percent: 0.009725% | Link: https://www.sec.gov/Archives/edgar/data/1779014/000195004725007673/0001950047-25-007673.txt
 2025-10-01 20:45:20 | NASEEM SAGATI AGHILI | Officer | Shares: 21000 | Value: $3,357,690.0 | Percent: 0.009725% | Link: https://www.sec.gov/Archives/edgar/data/1176948/000195004725007673/0001950047-25-007673.txt
+2025-10-01 20:54:45 | CHARLES COLLIER | Officer | Shares: 112961 | Value: $11,861,089.84 | Percent: 0.076672% | Link: https://www.sec.gov/Archives/edgar/data/1951665/000195004725007678/0001950047-25-007678.txt
+2025-10-01 20:54:46 | CHARLES COLLIER | Officer | Shares: 112961 | Value: $11,861,089.84 | Percent: 0.076672% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725007678/0001950047-25-007678.txt
+2025-10-01 20:54:48 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 32040 | Value: $482,890.86 | Percent: 0.034296% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007677/0001950047-25-007677.txt
+2025-10-01 20:54:49 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 32040 | Value: $482,890.86 | Percent: 0.034296% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007677/0001950047-25-007677.txt
+2025-10-01 20:54:51 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 42960 | Value: $647,471.64 | Percent: 0.045985% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007676/0001950047-25-007676.txt
+2025-10-01 20:54:52 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 42960 | Value: $647,471.64 | Percent: 0.045985% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007676/0001950047-25-007676.txt
