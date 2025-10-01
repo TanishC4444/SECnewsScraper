@@ -4438,3 +4438,5 @@
 2025-10-01 14:36:55 | ROCHE VINCENT | Officer | Shares: 10000 | Value: $2,437,100.0 | Percent: 0.002033% | Link: https://www.sec.gov/Archives/edgar/data/6281/000195917325006240/0001959173-25-006240.txt
 2025-10-01 14:36:57 | COGHLAN JOHN PHILIP | Director | Shares: 9375 | Value: $989,063.0 | Percent: 0.012089% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000194984625000512/0001949846-25-000512.txt
 2025-10-01 14:36:58 | COGHLAN JOHN PHILIP | Director | Shares: 9375 | Value: $989,063.0 | Percent: 0.012089% | Link: https://www.sec.gov/Archives/edgar/data/1185999/000194984625000512/0001949846-25-000512.txt
+2025-10-01 15:24:38 | Wiener Adam | Director | Shares: 8000 | Value: $264,160.0 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325006245/0001959173-25-006245.txt
+2025-10-01 15:24:39 | Wiener Adam | Director | Shares: 8000 | Value: $264,160.0 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325006245/0001959173-25-006245.txt
