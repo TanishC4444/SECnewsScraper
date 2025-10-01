@@ -4414,3 +4414,13 @@
 2025-09-30 22:16:54 | SHARAT SHARAN | Officer | Shares: 56490 | Value: $324,117.02 | Percent: 0.133526% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725007591/0001950047-25-007591.txt
 2025-09-30 23:36:28 | April S. Arnzen | Officer | Shares: 15000 | Value: $2,460,600.0 | Percent: 0.001340% | Link: https://www.sec.gov/Archives/edgar/data/1632063/000162828025043282/0001628280-25-043282.txt
 2025-09-30 23:36:29 | April S. Arnzen | Officer | Shares: 15000 | Value: $2,460,600.0 | Percent: 0.001340% | Link: https://www.sec.gov/Archives/edgar/data/723125/000162828025043282/0001628280-25-043282.txt
+2025-10-01 01:10:32 | Gorley Michael | DIRECTOR | Shares: 64000 | Value: $662,400.0 | Percent: 0.069631% | Link: https://www.sec.gov/Archives/edgar/data/2012446/000147793225007272/0001477932-25-007272.txt
+2025-10-01 01:10:33 | Gorley Michael | DIRECTOR | Shares: 64000 | Value: $662,400.0 | Percent: 0.069631% | Link: https://www.sec.gov/Archives/edgar/data/1921865/000147793225007272/0001477932-25-007272.txt
+2025-10-01 01:10:35 | Brian Venturo | Officer | Shares: 65593 | Value: $9,146,287.92 | Percent: 0.017705% | Link: https://www.sec.gov/Archives/edgar/data/2058067/000205806725000008/0002058067-25-000008.txt
+2025-10-01 01:10:36 | Brian Venturo | Officer | Shares: 65593 | Value: $9,146,287.92 | Percent: 0.017705% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000205806725000008/0002058067-25-000008.txt
+2025-10-01 01:10:38 | Michael N Intrator | Officer | Shares: 78548 | Value: $10,952,733.12 | Percent: 0.021202% | Link: https://www.sec.gov/Archives/edgar/data/2058037/000205803725000007/0002058037-25-000007.txt
+2025-10-01 01:10:39 | Michael N Intrator | Officer | Shares: 78548 | Value: $10,952,733.12 | Percent: 0.021202% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000205803725000007/0002058037-25-000007.txt
+2025-10-01 01:10:41 | Kevin Feeley | Officer | Shares: 5805 | Value: $625,400.0 | Percent: 0.020208% | Link: https://www.sec.gov/Archives/edgar/data/1944119/000194411925000010/0001944119-25-000010.txt
+2025-10-01 01:10:42 | Kevin Feeley | Officer | Shares: 5805 | Value: $625,400.0 | Percent: 0.020208% | Link: https://www.sec.gov/Archives/edgar/data/1818331/000194411925000010/0001944119-25-000010.txt
+2025-10-01 01:10:43 | Katherine Stueland | Officer | Shares: 16425 | Value: $1,769,600.0 | Percent: 0.057178% | Link: https://www.sec.gov/Archives/edgar/data/1818331/000168957525000008/0001689575-25-000008.txt
+2025-10-01 01:10:44 | Katherine Stueland | Officer | Shares: 16425 | Value: $1,769,600.0 | Percent: 0.057178% | Link: https://www.sec.gov/Archives/edgar/data/1689575/000168957525000008/0001689575-25-000008.txt
