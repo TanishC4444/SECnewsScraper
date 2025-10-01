@@ -4520,3 +4520,7 @@
 2025-10-01 21:28:47 | MONA CHU | Officer | Shares: 9091 | Value: $771,918.63 | Percent: 0.002766% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725007681/0001950047-25-007681.txt
 2025-10-01 21:28:50 | STEELE JEANNA | Officer | Shares: 20426 | Value: $395,248.0 | Percent: 0.008853% | Link: https://www.sec.gov/Archives/edgar/data/1741304/000192109425001227/0001921094-25-001227.txt
 2025-10-01 21:28:51 | STEELE JEANNA | Officer | Shares: 20426 | Value: $395,248.0 | Percent: 0.008853% | Link: https://www.sec.gov/Archives/edgar/data/1469367/000192109425001227/0001921094-25-001227.txt
+2025-10-01 21:38:59 | Insight Partners (Cayman) XI, L.P. | 10% Stockholder | Shares: 38616 | Value: $656,472.0 | Percent: 0.011891% | Link: https://www.sec.gov/Archives/edgar/data/1792449/000197407825000347/0001974078-25-000347.txt
+2025-10-01 21:39:00 | Insight Partners (Cayman) XI, L.P. | 10% Stockholder | Shares: 38616 | Value: $656,472.0 | Percent: 0.011891% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000347/0001974078-25-000347.txt
+2025-10-01 21:39:02 | Todd Franklin Watanabe | Officer | Shares: 24261 | Value: $469,074.0 | Percent: 0.020234% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000162828025043501/0001628280-25-043501.txt
+2025-10-01 21:39:03 | Todd Franklin Watanabe | Officer | Shares: 24261 | Value: $469,074.0 | Percent: 0.020234% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025043501/0001628280-25-043501.txt
