@@ -4524,3 +4524,5 @@
 2025-10-01 21:39:00 | Insight Partners (Cayman) XI, L.P. | 10% Stockholder | Shares: 38616 | Value: $656,472.0 | Percent: 0.011891% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000347/0001974078-25-000347.txt
 2025-10-01 21:39:02 | Todd Franklin Watanabe | Officer | Shares: 24261 | Value: $469,074.0 | Percent: 0.020234% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000162828025043501/0001628280-25-043501.txt
 2025-10-01 21:39:03 | Todd Franklin Watanabe | Officer | Shares: 24261 | Value: $469,074.0 | Percent: 0.020234% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025043501/0001628280-25-043501.txt
+2025-10-01 22:18:41 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 83643 | Value: $2,166,830.47 | Percent: 0.549324% | Link: https://www.sec.gov/Archives/edgar/data/1227847/000122784725000007/0001227847-25-000007.txt
+2025-10-01 22:18:42 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 83643 | Value: $2,166,830.47 | Percent: 0.549324% | Link: https://www.sec.gov/Archives/edgar/data/814586/000122784725000007/0001227847-25-000007.txt
