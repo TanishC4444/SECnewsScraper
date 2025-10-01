@@ -4440,3 +4440,11 @@
 2025-10-01 14:36:58 | COGHLAN JOHN PHILIP | Director | Shares: 9375 | Value: $989,063.0 | Percent: 0.012089% | Link: https://www.sec.gov/Archives/edgar/data/1185999/000194984625000512/0001949846-25-000512.txt
 2025-10-01 15:24:38 | Wiener Adam | Director | Shares: 8000 | Value: $264,160.0 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325006245/0001959173-25-006245.txt
 2025-10-01 15:24:39 | Wiener Adam | Director | Shares: 8000 | Value: $264,160.0 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325006245/0001959173-25-006245.txt
+2025-10-01 15:58:07 | Hanson Jennifer Ladd | Officer | Shares: 9998 | Value: $368,726.24 | Percent: 0.011756% | Link: https://www.sec.gov/Archives/edgar/data/2039704/000195917325006254/0001959173-25-006254.txt
+2025-10-01 15:58:08 | Hanson Jennifer Ladd | Officer | Shares: 9998 | Value: $368,726.24 | Percent: 0.011756% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006254/0001959173-25-006254.txt
+2025-10-01 15:58:09 | Miller William John | Officer | Shares: 25000 | Value: $799,493.0 | Percent: 0.041555% | Link: https://www.sec.gov/Archives/edgar/data/1497582/000149758225000004/0001497582-25-000004.txt
+2025-10-01 15:58:10 | Miller William John | Officer | Shares: 25000 | Value: $799,493.0 | Percent: 0.041555% | Link: https://www.sec.gov/Archives/edgar/data/103145/000149758225000004/0001497582-25-000004.txt
+2025-10-01 15:58:11 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,425,000.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006253/0001959173-25-006253.txt
+2025-10-01 15:58:12 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,425,000.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006253/0001959173-25-006253.txt
+2025-10-01 15:58:14 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,238,800.0 | Percent: 0.002952% | Link: https://www.sec.gov/Archives/edgar/data/1979088/000195917325006252/0001959173-25-006252.txt
+2025-10-01 15:58:15 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,238,800.0 | Percent: 0.002952% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006252/0001959173-25-006252.txt
