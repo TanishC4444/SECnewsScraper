@@ -4432,3 +4432,5 @@
 2025-10-01 11:58:58 | Gat Amnon | Officer | Shares: 16000 | Value: $72,160.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1871321/000197640825000327/0001976408-25-000327.txt
 2025-10-01 12:52:15 | Zinman Eran | Officer | Shares: 15000 | Value: $2,905,350.0 | Percent: 0.029543% | Link: https://www.sec.gov/Archives/edgar/data/1952061/000197640825000328/0001976408-25-000328.txt
 2025-10-01 12:52:16 | Zinman Eran | Officer | Shares: 15000 | Value: $2,905,350.0 | Percent: 0.029543% | Link: https://www.sec.gov/Archives/edgar/data/1845338/000197640825000328/0001976408-25-000328.txt
+2025-10-01 13:44:38 | Robusto Dino | Officer | Shares: 6250 | Value: $289,062.5 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/1348889/000195917325006235/0001959173-25-006235.txt
+2025-10-01 13:44:39 | Robusto Dino | Officer | Shares: 6250 | Value: $289,062.5 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325006235/0001959173-25-006235.txt
