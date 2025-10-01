@@ -4474,3 +4474,7 @@
 2025-10-01 19:36:48 | BELANOFF JOSEPH K | Officer | Shares: 40000 | Value: $3,324,400.0 | Percent: 0.037961% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000077/0001973251-25-000077.txt
 2025-10-01 19:36:50 | PERNICE THOMAS J | Director | Shares: 17750 | Value: $18,389.0 | Percent: 0.210287% | Link: https://www.sec.gov/Archives/edgar/data/1898766/000010362325000038/0000103623-25-000038.txt
 2025-10-01 19:36:51 | PERNICE THOMAS J | Director | Shares: 17750 | Value: $18,389.0 | Percent: 0.210287% | Link: https://www.sec.gov/Archives/edgar/data/1193534/000010362325000038/0000103623-25-000038.txt
+2025-10-01 19:45:44 | James Hamilton | Officer | Shares: 20000 | Value: $700,014.67 | Percent: 0.014466% | Link: https://www.sec.gov/Archives/edgar/data/1830755/000162828025043402/0001628280-25-043402.txt
+2025-10-01 19:45:45 | James Hamilton | Officer | Shares: 20000 | Value: $700,014.67 | Percent: 0.014466% | Link: https://www.sec.gov/Archives/edgar/data/879407/000162828025043402/0001628280-25-043402.txt
+2025-10-01 19:45:47 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/2075167/000162828025043400/0001628280-25-043400.txt
+2025-10-01 19:45:48 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000162828025043400/0001628280-25-043400.txt
