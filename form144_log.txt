@@ -4462,3 +4462,5 @@
 2025-10-01 18:15:30 | Maduck Sean | Officer | Shares: 20000 | Value: $1,662,200.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000076/0001973251-25-000076.txt
 2025-10-01 18:44:03 | Phillips Elizabeth D | Officer | Shares: 6880 | Value: $293,432.0 | Percent: 0.240081% | Link: https://www.sec.gov/Archives/edgar/data/1467437/000146743725000006/0001467437-25-000006.txt
 2025-10-01 18:44:04 | Phillips Elizabeth D | Officer | Shares: 6880 | Value: $293,432.0 | Percent: 0.240081% | Link: https://www.sec.gov/Archives/edgar/data/55529/000146743725000006/0001467437-25-000006.txt
+2025-10-01 18:55:23 | Haas Margaret E. | 10% Stockholder | Shares: 350000 | Value: $9,600,000.0 | Percent: 0.326472% | Link: https://www.sec.gov/Archives/edgar/data/1771089/000194984625000513/0001949846-25-000513.txt
+2025-10-01 18:55:24 | Haas Margaret E. | 10% Stockholder | Shares: 350000 | Value: $9,600,000.0 | Percent: 0.326472% | Link: https://www.sec.gov/Archives/edgar/data/94845/000194984625000513/0001949846-25-000513.txt
