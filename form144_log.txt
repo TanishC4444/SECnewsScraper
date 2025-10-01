@@ -4424,3 +4424,7 @@
 2025-10-01 01:10:42 | Kevin Feeley | Officer | Shares: 5805 | Value: $625,400.0 | Percent: 0.020208% | Link: https://www.sec.gov/Archives/edgar/data/1818331/000194411925000010/0001944119-25-000010.txt
 2025-10-01 01:10:43 | Katherine Stueland | Officer | Shares: 16425 | Value: $1,769,600.0 | Percent: 0.057178% | Link: https://www.sec.gov/Archives/edgar/data/1818331/000168957525000008/0001689575-25-000008.txt
 2025-10-01 01:10:44 | Katherine Stueland | Officer | Shares: 16425 | Value: $1,769,600.0 | Percent: 0.057178% | Link: https://www.sec.gov/Archives/edgar/data/1689575/000168957525000008/0001689575-25-000008.txt
+2025-10-01 02:50:09 | SON I TAM | CEO and Chairman of the Board | Shares: 26000 | Value: $457,000,000.0 | Percent: 0.983346% | Link: https://www.sec.gov/Archives/edgar/data/2069216/000121390025094276/0001213900-25-094276.txt
+2025-10-01 02:50:09 | SON I TAM | CEO and Chairman of the Board | Shares: 26000 | Value: $457,000,000.0 | Percent: 0.983346% | Link: https://www.sec.gov/Archives/edgar/data/1883437/000121390025094276/0001213900-25-094276.txt
+2025-10-01 02:50:10 | Stilwell Value LLC | 10% Stockholder | Shares: 10000 | Value: $800,000.0 | Percent: 0.851705% | Link: https://www.sec.gov/Archives/edgar/data/1527541/000110465925095227/0001104659-25-095227.txt
+2025-10-01 02:50:11 | Stilwell Value LLC | 10% Stockholder | Shares: 10000 | Value: $800,000.0 | Percent: 0.851705% | Link: https://www.sec.gov/Archives/edgar/data/1397076/000110465925095227/0001104659-25-095227.txt
