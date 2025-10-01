@@ -5602,3 +5602,4 @@
 2025-10-01 15:38:40 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-10-01T11:37:00-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525226260/0001193125-25-226260.txt
 2025-10-01 16:28:05 | 8-K - GENCO SHIPPING & TRADING LTD (0001326200) (Filer) | 2025-10-01T12:12:23-04:00 | https://www.sec.gov/Archives/edgar/data/1326200/000114036125036920/0001140361-25-036920.txt
 2025-10-01 16:28:07 | 8-K - SPECTRAL CAPITAL Corp (0001131903) (Filer) | 2025-10-01T12:05:00-04:00 | https://www.sec.gov/Archives/edgar/data/1131903/000109690625001611/0001096906-25-001611.txt
+2025-10-01 16:56:47 | 8-K - Welsbach Technology Metals Acquisition Corp. (0001866226) (Filer) | 2025-10-01T12:55:08-04:00 | https://www.sec.gov/Archives/edgar/data/1866226/000121390025094524/0001213900-25-094524.txt
