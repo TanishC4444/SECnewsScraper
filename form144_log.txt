@@ -4506,3 +4506,9 @@
 2025-10-01 20:54:49 | MIRELF VI REIT INVESTMENT II, LLC | Former Affiliate | Shares: 32040 | Value: $482,890.86 | Percent: 0.034296% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007677/0001950047-25-007677.txt
 2025-10-01 20:54:51 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 42960 | Value: $647,471.64 | Percent: 0.045985% | Link: https://www.sec.gov/Archives/edgar/data/1640680/000195004725007676/0001950047-25-007676.txt
 2025-10-01 20:54:52 | MIRELF VII US SECURITIES LLC | Former Affiliate | Shares: 42960 | Value: $647,471.64 | Percent: 0.045985% | Link: https://www.sec.gov/Archives/edgar/data/924901/000195004725007676/0001950047-25-007676.txt
+2025-10-01 21:13:10 | DOUGLAS HERRINGTON | Officer | Shares: 19119 | Value: $4,197,958.83 | Percent: 0.000179% | Link: https://www.sec.gov/Archives/edgar/data/1936006/000195004725007680/0001950047-25-007680.txt
+2025-10-01 21:13:11 | DOUGLAS HERRINGTON | Officer | Shares: 19119 | Value: $4,197,958.83 | Percent: 0.000179% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195004725007680/0001950047-25-007680.txt
+2025-10-01 21:13:13 | The RR3 WY Trust | Affiliate | Shares: 72297 | Value: $580,545.0 | Percent: 0.013748% | Link: https://www.sec.gov/Archives/edgar/data/2022964/000196858225000974/0001968582-25-000974.txt
+2025-10-01 21:13:15 | The RR3 WY Trust | Affiliate | Shares: 72297 | Value: $580,545.0 | Percent: 0.013748% | Link: https://www.sec.gov/Archives/edgar/data/1563190/000196858225000974/0001968582-25-000974.txt
+2025-10-01 21:13:17 | 1 | Director | Shares: 30187 | Value: $361,036.0 | Percent: 0.033194% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025043488/0001628280-25-043488.txt
+2025-10-01 21:13:18 | 1 | Director | Shares: 30187 | Value: $361,036.0 | Percent: 0.033194% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025043488/0001628280-25-043488.txt

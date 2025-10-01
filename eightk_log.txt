@@ -5649,3 +5649,12 @@
 2025-10-01 20:54:39 | 8-K - Aeries Technology, Inc. (0001853044) (Filer) | 2025-10-01T16:48:58-04:00 | https://www.sec.gov/Archives/edgar/data/1853044/000182912625007827/0001829126-25-007827.txt
 2025-10-01 20:54:41 | 8-K - Sun Country Airlines Holdings, Inc. (0001743907) (Filer) | 2025-10-01T16:48:03-04:00 | https://www.sec.gov/Archives/edgar/data/1743907/000174390725000047/0001743907-25-000047.txt
 2025-10-01 20:54:43 | 8-K - Metagenomi, Inc. (0001785279) (Filer) | 2025-10-01T16:47:28-04:00 | https://www.sec.gov/Archives/edgar/data/1785279/000119312525226878/0001193125-25-226878.txt
+2025-10-01 21:12:50 | 8-K - Vanda Pharmaceuticals Inc. (0001347178) (Filer) | 2025-10-01T17:10:10-04:00 | https://www.sec.gov/Archives/edgar/data/1347178/000162828025043489/0001628280-25-043489.txt
+2025-10-01 21:12:52 | 8-K - NANOVIRICIDES, INC. (0001379006) (Filer) | 2025-10-01T17:07:54-04:00 | https://www.sec.gov/Archives/edgar/data/1379006/000110465925095676/0001104659-25-095676.txt
+2025-10-01 21:12:55 | 8-K - NexPoint Real Estate Finance, Inc. (0001786248) (Filer) | 2025-10-01T17:07:13-04:00 | https://www.sec.gov/Archives/edgar/data/1786248/000143774925030194/0001437749-25-030194.txt
+2025-10-01 21:12:58 | 8-K - CENTERPOINT ENERGY INC (0001130310) (Filer) | 2025-10-01T17:07:08-04:00 | https://www.sec.gov/Archives/edgar/data/1130310/000119312525226962/0001193125-25-226962.txt
+2025-10-01 21:12:59 | 8-K - Vera Bradley, Inc. (0001495320) (Filer) | 2025-10-01T17:04:58-04:00 | https://www.sec.gov/Archives/edgar/data/1495320/000162828025043484/0001628280-25-043484.txt
+2025-10-01 21:13:01 | 8-K - Lafayette Square USA, Inc. (0001849089) (Filer) | 2025-10-01T17:03:12-04:00 | https://www.sec.gov/Archives/edgar/data/1849089/000162828025043483/0001628280-25-043483.txt
+2025-10-01 21:13:04 | 8-K - BKV Corp (0001838406) (Filer) | 2025-10-01T17:01:19-04:00 | https://www.sec.gov/Archives/edgar/data/1838406/000110465925095671/0001104659-25-095671.txt
+2025-10-01 21:13:06 | 8-K - Nova Lifestyle, Inc. (0001473334) (Filer) | 2025-10-01T17:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1473334/000149315225016551/0001493152-25-016551.txt
+2025-10-01 21:13:08 | 8-K - FlexShopper, Inc. (0001397047) (Filer) | 2025-10-01T17:00:27-04:00 | https://www.sec.gov/Archives/edgar/data/1397047/000121390025094752/0001213900-25-094752.txt
