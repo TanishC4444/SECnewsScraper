@@ -4512,3 +4512,11 @@
 2025-10-01 21:13:15 | The RR3 WY Trust | Affiliate | Shares: 72297 | Value: $580,545.0 | Percent: 0.013748% | Link: https://www.sec.gov/Archives/edgar/data/1563190/000196858225000974/0001968582-25-000974.txt
 2025-10-01 21:13:17 | 1 | Director | Shares: 30187 | Value: $361,036.0 | Percent: 0.033194% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025043488/0001628280-25-043488.txt
 2025-10-01 21:13:18 | 1 | Director | Shares: 30187 | Value: $361,036.0 | Percent: 0.033194% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025043488/0001628280-25-043488.txt
+2025-10-01 21:28:42 | 1 | Director | Shares: 18372 | Value: $221,566.0 | Percent: 0.020202% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025043495/0001628280-25-043495.txt
+2025-10-01 21:28:43 | 1 | Director | Shares: 18372 | Value: $221,566.0 | Percent: 0.020202% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025043495/0001628280-25-043495.txt
+2025-10-01 21:28:44 | MICHAEL SENTONAS | Officer | Shares: 20000 | Value: $10,000,000.0 | Percent: 0.007970% | Link: https://www.sec.gov/Archives/edgar/data/1968270/000195004725007682/0001950047-25-007682.txt
+2025-10-01 21:28:45 | MICHAEL SENTONAS | Officer | Shares: 20000 | Value: $10,000,000.0 | Percent: 0.007970% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000195004725007682/0001950047-25-007682.txt
+2025-10-01 21:28:47 | MONA CHU | Officer | Shares: 9091 | Value: $771,918.63 | Percent: 0.002766% | Link: https://www.sec.gov/Archives/edgar/data/1915915/000195004725007681/0001950047-25-007681.txt
+2025-10-01 21:28:47 | MONA CHU | Officer | Shares: 9091 | Value: $771,918.63 | Percent: 0.002766% | Link: https://www.sec.gov/Archives/edgar/data/1474432/000195004725007681/0001950047-25-007681.txt
+2025-10-01 21:28:50 | STEELE JEANNA | Officer | Shares: 20426 | Value: $395,248.0 | Percent: 0.008853% | Link: https://www.sec.gov/Archives/edgar/data/1741304/000192109425001227/0001921094-25-001227.txt
+2025-10-01 21:28:51 | STEELE JEANNA | Officer | Shares: 20426 | Value: $395,248.0 | Percent: 0.008853% | Link: https://www.sec.gov/Archives/edgar/data/1469367/000192109425001227/0001921094-25-001227.txt
