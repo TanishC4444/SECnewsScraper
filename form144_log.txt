@@ -4448,3 +4448,9 @@
 2025-10-01 15:58:12 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,425,000.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006253/0001959173-25-006253.txt
 2025-10-01 15:58:14 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,238,800.0 | Percent: 0.002952% | Link: https://www.sec.gov/Archives/edgar/data/1979088/000195917325006252/0001959173-25-006252.txt
 2025-10-01 15:58:15 | Kleinerman Christian | Officer | Shares: 10000 | Value: $2,238,800.0 | Percent: 0.002952% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006252/0001959173-25-006252.txt
+2025-10-01 16:28:09 | BURKE JAMES A | Officer | Shares: 19605 | Value: $3,818,705.55 | Percent: 0.005786% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006257/0001959173-25-006257.txt
+2025-10-01 16:28:10 | BURKE JAMES A | Officer | Shares: 19605 | Value: $3,818,705.55 | Percent: 0.005786% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006257/0001959173-25-006257.txt
+2025-10-01 16:28:12 | Volozh Arkadiy | Officer | Shares: 38099 | Value: $4,210,651.95 | Percent: 0.018767% | Link: https://www.sec.gov/Archives/edgar/data/2060780/000197337925000276/0001973379-25-000276.txt
+2025-10-01 16:28:12 | Volozh Arkadiy | Officer | Shares: 38099 | Value: $4,210,651.95 | Percent: 0.018767% | Link: https://www.sec.gov/Archives/edgar/data/1513845/000197337925000276/0001973379-25-000276.txt
+2025-10-01 16:28:14 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,394,448.45 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1834366/000162828025043346/0001628280-25-043346.txt
+2025-10-01 16:28:15 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,394,448.45 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000162828025043346/0001628280-25-043346.txt
