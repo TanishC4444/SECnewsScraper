@@ -4528,3 +4528,7 @@
 2025-10-01 22:18:42 | SMOLYANSKY EDWARD | 10% Stockholder | Shares: 83643 | Value: $2,166,830.47 | Percent: 0.549324% | Link: https://www.sec.gov/Archives/edgar/data/814586/000122784725000007/0001227847-25-000007.txt
 2025-10-01 23:09:19 | Craig Leavitt | Director | Shares: 8250 | Value: $537,982.5 | Percent: 0.062852% | Link: https://www.sec.gov/Archives/edgar/data/1601366/000162828025043514/0001628280-25-043514.txt
 2025-10-01 23:09:20 | Craig Leavitt | Director | Shares: 8250 | Value: $537,982.5 | Percent: 0.062852% | Link: https://www.sec.gov/Archives/edgar/data/1113809/000162828025043514/0001628280-25-043514.txt
+2025-10-01 23:25:34 | The RR1 WY Trust | Affiliate | Shares: 47766 | Value: $383,561.0 | Percent: 0.009083% | Link: https://www.sec.gov/Archives/edgar/data/2022961/000196858225000976/0001968582-25-000976.txt
+2025-10-01 23:25:35 | The RR1 WY Trust | Affiliate | Shares: 47766 | Value: $383,561.0 | Percent: 0.009083% | Link: https://www.sec.gov/Archives/edgar/data/1563190/000196858225000976/0001968582-25-000976.txt
+2025-10-01 23:25:36 | IAN MORTIMER | Officer | Shares: 25000 | Value: $1,004,117.0 | Percent: 0.032423% | Link: https://www.sec.gov/Archives/edgar/data/1619961/000119312525227196/0001193125-25-227196.txt
+2025-10-01 23:25:37 | IAN MORTIMER | Officer | Shares: 25000 | Value: $1,004,117.0 | Percent: 0.032423% | Link: https://www.sec.gov/Archives/edgar/data/1582313/000119312525227196/0001193125-25-227196.txt
