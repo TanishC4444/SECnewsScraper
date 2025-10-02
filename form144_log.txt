@@ -4582,3 +4582,5 @@
 2025-10-02 18:44:59 | Lloyd Bardswich | DIRECTOR | Shares: 40000 | Value: $245,000.0 | Percent: 0.033134% | Link: https://www.sec.gov/Archives/edgar/data/101538/000165495425011395/0001654954-25-011395.txt
 2025-10-02 18:54:08 | Thomas Connelly | Officer | Shares: 6000 | Value: $25,500.0 | Percent: 0.004635% | Link: https://www.sec.gov/Archives/edgar/data/1325964/000196922325000820/0001969223-25-000820.txt
 2025-10-02 18:54:09 | Thomas Connelly | Officer | Shares: 6000 | Value: $25,500.0 | Percent: 0.004635% | Link: https://www.sec.gov/Archives/edgar/data/1127286/000196922325000820/0001969223-25-000820.txt
+2025-10-02 19:22:27 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $251,753,100.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/316011/000031601125000015/0000316011-25-000015.txt
+2025-10-02 19:22:28 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $251,753,100.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000015/0000316011-25-000015.txt
