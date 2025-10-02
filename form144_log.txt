@@ -4562,3 +4562,5 @@
 2025-10-02 15:34:27 | Johnson Pamela D. | Officer | Shares: 5497 | Value: $61,621.37 | Percent: 0.019384% | Link: https://www.sec.gov/Archives/edgar/data/1818502/000195917325006277/0001959173-25-006277.txt
 2025-10-02 15:34:29 | SHARIR DAFNA | Director | Shares: 5674 | Value: $73,875.48 | Percent: 0.009951% | Link: https://www.sec.gov/Archives/edgar/data/1181711/000197640825000330/0001976408-25-000330.txt
 2025-10-02 15:34:30 | SHARIR DAFNA | Director | Shares: 5674 | Value: $73,875.48 | Percent: 0.009951% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000330/0001976408-25-000330.txt
+2025-10-02 15:55:18 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,782,500.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006280/0001959173-25-006280.txt
+2025-10-02 15:55:19 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,782,500.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006280/0001959173-25-006280.txt
