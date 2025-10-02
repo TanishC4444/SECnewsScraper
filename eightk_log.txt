@@ -5737,3 +5737,4 @@
 2025-10-02 19:10:57 | 8-K - Moody National REIT II, Inc. (0001615222) (Filer) | 2025-10-02T14:55:12-04:00 | https://www.sec.gov/Archives/edgar/data/1615222/000199937125014538/0001999371-25-014538.txt
 2025-10-02 19:22:25 | 8-K - Emmis Acquisition Corp. (0002075816) (Filer) | 2025-10-02T15:14:49-04:00 | https://www.sec.gov/Archives/edgar/data/2075816/000121390025095324/0001213900-25-095324.txt
 2025-10-02 19:31:57 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-02T15:27:11-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000222/0001331465-25-000222.txt
+2025-10-02 19:41:07 | 8-K - BBCMS Mortgage Trust 2025-5C37 (0002077702) (Filer) | 2025-10-02T15:37:23-04:00 | https://www.sec.gov/Archives/edgar/data/2077702/000153949725002594/0001539497-25-002594.txt
