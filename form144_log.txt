@@ -4564,3 +4564,5 @@
 2025-10-02 15:34:30 | SHARIR DAFNA | Director | Shares: 5674 | Value: $73,875.48 | Percent: 0.009951% | Link: https://www.sec.gov/Archives/edgar/data/897322/000197640825000330/0001976408-25-000330.txt
 2025-10-02 15:55:18 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,782,500.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006280/0001959173-25-006280.txt
 2025-10-02 15:55:19 | GREEN WILLIAM D | Director | Shares: 65000 | Value: $9,782,500.0 | Percent: 0.019293% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006280/0001959173-25-006280.txt
+2025-10-02 16:19:14 | Cynthia A Flanders | Officer | Shares: 15000 | Value: $4,186,350.0 | Percent: 0.108605% | Link: https://www.sec.gov/Archives/edgar/data/1463638/000162828025043600/0001628280-25-043600.txt
+2025-10-02 16:19:15 | Cynthia A Flanders | Officer | Shares: 15000 | Value: $4,186,350.0 | Percent: 0.108605% | Link: https://www.sec.gov/Archives/edgar/data/100591/000162828025043600/0001628280-25-043600.txt
