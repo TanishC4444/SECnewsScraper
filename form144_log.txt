@@ -4622,3 +4622,13 @@
 2025-10-02 21:49:28 | Baroldi Joseph | Officer | Shares: 15000 | Value: $1,020,210.0 | Percent: 0.009411% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000230/0001972481-25-000230.txt
 2025-10-02 21:58:39 | Dechant Robert Thomas | Officer | Shares: 6711 | Value: $265,632.78 | Percent: 0.050402% | Link: https://www.sec.gov/Archives/edgar/data/1720420/000129825525000010/0001298255-25-000010.txt
 2025-10-02 21:58:40 | Dechant Robert Thomas | Officer | Shares: 6711 | Value: $265,632.78 | Percent: 0.050402% | Link: https://www.sec.gov/Archives/edgar/data/1298255/000129825525000010/0001298255-25-000010.txt
+2025-10-02 22:20:44 | Umbrella Global Energy, S.A. | 10% Stockholder | Shares: 2000000 | Value: $10,014,800.0 | Percent: 3.630706% | Link: https://www.sec.gov/Archives/edgar/data/2010872/000197248125000232/0001972481-25-000232.txt
+2025-10-02 22:20:45 | Umbrella Global Energy, S.A. | 10% Stockholder | Shares: 2000000 | Value: $10,014,800.0 | Percent: 3.630706% | Link: https://www.sec.gov/Archives/edgar/data/1963439/000197248125000232/0001972481-25-000232.txt
+2025-10-02 22:20:46 | O'NEIL PATRICK R. | Officer | Shares: 78105 | Value: $5,286,865.0 | Percent: 0.049002% | Link: https://www.sec.gov/Archives/edgar/data/1564926/000197248125000231/0001972481-25-000231.txt
+2025-10-02 22:20:47 | O'NEIL PATRICK R. | Officer | Shares: 78105 | Value: $5,286,865.0 | Percent: 0.049002% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000231/0001972481-25-000231.txt
+2025-10-02 22:20:48 | Bonny Simi | Officer | Shares: 8272 | Value: $138,789.13 | Percent: 0.000966% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000552/0001819848-25-000552.txt
+2025-10-02 22:20:49 | Bonny Simi | Officer | Shares: 8272 | Value: $138,789.13 | Percent: 0.000966% | Link: https://www.sec.gov/Archives/edgar/data/1703083/000181984825000552/0001819848-25-000552.txt
+2025-10-02 22:20:50 | Didier Papadopoulos | Officer | Shares: 15439 | Value: $259,038.37 | Percent: 0.001804% | Link: https://www.sec.gov/Archives/edgar/data/1877717/000181984825000551/0001819848-25-000551.txt
+2025-10-02 22:20:51 | Didier Papadopoulos | Officer | Shares: 15439 | Value: $259,038.37 | Percent: 0.001804% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000551/0001819848-25-000551.txt
+2025-10-02 22:20:52 | Katherine DeHoff | Officer | Shares: 13789 | Value: $231,354.37 | Percent: 0.001611% | Link: https://www.sec.gov/Archives/edgar/data/1877282/000181984825000550/0001819848-25-000550.txt
+2025-10-02 22:20:53 | Katherine DeHoff | Officer | Shares: 13789 | Value: $231,354.37 | Percent: 0.001611% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000550/0001819848-25-000550.txt
