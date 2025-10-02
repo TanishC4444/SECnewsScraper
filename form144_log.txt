@@ -4554,3 +4554,7 @@
 2025-10-02 14:13:58 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,866,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006266/0001959173-25-006266.txt
 2025-10-02 14:34:38 | Schwab-Pomerantz Carolyn | Director | Shares: 24000 | Value: $2,219,393.0 | Percent: 0.001322% | Link: https://www.sec.gov/Archives/edgar/data/1950787/000194984625000517/0001949846-25-000517.txt
 2025-10-02 14:34:39 | Schwab-Pomerantz Carolyn | Director | Shares: 24000 | Value: $2,219,393.0 | Percent: 0.001322% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000517/0001949846-25-000517.txt
+2025-10-02 15:17:39 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/2075167/000162828025043557/0001628280-25-043557.txt
+2025-10-02 15:17:40 | ROBERT SCHILLING | OFFICER | Shares: 470420 | Value: $8,133,514.76 | Percent: 0.350146% | Link: https://www.sec.gov/Archives/edgar/data/1577526/000162828025043557/0001628280-25-043557.txt
+2025-10-02 15:17:41 | McKay Christopher J. | Officer | Shares: 9030 | Value: $101,226.3 | Percent: 0.031843% | Link: https://www.sec.gov/Archives/edgar/data/1874705/000195917325006273/0001959173-25-006273.txt
+2025-10-02 15:17:42 | McKay Christopher J. | Officer | Shares: 9030 | Value: $101,226.3 | Percent: 0.031843% | Link: https://www.sec.gov/Archives/edgar/data/1818502/000195917325006273/0001959173-25-006273.txt
