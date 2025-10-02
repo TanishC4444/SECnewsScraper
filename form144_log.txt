@@ -4612,3 +4612,5 @@
 2025-10-02 20:50:05 | Todd Franklin Watanabe | Officer | Shares: 20739 | Value: $415,574.0 | Percent: 0.017296% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025043769/0001628280-25-043769.txt
 2025-10-02 20:50:07 | Lee Kevin | Officer | Shares: 5958 | Value: $50,061.0 | Percent: 0.011947% | Link: https://www.sec.gov/Archives/edgar/data/1776938/000197248125000225/0001972481-25-000225.txt
 2025-10-02 20:50:08 | Lee Kevin | Officer | Shares: 5958 | Value: $50,061.0 | Percent: 0.011947% | Link: https://www.sec.gov/Archives/edgar/data/1761612/000197248125000225/0001972481-25-000225.txt
+2025-10-02 20:59:15 | Levy Adam R. | Officer | Shares: 16000 | Value: $40,000.0 | Percent: 0.198325% | Link: https://www.sec.gov/Archives/edgar/data/1794090/000194984625000519/0001949846-25-000519.txt
+2025-10-02 20:59:16 | Levy Adam R. | Officer | Shares: 16000 | Value: $40,000.0 | Percent: 0.198325% | Link: https://www.sec.gov/Archives/edgar/data/1468929/000194984625000519/0001949846-25-000519.txt
