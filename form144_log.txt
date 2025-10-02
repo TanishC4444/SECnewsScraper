@@ -4546,3 +4546,5 @@
 2025-10-02 02:24:38 | Freiha Selim | Former Chief Financial Officer | Shares: 899530 | Value: $7,376,146.0 | Percent: 0.121211% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000204215125000002/0002042151-25-000002.txt
 2025-10-02 10:44:19 | Econovation, LLC | Shareholder | Shares: 3912000 | Value: $352,823,280.0 | Percent: 1.671809% | Link: https://www.sec.gov/Archives/edgar/data/1966119/000182965525000025/0001829655-25-000025.txt
 2025-10-02 10:44:20 | Econovation, LLC | Shareholder | Shares: 3912000 | Value: $352,823,280.0 | Percent: 1.671809% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000182965525000025/0001829655-25-000025.txt
+2025-10-02 13:31:47 | NORRIS ELWOOD G | 10% Stockholder | Shares: 794455 | Value: $1,859,024.7 | Percent: 1.563251% | Link: https://www.sec.gov/Archives/edgar/data/1702924/000194984625000516/0001949846-25-000516.txt
+2025-10-02 13:31:48 | NORRIS ELWOOD G | 10% Stockholder | Shares: 794455 | Value: $1,859,024.7 | Percent: 1.563251% | Link: https://www.sec.gov/Archives/edgar/data/1239811/000194984625000516/0001949846-25-000516.txt
