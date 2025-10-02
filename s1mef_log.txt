@@ -19,3 +19,4 @@
 2025-09-26 10:27:18 | American Exceptionalism Acquisition Corp. A | BATCH EMAIL
 2025-10-01 12:52:19 | Alaska Silver Corp. | BATCH EMAIL
 2025-10-01 13:22:39 | PALISADE BIO, INC. | BATCH EMAIL
+2025-10-02 02:24:40 | Commercial Bancgroup, Inc. | BATCH EMAIL
