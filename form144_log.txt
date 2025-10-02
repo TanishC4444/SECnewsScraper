@@ -4604,3 +4604,11 @@
 2025-10-02 20:40:31 | Kaufman Matthew D | Officer | Shares: 6000 | Value: $810,210.0 | Percent: 0.000930% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000192109425001228/0001921094-25-001228.txt
 2025-10-02 20:40:33 | Vassil Jonathan | Officer | Shares: 6530 | Value: $232,231.62 | Percent: 0.001280% | Link: https://www.sec.gov/Archives/edgar/data/2004790/000195917325006314/0001959173-25-006314.txt
 2025-10-02 20:40:34 | Vassil Jonathan | Officer | Shares: 6530 | Value: $232,231.62 | Percent: 0.001280% | Link: https://www.sec.gov/Archives/edgar/data/1650164/000195917325006314/0001959173-25-006314.txt
+2025-10-02 20:49:56 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,199,272.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001230/0001921094-25-001230.txt
+2025-10-02 20:49:57 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,199,272.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001230/0001921094-25-001230.txt
+2025-10-02 20:49:59 | RAJIV RAMASWAMI | Officer | Shares: 144707 | Value: $11,059,204.05 | Percent: 0.053834% | Link: https://www.sec.gov/Archives/edgar/data/1618732/000195004725007714/0001950047-25-007714.txt
+2025-10-02 20:50:01 | RAJIV RAMASWAMI | Officer | Shares: 144707 | Value: $11,059,204.05 | Percent: 0.053834% | Link: https://www.sec.gov/Archives/edgar/data/1483009/000195004725007714/0001950047-25-007714.txt
+2025-10-02 20:50:03 | Todd Franklin Watanabe | Officer | Shares: 20739 | Value: $415,574.0 | Percent: 0.017296% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000162828025043769/0001628280-25-043769.txt
+2025-10-02 20:50:05 | Todd Franklin Watanabe | Officer | Shares: 20739 | Value: $415,574.0 | Percent: 0.017296% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025043769/0001628280-25-043769.txt
+2025-10-02 20:50:07 | Lee Kevin | Officer | Shares: 5958 | Value: $50,061.0 | Percent: 0.011947% | Link: https://www.sec.gov/Archives/edgar/data/1776938/000197248125000225/0001972481-25-000225.txt
+2025-10-02 20:50:08 | Lee Kevin | Officer | Shares: 5958 | Value: $50,061.0 | Percent: 0.011947% | Link: https://www.sec.gov/Archives/edgar/data/1761612/000197248125000225/0001972481-25-000225.txt
