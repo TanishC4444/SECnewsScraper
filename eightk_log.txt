@@ -5718,3 +5718,6 @@
 2025-10-02 13:31:42 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-10-02T09:14:40-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000159/0001788230-25-000159.txt
 2025-10-02 13:31:44 | 8-K - Tesla, Inc. (0001318605) (Filer) | 2025-10-02T09:04:54-04:00 | https://www.sec.gov/Archives/edgar/data/1318605/000162828025043530/0001628280-25-043530.txt
 2025-10-02 13:31:45 | 8-K - CoreWeave, Inc. (0001769628) (Filer) | 2025-10-02T09:00:58-04:00 | https://www.sec.gov/Archives/edgar/data/1769628/000119312525227562/0001193125-25-227562.txt
+2025-10-02 14:13:52 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-02T10:10:14-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525227629/0001193125-25-227629.txt
+2025-10-02 14:13:54 | 8-K - WESBANCO INC (0000203596) (Filer) | 2025-10-02T10:04:40-04:00 | https://www.sec.gov/Archives/edgar/data/203596/000119312525227626/0001193125-25-227626.txt
+2025-10-02 14:13:56 | 8-K - COPT DEFENSE PROPERTIES (0000860546) (Filer) | 2025-10-02T10:01:52-04:00 | https://www.sec.gov/Archives/edgar/data/860546/000110465925095906/0001104659-25-095906.txt
