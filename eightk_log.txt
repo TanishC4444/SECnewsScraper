@@ -5772,3 +5772,5 @@
 2025-10-02 21:21:02 | 8-K - Angel Oak Financial Strategies Income Term Trust (0001745059) (Filer) | 2025-10-02T17:07:27-04:00 | https://www.sec.gov/Archives/edgar/data/1745059/000089418925010675/0000894189-25-010675.txt
 2025-10-02 21:21:04 | 8-K - RYVYL Inc. (0001419275) (Filer) | 2025-10-02T17:07:03-04:00 | https://www.sec.gov/Archives/edgar/data/1419275/000118518525001369/0001185185-25-001369.txt
 2025-10-02 21:21:07 | 8-K - Interactive Strength, Inc. (0001785056) (Filer) | 2025-10-02T17:04:57-04:00 | https://www.sec.gov/Archives/edgar/data/1785056/000119312525228627/0001193125-25-228627.txt
+2025-10-02 21:29:57 | 8-K - Bit Digital, Inc (0001710350) (Filer) | 2025-10-02T17:23:05-04:00 | https://www.sec.gov/Archives/edgar/data/1710350/000121390025095533/0001213900-25-095533.txt
+2025-10-02 21:29:57 | 8-K - Antares Private Credit Fund (0001976336) (Filer) | 2025-10-02T17:21:33-04:00 | https://www.sec.gov/Archives/edgar/data/1976336/000119312525228660/0001193125-25-228660.txt
