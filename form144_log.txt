@@ -4614,3 +4614,5 @@
 2025-10-02 20:50:08 | Lee Kevin | Officer | Shares: 5958 | Value: $50,061.0 | Percent: 0.011947% | Link: https://www.sec.gov/Archives/edgar/data/1761612/000197248125000225/0001972481-25-000225.txt
 2025-10-02 20:59:15 | Levy Adam R. | Officer | Shares: 16000 | Value: $40,000.0 | Percent: 0.198325% | Link: https://www.sec.gov/Archives/edgar/data/1794090/000194984625000519/0001949846-25-000519.txt
 2025-10-02 20:59:16 | Levy Adam R. | Officer | Shares: 16000 | Value: $40,000.0 | Percent: 0.198325% | Link: https://www.sec.gov/Archives/edgar/data/1468929/000194984625000519/0001949846-25-000519.txt
+2025-10-02 21:21:12 | Zachary Bradford | Former Affiliate | Shares: 582797 | Value: $8,503,008.0 | Percent: 0.207340% | Link: https://www.sec.gov/Archives/edgar/data/1625557/000196858225000977/0001968582-25-000977.txt
+2025-10-02 21:21:13 | Zachary Bradford | Former Affiliate | Shares: 582797 | Value: $8,503,008.0 | Percent: 0.207340% | Link: https://www.sec.gov/Archives/edgar/data/827876/000196858225000977/0001968582-25-000977.txt
