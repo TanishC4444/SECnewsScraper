@@ -4616,3 +4616,5 @@
 2025-10-02 20:59:16 | Levy Adam R. | Officer | Shares: 16000 | Value: $40,000.0 | Percent: 0.198325% | Link: https://www.sec.gov/Archives/edgar/data/1468929/000194984625000519/0001949846-25-000519.txt
 2025-10-02 21:21:12 | Zachary Bradford | Former Affiliate | Shares: 582797 | Value: $8,503,008.0 | Percent: 0.207340% | Link: https://www.sec.gov/Archives/edgar/data/1625557/000196858225000977/0001968582-25-000977.txt
 2025-10-02 21:21:13 | Zachary Bradford | Former Affiliate | Shares: 582797 | Value: $8,503,008.0 | Percent: 0.207340% | Link: https://www.sec.gov/Archives/edgar/data/827876/000196858225000977/0001968582-25-000977.txt
+2025-10-02 21:39:53 | Faddis Jonathan | Officer | Shares: 14595 | Value: $4,378,500.0 | Percent: 0.008904% | Link: https://www.sec.gov/Archives/edgar/data/1502670/000196430625000370/0001964306-25-000370.txt
+2025-10-02 21:39:53 | Faddis Jonathan | Officer | Shares: 14595 | Value: $4,378,500.0 | Percent: 0.008904% | Link: https://www.sec.gov/Archives/edgar/data/1393052/000196430625000370/0001964306-25-000370.txt
