@@ -5683,3 +5683,5 @@
 2025-10-02 10:09:33 | 8-K - Hartman vREIT XXI, Inc. (0001654948) (Filer) | 2025-10-01T19:38:01-04:00 | https://www.sec.gov/Archives/edgar/data/1654948/000165494825000026/0001654948-25-000026.txt
 2025-10-02 10:32:29 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-10-02T06:30:28-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000095010325012712/0000950103-25-012712.txt
 2025-10-02 10:32:31 | 8-K - UMH PROPERTIES, INC. (0000752642) (Filer) | 2025-10-02T06:24:02-04:00 | https://www.sec.gov/Archives/edgar/data/752642/000149315225016588/0001493152-25-016588.txt
+2025-10-02 10:53:27 | 8-K - Brookdale Senior Living Inc. (0001332349) (Filer) | 2025-10-02T06:48:48-04:00 | https://www.sec.gov/Archives/edgar/data/1332349/000133234925000136/0001332349-25-000136.txt
+2025-10-02 10:53:29 | 8-K - Avery Dennison Corp (0000008818) (Filer) | 2025-10-02T06:45:56-04:00 | https://www.sec.gov/Archives/edgar/data/8818/000000881825000045/0000008818-25-000045.txt
