@@ -20,3 +20,4 @@
 2025-10-01 12:52:19 | Alaska Silver Corp. | BATCH EMAIL
 2025-10-01 13:22:39 | PALISADE BIO, INC. | BATCH EMAIL
 2025-10-02 02:24:40 | Commercial Bancgroup, Inc. | BATCH EMAIL
+2025-10-02 18:54:11 | AI Infrastructure Acquisition Corp. | BATCH EMAIL

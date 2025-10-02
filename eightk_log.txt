@@ -5733,3 +5733,4 @@
 2025-10-02 18:25:22 | 8-K - Stone Point Credit Corp (0001825384) (Filer) | 2025-10-02T14:16:27-04:00 | https://www.sec.gov/Archives/edgar/data/1825384/000110465925096004/0001104659-25-096004.txt
 2025-10-02 18:25:22 | 8-K - Turn Therapeutics Inc. (0002023016) (Filer) | 2025-10-02T14:15:51-04:00 | https://www.sec.gov/Archives/edgar/data/2023016/000110465925096003/0001104659-25-096003.txt
 2025-10-02 18:44:55 | 8-K - HEALTHY EXTRACTS INC. (0001630176) (Filer) | 2025-10-02T14:25:59-04:00 | https://www.sec.gov/Archives/edgar/data/1630176/000109690625001627/0001096906-25-001627.txt
+2025-10-02 18:54:06 | 8-K/A - Pennant Group, Inc. (0001766400) (Filer) | 2025-10-02T14:52:16-04:00 | https://www.sec.gov/Archives/edgar/data/1766400/000176640025000116/0001766400-25-000116.txt
