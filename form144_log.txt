@@ -4578,3 +4578,5 @@
 2025-10-02 18:25:25 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,394,448.45 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000162828025043631/0001628280-25-043631.txt
 2025-10-02 18:25:26 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,361,025.77 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006285/0001959173-25-006285.txt
 2025-10-02 18:25:27 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,361,025.77 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006285/0001959173-25-006285.txt
+2025-10-02 18:44:58 | Lloyd Bardswich | DIRECTOR | Shares: 40000 | Value: $245,000.0 | Percent: 0.033134% | Link: https://www.sec.gov/Archives/edgar/data/1399729/000165495425011395/0001654954-25-011395.txt
+2025-10-02 18:44:59 | Lloyd Bardswich | DIRECTOR | Shares: 40000 | Value: $245,000.0 | Percent: 0.033134% | Link: https://www.sec.gov/Archives/edgar/data/101538/000165495425011395/0001654954-25-011395.txt
