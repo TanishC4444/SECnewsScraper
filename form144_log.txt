@@ -4570,3 +4570,7 @@
 2025-10-02 16:42:00 | Laila Partridge | Officer | Shares: 10000 | Value: $40,000.0 | Percent: 0.007726% | Link: https://www.sec.gov/Archives/edgar/data/1325964/000196922325000819/0001969223-25-000819.txt
 2025-10-02 16:42:01 | Ronald Bucchi | Officer | Shares: 10000 | Value: $39,900.0 | Percent: 0.007726% | Link: https://www.sec.gov/Archives/edgar/data/1523014/000196922325000818/0001969223-25-000818.txt
 2025-10-02 16:42:02 | Ronald Bucchi | Officer | Shares: 10000 | Value: $39,900.0 | Percent: 0.007726% | Link: https://www.sec.gov/Archives/edgar/data/1325964/000196922325000818/0001969223-25-000818.txt
+2025-10-02 17:56:24 | MCCONNELL RICK M | Officer | Shares: 90000 | Value: $4,350,000.0 | Percent: 0.029850% | Link: https://www.sec.gov/Archives/edgar/data/1773383/000194984625000518/0001949846-25-000518.txt
+2025-10-02 17:56:25 | MCCONNELL RICK M | Officer | Shares: 90000 | Value: $4,350,000.0 | Percent: 0.029850% | Link: https://www.sec.gov/Archives/edgar/data/1239165/000194984625000518/0001949846-25-000518.txt
+2025-10-02 17:56:28 | Paladino Mary | Director | Shares: 42750 | Value: $1,026,000.0 | Percent: 0.072452% | Link: https://www.sec.gov/Archives/edgar/data/1790493/000195917325006281/0001959173-25-006281.txt
+2025-10-02 17:56:29 | Paladino Mary | Director | Shares: 42750 | Value: $1,026,000.0 | Percent: 0.072452% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325006281/0001959173-25-006281.txt
