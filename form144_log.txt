@@ -4544,3 +4544,5 @@
 2025-10-01 23:54:40 | RYAN MCINERNEY | OFFICER | Shares: 10485 | Value: $3,588,966.47 | Percent: 0.000617% | Link: https://www.sec.gov/Archives/edgar/data/1403161/000162828025043517/0001628280-25-043517.txt
 2025-10-02 02:24:37 | Freiha Selim | Former Chief Financial Officer | Shares: 899530 | Value: $7,376,146.0 | Percent: 0.121211% | Link: https://www.sec.gov/Archives/edgar/data/2042151/000204215125000002/0002042151-25-000002.txt
 2025-10-02 02:24:38 | Freiha Selim | Former Chief Financial Officer | Shares: 899530 | Value: $7,376,146.0 | Percent: 0.121211% | Link: https://www.sec.gov/Archives/edgar/data/1801169/000204215125000002/0002042151-25-000002.txt
+2025-10-02 10:44:19 | Econovation, LLC | Shareholder | Shares: 3912000 | Value: $352,823,280.0 | Percent: 1.671809% | Link: https://www.sec.gov/Archives/edgar/data/1966119/000182965525000025/0001829655-25-000025.txt
+2025-10-02 10:44:20 | Econovation, LLC | Shareholder | Shares: 3912000 | Value: $352,823,280.0 | Percent: 1.671809% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000182965525000025/0001829655-25-000025.txt
