@@ -4574,3 +4574,7 @@
 2025-10-02 17:56:25 | MCCONNELL RICK M | Officer | Shares: 90000 | Value: $4,350,000.0 | Percent: 0.029850% | Link: https://www.sec.gov/Archives/edgar/data/1239165/000194984625000518/0001949846-25-000518.txt
 2025-10-02 17:56:28 | Paladino Mary | Director | Shares: 42750 | Value: $1,026,000.0 | Percent: 0.072452% | Link: https://www.sec.gov/Archives/edgar/data/1790493/000195917325006281/0001959173-25-006281.txt
 2025-10-02 17:56:29 | Paladino Mary | Director | Shares: 42750 | Value: $1,026,000.0 | Percent: 0.072452% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325006281/0001959173-25-006281.txt
+2025-10-02 18:25:24 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,394,448.45 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1834366/000162828025043631/0001628280-25-043631.txt
+2025-10-02 18:25:25 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,394,448.45 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000162828025043631/0001628280-25-043631.txt
+2025-10-02 18:25:26 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,361,025.77 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006285/0001959173-25-006285.txt
+2025-10-02 18:25:27 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,361,025.77 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006285/0001959173-25-006285.txt
