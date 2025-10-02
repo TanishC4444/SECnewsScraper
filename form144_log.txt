@@ -4552,3 +4552,5 @@
 2025-10-02 13:44:48 | First Trust Portfolios L.P. | Distributor | Shares: 15676 | Value: $414,529.87 | Percent: 1.650102% | Link: https://www.sec.gov/Archives/edgar/data/875626/000144554625006549/0001445546-25-006549.txt
 2025-10-02 14:13:57 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,866,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325006266/0001959173-25-006266.txt
 2025-10-02 14:13:58 | Dageville Benoit | Officer | Shares: 25000 | Value: $5,866,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006266/0001959173-25-006266.txt
+2025-10-02 14:34:38 | Schwab-Pomerantz Carolyn | Director | Shares: 24000 | Value: $2,219,393.0 | Percent: 0.001322% | Link: https://www.sec.gov/Archives/edgar/data/1950787/000194984625000517/0001949846-25-000517.txt
+2025-10-02 14:34:39 | Schwab-Pomerantz Carolyn | Director | Shares: 24000 | Value: $2,219,393.0 | Percent: 0.001322% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000517/0001949846-25-000517.txt
