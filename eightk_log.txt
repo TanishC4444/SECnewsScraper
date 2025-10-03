@@ -5860,3 +5860,12 @@
 2025-10-03 20:54:24 | 8-K - Twin Hospitality Group Inc. (0002011954) (Filer) | 2025-10-03T16:48:23-04:00 | https://www.sec.gov/Archives/edgar/data/2011954/000149315225016878/0001493152-25-016878.txt
 2025-10-03 20:54:27 | 8-K - Public Storage (0001393311) (Filer) | 2025-10-03T16:47:50-04:00 | https://www.sec.gov/Archives/edgar/data/1393311/000119312525230340/0001193125-25-230340.txt
 2025-10-03 20:54:29 | 8-K - CAL-MAINE FOODS INC (0000016160) (Filer) | 2025-10-03T16:45:34-04:00 | https://www.sec.gov/Archives/edgar/data/16160/000156276225000254/0001562762-25-000254.txt
+2025-10-03 21:11:16 | 8-K - Ovid Therapeutics Inc. (0001636651) (Filer) | 2025-10-03T17:09:37-04:00 | https://www.sec.gov/Archives/edgar/data/1636651/000119312525230409/0001193125-25-230409.txt
+2025-10-03 21:11:18 | 8-K - Sintx Technologies, Inc. (0001269026) (Filer) | 2025-10-03T17:07:49-04:00 | https://www.sec.gov/Archives/edgar/data/1269026/000149315225016904/0001493152-25-016904.txt
+2025-10-03 21:11:19 | 8-K - UPEXI, INC. (0001775194) (Filer) | 2025-10-03T17:05:40-04:00 | https://www.sec.gov/Archives/edgar/data/1775194/000147793225007346/0001477932-25-007346.txt
+2025-10-03 21:11:20 | 8-K - SKYX Platforms Corp. (0001598981) (Filer) | 2025-10-03T17:05:39-04:00 | https://www.sec.gov/Archives/edgar/data/1598981/000149315225016901/0001493152-25-016901.txt
+2025-10-03 21:11:22 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-03T17:04:10-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625007882/0001829126-25-007882.txt
+2025-10-03 21:11:23 | 8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer) | 2025-10-03T17:04:06-04:00 | https://www.sec.gov/Archives/edgar/data/1993004/000199300425000174/0001993004-25-000174.txt
+2025-10-03 21:11:25 | 8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer) | 2025-10-03T17:01:17-04:00 | https://www.sec.gov/Archives/edgar/data/1019034/000143774925030493/0001437749-25-030493.txt
+2025-10-03 21:11:26 | 8-K - Veritex Holdings, Inc. (0001501570) (Filer) | 2025-10-03T17:01:02-04:00 | https://www.sec.gov/Archives/edgar/data/1501570/000110465925096715/0001104659-25-096715.txt
+2025-10-03 21:11:27 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-10-03T17:01:00-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225007343/0001477932-25-007343.txt
