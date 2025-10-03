@@ -5774,3 +5774,11 @@
 2025-10-02 21:21:07 | 8-K - Interactive Strength, Inc. (0001785056) (Filer) | 2025-10-02T17:04:57-04:00 | https://www.sec.gov/Archives/edgar/data/1785056/000119312525228627/0001193125-25-228627.txt
 2025-10-02 21:29:57 | 8-K - Bit Digital, Inc (0001710350) (Filer) | 2025-10-02T17:23:05-04:00 | https://www.sec.gov/Archives/edgar/data/1710350/000121390025095533/0001213900-25-095533.txt
 2025-10-02 21:29:57 | 8-K - Antares Private Credit Fund (0001976336) (Filer) | 2025-10-02T17:21:33-04:00 | https://www.sec.gov/Archives/edgar/data/1976336/000119312525228660/0001193125-25-228660.txt
+2025-10-03 10:09:52 | 8-K - Regen BioPharma Inc (0001589150) (Filer) | 2025-10-03T06:06:02-04:00 | https://www.sec.gov/Archives/edgar/data/1589150/000149315225016767/0001493152-25-016767.txt
+2025-10-03 10:09:53 | 8-K - ESSA Pharma Inc. (0001633932) (Filer) | 2025-10-03T06:02:22-04:00 | https://www.sec.gov/Archives/edgar/data/1633932/000110465925096306/0001104659-25-096306.txt
+2025-10-03 10:09:54 | 8-K - Emeren Group Ltd (0001417892) (Filer) | 2025-10-03T06:02:12-04:00 | https://www.sec.gov/Archives/edgar/data/1417892/000110465925096305/0001104659-25-096305.txt
+2025-10-03 10:09:56 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-03T06:01:59-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015902/0001062993-25-015902.txt
+2025-10-03 10:09:58 | 8-K - SENTIENT BRANDS HOLDINGS INC. (0001358633) (Filer) | 2025-10-02T21:08:13-04:00 | https://www.sec.gov/Archives/edgar/data/1358633/000173112225001343/0001731122-25-001343.txt
+2025-10-03 10:09:59 | 8-K - urban-gro, Inc. (0001706524) (Filer) | 2025-10-02T21:07:07-04:00 | https://www.sec.gov/Archives/edgar/data/1706524/000121390025095792/0001213900-25-095792.txt
+2025-10-03 10:10:00 | 8-K/A - SENTIENT BRANDS HOLDINGS INC. (0001358633) (Filer) | 2025-10-02T21:03:12-04:00 | https://www.sec.gov/Archives/edgar/data/1358633/000173112225001341/0001731122-25-001341.txt
+2025-10-03 10:10:02 | 8-K - Onar Holding Corp (0001682265) (Filer) | 2025-10-02T20:38:20-04:00 | https://www.sec.gov/Archives/edgar/data/1682265/000147793225007324/0001477932-25-007324.txt
