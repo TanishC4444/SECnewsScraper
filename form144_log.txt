@@ -4638,3 +4638,5 @@
 2025-10-03 15:31:05 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,377,261.12 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006316/0001959173-25-006316.txt
 2025-10-03 15:31:05 | Richard Isaak | Officer | Shares: 50000 | Value: $350,000.0 | Percent: 0.041417% | Link: https://www.sec.gov/Archives/edgar/data/1398052/000162828025043951/0001628280-25-043951.txt
 2025-10-03 15:31:07 | Richard Isaak | Officer | Shares: 50000 | Value: $350,000.0 | Percent: 0.041417% | Link: https://www.sec.gov/Archives/edgar/data/101538/000162828025043951/0001628280-25-043951.txt
+2025-10-03 15:43:04 | Evanko Brian C | Officer | Shares: 5368 | Value: $1,610,400.0 | Percent: 0.002011% | Link: https://www.sec.gov/Archives/edgar/data/1739940/000195917325006317/0001959173-25-006317.txt
+2025-10-03 15:43:05 | Evanko Brian C | Officer | Shares: 5368 | Value: $1,610,400.0 | Percent: 0.002011% | Link: https://www.sec.gov/Archives/edgar/data/1722909/000195917325006317/0001959173-25-006317.txt
