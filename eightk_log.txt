@@ -5796,3 +5796,9 @@
 2025-10-03 12:26:07 | 8-K - Onconetix, Inc. (0001782107) (Filer) | 2025-10-03T08:16:13-04:00 | https://www.sec.gov/Archives/edgar/data/1782107/000121390025095847/0001213900-25-095847.txt
 2025-10-03 12:26:09 | 8-K - WNS (HOLDINGS) LTD (0001356570) (Filer) | 2025-10-03T08:08:25-04:00 | https://www.sec.gov/Archives/edgar/data/1356570/000119312525229253/0001193125-25-229253.txt
 2025-10-03 12:26:10 | 8-K - PEABODY ENERGY CORP (0001064728) (Filer) | 2025-10-03T08:00:08-04:00 | https://www.sec.gov/Archives/edgar/data/1064728/000106472825000130/0001064728-25-000130.txt
+2025-10-03 13:01:20 | 8-K - Tamboran Resources Corp (0001997652) (Filer) | 2025-10-03T08:51:35-04:00 | https://www.sec.gov/Archives/edgar/data/1997652/000162828025043923/0001628280-25-043923.txt
+2025-10-03 13:01:20 | 8-K - Starwood Credit Real Estate Income Trust (0001986395) (Filer) | 2025-10-03T08:50:13-04:00 | https://www.sec.gov/Archives/edgar/data/1986395/000119312525229280/0001193125-25-229280.txt
+2025-10-03 13:01:22 | 8-K - SS Innovations International, Inc. (0001676163) (Filer) | 2025-10-03T08:43:06-04:00 | https://www.sec.gov/Archives/edgar/data/1676163/000121390025095851/0001213900-25-095851.txt
+2025-10-03 13:01:23 | 8-K - Vivani Medical, Inc. (0001266806) (Filer) | 2025-10-03T08:41:16-04:00 | https://www.sec.gov/Archives/edgar/data/1266806/000175392625001582/0001753926-25-001582.txt
+2025-10-03 13:01:25 | 8-K - Avantor, Inc. (0001722482) (Filer) | 2025-10-03T08:35:42-04:00 | https://www.sec.gov/Archives/edgar/data/1722482/000162828025043910/0001628280-25-043910.txt
+2025-10-03 13:01:26 | 8-K - MVB FINANCIAL CORP (0001277902) (Filer) | 2025-10-03T08:31:43-04:00 | https://www.sec.gov/Archives/edgar/data/1277902/000127790225000182/0001277902-25-000182.txt
