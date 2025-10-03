@@ -5869,3 +5869,11 @@
 2025-10-03 21:11:25 | 8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer) | 2025-10-03T17:01:17-04:00 | https://www.sec.gov/Archives/edgar/data/1019034/000143774925030493/0001437749-25-030493.txt
 2025-10-03 21:11:26 | 8-K - Veritex Holdings, Inc. (0001501570) (Filer) | 2025-10-03T17:01:02-04:00 | https://www.sec.gov/Archives/edgar/data/1501570/000110465925096715/0001104659-25-096715.txt
 2025-10-03 21:11:27 | 8-K - ASP Isotopes Inc. (0001921865) (Filer) | 2025-10-03T17:01:00-04:00 | https://www.sec.gov/Archives/edgar/data/1921865/000147793225007343/0001477932-25-007343.txt
+2025-10-03 21:25:45 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-10-03T17:24:25-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000162/0001788230-25-000162.txt
+2025-10-03 21:25:46 | 8-K - XOMA Royalty Corp (0000791908) (Filer) | 2025-10-03T17:24:23-04:00 | https://www.sec.gov/Archives/edgar/data/791908/000119312525230466/0001193125-25-230466.txt
+2025-10-03 21:25:47 | 8-K - GRAN TIERRA ENERGY INC. (0001273441) (Filer) | 2025-10-03T17:24:08-04:00 | https://www.sec.gov/Archives/edgar/data/1273441/000110465925096738/0001104659-25-096738.txt
+2025-10-03 21:25:49 | 8-K - Boxlight Corp (0001624512) (Filer) | 2025-10-03T17:23:07-04:00 | https://www.sec.gov/Archives/edgar/data/1624512/000110465925096736/0001104659-25-096736.txt
+2025-10-03 21:25:50 | 8-K - Senior Credit Investments, LLC (0001959568) (Filer) | 2025-10-03T17:21:31-04:00 | https://www.sec.gov/Archives/edgar/data/1959568/000119312525230456/0001193125-25-230456.txt
+2025-10-03 21:25:51 | 8-K - Belpointe PREP, LLC (0001807046) (Filer) | 2025-10-03T17:21:09-04:00 | https://www.sec.gov/Archives/edgar/data/1807046/000149315225016912/0001493152-25-016912.txt
+2025-10-03 21:25:53 | 8-K - Microvast Holdings, Inc. (0001760689) (Filer) | 2025-10-03T17:17:36-04:00 | https://www.sec.gov/Archives/edgar/data/1760689/000094787125000881/0000947871-25-000881.txt
+2025-10-03 21:25:53 | 8-K - Jefferies Credit Partners BDC Inc. (0001959604) (Filer) | 2025-10-03T17:16:55-04:00 | https://www.sec.gov/Archives/edgar/data/1959604/000119312525230439/0001193125-25-230439.txt
