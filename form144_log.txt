@@ -4644,3 +4644,5 @@
 2025-10-03 15:52:27 | Zimmer John Patrick | Director | Shares: 2428750 | Value: $54,914,037.5 | Percent: 0.610375% | Link: https://www.sec.gov/Archives/edgar/data/1759509/000195917325006319/0001959173-25-006319.txt
 2025-10-03 16:11:00 | Jacobson Allan Steven | Director | Shares: 12000 | Value: $780,000.0 | Percent: 0.015106% | Link: https://www.sec.gov/Archives/edgar/data/1579003/000195917325006320/0001959173-25-006320.txt
 2025-10-03 16:11:02 | Jacobson Allan Steven | Director | Shares: 12000 | Value: $780,000.0 | Percent: 0.015106% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325006320/0001959173-25-006320.txt
+2025-10-03 16:49:25 | Sieving Charles E | Officer | Shares: 11336 | Value: $906,880.0 | Percent: 0.000550% | Link: https://www.sec.gov/Archives/edgar/data/1390019/000195917325006322/0001959173-25-006322.txt
+2025-10-03 16:49:26 | Sieving Charles E | Officer | Shares: 11336 | Value: $906,880.0 | Percent: 0.000550% | Link: https://www.sec.gov/Archives/edgar/data/753308/000195917325006322/0001959173-25-006322.txt
