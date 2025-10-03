@@ -4632,3 +4632,5 @@
 2025-10-02 22:20:51 | Didier Papadopoulos | Officer | Shares: 15439 | Value: $259,038.37 | Percent: 0.001804% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000551/0001819848-25-000551.txt
 2025-10-02 22:20:52 | Katherine DeHoff | Officer | Shares: 13789 | Value: $231,354.37 | Percent: 0.001611% | Link: https://www.sec.gov/Archives/edgar/data/1877282/000181984825000550/0001819848-25-000550.txt
 2025-10-02 22:20:53 | Katherine DeHoff | Officer | Shares: 13789 | Value: $231,354.37 | Percent: 0.001611% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000550/0001819848-25-000550.txt
+2025-10-03 01:05:13 | Catherine Spear | Director | Shares: 62213 | Value: $428,082.18 | Percent: 0.040140% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025043887/0001628280-25-043887.txt
+2025-10-03 01:05:14 | Catherine Spear | Director | Shares: 62213 | Value: $428,082.18 | Percent: 0.040140% | Link: https://www.sec.gov/Archives/edgar/data/1820448/000162828025043887/0001628280-25-043887.txt
