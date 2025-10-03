@@ -4666,3 +4666,11 @@
 2025-10-03 20:45:08 | Boulding Mark Elliott | Officer | Shares: 22655 | Value: $1,491,104.96 | Percent: 0.028519% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325006337/0001959173-25-006337.txt
 2025-10-03 20:45:10 | DIDIER PAPADOPOULOS | Officer | Shares: 5102 | Value: $90,815.6 | Percent: 0.000596% | Link: https://www.sec.gov/Archives/edgar/data/1877717/000195004725007756/0001950047-25-007756.txt
 2025-10-03 20:45:11 | DIDIER PAPADOPOULOS | Officer | Shares: 5102 | Value: $90,815.6 | Percent: 0.000596% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000195004725007756/0001950047-25-007756.txt
+2025-10-03 20:54:32 | Zimmer John Patrick | Director | Shares: 2190000 | Value: $48,158,100.0 | Percent: 0.550375% | Link: https://www.sec.gov/Archives/edgar/data/1766269/000195917325006341/0001959173-25-006341.txt
+2025-10-03 20:54:33 | Zimmer John Patrick | Director | Shares: 2190000 | Value: $48,158,100.0 | Percent: 0.550375% | Link: https://www.sec.gov/Archives/edgar/data/1759509/000195917325006341/0001959173-25-006341.txt
+2025-10-03 20:54:35 | Badawi David | Officer | Shares: 6033 | Value: $19,745.41 | Percent: 0.011521% | Link: https://www.sec.gov/Archives/edgar/data/1870825/000195917325006340/0001959173-25-006340.txt
+2025-10-03 20:54:36 | Badawi David | Officer | Shares: 6033 | Value: $19,745.41 | Percent: 0.011521% | Link: https://www.sec.gov/Archives/edgar/data/1531177/000195917325006340/0001959173-25-006340.txt
+2025-10-03 20:54:39 | ERIC SMIT | Officer | Shares: 15000 | Value: $150,000.0 | Percent: 0.055830% | Link: https://www.sec.gov/Archives/edgar/data/1259393/000195004725007758/0001950047-25-007758.txt
+2025-10-03 20:54:40 | ERIC SMIT | Officer | Shares: 15000 | Value: $150,000.0 | Percent: 0.055830% | Link: https://www.sec.gov/Archives/edgar/data/1066194/000195004725007758/0001950047-25-007758.txt
+2025-10-03 20:54:42 | Utzschneider Lisa | Officer | Shares: 17267 | Value: $176,019.8 | Percent: 0.010392% | Link: https://www.sec.gov/Archives/edgar/data/1842718/000195917325006339/0001959173-25-006339.txt
+2025-10-03 20:54:43 | Utzschneider Lisa | Officer | Shares: 17267 | Value: $176,019.8 | Percent: 0.010392% | Link: https://www.sec.gov/Archives/edgar/data/1651659/000195917325006339/0001959173-25-006339.txt

@@ -5853,3 +5853,10 @@
 2025-10-03 20:44:56 | 8-K - electroCore, Inc. (0001560258) (Filer) | 2025-10-03T16:37:09-04:00 | https://www.sec.gov/Archives/edgar/data/1560258/000149315225016869/0001493152-25-016869.txt
 2025-10-03 20:44:57 | 8-K - Principal Credit Real Estate Income Trust (0002026448) (Filer) | 2025-10-03T16:36:28-04:00 | https://www.sec.gov/Archives/edgar/data/2026448/000202644825000079/0002026448-25-000079.txt
 2025-10-03 20:44:58 | 8-K - ZimVie Inc. (0001876588) (Filer) | 2025-10-03T16:34:16-04:00 | https://www.sec.gov/Archives/edgar/data/1876588/000119312525230313/0001193125-25-230313.txt
+2025-10-03 20:54:17 | 8-K - American Exceptionalism Acquisition Corp. A (0002079173) (Filer) | 2025-10-03T16:53:45-04:00 | https://www.sec.gov/Archives/edgar/data/2079173/000119312525230351/0001193125-25-230351.txt
+2025-10-03 20:54:20 | 8-K - HALOZYME THERAPEUTICS, INC. (0001159036) (Filer) | 2025-10-03T16:51:54-04:00 | https://www.sec.gov/Archives/edgar/data/1159036/000119312525230348/0001193125-25-230348.txt
+2025-10-03 20:54:22 | 8-K - Scienture Holdings, Inc. (0001382574) (Filer) | 2025-10-03T16:50:37-04:00 | https://www.sec.gov/Archives/edgar/data/1382574/000149315225016882/0001493152-25-016882.txt
+2025-10-03 20:54:22 | 8-K - ISQ Open Infrastructure Co LLC (0002059924) (Filer) | 2025-10-03T16:49:45-04:00 | https://www.sec.gov/Archives/edgar/data/2059924/000121390025096163/0001213900-25-096163.txt
+2025-10-03 20:54:24 | 8-K - Twin Hospitality Group Inc. (0002011954) (Filer) | 2025-10-03T16:48:23-04:00 | https://www.sec.gov/Archives/edgar/data/2011954/000149315225016878/0001493152-25-016878.txt
+2025-10-03 20:54:27 | 8-K - Public Storage (0001393311) (Filer) | 2025-10-03T16:47:50-04:00 | https://www.sec.gov/Archives/edgar/data/1393311/000119312525230340/0001193125-25-230340.txt
+2025-10-03 20:54:29 | 8-K - CAL-MAINE FOODS INC (0000016160) (Filer) | 2025-10-03T16:45:34-04:00 | https://www.sec.gov/Archives/edgar/data/16160/000156276225000254/0001562762-25-000254.txt
