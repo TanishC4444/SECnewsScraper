@@ -4678,3 +4678,5 @@
 2025-10-03 21:11:30 | Delfini Lisa | Officer | Shares: 40000 | Value: $386,716.0 | Percent: 0.032847% | Link: https://www.sec.gov/Archives/edgar/data/1563880/000197248125000235/0001972481-25-000235.txt
 2025-10-03 21:25:54 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,989,935.93 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000197325125000079/0001973251-25-000079.txt
 2025-10-03 21:25:55 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,989,935.93 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000079/0001973251-25-000079.txt
+2025-10-03 21:54:35 | SCOTT FITZGERALD | Officer | Shares: 62598 | Value: $2,470,123.34 | Percent: 0.076227% | Link: https://www.sec.gov/Archives/edgar/data/1821111/000195004725007760/0001950047-25-007760.txt
+2025-10-03 21:54:36 | SCOTT FITZGERALD | Officer | Shares: 62598 | Value: $2,470,123.34 | Percent: 0.076227% | Link: https://www.sec.gov/Archives/edgar/data/1565687/000195004725007760/0001950047-25-007760.txt
