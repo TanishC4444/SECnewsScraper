@@ -5813,3 +5813,4 @@
 2025-10-03 15:13:43 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-10-03T11:03:40-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000030/0002035428-25-000030.txt
 2025-10-03 15:31:01 | 8-K - XBiotech Inc. (0001626878) (Filer) | 2025-10-03T11:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1626878/000117184325006266/0001171843-25-006266.txt
 2025-10-03 16:10:58 | 8-K - VIP Play, Inc. (0001832161) (Filer) | 2025-10-03T12:09:31-04:00 | https://www.sec.gov/Archives/edgar/data/1832161/000149315225016796/0001493152-25-016796.txt
+2025-10-03 16:35:30 | 8-K - Kennedy Lewis Capital Co (0001911321) (Filer) | 2025-10-03T12:24:18-04:00 | https://www.sec.gov/Archives/edgar/data/1911321/000191132125000008/0001911321-25-000008.txt
