@@ -5792,3 +5792,4 @@
 2025-10-03 11:36:08 | 8-K - Fermi Inc. (0002071778) (Filer) | 2025-10-03T07:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/2071778/000121390025095832/0001213900-25-095832.txt
 2025-10-03 11:36:10 | 8-K - Good Times Restaurants Inc. (0000825324) (Filer) | 2025-10-03T07:30:35-04:00 | https://www.sec.gov/Archives/edgar/data/825324/000121465925014561/0001214659-25-014561.txt
 2025-10-03 11:36:11 | 8-K - Xilio Therapeutics, Inc. (0001840233) (Filer) | 2025-10-03T07:30:14-04:00 | https://www.sec.gov/Archives/edgar/data/1840233/000119312525229231/0001193125-25-229231.txt
+2025-10-03 11:54:12 | 8-K - PITNEY BOWES INC /DE/ (0000078814) (Filer) | 2025-10-03T07:45:51-04:00 | https://www.sec.gov/Archives/edgar/data/78814/000162828025043900/0001628280-25-043900.txt
