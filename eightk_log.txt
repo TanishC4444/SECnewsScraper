@@ -5821,3 +5821,4 @@
 2025-10-03 18:35:37 | 8-K - WAFD INC (0000936528) (Filer) | 2025-10-03T14:17:28-04:00 | https://www.sec.gov/Archives/edgar/data/936528/000093652825000102/0000936528-25-000102.txt
 2025-10-03 19:18:13 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-10-03T15:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525229897/0001193125-25-229897.txt
 2025-10-03 19:27:15 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-10-03T15:23:36-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425011443/0001654954-25-011443.txt
+2025-10-03 19:37:49 | 8-K - Sculptor Diversified Real Estate Income Trust, Inc. (0001914496) (Filer) | 2025-10-03T15:33:04-04:00 | https://www.sec.gov/Archives/edgar/data/1914496/000191449625000117/0001914496-25-000117.txt
