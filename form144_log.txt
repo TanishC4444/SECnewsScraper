@@ -4634,3 +4634,7 @@
 2025-10-02 22:20:53 | Katherine DeHoff | Officer | Shares: 13789 | Value: $231,354.37 | Percent: 0.001611% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000181984825000550/0001819848-25-000550.txt
 2025-10-03 01:05:13 | Catherine Spear | Director | Shares: 62213 | Value: $428,082.18 | Percent: 0.040140% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025043887/0001628280-25-043887.txt
 2025-10-03 01:05:14 | Catherine Spear | Director | Shares: 62213 | Value: $428,082.18 | Percent: 0.040140% | Link: https://www.sec.gov/Archives/edgar/data/1820448/000162828025043887/0001628280-25-043887.txt
+2025-10-03 15:31:04 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,377,261.12 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006316/0001959173-25-006316.txt
+2025-10-03 15:31:05 | BURKE JAMES A | Officer | Shares: 21371 | Value: $4,377,261.12 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006316/0001959173-25-006316.txt
+2025-10-03 15:31:05 | Richard Isaak | Officer | Shares: 50000 | Value: $350,000.0 | Percent: 0.041417% | Link: https://www.sec.gov/Archives/edgar/data/1398052/000162828025043951/0001628280-25-043951.txt
+2025-10-03 15:31:07 | Richard Isaak | Officer | Shares: 50000 | Value: $350,000.0 | Percent: 0.041417% | Link: https://www.sec.gov/Archives/edgar/data/101538/000162828025043951/0001628280-25-043951.txt
