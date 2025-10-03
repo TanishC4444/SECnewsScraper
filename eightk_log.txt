@@ -5806,3 +5806,5 @@
 2025-10-03 13:32:25 | 8-K - GrabAGun Digital Holdings Inc. (0002051380) (Filer) | 2025-10-03T09:24:03-04:00 | https://www.sec.gov/Archives/edgar/data/2051380/000121390025095859/0001213900-25-095859.txt
 2025-10-03 13:32:26 | 8-K - TruBridge, Inc. (0001169445) (Filer) | 2025-10-03T09:15:19-04:00 | https://www.sec.gov/Archives/edgar/data/1169445/000119312525229309/0001193125-25-229309.txt
 2025-10-03 13:32:28 | 8-K - Athira Pharma, Inc. (0001620463) (Filer) | 2025-10-03T09:11:18-04:00 | https://www.sec.gov/Archives/edgar/data/1620463/000119312525229293/0001193125-25-229293.txt
+2025-10-03 13:44:32 | 8-K - ASIAFIN HOLDINGS CORP. (0001828748) (Filer) | 2025-10-03T09:43:59-04:00 | https://www.sec.gov/Archives/edgar/data/1828748/000149315225016793/0001493152-25-016793.txt
+2025-10-03 13:44:33 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-10-03T09:41:23-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025095870/0001213900-25-095870.txt
