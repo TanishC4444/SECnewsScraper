@@ -5819,3 +5819,4 @@
 2025-10-03 18:35:35 | 8-K - Diameter Credit Co (0001916099) (Filer) | 2025-10-03T14:22:00-04:00 | https://www.sec.gov/Archives/edgar/data/1916099/000119312525229819/0001193125-25-229819.txt
 2025-10-03 18:35:35 | 8-K - Alphega Innovations Corp (0002038564) (Filer) | 2025-10-03T14:21:36-04:00 | https://www.sec.gov/Archives/edgar/data/2038564/000203856425000005/0002038564-25-000005.txt
 2025-10-03 18:35:37 | 8-K - WAFD INC (0000936528) (Filer) | 2025-10-03T14:17:28-04:00 | https://www.sec.gov/Archives/edgar/data/936528/000093652825000102/0000936528-25-000102.txt
+2025-10-03 19:18:13 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-10-03T15:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525229897/0001193125-25-229897.txt
