@@ -4680,3 +4680,7 @@
 2025-10-03 21:25:55 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $11,989,935.93 | Percent: 0.015371% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000079/0001973251-25-000079.txt
 2025-10-03 21:54:35 | SCOTT FITZGERALD | Officer | Shares: 62598 | Value: $2,470,123.34 | Percent: 0.076227% | Link: https://www.sec.gov/Archives/edgar/data/1821111/000195004725007760/0001950047-25-007760.txt
 2025-10-03 21:54:36 | SCOTT FITZGERALD | Officer | Shares: 62598 | Value: $2,470,123.34 | Percent: 0.076227% | Link: https://www.sec.gov/Archives/edgar/data/1565687/000195004725007760/0001950047-25-007760.txt
+2025-10-03 22:41:06 | Adler Nelya | Member of immediate family of any of the foregoing | Shares: 499118 | Value: $2,000.0 | Percent: 0.584295% | Link: https://www.sec.gov/Archives/edgar/data/2089397/000208939725000001/0002089397-25-000001.txt
+2025-10-03 22:41:08 | Adler Nelya | Member of immediate family of any of the foregoing | Shares: 499118 | Value: $2,000.0 | Percent: 0.584295% | Link: https://www.sec.gov/Archives/edgar/data/1725911/000208939725000001/0002089397-25-000001.txt
+2025-10-03 22:41:10 | Sarah Oughtred | Officer | Shares: 9968 | Value: $73,364.48 | Percent: 0.006431% | Link: https://www.sec.gov/Archives/edgar/data/2029049/000162828025044188/0001628280-25-044188.txt
+2025-10-03 22:41:11 | Sarah Oughtred | Officer | Shares: 9968 | Value: $73,364.48 | Percent: 0.006431% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025044188/0001628280-25-044188.txt
