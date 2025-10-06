@@ -5915,3 +5915,4 @@
 2025-10-06 11:39:32 | 8-K - Firefly Aerospace Inc. (0001860160) (Filer) | 2025-10-06T07:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/1860160/000119312525230927/0001193125-25-230927.txt
 2025-10-06 11:39:34 | 8-K - Maze Therapeutics, Inc. (0001842295) (Filer) | 2025-10-06T07:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1842295/000119312525230926/0001193125-25-230926.txt
 2025-10-06 11:39:37 | 8-K - Stoke Therapeutics, Inc. (0001623526) (Filer) | 2025-10-06T07:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1623526/000119312525230925/0001193125-25-230925.txt
+2025-10-06 11:48:31 | 8-K - Talen Energy Corp (0001622536) (Filer) | 2025-10-06T07:43:45-04:00 | https://www.sec.gov/Archives/edgar/data/1622536/000162253625000013/0001622536-25-000013.txt
