@@ -5973,3 +5973,13 @@
 2025-10-06 20:32:00 | 8-K - Senseonics Holdings, Inc. (0001616543) (Filer) | 2025-10-06T16:26:37-04:00 | https://www.sec.gov/Archives/edgar/data/1616543/000110465925097124/0001104659-25-097124.txt
 2025-10-06 20:32:01 | 8-K - Antares Strategic Credit Fund II LLC (0002065397) (Filer) | 2025-10-06T16:24:49-04:00 | https://www.sec.gov/Archives/edgar/data/2065397/000119312525231923/0001193125-25-231923.txt
 2025-10-06 20:32:01 | 8-K - Antares Strategic Credit Fund (0001993402) (Filer) | 2025-10-06T16:23:55-04:00 | https://www.sec.gov/Archives/edgar/data/1993402/000119312525231921/0001193125-25-231921.txt
+2025-10-06 20:44:36 | 8-K - Bright Mountain Media, Inc. (0001568385) (Filer) | 2025-10-06T16:43:32-04:00 | https://www.sec.gov/Archives/edgar/data/1568385/000149315225017092/0001493152-25-017092.txt
+2025-10-06 20:44:38 | 8-K - SEMTECH CORP (0000088941) (Filer) | 2025-10-06T16:43:14-04:00 | https://www.sec.gov/Archives/edgar/data/88941/000119312525231984/0001193125-25-231984.txt
+2025-10-06 20:44:39 | 8-K - Solaris Energy Infrastructure, Inc. (0001697500) (Filer) | 2025-10-06T16:42:32-04:00 | https://www.sec.gov/Archives/edgar/data/1697500/000119312525231980/0001193125-25-231980.txt
+2025-10-06 20:44:40 | 8-K - Owlet, Inc. (0001816708) (Filer) | 2025-10-06T16:42:28-04:00 | https://www.sec.gov/Archives/edgar/data/1816708/000181670825000040/0001816708-25-000040.txt
+2025-10-06 20:44:43 | 8-K - Entero Therapeutics, Inc. (0001604191) (Filer) | 2025-10-06T16:39:05-04:00 | https://www.sec.gov/Archives/edgar/data/1604191/000110465925097138/0001104659-25-097138.txt
+2025-10-06 20:44:44 | 8-K - cbdMD, Inc. (0001644903) (Filer) | 2025-10-06T16:39:04-04:00 | https://www.sec.gov/Archives/edgar/data/1644903/000143774925030537/0001437749-25-030537.txt
+2025-10-06 20:44:46 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-10-06T16:37:44-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000162828025044314/0001628280-25-044314.txt
+2025-10-06 20:44:47 | 8-K - CORCEPT THERAPEUTICS INC (0001088856) (Filer) | 2025-10-06T16:36:06-04:00 | https://www.sec.gov/Archives/edgar/data/1088856/000119312525231963/0001193125-25-231963.txt
+2025-10-06 20:44:50 | 8-K - AEHR TEST SYSTEMS (0001040470) (Filer) | 2025-10-06T16:35:41-04:00 | https://www.sec.gov/Archives/edgar/data/1040470/000165495425011494/0001654954-25-011494.txt
+2025-10-06 20:44:51 | 8-K - ITRON, INC. (0000780571) (Filer) | 2025-10-06T16:35:34-04:00 | https://www.sec.gov/Archives/edgar/data/780571/000117184325006299/0001171843-25-006299.txt

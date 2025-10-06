@@ -4718,3 +4718,9 @@
 2025-10-06 20:32:08 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $97,868.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1211583/000195004725007797/0001950047-25-007797.txt
 2025-10-06 20:32:11 | CHARLES COLLIER | Officer | Shares: 15404 | Value: $1,591,424.03 | Percent: 0.010455% | Link: https://www.sec.gov/Archives/edgar/data/1951665/000195004725007796/0001950047-25-007796.txt
 2025-10-06 20:32:12 | CHARLES COLLIER | Officer | Shares: 15404 | Value: $1,591,424.03 | Percent: 0.010455% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725007796/0001950047-25-007796.txt
+2025-10-06 20:44:53 | Green Paula | Officer | Shares: 9724 | Value: $312,986.38 | Percent: 0.016110% | Link: https://www.sec.gov/Archives/edgar/data/1753672/000195917325006366/0001959173-25-006366.txt
+2025-10-06 20:44:54 | Green Paula | Officer | Shares: 9724 | Value: $312,986.38 | Percent: 0.016110% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006366/0001959173-25-006366.txt
+2025-10-06 20:44:55 | Kellenberger Paul | Officer | Shares: 10852 | Value: $10,747.82 | Percent: 0.045500% | Link: https://www.sec.gov/Archives/edgar/data/2032765/000195917325006364/0001959173-25-006364.txt
+2025-10-06 20:44:57 | Kellenberger Paul | Officer | Shares: 10852 | Value: $10,747.82 | Percent: 0.045500% | Link: https://www.sec.gov/Archives/edgar/data/1637147/000195917325006364/0001959173-25-006364.txt
+2025-10-06 20:44:58 | Insight Partners (EU) XI, S.C.Sp | 10% Stockholder | Shares: 18321 | Value: $329,778.0 | Percent: 0.005641% | Link: https://www.sec.gov/Archives/edgar/data/1792450/000197407825000353/0001974078-25-000353.txt
+2025-10-06 20:44:59 | Insight Partners (EU) XI, S.C.Sp | 10% Stockholder | Shares: 18321 | Value: $329,778.0 | Percent: 0.005641% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000353/0001974078-25-000353.txt
