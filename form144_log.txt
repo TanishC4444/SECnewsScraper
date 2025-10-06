@@ -4690,3 +4690,5 @@
 2025-10-06 14:33:24 | BURKE JAMES A | Officer | Shares: 21368 | Value: $4,421,912.42 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006346/0001959173-25-006346.txt
 2025-10-06 14:47:32 | Fields Kimberly A | Officer | Shares: 21154 | Value: $1,735,262.62 | Percent: 0.015348% | Link: https://www.sec.gov/Archives/edgar/data/1773072/000195917325006347/0001959173-25-006347.txt
 2025-10-06 14:47:33 | Fields Kimberly A | Officer | Shares: 21154 | Value: $1,735,262.62 | Percent: 0.015348% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006347/0001959173-25-006347.txt
+2025-10-06 14:56:35 | Blair Jordan Strategy and Finance Consulting, Inc. | Former officer and director | Shares: 339646 | Value: $804,961.0 | Percent: 0.212045% | Link: https://www.sec.gov/Archives/edgar/data/2015193/000121390025096350/0001213900-25-096350.txt
+2025-10-06 14:56:36 | Blair Jordan Strategy and Finance Consulting, Inc. | Former officer and director | Shares: 339646 | Value: $804,961.0 | Percent: 0.212045% | Link: https://www.sec.gov/Archives/edgar/data/1690080/000121390025096350/0001213900-25-096350.txt
