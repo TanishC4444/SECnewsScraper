@@ -4696,3 +4696,7 @@
 2025-10-06 15:45:39 | Orth John E | Former Officer | Shares: 5250 | Value: $125,113.09 | Percent: 0.016305% | Link: https://www.sec.gov/Archives/edgar/data/1481582/000195917325006349/0001959173-25-006349.txt
 2025-10-06 16:53:35 | Dow Roger J. | Director | Shares: 9100 | Value: $85,267.31 | Percent: 0.045432% | Link: https://www.sec.gov/Archives/edgar/data/1586505/000194984625000521/0001949846-25-000521.txt
 2025-10-06 16:53:36 | Dow Roger J. | Director | Shares: 9100 | Value: $85,267.31 | Percent: 0.045432% | Link: https://www.sec.gov/Archives/edgar/data/1581091/000194984625000521/0001949846-25-000521.txt
+2025-10-06 17:11:33 | Howe Elizabeth A. | Officer | Shares: 5099 | Value: $1,626,300.0 | Percent: 0.196115% | Link: https://www.sec.gov/Archives/edgar/data/1999852/000197325125000080/0001973251-25-000080.txt
+2025-10-06 17:11:35 | Howe Elizabeth A. | Officer | Shares: 5099 | Value: $1,626,300.0 | Percent: 0.196115% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000080/0001973251-25-000080.txt
+2025-10-06 17:11:37 | CONRAD BILL M | Chairman of the Board | Shares: 50000 | Value: $220,000.0 | Percent: 0.205126% | Link: https://www.sec.gov/Archives/edgar/data/1828377/000197407825000350/0001974078-25-000350.txt
+2025-10-06 17:11:38 | CONRAD BILL M | Chairman of the Board | Shares: 50000 | Value: $220,000.0 | Percent: 0.205126% | Link: https://www.sec.gov/Archives/edgar/data/909551/000197407825000350/0001974078-25-000350.txt
