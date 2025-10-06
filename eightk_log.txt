@@ -5908,3 +5908,10 @@
 2025-10-06 11:28:42 | 8-K - Cellectar Biosciences, Inc. (0001279704) (Filer) | 2025-10-06T07:15:48-04:00 | https://www.sec.gov/Archives/edgar/data/1279704/000110465925096928/0001104659-25-096928.txt
 2025-10-06 11:28:43 | 8-K - Verano Holdings Corp. (0001848416) (Filer) | 2025-10-06T07:15:34-04:00 | https://www.sec.gov/Archives/edgar/data/1848416/000149315225017003/0001493152-25-017003.txt
 2025-10-06 11:28:45 | 8-K - KalVista Pharmaceuticals, Inc. (0001348911) (Filer) | 2025-10-06T07:15:18-04:00 | https://www.sec.gov/Archives/edgar/data/1348911/000119312525230906/0001193125-25-230906.txt
+2025-10-06 11:39:25 | 8-K - ARVINAS, INC. (0001655759) (Filer) | 2025-10-06T07:37:20-04:00 | https://www.sec.gov/Archives/edgar/data/1655759/000162828025044212/0001628280-25-044212.txt
+2025-10-06 11:39:25 | 8-K - Serve Robotics Inc. /DE/ (0001832483) (Filer) | 2025-10-06T07:33:34-04:00 | https://www.sec.gov/Archives/edgar/data/1832483/000183248325000098/0001832483-25-000098.txt
+2025-10-06 11:39:27 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-10-06T07:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225017009/0001493152-25-017009.txt
+2025-10-06 11:39:30 | 8-K - Marker Therapeutics, Inc. (0001094038) (Filer) | 2025-10-06T07:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/1094038/000110465925096935/0001104659-25-096935.txt
+2025-10-06 11:39:32 | 8-K - Firefly Aerospace Inc. (0001860160) (Filer) | 2025-10-06T07:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/1860160/000119312525230927/0001193125-25-230927.txt
+2025-10-06 11:39:34 | 8-K - Maze Therapeutics, Inc. (0001842295) (Filer) | 2025-10-06T07:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1842295/000119312525230926/0001193125-25-230926.txt
+2025-10-06 11:39:37 | 8-K - Stoke Therapeutics, Inc. (0001623526) (Filer) | 2025-10-06T07:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1623526/000119312525230925/0001193125-25-230925.txt
