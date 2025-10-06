@@ -4750,3 +4750,7 @@
 2025-10-06 21:38:10 | Insight Partners Fund X Follow-On Fund, L.P. | 10% Stockholder | Shares: 8679 | Value: $156,222.0 | Percent: 0.002672% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000360/0001974078-25-000360.txt
 2025-10-06 21:47:39 | Insight Partners XI, L.P. | 10% Stockholder | Shares: 140993 | Value: $2,537,874.0 | Percent: 0.043415% | Link: https://www.sec.gov/Archives/edgar/data/1792490/000197407825000363/0001974078-25-000363.txt
 2025-10-06 21:47:40 | Insight Partners XI, L.P. | 10% Stockholder | Shares: 140993 | Value: $2,537,874.0 | Percent: 0.043415% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000363/0001974078-25-000363.txt
+2025-10-06 22:16:51 | Battery Ventures IX, L.P. | 10% Stockholder | Shares: 370734 | Value: $2,900,000.0 | Percent: 0.137106% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000197407825000365/0001974078-25-000365.txt
+2025-10-06 22:16:52 | Battery Ventures IX, L.P. | 10% Stockholder | Shares: 370734 | Value: $2,900,000.0 | Percent: 0.137106% | Link: https://www.sec.gov/Archives/edgar/data/1485934/000197407825000365/0001974078-25-000365.txt
+2025-10-06 22:16:53 | Swayze Eric | Officer | Shares: 6849 | Value: $472,718.0 | Percent: 0.004297% | Link: https://www.sec.gov/Archives/edgar/data/1791058/000197248125000238/0001972481-25-000238.txt
+2025-10-06 22:16:54 | Swayze Eric | Officer | Shares: 6849 | Value: $472,718.0 | Percent: 0.004297% | Link: https://www.sec.gov/Archives/edgar/data/874015/000197248125000238/0001972481-25-000238.txt
