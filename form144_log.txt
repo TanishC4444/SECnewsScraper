@@ -4700,3 +4700,5 @@
 2025-10-06 17:11:35 | Howe Elizabeth A. | Officer | Shares: 5099 | Value: $1,626,300.0 | Percent: 0.196115% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000080/0001973251-25-000080.txt
 2025-10-06 17:11:37 | CONRAD BILL M | Chairman of the Board | Shares: 50000 | Value: $220,000.0 | Percent: 0.205126% | Link: https://www.sec.gov/Archives/edgar/data/1828377/000197407825000350/0001974078-25-000350.txt
 2025-10-06 17:11:38 | CONRAD BILL M | Chairman of the Board | Shares: 50000 | Value: $220,000.0 | Percent: 0.205126% | Link: https://www.sec.gov/Archives/edgar/data/909551/000197407825000350/0001974078-25-000350.txt
+2025-10-06 19:23:39 | Lee Kang Jyh | Officer | Shares: 10000 | Value: $253,307.5 | Percent: 0.016948% | Link: https://www.sec.gov/Archives/edgar/data/1748668/000195917325006354/0001959173-25-006354.txt
+2025-10-06 19:23:40 | Lee Kang Jyh | Officer | Shares: 10000 | Value: $253,307.5 | Percent: 0.016948% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325006354/0001959173-25-006354.txt
