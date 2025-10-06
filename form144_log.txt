@@ -4686,3 +4686,5 @@
 2025-10-03 22:41:11 | Sarah Oughtred | Officer | Shares: 9968 | Value: $73,364.48 | Percent: 0.006431% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025044188/0001628280-25-044188.txt
 2025-10-03 22:59:55 | Joshua Ofman | Officer | Shares: 89237 | Value: $5,848,592.98 | Percent: 0.246777% | Link: https://www.sec.gov/Archives/edgar/data/1822088/000162828025044192/0001628280-25-044192.txt
 2025-10-03 22:59:56 | Joshua Ofman | Officer | Shares: 89237 | Value: $5,848,592.98 | Percent: 0.246777% | Link: https://www.sec.gov/Archives/edgar/data/1699031/000162828025044192/0001628280-25-044192.txt
+2025-10-06 14:33:23 | BURKE JAMES A | Officer | Shares: 21368 | Value: $4,421,912.42 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006346/0001959173-25-006346.txt
+2025-10-06 14:33:24 | BURKE JAMES A | Officer | Shares: 21368 | Value: $4,421,912.42 | Percent: 0.006307% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006346/0001959173-25-006346.txt
