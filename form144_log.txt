@@ -4692,3 +4692,5 @@
 2025-10-06 14:47:33 | Fields Kimberly A | Officer | Shares: 21154 | Value: $1,735,262.62 | Percent: 0.015348% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006347/0001959173-25-006347.txt
 2025-10-06 14:56:35 | Blair Jordan Strategy and Finance Consulting, Inc. | Former officer and director | Shares: 339646 | Value: $804,961.0 | Percent: 0.212045% | Link: https://www.sec.gov/Archives/edgar/data/2015193/000121390025096350/0001213900-25-096350.txt
 2025-10-06 14:56:36 | Blair Jordan Strategy and Finance Consulting, Inc. | Former officer and director | Shares: 339646 | Value: $804,961.0 | Percent: 0.212045% | Link: https://www.sec.gov/Archives/edgar/data/1690080/000121390025096350/0001213900-25-096350.txt
+2025-10-06 15:45:38 | Orth John E | Former Officer | Shares: 5250 | Value: $125,113.09 | Percent: 0.016305% | Link: https://www.sec.gov/Archives/edgar/data/1764564/000195917325006349/0001959173-25-006349.txt
+2025-10-06 15:45:39 | Orth John E | Former Officer | Shares: 5250 | Value: $125,113.09 | Percent: 0.016305% | Link: https://www.sec.gov/Archives/edgar/data/1481582/000195917325006349/0001959173-25-006349.txt

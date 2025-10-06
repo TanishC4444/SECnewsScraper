@@ -5942,3 +5942,4 @@
 2025-10-06 13:42:24 | 8-K - FREEPORT-MCMORAN INC (0000831259) (Filer) | 2025-10-06T09:19:01-04:00 | https://www.sec.gov/Archives/edgar/data/831259/000083125925000046/0000831259-25-000046.txt
 2025-10-06 14:10:30 | 8-K - Arcus Biosciences, Inc. (0001724521) (Filer) | 2025-10-06T10:02:38-04:00 | https://www.sec.gov/Archives/edgar/data/1724521/000172452125000107/0001724521-25-000107.txt
 2025-10-06 14:10:31 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-10-06T10:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525231296/0001193125-25-231296.txt
+2025-10-06 15:45:35 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-10-06T11:37:09-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525231409/0001193125-25-231409.txt
