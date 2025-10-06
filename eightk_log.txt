@@ -5892,3 +5892,5 @@
 2025-10-06 10:12:56 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-10-03T21:30:08-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025096259/0001213900-25-096259.txt
 2025-10-06 10:12:58 | 8-K - Quantumsphere Acquisition Corp (0002070900) (Filer) | 2025-10-03T20:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/2070900/000182912625007899/0001829126-25-007899.txt
 2025-10-06 10:12:59 | 8-K - StoneBridge Acquisition II Corp (0002043630) (Filer) | 2025-10-03T20:03:14-04:00 | https://www.sec.gov/Archives/edgar/data/2043630/000182912625007897/0001829126-25-007897.txt
+2025-10-06 10:47:14 | 8-K - Sable Offshore Corp. (0001831481) (Filer) | 2025-10-06T06:43:38-04:00 | https://www.sec.gov/Archives/edgar/data/1831481/000183148125000074/0001831481-25-000074.txt
+2025-10-06 10:47:16 | 8-K - FIFTH THIRD BANCORP (0000035527) (Filer) | 2025-10-06T06:37:52-04:00 | https://www.sec.gov/Archives/edgar/data/35527/000119312525230873/0001193125-25-230873.txt
