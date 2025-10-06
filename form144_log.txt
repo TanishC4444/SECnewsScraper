@@ -4736,3 +4736,9 @@
 2025-10-06 21:11:58 | DeOliveira Erick | Officer | Shares: 6831 | Value: $6,765.42 | Percent: 0.028641% | Link: https://www.sec.gov/Archives/edgar/data/1637147/000195917325006369/0001959173-25-006369.txt
 2025-10-06 21:11:59 | Insight Venture Partners X, L.P. | 10% Stockholder | Shares: 1816558 | Value: $32,698,044.0 | Percent: 0.559354% | Link: https://www.sec.gov/Archives/edgar/data/1710959/000197407825000356/0001974078-25-000356.txt
 2025-10-06 21:12:00 | Insight Venture Partners X, L.P. | 10% Stockholder | Shares: 1816558 | Value: $32,698,044.0 | Percent: 0.559354% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000356/0001974078-25-000356.txt
+2025-10-06 21:27:41 | Hartje Karen | Officer | Shares: 5484 | Value: $393,917.0 | Percent: 0.016118% | Link: https://www.sec.gov/Archives/edgar/data/1865032/000197248125000237/0001972481-25-000237.txt
+2025-10-06 21:27:42 | Hartje Karen | Officer | Shares: 5484 | Value: $393,917.0 | Percent: 0.016118% | Link: https://www.sec.gov/Archives/edgar/data/1662991/000197248125000237/0001972481-25-000237.txt
+2025-10-06 21:27:44 | Insight Partners (Cayman) XI, L.P. | 10% Stockholder | Shares: 154466 | Value: $2,780,388.0 | Percent: 0.047563% | Link: https://www.sec.gov/Archives/edgar/data/1792449/000197407825000359/0001974078-25-000359.txt
+2025-10-06 21:27:45 | Insight Partners (Cayman) XI, L.P. | 10% Stockholder | Shares: 154466 | Value: $2,780,388.0 | Percent: 0.047563% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000359/0001974078-25-000359.txt
+2025-10-06 21:27:46 | Laponis Adam | Officer | Shares: 5875 | Value: $189,098.63 | Percent: 0.009733% | Link: https://www.sec.gov/Archives/edgar/data/1827198/000195917325006374/0001959173-25-006374.txt
+2025-10-06 21:27:47 | Laponis Adam | Officer | Shares: 5875 | Value: $189,098.63 | Percent: 0.009733% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006374/0001959173-25-006374.txt
