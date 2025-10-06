@@ -21,3 +21,4 @@
 2025-10-01 13:22:39 | PALISADE BIO, INC. | BATCH EMAIL
 2025-10-02 02:24:40 | Commercial Bancgroup, Inc. | BATCH EMAIL
 2025-10-02 18:54:11 | AI Infrastructure Acquisition Corp. | BATCH EMAIL
+2025-10-06 10:35:36 | GigCapital8 Corp. | BATCH EMAIL
