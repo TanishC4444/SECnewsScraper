@@ -5927,3 +5927,11 @@
 2025-10-06 12:43:13 | 8-K - Worksport Ltd (0001096275) (Filer) | 2025-10-06T08:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/1096275/000149315225017024/0001493152-25-017024.txt
 2025-10-06 12:43:14 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-10-06T08:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825007415/0001683168-25-007415.txt
 2025-10-06 12:43:16 | 8-K - Bloomin' Brands, Inc. (0001546417) (Filer) | 2025-10-06T08:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1546417/000154641725000137/0001546417-25-000137.txt
+2025-10-06 13:19:05 | 8-K - Capstone Holding Corp. (0000887151) (Filer) | 2025-10-06T09:16:23-04:00 | https://www.sec.gov/Archives/edgar/data/887151/000121390025096315/0001213900-25-096315.txt
+2025-10-06 13:19:07 | 8-K - Sharps Technology Inc. (0001737995) (Filer) | 2025-10-06T09:15:30-04:00 | https://www.sec.gov/Archives/edgar/data/1737995/000149315225017032/0001493152-25-017032.txt
+2025-10-06 13:19:09 | 8-K - Lifeway Foods, Inc. (0000814586) (Filer) | 2025-10-06T09:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/814586/000168316825007417/0001683168-25-007417.txt
+2025-10-06 13:19:10 | 8-K - Construction Partners, Inc. (0001718227) (Filer) | 2025-10-06T09:14:37-04:00 | https://www.sec.gov/Archives/edgar/data/1718227/000162828025044228/0001628280-25-044228.txt
+2025-10-06 13:19:12 | 8-K - LEAP THERAPEUTICS, INC. (0001509745) (Filer) | 2025-10-06T09:08:18-04:00 | https://www.sec.gov/Archives/edgar/data/1509745/000110465925096966/0001104659-25-096966.txt
+2025-10-06 13:19:14 | 8-K - Polar Power, Inc. (0001622345) (Filer) | 2025-10-06T09:05:45-04:00 | https://www.sec.gov/Archives/edgar/data/1622345/000149315225017031/0001493152-25-017031.txt
+2025-10-06 13:19:15 | 8-K - Talkspace, Inc. (0001803901) (Filer) | 2025-10-06T09:04:14-04:00 | https://www.sec.gov/Archives/edgar/data/1803901/000119312525231059/0001193125-25-231059.txt
+2025-10-06 13:19:17 | 8-K - Greenidge Generation Holdings Inc. (0001844971) (Filer) | 2025-10-06T09:03:07-04:00 | https://www.sec.gov/Archives/edgar/data/1844971/000184497125000006/0001844971-25-000006.txt
