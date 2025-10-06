@@ -5964,3 +5964,12 @@
 2025-10-06 20:11:39 | 8-K - Venture Global, Inc. (0002007855) (Filer) | 2025-10-06T16:06:24-04:00 | https://www.sec.gov/Archives/edgar/data/2007855/000200785525000059/0002007855-25-000059.txt
 2025-10-06 20:11:41 | 8-K - Clearway Energy, Inc. (0001567683) (Filer) | 2025-10-06T16:06:06-04:00 | https://www.sec.gov/Archives/edgar/data/1567683/000110465925097098/0001104659-25-097098.txt
 2025-10-06 20:11:42 | 8-K - APPLIED DNA SCIENCES INC (0000744452) (Filer) | 2025-10-06T16:06:01-04:00 | https://www.sec.gov/Archives/edgar/data/744452/000110465925097097/0001104659-25-097097.txt
+2025-10-06 20:31:48 | 8-K - Fermi Inc. (0002071778) (Filer) | 2025-10-06T16:31:10-04:00 | https://www.sec.gov/Archives/edgar/data/2071778/000121390025096560/0001213900-25-096560.txt
+2025-10-06 20:31:48 | 8-K - Brookfield Private Equity Fund LP (0002074065) (Filer) | 2025-10-06T16:31:04-04:00 | https://www.sec.gov/Archives/edgar/data/2074065/000110465925097128/0001104659-25-097128.txt
+2025-10-06 20:31:51 | 8-K - FingerMotion, Inc. (0001602409) (Filer) | 2025-10-06T16:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1602409/000152013825000296/0001520138-25-000296.txt
+2025-10-06 20:31:53 | 8-K - Alternus Clean Energy, Inc. (0001883984) (Filer) | 2025-10-06T16:30:26-04:00 | https://www.sec.gov/Archives/edgar/data/1883984/000121390025096559/0001213900-25-096559.txt
+2025-10-06 20:31:56 | 8-K - Chrome Holding Co. (0001804591) (Filer) | 2025-10-06T16:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/1804591/000119312525231945/0001193125-25-231945.txt
+2025-10-06 20:31:58 | 8-K - CONAGRA BRANDS INC. (0000023217) (Filer) | 2025-10-06T16:29:45-04:00 | https://www.sec.gov/Archives/edgar/data/23217/000002321725000089/0000023217-25-000089.txt
+2025-10-06 20:32:00 | 8-K - Senseonics Holdings, Inc. (0001616543) (Filer) | 2025-10-06T16:26:37-04:00 | https://www.sec.gov/Archives/edgar/data/1616543/000110465925097124/0001104659-25-097124.txt
+2025-10-06 20:32:01 | 8-K - Antares Strategic Credit Fund II LLC (0002065397) (Filer) | 2025-10-06T16:24:49-04:00 | https://www.sec.gov/Archives/edgar/data/2065397/000119312525231923/0001193125-25-231923.txt
+2025-10-06 20:32:01 | 8-K - Antares Strategic Credit Fund (0001993402) (Filer) | 2025-10-06T16:23:55-04:00 | https://www.sec.gov/Archives/edgar/data/1993402/000119312525231921/0001193125-25-231921.txt

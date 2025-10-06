@@ -4712,3 +4712,9 @@
 2025-10-06 20:11:50 | FAIRHOLME CAPITAL MANAGEMENT LLC | Affiliate | Shares: 11000 | Value: $541,860.0 | Percent: 0.018996% | Link: https://www.sec.gov/Archives/edgar/data/745308/000105683125000004/0001056831-25-000004.txt
 2025-10-06 20:11:52 | DANA GERNER | Officer | Shares: 25390 | Value: $478,949.34 | Percent: 0.010386% | Link: https://www.sec.gov/Archives/edgar/data/1970804/000195004725007766/0001950047-25-007766.txt
 2025-10-06 20:11:53 | DANA GERNER | Officer | Shares: 25390 | Value: $478,949.34 | Percent: 0.010386% | Link: https://www.sec.gov/Archives/edgar/data/1854587/000195004725007766/0001950047-25-007766.txt
+2025-10-06 20:32:03 | JOSEPH NACHMAN | Officer | Shares: 7000 | Value: $222,884.24 | Percent: 0.011100% | Link: https://www.sec.gov/Archives/edgar/data/1540652/000195004725007799/0001950047-25-007799.txt
+2025-10-06 20:32:04 | JOSEPH NACHMAN | Officer | Shares: 7000 | Value: $222,884.24 | Percent: 0.011100% | Link: https://www.sec.gov/Archives/edgar/data/1345016/000195004725007799/0001950047-25-007799.txt
+2025-10-06 20:32:07 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $97,868.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1468316/000195004725007797/0001950047-25-007797.txt
+2025-10-06 20:32:08 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $97,868.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1211583/000195004725007797/0001950047-25-007797.txt
+2025-10-06 20:32:11 | CHARLES COLLIER | Officer | Shares: 15404 | Value: $1,591,424.03 | Percent: 0.010455% | Link: https://www.sec.gov/Archives/edgar/data/1951665/000195004725007796/0001950047-25-007796.txt
+2025-10-06 20:32:12 | CHARLES COLLIER | Officer | Shares: 15404 | Value: $1,591,424.03 | Percent: 0.010455% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725007796/0001950047-25-007796.txt
