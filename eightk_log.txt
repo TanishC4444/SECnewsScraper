@@ -5952,3 +5952,4 @@
 2025-10-06 18:37:58 | 8-K - NightFood Holdings, Inc. (0001593001) (Filer) | 2025-10-06T14:17:09-04:00 | https://www.sec.gov/Archives/edgar/data/1593001/000149315225017045/0001493152-25-017045.txt
 2025-10-06 18:37:59 | 8-K - CAMPBELL FUND TRUST (0001043951) (Filer) | 2025-10-06T14:03:54-04:00 | https://www.sec.gov/Archives/edgar/data/1043951/000114036125037345/0001140361-25-037345.txt
 2025-10-06 18:38:00 | 8-K - SRx Health Solutions, Inc. (0001471727) (Filer) | 2025-10-06T14:02:59-04:00 | https://www.sec.gov/Archives/edgar/data/1471727/000149315225017043/0001493152-25-017043.txt
+2025-10-06 19:08:04 | 8-K - Sky Quarry Inc. (0001812447) (Filer) | 2025-10-06T15:07:04-04:00 | https://www.sec.gov/Archives/edgar/data/1812447/000109690625001647/0001096906-25-001647.txt
