@@ -4702,3 +4702,5 @@
 2025-10-06 17:11:38 | CONRAD BILL M | Chairman of the Board | Shares: 50000 | Value: $220,000.0 | Percent: 0.205126% | Link: https://www.sec.gov/Archives/edgar/data/909551/000197407825000350/0001974078-25-000350.txt
 2025-10-06 19:23:39 | Lee Kang Jyh | Officer | Shares: 10000 | Value: $253,307.5 | Percent: 0.016948% | Link: https://www.sec.gov/Archives/edgar/data/1748668/000195917325006354/0001959173-25-006354.txt
 2025-10-06 19:23:40 | Lee Kang Jyh | Officer | Shares: 10000 | Value: $253,307.5 | Percent: 0.016948% | Link: https://www.sec.gov/Archives/edgar/data/810136/000195917325006354/0001959173-25-006354.txt
+2025-10-06 19:43:45 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 300000 | Value: $251,961,000.0 | Percent: 0.031697% | Link: https://www.sec.gov/Archives/edgar/data/316011/000031601125000024/0000316011-25-000024.txt
+2025-10-06 19:43:46 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 300000 | Value: $251,961,000.0 | Percent: 0.031697% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000024/0000316011-25-000024.txt

@@ -5955,3 +5955,4 @@
 2025-10-06 19:08:04 | 8-K - Sky Quarry Inc. (0001812447) (Filer) | 2025-10-06T15:07:04-04:00 | https://www.sec.gov/Archives/edgar/data/1812447/000109690625001647/0001096906-25-001647.txt
 2025-10-06 19:23:37 | 8-K/A - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-06T15:12:12-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015936/0001062993-25-015936.txt
 2025-10-06 19:23:37 | 8-K/A - CBL & ASSOCIATES PROPERTIES INC (0000910612) (Filer) | 2025-10-06T15:07:40-04:00 | https://www.sec.gov/Archives/edgar/data/910612/000119312525231700/0001193125-25-231700.txt
+2025-10-06 19:43:43 | 8-K - Consolidated Water Co. Ltd. (0000928340) (Filer) | 2025-10-06T15:37:36-04:00 | https://www.sec.gov/Archives/edgar/data/928340/000110465925097074/0001104659-25-097074.txt
