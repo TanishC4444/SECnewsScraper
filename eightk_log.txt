@@ -5883,3 +5883,12 @@
 2025-10-03 21:36:37 | 8-K - Qualigen Therapeutics, Inc. (0001460702) (Filer) | 2025-10-03T17:27:31-04:00 | https://www.sec.gov/Archives/edgar/data/1460702/000149315225016923/0001493152-25-016923.txt
 2025-10-03 21:36:37 | 8-K/A - RING ENERGY, INC. (0001384195) (Filer) | 2025-10-03T17:26:57-04:00 | https://www.sec.gov/Archives/edgar/data/1384195/000138419525000015/0001384195-25-000015.txt
 2025-10-03 21:36:39 | 8-K - Horizon Space Acquisition I Corp. (0001946021) (Filer) | 2025-10-03T17:25:34-04:00 | https://www.sec.gov/Archives/edgar/data/1946021/000192998025000663/0001929980-25-000663.txt
+2025-10-06 10:12:48 | 8-K - SiriusPoint Ltd (0001576018) (Filer) | 2025-10-06T06:05:38-04:00 | https://www.sec.gov/Archives/edgar/data/1576018/000119312525230845/0001193125-25-230845.txt
+2025-10-06 10:12:49 | 8-K - DSwiss Inc (0001652561) (Filer) | 2025-10-06T06:03:11-04:00 | https://www.sec.gov/Archives/edgar/data/1652561/000149315225016981/0001493152-25-016981.txt
+2025-10-06 10:12:51 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-06T06:02:39-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015928/0001062993-25-015928.txt
+2025-10-06 10:12:52 | 8-K - Vistra Corp. (0001692819) (Filer) | 2025-10-06T06:01:33-04:00 | https://www.sec.gov/Archives/edgar/data/1692819/000119312525230840/0001193125-25-230840.txt
+2025-10-06 10:12:54 | 8-K - Alaska Silver Corp. (0001893899) (Filer) | 2025-10-03T21:42:14-04:00 | https://www.sec.gov/Archives/edgar/data/1893899/000110465925096871/0001104659-25-096871.txt
+2025-10-06 10:12:55 | 8-K - Vimeo, Inc. (0001837686) (Filer) | 2025-10-03T21:37:50-04:00 | https://www.sec.gov/Archives/edgar/data/1837686/000110465925096870/0001104659-25-096870.txt
+2025-10-06 10:12:56 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-10-03T21:30:08-04:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025096259/0001213900-25-096259.txt
+2025-10-06 10:12:58 | 8-K - Quantumsphere Acquisition Corp (0002070900) (Filer) | 2025-10-03T20:30:29-04:00 | https://www.sec.gov/Archives/edgar/data/2070900/000182912625007899/0001829126-25-007899.txt
+2025-10-06 10:12:59 | 8-K - StoneBridge Acquisition II Corp (0002043630) (Filer) | 2025-10-03T20:03:14-04:00 | https://www.sec.gov/Archives/edgar/data/2043630/000182912625007897/0001829126-25-007897.txt
