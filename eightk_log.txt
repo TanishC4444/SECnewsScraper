@@ -5917,3 +5917,13 @@
 2025-10-06 11:39:37 | 8-K - Stoke Therapeutics, Inc. (0001623526) (Filer) | 2025-10-06T07:30:15-04:00 | https://www.sec.gov/Archives/edgar/data/1623526/000119312525230925/0001193125-25-230925.txt
 2025-10-06 11:48:31 | 8-K - Talen Energy Corp (0001622536) (Filer) | 2025-10-06T07:43:45-04:00 | https://www.sec.gov/Archives/edgar/data/1622536/000162253625000013/0001622536-25-000013.txt
 2025-10-06 11:57:32 | 8-K - TransDigm Group INC (0001260221) (Filer) | 2025-10-06T07:54:39-04:00 | https://www.sec.gov/Archives/edgar/data/1260221/000126022125000065/0001260221-25-000065.txt
+2025-10-06 12:43:02 | 8-K - Mallinckrodt plc (0001567892) (Filer) | 2025-10-06T08:41:08-04:00 | https://www.sec.gov/Archives/edgar/data/1567892/000110465925096956/0001104659-25-096956.txt
+2025-10-06 12:43:04 | 8-K - Amprius Technologies, Inc. (0001899287) (Filer) | 2025-10-06T08:38:38-04:00 | https://www.sec.gov/Archives/edgar/data/1899287/000189928725000045/0001899287-25-000045.txt
+2025-10-06 12:43:05 | 8-K - VERIZON COMMUNICATIONS INC (0000732712) (Filer) | 2025-10-06T08:38:31-04:00 | https://www.sec.gov/Archives/edgar/data/732712/000119312525231018/0001193125-25-231018.txt
+2025-10-06 12:43:07 | 8-K - PIXELWORKS, INC (0001040161) (Filer) | 2025-10-06T08:36:17-04:00 | https://www.sec.gov/Archives/edgar/data/1040161/000119312525231016/0001193125-25-231016.txt
+2025-10-06 12:43:08 | 8-K - Grayscale Ethereum Trust ETF (0001725210) (Filer) | 2025-10-06T08:33:27-04:00 | https://www.sec.gov/Archives/edgar/data/1725210/000119312525231015/0001193125-25-231015.txt
+2025-10-06 12:43:10 | 8-K - Service Properties Trust (0000945394) (Filer) | 2025-10-06T08:32:59-04:00 | https://www.sec.gov/Archives/edgar/data/945394/000094539425000084/0000945394-25-000084.txt
+2025-10-06 12:43:11 | 8-K - Grayscale Ethereum Mini Trust ETF (0002020455) (Filer) | 2025-10-06T08:32:49-04:00 | https://www.sec.gov/Archives/edgar/data/2020455/000119312525231013/0001193125-25-231013.txt
+2025-10-06 12:43:13 | 8-K - Worksport Ltd (0001096275) (Filer) | 2025-10-06T08:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/1096275/000149315225017024/0001493152-25-017024.txt
+2025-10-06 12:43:14 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-10-06T08:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825007415/0001683168-25-007415.txt
+2025-10-06 12:43:16 | 8-K - Bloomin' Brands, Inc. (0001546417) (Filer) | 2025-10-06T08:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/1546417/000154641725000137/0001546417-25-000137.txt
