@@ -6072,3 +6072,4 @@
 2025-10-07 17:31:25 | 8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer) | 2025-10-07T13:14:00-04:00 | https://www.sec.gov/Archives/edgar/data/2026738/000119312525233113/0001193125-25-233113.txt
 2025-10-07 17:52:22 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-07T13:50:06-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000224/0001331465-25-000224.txt
 2025-10-07 17:52:24 | 8-K - SmartKem, Inc. (0001817760) (Filer) | 2025-10-07T13:49:55-04:00 | https://www.sec.gov/Archives/edgar/data/1817760/000110465925097444/0001104659-25-097444.txt
+2025-10-07 18:14:00 | 8-K - Goldman Sachs Real Estate Finance Trust Inc (0002027537) (Filer) | 2025-10-07T13:57:37-04:00 | https://www.sec.gov/Archives/edgar/data/2027537/000119312525233178/0001193125-25-233178.txt
