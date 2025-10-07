@@ -6076,3 +6076,11 @@
 2025-10-07 19:13:31 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-10-07T15:06:28-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000214/0001325878-25-000214.txt
 2025-10-07 19:37:04 | 8-K - StoneBridge Acquisition II Corp (0002043630) (Filer) | 2025-10-07T15:33:03-04:00 | https://www.sec.gov/Archives/edgar/data/2043630/000182912625007939/0001829126-25-007939.txt
 2025-10-07 19:37:06 | 8-K - Limitless X Holdings Inc. (0001803977) (Filer) | 2025-10-07T15:30:06-04:00 | https://www.sec.gov/Archives/edgar/data/1803977/000149315225017277/0001493152-25-017277.txt
+2025-10-07 20:17:27 | 8-K - UDR, Inc. (0000074208) (Filer) | 2025-10-07T16:16:38-04:00 | https://www.sec.gov/Archives/edgar/data/74208/000007420825000065/0000074208-25-000065.txt
+2025-10-07 20:17:29 | 8-K - Voya Financial, Inc. (0001535929) (Filer) | 2025-10-07T16:16:36-04:00 | https://www.sec.gov/Archives/edgar/data/1535929/000153592925000089/0001535929-25-000089.txt
+2025-10-07 20:17:31 | 8-K - Rent the Runway, Inc. (0001468327) (Filer) | 2025-10-07T16:16:33-04:00 | https://www.sec.gov/Archives/edgar/data/1468327/000095010325012930/0000950103-25-012930.txt
+2025-10-07 20:17:32 | 8-K - IREN Ltd (0001878848) (Filer) | 2025-10-07T16:16:14-04:00 | https://www.sec.gov/Archives/edgar/data/1878848/000114036125037488/0001140361-25-037488.txt
+2025-10-07 20:17:34 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-10-07T16:15:55-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000162828025044487/0001628280-25-044487.txt
+2025-10-07 20:17:35 | 8-K - Neptune Insurance Holdings Inc. (0002067129) (Filer) | 2025-10-07T16:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/2067129/000121390025097037/0001213900-25-097037.txt
+2025-10-07 20:17:37 | 8-K - GameStop Corp. (0001326380) (Filer) | 2025-10-07T16:13:59-04:00 | https://www.sec.gov/Archives/edgar/data/1326380/000132638025000091/0001326380-25-000091.txt
+2025-10-07 20:17:38 | 8-K - Redwire Corp (0001819810) (Filer) | 2025-10-07T16:13:04-04:00 | https://www.sec.gov/Archives/edgar/data/1819810/000181981025000229/0001819810-25-000229.txt
