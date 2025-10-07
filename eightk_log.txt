@@ -6031,3 +6031,4 @@
 2025-10-07 11:25:13 | 8-K - Adicet Bio, Inc. (0001720580) (Filer) | 2025-10-07T07:11:43-04:00 | https://www.sec.gov/Archives/edgar/data/1720580/000119312525232558/0001193125-25-232558.txt
 2025-10-07 11:36:14 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-10-07T07:30:46-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225017204/0001493152-25-017204.txt
 2025-10-07 11:36:17 | 8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer) | 2025-10-07T07:27:20-04:00 | https://www.sec.gov/Archives/edgar/data/1527541/000152754125000246/0001527541-25-000246.txt
+2025-10-07 11:45:25 | 8-K - Sprinklr, Inc. (0001569345) (Filer) | 2025-10-07T07:40:18-04:00 | https://www.sec.gov/Archives/edgar/data/1569345/000119312525232582/0001193125-25-232582.txt
