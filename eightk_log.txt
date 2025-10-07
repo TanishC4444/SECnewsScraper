@@ -6020,3 +6020,4 @@
 2025-10-07 10:28:12 | 8-K - Trilogy Metals Inc. (0001543418) (Filer) | 2025-10-06T21:19:44-04:00 | https://www.sec.gov/Archives/edgar/data/1543418/000127956925001096/0001279569-25-001096.txt
 2025-10-07 10:28:14 | 8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer) | 2025-10-06T21:13:56-04:00 | https://www.sec.gov/Archives/edgar/data/1930147/000182912625007917/0001829126-25-007917.txt
 2025-10-07 10:28:16 | 8-K - COTY INC. (0001024305) (Filer) | 2025-10-06T20:50:05-04:00 | https://www.sec.gov/Archives/edgar/data/1024305/000119312525232289/0001193125-25-232289.txt
+2025-10-07 10:52:47 | 8-K - Adicet Bio, Inc. (0001720580) (Filer) | 2025-10-07T06:48:42-04:00 | https://www.sec.gov/Archives/edgar/data/1720580/000119312525232539/0001193125-25-232539.txt
