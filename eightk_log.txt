@@ -6061,3 +6061,4 @@
 2025-10-07 14:27:07 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-10-07T10:22:25-04:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000161/0001314152-25-000161.txt
 2025-10-07 14:27:09 | 8-K - Envoy Medical, Inc. (0001840877) (Filer) | 2025-10-07T10:04:00-04:00 | https://www.sec.gov/Archives/edgar/data/1840877/000121390025096845/0001213900-25-096845.txt
 2025-10-07 14:27:09 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-07T09:59:51-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525232806/0001193125-25-232806.txt
+2025-10-07 15:15:03 | 8-K - XCEL ENERGY INC (0000072903) (Filer) | 2025-10-07T10:57:00-04:00 | https://www.sec.gov/Archives/edgar/data/72903/000119312525232889/0001193125-25-232889.txt
