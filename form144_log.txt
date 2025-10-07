@@ -4802,3 +4802,5 @@
 2025-10-07 20:54:29 | Dunn Evan | Officer | Shares: 20458 | Value: $307,320.08 | Percent: 0.033222% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000370/0001974078-25-000370.txt
 2025-10-07 21:27:52 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 18039 | Value: $1,249,741.9 | Percent: 0.051888% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025044523/0001628280-25-044523.txt
 2025-10-07 21:27:53 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 18039 | Value: $1,249,741.9 | Percent: 0.051888% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025044523/0001628280-25-044523.txt
+2025-10-07 21:56:06 | ELENI NITSA A ZUPPAS | Officer | Shares: 6000 | Value: $1,839,693.6 | Percent: 0.003661% | Link: https://www.sec.gov/Archives/edgar/data/1636653/000195004725007825/0001950047-25-007825.txt
+2025-10-07 21:56:07 | ELENI NITSA A ZUPPAS | Officer | Shares: 6000 | Value: $1,839,693.6 | Percent: 0.003661% | Link: https://www.sec.gov/Archives/edgar/data/1393052/000195004725007825/0001950047-25-007825.txt
