@@ -6099,3 +6099,7 @@
 2025-10-07 20:45:03 | 8-K - CAMPBELL'S Co (0000016732) (Filer) | 2025-10-07T16:39:35-04:00 | https://www.sec.gov/Archives/edgar/data/16732/000001673225000115/0000016732-25-000115.txt
 2025-10-07 20:45:05 | 8-K - Monogram Technologies Inc. (0001769759) (Filer) | 2025-10-07T16:37:10-04:00 | https://www.sec.gov/Archives/edgar/data/1769759/000110465925097530/0001104659-25-097530.txt
 2025-10-07 20:45:06 | 8-K - International Money Express, Inc. (0001683695) (Filer) | 2025-10-07T16:36:31-04:00 | https://www.sec.gov/Archives/edgar/data/1683695/000114036125037505/0001140361-25-037505.txt
+2025-10-07 20:54:26 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-10-07T16:53:45-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025097080/0001213900-25-097080.txt
+2025-10-07 20:54:28 | 8-K - ACHIEVE LIFE SCIENCES, INC. (0000949858) (Filer) | 2025-10-07T16:51:49-04:00 | https://www.sec.gov/Archives/edgar/data/949858/000119312525233581/0001193125-25-233581.txt
+2025-10-07 20:54:28 | 8-K - Goldenstone Acquisition Ltd. (0001858007) (Filer) | 2025-10-07T16:49:51-04:00 | https://www.sec.gov/Archives/edgar/data/1858007/000121390025097077/0001213900-25-097077.txt
+2025-10-07 20:54:28 | 8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer) | 2025-10-07T16:48:57-04:00 | https://www.sec.gov/Archives/edgar/data/75252/000119312525233577/0001193125-25-233577.txt
