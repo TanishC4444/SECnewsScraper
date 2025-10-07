@@ -4794,3 +4794,7 @@
 2025-10-07 20:34:28 | OCAMPO SUSAN | 10% Stockholder | Shares: 62476 | Value: $7,996,928.0 | Percent: 0.083893% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000522/0001949846-25-000522.txt
 2025-10-07 20:34:30 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,986,017.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001245/0001921094-25-001245.txt
 2025-10-07 20:34:31 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,986,017.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001245/0001921094-25-001245.txt
+2025-10-07 20:45:07 | Kashani Ali | Officer | Shares: 12930 | Value: $194,954.66 | Percent: 0.020997% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000369/0001974078-25-000369.txt
+2025-10-07 20:45:07 | Kashani Ali | Officer | Shares: 12930 | Value: $194,954.66 | Percent: 0.020997% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000369/0001974078-25-000369.txt
+2025-10-07 20:45:08 | SMOLYANSKY LUDMILA | 10% Stockholder | Shares: 15000 | Value: $394,500.0 | Percent: 0.098512% | Link: https://www.sec.gov/Archives/edgar/data/1227848/000100027525000144/0001000275-25-000144.txt
+2025-10-07 20:45:09 | SMOLYANSKY LUDMILA | 10% Stockholder | Shares: 15000 | Value: $394,500.0 | Percent: 0.098512% | Link: https://www.sec.gov/Archives/edgar/data/814586/000100027525000144/0001000275-25-000144.txt
