@@ -4786,3 +4786,11 @@
 2025-10-07 20:17:47 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,771,685.26 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/1465105/000195917325006384/0001959173-25-006384.txt
 2025-10-07 20:17:48 | COLEEN GLESSNER | Officer | Shares: 30608 | Value: $306,080.0 | Percent: 0.057371% | Link: https://www.sec.gov/Archives/edgar/data/1367644/000195004725007809/0001950047-25-007809.txt
 2025-10-07 20:17:48 | Mattke Timothy J. | Officer | Shares: 139203 | Value: $3,771,685.26 | Percent: 0.060386% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325006384/0001959173-25-006384.txt
+2025-10-07 20:34:23 | Peter Chapman | Affiliate | Shares: 814601 | Value: $65,157,738.64 | Percent: 0.250754% | Link: https://www.sec.gov/Archives/edgar/data/1885490/000162828025044502/0001628280-25-044502.txt
+2025-10-07 20:34:24 | Peter Chapman | Affiliate | Shares: 814601 | Value: $65,157,738.64 | Percent: 0.250754% | Link: https://www.sec.gov/Archives/edgar/data/1824920/000162828025044502/0001628280-25-044502.txt
+2025-10-07 20:34:25 | Remer Eric Richard | Officer and Director | Shares: 19200 | Value: $212,150.4 | Percent: 0.010470% | Link: https://www.sec.gov/Archives/edgar/data/1856906/000195917325006386/0001959173-25-006386.txt
+2025-10-07 20:34:26 | Remer Eric Richard | Officer and Director | Shares: 19200 | Value: $212,150.4 | Percent: 0.010470% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195917325006386/0001959173-25-006386.txt
+2025-10-07 20:34:27 | OCAMPO SUSAN | 10% Stockholder | Shares: 62476 | Value: $7,996,928.0 | Percent: 0.083893% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000522/0001949846-25-000522.txt
+2025-10-07 20:34:28 | OCAMPO SUSAN | 10% Stockholder | Shares: 62476 | Value: $7,996,928.0 | Percent: 0.083893% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000522/0001949846-25-000522.txt
+2025-10-07 20:34:30 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,986,017.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001245/0001921094-25-001245.txt
+2025-10-07 20:34:31 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,986,017.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001245/0001921094-25-001245.txt

@@ -6084,3 +6084,11 @@
 2025-10-07 20:17:35 | 8-K - Neptune Insurance Holdings Inc. (0002067129) (Filer) | 2025-10-07T16:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/2067129/000121390025097037/0001213900-25-097037.txt
 2025-10-07 20:17:37 | 8-K - GameStop Corp. (0001326380) (Filer) | 2025-10-07T16:13:59-04:00 | https://www.sec.gov/Archives/edgar/data/1326380/000132638025000091/0001326380-25-000091.txt
 2025-10-07 20:17:38 | 8-K - Redwire Corp (0001819810) (Filer) | 2025-10-07T16:13:04-04:00 | https://www.sec.gov/Archives/edgar/data/1819810/000181981025000229/0001819810-25-000229.txt
+2025-10-07 20:34:10 | 8-K - THERMO FISHER SCIENTIFIC INC. (0000097745) (Filer) | 2025-10-07T16:30:59-04:00 | https://www.sec.gov/Archives/edgar/data/97745/000114036125037501/0001140361-25-037501.txt
+2025-10-07 20:34:11 | 8-K - CEA Industries Inc. (0001482541) (Filer) | 2025-10-07T16:30:56-04:00 | https://www.sec.gov/Archives/edgar/data/1482541/000149315225017302/0001493152-25-017302.txt
+2025-10-07 20:34:13 | 8-K - CareCloud, Inc. (0001582982) (Filer) | 2025-10-07T16:30:54-04:00 | https://www.sec.gov/Archives/edgar/data/1582982/000149315225017303/0001493152-25-017303.txt
+2025-10-07 20:34:15 | 8-K - Range Capital Acquisition Corp II (0002078653) (Filer) | 2025-10-07T16:30:37-04:00 | https://www.sec.gov/Archives/edgar/data/2078653/000119312525233540/0001193125-25-233540.txt
+2025-10-07 20:34:16 | 8-K - Sharps Technology Inc. (0001737995) (Filer) | 2025-10-07T16:30:36-04:00 | https://www.sec.gov/Archives/edgar/data/1737995/000149315225017301/0001493152-25-017301.txt
+2025-10-07 20:34:18 | 8-K - DYCOM INDUSTRIES INC (0000067215) (Filer) | 2025-10-07T16:30:16-04:00 | https://www.sec.gov/Archives/edgar/data/67215/000006721525000065/0000067215-25-000065.txt
+2025-10-07 20:34:20 | 8-K - OneStream, Inc. (0001889956) (Filer) | 2025-10-07T16:27:07-04:00 | https://www.sec.gov/Archives/edgar/data/1889956/000119312525233517/0001193125-25-233517.txt
+2025-10-07 20:34:21 | 8-K - Copper Property CTL Pass Through Trust (0001837671) (Filer) | 2025-10-07T16:21:38-04:00 | https://www.sec.gov/Archives/edgar/data/1837671/000183767125000060/0001837671-25-000060.txt
