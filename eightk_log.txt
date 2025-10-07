@@ -6033,3 +6033,13 @@
 2025-10-07 11:36:17 | 8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer) | 2025-10-07T07:27:20-04:00 | https://www.sec.gov/Archives/edgar/data/1527541/000152754125000246/0001527541-25-000246.txt
 2025-10-07 11:45:25 | 8-K - Sprinklr, Inc. (0001569345) (Filer) | 2025-10-07T07:40:18-04:00 | https://www.sec.gov/Archives/edgar/data/1569345/000119312525232582/0001193125-25-232582.txt
 2025-10-07 11:54:41 | 8-K - Kindly MD, Inc. (0001946573) (Filer) | 2025-10-07T07:48:49-04:00 | https://www.sec.gov/Archives/edgar/data/1946573/000121390025096801/0001213900-25-096801.txt
+2025-10-07 12:29:29 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-10-07T08:28:03-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000149315225017216/0001493152-25-017216.txt
+2025-10-07 12:29:31 | 8-K - IonQ, Inc. (0001824920) (Filer) | 2025-10-07T08:19:00-04:00 | https://www.sec.gov/Archives/edgar/data/1824920/000095014225002689/0000950142-25-002689.txt
+2025-10-07 12:29:34 | 8-K - LandBridge Co LLC (0001995807) (Filer) | 2025-10-07T08:18:55-04:00 | https://www.sec.gov/Archives/edgar/data/1995807/000119312525232630/0001193125-25-232630.txt
+2025-10-07 12:29:36 | 8-K - Microbot Medical Inc. (0000883975) (Filer) | 2025-10-07T08:15:19-04:00 | https://www.sec.gov/Archives/edgar/data/883975/000149315225017212/0001493152-25-017212.txt
+2025-10-07 12:29:38 | 8-K - MEXICO FUND INC (0000065433) (Filer) | 2025-10-07T08:13:16-04:00 | https://www.sec.gov/Archives/edgar/data/65433/000165495425011533/0001654954-25-011533.txt
+2025-10-07 12:29:39 | 8-K - CITIZENS FINANCIAL GROUP INC/RI (0000759944) (Filer) | 2025-10-07T08:09:56-04:00 | https://www.sec.gov/Archives/edgar/data/759944/000075994425000135/0000759944-25-000135.txt
+2025-10-07 12:29:41 | 8-K - Profound Medical Corp. (0001628808) (Filer) | 2025-10-07T08:06:42-04:00 | https://www.sec.gov/Archives/edgar/data/1628808/000117184325006317/0001171843-25-006317.txt
+2025-10-07 12:29:43 | 8-K - Arbutus Biopharma Corp (0001447028) (Filer) | 2025-10-07T08:01:34-04:00 | https://www.sec.gov/Archives/edgar/data/1447028/000117184325006316/0001171843-25-006316.txt
+2025-10-07 12:29:45 | 8-K - Kairos Pharma, LTD. (0001962011) (Filer) | 2025-10-07T08:00:47-04:00 | https://www.sec.gov/Archives/edgar/data/1962011/000149315225017208/0001493152-25-017208.txt
+2025-10-07 12:29:48 | 8-K - Barings BDC, Inc. (0001379785) (Filer) | 2025-10-07T08:00:37-04:00 | https://www.sec.gov/Archives/edgar/data/1379785/000137978525000043/0001379785-25-000043.txt
