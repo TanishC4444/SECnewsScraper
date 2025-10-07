@@ -4774,3 +4774,5 @@
 2025-10-07 15:34:29 | BRUNO ELIZABETH P | Board Member | Shares: 5230 | Value: $398,894.72 | Percent: 0.012008% | Link: https://www.sec.gov/Archives/edgar/data/746598/000197372725000036/0001973727-25-000036.txt
 2025-10-07 17:52:25 | Guyer William | Officer | Shares: 20000 | Value: $1,797,000.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1879013/000197325125000081/0001973251-25-000081.txt
 2025-10-07 17:52:26 | Guyer William | Officer | Shares: 20000 | Value: $1,797,000.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000081/0001973251-25-000081.txt
+2025-10-07 18:44:01 | LANDY SAMUEL A | Officer | Shares: 20000 | Value: $281,808.11 | Percent: 0.023549% | Link: https://www.sec.gov/Archives/edgar/data/1232891/000195779925000215/0001957799-25-000215.txt
+2025-10-07 18:44:01 | LANDY SAMUEL A | Officer | Shares: 20000 | Value: $281,808.11 | Percent: 0.023549% | Link: https://www.sec.gov/Archives/edgar/data/752642/000195779925000215/0001957799-25-000215.txt
