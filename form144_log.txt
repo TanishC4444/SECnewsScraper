@@ -4766,3 +4766,7 @@
 2025-10-07 10:43:31 | Doherty John N. | Officer | Shares: 18580 | Value: $28,055.8 | Percent: 0.012027% | Link: https://www.sec.gov/Archives/edgar/data/1432133/000197640825000332/0001976408-25-000332.txt
 2025-10-07 14:27:10 | BURKE JAMES A | Officer | Shares: 21376 | Value: $4,307,029.31 | Percent: 0.006309% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006377/0001959173-25-006377.txt
 2025-10-07 14:27:11 | BURKE JAMES A | Officer | Shares: 21376 | Value: $4,307,029.31 | Percent: 0.006309% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006377/0001959173-25-006377.txt
+2025-10-07 14:44:41 | Shao Wei-Ming | Officer | Shares: 30000 | Value: $10,721,038.21 | Percent: 0.011367% | Link: https://www.sec.gov/Archives/edgar/data/1663488/000195917325006378/0001959173-25-006378.txt
+2025-10-07 14:44:42 | Shao Wei-Ming | Officer | Shares: 30000 | Value: $10,721,038.21 | Percent: 0.011367% | Link: https://www.sec.gov/Archives/edgar/data/1050446/000195917325006378/0001959173-25-006378.txt
+2025-10-07 14:44:43 | William Harris | Director | Shares: 80000 | Value: $272,000.0 | Percent: 0.042759% | Link: https://www.sec.gov/Archives/edgar/data/1526532/000162828025044422/0001628280-25-044422.txt
+2025-10-07 14:44:44 | William Harris | Director | Shares: 80000 | Value: $272,000.0 | Percent: 0.042759% | Link: https://www.sec.gov/Archives/edgar/data/1500881/000162828025044422/0001628280-25-044422.txt
