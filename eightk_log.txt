@@ -6103,3 +6103,13 @@
 2025-10-07 20:54:28 | 8-K - ACHIEVE LIFE SCIENCES, INC. (0000949858) (Filer) | 2025-10-07T16:51:49-04:00 | https://www.sec.gov/Archives/edgar/data/949858/000119312525233581/0001193125-25-233581.txt
 2025-10-07 20:54:28 | 8-K - Goldenstone Acquisition Ltd. (0001858007) (Filer) | 2025-10-07T16:49:51-04:00 | https://www.sec.gov/Archives/edgar/data/1858007/000121390025097077/0001213900-25-097077.txt
 2025-10-07 20:54:28 | 8-K - OWENS & MINOR INC/VA/ (0000075252) (Filer) | 2025-10-07T16:48:57-04:00 | https://www.sec.gov/Archives/edgar/data/75252/000119312525233577/0001193125-25-233577.txt
+2025-10-07 21:11:52 | 8-K - Northann Corp. (0001923780) (Filer) | 2025-10-07T17:10:50-04:00 | https://www.sec.gov/Archives/edgar/data/1923780/000157587225000605/0001575872-25-000605.txt
+2025-10-07 21:11:54 | 8-K - GameSquare Holdings, Inc. (0001714562) (Filer) | 2025-10-07T17:10:50-04:00 | https://www.sec.gov/Archives/edgar/data/1714562/000149315225017320/0001493152-25-017320.txt
+2025-10-07 21:11:55 | 8-K - Nuburu, Inc. (0001814215) (Filer) | 2025-10-07T17:10:26-04:00 | https://www.sec.gov/Archives/edgar/data/1814215/000119312525233623/0001193125-25-233623.txt
+2025-10-07 21:11:57 | 8-K - MSC INDUSTRIAL DIRECT CO INC (0001003078) (Filer) | 2025-10-07T17:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/1003078/000100307825000115/0001003078-25-000115.txt
+2025-10-07 21:11:58 | 8-K - Origin Materials, Inc. (0001802457) (Filer) | 2025-10-07T17:09:33-04:00 | https://www.sec.gov/Archives/edgar/data/1802457/000180245725000070/0001802457-25-000070.txt
+2025-10-07 21:11:59 | 8-K - Mountain Lake Acquisition Corp. (0002029492) (Filer) | 2025-10-07T17:07:05-04:00 | https://www.sec.gov/Archives/edgar/data/2029492/000121390025097093/0001213900-25-097093.txt
+2025-10-07 21:12:00 | 8-K - TPG Twin Brook Capital Income Fund (0001913724) (Filer) | 2025-10-07T17:06:58-04:00 | https://www.sec.gov/Archives/edgar/data/1913724/000162828025044521/0001628280-25-044521.txt
+2025-10-07 21:12:01 | 8-K - Biomea Fusion, Inc. (0001840439) (Filer) | 2025-10-07T17:06:50-04:00 | https://www.sec.gov/Archives/edgar/data/1840439/000119312525233614/0001193125-25-233614.txt
+2025-10-07 21:12:03 | 8-K - Intercontinental Exchange, Inc. (0001571949) (Filer) | 2025-10-07T17:05:15-04:00 | https://www.sec.gov/Archives/edgar/data/1571949/000094787125000890/0000947871-25-000890.txt
+2025-10-07 21:12:04 | 8-K - Presidio Property Trust, Inc. (0001080657) (Filer) | 2025-10-07T17:05:12-04:00 | https://www.sec.gov/Archives/edgar/data/1080657/000149315225017315/0001493152-25-017315.txt
