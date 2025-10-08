@@ -6228,3 +6228,4 @@
 2025-10-08 21:30:09 | 8-K - BlackRock Private Credit Fund (0001902649) (Filer) | 2025-10-08T17:21:16-04:00 | https://www.sec.gov/Archives/edgar/data/1902649/000113322825010724/0001133228-25-010724.txt
 2025-10-08 21:30:10 | 8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer) | 2025-10-08T17:20:44-04:00 | https://www.sec.gov/Archives/edgar/data/1966983/000119312525234676/0001193125-25-234676.txt
 2025-10-08 21:30:12 | 8-K - Esperion Therapeutics, Inc. (0001434868) (Filer) | 2025-10-08T17:18:50-04:00 | https://www.sec.gov/Archives/edgar/data/1434868/000110465925097992/0001104659-25-097992.txt
+2025-10-08 21:40:40 | 8-K - FS KKR Capital Corp (0001422183) (Filer) | 2025-10-08T17:29:44-04:00 | https://www.sec.gov/Archives/edgar/data/1422183/000110465925097997/0001104659-25-097997.txt
