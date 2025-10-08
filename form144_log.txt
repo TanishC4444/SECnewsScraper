@@ -4830,3 +4830,11 @@
 2025-10-08 15:24:52 | GREEN WILLIAM D | Director | Shares: 42736 | Value: $6,837,760.0 | Percent: 0.012685% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006390/0001959173-25-006390.txt
 2025-10-08 19:27:25 | Gatling John A. | Former Officer | Shares: 5817 | Value: $191,600.34 | Percent: 0.004438% | Link: https://www.sec.gov/Archives/edgar/data/1789832/000195917325006392/0001959173-25-006392.txt
 2025-10-08 19:27:26 | Gatling John A. | Former Officer | Shares: 5817 | Value: $191,600.34 | Percent: 0.004438% | Link: https://www.sec.gov/Archives/edgar/data/1702312/000195917325006392/0001959173-25-006392.txt
+2025-10-08 20:21:37 | MARK CHIPLOCK | Officer | Shares: 5900 | Value: $229,215.0 | Percent: 0.017001% | Link: https://www.sec.gov/Archives/edgar/data/1755243/000195004725007851/0001950047-25-007851.txt
+2025-10-08 20:21:39 | MARK CHIPLOCK | Officer | Shares: 5900 | Value: $229,215.0 | Percent: 0.017001% | Link: https://www.sec.gov/Archives/edgar/data/1488139/000195004725007851/0001950047-25-007851.txt
+2025-10-08 20:21:40 | EDWARD M KAYE | Director | Shares: 25000 | Value: $682,750.0 | Percent: 0.045623% | Link: https://www.sec.gov/Archives/edgar/data/1623526/000195004725007849/0001950047-25-007849.txt
+2025-10-08 20:21:41 | EDWARD M KAYE | Director | Shares: 25000 | Value: $682,750.0 | Percent: 0.045623% | Link: https://www.sec.gov/Archives/edgar/data/1522780/000195004725007849/0001950047-25-007849.txt
+2025-10-08 20:21:43 | THE DAVID A DUFFIELD TRUST U/T/A 7/14/88 | 10% Stockholder | Shares: 75053 | Value: $17,500,108.01 | Percent: 0.034587% | Link: https://www.sec.gov/Archives/edgar/data/1327811/000195004725007848/0001950047-25-007848.txt
+2025-10-08 20:21:44 | THE DAVID A DUFFIELD TRUST U/T/A 7/14/88 | 10% Stockholder | Shares: 75053 | Value: $17,500,108.01 | Percent: 0.034587% | Link: https://www.sec.gov/Archives/edgar/data/938071/000195004725007848/0001950047-25-007848.txt
+2025-10-08 20:21:46 | OMNADORA CAPITAL LLC | Director | Shares: 50000 | Value: $6,441,500.0 | Percent: 0.013496% | Link: https://www.sec.gov/Archives/edgar/data/2058037/000195004725007847/0001950047-25-007847.txt
+2025-10-08 20:21:47 | OMNADORA CAPITAL LLC | Director | Shares: 50000 | Value: $6,441,500.0 | Percent: 0.013496% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725007847/0001950047-25-007847.txt
