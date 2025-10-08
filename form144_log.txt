@@ -4826,3 +4826,5 @@
 2025-10-08 11:57:40 | Hyong (Ken) Kim | Chief Medical Officer | Shares: 35500 | Value: $602,790.0 | Percent: 0.017926% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000199325525000009/0001993255-25-000009.txt
 2025-10-08 14:11:39 | BURKE JAMES A | Officer | Shares: 19596 | Value: $3,947,261.29 | Percent: 0.005784% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006389/0001959173-25-006389.txt
 2025-10-08 14:11:40 | BURKE JAMES A | Officer | Shares: 19596 | Value: $3,947,261.29 | Percent: 0.005784% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006389/0001959173-25-006389.txt
+2025-10-08 15:24:51 | GREEN WILLIAM D | Director | Shares: 42736 | Value: $6,837,760.0 | Percent: 0.012685% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006390/0001959173-25-006390.txt
+2025-10-08 15:24:52 | GREEN WILLIAM D | Director | Shares: 42736 | Value: $6,837,760.0 | Percent: 0.012685% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006390/0001959173-25-006390.txt
