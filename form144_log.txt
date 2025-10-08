@@ -4828,3 +4828,5 @@
 2025-10-08 14:11:40 | BURKE JAMES A | Officer | Shares: 19596 | Value: $3,947,261.29 | Percent: 0.005784% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006389/0001959173-25-006389.txt
 2025-10-08 15:24:51 | GREEN WILLIAM D | Director | Shares: 42736 | Value: $6,837,760.0 | Percent: 0.012685% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006390/0001959173-25-006390.txt
 2025-10-08 15:24:52 | GREEN WILLIAM D | Director | Shares: 42736 | Value: $6,837,760.0 | Percent: 0.012685% | Link: https://www.sec.gov/Archives/edgar/data/1232906/000195917325006390/0001959173-25-006390.txt
+2025-10-08 19:27:25 | Gatling John A. | Former Officer | Shares: 5817 | Value: $191,600.34 | Percent: 0.004438% | Link: https://www.sec.gov/Archives/edgar/data/1789832/000195917325006392/0001959173-25-006392.txt
+2025-10-08 19:27:26 | Gatling John A. | Former Officer | Shares: 5817 | Value: $191,600.34 | Percent: 0.004438% | Link: https://www.sec.gov/Archives/edgar/data/1702312/000195917325006392/0001959173-25-006392.txt
