@@ -4852,3 +4852,5 @@
 2025-10-08 20:56:21 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 71961 | Value: $4,885,432.29 | Percent: 0.206989% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025044621/0001628280-25-044621.txt
 2025-10-08 21:16:00 | OCAMPO SUSAN | 10% Stockholder | Shares: 150000 | Value: $19,195,500.0 | Percent: 0.201420% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000523/0001949846-25-000523.txt
 2025-10-08 21:16:02 | OCAMPO SUSAN | 10% Stockholder | Shares: 150000 | Value: $19,195,500.0 | Percent: 0.201420% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000523/0001949846-25-000523.txt
+2025-10-08 22:56:04 | GARY BURNISON | CEO | Shares: 31784 | Value: $2,243,771.0 | Percent: 0.060667% | Link: https://www.sec.gov/Archives/edgar/data/1236810/000162828025044640/0001628280-25-044640.txt
+2025-10-08 22:56:05 | GARY BURNISON | CEO | Shares: 31784 | Value: $2,243,771.0 | Percent: 0.060667% | Link: https://www.sec.gov/Archives/edgar/data/56679/000162828025044640/0001628280-25-044640.txt
