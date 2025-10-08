@@ -6125,3 +6125,13 @@
 2025-10-07 21:37:41 | 8-K - Humacyte, Inc. (0001818382) (Filer) | 2025-10-07T17:31:23-04:00 | https://www.sec.gov/Archives/edgar/data/1818382/000110465925097591/0001104659-25-097591.txt
 2025-10-07 21:37:43 | 8-K - ZYNEX INC (0000846475) (Filer) | 2025-10-07T17:29:37-04:00 | https://www.sec.gov/Archives/edgar/data/846475/000110465925097588/0001104659-25-097588.txt
 2025-10-07 21:37:45 | 8-K - TaskUs, Inc. (0001829864) (Filer) | 2025-10-07T17:28:50-04:00 | https://www.sec.gov/Archives/edgar/data/1829864/000119312525233695/0001193125-25-233695.txt
+2025-10-08 10:10:11 | 8-K - UMH PROPERTIES, INC. (0000752642) (Filer) | 2025-10-08T06:09:25-04:00 | https://www.sec.gov/Archives/edgar/data/752642/000149315225017350/0001493152-25-017350.txt
+2025-10-08 10:10:13 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-08T06:02:23-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325015980/0001062993-25-015980.txt
+2025-10-08 10:10:14 | 8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer) | 2025-10-08T06:02:02-04:00 | https://www.sec.gov/Archives/edgar/data/1966983/000119312525233937/0001193125-25-233937.txt
+2025-10-08 10:10:16 | 8-K - Zenas BioPharma, Inc. (0001953926) (Filer) | 2025-10-08T06:01:10-04:00 | https://www.sec.gov/Archives/edgar/data/1953926/000110465925097663/0001104659-25-097663.txt
+2025-10-08 10:10:18 | 8-K - Scorpius Holdings, Inc. (0001476963) (Filer) | 2025-10-07T20:10:08-04:00 | https://www.sec.gov/Archives/edgar/data/1476963/000107997325001574/0001079973-25-001574.txt
+2025-10-08 10:10:19 | 8-K - EQV Ventures Acquisition Corp. (0002021042) (Filer) | 2025-10-07T19:10:07-04:00 | https://www.sec.gov/Archives/edgar/data/2021042/000121390025097159/0001213900-25-097159.txt
+2025-10-08 10:10:20 | 8-K - Sound Point Meridian Capital, Inc. (0001930147) (Filer) | 2025-10-07T18:47:16-04:00 | https://www.sec.gov/Archives/edgar/data/1930147/000182912625007954/0001829126-25-007954.txt
+2025-10-08 10:10:22 | 8-K - Nature's Miracle Holding Inc. (0001947861) (Filer) | 2025-10-07T18:37:00-04:00 | https://www.sec.gov/Archives/edgar/data/1947861/000121390025097150/0001213900-25-097150.txt
+2025-10-08 10:10:23 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-07T18:32:52-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000541/0001564708-25-000541.txt
+2025-10-08 10:10:25 | 8-K - Profusa, Inc. (0001859807) (Filer) | 2025-10-07T18:13:39-04:00 | https://www.sec.gov/Archives/edgar/data/1859807/000121390025097141/0001213900-25-097141.txt
