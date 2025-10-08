@@ -4822,3 +4822,5 @@
 2025-10-08 02:36:44 | Mark McClain | Officer &amp; Director | Shares: 145058 | Value: $3,271,594.61 | Percent: 0.026060% | Link: https://www.sec.gov/Archives/edgar/data/1722498/000121390025097198/0001213900-25-097198.txt
 2025-10-08 02:36:45 | Chandra Gnanasambandam | Officer | Shares: 12654 | Value: $285,394.52 | Percent: 0.002273% | Link: https://www.sec.gov/Archives/edgar/data/2058357/000121390025097197/0001213900-25-097197.txt
 2025-10-08 02:36:46 | Chandra Gnanasambandam | Officer | Shares: 12654 | Value: $285,394.52 | Percent: 0.002273% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097197/0001213900-25-097197.txt
+2025-10-08 11:57:40 | Hyong (Ken) Kim | Chief Medical Officer | Shares: 35500 | Value: $602,790.0 | Percent: 0.017926% | Link: https://www.sec.gov/Archives/edgar/data/1993255/000199325525000009/0001993255-25-000009.txt
+2025-10-08 11:57:40 | Hyong (Ken) Kim | Chief Medical Officer | Shares: 35500 | Value: $602,790.0 | Percent: 0.017926% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000199325525000009/0001993255-25-000009.txt
