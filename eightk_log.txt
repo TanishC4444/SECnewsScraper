@@ -6139,3 +6139,6 @@
 2025-10-08 10:34:29 | 8-K - STEWART INFORMATION SERVICES CORP (0000094344) (Filer) | 2025-10-08T06:16:01-04:00 | https://www.sec.gov/Archives/edgar/data/94344/000110465925097677/0001104659-25-097677.txt
 2025-10-08 10:56:19 | 8-K - Jefferies Financial Group Inc. (0000096223) (Filer) | 2025-10-08T06:55:06-04:00 | https://www.sec.gov/Archives/edgar/data/96223/000114036125037595/0001140361-25-037595.txt
 2025-10-08 10:56:21 | 8-K - TopBuild Corp (0001633931) (Filer) | 2025-10-08T06:50:25-04:00 | https://www.sec.gov/Archives/edgar/data/1633931/000110465925097711/0001104659-25-097711.txt
+2025-10-08 11:15:06 | 8-K - Bitcoin Depot Inc. (0001901799) (Filer) | 2025-10-08T07:05:20-04:00 | https://www.sec.gov/Archives/edgar/data/1901799/000119312525233985/0001193125-25-233985.txt
+2025-10-08 11:15:08 | 8-K - Karyopharm Therapeutics Inc. (0001503802) (Filer) | 2025-10-08T07:05:01-04:00 | https://www.sec.gov/Archives/edgar/data/1503802/000119312525233983/0001193125-25-233983.txt
+2025-10-08 11:15:10 | 8-K - Cartesian Therapeutics, Inc. (0001453687) (Filer) | 2025-10-08T07:00:02-04:00 | https://www.sec.gov/Archives/edgar/data/1453687/000145368725000104/0001453687-25-000104.txt
