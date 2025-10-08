@@ -4844,3 +4844,5 @@
 2025-10-08 20:37:18 | 1 | Director | Shares: 22629 | Value: $271,548.0 | Percent: 0.024883% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025044607/0001628280-25-044607.txt
 2025-10-08 20:37:19 | OLIVIER POMEL | Director | Shares: 25620 | Value: $3,958,802.4 | Percent: 0.007925% | Link: https://www.sec.gov/Archives/edgar/data/1783990/000195004725007856/0001950047-25-007856.txt
 2025-10-08 20:37:20 | OLIVIER POMEL | Director | Shares: 25620 | Value: $3,958,802.4 | Percent: 0.007925% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725007856/0001950047-25-007856.txt
+2025-10-08 20:47:01 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,185.65 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000839/0001969223-25-000839.txt
+2025-10-08 20:47:02 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,185.65 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000839/0001969223-25-000839.txt
