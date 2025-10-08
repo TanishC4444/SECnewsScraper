@@ -4838,3 +4838,9 @@
 2025-10-08 20:21:44 | THE DAVID A DUFFIELD TRUST U/T/A 7/14/88 | 10% Stockholder | Shares: 75053 | Value: $17,500,108.01 | Percent: 0.034587% | Link: https://www.sec.gov/Archives/edgar/data/938071/000195004725007848/0001950047-25-007848.txt
 2025-10-08 20:21:46 | OMNADORA CAPITAL LLC | Director | Shares: 50000 | Value: $6,441,500.0 | Percent: 0.013496% | Link: https://www.sec.gov/Archives/edgar/data/2058037/000195004725007847/0001950047-25-007847.txt
 2025-10-08 20:21:47 | OMNADORA CAPITAL LLC | Director | Shares: 50000 | Value: $6,441,500.0 | Percent: 0.013496% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725007847/0001950047-25-007847.txt
+2025-10-08 20:37:13 | Richard Schwartz | Officer | Shares: 193905 | Value: $3,529,477.0 | Percent: 0.205071% | Link: https://www.sec.gov/Archives/edgar/data/1834345/000162828025044615/0001628280-25-044615.txt
+2025-10-08 20:37:14 | Richard Schwartz | Officer | Shares: 193905 | Value: $3,529,477.0 | Percent: 0.205071% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000162828025044615/0001628280-25-044615.txt
+2025-10-08 20:37:17 | 1 | Director | Shares: 22629 | Value: $271,548.0 | Percent: 0.024883% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025044607/0001628280-25-044607.txt
+2025-10-08 20:37:18 | 1 | Director | Shares: 22629 | Value: $271,548.0 | Percent: 0.024883% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025044607/0001628280-25-044607.txt
+2025-10-08 20:37:19 | OLIVIER POMEL | Director | Shares: 25620 | Value: $3,958,802.4 | Percent: 0.007925% | Link: https://www.sec.gov/Archives/edgar/data/1783990/000195004725007856/0001950047-25-007856.txt
+2025-10-08 20:37:20 | OLIVIER POMEL | Director | Shares: 25620 | Value: $3,958,802.4 | Percent: 0.007925% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725007856/0001950047-25-007856.txt
