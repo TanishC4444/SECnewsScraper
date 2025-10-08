@@ -4846,3 +4846,7 @@
 2025-10-08 20:37:20 | OLIVIER POMEL | Director | Shares: 25620 | Value: $3,958,802.4 | Percent: 0.007925% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725007856/0001950047-25-007856.txt
 2025-10-08 20:47:01 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,185.65 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000839/0001969223-25-000839.txt
 2025-10-08 20:47:02 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,185.65 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000839/0001969223-25-000839.txt
+2025-10-08 20:56:18 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,129,279.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001247/0001921094-25-001247.txt
+2025-10-08 20:56:19 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,129,279.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001247/0001921094-25-001247.txt
+2025-10-08 20:56:20 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 71961 | Value: $4,885,432.29 | Percent: 0.206989% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025044621/0001628280-25-044621.txt
+2025-10-08 20:56:21 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 71961 | Value: $4,885,432.29 | Percent: 0.206989% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025044621/0001628280-25-044621.txt
