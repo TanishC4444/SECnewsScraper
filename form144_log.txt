@@ -4892,3 +4892,5 @@
 2025-10-09 20:56:01 | BLIND 1212, LLC | Affiliate | Shares: 15000 | Value: $518,413.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1810201/000195004725007880/0001950047-25-007880.txt
 2025-10-09 20:56:02 | YABMS, LLC | Affiliate | Shares: 15000 | Value: $518,365.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195004725007879/0001950047-25-007879.txt
 2025-10-09 20:56:02 | YABMS, LLC | Affiliate | Shares: 15000 | Value: $518,365.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1810201/000195004725007879/0001950047-25-007879.txt
+2025-10-09 21:30:11 | GARY BURNISON | CEO | Shares: 16864 | Value: $1,180,635.0 | Percent: 0.032189% | Link: https://www.sec.gov/Archives/edgar/data/1236810/000162828025044710/0001628280-25-044710.txt
+2025-10-09 21:30:12 | GARY BURNISON | CEO | Shares: 16864 | Value: $1,180,635.0 | Percent: 0.032189% | Link: https://www.sec.gov/Archives/edgar/data/56679/000162828025044710/0001628280-25-044710.txt
