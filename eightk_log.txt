@@ -6254,3 +6254,12 @@
 2025-10-09 11:38:18 | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | 2025-10-09T07:32:07-04:00 | https://www.sec.gov/Archives/edgar/data/60667/000006066725000199/0000060667-25-000199.txt
 2025-10-09 11:38:19 | 8-K - Exodus Movement, Inc. (0001821534) (Filer) | 2025-10-09T07:31:21-04:00 | https://www.sec.gov/Archives/edgar/data/1821534/000119312525235127/0001193125-25-235127.txt
 2025-10-09 11:47:25 | 8-K - Rein Therapeutics, Inc. (0001420565) (Filer) | 2025-10-09T07:45:46-04:00 | https://www.sec.gov/Archives/edgar/data/1420565/000119312525235152/0001193125-25-235152.txt
+2025-10-09 12:38:47 | 8-K - Momentus Inc. (0001781162) (Filer) | 2025-10-09T08:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1781162/000114036125037763/0001140361-25-037763.txt
+2025-10-09 12:38:48 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-10-09T08:30:41-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225017534/0001493152-25-017534.txt
+2025-10-09 12:38:49 | 8-K - KULR Technology Group, Inc. (0001662684) (Filer) | 2025-10-09T08:30:39-04:00 | https://www.sec.gov/Archives/edgar/data/1662684/000110465925098100/0001104659-25-098100.txt
+2025-10-09 12:38:51 | 8-K - Runway Growth Finance Corp. (0001653384) (Filer) | 2025-10-09T08:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1653384/000119312525235226/0001193125-25-235226.txt
+2025-10-09 12:38:52 | 8-K - Stabilis Solutions, Inc. (0001043186) (Filer) | 2025-10-09T08:27:45-04:00 | https://www.sec.gov/Archives/edgar/data/1043186/000143774925030739/0001437749-25-030739.txt
+2025-10-09 12:38:54 | 8-K - Taysha Gene Therapies, Inc. (0001806310) (Filer) | 2025-10-09T08:24:24-04:00 | https://www.sec.gov/Archives/edgar/data/1806310/000119312525235212/0001193125-25-235212.txt
+2025-10-09 12:38:55 | 8-K - CDT Equity Inc. (0001896212) (Filer) | 2025-10-09T08:15:40-04:00 | https://www.sec.gov/Archives/edgar/data/1896212/000149315225017533/0001493152-25-017533.txt
+2025-10-09 12:38:56 | 8-K - Millrose Properties, Inc. (0002017206) (Filer) | 2025-10-09T08:07:14-04:00 | https://www.sec.gov/Archives/edgar/data/2017206/000119312525235180/0001193125-25-235180.txt
+2025-10-09 12:38:57 | 8-K - Byrna Technologies Inc. (0001354866) (Filer) | 2025-10-09T08:05:10-04:00 | https://www.sec.gov/Archives/edgar/data/1354866/000143774925030737/0001437749-25-030737.txt
