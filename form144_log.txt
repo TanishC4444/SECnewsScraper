@@ -4886,3 +4886,9 @@
 2025-10-09 20:36:26 | OLIVIER POMEL | Director | Shares: 63939 | Value: $10,493,668.68 | Percent: 0.019779% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725007878/0001950047-25-007878.txt
 2025-10-09 20:36:27 | BRADLEY MAIORINO | Director | Shares: 13063 | Value: $431,862.78 | Percent: 0.045032% | Link: https://www.sec.gov/Archives/edgar/data/1745817/000195004725007877/0001950047-25-007877.txt
 2025-10-09 20:36:28 | BRADLEY MAIORINO | Director | Shares: 13063 | Value: $431,862.78 | Percent: 0.045032% | Link: https://www.sec.gov/Archives/edgar/data/1122904/000195004725007877/0001950047-25-007877.txt
+2025-10-09 20:55:58 | Ami Sagy | Shareholder | Shares: 140000 | Value: $308,000.0 | Percent: 1.100974% | Link: https://www.sec.gov/Archives/edgar/data/1740791/000121390025097844/0001213900-25-097844.txt
+2025-10-09 20:55:59 | Ami Sagy | Shareholder | Shares: 140000 | Value: $308,000.0 | Percent: 1.100974% | Link: https://www.sec.gov/Archives/edgar/data/1631487/000121390025097844/0001213900-25-097844.txt
+2025-10-09 20:56:00 | BLIND 1212, LLC | Affiliate | Shares: 15000 | Value: $518,413.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195004725007880/0001950047-25-007880.txt
+2025-10-09 20:56:01 | BLIND 1212, LLC | Affiliate | Shares: 15000 | Value: $518,413.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1810201/000195004725007880/0001950047-25-007880.txt
+2025-10-09 20:56:02 | YABMS, LLC | Affiliate | Shares: 15000 | Value: $518,365.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1883685/000195004725007879/0001950047-25-007879.txt
+2025-10-09 20:56:02 | YABMS, LLC | Affiliate | Shares: 15000 | Value: $518,365.5 | Percent: 0.003021% | Link: https://www.sec.gov/Archives/edgar/data/1810201/000195004725007879/0001950047-25-007879.txt
