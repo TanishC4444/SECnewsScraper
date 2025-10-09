@@ -4896,3 +4896,5 @@
 2025-10-09 21:30:12 | GARY BURNISON | CEO | Shares: 16864 | Value: $1,180,635.0 | Percent: 0.032189% | Link: https://www.sec.gov/Archives/edgar/data/56679/000162828025044710/0001628280-25-044710.txt
 2025-10-09 22:54:12 | Michael S. Dell | Officer | Shares: 6253968 | Value: $1,000,053,261.0 | Percent: 1.846752% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000112329225000528/0001123292-25-000528.txt
 2025-10-09 22:54:13 | Michael S. Dell | Officer | Shares: 6253968 | Value: $1,000,053,261.0 | Percent: 1.846752% | Link: https://www.sec.gov/Archives/edgar/data/908724/000112329225000528/0001123292-25-000528.txt
+2025-10-09 23:11:55 | Windsor Private Capital LP | 10% Stockholder | Shares: 30126 | Value: $86,694.86 | Percent: 0.224004% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000203416025000009/0002034160-25-000009.txt
+2025-10-09 23:11:56 | Windsor Private Capital LP | 10% Stockholder | Shares: 30126 | Value: $86,694.86 | Percent: 0.224004% | Link: https://www.sec.gov/Archives/edgar/data/803578/000203416025000009/0002034160-25-000009.txt
