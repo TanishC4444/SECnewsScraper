@@ -4872,3 +4872,5 @@
 2025-10-09 01:45:14 | Matt Mills | Officer | Shares: 51700 | Value: $1,160,514.72 | Percent: 0.009288% | Link: https://www.sec.gov/Archives/edgar/data/1786883/000121390025097554/0001213900-25-097554.txt
 2025-10-09 01:45:15 | Mark McClain | Officer &amp; Director | Shares: 148003 | Value: $3,322,253.4 | Percent: 0.026589% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097553/0001213900-25-097553.txt
 2025-10-09 01:45:16 | Mark McClain | Officer &amp; Director | Shares: 148003 | Value: $3,322,253.4 | Percent: 0.026589% | Link: https://www.sec.gov/Archives/edgar/data/1722498/000121390025097553/0001213900-25-097553.txt
+2025-10-09 14:13:24 | BURKE JAMES A | Officer | Shares: 21365 | Value: $4,434,403.42 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006394/0001959173-25-006394.txt
+2025-10-09 14:13:25 | BURKE JAMES A | Officer | Shares: 21365 | Value: $4,434,403.42 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006394/0001959173-25-006394.txt
