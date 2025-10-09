@@ -6352,3 +6352,4 @@
 2025-10-09 21:30:04 | 8-K - Grayscale Bitcoin Trust ETF (0001588489) (Filer) | 2025-10-09T17:20:12-04:00 | https://www.sec.gov/Archives/edgar/data/1588489/000119312525236072/0001193125-25-236072.txt
 2025-10-09 21:30:06 | 8-K - Cartica Acquisition Corp (0001848437) (Filer) | 2025-10-09T17:19:55-04:00 | https://www.sec.gov/Archives/edgar/data/1848437/000110465925098410/0001104659-25-098410.txt
 2025-10-09 21:30:09 | 8-K - Grayscale Bitcoin Mini Trust ETF (0002015034) (Filer) | 2025-10-09T17:19:29-04:00 | https://www.sec.gov/Archives/edgar/data/2015034/000119312525236071/0001193125-25-236071.txt
+2025-10-09 21:40:40 | 8-K - AI Infrastructure Acquisition Corp. (0002073553) (Filer) | 2025-10-09T17:29:43-04:00 | https://www.sec.gov/Archives/edgar/data/2073553/000149315225017654/0001493152-25-017654.txt
