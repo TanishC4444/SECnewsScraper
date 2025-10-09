@@ -6298,3 +6298,4 @@
 2025-10-09 18:43:48 | 8-K - Serve Robotics Inc. /DE/ (0001832483) (Filer) | 2025-10-09T14:34:22-04:00 | https://www.sec.gov/Archives/edgar/data/1832483/000183248325000100/0001832483-25-000100.txt
 2025-10-09 18:55:10 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-10-09T14:47:24-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000191/0001325814-25-000191.txt
 2025-10-09 19:13:31 | 8-K - WYTEC INTERNATIONAL INC (0001560143) (Filer) | 2025-10-09T14:54:52-04:00 | https://www.sec.gov/Archives/edgar/data/1560143/000168316825007472/0001683168-25-007472.txt
+2025-10-09 19:26:39 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-10-09T15:22:05-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000216/0001325878-25-000216.txt
