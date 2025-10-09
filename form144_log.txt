@@ -4880,3 +4880,9 @@
 2025-10-09 20:18:59 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,491,151.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001250/0001921094-25-001250.txt
 2025-10-09 20:19:01 | DANESH FARIBA | Director | Shares: 6335 | Value: $156,823.56 | Percent: 0.021112% | Link: https://www.sec.gov/Archives/edgar/data/1228855/000195917325006398/0001959173-25-006398.txt
 2025-10-09 20:19:02 | DANESH FARIBA | Director | Shares: 6335 | Value: $156,823.56 | Percent: 0.021112% | Link: https://www.sec.gov/Archives/edgar/data/1040470/000195917325006398/0001959173-25-006398.txt
+2025-10-09 20:36:22 | Hyep Ivan | Officer | Shares: 6415 | Value: $114,764.0 | Percent: 0.011757% | Link: https://www.sec.gov/Archives/edgar/data/2034668/000196922325000841/0001969223-25-000841.txt
+2025-10-09 20:36:23 | Hyep Ivan | Officer | Shares: 6415 | Value: $114,764.0 | Percent: 0.011757% | Link: https://www.sec.gov/Archives/edgar/data/2023658/000196922325000841/0001969223-25-000841.txt
+2025-10-09 20:36:24 | OLIVIER POMEL | Director | Shares: 63939 | Value: $10,493,668.68 | Percent: 0.019779% | Link: https://www.sec.gov/Archives/edgar/data/1783990/000195004725007878/0001950047-25-007878.txt
+2025-10-09 20:36:26 | OLIVIER POMEL | Director | Shares: 63939 | Value: $10,493,668.68 | Percent: 0.019779% | Link: https://www.sec.gov/Archives/edgar/data/1561550/000195004725007878/0001950047-25-007878.txt
+2025-10-09 20:36:27 | BRADLEY MAIORINO | Director | Shares: 13063 | Value: $431,862.78 | Percent: 0.045032% | Link: https://www.sec.gov/Archives/edgar/data/1745817/000195004725007877/0001950047-25-007877.txt
+2025-10-09 20:36:28 | BRADLEY MAIORINO | Director | Shares: 13063 | Value: $431,862.78 | Percent: 0.045032% | Link: https://www.sec.gov/Archives/edgar/data/1122904/000195004725007877/0001950047-25-007877.txt
