@@ -4954,3 +4954,7 @@
 2025-10-10 20:32:53 | Michael McNamara | Director | Shares: 5393 | Value: $1,268,201.43 | Percent: 0.002485% | Link: https://www.sec.gov/Archives/edgar/data/1261031/000162828025044796/0001628280-25-044796.txt
 2025-10-10 20:32:56 | WILLIAM WADDILL | Director | Shares: 12000 | Value: $804,480.0 | Percent: 0.019289% | Link: https://www.sec.gov/Archives/edgar/data/1553338/000195004725007903/0001950047-25-007903.txt
 2025-10-10 20:32:57 | WILLIAM WADDILL | Director | Shares: 12000 | Value: $804,480.0 | Percent: 0.019289% | Link: https://www.sec.gov/Archives/edgar/data/1377121/000195004725007903/0001950047-25-007903.txt
+2025-10-10 21:09:31 | Family Trust IX | Stockholder | Shares: 165000 | Value: $3,036,000.0 | Percent: 0.069316% | Link: https://www.sec.gov/Archives/edgar/data/1997856/000162828025044825/0001628280-25-044825.txt
+2025-10-10 21:09:31 | Family Trust IX | Stockholder | Shares: 165000 | Value: $3,036,000.0 | Percent: 0.069316% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000162828025044825/0001628280-25-044825.txt
+2025-10-10 21:09:33 | Charles L. Compton III | Director | Shares: 11321 | Value: $93,172.0 | Percent: 0.007587% | Link: https://www.sec.gov/Archives/edgar/data/2074428/000151741325000276/0001517413-25-000276.txt
+2025-10-10 21:09:34 | Charles L. Compton III | Director | Shares: 11321 | Value: $93,172.0 | Percent: 0.007587% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000151741325000276/0001517413-25-000276.txt

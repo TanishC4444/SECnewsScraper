@@ -6436,3 +6436,13 @@
 2025-10-10 20:53:05 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-10-10T16:51:11-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000114/0001756761-25-000114.txt
 2025-10-10 20:53:07 | 8-K - Aimfinity Investment Corp. I (0001903464) (Filer) | 2025-10-10T16:49:18-04:00 | https://www.sec.gov/Archives/edgar/data/1903464/000121390025098164/0001213900-25-098164.txt
 2025-10-10 20:53:07 | 8-K - Aura Fat Projects Acquisition Corp (0001901886) (Filer) | 2025-10-10T16:43:21-04:00 | https://www.sec.gov/Archives/edgar/data/1901886/000182912625008050/0001829126-25-008050.txt
+2025-10-10 21:09:16 | 8-K - CLEVELAND-CLIFFS INC. (0000764065) (Filer) | 2025-10-10T17:08:21-04:00 | https://www.sec.gov/Archives/edgar/data/764065/000076406525000144/0000764065-25-000144.txt
+2025-10-10 21:09:18 | 8-K - Live Nation Entertainment, Inc. (0001335258) (Filer) | 2025-10-10T17:06:03-04:00 | https://www.sec.gov/Archives/edgar/data/1335258/000133525825000137/0001335258-25-000137.txt
+2025-10-10 21:09:19 | 8-K - NI Holdings, Inc. (0001681206) (Filer) | 2025-10-10T17:05:31-04:00 | https://www.sec.gov/Archives/edgar/data/1681206/000207709625000137/0002077096-25-000137.txt
+2025-10-10 21:09:21 | 8-K - CV Sciences, Inc. (0001510964) (Filer) | 2025-10-10T17:05:25-04:00 | https://www.sec.gov/Archives/edgar/data/1510964/000119312525237188/0001193125-25-237188.txt
+2025-10-10 21:09:22 | 8-K - SEMTECH CORP (0000088941) (Filer) | 2025-10-10T17:05:18-04:00 | https://www.sec.gov/Archives/edgar/data/88941/000119312525237190/0001193125-25-237190.txt
+2025-10-10 21:09:23 | 8-K - U.S. GoldMining Inc. (0001947244) (Filer) | 2025-10-10T17:03:45-04:00 | https://www.sec.gov/Archives/edgar/data/1947244/000143774925030869/0001437749-25-030869.txt
+2025-10-10 21:09:25 | 8-K - ALLIANCE RESOURCE PARTNERS LP (0001086600) (Filer) | 2025-10-10T17:01:59-04:00 | https://www.sec.gov/Archives/edgar/data/1086600/000110465925098774/0001104659-25-098774.txt
+2025-10-10 21:09:26 | 8-K - TRANSUITE.ORG INC. (0001758699) (Filer) | 2025-10-10T17:01:45-04:00 | https://www.sec.gov/Archives/edgar/data/1758699/000164033425001815/0001640334-25-001815.txt
+2025-10-10 21:09:28 | 8-K - International Seaways, Inc. (0001679049) (Filer) | 2025-10-10T17:01:05-04:00 | https://www.sec.gov/Archives/edgar/data/1679049/000110465925098772/0001104659-25-098772.txt
+2025-10-10 21:09:29 | 8-K - Vroom, Inc. (0001580864) (Filer) | 2025-10-10T17:01:03-04:00 | https://www.sec.gov/Archives/edgar/data/1580864/000119312525237183/0001193125-25-237183.txt
