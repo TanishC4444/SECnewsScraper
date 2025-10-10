@@ -4958,3 +4958,5 @@
 2025-10-10 21:09:31 | Family Trust IX | Stockholder | Shares: 165000 | Value: $3,036,000.0 | Percent: 0.069316% | Link: https://www.sec.gov/Archives/edgar/data/1851003/000162828025044825/0001628280-25-044825.txt
 2025-10-10 21:09:33 | Charles L. Compton III | Director | Shares: 11321 | Value: $93,172.0 | Percent: 0.007587% | Link: https://www.sec.gov/Archives/edgar/data/2074428/000151741325000276/0001517413-25-000276.txt
 2025-10-10 21:09:34 | Charles L. Compton III | Director | Shares: 11321 | Value: $93,172.0 | Percent: 0.007587% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000151741325000276/0001517413-25-000276.txt
+2025-10-10 21:36:05 | Ganz Bryan | Officer | Shares: 40000 | Value: $1,193,994.05 | Percent: 0.176014% | Link: https://www.sec.gov/Archives/edgar/data/1354866/000197407825000372/0001974078-25-000372.txt
+2025-10-10 21:36:06 | Ganz Bryan | Officer | Shares: 40000 | Value: $1,193,994.05 | Percent: 0.176014% | Link: https://www.sec.gov/Archives/edgar/data/1318455/000197407825000372/0001974078-25-000372.txt
