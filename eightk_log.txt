@@ -6433,3 +6433,6 @@
 2025-10-10 20:43:36 | 8-K - byNordic Acquisition Corp (0001801417) (Filer) | 2025-10-10T16:32:30-04:00 | https://www.sec.gov/Archives/edgar/data/1801417/000121390025098151/0001213900-25-098151.txt
 2025-10-10 20:43:37 | 8-K - Playtika Holding Corp. (0001828016) (Filer) | 2025-10-10T16:32:23-04:00 | https://www.sec.gov/Archives/edgar/data/1828016/000182801625000041/0001828016-25-000041.txt
 2025-10-10 20:43:40 | 8-K - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-10T16:32:22-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000141266525000135/0001412665-25-000135.txt
+2025-10-10 20:53:05 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-10-10T16:51:11-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000114/0001756761-25-000114.txt
+2025-10-10 20:53:07 | 8-K - Aimfinity Investment Corp. I (0001903464) (Filer) | 2025-10-10T16:49:18-04:00 | https://www.sec.gov/Archives/edgar/data/1903464/000121390025098164/0001213900-25-098164.txt
+2025-10-10 20:53:07 | 8-K - Aura Fat Projects Acquisition Corp (0001901886) (Filer) | 2025-10-10T16:43:21-04:00 | https://www.sec.gov/Archives/edgar/data/1901886/000182912625008050/0001829126-25-008050.txt
