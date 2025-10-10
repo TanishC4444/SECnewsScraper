@@ -4960,3 +4960,7 @@
 2025-10-10 21:09:34 | Charles L. Compton III | Director | Shares: 11321 | Value: $93,172.0 | Percent: 0.007587% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000151741325000276/0001517413-25-000276.txt
 2025-10-10 21:36:05 | Ganz Bryan | Officer | Shares: 40000 | Value: $1,193,994.05 | Percent: 0.176014% | Link: https://www.sec.gov/Archives/edgar/data/1354866/000197407825000372/0001974078-25-000372.txt
 2025-10-10 21:36:06 | Ganz Bryan | Officer | Shares: 40000 | Value: $1,193,994.05 | Percent: 0.176014% | Link: https://www.sec.gov/Archives/edgar/data/1318455/000197407825000372/0001974078-25-000372.txt
+2025-10-10 23:22:23 | Katherine DeHoff | Officer | Shares: 10197 | Value: $166,007.16 | Percent: 0.001191% | Link: https://www.sec.gov/Archives/edgar/data/1877282/000187728225000008/0001877282-25-000008.txt
+2025-10-10 23:22:24 | Katherine DeHoff | Officer | Shares: 10197 | Value: $166,007.16 | Percent: 0.001191% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000187728225000008/0001877282-25-000008.txt
+2025-10-10 23:22:25 | Eric Allison | Officer | Shares: 33991 | Value: $553,373.48 | Percent: 0.003971% | Link: https://www.sec.gov/Archives/edgar/data/1877636/000187763625000006/0001877636-25-000006.txt
+2025-10-10 23:22:26 | Eric Allison | Officer | Shares: 33991 | Value: $553,373.48 | Percent: 0.003971% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000187763625000006/0001877636-25-000006.txt
