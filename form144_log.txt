@@ -4918,3 +4918,7 @@
 2025-10-10 14:26:59 | Gibson Christopher | Officer | Shares: 100000 | Value: $604,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006400/0001959173-25-006400.txt
 2025-10-10 14:43:01 | Levey Stuart | Officer | Shares: 19758 | Value: $5,927,400.0 | Percent: 0.000695% | Link: https://www.sec.gov/Archives/edgar/data/1952913/000195917325006402/0001959173-25-006402.txt
 2025-10-10 14:43:02 | Levey Stuart | Officer | Shares: 19758 | Value: $5,927,400.0 | Percent: 0.000695% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006402/0001959173-25-006402.txt
+2025-10-10 15:09:50 | Lovett William Radford II | Director | Shares: 250000 | Value: $5,790,000.0 | Percent: 0.711126% | Link: https://www.sec.gov/Archives/edgar/data/1825088/000194984625000524/0001949846-25-000524.txt
+2025-10-10 15:09:51 | Lovett William Radford II | Director | Shares: 250000 | Value: $5,790,000.0 | Percent: 0.711126% | Link: https://www.sec.gov/Archives/edgar/data/1545674/000194984625000524/0001949846-25-000524.txt
+2025-10-10 15:09:53 | Haycraft Benjamin | Officer | Shares: 10000 | Value: $38,000.0 | Percent: 0.000866% | Link: https://www.sec.gov/Archives/edgar/data/2085249/000100027525000145/0001000275-25-000145.txt
+2025-10-10 15:09:53 | Haycraft Benjamin | Officer | Shares: 10000 | Value: $38,000.0 | Percent: 0.000866% | Link: https://www.sec.gov/Archives/edgar/data/1093691/000100027525000145/0001000275-25-000145.txt
