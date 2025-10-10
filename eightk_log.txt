@@ -6414,3 +6414,12 @@
 2025-10-10 20:13:58 | 8-K - SLB LIMITED/NV (0000087347) (Filer) | 2025-10-10T16:05:46-04:00 | https://www.sec.gov/Archives/edgar/data/87347/000119312525237075/0001193125-25-237075.txt
 2025-10-10 20:13:59 | 8-K - Premier Air Charter Holdings Inc. (0001570937) (Filer) | 2025-10-10T16:05:37-04:00 | https://www.sec.gov/Archives/edgar/data/1570937/000168316825007497/0001683168-25-007497.txt
 2025-10-10 20:14:01 | 8-K - BranchOut Food Inc. (0001962481) (Filer) | 2025-10-10T16:05:35-04:00 | https://www.sec.gov/Archives/edgar/data/1962481/000149315225017753/0001493152-25-017753.txt
+2025-10-10 20:32:25 | 8-K - ZimVie Inc. (0001876588) (Filer) | 2025-10-10T16:31:33-04:00 | https://www.sec.gov/Archives/edgar/data/1876588/000119312525237145/0001193125-25-237145.txt
+2025-10-10 20:32:28 | 8-K - Cellectar Biosciences, Inc. (0001279704) (Filer) | 2025-10-10T16:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/1279704/000110465925098725/0001104659-25-098725.txt
+2025-10-10 20:32:30 | 8-K - XCel Brands, Inc. (0001083220) (Filer) | 2025-10-10T16:30:22-04:00 | https://www.sec.gov/Archives/edgar/data/1083220/000110465925098726/0001104659-25-098726.txt
+2025-10-10 20:32:32 | 8-K - Alliance Laundry Holdings Inc. (0001317685) (Filer) | 2025-10-10T16:29:37-04:00 | https://www.sec.gov/Archives/edgar/data/1317685/000162828025044802/0001628280-25-044802.txt
+2025-10-10 20:32:35 | 8-K - Nano Nuclear Energy Inc. (0001923891) (Filer) | 2025-10-10T16:29:09-04:00 | https://www.sec.gov/Archives/edgar/data/1923891/000149315225017769/0001493152-25-017769.txt
+2025-10-10 20:32:35 | 8-K - Six Flags Entertainment Corporation/NEW (0001999001) (Filer) | 2025-10-10T16:23:39-04:00 | https://www.sec.gov/Archives/edgar/data/1999001/000119312525237126/0001193125-25-237126.txt
+2025-10-10 20:32:38 | 8-K - Installed Building Products, Inc. (0001580905) (Filer) | 2025-10-10T16:22:52-04:00 | https://www.sec.gov/Archives/edgar/data/1580905/000162828025044799/0001628280-25-044799.txt
+2025-10-10 20:32:40 | 8-K - Tharimmune, Inc. (0001861657) (Filer) | 2025-10-10T16:22:17-04:00 | https://www.sec.gov/Archives/edgar/data/1861657/000149315225017766/0001493152-25-017766.txt
+2025-10-10 20:32:43 | 8-K - GlobalTech Corp (0001938338) (Filer) | 2025-10-10T16:17:19-04:00 | https://www.sec.gov/Archives/edgar/data/1938338/000147793225007494/0001477932-25-007494.txt
