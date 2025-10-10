@@ -4936,3 +4936,5 @@
 2025-10-10 18:42:03 | Hanson Michael J. | Officer | Shares: 50000 | Value: $813,450.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000045/0000103623-25-000045.txt
 2025-10-10 18:42:04 | Savchenko Sergey | Officer | Shares: 50000 | Value: $883,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/2088934/000010362325000044/0000103623-25-000044.txt
 2025-10-10 18:42:05 | Savchenko Sergey | Officer | Shares: 50000 | Value: $883,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000044/0000103623-25-000044.txt
+2025-10-10 19:09:35 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $260,881,750.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/316011/000031601125000034/0000316011-25-000034.txt
+2025-10-10 19:09:36 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $260,881,750.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000034/0000316011-25-000034.txt
