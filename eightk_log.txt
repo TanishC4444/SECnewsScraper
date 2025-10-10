@@ -6385,3 +6385,9 @@
 2025-10-10 12:50:29 | 8-K - Zura Bio Ltd (0001855644) (Filer) | 2025-10-10T08:20:32-04:00 | https://www.sec.gov/Archives/edgar/data/1855644/000110465925098546/0001104659-25-098546.txt
 2025-10-10 12:50:32 | 8-K - Haymaker Acquisition Corp. 4 (0001970509) (Filer) | 2025-10-10T08:20:00-04:00 | https://www.sec.gov/Archives/edgar/data/1970509/000110465925098545/0001104659-25-098545.txt
 2025-10-10 12:50:33 | 8-K - ScanTech AI Systems Inc. (0001994624) (Filer) | 2025-10-10T08:15:41-04:00 | https://www.sec.gov/Archives/edgar/data/1994624/000110465925098541/0001104659-25-098541.txt
+2025-10-10 13:18:59 | 8-K - Seneca Bancorp, Inc. (0002072421) (Filer) | 2025-10-10T09:09:12-04:00 | https://www.sec.gov/Archives/edgar/data/2072421/000094337425000430/0000943374-25-000430.txt
+2025-10-10 13:19:00 | 8-K - Kayne Anderson BDC, Inc. (0001747172) (Filer) | 2025-10-10T09:06:02-04:00 | https://www.sec.gov/Archives/edgar/data/1747172/000121390025097951/0001213900-25-097951.txt
+2025-10-10 13:19:00 | 8-K - Aptera Motors Corp (0001786471) (Filer) | 2025-10-10T09:05:26-04:00 | https://www.sec.gov/Archives/edgar/data/1786471/000149315225017705/0001493152-25-017705.txt
+2025-10-10 13:19:02 | 8-K - PULSE BIOSCIENCES, INC. (0001625101) (Filer) | 2025-10-10T09:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1625101/000143774925030816/0001437749-25-030816.txt
+2025-10-10 13:19:03 | 8-K - Legacy Housing Corp (0001436208) (Filer) | 2025-10-10T09:01:51-04:00 | https://www.sec.gov/Archives/edgar/data/1436208/000110465925098561/0001104659-25-098561.txt
+2025-10-10 13:19:05 | 8-K - ONTO INNOVATION INC. (0000704532) (Filer) | 2025-10-10T09:00:33-04:00 | https://www.sec.gov/Archives/edgar/data/704532/000119312525236464/0001193125-25-236464.txt
