@@ -4902,3 +4902,13 @@
 2025-10-09 23:27:19 | Buddy Chester Sub LLC | 10% Stockholder | Shares: 13280212 | Value: $507,968,109.0 | Percent: 5.900703% | Link: https://www.sec.gov/Archives/edgar/data/1766502/000119312525236159/0001193125-25-236159.txt
 2025-10-10 01:15:09 | Brian Carolan | Officer | Shares: 84699 | Value: $1,899,229.42 | Percent: 0.015216% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097895/0001213900-25-097895.txt
 2025-10-10 01:15:09 | Brian Carolan | Officer | Shares: 84699 | Value: $1,899,229.42 | Percent: 0.015216% | Link: https://www.sec.gov/Archives/edgar/data/1279714/000121390025097895/0001213900-25-097895.txt
+2025-10-10 02:40:43 | Chris Schmitt | Officer | Shares: 34186 | Value: $766,563.41 | Percent: 0.006142% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097900/0001213900-25-097900.txt
+2025-10-10 02:40:45 | Chris Schmitt | Officer | Shares: 34186 | Value: $766,563.41 | Percent: 0.006142% | Link: https://www.sec.gov/Archives/edgar/data/1820482/000121390025097900/0001213900-25-097900.txt
+2025-10-10 02:40:46 | Abby Payne | Officer | Shares: 31481 | Value: $705,921.64 | Percent: 0.005656% | Link: https://www.sec.gov/Archives/edgar/data/2052444/000121390025097899/0001213900-25-097899.txt
+2025-10-10 02:40:47 | Abby Payne | Officer | Shares: 31481 | Value: $705,921.64 | Percent: 0.005656% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097899/0001213900-25-097899.txt
+2025-10-10 02:40:48 | Matt Mills | Officer | Shares: 61279 | Value: $1,374,089.04 | Percent: 0.011009% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097898/0001213900-25-097898.txt
+2025-10-10 02:40:49 | Matt Mills | Officer | Shares: 61279 | Value: $1,374,089.04 | Percent: 0.011009% | Link: https://www.sec.gov/Archives/edgar/data/1786883/000121390025097898/0001213900-25-097898.txt
+2025-10-10 02:40:50 | Mark McClain | Officer &amp; Director | Shares: 175425 | Value: $3,933,624.49 | Percent: 0.031515% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097897/0001213900-25-097897.txt
+2025-10-10 02:40:51 | Mark McClain | Officer &amp; Director | Shares: 175425 | Value: $3,933,624.49 | Percent: 0.031515% | Link: https://www.sec.gov/Archives/edgar/data/1722498/000121390025097897/0001213900-25-097897.txt
+2025-10-10 02:40:52 | Chandra Gnanasambandam | Officer | Shares: 27174 | Value: $609,338.52 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/2058357/000121390025097896/0001213900-25-097896.txt
+2025-10-10 02:40:53 | Chandra Gnanasambandam | Officer | Shares: 27174 | Value: $609,338.52 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097896/0001213900-25-097896.txt
