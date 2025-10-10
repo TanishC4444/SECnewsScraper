@@ -4926,3 +4926,7 @@
 2025-10-10 15:42:38 | Smith Dylan C | Officer | Shares: 17000 | Value: $51,677,110.0 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1372612/000195917325006405/0001959173-25-006405.txt
 2025-10-10 15:52:16 | Smith Dylan C | Officer | Shares: 17000 | Value: $561,824.5 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1606410/000195917325006408/0001959173-25-006408.txt
 2025-10-10 15:52:17 | Smith Dylan C | Officer | Shares: 17000 | Value: $561,824.5 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1372612/000195917325006408/0001959173-25-006408.txt
+2025-10-10 16:02:12 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,388,262.0 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325006410/0001959173-25-006410.txt
+2025-10-10 16:02:13 | Blecharczyk Nathan | Officer | Shares: 11540 | Value: $1,388,262.0 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006410/0001959173-25-006410.txt
+2025-10-10 16:02:19 | BURKE JAMES A | Officer | Shares: 21364 | Value: $4,478,586.22 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006409/0001959173-25-006409.txt
+2025-10-10 16:02:20 | BURKE JAMES A | Officer | Shares: 21364 | Value: $4,478,586.22 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006409/0001959173-25-006409.txt
