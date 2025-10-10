@@ -4932,3 +4932,7 @@
 2025-10-10 16:02:20 | BURKE JAMES A | Officer | Shares: 21364 | Value: $4,478,586.22 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006409/0001959173-25-006409.txt
 2025-10-10 18:13:51 | Thomas John Harper | Officer | Shares: 50000 | Value: $885,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/2089321/000010362325000043/0000103623-25-000043.txt
 2025-10-10 18:13:52 | Thomas John Harper | Officer | Shares: 50000 | Value: $885,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000043/0000103623-25-000043.txt
+2025-10-10 18:42:02 | Hanson Michael J. | Officer | Shares: 50000 | Value: $813,450.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/2075834/000010362325000045/0000103623-25-000045.txt
+2025-10-10 18:42:03 | Hanson Michael J. | Officer | Shares: 50000 | Value: $813,450.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000045/0000103623-25-000045.txt
+2025-10-10 18:42:04 | Savchenko Sergey | Officer | Shares: 50000 | Value: $883,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/2088934/000010362325000044/0000103623-25-000044.txt
+2025-10-10 18:42:05 | Savchenko Sergey | Officer | Shares: 50000 | Value: $883,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000044/0000103623-25-000044.txt
