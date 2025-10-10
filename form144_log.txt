@@ -4924,3 +4924,5 @@
 2025-10-10 15:09:53 | Haycraft Benjamin | Officer | Shares: 10000 | Value: $38,000.0 | Percent: 0.000866% | Link: https://www.sec.gov/Archives/edgar/data/1093691/000100027525000145/0001000275-25-000145.txt
 2025-10-10 15:42:37 | Smith Dylan C | Officer | Shares: 17000 | Value: $51,677,110.0 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1606410/000195917325006405/0001959173-25-006405.txt
 2025-10-10 15:42:38 | Smith Dylan C | Officer | Shares: 17000 | Value: $51,677,110.0 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1372612/000195917325006405/0001959173-25-006405.txt
+2025-10-10 15:52:16 | Smith Dylan C | Officer | Shares: 17000 | Value: $561,824.5 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1606410/000195917325006408/0001959173-25-006408.txt
+2025-10-10 15:52:17 | Smith Dylan C | Officer | Shares: 17000 | Value: $561,824.5 | Percent: 0.011733% | Link: https://www.sec.gov/Archives/edgar/data/1372612/000195917325006408/0001959173-25-006408.txt
