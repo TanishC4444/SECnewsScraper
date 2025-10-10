@@ -4938,3 +4938,11 @@
 2025-10-10 18:42:05 | Savchenko Sergey | Officer | Shares: 50000 | Value: $883,000.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000044/0000103623-25-000044.txt
 2025-10-10 19:09:35 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $260,881,750.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/316011/000031601125000034/0000316011-25-000034.txt
 2025-10-10 19:09:36 | LILLY ENDOWMENT INC | 10% Stockholder | Shares: 305000 | Value: $260,881,750.0 | Percent: 0.032225% | Link: https://www.sec.gov/Archives/edgar/data/59478/000031601125000034/0000316011-25-000034.txt
+2025-10-10 20:14:02 | MUSHAKOV ANDREY | Officer | Shares: 25093 | Value: $392,525.0 | Percent: 0.096830% | Link: https://www.sec.gov/Archives/edgar/data/1371007/000197248125000243/0001972481-25-000243.txt
+2025-10-10 20:14:03 | MUSHAKOV ANDREY | Officer | Shares: 25093 | Value: $392,525.0 | Percent: 0.096830% | Link: https://www.sec.gov/Archives/edgar/data/1084554/000197248125000243/0001972481-25-000243.txt
+2025-10-10 20:14:04 | Richard A. Hayne | CEO | Shares: 671958 | Value: $47,131,134.0 | Percent: 0.749134% | Link: https://www.sec.gov/Archives/edgar/data/940569/000196858225000987/0001968582-25-000987.txt
+2025-10-10 20:14:06 | Richard A. Hayne | CEO | Shares: 671958 | Value: $47,131,134.0 | Percent: 0.749134% | Link: https://www.sec.gov/Archives/edgar/data/912615/000196858225000987/0001968582-25-000987.txt
+2025-10-10 20:14:07 | MARK J BARRENECHEA | Former Officer | Shares: 100009 | Value: $3,868,308.12 | Percent: 0.039325% | Link: https://www.sec.gov/Archives/edgar/data/1290936/000195004725007894/0001950047-25-007894.txt
+2025-10-10 20:14:08 | MARK J BARRENECHEA | Former Officer | Shares: 100009 | Value: $3,868,308.12 | Percent: 0.039325% | Link: https://www.sec.gov/Archives/edgar/data/1002638/000195004725007894/0001950047-25-007894.txt
+2025-10-10 20:14:10 | Margaret Hayne | Affiliate | Shares: 588042 | Value: $45,245,265.0 | Percent: 0.655580% | Link: https://www.sec.gov/Archives/edgar/data/1426604/000196858225000986/0001968582-25-000986.txt
+2025-10-10 20:14:11 | Margaret Hayne | Affiliate | Shares: 588042 | Value: $45,245,265.0 | Percent: 0.655580% | Link: https://www.sec.gov/Archives/edgar/data/912615/000196858225000986/0001968582-25-000986.txt
