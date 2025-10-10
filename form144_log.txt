@@ -4914,3 +4914,5 @@
 2025-10-10 02:40:53 | Chandra Gnanasambandam | Officer | Shares: 27174 | Value: $609,338.52 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/2030781/000121390025097896/0001213900-25-097896.txt
 2025-10-10 12:50:34 | Michael &amp; Susan Dell Foundation | Officer | Shares: 2723538 | Value: $424,735,751.0 | Percent: 0.808400% | Link: https://www.sec.gov/Archives/edgar/data/1599858/000162828025044724/0001628280-25-044724.txt
 2025-10-10 12:50:35 | Michael &amp; Susan Dell Foundation | Officer | Shares: 2723538 | Value: $424,735,751.0 | Percent: 0.808400% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000162828025044724/0001628280-25-044724.txt
+2025-10-10 14:26:57 | Gibson Christopher | Officer | Shares: 100000 | Value: $604,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325006400/0001959173-25-006400.txt
+2025-10-10 14:26:59 | Gibson Christopher | Officer | Shares: 100000 | Value: $604,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006400/0001959173-25-006400.txt
