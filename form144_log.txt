@@ -4964,3 +4964,7 @@
 2025-10-10 23:22:24 | Katherine DeHoff | Officer | Shares: 10197 | Value: $166,007.16 | Percent: 0.001191% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000187728225000008/0001877282-25-000008.txt
 2025-10-10 23:22:25 | Eric Allison | Officer | Shares: 33991 | Value: $553,373.48 | Percent: 0.003971% | Link: https://www.sec.gov/Archives/edgar/data/1877636/000187763625000006/0001877636-25-000006.txt
 2025-10-10 23:22:26 | Eric Allison | Officer | Shares: 33991 | Value: $553,373.48 | Percent: 0.003971% | Link: https://www.sec.gov/Archives/edgar/data/1819848/000187763625000006/0001877636-25-000006.txt
+2025-10-11 01:52:40 | Zhao Yuhui | vice president | Shares: 19232 | Value: $574,844.48 | Percent: 0.000751% | Link: https://www.sec.gov/Archives/edgar/data/2068927/000095010325013093/0000950103-25-013093.txt
+2025-10-11 01:52:41 | Zhao Yuhui | vice president | Shares: 19232 | Value: $574,844.48 | Percent: 0.000751% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013093/0000950103-25-013093.txt
+2025-10-11 01:52:42 | Windsor Private Capital LP | 10% Stockholder | Shares: 74810 | Value: $201,939.87 | Percent: 0.556256% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000110465925098818/0001104659-25-098818.txt
+2025-10-11 01:52:43 | Windsor Private Capital LP | 10% Stockholder | Shares: 74810 | Value: $201,939.87 | Percent: 0.556256% | Link: https://www.sec.gov/Archives/edgar/data/803578/000110465925098818/0001104659-25-098818.txt
