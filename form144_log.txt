@@ -5090,3 +5090,5 @@
 2025-10-14 22:00:08 | Insight Partners XI, L.P. | 10% Stockholder | Shares: 120727 | Value: $2,052,359.0 | Percent: 0.037174% | Link: https://www.sec.gov/Archives/edgar/data/1583708/000197407825000387/0001974078-25-000387.txt
 2025-10-14 22:25:22 | Robert Ragusa | Officer | Shares: 8275 | Value: $573,374.75 | Percent: 0.022787% | Link: https://www.sec.gov/Archives/edgar/data/1699031/000162828025045026/0001628280-25-045026.txt
 2025-10-14 22:25:23 | Robert Ragusa | Officer | Shares: 8275 | Value: $573,374.75 | Percent: 0.022787% | Link: https://www.sec.gov/Archives/edgar/data/1222644/000162828025045026/0001628280-25-045026.txt
+2025-10-14 23:18:08 | Windsor Private Capital LP | 10% Stockholder | Shares: 29500 | Value: $80,799.62 | Percent: 0.219350% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000203416025000010/0002034160-25-000010.txt
+2025-10-14 23:18:08 | Windsor Private Capital LP | 10% Stockholder | Shares: 29500 | Value: $80,799.62 | Percent: 0.219350% | Link: https://www.sec.gov/Archives/edgar/data/803578/000203416025000010/0002034160-25-000010.txt
