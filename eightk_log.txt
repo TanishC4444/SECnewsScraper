@@ -6504,3 +6504,12 @@
 2025-10-14 12:00:58 | 8-K - TERAWULF INC. (0001083301) (Filer) | 2025-10-14T07:59:15-04:00 | https://www.sec.gov/Archives/edgar/data/1083301/000110465925099020/0001104659-25-099020.txt
 2025-10-14 12:01:00 | 8-K - Datavault AI Inc. (0001682149) (Filer) | 2025-10-14T07:55:28-04:00 | https://www.sec.gov/Archives/edgar/data/1682149/000110465925099017/0001104659-25-099017.txt
 2025-10-14 12:01:02 | 8-K - STAAR SURGICAL CO (0000718937) (Filer) | 2025-10-14T07:53:47-04:00 | https://www.sec.gov/Archives/edgar/data/718937/000119312525238127/0001193125-25-238127.txt
+2025-10-14 12:57:34 | 8-K - Earth Science Tech, Inc. (0001538495) (Filer) | 2025-10-14T08:57:00-04:00 | https://www.sec.gov/Archives/edgar/data/1538495/000149315225017943/0001493152-25-017943.txt
+2025-10-14 12:57:36 | 8-K - Medicine Man Technologies, Inc. (0001622879) (Filer) | 2025-10-14T08:56:32-04:00 | https://www.sec.gov/Archives/edgar/data/1622879/000110465925099048/0001104659-25-099048.txt
+2025-10-14 12:57:37 | 8-K - MainStreet Bancshares, Inc. (0001693577) (Filer) | 2025-10-14T08:52:59-04:00 | https://www.sec.gov/Archives/edgar/data/1693577/000143774925030896/0001437749-25-030896.txt
+2025-10-14 12:57:39 | 8-K - Xenetic Biosciences, Inc. (0001534525) (Filer) | 2025-10-14T08:48:56-04:00 | https://www.sec.gov/Archives/edgar/data/1534525/000168316825007528/0001683168-25-007528.txt
+2025-10-14 12:57:39 | 8-K/A - Andersons, Inc. (0000821026) (Filer) | 2025-10-14T08:46:44-04:00 | https://www.sec.gov/Archives/edgar/data/821026/000082102625000193/0000821026-25-000193.txt
+2025-10-14 12:57:41 | 8-K - Greystone Housing Impact Investors LP (0001059142) (Filer) | 2025-10-14T08:45:24-04:00 | https://www.sec.gov/Archives/edgar/data/1059142/000119312525238306/0001193125-25-238306.txt
+2025-10-14 12:57:43 | 8-K - Microbot Medical Inc. (0000883975) (Filer) | 2025-10-14T08:42:35-04:00 | https://www.sec.gov/Archives/edgar/data/883975/000149315225017941/0001493152-25-017941.txt
+2025-10-14 12:57:45 | 8-K - American Resources Corp (0001590715) (Filer) | 2025-10-14T08:39:35-04:00 | https://www.sec.gov/Archives/edgar/data/1590715/000165495425011720/0001654954-25-011720.txt
+2025-10-14 12:57:47 | 8-K - GLOBAL PARTNERS LP (0001323468) (Filer) | 2025-10-14T08:38:12-04:00 | https://www.sec.gov/Archives/edgar/data/1323468/000110465925099040/0001104659-25-099040.txt
