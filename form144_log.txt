@@ -5038,3 +5038,5 @@
 2025-10-14 18:33:25 | Ben Robert J | Officer | Shares: 9500 | Value: $115,140.0 | Percent: 0.076348% | Link: https://www.sec.gov/Archives/edgar/data/355948/000195917325006438/0001959173-25-006438.txt
 2025-10-14 19:20:52 | Hao-Yuan Chuang | Officer, Director | Shares: 70054 | Value: $5,588,208.0 | Percent: 0.213362% | Link: https://www.sec.gov/Archives/edgar/data/1992008/000196858225000991/0001968582-25-000991.txt
 2025-10-14 19:20:52 | Hao-Yuan Chuang | Officer, Director | Shares: 70054 | Value: $5,588,208.0 | Percent: 0.213362% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000196858225000991/0001968582-25-000991.txt
+2025-10-14 19:49:49 | Ritchie Garth | Director | Shares: 14473 | Value: $830,581.8 | Percent: 0.125358% | Link: https://www.sec.gov/Archives/edgar/data/1859690/000195917325006441/0001959173-25-006441.txt
+2025-10-14 19:49:50 | Ritchie Garth | Director | Shares: 14473 | Value: $830,581.8 | Percent: 0.125358% | Link: https://www.sec.gov/Archives/edgar/data/1840684/000195917325006441/0001959173-25-006441.txt
