@@ -5054,3 +5054,9 @@
 2025-10-14 20:26:28 | Atlas Venture Opportunity Fund II,  L.P. | Shareholder | Shares: 10102 | Value: $297,200.84 | Percent: 0.022886% | Link: https://www.sec.gov/Archives/edgar/data/1885327/000162828025044973/0001628280-25-044973.txt
 2025-10-14 20:26:30 | FREDERIC SIMON | OFFICIER | Shares: 35000 | Value: $1,640,542.95 | Percent: 0.032282% | Link: https://www.sec.gov/Archives/edgar/data/1823308/000162828025044971/0001628280-25-044971.txt
 2025-10-14 20:26:31 | FREDERIC SIMON | OFFICIER | Shares: 35000 | Value: $1,640,542.95 | Percent: 0.032282% | Link: https://www.sec.gov/Archives/edgar/data/1800667/000162828025044971/0001628280-25-044971.txt
+2025-10-14 20:40:37 | Avery Dennison Corp | Investor | Shares: 185000 | Value: $1,193,250.0 | Percent: 0.987083% | Link: https://www.sec.gov/Archives/edgar/data/1781446/000119312525239078/0001193125-25-239078.txt
+2025-10-14 20:40:38 | Avery Dennison Corp | Investor | Shares: 185000 | Value: $1,193,250.0 | Percent: 0.987083% | Link: https://www.sec.gov/Archives/edgar/data/8818/000119312525239078/0001193125-25-239078.txt
+2025-10-14 20:40:40 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,644,303.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001256/0001921094-25-001256.txt
+2025-10-14 20:40:41 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,644,303.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001256/0001921094-25-001256.txt
+2025-10-14 20:40:42 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,567.88 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000847/0001969223-25-000847.txt
+2025-10-14 20:40:44 | Wayne DeVeydt | former director | Shares: 25000 | Value: $513,567.88 | Percent: 0.019499% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000847/0001969223-25-000847.txt
