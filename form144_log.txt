@@ -5020,3 +5020,11 @@
 2025-10-14 15:53:37 | Zhang Houqi | Officer | Shares: 1067959 | Value: $220,000.0 | Percent: 0.933684% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000204495625000004/0002044956-25-000004.txt
 2025-10-14 16:14:28 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,118,377.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001254/0001921094-25-001254.txt
 2025-10-14 16:14:29 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,118,377.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001254/0001921094-25-001254.txt
+2025-10-14 16:41:38 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1780003/000195917325006435/0001959173-25-006435.txt
+2025-10-14 16:41:39 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1755953/000195917325006435/0001959173-25-006435.txt
+2025-10-14 16:41:41 | Militello John | Officer | Shares: 28918 | Value: $114,581.27 | Percent: 0.026800% | Link: https://www.sec.gov/Archives/edgar/data/1662170/000195917325006434/0001959173-25-006434.txt
+2025-10-14 16:41:42 | Militello John | Officer | Shares: 28918 | Value: $114,581.27 | Percent: 0.026800% | Link: https://www.sec.gov/Archives/edgar/data/1281895/000195917325006434/0001959173-25-006434.txt
+2025-10-14 16:41:43 | MERRIMAN DWIGHT A | Director | Shares: 10000 | Value: $3,114,943.17 | Percent: 0.012292% | Link: https://www.sec.gov/Archives/edgar/data/1441816/000195779925000216/0001957799-25-000216.txt
+2025-10-14 16:41:44 | MERRIMAN DWIGHT A | Director | Shares: 10000 | Value: $3,114,943.17 | Percent: 0.012292% | Link: https://www.sec.gov/Archives/edgar/data/1237858/000195779925000216/0001957799-25-000216.txt
+2025-10-14 16:41:44 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1780003/000195917325006433/0001959173-25-006433.txt
+2025-10-14 16:41:44 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1757953/000195917325006433/0001959173-25-006433.txt
