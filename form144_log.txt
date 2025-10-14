@@ -4992,3 +4992,9 @@
 2025-10-14 11:42:03 | HITESH RAMANI | Officer | Shares: 10000 | Value: $170,500.0 | Percent: 0.002205% | Link: https://www.sec.gov/Archives/edgar/data/1734722/000195004725007909/0001950047-25-007909.txt
 2025-10-14 11:42:05 | MANISH SARIN | Officer | Shares: 35354 | Value: $263,740.84 | Percent: 0.024823% | Link: https://www.sec.gov/Archives/edgar/data/1906496/000195004725007908/0001950047-25-007908.txt
 2025-10-14 11:42:06 | MANISH SARIN | Officer | Shares: 35354 | Value: $263,740.84 | Percent: 0.024823% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000195004725007908/0001950047-25-007908.txt
+2025-10-14 11:51:13 | HENRY E PELISH | Officer | Shares: 21842 | Value: $1,924,280.2 | Percent: 0.032762% | Link: https://www.sec.gov/Archives/edgar/data/2029477/000195004725007921/0001950047-25-007921.txt
+2025-10-14 11:51:14 | HENRY E PELISH | Officer | Shares: 21842 | Value: $1,924,280.2 | Percent: 0.032762% | Link: https://www.sec.gov/Archives/edgar/data/1861560/000195004725007921/0001950047-25-007921.txt
+2025-10-14 11:51:15 | JOHN D LONGLEY JR. | Officer | Shares: 6500 | Value: $18,330.0 | Percent: 0.014384% | Link: https://www.sec.gov/Archives/edgar/data/1619958/000195004725007919/0001950047-25-007919.txt
+2025-10-14 11:51:16 | JOHN D LONGLEY JR. | Officer | Shares: 6500 | Value: $18,330.0 | Percent: 0.014384% | Link: https://www.sec.gov/Archives/edgar/data/798528/000195004725007919/0001950047-25-007919.txt
+2025-10-14 11:51:17 | MARK D GORDON | Director | Shares: 20956 | Value: $59,095.92 | Percent: 0.046372% | Link: https://www.sec.gov/Archives/edgar/data/1385250/000195004725007918/0001950047-25-007918.txt
+2025-10-14 11:51:17 | MARK D GORDON | Director | Shares: 20956 | Value: $59,095.92 | Percent: 0.046372% | Link: https://www.sec.gov/Archives/edgar/data/798528/000195004725007918/0001950047-25-007918.txt
