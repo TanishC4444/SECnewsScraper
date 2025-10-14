@@ -5014,3 +5014,5 @@
 2025-10-14 14:22:02 | Congleton Jon | Officer | Shares: 15100 | Value: $644,326.47 | Percent: 0.022777% | Link: https://www.sec.gov/Archives/edgar/data/1644975/000196430625000374/0001964306-25-000374.txt
 2025-10-14 15:33:19 | Child Jason | Officer | Shares: 10640 | Value: $1,915,200.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1973239/000195917325006432/0001959173-25-006432.txt
 2025-10-14 15:33:20 | Child Jason | Officer | Shares: 10640 | Value: $1,915,200.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325006432/0001959173-25-006432.txt
+2025-10-14 15:43:38 | Nagar Yaacov | Officer | Shares: 3547573 | Value: $2,359,136.05 | Percent: 2.294758% | Link: https://www.sec.gov/Archives/edgar/data/1861377/000197309725000025/0001973097-25-000025.txt
+2025-10-14 15:43:39 | Nagar Yaacov | Officer | Shares: 3547573 | Value: $2,359,136.05 | Percent: 2.294758% | Link: https://www.sec.gov/Archives/edgar/data/933972/000197309725000025/0001973097-25-000025.txt
