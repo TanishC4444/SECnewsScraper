@@ -5030,3 +5030,5 @@
 2025-10-14 16:41:44 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1757953/000195917325006433/0001959173-25-006433.txt
 2025-10-14 17:39:48 | Nagar Yaacov | 10% Stockholder | Shares: 2000000 | Value: $1,380,000.0 | Percent: 1.324255% | Link: https://www.sec.gov/Archives/edgar/data/1861377/000195917325006436/0001959173-25-006436.txt
 2025-10-14 17:39:49 | Nagar Yaacov | 10% Stockholder | Shares: 2000000 | Value: $1,380,000.0 | Percent: 1.324255% | Link: https://www.sec.gov/Archives/edgar/data/933972/000195917325006436/0001959173-25-006436.txt
+2025-10-14 17:49:28 | Waldron Thomas E. | Former Officer | Shares: 8750 | Value: $700,001.55 | Percent: 0.015745% | Link: https://www.sec.gov/Archives/edgar/data/1760965/000195917325006437/0001959173-25-006437.txt
+2025-10-14 17:49:29 | Waldron Thomas E. | Former Officer | Shares: 8750 | Value: $700,001.55 | Percent: 0.015745% | Link: https://www.sec.gov/Archives/edgar/data/1759648/000195917325006437/0001959173-25-006437.txt
