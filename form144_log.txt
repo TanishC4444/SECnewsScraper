@@ -5016,3 +5016,5 @@
 2025-10-14 15:33:20 | Child Jason | Officer | Shares: 10640 | Value: $1,915,200.0 | Percent: 0.001007% | Link: https://www.sec.gov/Archives/edgar/data/1533913/000195917325006432/0001959173-25-006432.txt
 2025-10-14 15:43:38 | Nagar Yaacov | Officer | Shares: 3547573 | Value: $2,359,136.05 | Percent: 2.294758% | Link: https://www.sec.gov/Archives/edgar/data/1861377/000197309725000025/0001973097-25-000025.txt
 2025-10-14 15:43:39 | Nagar Yaacov | Officer | Shares: 3547573 | Value: $2,359,136.05 | Percent: 2.294758% | Link: https://www.sec.gov/Archives/edgar/data/933972/000197309725000025/0001973097-25-000025.txt
+2025-10-14 15:53:36 | Zhang Houqi | Officer | Shares: 1067959 | Value: $220,000.0 | Percent: 0.933684% | Link: https://www.sec.gov/Archives/edgar/data/2044956/000204495625000004/0002044956-25-000004.txt
+2025-10-14 15:53:37 | Zhang Houqi | Officer | Shares: 1067959 | Value: $220,000.0 | Percent: 0.933684% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000204495625000004/0002044956-25-000004.txt
