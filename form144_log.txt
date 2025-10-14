@@ -4974,3 +4974,5 @@
 2025-10-11 02:45:32 | Xu Yun | vice president | Shares: 29809 | Value: $890,991.01 | Percent: 0.001164% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013094/0000950103-25-013094.txt
 2025-10-14 10:19:11 | Zhu Ling | vice president | Shares: 9212 | Value: $275,346.68 | Percent: 0.000360% | Link: https://www.sec.gov/Archives/edgar/data/2068121/000095010325013096/0000950103-25-013096.txt
 2025-10-14 10:19:11 | Zhu Ling | vice president | Shares: 9212 | Value: $275,346.68 | Percent: 0.000360% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013096/0000950103-25-013096.txt
+2025-10-14 11:22:20 | Labovitz Bruce J | Officer | Shares: 10000 | Value: $423,669.39 | Percent: 0.057969% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000195917325006413/0001959173-25-006413.txt
+2025-10-14 11:22:21 | Labovitz Bruce J | Officer | Shares: 10000 | Value: $423,669.39 | Percent: 0.057969% | Link: https://www.sec.gov/Archives/edgar/data/1311236/000195917325006413/0001959173-25-006413.txt
