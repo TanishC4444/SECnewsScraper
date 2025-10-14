@@ -6543,3 +6543,5 @@
 2025-10-14 16:14:25 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-10-14T12:00:27-04:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525238677/0001193125-25-238677.txt
 2025-10-14 16:14:26 | 8-K - Fidelity Private Credit Fund (0001920453) (Filer) | 2025-10-14T11:56:33-04:00 | https://www.sec.gov/Archives/edgar/data/1920453/000119312525238672/0001193125-25-238672.txt
 2025-10-14 16:41:36 | 8-K - Purebase Corp (0001575858) (Filer) | 2025-10-14T12:25:08-04:00 | https://www.sec.gov/Archives/edgar/data/1575858/000149315225017965/0001493152-25-017965.txt
+2025-10-14 17:12:19 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-10-14T13:11:01-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000177/0001331757-25-000177.txt
+2025-10-14 17:12:20 | 8-K - Benchmark 2025-V17 Mortgage Trust (0002063065) (Filer) | 2025-10-14T12:59:31-04:00 | https://www.sec.gov/Archives/edgar/data/2063065/000153949725002698/0001539497-25-002698.txt
