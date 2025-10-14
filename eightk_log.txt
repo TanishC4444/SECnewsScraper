@@ -6575,3 +6575,11 @@
 2025-10-14 20:40:32 | 8-K - HIGH WIRE NETWORKS, INC. (0001413891) (Filer) | 2025-10-14T16:30:41-04:00 | https://www.sec.gov/Archives/edgar/data/1413891/000121390025098778/0001213900-25-098778.txt
 2025-10-14 20:40:34 | 8-K - Polomar Health Services, Inc. (0001265521) (Filer) | 2025-10-14T16:30:39-04:00 | https://www.sec.gov/Archives/edgar/data/1265521/000149315225018022/0001493152-25-018022.txt
 2025-10-14 20:40:35 | 8-K - Brand Engagement Network Inc. (0001838163) (Filer) | 2025-10-14T16:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/1838163/000149315225018020/0001493152-25-018020.txt
+2025-10-14 20:49:54 | 8-K - PETMED EXPRESS INC (0001040130) (Filer) | 2025-10-14T16:48:21-04:00 | https://www.sec.gov/Archives/edgar/data/1040130/000104013025000074/0001040130-25-000074.txt
+2025-10-14 20:49:59 | 8-K - Avantor, Inc. (0001722482) (Filer) | 2025-10-14T16:46:20-04:00 | https://www.sec.gov/Archives/edgar/data/1722482/000162828025045006/0001628280-25-045006.txt
+2025-10-14 20:50:01 | 8-K - Vireo Growth Inc. (0001771706) (Filer) | 2025-10-14T16:46:16-04:00 | https://www.sec.gov/Archives/edgar/data/1771706/000110465925099334/0001104659-25-099334.txt
+2025-10-14 20:50:01 | 8-K/A - Haymaker Acquisition Corp. 4 (0001970509) (Filer) | 2025-10-14T16:45:25-04:00 | https://www.sec.gov/Archives/edgar/data/1970509/000110465925099332/0001104659-25-099332.txt
+2025-10-14 20:50:02 | 8-K - Bally's Corp (0001747079) (Filer) | 2025-10-14T16:42:58-04:00 | https://www.sec.gov/Archives/edgar/data/1747079/000174707925000129/0001747079-25-000129.txt
+2025-10-14 20:50:04 | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | 2025-10-14T16:42:07-04:00 | https://www.sec.gov/Archives/edgar/data/1692115/000119312525239100/0001193125-25-239100.txt
+2025-10-14 20:50:06 | 8-K - DarkPulse, Inc. (0000866439) (Filer) | 2025-10-14T16:42:07-04:00 | https://www.sec.gov/Archives/edgar/data/866439/000168316825007545/0001683168-25-007545.txt
+2025-10-14 20:50:08 | 8-K - GCI Liberty, Inc. (0002057463) (Filer) | 2025-10-14T16:41:35-04:00 | https://www.sec.gov/Archives/edgar/data/2057463/000205746325000012/0002057463-25-000012.txt
