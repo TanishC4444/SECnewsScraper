@@ -6533,3 +6533,6 @@
 2025-10-14 14:21:54 | 8-K - ENTERPRISE FINANCIAL SERVICES CORP (0001025835) (Filer) | 2025-10-14T10:00:39-04:00 | https://www.sec.gov/Archives/edgar/data/1025835/000102583525000190/0001025835-25-000190.txt
 2025-10-14 14:41:45 | 8-K - MacKenzie Realty Capital, Inc. (0001550913) (Filer) | 2025-10-14T10:37:06-04:00 | https://www.sec.gov/Archives/edgar/data/1550913/000155091325000160/0001550913-25-000160.txt
 2025-10-14 14:53:14 | 8-K - MacKenzie Realty Capital, Inc. (0001550913) (Filer) | 2025-10-14T10:44:01-04:00 | https://www.sec.gov/Archives/edgar/data/1550913/000155091325000162/0001550913-25-000162.txt
+2025-10-14 15:12:39 | 8-K - Tianci International, Inc. (0001557798) (Filer) | 2025-10-14T11:06:08-04:00 | https://www.sec.gov/Archives/edgar/data/1557798/000168316825007534/0001683168-25-007534.txt
+2025-10-14 15:12:42 | 8-K - PROCTER & GAMBLE Co (0000080424) (Filer) | 2025-10-14T10:55:51-04:00 | https://www.sec.gov/Archives/edgar/data/80424/000008042425000217/0000080424-25-000217.txt
+2025-10-14 15:12:42 | 8-K/A - Alphega Innovations Corp (0002038564) (Filer) | 2025-10-14T10:53:26-04:00 | https://www.sec.gov/Archives/edgar/data/2038564/000203856425000007/0002038564-25-000007.txt
