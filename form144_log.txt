@@ -5040,3 +5040,9 @@
 2025-10-14 19:20:52 | Hao-Yuan Chuang | Officer, Director | Shares: 70054 | Value: $5,588,208.0 | Percent: 0.213362% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000196858225000991/0001968582-25-000991.txt
 2025-10-14 19:49:49 | Ritchie Garth | Director | Shares: 14473 | Value: $830,581.8 | Percent: 0.125358% | Link: https://www.sec.gov/Archives/edgar/data/1859690/000195917325006441/0001959173-25-006441.txt
 2025-10-14 19:49:50 | Ritchie Garth | Director | Shares: 14473 | Value: $830,581.8 | Percent: 0.125358% | Link: https://www.sec.gov/Archives/edgar/data/1840684/000195917325006441/0001959173-25-006441.txt
+2025-10-14 19:58:50 | Diane Nguyen | Affiliate | Shares: 20827 | Value: $911,043.65 | Percent: 0.007813% | Link: https://www.sec.gov/Archives/edgar/data/1974777/000197449425000128/0001974494-25-000128.txt
+2025-10-14 19:58:51 | Diane Nguyen | Affiliate | Shares: 20827 | Value: $911,043.65 | Percent: 0.007813% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000128/0001974494-25-000128.txt
+2025-10-14 19:58:51 | Alan Baratz | affiliate | Shares: 31369 | Value: $1,372,186.5 | Percent: 0.011768% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000127/0001974494-25-000127.txt
+2025-10-14 19:58:52 | Alan Baratz | affiliate | Shares: 31369 | Value: $1,372,186.5 | Percent: 0.011768% | Link: https://www.sec.gov/Archives/edgar/data/1098231/000197449425000127/0001974494-25-000127.txt
+2025-10-14 19:58:53 | John Markovich | affiliate | Shares: 7994 | Value: $349,648.68 | Percent: 0.002999% | Link: https://www.sec.gov/Archives/edgar/data/1907982/000197449425000124/0001974494-25-000124.txt
+2025-10-14 19:58:54 | John Markovich | affiliate | Shares: 7994 | Value: $349,648.68 | Percent: 0.002999% | Link: https://www.sec.gov/Archives/edgar/data/1453942/000197449425000124/0001974494-25-000124.txt
