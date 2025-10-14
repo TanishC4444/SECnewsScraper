@@ -5028,3 +5028,5 @@
 2025-10-14 16:41:44 | MERRIMAN DWIGHT A | Director | Shares: 10000 | Value: $3,114,943.17 | Percent: 0.012292% | Link: https://www.sec.gov/Archives/edgar/data/1237858/000195779925000216/0001957799-25-000216.txt
 2025-10-14 16:41:44 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1780003/000195917325006433/0001959173-25-006433.txt
 2025-10-14 16:41:44 | Billingsley Jessica | former Officer | Shares: 7662 | Value: $44,133.12 | Percent: 0.009253% | Link: https://www.sec.gov/Archives/edgar/data/1757953/000195917325006433/0001959173-25-006433.txt
+2025-10-14 17:39:48 | Nagar Yaacov | 10% Stockholder | Shares: 2000000 | Value: $1,380,000.0 | Percent: 1.324255% | Link: https://www.sec.gov/Archives/edgar/data/1861377/000195917325006436/0001959173-25-006436.txt
+2025-10-14 17:39:49 | Nagar Yaacov | 10% Stockholder | Shares: 2000000 | Value: $1,380,000.0 | Percent: 1.324255% | Link: https://www.sec.gov/Archives/edgar/data/933972/000195917325006436/0001959173-25-006436.txt
