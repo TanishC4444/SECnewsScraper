@@ -6488,3 +6488,5 @@
 2025-10-14 11:22:12 | 8-K - Installed Building Products, Inc. (0001580905) (Filer) | 2025-10-14T07:07:32-04:00 | https://www.sec.gov/Archives/edgar/data/1580905/000162828025044852/0001628280-25-044852.txt
 2025-10-14 11:22:14 | 8-K - Rekor Systems, Inc. (0001697851) (Filer) | 2025-10-14T07:05:54-04:00 | https://www.sec.gov/Archives/edgar/data/1697851/000143774925030890/0001437749-25-030890.txt
 2025-10-14 11:22:16 | 8-K - Light & Wonder, Inc. (0000750004) (Filer) | 2025-10-14T07:03:58-04:00 | https://www.sec.gov/Archives/edgar/data/750004/000095015725000856/0000950157-25-000856.txt
+2025-10-14 11:31:38 | 8-K - Albertsons Companies, Inc. (0001646972) (Filer) | 2025-10-14T07:31:07-04:00 | https://www.sec.gov/Archives/edgar/data/1646972/000164697225000080/0001646972-25-000080.txt
+2025-10-14 11:31:39 | 8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer) | 2025-10-14T07:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1971532/000149315225017916/0001493152-25-017916.txt

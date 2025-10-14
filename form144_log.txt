@@ -4976,3 +4976,9 @@
 2025-10-14 10:19:11 | Zhu Ling | vice president | Shares: 9212 | Value: $275,346.68 | Percent: 0.000360% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013096/0000950103-25-013096.txt
 2025-10-14 11:22:20 | Labovitz Bruce J | Officer | Shares: 10000 | Value: $423,669.39 | Percent: 0.057969% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000195917325006413/0001959173-25-006413.txt
 2025-10-14 11:22:21 | Labovitz Bruce J | Officer | Shares: 10000 | Value: $423,669.39 | Percent: 0.057969% | Link: https://www.sec.gov/Archives/edgar/data/1311236/000195917325006413/0001959173-25-006413.txt
+2025-10-14 11:31:41 | BURKE JAMES A | Officer | Shares: 41426 | Value: $8,339,881.31 | Percent: 0.012227% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006417/0001959173-25-006417.txt
+2025-10-14 11:31:42 | BURKE JAMES A | Officer | Shares: 41426 | Value: $8,339,881.31 | Percent: 0.012227% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006417/0001959173-25-006417.txt
+2025-10-14 11:31:43 | Prober Charles J. | Director | Shares: 7930 | Value: $818,376.0 | Percent: 0.010226% | Link: https://www.sec.gov/Archives/edgar/data/1696247/000195917325006416/0001959173-25-006416.txt
+2025-10-14 11:31:44 | Prober Charles J. | Director | Shares: 7930 | Value: $818,376.0 | Percent: 0.010226% | Link: https://www.sec.gov/Archives/edgar/data/1581760/000195917325006416/0001959173-25-006416.txt
+2025-10-14 11:31:45 | Vahedi Vahid | Officer | Shares: 52190 | Value: $7,249,191.0 | Percent: 0.004124% | Link: https://www.sec.gov/Archives/edgar/data/1707826/000195917325006415/0001959173-25-006415.txt
+2025-10-14 11:31:46 | Vahedi Vahid | Officer | Shares: 52190 | Value: $7,249,191.0 | Percent: 0.004124% | Link: https://www.sec.gov/Archives/edgar/data/707549/000195917325006415/0001959173-25-006415.txt
