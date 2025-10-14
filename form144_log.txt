@@ -4972,3 +4972,5 @@
 2025-10-11 02:45:32 | Yuan Jing | Chief Financial Officer | Shares: 48205 | Value: $1,440,847.45 | Percent: 0.001882% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013095/0000950103-25-013095.txt
 2025-10-11 02:45:32 | Xu Yun | vice president | Shares: 29809 | Value: $890,991.01 | Percent: 0.001164% | Link: https://www.sec.gov/Archives/edgar/data/2067494/000095010325013094/0000950103-25-013094.txt
 2025-10-11 02:45:32 | Xu Yun | vice president | Shares: 29809 | Value: $890,991.01 | Percent: 0.001164% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013094/0000950103-25-013094.txt
+2025-10-14 10:19:11 | Zhu Ling | vice president | Shares: 9212 | Value: $275,346.68 | Percent: 0.000360% | Link: https://www.sec.gov/Archives/edgar/data/2068121/000095010325013096/0000950103-25-013096.txt
+2025-10-14 10:19:11 | Zhu Ling | vice president | Shares: 9212 | Value: $275,346.68 | Percent: 0.000360% | Link: https://www.sec.gov/Archives/edgar/data/1954042/000095010325013096/0000950103-25-013096.txt

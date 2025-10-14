@@ -6455,3 +6455,11 @@
 2025-10-10 21:25:34 | 8-K - Hyperscale Data, Inc. (0000896493) (Filer) | 2025-10-10T17:13:01-04:00 | https://www.sec.gov/Archives/edgar/data/896493/000121465925014866/0001214659-25-014866.txt
 2025-10-10 21:25:36 | 8-K - Odyssey Health, Inc. (0001626644) (Filer) | 2025-10-10T17:10:27-04:00 | https://www.sec.gov/Archives/edgar/data/1626644/000168316825007502/0001683168-25-007502.txt
 2025-10-10 21:36:03 | 8-K - Peraso Inc. (0000890394) (Filer) | 2025-10-10T17:28:37-04:00 | https://www.sec.gov/Archives/edgar/data/890394/000121390025098202/0001213900-25-098202.txt
+2025-10-14 10:19:00 | 8-K - D-Wave Quantum Inc. (0001907982) (Filer) | 2025-10-14T06:17:36-04:00 | https://www.sec.gov/Archives/edgar/data/1907982/000190798225000218/0001907982-25-000218.txt
+2025-10-14 10:19:01 | 8-K - Bluejay Diagnostics, Inc. (0001704287) (Filer) | 2025-10-14T06:16:48-04:00 | https://www.sec.gov/Archives/edgar/data/1704287/000121390025098281/0001213900-25-098281.txt
+2025-10-14 10:19:03 | 8-K - Legacy Education Inc. (0001836754) (Filer) | 2025-10-14T06:16:00-04:00 | https://www.sec.gov/Archives/edgar/data/1836754/000149315225017883/0001493152-25-017883.txt
+2025-10-14 10:19:05 | 8-K - ADC Therapeutics SA (0001771910) (Filer) | 2025-10-14T06:15:32-04:00 | https://www.sec.gov/Archives/edgar/data/1771910/000095010325013103/0000950103-25-013103.txt
+2025-10-14 10:19:07 | 8-K - LIGHTPATH TECHNOLOGIES INC (0000889971) (Filer) | 2025-10-14T06:12:31-04:00 | https://www.sec.gov/Archives/edgar/data/889971/000165495425011696/0001654954-25-011696.txt
+2025-10-14 10:19:08 | 8-K - Vestand Inc. (0001898604) (Filer) | 2025-10-14T06:12:26-04:00 | https://www.sec.gov/Archives/edgar/data/1898604/000149315225017878/0001493152-25-017878.txt
+2025-10-14 10:19:09 | 8-K - TAO Synergies Inc. (0001571934) (Filer) | 2025-10-14T06:12:21-04:00 | https://www.sec.gov/Archives/edgar/data/1571934/000110465925098909/0001104659-25-098909.txt
+2025-10-14 10:19:11 | 8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer) | 2025-10-14T06:11:33-04:00 | https://www.sec.gov/Archives/edgar/data/1346830/000110465925098908/0001104659-25-098908.txt
