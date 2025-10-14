@@ -6583,3 +6583,10 @@
 2025-10-14 20:50:04 | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | 2025-10-14T16:42:07-04:00 | https://www.sec.gov/Archives/edgar/data/1692115/000119312525239100/0001193125-25-239100.txt
 2025-10-14 20:50:06 | 8-K - DarkPulse, Inc. (0000866439) (Filer) | 2025-10-14T16:42:07-04:00 | https://www.sec.gov/Archives/edgar/data/866439/000168316825007545/0001683168-25-007545.txt
 2025-10-14 20:50:08 | 8-K - GCI Liberty, Inc. (0002057463) (Filer) | 2025-10-14T16:41:35-04:00 | https://www.sec.gov/Archives/edgar/data/2057463/000205746325000012/0002057463-25-000012.txt
+2025-10-14 20:59:33 | 8-K - TERAWULF INC. (0001083301) (Filer) | 2025-10-14T16:58:34-04:00 | https://www.sec.gov/Archives/edgar/data/1083301/000110465925099345/0001104659-25-099345.txt
+2025-10-14 20:59:35 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-14T16:57:33-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008103/0001829126-25-008103.txt
+2025-10-14 20:59:36 | 8-K - Liberty Broadband Corp (0001611983) (Filer) | 2025-10-14T16:56:55-04:00 | https://www.sec.gov/Archives/edgar/data/1611983/000161198325000030/0001611983-25-000030.txt
+2025-10-14 20:59:38 | 8-K - Gain Therapeutics, Inc. (0001819411) (Filer) | 2025-10-14T16:56:39-04:00 | https://www.sec.gov/Archives/edgar/data/1819411/000110465925099343/0001104659-25-099343.txt
+2025-10-14 20:59:40 | 8-K - Strive, Inc. (0001920406) (Filer) | 2025-10-14T16:53:19-04:00 | https://www.sec.gov/Archives/edgar/data/1920406/000095010325013156/0000950103-25-013156.txt
+2025-10-14 20:59:41 | 8-K - Alzamend Neuro, Inc. (0001677077) (Filer) | 2025-10-14T16:51:54-04:00 | https://www.sec.gov/Archives/edgar/data/1677077/000121465925014950/0001214659-25-014950.txt
+2025-10-14 20:59:43 | 8-K - Guardian Pharmacy Services, Inc. (0001802255) (Filer) | 2025-10-14T16:51:35-04:00 | https://www.sec.gov/Archives/edgar/data/1802255/000119312525239120/0001193125-25-239120.txt
