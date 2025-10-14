@@ -6490,3 +6490,5 @@
 2025-10-14 11:22:16 | 8-K - Light & Wonder, Inc. (0000750004) (Filer) | 2025-10-14T07:03:58-04:00 | https://www.sec.gov/Archives/edgar/data/750004/000095015725000856/0000950157-25-000856.txt
 2025-10-14 11:31:38 | 8-K - Albertsons Companies, Inc. (0001646972) (Filer) | 2025-10-14T07:31:07-04:00 | https://www.sec.gov/Archives/edgar/data/1646972/000164697225000080/0001646972-25-000080.txt
 2025-10-14 11:31:39 | 8-K - Telomir Pharmaceuticals, Inc. (0001971532) (Filer) | 2025-10-14T07:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1971532/000149315225017916/0001493152-25-017916.txt
+2025-10-14 11:41:54 | 8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer) | 2025-10-14T07:37:10-04:00 | https://www.sec.gov/Archives/edgar/data/886982/000119312525238058/0001193125-25-238058.txt
+2025-10-14 11:41:54 | 8-K - Inception Growth Acquisition Ltd (0001866838) (Filer) | 2025-10-14T07:33:29-04:00 | https://www.sec.gov/Archives/edgar/data/1866838/000121390025098374/0001213900-25-098374.txt
