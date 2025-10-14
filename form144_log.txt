@@ -5004,3 +5004,5 @@
 2025-10-14 12:01:07 | Murphy Kevin Michael | Officer | Shares: 8800 | Value: $2,060,349.37 | Percent: 0.004486% | Link: https://www.sec.gov/Archives/edgar/data/1984614/000195917325006422/0001959173-25-006422.txt
 2025-10-14 12:57:50 | MATTHEW RIZAI | 10% Stockholder | Shares: 50000 | Value: $4,434,375.0 | Percent: 0.089261% | Link: https://www.sec.gov/Archives/edgar/data/1445305/000195004725007923/0001950047-25-007923.txt
 2025-10-14 12:57:51 | MATTHEW RIZAI | 10% Stockholder | Shares: 50000 | Value: $4,434,375.0 | Percent: 0.089261% | Link: https://www.sec.gov/Archives/edgar/data/1013631/000195004725007923/0001950047-25-007923.txt
+2025-10-14 13:48:50 | PAINTER ROBERT G | Officer | Shares: 7500 | Value: $567,375.0 | Percent: 0.003152% | Link: https://www.sec.gov/Archives/edgar/data/1665364/000195917325006427/0001959173-25-006427.txt
+2025-10-14 13:48:51 | PAINTER ROBERT G | Officer | Shares: 7500 | Value: $567,375.0 | Percent: 0.003152% | Link: https://www.sec.gov/Archives/edgar/data/864749/000195917325006427/0001959173-25-006427.txt
