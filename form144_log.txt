@@ -5018,3 +5018,5 @@
 2025-10-14 15:43:39 | Nagar Yaacov | Officer | Shares: 3547573 | Value: $2,359,136.05 | Percent: 2.294758% | Link: https://www.sec.gov/Archives/edgar/data/933972/000197309725000025/0001973097-25-000025.txt
 2025-10-14 15:53:36 | Zhang Houqi | Officer | Shares: 1067959 | Value: $220,000.0 | Percent: 0.933684% | Link: https://www.sec.gov/Archives/edgar/data/2044956/000204495625000004/0002044956-25-000004.txt
 2025-10-14 15:53:37 | Zhang Houqi | Officer | Shares: 1067959 | Value: $220,000.0 | Percent: 0.933684% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000204495625000004/0002044956-25-000004.txt
+2025-10-14 16:14:28 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,118,377.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001254/0001921094-25-001254.txt
+2025-10-14 16:14:29 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $14,118,377.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001254/0001921094-25-001254.txt
