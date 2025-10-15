@@ -6652,3 +6652,9 @@
 2025-10-15 13:18:45 | 8-K - OMNIQ Corp. (0000278165) (Filer) | 2025-10-15T08:54:06-04:00 | https://www.sec.gov/Archives/edgar/data/278165/000117184325006434/0001171843-25-006434.txt
 2025-10-15 13:18:47 | 8-K - Nabors Energy Transition Corp. II (0001975218) (Filer) | 2025-10-15T08:49:25-04:00 | https://www.sec.gov/Archives/edgar/data/1975218/000110465925099553/0001104659-25-099553.txt
 2025-10-15 13:18:49 | 8-K - Ramaco Resources, Inc. (0001687187) (Filer) | 2025-10-15T08:46:14-04:00 | https://www.sec.gov/Archives/edgar/data/1687187/000121390025098983/0001213900-25-098983.txt
+2025-10-15 13:45:18 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-10-15T09:29:18-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125038166/0001140361-25-038166.txt
+2025-10-15 13:45:20 | 8-K - AvidXchange Holdings, Inc. (0001858257) (Filer) | 2025-10-15T09:27:32-04:00 | https://www.sec.gov/Archives/edgar/data/1858257/000119312525239635/0001193125-25-239635.txt
+2025-10-15 13:45:20 | 8-K - Discover Funding LLC (0001645731) (Filer) | 2025-10-15T09:26:31-04:00 | https://www.sec.gov/Archives/edgar/data/1645731/000140720025000036/0001407200-25-000036.txt
+2025-10-15 13:45:20 | 8-K - Discover Card Execution Note Trust (0001407200) (Filer) | 2025-10-15T09:26:31-04:00 | https://www.sec.gov/Archives/edgar/data/1407200/000140720025000036/0001407200-25-000036.txt
+2025-10-15 13:45:20 | 8-K - DISCOVER CARD MASTER TRUST I (0000894329) (Filer) | 2025-10-15T09:26:31-04:00 | https://www.sec.gov/Archives/edgar/data/894329/000140720025000036/0001407200-25-000036.txt
+2025-10-15 13:45:23 | 8-K - Alaska Silver Corp. (0001893899) (Filer) | 2025-10-15T09:23:13-04:00 | https://www.sec.gov/Archives/edgar/data/1893899/000106299325016072/0001062993-25-016072.txt
