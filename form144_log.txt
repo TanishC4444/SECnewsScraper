@@ -5130,3 +5130,9 @@
 2025-10-15 20:42:44 | David Gibbs | FormerOfficer | Shares: 28000 | Value: $4,031,160.0 | Percent: 0.010089% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000162828025045119/0001628280-25-045119.txt
 2025-10-15 20:42:47 | DONALD KENNETH MCCLYMONT | Director | Shares: 200000 | Value: $1,112,000.0 | Percent: 0.100729% | Link: https://www.sec.gov/Archives/edgar/data/1866018/000195004725008011/0001950047-25-008011.txt
 2025-10-15 20:42:48 | DONALD KENNETH MCCLYMONT | Director | Shares: 200000 | Value: $1,112,000.0 | Percent: 0.100729% | Link: https://www.sec.gov/Archives/edgar/data/1841925/000195004725008011/0001950047-25-008011.txt
+2025-10-15 20:52:18 | Wayne DeVeydt | former director | Shares: 25076 | Value: $526,899.48 | Percent: 0.019559% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000852/0001969223-25-000852.txt
+2025-10-15 20:52:19 | Wayne DeVeydt | former director | Shares: 25076 | Value: $526,899.48 | Percent: 0.019559% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000852/0001969223-25-000852.txt
+2025-10-15 20:52:20 | Carl N. Kraus | Officer | Shares: 40544 | Value: $278,943.0 | Percent: 0.040656% | Link: https://www.sec.gov/Archives/edgar/data/1946475/000196858225000998/0001968582-25-000998.txt
+2025-10-15 20:52:21 | Carl N. Kraus | Officer | Shares: 40544 | Value: $278,943.0 | Percent: 0.040656% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000196858225000998/0001968582-25-000998.txt
+2025-10-15 20:52:22 | Michael C. Miller | Affiliate | Shares: 9778 | Value: $258,432.54 | Percent: 0.004676% | Link: https://www.sec.gov/Archives/edgar/data/1836470/000196858225000997/0001968582-25-000997.txt
+2025-10-15 20:52:24 | Michael C. Miller | Affiliate | Shares: 9778 | Value: $258,432.54 | Percent: 0.004676% | Link: https://www.sec.gov/Archives/edgar/data/1643505/000196858225000997/0001968582-25-000997.txt

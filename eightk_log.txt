@@ -6698,3 +6698,12 @@
 2025-10-15 20:42:36 | 8-K - AMPCO PITTSBURGH CORP (0000006176) (Filer) | 2025-10-15T16:31:30-04:00 | https://www.sec.gov/Archives/edgar/data/6176/000119312525240315/0001193125-25-240315.txt
 2025-10-15 20:42:38 | 8-K - DuPont de Nemours, Inc. (0001666700) (Filer) | 2025-10-15T16:31:03-04:00 | https://www.sec.gov/Archives/edgar/data/1666700/000166670025000054/0001666700-25-000054.txt
 2025-10-15 20:42:40 | 8-K - Qnity Electronics, Inc. (0002058873) (Filer) | 2025-10-15T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/2058873/000119312525240313/0001193125-25-240313.txt
+2025-10-15 20:52:02 | 8-K - Tivic Health Systems, Inc. (0001787740) (Filer) | 2025-10-15T16:51:10-04:00 | https://www.sec.gov/Archives/edgar/data/1787740/000143774925031054/0001437749-25-031054.txt
+2025-10-15 20:52:04 | 8-K - PERMIAN BASIN ROYALTY TRUST (0000319654) (Filer) | 2025-10-15T16:49:59-04:00 | https://www.sec.gov/Archives/edgar/data/319654/000119312525240371/0001193125-25-240371.txt
+2025-10-15 20:52:05 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-10-15T16:49:39-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125038210/0001140361-25-038210.txt
+2025-10-15 20:52:10 | 8-K - Transocean Ltd. (0001451505) (Filer) | 2025-10-15T16:48:51-04:00 | https://www.sec.gov/Archives/edgar/data/1451505/000145150525000113/0001451505-25-000113.txt
+2025-10-15 20:52:11 | 8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer) | 2025-10-15T16:48:01-04:00 | https://www.sec.gov/Archives/edgar/data/1019849/000162828025045120/0001628280-25-045120.txt
+2025-10-15 20:52:13 | 8-K - Hewlett Packard Enterprise Co (0001645590) (Filer) | 2025-10-15T16:47:46-04:00 | https://www.sec.gov/Archives/edgar/data/1645590/000164559025000111/0001645590-25-000111.txt
+2025-10-15 20:52:14 | 8-K - Expensify, Inc. (0001476840) (Filer) | 2025-10-15T16:47:08-04:00 | https://www.sec.gov/Archives/edgar/data/1476840/000147684025000131/0001476840-25-000131.txt
+2025-10-15 20:52:15 | 8-K - Zapata Quantum, Inc. (0001843714) (Filer) | 2025-10-15T16:46:30-04:00 | https://www.sec.gov/Archives/edgar/data/1843714/000107997325001613/0001079973-25-001613.txt
+2025-10-15 20:52:16 | 8-K - NextTrip, Inc. (0000788611) (Filer) | 2025-10-15T16:45:49-04:00 | https://www.sec.gov/Archives/edgar/data/788611/000149315225018164/0001493152-25-018164.txt
