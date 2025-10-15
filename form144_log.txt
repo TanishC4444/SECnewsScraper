@@ -5136,3 +5136,7 @@
 2025-10-15 20:52:21 | Carl N. Kraus | Officer | Shares: 40544 | Value: $278,943.0 | Percent: 0.040656% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000196858225000998/0001968582-25-000998.txt
 2025-10-15 20:52:22 | Michael C. Miller | Affiliate | Shares: 9778 | Value: $258,432.54 | Percent: 0.004676% | Link: https://www.sec.gov/Archives/edgar/data/1836470/000196858225000997/0001968582-25-000997.txt
 2025-10-15 20:52:24 | Michael C. Miller | Affiliate | Shares: 9778 | Value: $258,432.54 | Percent: 0.004676% | Link: https://www.sec.gov/Archives/edgar/data/1643505/000196858225000997/0001968582-25-000997.txt
+2025-10-15 21:01:40 | Atlas Venture Fund X, LP | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025045124/0001628280-25-045124.txt
+2025-10-15 21:01:42 | Atlas Venture Fund X, LP | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1628098/000162828025045124/0001628280-25-045124.txt
+2025-10-15 21:01:43 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025045123/0001628280-25-045123.txt
+2025-10-15 21:01:44 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025045123/0001628280-25-045123.txt
