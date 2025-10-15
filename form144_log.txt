@@ -5140,3 +5140,5 @@
 2025-10-15 21:01:42 | Atlas Venture Fund X, LP | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1628098/000162828025045124/0001628280-25-045124.txt
 2025-10-15 21:01:43 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025045123/0001628280-25-045123.txt
 2025-10-15 21:01:44 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025045123/0001628280-25-045123.txt
+2025-10-15 21:34:13 | Abraham Euan | Officer | Shares: 25000 | Value: $449,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1983554/000197407825000389/0001974078-25-000389.txt
+2025-10-15 21:34:13 | Abraham Euan | Officer | Shares: 25000 | Value: $449,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000389/0001974078-25-000389.txt
