@@ -6608,3 +6608,11 @@
 2025-10-14 21:31:51 | 8-K - Nova Lifestyle, Inc. (0001473334) (Filer) | 2025-10-14T17:26:46-04:00 | https://www.sec.gov/Archives/edgar/data/1473334/000149315225018056/0001493152-25-018056.txt
 2025-10-14 21:31:52 | 8-K - Gevo, Inc. (0001392380) (Filer) | 2025-10-14T17:26:21-04:00 | https://www.sec.gov/Archives/edgar/data/1392380/000110465925099359/0001104659-25-099359.txt
 2025-10-14 21:31:54 | 8-K - KAISER ALUMINUM CORP (0000811596) (Filer) | 2025-10-14T17:25:43-04:00 | https://www.sec.gov/Archives/edgar/data/811596/000119312525239170/0001193125-25-239170.txt
+2025-10-15 10:19:33 | 8-K - Sable Offshore Corp. (0001831481) (Filer) | 2025-10-15T06:17:52-04:00 | https://www.sec.gov/Archives/edgar/data/1831481/000183148125000081/0001831481-25-000081.txt
+2025-10-15 10:19:34 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-15T06:05:16-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325016059/0001062993-25-016059.txt
+2025-10-15 10:19:34 | 8-K - SLB LIMITED/NV (0000087347) (Filer) | 2025-10-15T06:01:36-04:00 | https://www.sec.gov/Archives/edgar/data/87347/000119312525239491/0001193125-25-239491.txt
+2025-10-15 10:19:36 | 8-K - Synchrony Financial (0001601712) (Filer) | 2025-10-15T06:00:50-04:00 | https://www.sec.gov/Archives/edgar/data/1601712/000160171225000256/0001601712-25-000256.txt
+2025-10-15 10:19:37 | 8-K - Direct Digital Holdings, Inc. (0001880613) (Filer) | 2025-10-14T21:59:39-04:00 | https://www.sec.gov/Archives/edgar/data/1880613/000188061325000120/0001880613-25-000120.txt
+2025-10-15 10:19:37 | 8-K/A - American Resources Corp (0001590715) (Filer) | 2025-10-14T21:58:53-04:00 | https://www.sec.gov/Archives/edgar/data/1590715/000165495425011782/0001654954-25-011782.txt
+2025-10-15 10:19:39 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-14T20:26:08-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000546/0001564708-25-000546.txt
+2025-10-15 10:19:40 | 8-K - Lifeloc Technologies, Inc (0001493137) (Filer) | 2025-10-14T17:58:24-04:00 | https://www.sec.gov/Archives/edgar/data/1493137/000107997325001607/0001079973-25-001607.txt
