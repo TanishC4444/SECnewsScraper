@@ -5120,3 +5120,9 @@
 2025-10-15 19:40:50 | Wayne S DeVeydt | Director | Shares: 5489 | Value: $196,736.97 | Percent: 0.001118% | Link: https://www.sec.gov/Archives/edgar/data/1071739/000162828025045086/0001628280-25-045086.txt
 2025-10-15 19:49:43 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $20,591.33 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1973524/000162828025045091/0001628280-25-045091.txt
 2025-10-15 19:49:44 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $20,591.33 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1761918/000162828025045091/0001628280-25-045091.txt
+2025-10-15 20:27:47 | SYTSE SIJBRANDIJ REVOCABLE TRUST | Director | Shares: 380100 | Value: $17,013,276.0 | Percent: 0.256998% | Link: https://www.sec.gov/Archives/edgar/data/1886022/000195004725007981/0001950047-25-007981.txt
+2025-10-15 20:27:48 | SYTSE SIJBRANDIJ REVOCABLE TRUST | Director | Shares: 380100 | Value: $17,013,276.0 | Percent: 0.256998% | Link: https://www.sec.gov/Archives/edgar/data/1653482/000195004725007981/0001950047-25-007981.txt
+2025-10-15 20:27:49 | KURTIS BINDER | Officer | Shares: 51668 | Value: $902,639.96 | Percent: 0.049504% | Link: https://www.sec.gov/Archives/edgar/data/1736946/000195004725007980/0001950047-25-007980.txt
+2025-10-15 20:27:51 | KURTIS BINDER | Officer | Shares: 51668 | Value: $902,639.96 | Percent: 0.049504% | Link: https://www.sec.gov/Archives/edgar/data/1654737/000195004725007980/0001950047-25-007980.txt
+2025-10-15 20:27:53 | JOHN SCHWEITZER | Officer | Shares: 10193 | Value: $253,703.77 | Percent: 0.003910% | Link: https://www.sec.gov/Archives/edgar/data/1878051/000195004725007978/0001950047-25-007978.txt
+2025-10-15 20:27:55 | JOHN SCHWEITZER | Officer | Shares: 10193 | Value: $253,703.77 | Percent: 0.003910% | Link: https://www.sec.gov/Archives/edgar/data/1868778/000195004725007978/0001950047-25-007978.txt
