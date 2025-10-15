@@ -5118,3 +5118,5 @@
 2025-10-15 19:19:38 | Kullman Ellen Jamison | Director | Shares: 79806 | Value: $12,254,834.64 | Percent: 0.023688% | Link: https://www.sec.gov/Archives/edgar/data/1303141/000195917325006451/0001959173-25-006451.txt
 2025-10-15 19:40:49 | Wayne S DeVeydt | Director | Shares: 5489 | Value: $196,736.97 | Percent: 0.001118% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000162828025045086/0001628280-25-045086.txt
 2025-10-15 19:40:50 | Wayne S DeVeydt | Director | Shares: 5489 | Value: $196,736.97 | Percent: 0.001118% | Link: https://www.sec.gov/Archives/edgar/data/1071739/000162828025045086/0001628280-25-045086.txt
+2025-10-15 19:49:43 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $20,591.33 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1973524/000162828025045091/0001628280-25-045091.txt
+2025-10-15 19:49:44 | Erasca Foundation | Erasca Foundation | Shares: 8333 | Value: $20,591.33 | Percent: 0.002938% | Link: https://www.sec.gov/Archives/edgar/data/1761918/000162828025045091/0001628280-25-045091.txt
