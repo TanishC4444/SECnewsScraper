@@ -5104,3 +5104,5 @@
 2025-10-15 14:41:50 | Fields Kimberly A | Officer | Shares: 21153 | Value: $1,816,408.11 | Percent: 0.015347% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006448/0001959173-25-006448.txt
 2025-10-15 15:13:17 | Alesia Haas | Officer | Shares: 6142 | Value: $2,116,909.48 | Percent: 0.002855% | Link: https://www.sec.gov/Archives/edgar/data/1679788/000162828025045060/0001628280-25-045060.txt
 2025-10-15 15:13:18 | Alesia Haas | Officer | Shares: 6142 | Value: $2,116,909.48 | Percent: 0.002855% | Link: https://www.sec.gov/Archives/edgar/data/1668711/000162828025045060/0001628280-25-045060.txt
+2025-10-15 16:36:48 | Peter Boyd | Officer | Shares: 10000 | Value: $70,000.0 | Percent: 0.010028% | Link: https://www.sec.gov/Archives/edgar/data/1739816/000162828025045063/0001628280-25-045063.txt
+2025-10-15 16:36:49 | Peter Boyd | Officer | Shares: 10000 | Value: $70,000.0 | Percent: 0.010028% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000162828025045063/0001628280-25-045063.txt
