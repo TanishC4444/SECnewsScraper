@@ -5142,3 +5142,7 @@
 2025-10-15 21:01:44 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 22160 | Value: $1,617,680.0 | Percent: 0.063741% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000162828025045123/0001628280-25-045123.txt
 2025-10-15 21:34:13 | Abraham Euan | Officer | Shares: 25000 | Value: $449,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1983554/000197407825000389/0001974078-25-000389.txt
 2025-10-15 21:34:13 | Abraham Euan | Officer | Shares: 25000 | Value: $449,750.0 | Percent: 0.040598% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000389/0001974078-25-000389.txt
+2025-10-15 22:07:59 | RA Capital Nexus Fund, L.P. | Director | Shares: 8430 | Value: $254,754.6 | Percent: 0.123225% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000041/0001178937-25-000041.txt
+2025-10-15 22:08:00 | RA Capital Nexus Fund, L.P. | Director | Shares: 8430 | Value: $254,754.6 | Percent: 0.123225% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000041/0001178937-25-000041.txt
+2025-10-15 22:08:00 | RA Capital Healthcare Fund LP | Director | Shares: 42933 | Value: $1,297,435.26 | Percent: 0.020767% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000040/0001178937-25-000040.txt
+2025-10-15 22:08:01 | RA Capital Healthcare Fund LP | Director | Shares: 42933 | Value: $1,297,435.26 | Percent: 0.020767% | Link: https://www.sec.gov/Archives/edgar/data/1315082/000117893725000040/0001178937-25-000040.txt
