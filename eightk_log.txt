@@ -6676,3 +6676,4 @@
 2025-10-15 18:28:00 | 8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer) | 2025-10-15T14:02:23-04:00 | https://www.sec.gov/Archives/edgar/data/713676/000071367625000128/0000713676-25-000128.txt
 2025-10-15 18:59:00 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-10-15T14:54:19-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425011821/0001654954-25-011821.txt
 2025-10-15 19:19:28 | 8-K - FS Specialty Lending Fund (0001501729) (Filer) | 2025-10-15T15:15:59-04:00 | https://www.sec.gov/Archives/edgar/data/1501729/000110465925099714/0001104659-25-099714.txt
+2025-10-15 19:29:12 | 8-K - MetroCity Bankshares, Inc. (0001747068) (Filer) | 2025-10-15T15:27:43-04:00 | https://www.sec.gov/Archives/edgar/data/1747068/000174706825000056/0001747068-25-000056.txt
