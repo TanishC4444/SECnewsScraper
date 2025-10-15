@@ -5126,3 +5126,7 @@
 2025-10-15 20:27:51 | KURTIS BINDER | Officer | Shares: 51668 | Value: $902,639.96 | Percent: 0.049504% | Link: https://www.sec.gov/Archives/edgar/data/1654737/000195004725007980/0001950047-25-007980.txt
 2025-10-15 20:27:53 | JOHN SCHWEITZER | Officer | Shares: 10193 | Value: $253,703.77 | Percent: 0.003910% | Link: https://www.sec.gov/Archives/edgar/data/1878051/000195004725007978/0001950047-25-007978.txt
 2025-10-15 20:27:55 | JOHN SCHWEITZER | Officer | Shares: 10193 | Value: $253,703.77 | Percent: 0.003910% | Link: https://www.sec.gov/Archives/edgar/data/1868778/000195004725007978/0001950047-25-007978.txt
+2025-10-15 20:42:43 | David Gibbs | FormerOfficer | Shares: 28000 | Value: $4,031,160.0 | Percent: 0.010089% | Link: https://www.sec.gov/Archives/edgar/data/1628590/000162828025045119/0001628280-25-045119.txt
+2025-10-15 20:42:44 | David Gibbs | FormerOfficer | Shares: 28000 | Value: $4,031,160.0 | Percent: 0.010089% | Link: https://www.sec.gov/Archives/edgar/data/1041061/000162828025045119/0001628280-25-045119.txt
+2025-10-15 20:42:47 | DONALD KENNETH MCCLYMONT | Director | Shares: 200000 | Value: $1,112,000.0 | Percent: 0.100729% | Link: https://www.sec.gov/Archives/edgar/data/1866018/000195004725008011/0001950047-25-008011.txt
+2025-10-15 20:42:48 | DONALD KENNETH MCCLYMONT | Director | Shares: 200000 | Value: $1,112,000.0 | Percent: 0.100729% | Link: https://www.sec.gov/Archives/edgar/data/1841925/000195004725008011/0001950047-25-008011.txt
