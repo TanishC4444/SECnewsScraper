@@ -5108,3 +5108,11 @@
 2025-10-15 16:36:49 | Peter Boyd | Officer | Shares: 10000 | Value: $70,000.0 | Percent: 0.010028% | Link: https://www.sec.gov/Archives/edgar/data/1398733/000162828025045063/0001628280-25-045063.txt
 2025-10-15 18:50:17 | Anthony Cherbak | Director | Shares: 10000 | Value: $50,800.0 | Percent: 50.000000% | Link: https://www.sec.gov/Archives/edgar/data/1332688/000162828025045083/0001628280-25-045083.txt
 2025-10-15 18:50:17 | Anthony Cherbak | Director | Shares: 10000 | Value: $50,800.0 | Percent: 50.000000% | Link: https://www.sec.gov/Archives/edgar/data/1084765/000162828025045083/0001628280-25-045083.txt
+2025-10-15 19:19:30 | Waldron Thomas E. | Former Officer | Shares: 8333 | Value: $700,399.81 | Percent: 0.014994% | Link: https://www.sec.gov/Archives/edgar/data/1760965/000195917325006454/0001959173-25-006454.txt
+2025-10-15 19:19:31 | Waldron Thomas E. | Former Officer | Shares: 8333 | Value: $700,399.81 | Percent: 0.014994% | Link: https://www.sec.gov/Archives/edgar/data/1759648/000195917325006454/0001959173-25-006454.txt
+2025-10-15 19:19:32 | Schaefer William M | Policy-Making Officer | Shares: 7244 | Value: $268,176.0 | Percent: 0.098425% | Link: https://www.sec.gov/Archives/edgar/data/2018992/000201899225000006/0002018992-25-000006.txt
+2025-10-15 19:19:33 | Schaefer William M | Policy-Making Officer | Shares: 7244 | Value: $268,176.0 | Percent: 0.098425% | Link: https://www.sec.gov/Archives/edgar/data/842517/000201899225000006/0002018992-25-000006.txt
+2025-10-15 19:19:35 | Leaver Andrew | Officer | Shares: 27951 | Value: $1,526,295.1 | Percent: 0.242097% | Link: https://www.sec.gov/Archives/edgar/data/2035890/000195917325006452/0001959173-25-006452.txt
+2025-10-15 19:19:36 | Leaver Andrew | Officer | Shares: 27951 | Value: $1,526,295.1 | Percent: 0.242097% | Link: https://www.sec.gov/Archives/edgar/data/1859690/000195917325006452/0001959173-25-006452.txt
+2025-10-15 19:19:37 | Kullman Ellen Jamison | Director | Shares: 79806 | Value: $12,254,834.64 | Percent: 0.023688% | Link: https://www.sec.gov/Archives/edgar/data/1571996/000195917325006451/0001959173-25-006451.txt
+2025-10-15 19:19:38 | Kullman Ellen Jamison | Director | Shares: 79806 | Value: $12,254,834.64 | Percent: 0.023688% | Link: https://www.sec.gov/Archives/edgar/data/1303141/000195917325006451/0001959173-25-006451.txt
