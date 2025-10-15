@@ -5098,3 +5098,5 @@
 2025-10-15 13:55:56 | Baylouny John | Officer | Shares: 8481 | Value: $370,534.89 | Percent: 0.003187% | Link: https://www.sec.gov/Archives/edgar/data/1397134/000195917325006444/0001959173-25-006444.txt
 2025-10-15 13:55:57 | Khan Salman Hassan | Officer | Shares: 34732 | Value: $789,805.68 | Percent: 0.009375% | Link: https://www.sec.gov/Archives/edgar/data/1907413/000195917325006443/0001959173-25-006443.txt
 2025-10-15 13:55:58 | Khan Salman Hassan | Officer | Shares: 34732 | Value: $789,805.68 | Percent: 0.009375% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006443/0001959173-25-006443.txt
+2025-10-15 14:18:25 | BURKE JAMES A | Officer | Shares: 21363 | Value: $4,472,092.72 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006447/0001959173-25-006447.txt
+2025-10-15 14:18:26 | BURKE JAMES A | Officer | Shares: 21363 | Value: $4,472,092.72 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006447/0001959173-25-006447.txt
