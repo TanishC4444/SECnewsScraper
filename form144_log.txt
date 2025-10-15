@@ -5094,3 +5094,7 @@
 2025-10-14 23:18:08 | Windsor Private Capital LP | 10% Stockholder | Shares: 29500 | Value: $80,799.62 | Percent: 0.219350% | Link: https://www.sec.gov/Archives/edgar/data/803578/000203416025000010/0002034160-25-000010.txt
 2025-10-15 10:53:11 | Zhang Houqi | Officer | Shares: 814388 | Value: $162,877.0 | Percent: 0.711995% | Link: https://www.sec.gov/Archives/edgar/data/2044956/000204495625000005/0002044956-25-000005.txt
 2025-10-15 10:53:11 | Zhang Houqi | Officer | Shares: 814388 | Value: $162,877.0 | Percent: 0.711995% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000204495625000005/0002044956-25-000005.txt
+2025-10-15 13:55:55 | Baylouny John | Officer | Shares: 8481 | Value: $370,534.89 | Percent: 0.003187% | Link: https://www.sec.gov/Archives/edgar/data/1833756/000195917325006444/0001959173-25-006444.txt
+2025-10-15 13:55:56 | Baylouny John | Officer | Shares: 8481 | Value: $370,534.89 | Percent: 0.003187% | Link: https://www.sec.gov/Archives/edgar/data/1397134/000195917325006444/0001959173-25-006444.txt
+2025-10-15 13:55:57 | Khan Salman Hassan | Officer | Shares: 34732 | Value: $789,805.68 | Percent: 0.009375% | Link: https://www.sec.gov/Archives/edgar/data/1907413/000195917325006443/0001959173-25-006443.txt
+2025-10-15 13:55:58 | Khan Salman Hassan | Officer | Shares: 34732 | Value: $789,805.68 | Percent: 0.009375% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006443/0001959173-25-006443.txt
