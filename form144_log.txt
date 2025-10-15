@@ -5102,3 +5102,5 @@
 2025-10-15 14:18:26 | BURKE JAMES A | Officer | Shares: 21363 | Value: $4,472,092.72 | Percent: 0.006305% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006447/0001959173-25-006447.txt
 2025-10-15 14:41:50 | Fields Kimberly A | Officer | Shares: 21153 | Value: $1,816,408.11 | Percent: 0.015347% | Link: https://www.sec.gov/Archives/edgar/data/1773072/000195917325006448/0001959173-25-006448.txt
 2025-10-15 14:41:50 | Fields Kimberly A | Officer | Shares: 21153 | Value: $1,816,408.11 | Percent: 0.015347% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006448/0001959173-25-006448.txt
+2025-10-15 15:13:17 | Alesia Haas | Officer | Shares: 6142 | Value: $2,116,909.48 | Percent: 0.002855% | Link: https://www.sec.gov/Archives/edgar/data/1679788/000162828025045060/0001628280-25-045060.txt
+2025-10-15 15:13:18 | Alesia Haas | Officer | Shares: 6142 | Value: $2,116,909.48 | Percent: 0.002855% | Link: https://www.sec.gov/Archives/edgar/data/1668711/000162828025045060/0001628280-25-045060.txt
