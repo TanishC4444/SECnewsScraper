@@ -5200,3 +5200,5 @@
 2025-10-16 21:47:31 | Plavsic Mark | Officer | Shares: 12169 | Value: $77,273.15 | Percent: 0.019590% | Link: https://www.sec.gov/Archives/edgar/data/1501796/000119312525241623/0001193125-25-241623.txt
 2025-10-16 22:13:49 | Windsor Private Capital LP | 10% Stockholder | Shares: 40139 | Value: $106,456.25 | Percent: 0.298457% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000207184225000006/0002071842-25-000006.txt
 2025-10-16 22:13:50 | Windsor Private Capital LP | 10% Stockholder | Shares: 40139 | Value: $106,456.25 | Percent: 0.298457% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000006/0002071842-25-000006.txt
+2025-10-16 23:50:32 | ROTHBERG JONATHAN M | Director | Shares: 26095 | Value: $80,166.45 | Percent: 0.018285% | Link: https://www.sec.gov/Archives/edgar/data/1816431/000197415825000065/0001974158-25-000065.txt
+2025-10-16 23:50:33 | ROTHBERG JONATHAN M | Director | Shares: 26095 | Value: $80,166.45 | Percent: 0.018285% | Link: https://www.sec.gov/Archives/edgar/data/1076352/000197415825000065/0001974158-25-000065.txt
