@@ -5168,3 +5168,5 @@
 2025-10-16 18:55:58 | GOSWAMI JOYDEEP | Director | Shares: 9000 | Value: $278,910.0 | Percent: 0.018787% | Link: https://www.sec.gov/Archives/edgar/data/834365/000194984625000532/0001949846-25-000532.txt
 2025-10-16 19:12:48 | Dudum Andrew | Officer | Shares: 175661 | Value: $11,029,998.25 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1837796/000195917325006469/0001959173-25-006469.txt
 2025-10-16 19:12:50 | Dudum Andrew | Officer | Shares: 175661 | Value: $11,029,998.25 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006469/0001959173-25-006469.txt
+2025-10-16 19:36:31 | Gillen Robert | Director | Shares: 20331 | Value: $42,085.0 | Percent: 0.699447% | Link: https://www.sec.gov/Archives/edgar/data/1534562/000195917325006472/0001959173-25-006472.txt
+2025-10-16 19:36:32 | Gillen Robert | Director | Shares: 20331 | Value: $42,085.0 | Percent: 0.699447% | Link: https://www.sec.gov/Archives/edgar/data/1397183/000195917325006472/0001959173-25-006472.txt
