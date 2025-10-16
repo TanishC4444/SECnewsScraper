@@ -6800,3 +6800,5 @@
 2025-10-16 17:53:32 | 8-K - ENB Financial Corp (0001437479) (Filer) | 2025-10-16T13:48:50-04:00 | https://www.sec.gov/Archives/edgar/data/1437479/000207709625000153/0002077096-25-000153.txt
 2025-10-16 17:53:34 | 8-K - SL GREEN REALTY CORP (0001040971) (Filer) | 2025-10-16T13:44:56-04:00 | https://www.sec.gov/Archives/edgar/data/1040971/000162828025045181/0001628280-25-045181.txt
 2025-10-16 18:17:33 | 8-K - Worksport Ltd (0001096275) (Filer) | 2025-10-16T14:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/1096275/000149315225018282/0001493152-25-018282.txt
+2025-10-16 18:45:19 | 8-K/A - SunCoke Energy, Inc. (0001514705) (Filer) | 2025-10-16T14:37:55-04:00 | https://www.sec.gov/Archives/edgar/data/1514705/000151470525000027/0001514705-25-000027.txt
+2025-10-16 18:45:19 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-16T14:37:35-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000235/0001331465-25-000235.txt
