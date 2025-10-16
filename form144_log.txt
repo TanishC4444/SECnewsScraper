@@ -5194,3 +5194,5 @@
 2025-10-16 21:14:06 | OCAMPO SUSAN | 10% Stockholder | Shares: 102261 | Value: $14,105,882.0 | Percent: 0.137316% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000533/0001949846-25-000533.txt
 2025-10-16 21:26:58 | RA Capital Healthcare Fund LP | Director | Shares: 126887 | Value: $3,687,336.22 | Percent: 1.854766% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000042/0001178937-25-000042.txt
 2025-10-16 21:26:59 | RA Capital Healthcare Fund LP | Director | Shares: 126887 | Value: $3,687,336.22 | Percent: 1.854766% | Link: https://www.sec.gov/Archives/edgar/data/1315082/000117893725000042/0001178937-25-000042.txt
+2025-10-16 21:38:03 | RA Capital Nexus Fund, L.P. | Director | Shares: 24916 | Value: $724,058.96 | Percent: 0.364209% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000043/0001178937-25-000043.txt
+2025-10-16 21:38:04 | RA Capital Nexus Fund, L.P. | Director | Shares: 24916 | Value: $724,058.96 | Percent: 0.364209% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000043/0001178937-25-000043.txt
