@@ -6782,3 +6782,5 @@
 2025-10-16 13:46:27 | 8-K - DeFi Development Corp. (0001805526) (Filer) | 2025-10-16T09:30:34-04:00 | https://www.sec.gov/Archives/edgar/data/1805526/000121390025099344/0001213900-25-099344.txt
 2025-10-16 13:56:11 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-16T09:52:55-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525240919/0001193125-25-240919.txt
 2025-10-16 14:18:36 | 8-K - World Scan Project, Inc. (0001813744) (Filer) | 2025-10-16T10:15:44-04:00 | https://www.sec.gov/Archives/edgar/data/1813744/000181374425000015/0001813744-25-000015.txt
+2025-10-16 14:41:02 | 8-K - GREAT SOUTHERN BANCORP, INC. (0000854560) (Filer) | 2025-10-16T10:31:24-04:00 | https://www.sec.gov/Archives/edgar/data/854560/000117184325006476/0001171843-25-006476.txt
+2025-10-16 14:41:03 | 8-K - Arax Holdings Corp (0001566243) (Filer) | 2025-10-16T10:19:45-04:00 | https://www.sec.gov/Archives/edgar/data/1566243/000175392625001619/0001753926-25-001619.txt

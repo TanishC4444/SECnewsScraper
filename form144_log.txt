@@ -5154,3 +5154,7 @@
 2025-10-16 10:30:28 | Garth Ritchie | Director | Shares: 100000 | Value: $5,347,000.0 | Percent: 0.653930% | Link: https://www.sec.gov/Archives/edgar/data/1840684/000110465925099876/0001104659-25-099876.txt
 2025-10-16 13:46:29 | Zales Samuel | Officer | Shares: 10000 | Value: $349,200.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1718790/000195917325006457/0001959173-25-006457.txt
 2025-10-16 13:46:30 | Zales Samuel | Officer | Shares: 10000 | Value: $349,200.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006457/0001959173-25-006457.txt
+2025-10-16 14:41:06 | Dageville Benoit | Officer | Shares: 25000 | Value: $6,150,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325006461/0001959173-25-006461.txt
+2025-10-16 14:41:07 | Dageville Benoit | Officer | Shares: 25000 | Value: $6,150,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006461/0001959173-25-006461.txt
+2025-10-16 14:41:08 | BURKE JAMES A | Officer | Shares: 21355 | Value: $4,595,885.99 | Percent: 0.006303% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006460/0001959173-25-006460.txt
+2025-10-16 14:41:09 | BURKE JAMES A | Officer | Shares: 21355 | Value: $4,595,885.99 | Percent: 0.006303% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006460/0001959173-25-006460.txt
