@@ -6804,3 +6804,6 @@
 2025-10-16 18:45:19 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-16T14:37:35-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000235/0001331465-25-000235.txt
 2025-10-16 19:12:42 | 8-K - DONEGAL GROUP INC (0000800457) (Filer) | 2025-10-16T15:00:28-04:00 | https://www.sec.gov/Archives/edgar/data/800457/000117184325006485/0001171843-25-006485.txt
 2025-10-16 19:12:46 | 8-K - AMERICAN BATTERY TECHNOLOGY Co (0001576873) (Filer) | 2025-10-16T14:58:14-04:00 | https://www.sec.gov/Archives/edgar/data/1576873/000149315225018287/0001493152-25-018287.txt
+2025-10-16 19:25:31 | 8-K - Lunai Bioworks Inc. (0001527728) (Filer) | 2025-10-16T15:21:09-04:00 | https://www.sec.gov/Archives/edgar/data/1527728/000173112225001399/0001731122-25-001399.txt
+2025-10-16 19:25:32 | 8-K - Lottery.com Inc. (0001673481) (Filer) | 2025-10-16T15:19:44-04:00 | https://www.sec.gov/Archives/edgar/data/1673481/000149315225018294/0001493152-25-018294.txt
+2025-10-16 19:25:32 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-16T15:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000190/0001326771-25-000190.txt
