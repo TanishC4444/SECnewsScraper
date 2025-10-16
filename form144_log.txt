@@ -5174,3 +5174,9 @@
 2025-10-16 20:16:11 | Mazumdar Claire | Officer | Shares: 24103 | Value: $453,760.67 | Percent: 0.044175% | Link: https://www.sec.gov/Archives/edgar/data/2023658/000196922325000854/0001969223-25-000854.txt
 2025-10-16 20:16:13 | Hohenstein Ken | Officer | Shares: 40000 | Value: $673,850.19 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/2031265/000195917325006473/0001959173-25-006473.txt
 2025-10-16 20:16:14 | Hohenstein Ken | Officer | Shares: 40000 | Value: $673,850.19 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325006473/0001959173-25-006473.txt
+2025-10-16 20:34:14 | SHARAT SHARAN | Director | Shares: 32093 | Value: $179,720.8 | Percent: 0.075859% | Link: https://www.sec.gov/Archives/edgar/data/1841654/000195004725008033/0001950047-25-008033.txt
+2025-10-16 20:34:15 | SHARAT SHARAN | Director | Shares: 32093 | Value: $179,720.8 | Percent: 0.075859% | Link: https://www.sec.gov/Archives/edgar/data/1110611/000195004725008033/0001950047-25-008033.txt
+2025-10-16 20:34:16 | MARK J BARRENECHEA | Former officer | Shares: 92512 | Value: $3,603,730.95 | Percent: 0.036377% | Link: https://www.sec.gov/Archives/edgar/data/1290936/000195004725008032/0001950047-25-008032.txt
+2025-10-16 20:34:17 | MARK J BARRENECHEA | Former officer | Shares: 92512 | Value: $3,603,730.95 | Percent: 0.036377% | Link: https://www.sec.gov/Archives/edgar/data/1002638/000195004725008032/0001950047-25-008032.txt
+2025-10-16 20:34:19 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,632,010.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001268/0001921094-25-001268.txt
+2025-10-16 20:34:21 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,632,010.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001268/0001921094-25-001268.txt
