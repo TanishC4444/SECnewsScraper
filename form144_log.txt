@@ -5162,3 +5162,7 @@
 2025-10-16 16:21:12 | Theilmann Michael T | Officer | Shares: 100000 | Value: $1,935,144.77 | Percent: 0.018205% | Link: https://www.sec.gov/Archives/edgar/data/1329101/000195917325006468/0001959173-25-006468.txt
 2025-10-16 17:44:04 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $266,835.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1852353/000100027525000146/0001000275-25-000146.txt
 2025-10-16 17:44:05 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $266,835.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1816004/000100027525000146/0001000275-25-000146.txt
+2025-10-16 18:55:55 | GOLDEN PROPERTIES LTD | Affiliate | Shares: 1000000 | Value: $4,500,000.0 | Percent: 1.004035% | Link: https://www.sec.gov/Archives/edgar/data/1662466/000147793225007615/0001477932-25-007615.txt
+2025-10-16 18:55:56 | GOLDEN PROPERTIES LTD | Affiliate | Shares: 1000000 | Value: $4,500,000.0 | Percent: 1.004035% | Link: https://www.sec.gov/Archives/edgar/data/1590715/000147793225007615/0001477932-25-007615.txt
+2025-10-16 18:55:57 | GOSWAMI JOYDEEP | Director | Shares: 9000 | Value: $278,910.0 | Percent: 0.018787% | Link: https://www.sec.gov/Archives/edgar/data/1533115/000194984625000532/0001949846-25-000532.txt
+2025-10-16 18:55:58 | GOSWAMI JOYDEEP | Director | Shares: 9000 | Value: $278,910.0 | Percent: 0.018787% | Link: https://www.sec.gov/Archives/edgar/data/834365/000194984625000532/0001949846-25-000532.txt
