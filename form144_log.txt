@@ -5198,3 +5198,5 @@
 2025-10-16 21:38:04 | RA Capital Nexus Fund, L.P. | Director | Shares: 24916 | Value: $724,058.96 | Percent: 0.364209% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000043/0001178937-25-000043.txt
 2025-10-16 21:47:30 | Plavsic Mark | Officer | Shares: 12169 | Value: $77,273.15 | Percent: 0.019590% | Link: https://www.sec.gov/Archives/edgar/data/1868719/000119312525241623/0001193125-25-241623.txt
 2025-10-16 21:47:31 | Plavsic Mark | Officer | Shares: 12169 | Value: $77,273.15 | Percent: 0.019590% | Link: https://www.sec.gov/Archives/edgar/data/1501796/000119312525241623/0001193125-25-241623.txt
+2025-10-16 22:13:49 | Windsor Private Capital LP | 10% Stockholder | Shares: 40139 | Value: $106,456.25 | Percent: 0.298457% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000207184225000006/0002071842-25-000006.txt
+2025-10-16 22:13:50 | Windsor Private Capital LP | 10% Stockholder | Shares: 40139 | Value: $106,456.25 | Percent: 0.298457% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000006/0002071842-25-000006.txt
