@@ -5152,3 +5152,5 @@
 2025-10-16 01:54:47 | Windsor Private Capital LP | 10% Stockholder | Shares: 17500 | Value: $48,026.83 | Percent: 0.130123% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000005/0002071842-25-000005.txt
 2025-10-16 10:30:28 | Garth Ritchie | Director | Shares: 100000 | Value: $5,347,000.0 | Percent: 0.653930% | Link: https://www.sec.gov/Archives/edgar/data/1859690/000110465925099876/0001104659-25-099876.txt
 2025-10-16 10:30:28 | Garth Ritchie | Director | Shares: 100000 | Value: $5,347,000.0 | Percent: 0.653930% | Link: https://www.sec.gov/Archives/edgar/data/1840684/000110465925099876/0001104659-25-099876.txt
+2025-10-16 13:46:29 | Zales Samuel | Officer | Shares: 10000 | Value: $349,200.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1718790/000195917325006457/0001959173-25-006457.txt
+2025-10-16 13:46:30 | Zales Samuel | Officer | Shares: 10000 | Value: $349,200.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006457/0001959173-25-006457.txt
