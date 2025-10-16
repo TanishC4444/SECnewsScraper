@@ -5158,3 +5158,5 @@
 2025-10-16 14:41:07 | Dageville Benoit | Officer | Shares: 25000 | Value: $6,150,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006461/0001959173-25-006461.txt
 2025-10-16 14:41:08 | BURKE JAMES A | Officer | Shares: 21355 | Value: $4,595,885.99 | Percent: 0.006303% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006460/0001959173-25-006460.txt
 2025-10-16 14:41:09 | BURKE JAMES A | Officer | Shares: 21355 | Value: $4,595,885.99 | Percent: 0.006303% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006460/0001959173-25-006460.txt
+2025-10-16 16:21:11 | Theilmann Michael T | Officer | Shares: 100000 | Value: $1,935,144.77 | Percent: 0.018205% | Link: https://www.sec.gov/Archives/edgar/data/1646972/000195917325006468/0001959173-25-006468.txt
+2025-10-16 16:21:12 | Theilmann Michael T | Officer | Shares: 100000 | Value: $1,935,144.77 | Percent: 0.018205% | Link: https://www.sec.gov/Archives/edgar/data/1329101/000195917325006468/0001959173-25-006468.txt

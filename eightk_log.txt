@@ -6792,3 +6792,4 @@
 2025-10-16 15:12:22 | 8-K - OSR Holdings, Inc. (0001840425) (Filer) | 2025-10-16T11:10:18-04:00 | https://www.sec.gov/Archives/edgar/data/1840425/000121390025099393/0001213900-25-099393.txt
 2025-10-16 15:33:45 | 8-K - Franklin BSP Real Estate Debt, Inc. (0002035428) (Filer) | 2025-10-16T11:27:50-04:00 | https://www.sec.gov/Archives/edgar/data/2035428/000203542825000032/0002035428-25-000032.txt
 2025-10-16 15:33:45 | 8-K/A - Greater Cannabis Company, Inc. (0001695473) (Filer) | 2025-10-16T11:13:33-04:00 | https://www.sec.gov/Archives/edgar/data/1695473/000149315225018271/0001493152-25-018271.txt
+2025-10-16 16:21:09 | 8-K - LXP Industrial Trust (0000910108) (Filer) | 2025-10-16T12:01:16-04:00 | https://www.sec.gov/Archives/edgar/data/910108/000091010825000058/0000910108-25-000058.txt
