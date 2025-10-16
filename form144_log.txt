@@ -5196,3 +5196,5 @@
 2025-10-16 21:26:59 | RA Capital Healthcare Fund LP | Director | Shares: 126887 | Value: $3,687,336.22 | Percent: 1.854766% | Link: https://www.sec.gov/Archives/edgar/data/1315082/000117893725000042/0001178937-25-000042.txt
 2025-10-16 21:38:03 | RA Capital Nexus Fund, L.P. | Director | Shares: 24916 | Value: $724,058.96 | Percent: 0.364209% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000043/0001178937-25-000043.txt
 2025-10-16 21:38:04 | RA Capital Nexus Fund, L.P. | Director | Shares: 24916 | Value: $724,058.96 | Percent: 0.364209% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000043/0001178937-25-000043.txt
+2025-10-16 21:47:30 | Plavsic Mark | Officer | Shares: 12169 | Value: $77,273.15 | Percent: 0.019590% | Link: https://www.sec.gov/Archives/edgar/data/1868719/000119312525241623/0001193125-25-241623.txt
+2025-10-16 21:47:31 | Plavsic Mark | Officer | Shares: 12169 | Value: $77,273.15 | Percent: 0.019590% | Link: https://www.sec.gov/Archives/edgar/data/1501796/000119312525241623/0001193125-25-241623.txt
