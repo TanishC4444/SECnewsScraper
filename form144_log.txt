@@ -5160,3 +5160,5 @@
 2025-10-16 14:41:09 | BURKE JAMES A | Officer | Shares: 21355 | Value: $4,595,885.99 | Percent: 0.006303% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006460/0001959173-25-006460.txt
 2025-10-16 16:21:11 | Theilmann Michael T | Officer | Shares: 100000 | Value: $1,935,144.77 | Percent: 0.018205% | Link: https://www.sec.gov/Archives/edgar/data/1646972/000195917325006468/0001959173-25-006468.txt
 2025-10-16 16:21:12 | Theilmann Michael T | Officer | Shares: 100000 | Value: $1,935,144.77 | Percent: 0.018205% | Link: https://www.sec.gov/Archives/edgar/data/1329101/000195917325006468/0001959173-25-006468.txt
+2025-10-16 17:44:04 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $266,835.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1852353/000100027525000146/0001000275-25-000146.txt
+2025-10-16 17:44:05 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $266,835.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1816004/000100027525000146/0001000275-25-000146.txt
