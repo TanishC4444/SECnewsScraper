@@ -5184,3 +5184,5 @@
 2025-10-16 20:45:53 | Aparna Bawa | Affiliate | Shares: 10528 | Value: $837,081.0 | Percent: 0.003951% | Link: https://www.sec.gov/Archives/edgar/data/1585521/000196858225001002/0001968582-25-001002.txt
 2025-10-16 20:45:55 | Venker Eric | Officer | Shares: 318282 | Value: $5,425,645.04 | Percent: 0.046609% | Link: https://www.sec.gov/Archives/edgar/data/1801917/000196530125000155/0001965301-25-000155.txt
 2025-10-16 20:45:56 | Venker Eric | Officer | Shares: 318282 | Value: $5,425,645.04 | Percent: 0.046609% | Link: https://www.sec.gov/Archives/edgar/data/1635088/000196530125000155/0001965301-25-000155.txt
+2025-10-16 20:55:28 | Wayne DeVeydt | former director | Shares: 52946 | Value: $1,131,869.4 | Percent: 0.041297% | Link: https://www.sec.gov/Archives/edgar/data/1638833/000196922325000855/0001969223-25-000855.txt
+2025-10-16 20:55:29 | Wayne DeVeydt | former director | Shares: 52946 | Value: $1,131,869.4 | Percent: 0.041297% | Link: https://www.sec.gov/Archives/edgar/data/1321392/000196922325000855/0001969223-25-000855.txt
