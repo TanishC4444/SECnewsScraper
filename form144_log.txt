@@ -5170,3 +5170,7 @@
 2025-10-16 19:12:50 | Dudum Andrew | Officer | Shares: 175661 | Value: $11,029,998.25 | Percent: 0.080711% | Link: https://www.sec.gov/Archives/edgar/data/1773751/000195917325006469/0001959173-25-006469.txt
 2025-10-16 19:36:31 | Gillen Robert | Director | Shares: 20331 | Value: $42,085.0 | Percent: 0.699447% | Link: https://www.sec.gov/Archives/edgar/data/1534562/000195917325006472/0001959173-25-006472.txt
 2025-10-16 19:36:32 | Gillen Robert | Director | Shares: 20331 | Value: $42,085.0 | Percent: 0.699447% | Link: https://www.sec.gov/Archives/edgar/data/1397183/000195917325006472/0001959173-25-006472.txt
+2025-10-16 20:16:09 | Mazumdar Claire | Officer | Shares: 24103 | Value: $453,760.67 | Percent: 0.044175% | Link: https://www.sec.gov/Archives/edgar/data/2034671/000196922325000854/0001969223-25-000854.txt
+2025-10-16 20:16:11 | Mazumdar Claire | Officer | Shares: 24103 | Value: $453,760.67 | Percent: 0.044175% | Link: https://www.sec.gov/Archives/edgar/data/2023658/000196922325000854/0001969223-25-000854.txt
+2025-10-16 20:16:13 | Hohenstein Ken | Officer | Shares: 40000 | Value: $673,850.19 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/2031265/000195917325006473/0001959173-25-006473.txt
+2025-10-16 20:16:14 | Hohenstein Ken | Officer | Shares: 40000 | Value: $673,850.19 | Percent: 0.045384% | Link: https://www.sec.gov/Archives/edgar/data/1889956/000195917325006473/0001959173-25-006473.txt
