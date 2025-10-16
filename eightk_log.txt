@@ -6808,3 +6808,5 @@
 2025-10-16 19:25:32 | 8-K - Lottery.com Inc. (0001673481) (Filer) | 2025-10-16T15:19:44-04:00 | https://www.sec.gov/Archives/edgar/data/1673481/000149315225018294/0001493152-25-018294.txt
 2025-10-16 19:25:32 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-16T15:15:26-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000190/0001326771-25-000190.txt
 2025-10-16 19:36:29 | 8-K/A - Wells Fargo Commercial Mortgage Trust 2025-C65 (0002086308) (Filer) | 2025-10-16T15:35:10-04:00 | https://www.sec.gov/Archives/edgar/data/2086308/000153949725002724/0001539497-25-002724.txt
+2025-10-16 19:45:28 | 8-K - HINES GLOBAL INCOME TRUST, INC. (0001585101) (Filer) | 2025-10-16T15:42:39-04:00 | https://www.sec.gov/Archives/edgar/data/1585101/000162828025045200/0001628280-25-045200.txt
+2025-10-16 19:45:28 | 8-K - Wells Fargo Commercial Mortgage Trust 2025-C65 (0002086308) (Filer) | 2025-10-16T15:41:44-04:00 | https://www.sec.gov/Archives/edgar/data/2086308/000153949725002726/0001539497-25-002726.txt
