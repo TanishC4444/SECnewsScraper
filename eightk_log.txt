@@ -6970,3 +6970,12 @@
 2025-10-17 20:56:24 | 8-K - Bridgecrest Lending Auto Securitization Trust 2025-4 (0002086742) (Filer) | 2025-10-17T16:50:33-04:00 | https://www.sec.gov/Archives/edgar/data/2086742/000110465925100440/0001104659-25-100440.txt
 2025-10-17 20:56:24 | 8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer) | 2025-10-17T16:50:33-04:00 | https://www.sec.gov/Archives/edgar/data/1974820/000110465925100440/0001104659-25-100440.txt
 2025-10-17 20:56:25 | 8-K - Armada Hoffler Properties, Inc. (0001569187) (Filer) | 2025-10-17T16:47:58-04:00 | https://www.sec.gov/Archives/edgar/data/1569187/000156918725000173/0001569187-25-000173.txt
+2025-10-17 21:15:43 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-17T17:10:32-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008207/0001829126-25-008207.txt
+2025-10-17 21:15:45 | 8-K - Odyssey Health, Inc. (0001626644) (Filer) | 2025-10-17T17:10:25-04:00 | https://www.sec.gov/Archives/edgar/data/1626644/000168316825007644/0001683168-25-007644.txt
+2025-10-17 21:15:45 | 8-K/A - Transcode Therapeutics, Inc. (0001829635) (Filer) | 2025-10-17T17:09:03-04:00 | https://www.sec.gov/Archives/edgar/data/1829635/000110465925100456/0001104659-25-100456.txt
+2025-10-17 21:15:45 | 8-K/A - Beauty Health Co (0001818093) (Filer) | 2025-10-17T17:08:49-04:00 | https://www.sec.gov/Archives/edgar/data/1818093/000162828025045385/0001628280-25-045385.txt
+2025-10-17 21:15:50 | 8-K - OS Therapies Inc (0001795091) (Filer) | 2025-10-17T17:06:25-04:00 | https://www.sec.gov/Archives/edgar/data/1795091/000121390025100019/0001213900-25-100019.txt
+2025-10-17 21:15:51 | 8-K - Traws Pharma, Inc. (0001130598) (Filer) | 2025-10-17T17:03:50-04:00 | https://www.sec.gov/Archives/edgar/data/1130598/000110465925100455/0001104659-25-100455.txt
+2025-10-17 21:15:52 | 8-K - WESTWATER RESOURCES, INC. (0000839470) (Filer) | 2025-10-17T17:03:09-04:00 | https://www.sec.gov/Archives/edgar/data/839470/000110465925100453/0001104659-25-100453.txt
+2025-10-17 21:15:54 | 8-K - zSpace, Inc. (0001637147) (Filer) | 2025-10-17T17:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1637147/000110465925100452/0001104659-25-100452.txt
+2025-10-17 21:15:54 | 8-K - BROADWAY FINANCIAL CORP \DE\ (0001001171) (Filer) | 2025-10-17T17:01:38-04:00 | https://www.sec.gov/Archives/edgar/data/1001171/000114036125038507/0001140361-25-038507.txt
