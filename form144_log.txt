@@ -5202,3 +5202,5 @@
 2025-10-16 22:13:50 | Windsor Private Capital LP | 10% Stockholder | Shares: 40139 | Value: $106,456.25 | Percent: 0.298457% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000006/0002071842-25-000006.txt
 2025-10-16 23:50:32 | ROTHBERG JONATHAN M | Director | Shares: 26095 | Value: $80,166.45 | Percent: 0.018285% | Link: https://www.sec.gov/Archives/edgar/data/1816431/000197415825000065/0001974158-25-000065.txt
 2025-10-16 23:50:33 | ROTHBERG JONATHAN M | Director | Shares: 26095 | Value: $80,166.45 | Percent: 0.018285% | Link: https://www.sec.gov/Archives/edgar/data/1076352/000197415825000065/0001974158-25-000065.txt
+2025-10-17 01:53:40 | Ainscow Robert | OFFICER | Shares: 22500 | Value: $299,700.0 | Percent: 0.024088% | Link: https://www.sec.gov/Archives/edgar/data/1951275/000147793225007625/0001477932-25-007625.txt
+2025-10-17 01:53:42 | Ainscow Robert | OFFICER | Shares: 22500 | Value: $299,700.0 | Percent: 0.024088% | Link: https://www.sec.gov/Archives/edgar/data/1921865/000147793225007625/0001477932-25-007625.txt
