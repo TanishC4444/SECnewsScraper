@@ -5212,3 +5212,5 @@
 2025-10-17 13:57:28 | BURKE JAMES A | Officer | Shares: 21367 | Value: $4,437,068.19 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006476/0001959173-25-006476.txt
 2025-10-17 13:57:29 | Thiel Frederick G | Officer | Shares: 27505 | Value: $538,272.85 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1567383/000195917325006475/0001959173-25-006475.txt
 2025-10-17 13:57:30 | Thiel Frederick G | Officer | Shares: 27505 | Value: $538,272.85 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006475/0001959173-25-006475.txt
+2025-10-17 14:39:37 | REED JOHN C | Officer | Shares: 21721 | Value: $4,185,794.26 | Percent: 0.000902% | Link: https://www.sec.gov/Archives/edgar/data/1181561/000195917325006477/0001959173-25-006477.txt
+2025-10-17 14:39:37 | REED JOHN C | Officer | Shares: 21721 | Value: $4,185,794.26 | Percent: 0.000902% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325006477/0001959173-25-006477.txt
