@@ -6924,3 +6924,4 @@
 2025-10-17 16:45:06 | 8-K - FIVE STAR BANCORP (0001275168) (Filer) | 2025-10-17T12:35:57-04:00 | https://www.sec.gov/Archives/edgar/data/1275168/000162828025045316/0001628280-25-045316.txt
 2025-10-17 16:55:50 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-10-17T12:51:11-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000195/0001325814-25-000195.txt
 2025-10-17 17:14:26 | 8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer) | 2025-10-17T12:58:55-04:00 | https://www.sec.gov/Archives/edgar/data/1976927/000197692725000050/0001976927-25-000050.txt
+2025-10-17 17:31:11 | 8-K - SB FINANCIAL GROUP, INC. (0000767405) (Filer) | 2025-10-17T13:25:32-04:00 | https://www.sec.gov/Archives/edgar/data/767405/000121390025099860/0001213900-25-099860.txt
