@@ -6866,3 +6866,12 @@
 2025-10-17 10:00:48 | 8-K - OFFICE PROPERTIES INCOME TRUST (0001456772) (Filer) | 2025-10-16T17:44:19-04:00 | https://www.sec.gov/Archives/edgar/data/1456772/000110465925100149/0001104659-25-100149.txt
 2025-10-17 10:00:51 | 8-K - ROGERS CORP (0000084748) (Filer) | 2025-10-16T17:41:21-04:00 | https://www.sec.gov/Archives/edgar/data/84748/000008474825000060/0000084748-25-000060.txt
 2025-10-17 10:00:53 | 8-K - Liberty Energy Inc. (0001694028) (Filer) | 2025-10-16T17:38:53-04:00 | https://www.sec.gov/Archives/edgar/data/1694028/000169402825000110/0001694028-25-000110.txt
+2025-10-17 10:29:14 | 8-K - Global Net Lease, Inc. (0001526113) (Filer) | 2025-10-17T06:15:40-04:00 | https://www.sec.gov/Archives/edgar/data/1526113/000110465925100198/0001104659-25-100198.txt
+2025-10-17 10:29:16 | 8-K - AUTOLIV INC (0001034670) (Filer) | 2025-10-17T06:14:04-04:00 | https://www.sec.gov/Archives/edgar/data/1034670/000119312525241914/0001193125-25-241914.txt
+2025-10-17 10:29:18 | 8-K - Jefferies Financial Group Inc. (0000096223) (Filer) | 2025-10-17T06:06:00-04:00 | https://www.sec.gov/Archives/edgar/data/96223/000114036125038352/0001140361-25-038352.txt
+2025-10-17 10:29:20 | 8-K - REGIONS FINANCIAL CORP (0001281761) (Filer) | 2025-10-17T06:02:26-04:00 | https://www.sec.gov/Archives/edgar/data/1281761/000128176125000074/0001281761-25-000074.txt
+2025-10-17 10:29:21 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-17T06:02:08-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325016160/0001062993-25-016160.txt
+2025-10-17 10:29:22 | 8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer) | 2025-10-16T21:47:15-04:00 | https://www.sec.gov/Archives/edgar/data/1218683/000121390025099694/0001213900-25-099694.txt
+2025-10-17 10:29:24 | 8-K - IonQ, Inc. (0001824920) (Filer) | 2025-10-16T20:59:00-04:00 | https://www.sec.gov/Archives/edgar/data/1824920/000095014225002829/0000950142-25-002829.txt
+2025-10-17 10:29:25 | 8-K - IonQ, Inc. (0001824920) (Filer) | 2025-10-16T20:56:55-04:00 | https://www.sec.gov/Archives/edgar/data/1824920/000095014225002827/0000950142-25-002827.txt
+2025-10-17 10:29:26 | 8-K - Revolution Medicines, Inc. (0001628171) (Filer) | 2025-10-16T20:27:17-04:00 | https://www.sec.gov/Archives/edgar/data/1628171/000119312525241736/0001193125-25-241736.txt
