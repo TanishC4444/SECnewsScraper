@@ -6901,3 +6901,9 @@
 2025-10-17 13:07:38 | 8-K - Genprex, Inc. (0001595248) (Filer) | 2025-10-17T09:00:48-04:00 | https://www.sec.gov/Archives/edgar/data/1595248/000143774925031210/0001437749-25-031210.txt
 2025-10-17 13:07:39 | 8-K - WillScot Holdings Corp (0001647088) (Filer) | 2025-10-17T08:47:31-04:00 | https://www.sec.gov/Archives/edgar/data/1647088/000164708825000057/0001647088-25-000057.txt
 2025-10-17 13:07:41 | 8-K - Disc Medicine, Inc. (0001816736) (Filer) | 2025-10-17T08:43:17-04:00 | https://www.sec.gov/Archives/edgar/data/1816736/000119312525242026/0001193125-25-242026.txt
+2025-10-17 13:36:29 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-10-17T09:30:57-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000149315225018379/0001493152-25-018379.txt
+2025-10-17 13:36:30 | 8-K - Nukkleus Inc. (0001787518) (Filer) | 2025-10-17T09:21:34-04:00 | https://www.sec.gov/Archives/edgar/data/1787518/000121390025099738/0001213900-25-099738.txt
+2025-10-17 13:36:32 | 8-K - SITIME Corp (0001451809) (Filer) | 2025-10-17T09:16:40-04:00 | https://www.sec.gov/Archives/edgar/data/1451809/000145180925000132/0001451809-25-000132.txt
+2025-10-17 13:36:34 | 8-K - Kartoon Studios, Inc. (0001355848) (Filer) | 2025-10-17T09:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1355848/000168316825007617/0001683168-25-007617.txt
+2025-10-17 13:36:35 | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | 2025-10-17T09:10:11-04:00 | https://www.sec.gov/Archives/edgar/data/877212/000162828025045297/0001628280-25-045297.txt
+2025-10-17 13:36:37 | 8-K - Archer Aviation Inc. (0001824502) (Filer) | 2025-10-17T09:07:33-04:00 | https://www.sec.gov/Archives/edgar/data/1824502/000162828025045296/0001628280-25-045296.txt

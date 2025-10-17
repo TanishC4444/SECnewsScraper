@@ -5204,3 +5204,7 @@
 2025-10-16 23:50:33 | ROTHBERG JONATHAN M | Director | Shares: 26095 | Value: $80,166.45 | Percent: 0.018285% | Link: https://www.sec.gov/Archives/edgar/data/1076352/000197415825000065/0001974158-25-000065.txt
 2025-10-17 01:53:40 | Ainscow Robert | OFFICER | Shares: 22500 | Value: $299,700.0 | Percent: 0.024088% | Link: https://www.sec.gov/Archives/edgar/data/1951275/000147793225007625/0001477932-25-007625.txt
 2025-10-17 01:53:42 | Ainscow Robert | OFFICER | Shares: 22500 | Value: $299,700.0 | Percent: 0.024088% | Link: https://www.sec.gov/Archives/edgar/data/1921865/000147793225007625/0001477932-25-007625.txt
+2025-10-17 13:36:39 | HAIRSTON JOHN M | Officer | Shares: 21883 | Value: $1,368,343.0 | Percent: 0.025821% | Link: https://www.sec.gov/Archives/edgar/data/1250119/000074540125000019/0000745401-25-000019.txt
+2025-10-17 13:36:40 | HAIRSTON JOHN M | Officer | Shares: 21883 | Value: $1,368,343.0 | Percent: 0.025821% | Link: https://www.sec.gov/Archives/edgar/data/750577/000074540125000019/0000745401-25-000019.txt
+2025-10-17 13:36:41 | Wan Shan Chen | Affiliate | Shares: 9550 | Value: $1,164,500.0 | Percent: 0.029294% | Link: https://www.sec.gov/Archives/edgar/data/2001438/000197449425000133/0001974494-25-000133.txt
+2025-10-17 13:36:43 | Wan Shan Chen | Affiliate | Shares: 9550 | Value: $1,164,500.0 | Percent: 0.029294% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000197449425000133/0001974494-25-000133.txt
