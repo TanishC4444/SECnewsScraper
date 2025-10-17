@@ -5220,3 +5220,5 @@
 2025-10-17 15:39:14 | Larson Robert Bruce | Officer | Shares: 17815 | Value: $351,849.81 | Percent: 0.003243% | Link: https://www.sec.gov/Archives/edgar/data/1479490/000195917325006478/0001959173-25-006478.txt
 2025-10-17 15:57:37 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $238,565.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1852353/000100027525000147/0001000275-25-000147.txt
 2025-10-17 15:57:39 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $238,565.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1816004/000100027525000147/0001000275-25-000147.txt
+2025-10-17 16:25:42 | MARK MONDELLO | Director | Shares: 40000 | Value: $8,317,915.0 | Percent: 0.037440% | Link: https://www.sec.gov/Archives/edgar/data/1196746/000196922325000856/0001969223-25-000856.txt
+2025-10-17 16:25:43 | MARK MONDELLO | Director | Shares: 40000 | Value: $8,317,915.0 | Percent: 0.037440% | Link: https://www.sec.gov/Archives/edgar/data/898293/000196922325000856/0001969223-25-000856.txt

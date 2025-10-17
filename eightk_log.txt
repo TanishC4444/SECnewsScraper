@@ -6915,3 +6915,6 @@
 2025-10-17 15:25:06 | 8-K - MetroCity Bankshares, Inc. (0001747068) (Filer) | 2025-10-17T11:14:52-04:00 | https://www.sec.gov/Archives/edgar/data/1747068/000174706825000058/0001747068-25-000058.txt
 2025-10-17 15:39:11 | 8-K - LANDMARK BANCORP INC (0001141688) (Filer) | 2025-10-17T11:29:26-04:00 | https://www.sec.gov/Archives/edgar/data/1141688/000149315225018389/0001493152-25-018389.txt
 2025-10-17 15:57:35 | 8-K - LAVA Therapeutics NV (0001840748) (Filer) | 2025-10-17T11:52:47-04:00 | https://www.sec.gov/Archives/edgar/data/1840748/000110465925100317/0001104659-25-100317.txt
+2025-10-17 16:25:38 | 8-K - LAGO Evergreen Credit (0002043759) (Filer) | 2025-10-17T12:18:10-04:00 | https://www.sec.gov/Archives/edgar/data/2043759/000119312525242196/0001193125-25-242196.txt
+2025-10-17 16:25:40 | 8-K - Golkor Inc. (0001474558) (Filer) | 2025-10-17T12:18:07-04:00 | https://www.sec.gov/Archives/edgar/data/1474558/000168316825007622/0001683168-25-007622.txt
+2025-10-17 16:25:40 | 8-K - Invesco Real Estate Income Trust Inc. (0001756761) (Filer) | 2025-10-17T12:13:07-04:00 | https://www.sec.gov/Archives/edgar/data/1756761/000175676125000120/0001756761-25-000120.txt
