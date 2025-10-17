@@ -5236,3 +5236,7 @@
 2025-10-17 20:37:54 | Atlas Venture Opportunity Fund II,  L.P. | Shareholder | Shares: 10604 | Value: $346,856.84 | Percent: 0.024024% | Link: https://www.sec.gov/Archives/edgar/data/1885327/000162828025045360/0001628280-25-045360.txt
 2025-10-17 20:37:55 | Atlas Venture Fund XI, LP | Shareholder | Shares: 50520 | Value: $1,653,014.4 | Percent: 0.114454% | Link: https://www.sec.gov/Archives/edgar/data/2036042/000162828025045359/0001628280-25-045359.txt
 2025-10-17 20:37:56 | Atlas Venture Fund XI, LP | Shareholder | Shares: 50520 | Value: $1,653,014.4 | Percent: 0.114454% | Link: https://www.sec.gov/Archives/edgar/data/1708269/000162828025045359/0001628280-25-045359.txt
+2025-10-17 20:48:00 | Atlas Venture Fund X, LP | Shareholder | Shares: 50000 | Value: $3,718,000.0 | Percent: 0.143820% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000162828025045370/0001628280-25-045370.txt
+2025-10-17 20:48:01 | Atlas Venture Fund X, LP | Shareholder | Shares: 50000 | Value: $3,718,000.0 | Percent: 0.143820% | Link: https://www.sec.gov/Archives/edgar/data/1628098/000162828025045370/0001628280-25-045370.txt
+2025-10-17 20:48:03 | Sandford Helene Gail | Director | Shares: 62000 | Value: $2,943,140.0 | Percent: 0.019126% | Link: https://www.sec.gov/Archives/edgar/data/1913235/000196794025000075/0001967940-25-000075.txt
+2025-10-17 20:48:04 | Sandford Helene Gail | Director | Shares: 62000 | Value: $2,943,140.0 | Percent: 0.019126% | Link: https://www.sec.gov/Archives/edgar/data/1838359/000196794025000075/0001967940-25-000075.txt
