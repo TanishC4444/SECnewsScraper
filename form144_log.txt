@@ -5224,3 +5224,5 @@
 2025-10-17 16:25:43 | MARK MONDELLO | Director | Shares: 40000 | Value: $8,317,915.0 | Percent: 0.037440% | Link: https://www.sec.gov/Archives/edgar/data/898293/000196922325000856/0001969223-25-000856.txt
 2025-10-17 19:39:11 | Link Matthew | Officer | Shares: 10529 | Value: $47,015.14 | Percent: 0.020106% | Link: https://www.sec.gov/Archives/edgar/data/1565950/000195917325006481/0001959173-25-006481.txt
 2025-10-17 19:39:12 | Link Matthew | Officer | Shares: 10529 | Value: $47,015.14 | Percent: 0.020106% | Link: https://www.sec.gov/Archives/edgar/data/1531177/000195917325006481/0001959173-25-006481.txt
+2025-10-17 19:48:30 | Meryl S Paul 2023 Trust | Member of immediate family of any of the foregoing | Shares: 40000 | Value: $19,560,000.0 | Percent: 0.355946% | Link: https://www.sec.gov/Archives/edgar/data/2039311/000196922325000857/0001969223-25-000857.txt
+2025-10-17 19:48:31 | Meryl S Paul 2023 Trust | Member of immediate family of any of the foregoing | Shares: 40000 | Value: $19,560,000.0 | Percent: 0.355946% | Link: https://www.sec.gov/Archives/edgar/data/885550/000196922325000857/0001969223-25-000857.txt
