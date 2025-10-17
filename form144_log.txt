@@ -5208,3 +5208,7 @@
 2025-10-17 13:36:40 | HAIRSTON JOHN M | Officer | Shares: 21883 | Value: $1,368,343.0 | Percent: 0.025821% | Link: https://www.sec.gov/Archives/edgar/data/750577/000074540125000019/0000745401-25-000019.txt
 2025-10-17 13:36:41 | Wan Shan Chen | Affiliate | Shares: 9550 | Value: $1,164,500.0 | Percent: 0.029294% | Link: https://www.sec.gov/Archives/edgar/data/2001438/000197449425000133/0001974494-25-000133.txt
 2025-10-17 13:36:43 | Wan Shan Chen | Affiliate | Shares: 9550 | Value: $1,164,500.0 | Percent: 0.029294% | Link: https://www.sec.gov/Archives/edgar/data/1889109/000197449425000133/0001974494-25-000133.txt
+2025-10-17 13:57:27 | BURKE JAMES A | Officer | Shares: 21367 | Value: $4,437,068.19 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006476/0001959173-25-006476.txt
+2025-10-17 13:57:28 | BURKE JAMES A | Officer | Shares: 21367 | Value: $4,437,068.19 | Percent: 0.006306% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006476/0001959173-25-006476.txt
+2025-10-17 13:57:29 | Thiel Frederick G | Officer | Shares: 27505 | Value: $538,272.85 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1567383/000195917325006475/0001959173-25-006475.txt
+2025-10-17 13:57:30 | Thiel Frederick G | Officer | Shares: 27505 | Value: $538,272.85 | Percent: 0.007425% | Link: https://www.sec.gov/Archives/edgar/data/1507605/000195917325006475/0001959173-25-006475.txt
