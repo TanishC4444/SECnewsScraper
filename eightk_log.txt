@@ -6967,3 +6967,6 @@
 2025-10-17 20:47:58 | 8-K - Bridgecrest Lending Auto Securitization Trust 2025-4 (0002086742) (Filer) | 2025-10-17T16:38:49-04:00 | https://www.sec.gov/Archives/edgar/data/2086742/000110465925100435/0001104659-25-100435.txt
 2025-10-17 20:47:58 | 8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer) | 2025-10-17T16:38:49-04:00 | https://www.sec.gov/Archives/edgar/data/1974820/000110465925100435/0001104659-25-100435.txt
 2025-10-17 20:47:59 | 8-K/A - Xenon Pharmaceuticals Inc. (0001582313) (Filer) | 2025-10-17T16:37:26-04:00 | https://www.sec.gov/Archives/edgar/data/1582313/000119312525242583/0001193125-25-242583.txt
+2025-10-17 20:56:24 | 8-K - Bridgecrest Lending Auto Securitization Trust 2025-4 (0002086742) (Filer) | 2025-10-17T16:50:33-04:00 | https://www.sec.gov/Archives/edgar/data/2086742/000110465925100440/0001104659-25-100440.txt
+2025-10-17 20:56:24 | 8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer) | 2025-10-17T16:50:33-04:00 | https://www.sec.gov/Archives/edgar/data/1974820/000110465925100440/0001104659-25-100440.txt
+2025-10-17 20:56:25 | 8-K - Armada Hoffler Properties, Inc. (0001569187) (Filer) | 2025-10-17T16:47:58-04:00 | https://www.sec.gov/Archives/edgar/data/1569187/000156918725000173/0001569187-25-000173.txt
