@@ -5254,3 +5254,5 @@
 2025-10-17 21:30:05 | Atlas Venture Opportunity Fund II, L.P. | Shareholder | Shares: 35000 | Value: $3,147,900.0 | Percent: 0.100674% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000117893725000047/0001178937-25-000047.txt
 2025-10-17 21:30:06 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 35000 | Value: $3,147,900.0 | Percent: 0.100674% | Link: https://www.sec.gov/Archives/edgar/data/1816736/000117893725000046/0001178937-25-000046.txt
 2025-10-17 21:30:07 | Atlas Venture Opportunity Fund I, L.P. | Shareholder | Shares: 35000 | Value: $3,147,900.0 | Percent: 0.100674% | Link: https://www.sec.gov/Archives/edgar/data/1759241/000117893725000046/0001178937-25-000046.txt
+2025-10-17 21:40:04 | Kasibhatla Vijay | Former Officer | Shares: 29000 | Value: $919,592.9 | Percent: 0.001942% | Link: https://www.sec.gov/Archives/edgar/data/1705054/000170505425000006/0001705054-25-000006.txt
+2025-10-17 21:40:04 | Kasibhatla Vijay | Former Officer | Shares: 29000 | Value: $919,592.9 | Percent: 0.001942% | Link: https://www.sec.gov/Archives/edgar/data/87347/000170505425000006/0001705054-25-000006.txt
