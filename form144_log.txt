@@ -5216,3 +5216,5 @@
 2025-10-17 14:39:37 | REED JOHN C | Officer | Shares: 21721 | Value: $4,185,794.26 | Percent: 0.000902% | Link: https://www.sec.gov/Archives/edgar/data/200406/000195917325006477/0001959173-25-006477.txt
 2025-10-17 14:59:15 | Achary Michael M | Officer | Shares: 9894 | Value: $542,537.49 | Percent: 0.011674% | Link: https://www.sec.gov/Archives/edgar/data/1352815/000194984625000534/0001949846-25-000534.txt
 2025-10-17 14:59:16 | Achary Michael M | Officer | Shares: 9894 | Value: $542,537.49 | Percent: 0.011674% | Link: https://www.sec.gov/Archives/edgar/data/750577/000194984625000534/0001949846-25-000534.txt
+2025-10-17 15:39:13 | Larson Robert Bruce | Officer | Shares: 17815 | Value: $351,849.81 | Percent: 0.003243% | Link: https://www.sec.gov/Archives/edgar/data/1646972/000195917325006478/0001959173-25-006478.txt
+2025-10-17 15:39:14 | Larson Robert Bruce | Officer | Shares: 17815 | Value: $351,849.81 | Percent: 0.003243% | Link: https://www.sec.gov/Archives/edgar/data/1479490/000195917325006478/0001959173-25-006478.txt
