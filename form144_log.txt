@@ -5272,3 +5272,5 @@
 2025-10-20 21:41:07 | O'Connor Casey | Officer | Shares: 50000 | Value: $220,503.0 | Percent: 0.042173% | Link: https://www.sec.gov/Archives/edgar/data/1576942/000192109425001278/0001921094-25-001278.txt
 2025-10-20 21:41:08 | OCAMPO SUSAN | 10% Stockholder | Shares: 36762 | Value: $5,029,776.84 | Percent: 0.049364% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000536/0001949846-25-000536.txt
 2025-10-20 21:41:09 | OCAMPO SUSAN | 10% Stockholder | Shares: 36762 | Value: $5,029,776.84 | Percent: 0.049364% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000536/0001949846-25-000536.txt
+2025-10-20 21:50:10 | Megna Michael R | Officer | Shares: 50490 | Value: $1,962,914.0 | Percent: 0.116141% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001279/0001921094-25-001279.txt
+2025-10-20 21:50:12 | Megna Michael R | Officer | Shares: 50490 | Value: $1,962,914.0 | Percent: 0.116141% | Link: https://www.sec.gov/Archives/edgar/data/1464583/000192109425001279/0001921094-25-001279.txt
