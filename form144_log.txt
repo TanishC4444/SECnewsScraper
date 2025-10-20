@@ -5262,3 +5262,7 @@
 2025-10-20 18:17:54 | O'Rourke Stephen T. | Director | Shares: 50000 | Value: $233,246.0 | Percent: 0.044506% | Link: https://www.sec.gov/Archives/edgar/data/1816004/000100027525000148/0001000275-25-000148.txt
 2025-10-20 18:17:54 | CHOSY JAMES L | Officer | Shares: 26909 | Value: $1,261,005.25 | Percent: 0.001729% | Link: https://www.sec.gov/Archives/edgar/data/1271850/000195917325006501/0001959173-25-006501.txt
 2025-10-20 18:17:54 | CHOSY JAMES L | Officer | Shares: 26909 | Value: $1,261,005.25 | Percent: 0.001729% | Link: https://www.sec.gov/Archives/edgar/data/36104/000195917325006501/0001959173-25-006501.txt
+2025-10-20 21:29:16 | RA Capital Nexus Fund, L.P. | Director | Shares: 15104 | Value: $444,510.72 | Percent: 0.220782% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000049/0001178937-25-000049.txt
+2025-10-20 21:29:17 | RA Capital Nexus Fund, L.P. | Director | Shares: 15104 | Value: $444,510.72 | Percent: 0.220782% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000049/0001178937-25-000049.txt
+2025-10-20 21:29:18 | RA Capital Healthcare Fund LP | Director | Shares: 76919 | Value: $2,263,726.17 | Percent: 1.124360% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000048/0001178937-25-000048.txt
+2025-10-20 21:29:19 | RA Capital Healthcare Fund LP | Director | Shares: 76919 | Value: $2,263,726.17 | Percent: 1.124360% | Link: https://www.sec.gov/Archives/edgar/data/1315082/000117893725000048/0001178937-25-000048.txt
