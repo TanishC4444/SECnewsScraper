@@ -5266,3 +5266,9 @@
 2025-10-20 21:29:17 | RA Capital Nexus Fund, L.P. | Director | Shares: 15104 | Value: $444,510.72 | Percent: 0.220782% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000049/0001178937-25-000049.txt
 2025-10-20 21:29:18 | RA Capital Healthcare Fund LP | Director | Shares: 76919 | Value: $2,263,726.17 | Percent: 1.124360% | Link: https://www.sec.gov/Archives/edgar/data/1817229/000117893725000048/0001178937-25-000048.txt
 2025-10-20 21:29:19 | RA Capital Healthcare Fund LP | Director | Shares: 76919 | Value: $2,263,726.17 | Percent: 1.124360% | Link: https://www.sec.gov/Archives/edgar/data/1315082/000117893725000048/0001178937-25-000048.txt
+2025-10-20 21:41:03 | Lord Rachel | Officer | Shares: 12000 | Value: $13,980,505.92 | Percent: 0.007749% | Link: https://www.sec.gov/Archives/edgar/data/2012383/000171728925000003/0001717289-25-000003.txt
+2025-10-20 21:41:04 | Lord Rachel | Officer | Shares: 12000 | Value: $13,980,505.92 | Percent: 0.007749% | Link: https://www.sec.gov/Archives/edgar/data/1717289/000171728925000003/0001717289-25-000003.txt
+2025-10-20 21:41:06 | O'Connor Casey | Officer | Shares: 50000 | Value: $220,503.0 | Percent: 0.042173% | Link: https://www.sec.gov/Archives/edgar/data/1954429/000192109425001278/0001921094-25-001278.txt
+2025-10-20 21:41:07 | O'Connor Casey | Officer | Shares: 50000 | Value: $220,503.0 | Percent: 0.042173% | Link: https://www.sec.gov/Archives/edgar/data/1576942/000192109425001278/0001921094-25-001278.txt
+2025-10-20 21:41:08 | OCAMPO SUSAN | 10% Stockholder | Shares: 36762 | Value: $5,029,776.84 | Percent: 0.049364% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000536/0001949846-25-000536.txt
+2025-10-20 21:41:09 | OCAMPO SUSAN | 10% Stockholder | Shares: 36762 | Value: $5,029,776.84 | Percent: 0.049364% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000536/0001949846-25-000536.txt
