@@ -7112,3 +7112,6 @@
 2025-10-21 17:33:20 | 8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer) | 2025-10-21T13:19:40-04:00 | https://www.sec.gov/Archives/edgar/data/1218683/000121390025100690/0001213900-25-100690.txt
 2025-10-21 17:33:21 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-21T13:17:52-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000192/0001326771-25-000192.txt
 2025-10-21 17:44:56 | 8-K - World Scan Project, Inc. (0001813744) (Filer) | 2025-10-21T13:32:56-04:00 | https://www.sec.gov/Archives/edgar/data/1813744/000181374425000017/0001813744-25-000017.txt
+2025-10-21 18:18:20 | 8-K - KKR FS Income Trust (0001930679) (Filer) | 2025-10-21T14:13:53-04:00 | https://www.sec.gov/Archives/edgar/data/1930679/000110465925101162/0001104659-25-101162.txt
+2025-10-21 18:18:21 | 8-K - WYTEC INTERNATIONAL INC (0001560143) (Filer) | 2025-10-21T14:06:32-04:00 | https://www.sec.gov/Archives/edgar/data/1560143/000168316825007683/0001683168-25-007683.txt
+2025-10-21 18:18:23 | 8-K - One World Products, Inc. (0001622244) (Filer) | 2025-10-21T14:01:19-04:00 | https://www.sec.gov/Archives/edgar/data/1622244/000149315225018756/0001493152-25-018756.txt
