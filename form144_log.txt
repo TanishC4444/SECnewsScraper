@@ -5294,3 +5294,5 @@
 2025-10-21 14:32:23 | Christopher L Coccio | Executive Chairman | Shares: 16632 | Value: $69,854.0 | Percent: 0.105708% | Link: https://www.sec.gov/Archives/edgar/data/806172/000162828025045599/0001628280-25-045599.txt
 2025-10-21 15:35:42 | Sullivan Timothy Eugene | Officer | Shares: 10000 | Value: $280,300.0 | Percent: 0.007918% | Link: https://www.sec.gov/Archives/edgar/data/1707000/000195917325006509/0001959173-25-006509.txt
 2025-10-21 15:35:43 | Sullivan Timothy Eugene | Officer | Shares: 10000 | Value: $280,300.0 | Percent: 0.007918% | Link: https://www.sec.gov/Archives/edgar/data/1492422/000195917325006509/0001959173-25-006509.txt
+2025-10-21 18:45:52 | Magouyrk Clayton M. | Officer | Shares: 40000 | Value: $11,065,506.1 | Percent: 0.001408% | Link: https://www.sec.gov/Archives/edgar/data/2071873/000195917325006513/0001959173-25-006513.txt
+2025-10-21 18:45:53 | Magouyrk Clayton M. | Officer | Shares: 40000 | Value: $11,065,506.1 | Percent: 0.001408% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006513/0001959173-25-006513.txt
