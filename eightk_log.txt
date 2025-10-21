@@ -7070,3 +7070,12 @@
 2025-10-21 12:01:09 | 8-K - JABIL INC (0000898293) (Filer) | 2025-10-21T08:00:07-04:00 | https://www.sec.gov/Archives/edgar/data/898293/000119312525244288/0001193125-25-244288.txt
 2025-10-21 12:01:11 | 8-K - GRAHAM CORP (0000716314) (Filer) | 2025-10-21T08:00:07-04:00 | https://www.sec.gov/Archives/edgar/data/716314/000119312525244287/0001193125-25-244287.txt
 2025-10-21 12:01:11 | 8-K - Blackstone Private Credit Fund (0001803498) (Filer) | 2025-10-21T07:54:59-04:00 | https://www.sec.gov/Archives/edgar/data/1803498/000180349825000073/0001803498-25-000073.txt
+2025-10-21 12:58:12 | 8-K - Metropolitan Bank Holding Corp. (0001476034) (Filer) | 2025-10-21T08:40:28-04:00 | https://www.sec.gov/Archives/edgar/data/1476034/000110465925101041/0001104659-25-101041.txt
+2025-10-21 12:58:13 | 8-K - Vertex, Inc. (0001806837) (Filer) | 2025-10-21T08:39:29-04:00 | https://www.sec.gov/Archives/edgar/data/1806837/000110465925101040/0001104659-25-101040.txt
+2025-10-21 12:58:15 | 8-K - BADGER METER INC (0000009092) (Filer) | 2025-10-21T08:31:51-04:00 | https://www.sec.gov/Archives/edgar/data/9092/000119312525244317/0001193125-25-244317.txt
+2025-10-21 12:58:17 | 8-K - SS Innovations International, Inc. (0001676163) (Filer) | 2025-10-21T08:30:54-04:00 | https://www.sec.gov/Archives/edgar/data/1676163/000121390025100541/0001213900-25-100541.txt
+2025-10-21 12:58:19 | 8-K - GATX CORP (0000040211) (Filer) | 2025-10-21T08:30:42-04:00 | https://www.sec.gov/Archives/edgar/data/40211/000004021125000105/0000040211-25-000105.txt
+2025-10-21 12:58:20 | 8-K - FG Nexus Inc. (0001591890) (Filer) | 2025-10-21T08:30:24-04:00 | https://www.sec.gov/Archives/edgar/data/1591890/000149315225018733/0001493152-25-018733.txt
+2025-10-21 12:58:22 | 8-K - Sunoco LP (0001552275) (Filer) | 2025-10-21T08:29:07-04:00 | https://www.sec.gov/Archives/edgar/data/1552275/000119312525244314/0001193125-25-244314.txt
+2025-10-21 12:58:24 | 8-K - Kearny Financial Corp. (0001617242) (Filer) | 2025-10-21T08:26:55-04:00 | https://www.sec.gov/Archives/edgar/data/1617242/000161724225000068/0001617242-25-000068.txt
+2025-10-21 12:58:25 | 8-K - SharpLink Gaming, Inc. (0001981535) (Filer) | 2025-10-21T08:15:54-04:00 | https://www.sec.gov/Archives/edgar/data/1981535/000149315225018731/0001493152-25-018731.txt
