@@ -5296,3 +5296,7 @@
 2025-10-21 15:35:43 | Sullivan Timothy Eugene | Officer | Shares: 10000 | Value: $280,300.0 | Percent: 0.007918% | Link: https://www.sec.gov/Archives/edgar/data/1492422/000195917325006509/0001959173-25-006509.txt
 2025-10-21 18:45:52 | Magouyrk Clayton M. | Officer | Shares: 40000 | Value: $11,065,506.1 | Percent: 0.001408% | Link: https://www.sec.gov/Archives/edgar/data/2071873/000195917325006513/0001959173-25-006513.txt
 2025-10-21 18:45:53 | Magouyrk Clayton M. | Officer | Shares: 40000 | Value: $11,065,506.1 | Percent: 0.001408% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000195917325006513/0001959173-25-006513.txt
+2025-10-21 18:58:12 | Laughter John E | Officer | Shares: 23323 | Value: $1,453,652.18 | Percent: 0.003572% | Link: https://www.sec.gov/Archives/edgar/data/1864030/000195917325006515/0001959173-25-006515.txt
+2025-10-21 18:58:13 | Laughter John E | Officer | Shares: 23323 | Value: $1,453,652.18 | Percent: 0.003572% | Link: https://www.sec.gov/Archives/edgar/data/27904/000195917325006515/0001959173-25-006515.txt
+2025-10-21 18:58:15 | Coen Steven P. | Officer | Shares: 5609 | Value: $84,135.0 | Percent: 0.011911% | Link: https://www.sec.gov/Archives/edgar/data/1977441/000195917325006514/0001959173-25-006514.txt
+2025-10-21 18:58:16 | Coen Steven P. | Officer | Shares: 5609 | Value: $84,135.0 | Percent: 0.011911% | Link: https://www.sec.gov/Archives/edgar/data/1830214/000195917325006514/0001959173-25-006514.txt
