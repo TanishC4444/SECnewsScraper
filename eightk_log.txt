@@ -7138,3 +7138,10 @@
 2025-10-21 20:45:16 | 8-K - Sotherly Hotels Inc. (0001301236) (Filer) | 2025-10-21T16:40:21-04:00 | https://www.sec.gov/Archives/edgar/data/1301236/000119312525245218/0001193125-25-245218.txt
 2025-10-21 20:45:16 | 8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer) | 2025-10-21T16:39:31-04:00 | https://www.sec.gov/Archives/edgar/data/1957845/000195784525000077/0001957845-25-000077.txt
 2025-10-21 20:45:17 | 8-K - CLOUDASTRUCTURE, INC. (0001709628) (Filer) | 2025-10-21T16:37:36-04:00 | https://www.sec.gov/Archives/edgar/data/1709628/000168316825007696/0001683168-25-007696.txt
+2025-10-21 20:54:30 | 8-K - Deep Isolation Nuclear, Inc. (0001918080) (Filer) | 2025-10-21T16:52:59-04:00 | https://www.sec.gov/Archives/edgar/data/1918080/000121390025100860/0001213900-25-100860.txt
+2025-10-21 20:54:32 | 8-K - General Enterprise Ventures, Inc. (0000894556) (Filer) | 2025-10-21T16:51:36-04:00 | https://www.sec.gov/Archives/edgar/data/894556/000164033425001859/0001640334-25-001859.txt
+2025-10-21 20:54:33 | 8-K - ARES STRATEGIC INCOME FUND (0001918712) (Filer) | 2025-10-21T16:47:59-04:00 | https://www.sec.gov/Archives/edgar/data/1918712/000191871225000087/0001918712-25-000087.txt
+2025-10-21 20:54:33 | 8-K - KKR FS Income Trust (0001930679) (Filer) | 2025-10-21T16:46:48-04:00 | https://www.sec.gov/Archives/edgar/data/1930679/000110465925101272/0001104659-25-101272.txt
+2025-10-21 20:54:35 | 8-K - DIH HOLDING US, INC. (0001883788) (Filer) | 2025-10-21T16:45:55-04:00 | https://www.sec.gov/Archives/edgar/data/1883788/000149315225018811/0001493152-25-018811.txt
+2025-10-21 20:54:37 | 8-K - Cushman & Wakefield plc (0001628369) (Filer) | 2025-10-21T16:45:22-04:00 | https://www.sec.gov/Archives/edgar/data/1628369/000119312525245231/0001193125-25-245231.txt
+2025-10-21 20:54:38 | 8-K - AB Private Lending Fund (0001982701) (Filer) | 2025-10-21T16:45:10-04:00 | https://www.sec.gov/Archives/edgar/data/1982701/000119312525245230/0001193125-25-245230.txt
