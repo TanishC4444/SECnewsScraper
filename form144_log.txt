@@ -5310,3 +5310,5 @@
 2025-10-21 20:30:49 | Atlas Venture Fund XI, LP | Shareholder | Shares: 73460 | Value: $2,365,412.0 | Percent: 0.166426% | Link: https://www.sec.gov/Archives/edgar/data/1708269/000162828025045704/0001628280-25-045704.txt
 2025-10-21 20:30:50 | Remer Eric Richard | Officer and Director | Shares: 11735 | Value: $134,197.76 | Percent: 0.006399% | Link: https://www.sec.gov/Archives/edgar/data/1856906/000195917325006518/0001959173-25-006518.txt
 2025-10-21 20:30:51 | Remer Eric Richard | Officer and Director | Shares: 11735 | Value: $134,197.76 | Percent: 0.006399% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195917325006518/0001959173-25-006518.txt
+2025-10-21 20:45:20 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,606,050.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001281/0001921094-25-001281.txt
+2025-10-21 20:45:21 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,606,050.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001281/0001921094-25-001281.txt
