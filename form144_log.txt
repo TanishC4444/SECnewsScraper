@@ -5312,3 +5312,5 @@
 2025-10-21 20:30:51 | Remer Eric Richard | Officer and Director | Shares: 11735 | Value: $134,197.76 | Percent: 0.006399% | Link: https://www.sec.gov/Archives/edgar/data/1853145/000195917325006518/0001959173-25-006518.txt
 2025-10-21 20:45:20 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,606,050.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001281/0001921094-25-001281.txt
 2025-10-21 20:45:21 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,606,050.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001281/0001921094-25-001281.txt
+2025-10-21 23:09:37 | Windsor Private Capital LP | 10% Stockholder | Shares: 19222 | Value: $46,139.72 | Percent: 0.142927% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000207184225000009/0002071842-25-000009.txt
+2025-10-21 23:09:38 | Windsor Private Capital LP | 10% Stockholder | Shares: 19222 | Value: $46,139.72 | Percent: 0.142927% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000009/0002071842-25-000009.txt
