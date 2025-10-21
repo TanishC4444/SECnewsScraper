@@ -5288,3 +5288,5 @@
 2025-10-21 01:44:11 | Windsor Private Capital LP | 10% Stockholder | Shares: 33500 | Value: $82,310.51 | Percent: 0.249092% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000008/0002071842-25-000008.txt
 2025-10-21 01:44:13 | Vieceli John S. | Officer | Shares: 19686 | Value: $32,655.14 | Percent: 2.703471% | Link: https://www.sec.gov/Archives/edgar/data/2032947/000203294725000002/0002032947-25-000002.txt
 2025-10-21 01:44:14 | Vieceli John S. | Officer | Shares: 19686 | Value: $32,655.14 | Percent: 2.703471% | Link: https://www.sec.gov/Archives/edgar/data/1816431/000203294725000002/0002032947-25-000002.txt
+2025-10-21 13:53:24 | Halligan Brian | Director | Shares: 8265 | Value: $3,694,289.7 | Percent: 0.015685% | Link: https://www.sec.gov/Archives/edgar/data/1603527/000195917325006507/0001959173-25-006507.txt
+2025-10-21 13:53:25 | Halligan Brian | Director | Shares: 8265 | Value: $3,694,289.7 | Percent: 0.015685% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325006507/0001959173-25-006507.txt
