@@ -7111,3 +7111,4 @@
 2025-10-21 17:33:17 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-10-21T13:24:18-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000220/0001325878-25-000220.txt
 2025-10-21 17:33:20 | 8-K - Mawson Infrastructure Group Inc. (0001218683) (Filer) | 2025-10-21T13:19:40-04:00 | https://www.sec.gov/Archives/edgar/data/1218683/000121390025100690/0001213900-25-100690.txt
 2025-10-21 17:33:21 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-21T13:17:52-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000192/0001326771-25-000192.txt
+2025-10-21 17:44:56 | 8-K - World Scan Project, Inc. (0001813744) (Filer) | 2025-10-21T13:32:56-04:00 | https://www.sec.gov/Archives/edgar/data/1813744/000181374425000017/0001813744-25-000017.txt
