@@ -7058,3 +7058,7 @@
 2025-10-21 11:22:43 | 8-K - Q32 Bio Inc. (0001661998) (Filer) | 2025-10-21T07:05:33-04:00 | https://www.sec.gov/Archives/edgar/data/1661998/000119312525244262/0001193125-25-244262.txt
 2025-10-21 11:22:45 | 8-K - Philip Morris International Inc. (0001413329) (Filer) | 2025-10-21T07:03:32-04:00 | https://www.sec.gov/Archives/edgar/data/1413329/000162828025045579/0001628280-25-045579.txt
 2025-10-21 11:22:47 | 8-K - VALMONT INDUSTRIES INC (0000102729) (Filer) | 2025-10-21T07:02:47-04:00 | https://www.sec.gov/Archives/edgar/data/102729/000010272925000044/0000102729-25-000044.txt
+2025-10-21 11:32:15 | 8-K - Soluna Holdings, Inc (0000064463) (Filer) | 2025-10-21T07:30:51-04:00 | https://www.sec.gov/Archives/edgar/data/64463/000149315225018719/0001493152-25-018719.txt
+2025-10-21 11:32:17 | 8-K - General Motors Financial Company, Inc. (0000804269) (Filer) | 2025-10-21T07:28:19-04:00 | https://www.sec.gov/Archives/edgar/data/804269/000080426925000049/0000804269-25-000049.txt
+2025-10-21 11:32:19 | 8-K - PLUS THERAPEUTICS, INC. (0001095981) (Filer) | 2025-10-21T07:25:20-04:00 | https://www.sec.gov/Archives/edgar/data/1095981/000119312525244275/0001193125-25-244275.txt
+2025-10-21 11:32:22 | 8-K - Galaxy Digital Inc. (0001859392) (Filer) | 2025-10-21T07:25:09-04:00 | https://www.sec.gov/Archives/edgar/data/1859392/000185939225000073/0001859392-25-000073.txt
