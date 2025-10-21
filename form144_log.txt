@@ -5290,3 +5290,5 @@
 2025-10-21 01:44:14 | Vieceli John S. | Officer | Shares: 19686 | Value: $32,655.14 | Percent: 2.703471% | Link: https://www.sec.gov/Archives/edgar/data/1816431/000203294725000002/0002032947-25-000002.txt
 2025-10-21 13:53:24 | Halligan Brian | Director | Shares: 8265 | Value: $3,694,289.7 | Percent: 0.015685% | Link: https://www.sec.gov/Archives/edgar/data/1603527/000195917325006507/0001959173-25-006507.txt
 2025-10-21 13:53:25 | Halligan Brian | Director | Shares: 8265 | Value: $3,694,289.7 | Percent: 0.015685% | Link: https://www.sec.gov/Archives/edgar/data/1404655/000195917325006507/0001959173-25-006507.txt
+2025-10-21 14:32:22 | Christopher L Coccio | Executive Chairman | Shares: 16632 | Value: $69,854.0 | Percent: 0.105708% | Link: https://www.sec.gov/Archives/edgar/data/1262182/000162828025045599/0001628280-25-045599.txt
+2025-10-21 14:32:23 | Christopher L Coccio | Executive Chairman | Shares: 16632 | Value: $69,854.0 | Percent: 0.105708% | Link: https://www.sec.gov/Archives/edgar/data/806172/000162828025045599/0001628280-25-045599.txt
