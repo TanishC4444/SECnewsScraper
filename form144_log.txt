@@ -5340,3 +5340,9 @@
 2025-10-22 20:20:55 | ANDREW DAMICO | Director | Shares: 16677 | Value: $1,097,346.6 | Percent: 0.050261% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008106/0001950047-25-008106.txt
 2025-10-22 20:20:55 | JAMES SCHMIDT | Director | Shares: 5241 | Value: $344,857.8 | Percent: 0.015795% | Link: https://www.sec.gov/Archives/edgar/data/1866281/000195004725008105/0001950047-25-008105.txt
 2025-10-22 20:20:56 | JAMES SCHMIDT | Director | Shares: 5241 | Value: $344,857.8 | Percent: 0.015795% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008105/0001950047-25-008105.txt
+2025-10-22 20:38:12 | Gary Bowman | Officer | Shares: 12500 | Value: $528,327.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1859488/000162828025045894/0001628280-25-045894.txt
+2025-10-22 20:38:14 | Gary Bowman | Officer | Shares: 12500 | Value: $528,327.5 | Percent: 0.072461% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025045894/0001628280-25-045894.txt
+2025-10-22 20:38:16 | MICHAEL INTRATOR | Director | Shares: 32455 | Value: $4,058,822.3 | Percent: 0.008760% | Link: https://www.sec.gov/Archives/edgar/data/2058037/000195004725008113/0001950047-25-008113.txt
+2025-10-22 20:38:17 | MICHAEL INTRATOR | Director | Shares: 32455 | Value: $4,058,822.3 | Percent: 0.008760% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725008113/0001950047-25-008113.txt
+2025-10-22 20:38:19 | CHARLES KIROL | Officer | Shares: 8989 | Value: $70,653.54 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/2065340/000195004725008112/0001950047-25-008112.txt
+2025-10-22 20:38:21 | CHARLES KIROL | Officer | Shares: 8989 | Value: $70,653.54 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725008112/0001950047-25-008112.txt
