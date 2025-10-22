@@ -5324,3 +5324,5 @@
 2025-10-22 01:55:06 | Parker Geoffrey M. | Officer | Shares: 36744 | Value: $46,168.98 | Percent: 0.016560% | Link: https://www.sec.gov/Archives/edgar/data/1491874/000149187425000005/0001491874-25-000005.txt
 2025-10-22 13:50:51 | Shah Niraj | Officer | Shares: 85000 | Value: $7,042,070.36 | Percent: 0.080950% | Link: https://www.sec.gov/Archives/edgar/data/1620093/000195917325006520/0001959173-25-006520.txt
 2025-10-22 13:50:52 | Shah Niraj | Officer | Shares: 85000 | Value: $7,042,070.36 | Percent: 0.080950% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006520/0001959173-25-006520.txt
+2025-10-22 14:49:33 | BURKE JAMES A | Officer | Shares: 19612 | Value: $3,692,945.08 | Percent: 0.005788% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006521/0001959173-25-006521.txt
+2025-10-22 14:49:34 | BURKE JAMES A | Officer | Shares: 19612 | Value: $3,692,945.08 | Percent: 0.005788% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006521/0001959173-25-006521.txt
