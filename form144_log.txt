@@ -5350,3 +5350,5 @@
 2025-10-22 20:47:11 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $316,996.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025045901/0001628280-25-045901.txt
 2025-10-22 21:13:58 | DARIUS KHARABI | Officer | Shares: 20806 | Value: $17,283.54 | Percent: 0.296338% | Link: https://www.sec.gov/Archives/edgar/data/1893729/000195004725008116/0001950047-25-008116.txt
 2025-10-22 21:14:00 | DARIUS KHARABI | Officer | Shares: 20806 | Value: $17,283.54 | Percent: 0.296338% | Link: https://www.sec.gov/Archives/edgar/data/1479419/000195004725008116/0001950047-25-008116.txt
+2025-10-22 21:54:46 | Pharis Eric | 10% Stockholder | Shares: 137500 | Value: $1,153,625.0 | Percent: 3.319578% | Link: https://www.sec.gov/Archives/edgar/data/1727674/000172767425000003/0001727674-25-000003.txt
+2025-10-22 21:54:48 | Pharis Eric | 10% Stockholder | Shares: 137500 | Value: $1,153,625.0 | Percent: 3.319578% | Link: https://www.sec.gov/Archives/edgar/data/1567900/000172767425000003/0001727674-25-000003.txt
