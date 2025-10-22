@@ -7229,3 +7229,5 @@
 2025-10-22 16:00:35 | 8-K - Super League Enterprise, Inc. (0001621672) (Filer) | 2025-10-22T11:55:28-04:00 | https://www.sec.gov/Archives/edgar/data/1621672/000143774925031490/0001437749-25-031490.txt
 2025-10-22 16:35:55 | 8-K - GREENE COUNTY BANCORP INC (0001070524) (Filer) | 2025-10-22T12:10:16-04:00 | https://www.sec.gov/Archives/edgar/data/1070524/000114036125038896/0001140361-25-038896.txt
 2025-10-22 16:36:01 | 8-K - Repare Therapeutics Inc. (0001808158) (Filer) | 2025-10-22T12:01:29-04:00 | https://www.sec.gov/Archives/edgar/data/1808158/000119312525246226/0001193125-25-246226.txt
+2025-10-22 17:12:30 | 8-K - Bridgecrest Lending Auto Securitization Trust 2025-4 (0002086742) (Filer) | 2025-10-22T12:54:46-04:00 | https://www.sec.gov/Archives/edgar/data/2086742/000110465925101472/0001104659-25-101472.txt
+2025-10-22 17:12:31 | 8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer) | 2025-10-22T12:54:46-04:00 | https://www.sec.gov/Archives/edgar/data/1974820/000110465925101472/0001104659-25-101472.txt
