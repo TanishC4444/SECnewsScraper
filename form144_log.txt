@@ -5354,3 +5354,7 @@
 2025-10-22 21:54:48 | Pharis Eric | 10% Stockholder | Shares: 137500 | Value: $1,153,625.0 | Percent: 3.319578% | Link: https://www.sec.gov/Archives/edgar/data/1567900/000172767425000003/0001727674-25-000003.txt
 2025-10-22 22:12:25 | TODD M BAZEMORE | Officer | Shares: 47768 | Value: $39,685.65 | Percent: 0.680355% | Link: https://www.sec.gov/Archives/edgar/data/1605767/000195004725008117/0001950047-25-008117.txt
 2025-10-22 22:12:25 | TODD M BAZEMORE | Officer | Shares: 47768 | Value: $39,685.65 | Percent: 0.680355% | Link: https://www.sec.gov/Archives/edgar/data/1479419/000195004725008117/0001950047-25-008117.txt
+2025-10-22 22:28:45 | R K BRAZZELL | Officer | Shares: 46748 | Value: $38,963.76 | Percent: 0.665827% | Link: https://www.sec.gov/Archives/edgar/data/1479419/000195004725008118/0001950047-25-008118.txt
+2025-10-22 22:28:46 | R K BRAZZELL | Officer | Shares: 46748 | Value: $38,963.76 | Percent: 0.665827% | Link: https://www.sec.gov/Archives/edgar/data/1298079/000195004725008118/0001950047-25-008118.txt
+2025-10-22 22:28:48 | DE GREEF RODERICK | Officer | Shares: 37795 | Value: $1,031,807.28 | Percent: 0.078895% | Link: https://www.sec.gov/Archives/edgar/data/1241181/000124118125000004/0001241181-25-000004.txt
+2025-10-22 22:28:50 | DE GREEF RODERICK | Officer | Shares: 37795 | Value: $1,031,807.28 | Percent: 0.078895% | Link: https://www.sec.gov/Archives/edgar/data/834365/000124118125000004/0001241181-25-000004.txt
