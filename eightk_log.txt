@@ -7164,3 +7164,13 @@
 2025-10-21 21:39:29 | 8-K - Oak Woods Acquisition Corp (0001945422) (Filer) | 2025-10-21T17:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/1945422/000121390025100913/0001213900-25-100913.txt
 2025-10-21 21:39:30 | 8-K - China Fund, Inc. (0000845379) (Filer) | 2025-10-21T17:30:06-04:00 | https://www.sec.gov/Archives/edgar/data/845379/000139834425019492/0001398344-25-019492.txt
 2025-10-21 21:39:32 | 8-K - Getty Images Holdings, Inc. (0001898496) (Filer) | 2025-10-21T17:29:34-04:00 | https://www.sec.gov/Archives/edgar/data/1898496/000121390025100912/0001213900-25-100912.txt
+2025-10-22 10:16:40 | 8-K - THERMO FISHER SCIENTIFIC INC. (0000097745) (Filer) | 2025-10-22T06:05:30-04:00 | https://www.sec.gov/Archives/edgar/data/97745/000009774525000150/0000097745-25-000150.txt
+2025-10-22 10:16:42 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-22T06:02:23-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325016251/0001062993-25-016251.txt
+2025-10-22 10:16:43 | 8-K - Vertiv Holdings Co (0001674101) (Filer) | 2025-10-22T06:01:43-04:00 | https://www.sec.gov/Archives/edgar/data/1674101/000167410125000020/0001674101-25-000020.txt
+2025-10-22 10:16:45 | 8-K - Hilton Worldwide Holdings Inc. (0001585689) (Filer) | 2025-10-22T06:01:17-04:00 | https://www.sec.gov/Archives/edgar/data/1585689/000158568925000158/0001585689-25-000158.txt
+2025-10-22 10:16:46 | 8-K - Travel & Leisure Co. (0001361658) (Filer) | 2025-10-22T06:01:00-04:00 | https://www.sec.gov/Archives/edgar/data/1361658/000136165825000313/0001361658-25-000313.txt
+2025-10-22 10:16:48 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-21T20:39:33-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000551/0001564708-25-000551.txt
+2025-10-22 10:16:49 | 8-K - Minerva Neurosciences, Inc. (0001598646) (Filer) | 2025-10-21T20:25:10-04:00 | https://www.sec.gov/Archives/edgar/data/1598646/000119312525245552/0001193125-25-245552.txt
+2025-10-22 10:16:50 | 8-K - CFSB Bancorp, Inc. /MA/ (0001879103) (Filer) | 2025-10-21T20:24:03-04:00 | https://www.sec.gov/Archives/edgar/data/1879103/000119312525245550/0001193125-25-245550.txt
+2025-10-22 10:16:51 | 8-K - Alpha Star Acquisition Corp (0001865111) (Filer) | 2025-10-21T19:45:14-04:00 | https://www.sec.gov/Archives/edgar/data/1865111/000149315225018841/0001493152-25-018841.txt
+2025-10-22 10:16:53 | 8-K - MONARCH CASINO & RESORT INC (0000907242) (Filer) | 2025-10-21T18:36:16-04:00 | https://www.sec.gov/Archives/edgar/data/907242/000117184325006575/0001171843-25-006575.txt
