@@ -5360,3 +5360,5 @@
 2025-10-22 22:28:50 | DE GREEF RODERICK | Officer | Shares: 37795 | Value: $1,031,807.28 | Percent: 0.078895% | Link: https://www.sec.gov/Archives/edgar/data/834365/000124118125000004/0001241181-25-000004.txt
 2025-10-22 22:38:34 | Windsor Private Capital LP | 10% Stockholder | Shares: 78031 | Value: $161,734.85 | Percent: 0.580206% | Link: https://www.sec.gov/Archives/edgar/data/2034160/000207184225000015/0002071842-25-000015.txt
 2025-10-22 22:38:35 | Windsor Private Capital LP | 10% Stockholder | Shares: 78031 | Value: $161,734.85 | Percent: 0.580206% | Link: https://www.sec.gov/Archives/edgar/data/803578/000207184225000015/0002071842-25-000015.txt
+2025-10-22 23:17:10 | MARY REUMUTH | Officer | Shares: 32230 | Value: $26,728.34 | Percent: 0.459049% | Link: https://www.sec.gov/Archives/edgar/data/1710969/000195004725008119/0001950047-25-008119.txt
+2025-10-22 23:17:11 | MARY REUMUTH | Officer | Shares: 32230 | Value: $26,728.34 | Percent: 0.459049% | Link: https://www.sec.gov/Archives/edgar/data/1479419/000195004725008119/0001950047-25-008119.txt
