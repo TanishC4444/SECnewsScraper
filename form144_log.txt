@@ -5346,3 +5346,5 @@
 2025-10-22 20:38:17 | MICHAEL INTRATOR | Director | Shares: 32455 | Value: $4,058,822.3 | Percent: 0.008760% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000195004725008113/0001950047-25-008113.txt
 2025-10-22 20:38:19 | CHARLES KIROL | Officer | Shares: 8989 | Value: $70,653.54 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/2065340/000195004725008112/0001950047-25-008112.txt
 2025-10-22 20:38:21 | CHARLES KIROL | Officer | Shares: 8989 | Value: $70,653.54 | Percent: 0.002294% | Link: https://www.sec.gov/Archives/edgar/data/1639825/000195004725008112/0001950047-25-008112.txt
+2025-10-22 20:47:10 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $316,996.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1859488/000162828025045901/0001628280-25-045901.txt
+2025-10-22 20:47:11 | Bowman Family Asset Management LLC | Officer | Shares: 7500 | Value: $316,996.5 | Percent: 0.043476% | Link: https://www.sec.gov/Archives/edgar/data/1847590/000162828025045901/0001628280-25-045901.txt
