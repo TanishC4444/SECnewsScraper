@@ -7226,3 +7226,4 @@
 2025-10-22 14:29:28 | 8-K/A - World Scan Project, Inc. (0001813744) (Filer) | 2025-10-22T10:09:01-04:00 | https://www.sec.gov/Archives/edgar/data/1813744/000181374425000020/0001813744-25-000020.txt
 2025-10-22 14:49:31 | 8-K - CITY HOLDING CO (0000726854) (Filer) | 2025-10-22T10:45:47-04:00 | https://www.sec.gov/Archives/edgar/data/726854/000072685425000173/0000726854-25-000173.txt
 2025-10-22 15:24:23 | 8-K - Armata Pharmaceuticals, Inc. (0000921114) (Filer) | 2025-10-22T11:15:43-04:00 | https://www.sec.gov/Archives/edgar/data/921114/000110465925101447/0001104659-25-101447.txt
+2025-10-22 16:00:35 | 8-K - Super League Enterprise, Inc. (0001621672) (Filer) | 2025-10-22T11:55:28-04:00 | https://www.sec.gov/Archives/edgar/data/1621672/000143774925031490/0001437749-25-031490.txt
