@@ -5326,3 +5326,5 @@
 2025-10-22 13:50:52 | Shah Niraj | Officer | Shares: 85000 | Value: $7,042,070.36 | Percent: 0.080950% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006520/0001959173-25-006520.txt
 2025-10-22 14:49:33 | BURKE JAMES A | Officer | Shares: 19612 | Value: $3,692,945.08 | Percent: 0.005788% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006521/0001959173-25-006521.txt
 2025-10-22 14:49:34 | BURKE JAMES A | Officer | Shares: 19612 | Value: $3,692,945.08 | Percent: 0.005788% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006521/0001959173-25-006521.txt
+2025-10-22 15:24:26 | Terence Bernard Wise | Former CEO | Shares: 163355 | Value: $5,095,042.0 | Percent: 9.507438% | Link: https://www.sec.gov/Archives/edgar/data/1536431/000197005125000032/0001970051-25-000032.txt
+2025-10-22 15:24:27 | Terence Bernard Wise | Former CEO | Shares: 163355 | Value: $5,095,042.0 | Percent: 9.507438% | Link: https://www.sec.gov/Archives/edgar/data/38264/000197005125000032/0001970051-25-000032.txt
