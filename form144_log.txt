@@ -5372,3 +5372,5 @@
 2025-10-23 14:48:00 | Gibson Christopher | Officer | Shares: 100000 | Value: $570,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006529/0001959173-25-006529.txt
 2025-10-23 14:56:57 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 7830 | Value: $721.92 | Percent: 0.003436% | Link: https://www.sec.gov/Archives/edgar/data/1918043/000182372025000003/0001823720-25-000003.txt
 2025-10-23 14:56:59 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 7830 | Value: $721.92 | Percent: 0.003436% | Link: https://www.sec.gov/Archives/edgar/data/1823720/000182372025000003/0001823720-25-000003.txt
+2025-10-23 16:56:32 | Jeffrey Berg | DIRECTOR | Shares: 49365 | Value: $13,387,294.35 | Percent: 32.477187% | Link: https://www.sec.gov/Archives/edgar/data/1341439/000165495425012124/0001654954-25-012124.txt
+2025-10-23 16:56:34 | Jeffrey Berg | DIRECTOR | Shares: 49365 | Value: $13,387,294.35 | Percent: 32.477187% | Link: https://www.sec.gov/Archives/edgar/data/1206104/000165495425012124/0001654954-25-012124.txt
