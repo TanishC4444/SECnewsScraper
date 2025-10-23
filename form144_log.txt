@@ -5366,3 +5366,7 @@
 2025-10-23 12:58:11 | Rozen Limor | Director | Shares: 14999 | Value: $16,948.87 | Percent: 0.061846% | Link: https://www.sec.gov/Archives/edgar/data/1837493/000197640825000337/0001976408-25-000337.txt
 2025-10-23 14:00:46 | Hansen, Michael L. | Director | Shares: 81413 | Value: $1,207,355.0 | Percent: 0.439500% | Link: https://www.sec.gov/Archives/edgar/data/1569994/000143774925031582/0001437749-25-031582.txt
 2025-10-23 14:00:47 | Hansen, Michael L. | Director | Shares: 81413 | Value: $1,207,355.0 | Percent: 0.439500% | Link: https://www.sec.gov/Archives/edgar/data/1336616/000143774925031582/0001437749-25-031582.txt
+2025-10-23 14:47:57 | BURKE JAMES A | Officer | Shares: 19613 | Value: $3,670,018.2 | Percent: 0.005789% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006530/0001959173-25-006530.txt
+2025-10-23 14:47:58 | BURKE JAMES A | Officer | Shares: 19613 | Value: $3,670,018.2 | Percent: 0.005789% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006530/0001959173-25-006530.txt
+2025-10-23 14:47:59 | Gibson Christopher | Officer | Shares: 100000 | Value: $570,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325006529/0001959173-25-006529.txt
+2025-10-23 14:48:00 | Gibson Christopher | Officer | Shares: 100000 | Value: $570,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006529/0001959173-25-006529.txt
