@@ -5370,3 +5370,5 @@
 2025-10-23 14:47:58 | BURKE JAMES A | Officer | Shares: 19613 | Value: $3,670,018.2 | Percent: 0.005789% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006530/0001959173-25-006530.txt
 2025-10-23 14:47:59 | Gibson Christopher | Officer | Shares: 100000 | Value: $570,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325006529/0001959173-25-006529.txt
 2025-10-23 14:48:00 | Gibson Christopher | Officer | Shares: 100000 | Value: $570,000.0 | Percent: 0.023402% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006529/0001959173-25-006529.txt
+2025-10-23 14:56:57 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 7830 | Value: $721.92 | Percent: 0.003436% | Link: https://www.sec.gov/Archives/edgar/data/1918043/000182372025000003/0001823720-25-000003.txt
+2025-10-23 14:56:59 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 7830 | Value: $721.92 | Percent: 0.003436% | Link: https://www.sec.gov/Archives/edgar/data/1823720/000182372025000003/0001823720-25-000003.txt
