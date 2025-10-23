@@ -7336,3 +7336,11 @@
 2025-10-23 12:00:57 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-23T07:58:13-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000133039925000034/0001330399-25-000034.txt
 2025-10-23 12:00:58 | 8-K - Kaya Holdings, Inc. (0001530746) (Filer) | 2025-10-23T07:57:19-04:00 | https://www.sec.gov/Archives/edgar/data/1530746/000190359625000499/0001903596-25-000499.txt
 2025-10-23 12:01:01 | 8-K - VALLEY NATIONAL BANCORP (0000714310) (Filer) | 2025-10-23T07:53:57-04:00 | https://www.sec.gov/Archives/edgar/data/714310/000071431025000153/0000714310-25-000153.txt
+2025-10-23 12:57:52 | 8-K - FingerMotion, Inc. (0001602409) (Filer) | 2025-10-23T08:56:38-04:00 | https://www.sec.gov/Archives/edgar/data/1602409/000152013825000316/0001520138-25-000316.txt
+2025-10-23 12:57:55 | 8-K - SONIC AUTOMOTIVE INC (0001043509) (Filer) | 2025-10-23T08:51:53-04:00 | https://www.sec.gov/Archives/edgar/data/1043509/000162828025045985/0001628280-25-045985.txt
+2025-10-23 12:57:57 | 8-K - Biofrontera Inc. (0001858685) (Filer) | 2025-10-23T08:50:26-04:00 | https://www.sec.gov/Archives/edgar/data/1858685/000149315225019006/0001493152-25-019006.txt
+2025-10-23 12:58:00 | 8-K - UNIVEST FINANCIAL Corp (0000102212) (Filer) | 2025-10-23T08:49:30-04:00 | https://www.sec.gov/Archives/edgar/data/102212/000010221225000025/0000102212-25-000025.txt
+2025-10-23 12:58:00 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-23T08:45:50-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525247876/0001193125-25-247876.txt
+2025-10-23 12:58:03 | 8-K - Esquire Financial Holdings, Inc. (0001531031) (Filer) | 2025-10-23T08:45:12-04:00 | https://www.sec.gov/Archives/edgar/data/1531031/000110465925101697/0001104659-25-101697.txt
+2025-10-23 12:58:05 | 8-K - NeoVolta Inc. (0001748137) (Filer) | 2025-10-23T08:44:27-04:00 | https://www.sec.gov/Archives/edgar/data/1748137/000168316825007730/0001683168-25-007730.txt
+2025-10-23 12:58:08 | 8-K - Kearny Financial Corp. (0001617242) (Filer) | 2025-10-23T08:43:51-04:00 | https://www.sec.gov/Archives/edgar/data/1617242/000161724225000070/0001617242-25-000070.txt
