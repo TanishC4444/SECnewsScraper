@@ -5400,3 +5400,5 @@
 2025-10-23 21:17:14 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 477401 | Value: $3,594,829.53 | Percent: 0.360892% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000050/0001178937-25-000050.txt
 2025-10-23 21:28:06 | SPECTOR DAVID | Officer | Shares: 71161 | Value: $9,111,993.04 | Percent: 0.137615% | Link: https://www.sec.gov/Archives/edgar/data/1745916/000196430625000382/0001964306-25-000382.txt
 2025-10-23 21:28:07 | SPECTOR DAVID | Officer | Shares: 71161 | Value: $9,111,993.04 | Percent: 0.137615% | Link: https://www.sec.gov/Archives/edgar/data/1275713/000196430625000382/0001964306-25-000382.txt
+2025-10-23 22:44:41 | OrbiMed Private Investments V, LP | Shareholder | Shares: 1000000 | Value: $1,520,000.0 | Percent: 1.887118% | Link: https://www.sec.gov/Archives/edgar/data/1699382/000094787125000922/0000947871-25-000922.txt
+2025-10-23 22:44:42 | OrbiMed Private Investments V, LP | Shareholder | Shares: 1000000 | Value: $1,520,000.0 | Percent: 1.887118% | Link: https://www.sec.gov/Archives/edgar/data/1055951/000094787125000922/0000947871-25-000922.txt
