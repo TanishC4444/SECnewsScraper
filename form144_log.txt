@@ -5376,3 +5376,5 @@
 2025-10-23 16:56:34 | Jeffrey Berg | DIRECTOR | Shares: 49365 | Value: $13,387,294.35 | Percent: 32.477187% | Link: https://www.sec.gov/Archives/edgar/data/1206104/000165495425012124/0001654954-25-012124.txt
 2025-10-23 18:18:48 | CD Financial, LLC, William H. Milmoe, Manager | 10% Stockholder | Shares: 1092142 | Value: $67,274,947.2 | Percent: 0.423399% | Link: https://www.sec.gov/Archives/edgar/data/1443194/000182912625008376/0001829126-25-008376.txt
 2025-10-23 18:18:49 | CD Financial, LLC, William H. Milmoe, Manager | 10% Stockholder | Shares: 1092142 | Value: $67,274,947.2 | Percent: 0.423399% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000182912625008376/0001829126-25-008376.txt
+2025-10-23 19:58:19 | Burns Michael S. | Officer | Shares: 24249 | Value: $891,466.91 | Percent: 0.001302% | Link: https://www.sec.gov/Archives/edgar/data/2051357/000205135725000002/0002051357-25-000002.txt
+2025-10-23 19:58:20 | Burns Michael S. | Officer | Shares: 24249 | Value: $891,466.91 | Percent: 0.001302% | Link: https://www.sec.gov/Archives/edgar/data/277948/000205135725000002/0002051357-25-000002.txt
