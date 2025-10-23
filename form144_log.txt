@@ -5384,3 +5384,13 @@
 2025-10-23 20:24:03 | SCOTT C SANBORN | Director | Shares: 30000 | Value: $495,600.0 | Percent: 0.026146% | Link: https://www.sec.gov/Archives/edgar/data/1397362/000195004725008133/0001950047-25-008133.txt
 2025-10-23 20:24:04 | Robert I. Kauffman | Director | Shares: 15000 | Value: $166,800.0 | Percent: 0.016494% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025046098/0001628280-25-046098.txt
 2025-10-23 20:24:05 | Robert I. Kauffman | Director | Shares: 15000 | Value: $166,800.0 | Percent: 0.016494% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025046098/0001628280-25-046098.txt
+2025-10-23 20:38:44 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,635,064.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001285/0001921094-25-001285.txt
+2025-10-23 20:38:44 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,635,064.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001285/0001921094-25-001285.txt
+2025-10-23 20:38:46 | QUENTIN FENDELET | Officer | Shares: 16561 | Value: $1,462,424.26 | Percent: 0.036868% | Link: https://www.sec.gov/Archives/edgar/data/1912196/000195004725008136/0001950047-25-008136.txt
+2025-10-23 20:38:46 | QUENTIN FENDELET | Officer | Shares: 16561 | Value: $1,462,424.26 | Percent: 0.036868% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008136/0001950047-25-008136.txt
+2025-10-23 20:38:50 | Rubinger Matthew | Officer | Shares: 14417 | Value: $43,637.53 | Percent: 0.039775% | Link: https://www.sec.gov/Archives/edgar/data/1898365/000195917325006537/0001959173-25-006537.txt
+2025-10-23 20:38:51 | Rubinger Matthew | Officer | Shares: 14417 | Value: $43,637.53 | Percent: 0.039775% | Link: https://www.sec.gov/Archives/edgar/data/1600641/000195917325006537/0001959173-25-006537.txt
+2025-10-23 20:38:52 | AL J DOYLE | Officer | Shares: 7824 | Value: $692,281.6 | Percent: 0.017418% | Link: https://www.sec.gov/Archives/edgar/data/1826730/000195004725008135/0001950047-25-008135.txt
+2025-10-23 20:38:53 | AL J DOYLE | Officer | Shares: 7824 | Value: $692,281.6 | Percent: 0.017418% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008135/0001950047-25-008135.txt
+2025-10-23 20:38:54 | Jeffrey Myers | Officer | Shares: 100000 | Value: $6,800,000.0 | Percent: 0.155460% | Link: https://www.sec.gov/Archives/edgar/data/1741758/000162828025046106/0001628280-25-046106.txt
+2025-10-23 20:38:55 | Jeffrey Myers | Officer | Shares: 100000 | Value: $6,800,000.0 | Percent: 0.155460% | Link: https://www.sec.gov/Archives/edgar/data/1361658/000162828025046106/0001628280-25-046106.txt

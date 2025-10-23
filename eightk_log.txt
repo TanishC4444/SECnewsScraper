@@ -7397,3 +7397,12 @@
 2025-10-23 20:23:51 | 8-K - UNIVERSAL INSURANCE HOLDINGS, INC. (0000891166) (Filer) | 2025-10-23T16:18:11-04:00 | https://www.sec.gov/Archives/edgar/data/891166/000089116625000170/0000891166-25-000170.txt
 2025-10-23 20:23:53 | 8-K - Elme Communities (0000104894) (Filer) | 2025-10-23T16:17:50-04:00 | https://www.sec.gov/Archives/edgar/data/104894/000010489425000105/0000104894-25-000105.txt
 2025-10-23 20:23:55 | 8-K - HEALTHPEAK PROPERTIES, INC. (0000765880) (Filer) | 2025-10-23T16:17:48-04:00 | https://www.sec.gov/Archives/edgar/data/765880/000162828025046095/0001628280-25-046095.txt
+2025-10-23 20:38:32 | 8-K - Home Federal Bancorp, Inc. of Louisiana (0001500375) (Filer) | 2025-10-23T16:37:37-04:00 | https://www.sec.gov/Archives/edgar/data/1500375/000092708925000197/0000927089-25-000197.txt
+2025-10-23 20:38:32 | 8-K/A - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-23T16:36:36-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000141266525000143/0001412665-25-000143.txt
+2025-10-23 20:38:34 | 8-K - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-23T16:35:31-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000141266525000141/0001412665-25-000141.txt
+2025-10-23 20:38:35 | 8-K - Orchid Island Capital, Inc. (0001518621) (Filer) | 2025-10-23T16:32:55-04:00 | https://www.sec.gov/Archives/edgar/data/1518621/000143774925031640/0001437749-25-031640.txt
+2025-10-23 20:38:37 | 8-K - COMMUNITY HEALTH SYSTEMS INC (0001108109) (Filer) | 2025-10-23T16:32:05-04:00 | https://www.sec.gov/Archives/edgar/data/1108109/000119312525248834/0001193125-25-248834.txt
+2025-10-23 20:38:38 | 8-K - SLM Corp (0001032033) (Filer) | 2025-10-23T16:31:44-04:00 | https://www.sec.gov/Archives/edgar/data/1032033/000103203325000032/0001032033-25-000032.txt
+2025-10-23 20:38:39 | 8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer) | 2025-10-23T16:31:30-04:00 | https://www.sec.gov/Archives/edgar/data/1719406/000143774925031637/0001437749-25-031637.txt
+2025-10-23 20:38:40 | 8-K - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-23T16:31:14-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000110465925101847/0001104659-25-101847.txt
+2025-10-23 20:38:42 | 8-K - Eastern Bankshares, Inc. (0001810546) (Filer) | 2025-10-23T16:31:08-04:00 | https://www.sec.gov/Archives/edgar/data/1810546/000162828025046111/0001628280-25-046111.txt
