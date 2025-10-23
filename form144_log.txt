@@ -5404,3 +5404,5 @@
 2025-10-23 22:44:42 | OrbiMed Private Investments V, LP | Shareholder | Shares: 1000000 | Value: $1,520,000.0 | Percent: 1.887118% | Link: https://www.sec.gov/Archives/edgar/data/1055951/000094787125000922/0000947871-25-000922.txt
 2025-10-23 23:11:49 | MARK IWICKI | Director | Shares: 154894 | Value: $125,185.33 | Percent: 2.206140% | Link: https://www.sec.gov/Archives/edgar/data/1479419/000195004725008142/0001950047-25-008142.txt
 2025-10-23 23:11:50 | MARK IWICKI | Director | Shares: 154894 | Value: $125,185.33 | Percent: 2.206140% | Link: https://www.sec.gov/Archives/edgar/data/1415537/000195004725008142/0001950047-25-008142.txt
+2025-10-23 23:27:48 | Harris Lawrence E | Director | Shares: 75000 | Value: $4,857,750.0 | Percent: 0.016845% | Link: https://www.sec.gov/Archives/edgar/data/1406586/000138119725000146/0001381197-25-000146.txt
+2025-10-23 23:27:49 | Harris Lawrence E | Director | Shares: 75000 | Value: $4,857,750.0 | Percent: 0.016845% | Link: https://www.sec.gov/Archives/edgar/data/1381197/000138119725000146/0001381197-25-000146.txt
