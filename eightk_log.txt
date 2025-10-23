@@ -7431,3 +7431,6 @@
 2025-10-23 21:28:01 | 8-K - Origin Bancorp, Inc. (0001516912) (Filer) | 2025-10-23T17:21:53-04:00 | https://www.sec.gov/Archives/edgar/data/1516912/000151691225000144/0001516912-25-000144.txt
 2025-10-23 21:28:03 | 8-K - Science Applications International Corp (0001571123) (Filer) | 2025-10-23T17:21:39-04:00 | https://www.sec.gov/Archives/edgar/data/1571123/000119312525248919/0001193125-25-248919.txt
 2025-10-23 21:28:04 | 8-K - Hall of Fame Resort & Entertainment Co (0001708176) (Filer) | 2025-10-23T17:20:04-04:00 | https://www.sec.gov/Archives/edgar/data/1708176/000114036125039109/0001140361-25-039109.txt
+2025-10-23 21:38:40 | 8-K - CXApp Inc. (0001820875) (Filer) | 2025-10-23T17:28:49-04:00 | https://www.sec.gov/Archives/edgar/data/1820875/000182912625008390/0001829126-25-008390.txt
+2025-10-23 21:38:43 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-23T17:28:43-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008389/0001829126-25-008389.txt
+2025-10-23 21:38:45 | 8-K - Neuraxis, INC (0001933567) (Filer) | 2025-10-23T17:27:48-04:00 | https://www.sec.gov/Archives/edgar/data/1933567/000149315225019136/0001493152-25-019136.txt
