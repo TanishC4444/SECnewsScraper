@@ -7406,3 +7406,7 @@
 2025-10-23 20:38:39 | 8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer) | 2025-10-23T16:31:30-04:00 | https://www.sec.gov/Archives/edgar/data/1719406/000143774925031637/0001437749-25-031637.txt
 2025-10-23 20:38:40 | 8-K - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-23T16:31:14-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000110465925101847/0001104659-25-101847.txt
 2025-10-23 20:38:42 | 8-K - Eastern Bankshares, Inc. (0001810546) (Filer) | 2025-10-23T16:31:08-04:00 | https://www.sec.gov/Archives/edgar/data/1810546/000162828025046111/0001628280-25-046111.txt
+2025-10-23 20:47:34 | 8-K - Akari Therapeutics Plc (0001541157) (Filer) | 2025-10-23T16:45:53-04:00 | https://www.sec.gov/Archives/edgar/data/1541157/000149315225019112/0001493152-25-019112.txt
+2025-10-23 20:47:37 | 8-K - Customers Bancorp, Inc. (0001488813) (Filer) | 2025-10-23T16:44:05-04:00 | https://www.sec.gov/Archives/edgar/data/1488813/000148881325000092/0001488813-25-000092.txt
+2025-10-23 20:47:40 | 8-K - EAGLE FINANCIAL SERVICES INC (0000880641) (Filer) | 2025-10-23T16:42:08-04:00 | https://www.sec.gov/Archives/edgar/data/880641/000119312525248860/0001193125-25-248860.txt
+2025-10-23 20:47:41 | 8-K - AA Mission Acquisition Corp. II (0002075336) (Filer) | 2025-10-23T16:40:25-04:00 | https://www.sec.gov/Archives/edgar/data/2075336/000121390025101714/0001213900-25-101714.txt
