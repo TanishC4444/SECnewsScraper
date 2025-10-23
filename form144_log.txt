@@ -5398,3 +5398,5 @@
 2025-10-23 20:47:46 | CLAUDIO TUOZZOLO | Officer | Shares: 14637 | Value: $1,344,625.08 | Percent: 0.032585% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008138/0001950047-25-008138.txt
 2025-10-23 21:17:13 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 477401 | Value: $3,594,829.53 | Percent: 0.360892% | Link: https://www.sec.gov/Archives/edgar/data/1819133/000117893725000050/0001178937-25-000050.txt
 2025-10-23 21:17:14 | Third Rock Ventures IV, L.P. | 10% Stockholder | Shares: 477401 | Value: $3,594,829.53 | Percent: 0.360892% | Link: https://www.sec.gov/Archives/edgar/data/1688327/000117893725000050/0001178937-25-000050.txt
+2025-10-23 21:28:06 | SPECTOR DAVID | Officer | Shares: 71161 | Value: $9,111,993.04 | Percent: 0.137615% | Link: https://www.sec.gov/Archives/edgar/data/1745916/000196430625000382/0001964306-25-000382.txt
+2025-10-23 21:28:07 | SPECTOR DAVID | Officer | Shares: 71161 | Value: $9,111,993.04 | Percent: 0.137615% | Link: https://www.sec.gov/Archives/edgar/data/1275713/000196430625000382/0001964306-25-000382.txt

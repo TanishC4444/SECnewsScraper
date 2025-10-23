@@ -7426,3 +7426,8 @@
 2025-10-23 21:17:06 | 8-K - Golub Capital Private Credit Fund (0001930087) (Filer) | 2025-10-23T17:10:46-04:00 | https://www.sec.gov/Archives/edgar/data/1930087/000193008725000062/0001930087-25-000062.txt
 2025-10-23 21:17:08 | 8-K - RLI CORP (0000084246) (Filer) | 2025-10-23T17:09:29-04:00 | https://www.sec.gov/Archives/edgar/data/84246/000008424625000017/0000084246-25-000017.txt
 2025-10-23 21:17:11 | 8-K - CITIUS ONCOLOGY, INC. (0001851484) (Filer) | 2025-10-23T17:09:05-04:00 | https://www.sec.gov/Archives/edgar/data/1851484/000121390025101737/0001213900-25-101737.txt
+2025-10-23 21:27:58 | 8-K - Kodiak Gas Services, Inc. (0001767042) (Filer) | 2025-10-23T17:27:18-04:00 | https://www.sec.gov/Archives/edgar/data/1767042/000176704225000074/0001767042-25-000074.txt
+2025-10-23 21:28:00 | 8-K - Baker Hughes Co (0001701605) (Filer) | 2025-10-23T17:25:57-04:00 | https://www.sec.gov/Archives/edgar/data/1701605/000170160525000114/0001701605-25-000114.txt
+2025-10-23 21:28:01 | 8-K - Origin Bancorp, Inc. (0001516912) (Filer) | 2025-10-23T17:21:53-04:00 | https://www.sec.gov/Archives/edgar/data/1516912/000151691225000144/0001516912-25-000144.txt
+2025-10-23 21:28:03 | 8-K - Science Applications International Corp (0001571123) (Filer) | 2025-10-23T17:21:39-04:00 | https://www.sec.gov/Archives/edgar/data/1571123/000119312525248919/0001193125-25-248919.txt
+2025-10-23 21:28:04 | 8-K - Hall of Fame Resort & Entertainment Co (0001708176) (Filer) | 2025-10-23T17:20:04-04:00 | https://www.sec.gov/Archives/edgar/data/1708176/000114036125039109/0001140361-25-039109.txt
