@@ -5420,3 +5420,5 @@
 2025-10-24 14:29:06 | Federico Peter J | Officer | Shares: 45797 | Value: $465,179.18 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006539/0001959173-25-006539.txt
 2025-10-24 14:29:10 | Geoffrey Richards | Officer | Shares: 100011 | Value: $6,900,759.0 | Percent: 0.155477% | Link: https://www.sec.gov/Archives/edgar/data/1741754/000162828025046193/0001628280-25-046193.txt
 2025-10-24 14:29:11 | Geoffrey Richards | Officer | Shares: 100011 | Value: $6,900,759.0 | Percent: 0.155477% | Link: https://www.sec.gov/Archives/edgar/data/1361658/000162828025046193/0001628280-25-046193.txt
+2025-10-24 14:45:48 | BURKE JAMES A | Officer | Shares: 19600 | Value: $3,850,662.8 | Percent: 0.005785% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006541/0001959173-25-006541.txt
+2025-10-24 14:45:49 | BURKE JAMES A | Officer | Shares: 19600 | Value: $3,850,662.8 | Percent: 0.005785% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006541/0001959173-25-006541.txt
