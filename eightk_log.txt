@@ -7539,3 +7539,12 @@
 2025-10-24 21:18:27 | 8-K - Scienture Holdings, Inc. (0001382574) (Filer) | 2025-10-24T17:05:58-04:00 | https://www.sec.gov/Archives/edgar/data/1382574/000149315225019341/0001493152-25-019341.txt
 2025-10-24 21:18:27 | 8-K - Melar Acquisition Corp. I/Cayman (0002016221) (Filer) | 2025-10-24T17:01:11-04:00 | https://www.sec.gov/Archives/edgar/data/2016221/000110465925102190/0001104659-25-102190.txt
 2025-10-24 21:18:29 | 8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer) | 2025-10-24T17:00:51-04:00 | https://www.sec.gov/Archives/edgar/data/2017950/000149315225019336/0001493152-25-019336.txt
+2025-10-24 21:30:34 | 8-K - Cycurion, Inc. (0001868419) (Filer) | 2025-10-24T17:29:37-04:00 | https://www.sec.gov/Archives/edgar/data/1868419/000149315225019372/0001493152-25-019372.txt
+2025-10-24 21:30:36 | 8-K - Biofrontera Inc. (0001858685) (Filer) | 2025-10-24T17:29:29-04:00 | https://www.sec.gov/Archives/edgar/data/1858685/000149315225019370/0001493152-25-019370.txt
+2025-10-24 21:30:38 | 8-K - Western Uranium & Vanadium Corp. (0001621906) (Filer) | 2025-10-24T17:27:34-04:00 | https://www.sec.gov/Archives/edgar/data/1621906/000121390025102275/0001213900-25-102275.txt
+2025-10-24 21:30:40 | 8-K - micromobility.com Inc. (0001788841) (Filer) | 2025-10-24T17:24:06-04:00 | https://www.sec.gov/Archives/edgar/data/1788841/000107997325001639/0001079973-25-001639.txt
+2025-10-24 21:30:41 | 8-K - Douglas Elliman Inc. (0001878897) (Filer) | 2025-10-24T17:23:13-04:00 | https://www.sec.gov/Archives/edgar/data/1878897/000187889725000060/0001878897-25-000060.txt
+2025-10-24 21:30:41 | 8-K/A - GBank Financial Holdings Inc. (0001791145) (Filer) | 2025-10-24T17:21:08-04:00 | https://www.sec.gov/Archives/edgar/data/1791145/000119312525250199/0001193125-25-250199.txt
+2025-10-24 21:30:43 | 8-K - BullFrog AI Holdings, Inc. (0001829247) (Filer) | 2025-10-24T17:21:02-04:00 | https://www.sec.gov/Archives/edgar/data/1829247/000149315225019360/0001493152-25-019360.txt
+2025-10-24 21:30:45 | 8-K - UPEXI, INC. (0001775194) (Filer) | 2025-10-24T17:20:56-04:00 | https://www.sec.gov/Archives/edgar/data/1775194/000147793225007749/0001477932-25-007749.txt
+2025-10-24 21:30:47 | 8-K - Vivos Therapeutics, Inc. (0001716166) (Filer) | 2025-10-24T17:20:50-04:00 | https://www.sec.gov/Archives/edgar/data/1716166/000149315225019359/0001493152-25-019359.txt
