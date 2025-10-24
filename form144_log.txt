@@ -5426,3 +5426,5 @@
 2025-10-24 15:17:43 | Zanotti Katherine S | Director | Shares: 12000 | Value: $780,000.0 | Percent: 0.006339% | Link: https://www.sec.gov/Archives/edgar/data/1124140/000195917325006543/0001959173-25-006543.txt
 2025-10-24 15:17:45 | Blecharczyk Nathan | Officer | Shares: 11539 | Value: $1,472,953.35 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325006542/0001959173-25-006542.txt
 2025-10-24 15:17:46 | Blecharczyk Nathan | Officer | Shares: 11539 | Value: $1,472,953.35 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006542/0001959173-25-006542.txt
+2025-10-24 15:46:42 | Mertz Elinor | Officer | Shares: 12184 | Value: $1,555,287.6 | Percent: 0.002840% | Link: https://www.sec.gov/Archives/edgar/data/1938411/000195917325006544/0001959173-25-006544.txt
+2025-10-24 15:46:43 | Mertz Elinor | Officer | Shares: 12184 | Value: $1,555,287.6 | Percent: 0.002840% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006544/0001959173-25-006544.txt
