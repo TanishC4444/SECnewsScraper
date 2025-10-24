@@ -5473,3 +5473,5 @@
 2025-10-24 22:25:21 | RA Capital Nexus Fund, L.P. | Director | Shares: 122271 | Value: $4,794,245.91 | Percent: 0.277008% | Link: https://www.sec.gov/Archives/edgar/data/1780117/000117893725000054/0001178937-25-000054.txt
 2025-10-24 22:25:22 | RA Capital Nexus Fund III, L.P. | Director | Shares: 66672 | Value: $2,614,209.12 | Percent: 0.151047% | Link: https://www.sec.gov/Archives/edgar/data/2036042/000117893725000053/0001178937-25-000053.txt
 2025-10-24 22:25:23 | RA Capital Nexus Fund III, L.P. | Director | Shares: 66672 | Value: $2,614,209.12 | Percent: 0.151047% | Link: https://www.sec.gov/Archives/edgar/data/1883840/000117893725000053/0001178937-25-000053.txt
+2025-10-24 22:39:51 | Silbert Barry E. | 10% Stockholder | Shares: 13888 | Value: $27,220.48 | Percent: 0.422076% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000033/0001976415-25-000033.txt
+2025-10-24 22:39:51 | Silbert Barry E. | 10% Stockholder | Shares: 13888 | Value: $27,220.48 | Percent: 0.422076% | Link: https://www.sec.gov/Archives/edgar/data/1852023/000197641525000033/0001976415-25-000033.txt
