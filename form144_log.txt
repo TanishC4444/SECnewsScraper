@@ -5428,3 +5428,7 @@
 2025-10-24 15:17:46 | Blecharczyk Nathan | Officer | Shares: 11539 | Value: $1,472,953.35 | Percent: 0.002689% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006542/0001959173-25-006542.txt
 2025-10-24 15:46:42 | Mertz Elinor | Officer | Shares: 12184 | Value: $1,555,287.6 | Percent: 0.002840% | Link: https://www.sec.gov/Archives/edgar/data/1938411/000195917325006544/0001959173-25-006544.txt
 2025-10-24 15:46:43 | Mertz Elinor | Officer | Shares: 12184 | Value: $1,555,287.6 | Percent: 0.002840% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006544/0001959173-25-006544.txt
+2025-10-24 16:44:05 | Avishai Vaknin | CTO | Shares: 64713 | Value: $121,660.0 | Percent: 0.052104% | Link: https://www.sec.gov/Archives/edgar/data/1976403/000149315225019214/0001493152-25-019214.txt
+2025-10-24 16:44:06 | Avishai Vaknin | CTO | Shares: 64713 | Value: $121,660.0 | Percent: 0.052104% | Link: https://www.sec.gov/Archives/edgar/data/1817004/000149315225019214/0001493152-25-019214.txt
+2025-10-24 16:44:08 | Sharett Anthony M. | Officer | Shares: 11500 | Value: $822,940.0 | Percent: 0.050499% | Link: https://www.sec.gov/Archives/edgar/data/1789109/000195917325006545/0001959173-25-006545.txt
+2025-10-24 16:44:08 | Sharett Anthony M. | Officer | Shares: 11500 | Value: $822,940.0 | Percent: 0.050499% | Link: https://www.sec.gov/Archives/edgar/data/907471/000195917325006545/0001959173-25-006545.txt
