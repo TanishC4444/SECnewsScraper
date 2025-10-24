@@ -5458,3 +5458,6 @@
 2025-10-24 20:57:51 | HUANG JEN HSUN | Officer | Shares: 75000 | Value: $13,901,543.0 | Percent: 0.000309% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001288/0001921094-25-001288.txt
 2025-10-24 20:57:53 | SCHULZE RICHARD M | 10% Stockholder | Shares: 374164 | Value: $30,842,338.5 | Percent: 0.178087% | Link: https://www.sec.gov/Archives/edgar/data/1006394/000196794025000078/0001967940-25-000078.txt
 2025-10-24 20:57:53 | SCHULZE RICHARD M | 10% Stockholder | Shares: 374164 | Value: $30,842,338.5 | Percent: 0.178087% | Link: https://www.sec.gov/Archives/edgar/data/764478/000196794025000078/0001967940-25-000078.txt
+2025-10-24 21:18:30 | DCG International Investments Ltd | Affiliate | Shares: 7100 | Value: $99,471.0 | Percent: 0.098188% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000298/0001977454-25-000298.txt
+2025-10-24 21:18:32 | DCG International Investments Ltd | Affiliate | Shares: 45000 | Value: $173,938.5 | Percent: 0.095494% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000292/0001977454-25-000292.txt
+2025-10-24 21:18:33 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $638,216.4 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000291/0001977454-25-000291.txt

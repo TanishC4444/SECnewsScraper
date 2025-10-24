@@ -7529,3 +7529,13 @@
 2025-10-24 20:57:43 | 8-K - Hamilton Insurance Group, Ltd. (0001593275) (Filer) | 2025-10-24T16:54:00-04:00 | https://www.sec.gov/Archives/edgar/data/1593275/000159327525000251/0001593275-25-000251.txt
 2025-10-24 20:57:44 | 8-K - CaliberCos Inc. (0001627282) (Filer) | 2025-10-24T16:52:59-04:00 | https://www.sec.gov/Archives/edgar/data/1627282/000162728225000138/0001627282-25-000138.txt
 2025-10-24 20:57:46 | 8-K - CNL Strategic Capital, LLC (0001684682) (Filer) | 2025-10-24T16:50:07-04:00 | https://www.sec.gov/Archives/edgar/data/1684682/000199937125016069/0001999371-25-016069.txt
+2025-10-24 21:18:17 | 8-K - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer) | 2025-10-24T17:17:00-04:00 | https://www.sec.gov/Archives/edgar/data/1868516/000110465925102205/0001104659-25-102205.txt
+2025-10-24 21:18:19 | 8-K - Calidi Biotherapeutics, Inc. (0001855485) (Filer) | 2025-10-24T17:16:07-04:00 | https://www.sec.gov/Archives/edgar/data/1855485/000149315225019353/0001493152-25-019353.txt
+2025-10-24 21:18:20 | 8-K - Live Nation Entertainment, Inc. (0001335258) (Filer) | 2025-10-24T17:15:02-04:00 | https://www.sec.gov/Archives/edgar/data/1335258/000133525825000140/0001335258-25-000140.txt
+2025-10-24 21:18:21 | 8-K - Woodbridge Liquidation Trust (0001785494) (Filer) | 2025-10-24T17:12:55-04:00 | https://www.sec.gov/Archives/edgar/data/1785494/000114036125039299/0001140361-25-039299.txt
+2025-10-24 21:18:23 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-10-24T17:10:36-04:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125039290/0001140361-25-039290.txt
+2025-10-24 21:18:23 | 8-K - Mallinckrodt plc (0001567892) (Filer) | 2025-10-24T17:09:32-04:00 | https://www.sec.gov/Archives/edgar/data/1567892/000110465925102199/0001104659-25-102199.txt
+2025-10-24 21:18:25 | 8-K - Rein Therapeutics, Inc. (0001420565) (Filer) | 2025-10-24T17:08:06-04:00 | https://www.sec.gov/Archives/edgar/data/1420565/000119312525250175/0001193125-25-250175.txt
+2025-10-24 21:18:27 | 8-K - Scienture Holdings, Inc. (0001382574) (Filer) | 2025-10-24T17:05:58-04:00 | https://www.sec.gov/Archives/edgar/data/1382574/000149315225019341/0001493152-25-019341.txt
+2025-10-24 21:18:27 | 8-K - Melar Acquisition Corp. I/Cayman (0002016221) (Filer) | 2025-10-24T17:01:11-04:00 | https://www.sec.gov/Archives/edgar/data/2016221/000110465925102190/0001104659-25-102190.txt
+2025-10-24 21:18:29 | 8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer) | 2025-10-24T17:00:51-04:00 | https://www.sec.gov/Archives/edgar/data/2017950/000149315225019336/0001493152-25-019336.txt
