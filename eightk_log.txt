@@ -7500,3 +7500,9 @@
 2025-10-24 19:26:28 | 8-K - Arcadia Biosciences, Inc. (0001469443) (Filer) | 2025-10-24T15:13:17-04:00 | https://www.sec.gov/Archives/edgar/data/1469443/000119312525249854/0001193125-25-249854.txt
 2025-10-24 19:37:43 | 8-K - NorthEast Community Bancorp, Inc./MD/ (0001847398) (Filer) | 2025-10-24T15:36:38-04:00 | https://www.sec.gov/Archives/edgar/data/1847398/000110465925102108/0001104659-25-102108.txt
 2025-10-24 19:37:45 | 8-K - Theriva Biologics, Inc. (0000894158) (Filer) | 2025-10-24T15:26:23-04:00 | https://www.sec.gov/Archives/edgar/data/894158/000110465925102104/0001104659-25-102104.txt
+2025-10-24 20:19:26 | 8-K - Envirotech Vehicles, Inc. (0001563568) (Filer) | 2025-10-24T16:18:13-04:00 | https://www.sec.gov/Archives/edgar/data/1563568/000143774925031729/0001437749-25-031729.txt
+2025-10-24 20:19:28 | 8-K - Grayscale Bitcoin Cash Trust (BCH) (0001732409) (Filer) | 2025-10-24T16:17:37-04:00 | https://www.sec.gov/Archives/edgar/data/1732409/000119312525249999/0001193125-25-249999.txt
+2025-10-24 20:19:30 | 8-K - Grayscale Bitcoin Mini Trust ETF (0002015034) (Filer) | 2025-10-24T16:15:53-04:00 | https://www.sec.gov/Archives/edgar/data/2015034/000119312525249993/0001193125-25-249993.txt
+2025-10-24 20:19:32 | 8-K - Crescent Energy Co (0001866175) (Filer) | 2025-10-24T16:15:35-04:00 | https://www.sec.gov/Archives/edgar/data/1866175/000162828025046274/0001628280-25-046274.txt
+2025-10-24 20:19:33 | 8-K - InPoint Commercial Real Estate Income, Inc. (0001690012) (Filer) | 2025-10-24T16:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1690012/000119312525249987/0001193125-25-249987.txt
+2025-10-24 20:19:35 | 8-K - Grayscale Bitcoin Trust ETF (0001588489) (Filer) | 2025-10-24T16:15:04-04:00 | https://www.sec.gov/Archives/edgar/data/1588489/000119312525249982/0001193125-25-249982.txt

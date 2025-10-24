@@ -5434,3 +5434,13 @@
 2025-10-24 16:44:08 | Sharett Anthony M. | Officer | Shares: 11500 | Value: $822,940.0 | Percent: 0.050499% | Link: https://www.sec.gov/Archives/edgar/data/907471/000195917325006545/0001959173-25-006545.txt
 2025-10-24 18:18:29 | B. Thomas Golisano Revocable Living Trust | 10% stock owner | Shares: 302050 | Value: $37,825,000.0 | Percent: 0.083927% | Link: https://www.sec.gov/Archives/edgar/data/903201/000162828025046229/0001628280-25-046229.txt
 2025-10-24 18:18:29 | B. Thomas Golisano Revocable Living Trust | 10% stock owner | Shares: 302050 | Value: $37,825,000.0 | Percent: 0.083927% | Link: https://www.sec.gov/Archives/edgar/data/723531/000162828025046229/0001628280-25-046229.txt
+2025-10-24 20:19:37 | MIRIAM ORT | Officer | Shares: 5029 | Value: $338,659.87 | Percent: 0.004518% | Link: https://www.sec.gov/Archives/edgar/data/2002913/000195004725008159/0001950047-25-008159.txt
+2025-10-24 20:19:38 | MIRIAM ORT | Officer | Shares: 5029 | Value: $338,659.87 | Percent: 0.004518% | Link: https://www.sec.gov/Archives/edgar/data/1837240/000195004725008159/0001950047-25-008159.txt
+2025-10-24 20:19:39 | Cohen Yuval | Officer | Shares: 27633 | Value: $469,977.0 | Percent: 0.225479% | Link: https://www.sec.gov/Archives/edgar/data/1626003/000197248125000257/0001972481-25-000257.txt
+2025-10-24 20:19:40 | Cohen Yuval | Officer | Shares: 27633 | Value: $469,977.0 | Percent: 0.225479% | Link: https://www.sec.gov/Archives/edgar/data/1595097/000197248125000257/0001972481-25-000257.txt
+2025-10-24 20:19:42 | MOHIT SINGH | Officer | Shares: 220000 | Value: $3,318,844.98 | Percent: 0.042070% | Link: https://www.sec.gov/Archives/edgar/data/1834019/000195004725008158/0001950047-25-008158.txt
+2025-10-24 20:19:43 | MOHIT SINGH | Officer | Shares: 220000 | Value: $3,318,844.98 | Percent: 0.042070% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000195004725008158/0001950047-25-008158.txt
+2025-10-24 20:19:44 | Moran Sean F. | Officer | Shares: 12981 | Value: $220,922.0 | Percent: 0.105922% | Link: https://www.sec.gov/Archives/edgar/data/1595097/000197248125000256/0001972481-25-000256.txt
+2025-10-24 20:19:45 | Moran Sean F. | Officer | Shares: 12981 | Value: $220,922.0 | Percent: 0.105922% | Link: https://www.sec.gov/Archives/edgar/data/1451495/000197248125000256/0001972481-25-000256.txt
+2025-10-24 20:19:47 | KRISTINE MELACHRINO | Officer | Shares: 6579 | Value: $1,403,988.68 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1965119/000196922325000873/0001969223-25-000873.txt
+2025-10-24 20:19:48 | KRISTINE MELACHRINO | Officer | Shares: 6579 | Value: $1,403,988.68 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/898293/000196922325000873/0001969223-25-000873.txt
