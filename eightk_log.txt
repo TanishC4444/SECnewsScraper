@@ -7441,3 +7441,4 @@
 2025-10-24 10:18:00 | 8-K - Ellington Financial Inc. (0001411342) (Filer) | 2025-10-23T19:25:48-04:00 | https://www.sec.gov/Archives/edgar/data/1411342/000162828025046141/0001628280-25-046141.txt
 2025-10-24 10:18:01 | 8-K - Rivian Automotive, Inc. / DE (0001874178) (Filer) | 2025-10-23T19:20:11-04:00 | https://www.sec.gov/Archives/edgar/data/1874178/000187417825000048/0001874178-25-000048.txt
 2025-10-24 10:18:03 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-23T18:27:05-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000553/0001564708-25-000553.txt
+2025-10-24 10:40:35 | 8-K - Tango Therapeutics, Inc. (0001819133) (Filer) | 2025-10-24T06:17:49-04:00 | https://www.sec.gov/Archives/edgar/data/1819133/000119312525249302/0001193125-25-249302.txt
