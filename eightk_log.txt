@@ -7506,3 +7506,12 @@
 2025-10-24 20:19:32 | 8-K - Crescent Energy Co (0001866175) (Filer) | 2025-10-24T16:15:35-04:00 | https://www.sec.gov/Archives/edgar/data/1866175/000162828025046274/0001628280-25-046274.txt
 2025-10-24 20:19:33 | 8-K - InPoint Commercial Real Estate Income, Inc. (0001690012) (Filer) | 2025-10-24T16:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/1690012/000119312525249987/0001193125-25-249987.txt
 2025-10-24 20:19:35 | 8-K - Grayscale Bitcoin Trust ETF (0001588489) (Filer) | 2025-10-24T16:15:04-04:00 | https://www.sec.gov/Archives/edgar/data/1588489/000119312525249982/0001193125-25-249982.txt
+2025-10-24 20:37:31 | 8-K - Sun Country Airlines Holdings, Inc. (0001743907) (Filer) | 2025-10-24T16:34:00-04:00 | https://www.sec.gov/Archives/edgar/data/1743907/000174390725000065/0001743907-25-000065.txt
+2025-10-24 20:37:33 | 8-K - CCC Intelligent Solutions Holdings Inc. (0001818201) (Filer) | 2025-10-24T16:32:51-04:00 | https://www.sec.gov/Archives/edgar/data/1818201/000119312525250038/0001193125-25-250038.txt
+2025-10-24 20:37:35 | 8-K - PLIANT THERAPEUTICS, INC. (0001746473) (Filer) | 2025-10-24T16:32:41-04:00 | https://www.sec.gov/Archives/edgar/data/1746473/000174647325000159/0001746473-25-000159.txt
+2025-10-24 20:37:38 | 8-K - WEBSTER FINANCIAL CORP (0000801337) (Filer) | 2025-10-24T16:31:56-04:00 | https://www.sec.gov/Archives/edgar/data/801337/000080133725000102/0000801337-25-000102.txt
+2025-10-24 20:37:40 | 8-K - Cenntro Inc. (0001707919) (Filer) | 2025-10-24T16:30:52-04:00 | https://www.sec.gov/Archives/edgar/data/1707919/000114036125039274/0001140361-25-039274.txt
+2025-10-24 20:37:43 | 8-K - MAIA Biotechnology, Inc. (0001878313) (Filer) | 2025-10-24T16:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1878313/000149315225019315/0001493152-25-019315.txt
+2025-10-24 20:37:45 | 8-K - ALPHA MODUS HOLDINGS, INC. (0001862463) (Filer) | 2025-10-24T16:30:38-04:00 | https://www.sec.gov/Archives/edgar/data/1862463/000149315225019310/0001493152-25-019310.txt
+2025-10-24 20:37:47 | 8-K - Beeline Holdings, Inc. (0001534708) (Filer) | 2025-10-24T16:30:35-04:00 | https://www.sec.gov/Archives/edgar/data/1534708/000149315225019308/0001493152-25-019308.txt
+2025-10-24 20:37:49 | 8-K - NEXTNRG, INC. (0001817004) (Filer) | 2025-10-24T16:30:34-04:00 | https://www.sec.gov/Archives/edgar/data/1817004/000149315225019307/0001493152-25-019307.txt

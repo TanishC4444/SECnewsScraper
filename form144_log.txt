@@ -5444,3 +5444,9 @@
 2025-10-24 20:19:45 | Moran Sean F. | Officer | Shares: 12981 | Value: $220,922.0 | Percent: 0.105922% | Link: https://www.sec.gov/Archives/edgar/data/1451495/000197248125000256/0001972481-25-000256.txt
 2025-10-24 20:19:47 | KRISTINE MELACHRINO | Officer | Shares: 6579 | Value: $1,403,988.68 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1965119/000196922325000873/0001969223-25-000873.txt
 2025-10-24 20:19:48 | KRISTINE MELACHRINO | Officer | Shares: 6579 | Value: $1,403,988.68 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/898293/000196922325000873/0001969223-25-000873.txt
+2025-10-24 20:37:52 | GARY S GUTHART | Officer | Shares: 28800 | Value: $15,769,644.48 | Percent: 0.008124% | Link: https://www.sec.gov/Archives/edgar/data/1280628/000195004725008174/0001950047-25-008174.txt
+2025-10-24 20:37:53 | GARY S GUTHART | Officer | Shares: 28800 | Value: $15,769,644.48 | Percent: 0.008124% | Link: https://www.sec.gov/Archives/edgar/data/1035267/000195004725008174/0001950047-25-008174.txt
+2025-10-24 20:37:55 | OCAMPO SUSAN | 10% Stockholder | Shares: 44809 | Value: $6,273,260.0 | Percent: 0.060170% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000539/0001949846-25-000539.txt
+2025-10-24 20:37:56 | OCAMPO SUSAN | 10% Stockholder | Shares: 44809 | Value: $6,273,260.0 | Percent: 0.060170% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000539/0001949846-25-000539.txt
+2025-10-24 20:37:57 | DAVID ROSA | Officer | Shares: 24500 | Value: $13,414,977.45 | Percent: 0.006911% | Link: https://www.sec.gov/Archives/edgar/data/1519593/000195004725008173/0001950047-25-008173.txt
+2025-10-24 20:37:58 | DAVID ROSA | Officer | Shares: 24500 | Value: $13,414,977.45 | Percent: 0.006911% | Link: https://www.sec.gov/Archives/edgar/data/1035267/000195004725008173/0001950047-25-008173.txt
