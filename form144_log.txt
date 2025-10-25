@@ -5475,3 +5475,7 @@
 2025-10-24 22:25:23 | RA Capital Nexus Fund III, L.P. | Director | Shares: 66672 | Value: $2,614,209.12 | Percent: 0.151047% | Link: https://www.sec.gov/Archives/edgar/data/1883840/000117893725000053/0001178937-25-000053.txt
 2025-10-24 22:39:51 | Silbert Barry E. | 10% Stockholder | Shares: 13888 | Value: $27,220.48 | Percent: 0.422076% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000033/0001976415-25-000033.txt
 2025-10-24 22:39:51 | Silbert Barry E. | 10% Stockholder | Shares: 13888 | Value: $27,220.48 | Percent: 0.422076% | Link: https://www.sec.gov/Archives/edgar/data/1852023/000197641525000033/0001976415-25-000033.txt
+2025-10-25 01:58:29 | HIKE Capital III L.P. | 10% Stockholder | Shares: 93910 | Value: $2,199,841.75 | Percent: 0.208318% | Link: https://www.sec.gov/Archives/edgar/data/1995520/000183945125000003/0001839451-25-000003.txt
+2025-10-25 01:58:29 | HIKE Capital III L.P. | 10% Stockholder | Shares: 93910 | Value: $2,199,841.75 | Percent: 0.208318% | Link: https://www.sec.gov/Archives/edgar/data/1839451/000183945125000003/0001839451-25-000003.txt
+2025-10-25 01:58:31 | Grossman Adam S. | Director and Officer | Shares: 63000 | Value: $960,750.0 | Percent: 0.026401% | Link: https://www.sec.gov/Archives/edgar/data/1542517/000114036125039330/0001140361-25-039330.txt
+2025-10-25 01:58:32 | Grossman Adam S. | Director and Officer | Shares: 63000 | Value: $960,750.0 | Percent: 0.026401% | Link: https://www.sec.gov/Archives/edgar/data/1368514/000114036125039330/0001140361-25-039330.txt
