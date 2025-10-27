@@ -5513,3 +5513,7 @@
 2025-10-27 20:21:13 | CASPER MARC N | Officer | Shares: 7250 | Value: $4,104,237.84 | Percent: 0.001920% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325006569/0001959173-25-006569.txt
 2025-10-27 20:21:15 | VARUN SIVARAM LIVING TRUST | Affiliate | Shares: 30000 | Value: $3,662,662,408.3 | Percent: 0.005334% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000195004725008199/0001950047-25-008199.txt
 2025-10-27 20:21:16 | VARUN SIVARAM LIVING TRUST | Affiliate | Shares: 30000 | Value: $3,662,662,408.3 | Percent: 0.005334% | Link: https://www.sec.gov/Archives/edgar/data/1587067/000195004725008199/0001950047-25-008199.txt
+2025-10-27 20:46:14 | SHWED GIL | Officer | Shares: 66467 | Value: $12,750,000.0 | Percent: 0.058867% | Link: https://www.sec.gov/Archives/edgar/data/1218502/000197415825000068/0001974158-25-000068.txt
+2025-10-27 20:46:15 | SHWED GIL | Officer | Shares: 66467 | Value: $12,750,000.0 | Percent: 0.058867% | Link: https://www.sec.gov/Archives/edgar/data/1015922/000197415825000068/0001974158-25-000068.txt
+2025-10-27 20:46:17 | Robert I. Kauffman | Director | Shares: 15270 | Value: $169,802.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025046455/0001628280-25-046455.txt
+2025-10-27 20:46:18 | Robert I. Kauffman | Director | Shares: 15270 | Value: $169,802.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025046455/0001628280-25-046455.txt
