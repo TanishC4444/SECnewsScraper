@@ -5501,3 +5501,7 @@
 2025-10-27 16:52:44 | KRAUSE DOUGLAS PAUL | Officer | Shares: 10000 | Value: $1,024,300.0 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000194984625000540/0001949846-25-000540.txt
 2025-10-27 17:09:30 | Plusener S.A. | 10% Stockholder | Shares: 3835445 | Value: $3,788,601.81 | Percent: 0.253328% | Link: https://www.sec.gov/Archives/edgar/data/1767851/000114036125039413/0001140361-25-039413.txt
 2025-10-27 17:09:31 | Plusener S.A. | 10% Stockholder | Shares: 3835445 | Value: $3,788,601.81 | Percent: 0.253328% | Link: https://www.sec.gov/Archives/edgar/data/1717161/000114036125039413/0001140361-25-039413.txt
+2025-10-27 17:43:41 | CD Financial, LLC, William H. Milmoe, Manager | 10% Stockholder | Shares: 1092142 | Value: $67,274,947.2 | Percent: 0.423399% | Link: https://www.sec.gov/Archives/edgar/data/1443194/000182912625008437/0001829126-25-008437.txt
+2025-10-27 17:43:42 | CD Financial, LLC, William H. Milmoe, Manager | 10% Stockholder | Shares: 1092142 | Value: $67,274,947.2 | Percent: 0.423399% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000182912625008437/0001829126-25-008437.txt
+2025-10-27 17:43:43 | Harter Ava | Officer | Shares: 9010 | Value: $1,418,775.2 | Percent: 0.000717% | Link: https://www.sec.gov/Archives/edgar/data/1642415/000195917325006564/0001959173-25-006564.txt
+2025-10-27 17:43:44 | Harter Ava | Officer | Shares: 9010 | Value: $1,418,775.2 | Percent: 0.000717% | Link: https://www.sec.gov/Archives/edgar/data/707549/000195917325006564/0001959173-25-006564.txt
