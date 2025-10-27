@@ -7598,3 +7598,11 @@
 2025-10-27 12:49:57 | 8-K - Sunoco LP (0001552275) (Filer) | 2025-10-27T08:29:52-04:00 | https://www.sec.gov/Archives/edgar/data/1552275/000119312525250783/0001193125-25-250783.txt
 2025-10-27 12:49:59 | 8-K - GBank Financial Holdings Inc. (0001791145) (Filer) | 2025-10-27T08:27:35-04:00 | https://www.sec.gov/Archives/edgar/data/1791145/000119312525250781/0001193125-25-250781.txt
 2025-10-27 12:50:00 | 8-K - Coronado Global Resources Inc. (0001770561) (Filer) | 2025-10-27T08:23:42-04:00 | https://www.sec.gov/Archives/edgar/data/1770561/000110465925102339/0001104659-25-102339.txt
+2025-10-27 13:24:04 | 8-K - World Scan Project, Inc. (0001813744) (Filer) | 2025-10-27T09:21:33-04:00 | https://www.sec.gov/Archives/edgar/data/1813744/000181374425000022/0001813744-25-000022.txt
+2025-10-27 13:24:05 | 8-K - XTI Aerospace, Inc. (0001529113) (Filer) | 2025-10-27T09:21:09-04:00 | https://www.sec.gov/Archives/edgar/data/1529113/000121390025102373/0001213900-25-102373.txt
+2025-10-27 13:24:07 | 8-K - WRAP TECHNOLOGIES, INC. (0001702924) (Filer) | 2025-10-27T09:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1702924/000149315225019686/0001493152-25-019686.txt
+2025-10-27 13:24:08 | 8-K - Transcode Therapeutics, Inc. (0001829635) (Filer) | 2025-10-27T09:03:49-04:00 | https://www.sec.gov/Archives/edgar/data/1829635/000110465925102361/0001104659-25-102361.txt
+2025-10-27 13:24:10 | 8-K - Orchid Island Capital, Inc. (0001518621) (Filer) | 2025-10-27T09:02:52-04:00 | https://www.sec.gov/Archives/edgar/data/1518621/000110465925102360/0001104659-25-102360.txt
+2025-10-27 13:24:11 | 8-K - Farmers & Merchants Bancshares, Inc. (0001698022) (Filer) | 2025-10-27T09:00:52-04:00 | https://www.sec.gov/Archives/edgar/data/1698022/000143774925031752/0001437749-25-031752.txt
+2025-10-27 13:24:14 | 8-K - AIRWA INC. (0001674440) (Filer) | 2025-10-27T09:00:26-04:00 | https://www.sec.gov/Archives/edgar/data/1674440/000149315225019685/0001493152-25-019685.txt
+2025-10-27 13:24:15 | 8-K - IROBOT CORP (0001159167) (Filer) | 2025-10-27T09:00:22-04:00 | https://www.sec.gov/Archives/edgar/data/1159167/000115916725000080/0001159167-25-000080.txt
