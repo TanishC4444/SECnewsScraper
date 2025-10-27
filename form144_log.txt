@@ -5487,3 +5487,7 @@
 2025-10-27 14:22:47 | Lupica John J | Officer | Shares: 23698 | Value: $6,659,138.0 | Percent: 0.005944% | Link: https://www.sec.gov/Archives/edgar/data/896159/000195917325006557/0001959173-25-006557.txt
 2025-10-27 14:22:48 | Federico Peter J | Officer | Shares: 45798 | Value: $470,220.45 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1464523/000195917325006556/0001959173-25-006556.txt
 2025-10-27 14:22:49 | Federico Peter J | Officer | Shares: 45798 | Value: $470,220.45 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006556/0001959173-25-006556.txt
+2025-10-27 14:42:53 | BURKE JAMES A | Officer | Shares: 20473 | Value: $4,169,039.67 | Percent: 0.006042% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006560/0001959173-25-006560.txt
+2025-10-27 14:42:54 | BURKE JAMES A | Officer | Shares: 20473 | Value: $4,169,039.67 | Percent: 0.006042% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006560/0001959173-25-006560.txt
+2025-10-27 14:42:56 | EWALD STEPHEN P | Officer | Shares: 15230 | Value: $9,120,537.75 | Percent: 0.054068% | Link: https://www.sec.gov/Archives/edgar/data/1677297/000195917325006559/0001959173-25-006559.txt
+2025-10-27 14:42:57 | EWALD STEPHEN P | Officer | Shares: 15230 | Value: $9,120,537.75 | Percent: 0.054068% | Link: https://www.sec.gov/Archives/edgar/data/1668397/000195917325006559/0001959173-25-006559.txt
