@@ -5505,3 +5505,11 @@
 2025-10-27 17:43:42 | CD Financial, LLC, William H. Milmoe, Manager | 10% Stockholder | Shares: 1092142 | Value: $67,274,947.2 | Percent: 0.423399% | Link: https://www.sec.gov/Archives/edgar/data/1341766/000182912625008437/0001829126-25-008437.txt
 2025-10-27 17:43:43 | Harter Ava | Officer | Shares: 9010 | Value: $1,418,775.2 | Percent: 0.000717% | Link: https://www.sec.gov/Archives/edgar/data/1642415/000195917325006564/0001959173-25-006564.txt
 2025-10-27 17:43:44 | Harter Ava | Officer | Shares: 9010 | Value: $1,418,775.2 | Percent: 0.000717% | Link: https://www.sec.gov/Archives/edgar/data/707549/000195917325006564/0001959173-25-006564.txt
+2025-10-27 20:21:07 | Wood William David III | Officer | Shares: 6000 | Value: $693,298.02 | Percent: 0.021396% | Link: https://www.sec.gov/Archives/edgar/data/1820468/000195917325006571/0001959173-25-006571.txt
+2025-10-27 20:21:08 | Wood William David III | Officer | Shares: 6000 | Value: $693,298.02 | Percent: 0.021396% | Link: https://www.sec.gov/Archives/edgar/data/78749/000195917325006571/0001959173-25-006571.txt
+2025-10-27 20:21:09 | Begor Mark W | Officer | Shares: 49345 | Value: $11,404,110.96 | Percent: 0.040317% | Link: https://www.sec.gov/Archives/edgar/data/1335111/000195917325006570/0001959173-25-006570.txt
+2025-10-27 20:21:10 | Begor Mark W | Officer | Shares: 49345 | Value: $11,404,110.96 | Percent: 0.040317% | Link: https://www.sec.gov/Archives/edgar/data/33185/000195917325006570/0001959173-25-006570.txt
+2025-10-27 20:21:12 | CASPER MARC N | Officer | Shares: 7250 | Value: $4,104,237.84 | Percent: 0.001920% | Link: https://www.sec.gov/Archives/edgar/data/1216055/000195917325006569/0001959173-25-006569.txt
+2025-10-27 20:21:13 | CASPER MARC N | Officer | Shares: 7250 | Value: $4,104,237.84 | Percent: 0.001920% | Link: https://www.sec.gov/Archives/edgar/data/97745/000195917325006569/0001959173-25-006569.txt
+2025-10-27 20:21:15 | VARUN SIVARAM LIVING TRUST | Affiliate | Shares: 30000 | Value: $3,662,662,408.3 | Percent: 0.005334% | Link: https://www.sec.gov/Archives/edgar/data/1811414/000195004725008199/0001950047-25-008199.txt
+2025-10-27 20:21:16 | VARUN SIVARAM LIVING TRUST | Affiliate | Shares: 30000 | Value: $3,662,662,408.3 | Percent: 0.005334% | Link: https://www.sec.gov/Archives/edgar/data/1587067/000195004725008199/0001950047-25-008199.txt

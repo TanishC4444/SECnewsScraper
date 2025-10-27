@@ -7619,3 +7619,12 @@
 2025-10-27 18:17:21 | 8-K - Cocrystal Pharma, Inc. (0001412486) (Filer) | 2025-10-27T14:03:56-04:00 | https://www.sec.gov/Archives/edgar/data/1412486/000149315225019706/0001493152-25-019706.txt
 2025-10-27 18:45:18 | 8-K - Coronado Global Resources Inc. (0001770561) (Filer) | 2025-10-27T14:38:28-04:00 | https://www.sec.gov/Archives/edgar/data/1770561/000110465925102549/0001104659-25-102549.txt
 2025-10-27 19:48:26 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-27T15:43:05-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008445/0001829126-25-008445.txt
+2025-10-27 20:20:40 | 8-K - Piedmont Realty Trust, Inc. (0001042776) (Filer) | 2025-10-27T16:19:31-04:00 | https://www.sec.gov/Archives/edgar/data/1042776/000104277625000158/0001042776-25-000158.txt
+2025-10-27 20:20:41 | 8-K - Neuphoria Therapeutics Inc. (0001191070) (Filer) | 2025-10-27T16:19:05-04:00 | https://www.sec.gov/Archives/edgar/data/1191070/000121390025102607/0001213900-25-102607.txt
+2025-10-27 20:20:42 | 8-K - PROS Holdings, Inc. (0001392972) (Filer) | 2025-10-27T16:18:37-04:00 | https://www.sec.gov/Archives/edgar/data/1392972/000139297225000163/0001392972-25-000163.txt
+2025-10-27 20:20:45 | 8-K - SEACOAST BANKING CORP OF FLORIDA (0000730708) (Filer) | 2025-10-27T16:17:31-04:00 | https://www.sec.gov/Archives/edgar/data/730708/000073070825000210/0000730708-25-000210.txt
+2025-10-27 20:20:47 | 8-K - KILROY REALTY CORP (0001025996) (Filer) | 2025-10-27T16:17:23-04:00 | https://www.sec.gov/Archives/edgar/data/1025996/000162828025046429/0001628280-25-046429.txt
+2025-10-27 20:20:50 | 8-K - F5, INC. (0001048695) (Filer) | 2025-10-27T16:17:09-04:00 | https://www.sec.gov/Archives/edgar/data/1048695/000104869525000153/0001048695-25-000153.txt
+2025-10-27 20:20:51 | 8-K - AtlasClear Holdings, Inc. (0001963088) (Filer) | 2025-10-27T16:16:54-04:00 | https://www.sec.gov/Archives/edgar/data/1963088/000110465925102597/0001104659-25-102597.txt
+2025-10-27 20:20:53 | 8-K - HCA Healthcare, Inc. (0000860730) (Filer) | 2025-10-27T16:16:44-04:00 | https://www.sec.gov/Archives/edgar/data/860730/000119312525251612/0001193125-25-251612.txt
+2025-10-27 20:20:55 | 8-K - Ameris Bancorp (0000351569) (Filer) | 2025-10-27T16:16:34-04:00 | https://www.sec.gov/Archives/edgar/data/351569/000035156925000034/0000351569-25-000034.txt
