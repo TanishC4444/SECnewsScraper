@@ -5517,3 +5517,7 @@
 2025-10-27 20:46:15 | SHWED GIL | Officer | Shares: 66467 | Value: $12,750,000.0 | Percent: 0.058867% | Link: https://www.sec.gov/Archives/edgar/data/1015922/000197415825000068/0001974158-25-000068.txt
 2025-10-27 20:46:17 | Robert I. Kauffman | Director | Shares: 15270 | Value: $169,802.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1840776/000162828025046455/0001628280-25-046455.txt
 2025-10-27 20:46:18 | Robert I. Kauffman | Director | Shares: 15270 | Value: $169,802.0 | Percent: 0.016791% | Link: https://www.sec.gov/Archives/edgar/data/1124462/000162828025046455/0001628280-25-046455.txt
+2025-10-27 20:55:04 | David Fisher | Officer | Shares: 6000 | Value: $720,000.0 | Percent: 0.024192% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000162828025046462/0001628280-25-046462.txt
+2025-10-27 20:55:05 | David Fisher | Officer | Shares: 6000 | Value: $720,000.0 | Percent: 0.024192% | Link: https://www.sec.gov/Archives/edgar/data/1315224/000162828025046462/0001628280-25-046462.txt
+2025-10-27 20:55:07 | Corkrean John J | Officer | Shares: 14222 | Value: $857,765.0 | Percent: 0.026294% | Link: https://www.sec.gov/Archives/edgar/data/1431849/000192109425001293/0001921094-25-001293.txt
+2025-10-27 20:55:08 | Corkrean John J | Officer | Shares: 14222 | Value: $857,765.0 | Percent: 0.026294% | Link: https://www.sec.gov/Archives/edgar/data/39368/000192109425001293/0001921094-25-001293.txt
