@@ -5531,3 +5531,9 @@
 2025-10-27 21:14:09 | MPM Oncology Innovations Fund, L.P. | Shareholder | Shares: 28657 | Value: $50,722.89 | Percent: 0.062667% | Link: https://www.sec.gov/Archives/edgar/data/1719960/000162828025046470/0001628280-25-046470.txt
 2025-10-27 21:29:39 | JASON J BUNDICK | Officer | Shares: 20996 | Value: $399,749.14 | Percent: 0.029800% | Link: https://www.sec.gov/Archives/edgar/data/1594748/000195004725008214/0001950047-25-008214.txt
 2025-10-27 21:29:40 | JASON J BUNDICK | Officer | Shares: 20996 | Value: $399,749.14 | Percent: 0.029800% | Link: https://www.sec.gov/Archives/edgar/data/731012/000195004725008214/0001950047-25-008214.txt
+2025-10-27 21:40:48 | Digital Currency Group, Inc. | Affiliate | Shares: 5953 | Value: $9,405.74 | Percent: 0.052105% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000106/0001652536-25-000106.txt
+2025-10-27 21:40:50 | Digital Currency Group, Inc. | Affiliate | Shares: 8000 | Value: $64,530.4 | Percent: 0.032987% | Link: https://www.sec.gov/Archives/edgar/data/1732406/000165253625000107/0001652536-25-000107.txt
+2025-10-27 21:40:51 | Digital Currency Group, Inc. | Affiliate | Shares: 8000 | Value: $64,530.4 | Percent: 0.032987% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000107/0001652536-25-000107.txt
+2025-10-27 21:40:52 | Digital Currency Group, Inc. | Affiliate | Shares: 5953 | Value: $9,405.74 | Percent: 0.052105% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000106/0001652536-25-000106.txt
+2025-10-27 21:40:55 | Accardi Mario Alberto | Officer | Shares: 8000 | Value: $200,000.0 | Percent: 0.005967% | Link: https://www.sec.gov/Archives/edgar/data/2074392/000196922325000881/0001969223-25-000881.txt
+2025-10-27 21:40:56 | Accardi Mario Alberto | Officer | Shares: 8000 | Value: $200,000.0 | Percent: 0.005967% | Link: https://www.sec.gov/Archives/edgar/data/1847903/000196922325000881/0001969223-25-000881.txt
