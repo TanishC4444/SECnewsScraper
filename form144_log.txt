@@ -5493,3 +5493,5 @@
 2025-10-27 14:42:57 | EWALD STEPHEN P | Officer | Shares: 15230 | Value: $9,120,537.75 | Percent: 0.054068% | Link: https://www.sec.gov/Archives/edgar/data/1668397/000195917325006559/0001959173-25-006559.txt
 2025-10-27 14:56:05 | Zane Ellen M | Director | Shares: 9990 | Value: $1,008,081.0 | Percent: 0.000674% | Link: https://www.sec.gov/Archives/edgar/data/1369850/000195779925000219/0001957799-25-000219.txt
 2025-10-27 14:56:06 | Zane Ellen M | Director | Shares: 9990 | Value: $1,008,081.0 | Percent: 0.000674% | Link: https://www.sec.gov/Archives/edgar/data/885725/000195779925000219/0001957799-25-000219.txt
+2025-10-27 15:50:51 | Deboer Scott J | Director | Shares: 82000 | Value: $17,959,640.0 | Percent: 0.007321% | Link: https://www.sec.gov/Archives/edgar/data/1568238/000196530125000158/0001965301-25-000158.txt
+2025-10-27 15:50:52 | Deboer Scott J | Director | Shares: 82000 | Value: $17,959,640.0 | Percent: 0.007321% | Link: https://www.sec.gov/Archives/edgar/data/723125/000196530125000158/0001965301-25-000158.txt
