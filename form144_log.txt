@@ -5544,3 +5544,5 @@
 2025-10-27 21:59:13 | Lucian Bolda | Affiliate | Shares: 10314 | Value: $2,229,267.96 | Percent: 0.001625% | Link: https://www.sec.gov/Archives/edgar/data/773840/000196858225001015/0001968582-25-001015.txt
 2025-10-27 22:38:12 | Dirk A. Kempthorne | Director | Shares: 6505 | Value: $190,401.35 | Percent: 0.006394% | Link: https://www.sec.gov/Archives/edgar/data/1463021/000146302125000003/0001463021-25-000003.txt
 2025-10-27 22:38:13 | Dirk A. Kempthorne | Director | Shares: 6505 | Value: $190,401.35 | Percent: 0.006394% | Link: https://www.sec.gov/Archives/edgar/data/315213/000146302125000003/0001463021-25-000003.txt
+2025-10-27 22:47:34 | Baack Jerry J. | Officer | Shares: 77097 | Value: $1,344,571.0 | Percent: 0.280751% | Link: https://www.sec.gov/Archives/edgar/data/1733126/000196856425000005/0001968564-25-000005.txt
+2025-10-27 22:47:35 | Baack Jerry J. | Officer | Shares: 77097 | Value: $1,344,571.0 | Percent: 0.280751% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000005/0001968564-25-000005.txt
