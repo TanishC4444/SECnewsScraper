@@ -5483,3 +5483,7 @@
 2025-10-27 11:27:45 | ZHANG KAIFU | Director | Shares: 5155 | Value: $64,953.0 | Percent: 0.000839% | Link: https://www.sec.gov/Archives/edgar/data/1499620/000197337925000278/0001973379-25-000278.txt
 2025-10-27 11:27:46 | PENG ALEX ZHUANGZHUANG | Officer | Shares: 15294 | Value: $192,704.4 | Percent: 0.002488% | Link: https://www.sec.gov/Archives/edgar/data/1971327/000197337925000277/0001973379-25-000277.txt
 2025-10-27 11:27:47 | PENG ALEX ZHUANGZHUANG | Officer | Shares: 15294 | Value: $192,704.4 | Percent: 0.002488% | Link: https://www.sec.gov/Archives/edgar/data/1499620/000197337925000277/0001973379-25-000277.txt
+2025-10-27 14:22:46 | Lupica John J | Officer | Shares: 23698 | Value: $6,659,138.0 | Percent: 0.005944% | Link: https://www.sec.gov/Archives/edgar/data/1527836/000195917325006557/0001959173-25-006557.txt
+2025-10-27 14:22:47 | Lupica John J | Officer | Shares: 23698 | Value: $6,659,138.0 | Percent: 0.005944% | Link: https://www.sec.gov/Archives/edgar/data/896159/000195917325006557/0001959173-25-006557.txt
+2025-10-27 14:22:48 | Federico Peter J | Officer | Shares: 45798 | Value: $470,220.45 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1464523/000195917325006556/0001959173-25-006556.txt
+2025-10-27 14:22:49 | Federico Peter J | Officer | Shares: 45798 | Value: $470,220.45 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006556/0001959173-25-006556.txt
