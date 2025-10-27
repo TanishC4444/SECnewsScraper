@@ -7589,3 +7589,12 @@
 2025-10-27 11:39:45 | 8-K - THUMZUP MEDIA Corp (0001853825) (Filer) | 2025-10-27T07:30:23-04:00 | https://www.sec.gov/Archives/edgar/data/1853825/000149315225019513/0001493152-25-019513.txt
 2025-10-27 11:39:47 | 8-K - Galera Therapeutics, Inc. (0001563577) (Filer) | 2025-10-27T07:30:07-04:00 | https://www.sec.gov/Archives/edgar/data/1563577/000119312525250698/0001193125-25-250698.txt
 2025-10-27 11:39:49 | 8-K - Avidity Biosciences, Inc. (0001599901) (Filer) | 2025-10-27T07:28:55-04:00 | https://www.sec.gov/Archives/edgar/data/1599901/000119312525250696/0001193125-25-250696.txt
+2025-10-27 12:49:47 | 8-K - OMNIQ Corp. (0000278165) (Filer) | 2025-10-27T08:45:28-04:00 | https://www.sec.gov/Archives/edgar/data/278165/000117184325006671/0001171843-25-006671.txt
+2025-10-27 12:49:48 | 8-K - BITMINE IMMERSION TECHNOLOGIES, INC. (0001829311) (Filer) | 2025-10-27T08:40:54-04:00 | https://www.sec.gov/Archives/edgar/data/1829311/000149315225019644/0001493152-25-019644.txt
+2025-10-27 12:49:51 | 8-K - Citizens Community Bancorp Inc. (0001367859) (Filer) | 2025-10-27T08:36:38-04:00 | https://www.sec.gov/Archives/edgar/data/1367859/000136785925000082/0001367859-25-000082.txt
+2025-10-27 12:49:53 | 8-K - SELLAS Life Sciences Group, Inc. (0001390478) (Filer) | 2025-10-27T08:35:45-04:00 | https://www.sec.gov/Archives/edgar/data/1390478/000110465925102345/0001104659-25-102345.txt
+2025-10-27 12:49:54 | 8-K - Empery Digital Inc. (0001829794) (Filer) | 2025-10-27T08:30:48-04:00 | https://www.sec.gov/Archives/edgar/data/1829794/000168316825007778/0001683168-25-007778.txt
+2025-10-27 12:49:56 | 8-K - B&G Foods, Inc. (0001278027) (Filer) | 2025-10-27T08:30:43-04:00 | https://www.sec.gov/Archives/edgar/data/1278027/000110465925102342/0001104659-25-102342.txt
+2025-10-27 12:49:57 | 8-K - Sunoco LP (0001552275) (Filer) | 2025-10-27T08:29:52-04:00 | https://www.sec.gov/Archives/edgar/data/1552275/000119312525250783/0001193125-25-250783.txt
+2025-10-27 12:49:59 | 8-K - GBank Financial Holdings Inc. (0001791145) (Filer) | 2025-10-27T08:27:35-04:00 | https://www.sec.gov/Archives/edgar/data/1791145/000119312525250781/0001193125-25-250781.txt
+2025-10-27 12:50:00 | 8-K - Coronado Global Resources Inc. (0001770561) (Filer) | 2025-10-27T08:23:42-04:00 | https://www.sec.gov/Archives/edgar/data/1770561/000110465925102339/0001104659-25-102339.txt
