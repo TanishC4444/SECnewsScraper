@@ -7609,3 +7609,6 @@
 2025-10-27 13:48:11 | 8-K - Sow Good Inc. (0001490161) (Filer) | 2025-10-27T09:26:20-04:00 | https://www.sec.gov/Archives/edgar/data/1490161/000119312525250834/0001193125-25-250834.txt
 2025-10-27 14:56:02 | 8-K - STAAR SURGICAL CO (0000718937) (Filer) | 2025-10-27T10:52:58-04:00 | https://www.sec.gov/Archives/edgar/data/718937/000119312525250959/0001193125-25-250959.txt
 2025-10-27 15:50:49 | 8-K - First Northwest Bancorp (0001556727) (Filer) | 2025-10-27T11:41:36-04:00 | https://www.sec.gov/Archives/edgar/data/1556727/000143774925031763/0001437749-25-031763.txt
+2025-10-27 16:34:06 | 8-K - BANK OF HAWAII CORP (0000046195) (Filer) | 2025-10-27T12:03:48-04:00 | https://www.sec.gov/Archives/edgar/data/46195/000004619525000034/0000046195-25-000034.txt
+2025-10-27 16:34:08 | 8-K - General Motors Financial Company, Inc. (0000804269) (Filer) | 2025-10-27T12:02:12-04:00 | https://www.sec.gov/Archives/edgar/data/804269/000119312525251034/0001193125-25-251034.txt
+2025-10-27 16:34:09 | 8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer) | 2025-10-27T12:00:12-04:00 | https://www.sec.gov/Archives/edgar/data/1895249/000110465925102468/0001104659-25-102468.txt
