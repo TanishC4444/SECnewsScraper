@@ -7548,3 +7548,13 @@
 2025-10-24 21:30:43 | 8-K - BullFrog AI Holdings, Inc. (0001829247) (Filer) | 2025-10-24T17:21:02-04:00 | https://www.sec.gov/Archives/edgar/data/1829247/000149315225019360/0001493152-25-019360.txt
 2025-10-24 21:30:45 | 8-K - UPEXI, INC. (0001775194) (Filer) | 2025-10-24T17:20:56-04:00 | https://www.sec.gov/Archives/edgar/data/1775194/000147793225007749/0001477932-25-007749.txt
 2025-10-24 21:30:47 | 8-K - Vivos Therapeutics, Inc. (0001716166) (Filer) | 2025-10-24T17:20:50-04:00 | https://www.sec.gov/Archives/edgar/data/1716166/000149315225019359/0001493152-25-019359.txt
+2025-10-27 10:16:51 | 8-K - AmpliTech Group, Inc. (0001518461) (Filer) | 2025-10-27T06:16:02-04:00 | https://www.sec.gov/Archives/edgar/data/1518461/000149315225019392/0001493152-25-019392.txt
+2025-10-27 10:16:53 | 8-K - Volato Group, Inc. (0001853070) (Filer) | 2025-10-27T06:15:30-04:00 | https://www.sec.gov/Archives/edgar/data/1853070/000149315225019391/0001493152-25-019391.txt
+2025-10-27 10:16:55 | 8-K - TEAM INC (0000318833) (Filer) | 2025-10-27T06:13:27-04:00 | https://www.sec.gov/Archives/edgar/data/318833/000119312525250624/0001193125-25-250624.txt
+2025-10-27 10:16:57 | 8-K - Snowflake Inc. (0001640147) (Filer) | 2025-10-27T06:09:23-04:00 | https://www.sec.gov/Archives/edgar/data/1640147/000162828025046310/0001628280-25-046310.txt
+2025-10-27 10:16:59 | 8-K - Rise Gold Corp. (0001424864) (Filer) | 2025-10-27T06:07:24-04:00 | https://www.sec.gov/Archives/edgar/data/1424864/000106299325016291/0001062993-25-016291.txt
+2025-10-27 10:17:02 | 8-K - International Media Acquisition Corp. (0001846235) (Filer) | 2025-10-27T06:06:05-04:00 | https://www.sec.gov/Archives/edgar/data/1846235/000121390025102324/0001213900-25-102324.txt
+2025-10-27 10:17:03 | 8-K - Rani Therapeutics Holdings, Inc. (0001856725) (Filer) | 2025-10-27T06:03:21-04:00 | https://www.sec.gov/Archives/edgar/data/1856725/000119312525250614/0001193125-25-250614.txt
+2025-10-27 10:17:06 | 8-K - Phathom Pharmaceuticals, Inc. (0001783183) (Filer) | 2025-10-27T06:02:24-04:00 | https://www.sec.gov/Archives/edgar/data/1783183/000119312525250611/0001193125-25-250611.txt
+2025-10-27 10:17:08 | 8-K - Picard Medical, Inc. (0002030617) (Filer) | 2025-10-24T21:16:47-04:00 | https://www.sec.gov/Archives/edgar/data/2030617/000182912625008412/0001829126-25-008412.txt
+2025-10-27 10:17:10 | 8-K - Inhibitor Therapeutics, Inc. (0001042418) (Filer) | 2025-10-24T20:34:19-04:00 | https://www.sec.gov/Archives/edgar/data/1042418/000149315225019381/0001493152-25-019381.txt
