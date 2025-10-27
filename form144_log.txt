@@ -5497,3 +5497,5 @@
 2025-10-27 15:50:52 | Deboer Scott J | Director | Shares: 82000 | Value: $17,959,640.0 | Percent: 0.007321% | Link: https://www.sec.gov/Archives/edgar/data/723125/000196530125000158/0001965301-25-000158.txt
 2025-10-27 16:34:11 | Fendley Steven S. | Officer | Shares: 7000 | Value: $638,767.55 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1695434/000195917325006562/0001959173-25-006562.txt
 2025-10-27 16:34:12 | Fendley Steven S. | Officer | Shares: 7000 | Value: $638,767.55 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1069258/000195917325006562/0001959173-25-006562.txt
+2025-10-27 16:52:44 | KRAUSE DOUGLAS PAUL | Officer | Shares: 10000 | Value: $1,024,300.0 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1235499/000194984625000540/0001949846-25-000540.txt
+2025-10-27 16:52:44 | KRAUSE DOUGLAS PAUL | Officer | Shares: 10000 | Value: $1,024,300.0 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000194984625000540/0001949846-25-000540.txt
