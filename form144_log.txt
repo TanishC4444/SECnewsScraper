@@ -5529,3 +5529,5 @@
 2025-10-27 21:14:06 | UBS Oncology Impact Fund, L.P. | Shareholder | Shares: 107463 | Value: $190,209.51 | Percent: 0.235000% | Link: https://www.sec.gov/Archives/edgar/data/1691428/000162828025046471/0001628280-25-046471.txt
 2025-10-27 21:14:07 | MPM Oncology Innovations Fund, L.P. | Shareholder | Shares: 28657 | Value: $50,722.89 | Percent: 0.062667% | Link: https://www.sec.gov/Archives/edgar/data/1785530/000162828025046470/0001628280-25-046470.txt
 2025-10-27 21:14:09 | MPM Oncology Innovations Fund, L.P. | Shareholder | Shares: 28657 | Value: $50,722.89 | Percent: 0.062667% | Link: https://www.sec.gov/Archives/edgar/data/1719960/000162828025046470/0001628280-25-046470.txt
+2025-10-27 21:29:39 | JASON J BUNDICK | Officer | Shares: 20996 | Value: $399,749.14 | Percent: 0.029800% | Link: https://www.sec.gov/Archives/edgar/data/1594748/000195004725008214/0001950047-25-008214.txt
+2025-10-27 21:29:40 | JASON J BUNDICK | Officer | Shares: 20996 | Value: $399,749.14 | Percent: 0.029800% | Link: https://www.sec.gov/Archives/edgar/data/731012/000195004725008214/0001950047-25-008214.txt
