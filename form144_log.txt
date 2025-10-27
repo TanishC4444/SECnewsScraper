@@ -5537,3 +5537,6 @@
 2025-10-27 21:40:52 | Digital Currency Group, Inc. | Affiliate | Shares: 5953 | Value: $9,405.74 | Percent: 0.052105% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000106/0001652536-25-000106.txt
 2025-10-27 21:40:55 | Accardi Mario Alberto | Officer | Shares: 8000 | Value: $200,000.0 | Percent: 0.005967% | Link: https://www.sec.gov/Archives/edgar/data/2074392/000196922325000881/0001969223-25-000881.txt
 2025-10-27 21:40:56 | Accardi Mario Alberto | Officer | Shares: 8000 | Value: $200,000.0 | Percent: 0.005967% | Link: https://www.sec.gov/Archives/edgar/data/1847903/000196922325000881/0001969223-25-000881.txt
+2025-10-27 21:50:13 | DCG International Investments Ltd | Affiliate | Shares: 7100 | Value: $103,853.12 | Percent: 0.098188% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000308/0001977454-25-000308.txt
+2025-10-27 21:50:16 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $669,169.2 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000306/0001977454-25-000306.txt
+2025-10-27 21:50:18 | DCG International Investments Ltd | Affiliate | Shares: 45000 | Value: $196,600.5 | Percent: 0.095494% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000303/0001977454-25-000303.txt
