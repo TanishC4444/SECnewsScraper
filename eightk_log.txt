@@ -7618,3 +7618,4 @@
 2025-10-27 17:09:28 | 8-K - FOCUS UNIVERSAL INC. (0001590418) (Filer) | 2025-10-27T13:07:50-04:00 | https://www.sec.gov/Archives/edgar/data/1590418/000168316825007784/0001683168-25-007784.txt
 2025-10-27 18:17:21 | 8-K - Cocrystal Pharma, Inc. (0001412486) (Filer) | 2025-10-27T14:03:56-04:00 | https://www.sec.gov/Archives/edgar/data/1412486/000149315225019706/0001493152-25-019706.txt
 2025-10-27 18:45:18 | 8-K - Coronado Global Resources Inc. (0001770561) (Filer) | 2025-10-27T14:38:28-04:00 | https://www.sec.gov/Archives/edgar/data/1770561/000110465925102549/0001104659-25-102549.txt
+2025-10-27 19:48:26 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-27T15:43:05-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008445/0001829126-25-008445.txt
