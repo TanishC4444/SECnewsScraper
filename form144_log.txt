@@ -5499,3 +5499,5 @@
 2025-10-27 16:34:12 | Fendley Steven S. | Officer | Shares: 7000 | Value: $638,767.55 | Percent: 0.001041% | Link: https://www.sec.gov/Archives/edgar/data/1069258/000195917325006562/0001959173-25-006562.txt
 2025-10-27 16:52:44 | KRAUSE DOUGLAS PAUL | Officer | Shares: 10000 | Value: $1,024,300.0 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1235499/000194984625000540/0001949846-25-000540.txt
 2025-10-27 16:52:44 | KRAUSE DOUGLAS PAUL | Officer | Shares: 10000 | Value: $1,024,300.0 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1069157/000194984625000540/0001949846-25-000540.txt
+2025-10-27 17:09:30 | Plusener S.A. | 10% Stockholder | Shares: 3835445 | Value: $3,788,601.81 | Percent: 0.253328% | Link: https://www.sec.gov/Archives/edgar/data/1767851/000114036125039413/0001140361-25-039413.txt
+2025-10-27 17:09:31 | Plusener S.A. | 10% Stockholder | Shares: 3835445 | Value: $3,788,601.81 | Percent: 0.253328% | Link: https://www.sec.gov/Archives/edgar/data/1717161/000114036125039413/0001140361-25-039413.txt
