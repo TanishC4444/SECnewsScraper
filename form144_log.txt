@@ -5542,3 +5542,5 @@
 2025-10-27 21:50:18 | DCG International Investments Ltd | Affiliate | Shares: 45000 | Value: $196,600.5 | Percent: 0.095494% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000303/0001977454-25-000303.txt
 2025-10-27 21:59:12 | Lucian Bolda | Affiliate | Shares: 10314 | Value: $2,229,267.96 | Percent: 0.001625% | Link: https://www.sec.gov/Archives/edgar/data/1679130/000196858225001015/0001968582-25-001015.txt
 2025-10-27 21:59:13 | Lucian Bolda | Affiliate | Shares: 10314 | Value: $2,229,267.96 | Percent: 0.001625% | Link: https://www.sec.gov/Archives/edgar/data/773840/000196858225001015/0001968582-25-001015.txt
+2025-10-27 22:38:12 | Dirk A. Kempthorne | Director | Shares: 6505 | Value: $190,401.35 | Percent: 0.006394% | Link: https://www.sec.gov/Archives/edgar/data/1463021/000146302125000003/0001463021-25-000003.txt
+2025-10-27 22:38:13 | Dirk A. Kempthorne | Director | Shares: 6505 | Value: $190,401.35 | Percent: 0.006394% | Link: https://www.sec.gov/Archives/edgar/data/315213/000146302125000003/0001463021-25-000003.txt
