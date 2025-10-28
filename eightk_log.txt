@@ -7755,3 +7755,5 @@
 2025-10-28 17:34:29 | 8-K - Tectonic Financial, Inc. (0001766526) (Filer) | 2025-10-28T13:31:32-04:00 | https://www.sec.gov/Archives/edgar/data/1766526/000118518525001549/0001185185-25-001549.txt
 2025-10-28 17:55:56 | 8-K - Federal Home Loan Bank of New York (0001329842) (Filer) | 2025-10-28T13:49:02-04:00 | https://www.sec.gov/Archives/edgar/data/1329842/000165495425012280/0001654954-25-012280.txt
 2025-10-28 18:27:27 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-28T13:56:26-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000252/0001331465-25-000252.txt
+2025-10-28 18:52:57 | 8-K - Forestar Group Inc. (0001406587) (Filer) | 2025-10-28T14:51:49-04:00 | https://www.sec.gov/Archives/edgar/data/1406587/000140658725000081/0001406587-25-000081.txt
+2025-10-28 18:52:59 | 8-K - QNB CORP. (0000750558) (Filer) | 2025-10-28T14:29:21-04:00 | https://www.sec.gov/Archives/edgar/data/750558/000119312525253230/0001193125-25-253230.txt
