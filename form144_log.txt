@@ -5582,3 +5582,11 @@
 2025-10-28 20:18:04 | HASTINGS CHUCK | Director | Shares: 200000 | Value: $7,016,000.0 | Percent: 0.071509% | Link: https://www.sec.gov/Archives/edgar/data/1144879/000194984625000546/0001949846-25-000546.txt
 2025-10-28 20:18:06 | ANDREW MEYER | Officer | Shares: 16665 | Value: $455,787.75 | Percent: 0.027732% | Link: https://www.sec.gov/Archives/edgar/data/1864159/000195004725008226/0001950047-25-008226.txt
 2025-10-28 20:18:07 | ANDREW MEYER | Officer | Shares: 16665 | Value: $455,787.75 | Percent: 0.027732% | Link: https://www.sec.gov/Archives/edgar/data/1817713/000195004725008226/0001950047-25-008226.txt
+2025-10-28 20:39:04 | SCHULZE RICHARD M | 10% Stockholder | Shares: 92293 | Value: $7,649,243.84 | Percent: 0.043928% | Link: https://www.sec.gov/Archives/edgar/data/1006394/000196794025000080/0001967940-25-000080.txt
+2025-10-28 20:39:05 | SCHULZE RICHARD M | 10% Stockholder | Shares: 92293 | Value: $7,649,243.84 | Percent: 0.043928% | Link: https://www.sec.gov/Archives/edgar/data/764478/000196794025000080/0001967940-25-000080.txt
+2025-10-28 20:39:10 | GREG ZANTE | Officer | Shares: 6185 | Value: $216,530.67 | Percent: 0.005472% | Link: https://www.sec.gov/Archives/edgar/data/1607678/000195004725008235/0001950047-25-008235.txt
+2025-10-28 20:39:11 | GREG ZANTE | Officer | Shares: 6185 | Value: $216,530.67 | Percent: 0.005472% | Link: https://www.sec.gov/Archives/edgar/data/1264949/000195004725008235/0001950047-25-008235.txt
+2025-10-28 20:39:12 | MARIANNA MANCINI | Officer | Shares: 6185 | Value: $216,491.7 | Percent: 0.005472% | Link: https://www.sec.gov/Archives/edgar/data/1838112/000195004725008234/0001950047-25-008234.txt
+2025-10-28 20:39:12 | MARIANNA MANCINI | Officer | Shares: 6185 | Value: $216,491.7 | Percent: 0.005472% | Link: https://www.sec.gov/Archives/edgar/data/1607678/000195004725008234/0001950047-25-008234.txt
+2025-10-28 20:39:14 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $4,888,536.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001296/0001921094-25-001296.txt
+2025-10-28 20:39:15 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $4,888,536.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001296/0001921094-25-001296.txt
