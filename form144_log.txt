@@ -5610,3 +5610,5 @@
 2025-10-28 21:25:14 | MOHAMMAD SAIDAL MOHMAND | Officer | Shares: 37503 | Value: $1,371,113.43 | Percent: 0.013409% | Link: https://www.sec.gov/Archives/edgar/data/1144879/000149315225019906/0001493152-25-019906.txt
 2025-10-28 21:37:16 | ANDREW KUSH | Officer | Shares: 28612 | Value: $547,270.31 | Percent: 0.040610% | Link: https://www.sec.gov/Archives/edgar/data/1704092/000195004725008238/0001950047-25-008238.txt
 2025-10-28 21:37:17 | ANDREW KUSH | Officer | Shares: 28612 | Value: $547,270.31 | Percent: 0.040610% | Link: https://www.sec.gov/Archives/edgar/data/731012/000195004725008238/0001950047-25-008238.txt
+2025-10-28 21:56:01 | DANIEL ODAY | Officer | Shares: 10000 | Value: $1,193,926.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/1638643/000195004725008239/0001950047-25-008239.txt
+2025-10-28 21:56:02 | DANIEL ODAY | Officer | Shares: 10000 | Value: $1,193,926.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/882095/000195004725008239/0001950047-25-008239.txt
