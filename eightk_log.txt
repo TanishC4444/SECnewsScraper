@@ -7729,3 +7729,4 @@
 2025-10-28 13:23:42 | 8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer) | 2025-10-28T09:07:19-04:00 | https://www.sec.gov/Archives/edgar/data/1405513/000110465925102920/0001104659-25-102920.txt
 2025-10-28 13:23:45 | 8-K - Celanese Corp (0001306830) (Filer) | 2025-10-28T09:03:15-04:00 | https://www.sec.gov/Archives/edgar/data/1306830/000130683025000203/0001306830-25-000203.txt
 2025-10-28 13:23:46 | 8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer) | 2025-10-28T09:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1405528/000110465925102915/0001104659-25-102915.txt
+2025-10-28 13:46:09 | 8-K - Celularity Inc (0001752828) (Filer) | 2025-10-28T09:29:43-04:00 | https://www.sec.gov/Archives/edgar/data/1752828/000149315225019839/0001493152-25-019839.txt
