@@ -5612,3 +5612,5 @@
 2025-10-28 21:37:17 | ANDREW KUSH | Officer | Shares: 28612 | Value: $547,270.31 | Percent: 0.040610% | Link: https://www.sec.gov/Archives/edgar/data/731012/000195004725008238/0001950047-25-008238.txt
 2025-10-28 21:56:01 | DANIEL ODAY | Officer | Shares: 10000 | Value: $1,193,926.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/1638643/000195004725008239/0001950047-25-008239.txt
 2025-10-28 21:56:02 | DANIEL ODAY | Officer | Shares: 10000 | Value: $1,193,926.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/882095/000195004725008239/0001950047-25-008239.txt
+2025-10-28 22:17:10 | THOMAS FITZPATRICK | Director | Shares: 6797 | Value: $122,375.23 | Percent: 0.006489% | Link: https://www.sec.gov/Archives/edgar/data/1418819/000195004725008240/0001950047-25-008240.txt
+2025-10-28 22:17:11 | THOMAS FITZPATRICK | Director | Shares: 6797 | Value: $122,375.23 | Percent: 0.006489% | Link: https://www.sec.gov/Archives/edgar/data/1229996/000195004725008240/0001950047-25-008240.txt
