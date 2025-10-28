@@ -5554,3 +5554,7 @@
 2025-10-28 12:52:53 | Baruch Niran | Officer | Shares: 5625 | Value: $50,906.25 | Percent: 0.018439% | Link: https://www.sec.gov/Archives/edgar/data/1086434/000197640825000339/0001976408-25-000339.txt
 2025-10-28 12:52:54 | Aldema Lior | Officer | Shares: 8439 | Value: $76,372.95 | Percent: 0.027663% | Link: https://www.sec.gov/Archives/edgar/data/1973170/000197640825000338/0001976408-25-000338.txt
 2025-10-28 12:52:55 | Aldema Lior | Officer | Shares: 8439 | Value: $76,372.95 | Percent: 0.027663% | Link: https://www.sec.gov/Archives/edgar/data/1086434/000197640825000338/0001976408-25-000338.txt
+2025-10-28 13:56:04 | GUILLET EDWARD E | Director | Shares: 9000 | Value: $1,573,020.0 | Percent: 0.003515% | Link: https://www.sec.gov/Archives/edgar/data/1318220/000195917325006577/0001959173-25-006577.txt
+2025-10-28 13:56:05 | GUILLET EDWARD E | Director | Shares: 9000 | Value: $1,573,020.0 | Percent: 0.003515% | Link: https://www.sec.gov/Archives/edgar/data/1203079/000195917325006577/0001959173-25-006577.txt
+2025-10-28 13:56:06 | Federico Peter J | Officer | Shares: 45798 | Value: $471,607.95 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1464523/000195917325006576/0001959173-25-006576.txt
+2025-10-28 13:56:07 | Federico Peter J | Officer | Shares: 45798 | Value: $471,607.95 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006576/0001959173-25-006576.txt
