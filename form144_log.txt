@@ -5558,3 +5558,5 @@
 2025-10-28 13:56:05 | GUILLET EDWARD E | Director | Shares: 9000 | Value: $1,573,020.0 | Percent: 0.003515% | Link: https://www.sec.gov/Archives/edgar/data/1203079/000195917325006577/0001959173-25-006577.txt
 2025-10-28 13:56:06 | Federico Peter J | Officer | Shares: 45798 | Value: $471,607.95 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1464523/000195917325006576/0001959173-25-006576.txt
 2025-10-28 13:56:07 | Federico Peter J | Officer | Shares: 45798 | Value: $471,607.95 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006576/0001959173-25-006576.txt
+2025-10-28 15:15:28 | Sofinnova Crossover I SLP | Affiliate | Shares: 1200000 | Value: $111,300,000.0 | Percent: 1.542416% | Link: https://www.sec.gov/Archives/edgar/data/1956827/000110465925102990/0001104659-25-102990.txt
+2025-10-28 15:15:29 | Sofinnova Crossover I SLP | Affiliate | Shares: 1200000 | Value: $111,300,000.0 | Percent: 1.542416% | Link: https://www.sec.gov/Archives/edgar/data/1845105/000110465925102990/0001104659-25-102990.txt
