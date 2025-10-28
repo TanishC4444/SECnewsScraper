@@ -7757,3 +7757,4 @@
 2025-10-28 18:27:27 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-10-28T13:56:26-04:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000252/0001331465-25-000252.txt
 2025-10-28 18:52:57 | 8-K - Forestar Group Inc. (0001406587) (Filer) | 2025-10-28T14:51:49-04:00 | https://www.sec.gov/Archives/edgar/data/1406587/000140658725000081/0001406587-25-000081.txt
 2025-10-28 18:52:59 | 8-K - QNB CORP. (0000750558) (Filer) | 2025-10-28T14:29:21-04:00 | https://www.sec.gov/Archives/edgar/data/750558/000119312525253230/0001193125-25-253230.txt
+2025-10-28 19:08:11 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-10-28T14:57:50-04:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000201/0001325814-25-000201.txt
