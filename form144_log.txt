@@ -5560,3 +5560,7 @@
 2025-10-28 13:56:07 | Federico Peter J | Officer | Shares: 45798 | Value: $471,607.95 | Percent: 0.004396% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006576/0001959173-25-006576.txt
 2025-10-28 15:15:28 | Sofinnova Crossover I SLP | Affiliate | Shares: 1200000 | Value: $111,300,000.0 | Percent: 1.542416% | Link: https://www.sec.gov/Archives/edgar/data/1956827/000110465925102990/0001104659-25-102990.txt
 2025-10-28 15:15:29 | Sofinnova Crossover I SLP | Affiliate | Shares: 1200000 | Value: $111,300,000.0 | Percent: 1.542416% | Link: https://www.sec.gov/Archives/edgar/data/1845105/000110465925102990/0001104659-25-102990.txt
+2025-10-28 15:37:03 | Shah Niraj | Officer | Shares: 11000 | Value: $1,100,000.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1620093/000195917325006580/0001959173-25-006580.txt
+2025-10-28 15:37:04 | Shah Niraj | Officer | Shares: 11000 | Value: $1,100,000.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006580/0001959173-25-006580.txt
+2025-10-28 15:37:05 | Conine Steven | Officer | Shares: 11000 | Value: $1,100,000.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1620052/000195917325006579/0001959173-25-006579.txt
+2025-10-28 15:37:07 | Conine Steven | Officer | Shares: 11000 | Value: $1,100,000.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006579/0001959173-25-006579.txt
