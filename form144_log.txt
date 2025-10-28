@@ -5590,3 +5590,7 @@
 2025-10-28 20:39:12 | MARIANNA MANCINI | Officer | Shares: 6185 | Value: $216,491.7 | Percent: 0.005472% | Link: https://www.sec.gov/Archives/edgar/data/1607678/000195004725008234/0001950047-25-008234.txt
 2025-10-28 20:39:14 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $4,888,536.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001296/0001921094-25-001296.txt
 2025-10-28 20:39:15 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $4,888,536.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001296/0001921094-25-001296.txt
+2025-10-28 20:51:31 | Digital Currency Group, Inc. | Affiliate | Shares: 5953 | Value: $8,512.79 | Percent: 0.052105% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000110/0001652536-25-000110.txt
+2025-10-28 20:51:32 | Digital Currency Group, Inc. | Affiliate | Shares: 5953 | Value: $8,512.79 | Percent: 0.052105% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000110/0001652536-25-000110.txt
+2025-10-28 20:51:34 | Navajo Transitional Energy Company, LLC | 10% Stockholder | Shares: 750000 | Value: $862,500.0 | Percent: 0.946542% | Link: https://www.sec.gov/Archives/edgar/data/1785185/000196794025000081/0001967940-25-000081.txt
+2025-10-28 20:51:35 | Navajo Transitional Energy Company, LLC | 10% Stockholder | Shares: 750000 | Value: $862,500.0 | Percent: 0.946542% | Link: https://www.sec.gov/Archives/edgar/data/1445942/000196794025000081/0001967940-25-000081.txt
