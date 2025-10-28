@@ -5604,3 +5604,7 @@
 2025-10-28 21:01:14 | OCAMPO SUSAN | 10% Stockholder | Shares: 124515 | Value: $18,413,278.0 | Percent: 0.167199% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000547/0001949846-25-000547.txt
 2025-10-28 21:01:15 | Ragosa Mark | Officer | Shares: 20000 | Value: $820,000.0 | Percent: 0.046006% | Link: https://www.sec.gov/Archives/edgar/data/1835458/000192109425001298/0001921094-25-001298.txt
 2025-10-28 21:01:16 | Ragosa Mark | Officer | Shares: 20000 | Value: $820,000.0 | Percent: 0.046006% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001298/0001921094-25-001298.txt
+2025-10-28 21:25:10 | RA Capital Nexus Fund III, L.P. | Director | Shares: 17118 | Value: $675,305.1 | Percent: 0.038781% | Link: https://www.sec.gov/Archives/edgar/data/2036042/000117893725000058/0001178937-25-000058.txt
+2025-10-28 21:25:11 | RA Capital Nexus Fund III, L.P. | Director | Shares: 17118 | Value: $675,305.1 | Percent: 0.038781% | Link: https://www.sec.gov/Archives/edgar/data/1883840/000117893725000058/0001178937-25-000058.txt
+2025-10-28 21:25:13 | MOHAMMAD SAIDAL MOHMAND | Officer | Shares: 37503 | Value: $1,371,113.43 | Percent: 0.013409% | Link: https://www.sec.gov/Archives/edgar/data/2041154/000149315225019906/0001493152-25-019906.txt
+2025-10-28 21:25:14 | MOHAMMAD SAIDAL MOHMAND | Officer | Shares: 37503 | Value: $1,371,113.43 | Percent: 0.013409% | Link: https://www.sec.gov/Archives/edgar/data/1144879/000149315225019906/0001493152-25-019906.txt
