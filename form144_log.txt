@@ -5548,3 +5548,9 @@
 2025-10-27 22:47:35 | Baack Jerry J. | Officer | Shares: 77097 | Value: $1,344,571.0 | Percent: 0.280751% | Link: https://www.sec.gov/Archives/edgar/data/1341317/000196856425000005/0001968564-25-000005.txt
 2025-10-28 02:01:01 | Oaktree Value Opportunities Fund Holdings, L.P. | Owner | Shares: 6000000 | Value: $101,940,000.0 | Percent: 3.085110% | Link: https://www.sec.gov/Archives/edgar/data/1735707/000114036125039511/0001140361-25-039511.txt
 2025-10-28 02:01:02 | Oaktree Value Opportunities Fund Holdings, L.P. | Owner | Shares: 6000000 | Value: $101,940,000.0 | Percent: 3.085110% | Link: https://www.sec.gov/Archives/edgar/data/1474241/000114036125039511/0001140361-25-039511.txt
+2025-10-28 12:52:50 | Miller Tali | Officer | Shares: 15948 | Value: $18,978.12 | Percent: 0.081873% | Link: https://www.sec.gov/Archives/edgar/data/1984693/000197640825000340/0001976408-25-000340.txt
+2025-10-28 12:52:51 | Miller Tali | Officer | Shares: 15948 | Value: $18,978.12 | Percent: 0.081873% | Link: https://www.sec.gov/Archives/edgar/data/1843588/000197640825000340/0001976408-25-000340.txt
+2025-10-28 12:52:52 | Baruch Niran | Officer | Shares: 5625 | Value: $50,906.25 | Percent: 0.018439% | Link: https://www.sec.gov/Archives/edgar/data/1968522/000197640825000339/0001976408-25-000339.txt
+2025-10-28 12:52:53 | Baruch Niran | Officer | Shares: 5625 | Value: $50,906.25 | Percent: 0.018439% | Link: https://www.sec.gov/Archives/edgar/data/1086434/000197640825000339/0001976408-25-000339.txt
+2025-10-28 12:52:54 | Aldema Lior | Officer | Shares: 8439 | Value: $76,372.95 | Percent: 0.027663% | Link: https://www.sec.gov/Archives/edgar/data/1973170/000197640825000338/0001976408-25-000338.txt
+2025-10-28 12:52:55 | Aldema Lior | Officer | Shares: 8439 | Value: $76,372.95 | Percent: 0.027663% | Link: https://www.sec.gov/Archives/edgar/data/1086434/000197640825000338/0001976408-25-000338.txt
