@@ -5566,3 +5566,5 @@
 2025-10-28 15:37:07 | Conine Steven | Officer | Shares: 11000 | Value: $1,100,000.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006579/0001959173-25-006579.txt
 2025-10-28 16:35:52 | Stewart Brady J. | Former Officer | Shares: 31903 | Value: $1,656,694.08 | Percent: 0.011164% | Link: https://www.sec.gov/Archives/edgar/data/1961495/000195917325006582/0001959173-25-006582.txt
 2025-10-28 16:35:53 | Stewart Brady J. | Former Officer | Shares: 31903 | Value: $1,656,694.08 | Percent: 0.011164% | Link: https://www.sec.gov/Archives/edgar/data/100493/000195917325006582/0001959173-25-006582.txt
+2025-10-28 17:14:17 | Joseph Konowiecki | Director | Shares: 25000 | Value: $450,000.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000162828025046669/0001628280-25-046669.txt
+2025-10-28 17:14:18 | Joseph Konowiecki | Director | Shares: 25000 | Value: $450,000.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1209523/000162828025046669/0001628280-25-046669.txt
