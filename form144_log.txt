@@ -5568,3 +5568,9 @@
 2025-10-28 16:35:53 | Stewart Brady J. | Former Officer | Shares: 31903 | Value: $1,656,694.08 | Percent: 0.011164% | Link: https://www.sec.gov/Archives/edgar/data/100493/000195917325006582/0001959173-25-006582.txt
 2025-10-28 17:14:17 | Joseph Konowiecki | Director | Shares: 25000 | Value: $450,000.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1832466/000162828025046669/0001628280-25-046669.txt
 2025-10-28 17:14:18 | Joseph Konowiecki | Director | Shares: 25000 | Value: $450,000.0 | Percent: 0.012624% | Link: https://www.sec.gov/Archives/edgar/data/1209523/000162828025046669/0001628280-25-046669.txt
+2025-10-28 17:34:31 | Tim Hingtgen | former CEO | Shares: 532813 | Value: $2,226,625.0 | Percent: 0.384648% | Link: https://www.sec.gov/Archives/edgar/data/1598637/000196922325000882/0001969223-25-000882.txt
+2025-10-28 17:34:32 | Tim Hingtgen | former CEO | Shares: 532813 | Value: $2,226,625.0 | Percent: 0.384648% | Link: https://www.sec.gov/Archives/edgar/data/1108109/000196922325000882/0001969223-25-000882.txt
+2025-10-28 17:34:34 | Klein Michael Frederick | Officer | Shares: 8572 | Value: $2,320,728.19 | Percent: 0.003843% | Link: https://www.sec.gov/Archives/edgar/data/1689571/000195917325006583/0001959173-25-006583.txt
+2025-10-28 17:34:34 | Klein Michael Frederick | Officer | Shares: 8572 | Value: $2,320,728.19 | Percent: 0.003843% | Link: https://www.sec.gov/Archives/edgar/data/86312/000195917325006583/0001959173-25-006583.txt
+2025-10-28 17:34:36 | Schwab Charles R. | Officer | Shares: 64400 | Value: $6,053,600.0 | Percent: 0.003548% | Link: https://www.sec.gov/Archives/edgar/data/923738/000194984625000545/0001949846-25-000545.txt
+2025-10-28 17:34:37 | Schwab Charles R. | Officer | Shares: 64400 | Value: $6,053,600.0 | Percent: 0.003548% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000545/0001949846-25-000545.txt

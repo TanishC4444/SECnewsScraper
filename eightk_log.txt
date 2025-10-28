@@ -7752,3 +7752,4 @@
 2025-10-28 16:54:35 | 8-K - HPS Corporate Capital Solutions Fund (0001989817) (Filer) | 2025-10-28T12:38:54-04:00 | https://www.sec.gov/Archives/edgar/data/1989817/000198981725000073/0001989817-25-000073.txt
 2025-10-28 17:14:14 | 8-K - ARtelligence Holdings, Inc. (0001389067) (Filer) | 2025-10-28T13:07:43-04:00 | https://www.sec.gov/Archives/edgar/data/1389067/000147793225007765/0001477932-25-007765.txt
 2025-10-28 17:14:14 | 8-K - HPS Corporate Lending Fund (0001838126) (Filer) | 2025-10-28T13:03:21-04:00 | https://www.sec.gov/Archives/edgar/data/1838126/000183812625000061/0001838126-25-000061.txt
+2025-10-28 17:34:29 | 8-K - Tectonic Financial, Inc. (0001766526) (Filer) | 2025-10-28T13:31:32-04:00 | https://www.sec.gov/Archives/edgar/data/1766526/000118518525001549/0001185185-25-001549.txt
