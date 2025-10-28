@@ -5578,3 +5578,7 @@
 2025-10-28 18:27:31 | Mertz Elinor | Officer | Shares: 7500 | Value: $975,000.0 | Percent: 0.001748% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006586/0001959173-25-006586.txt
 2025-10-28 19:36:40 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 13745 | Value: $1,291.0 | Percent: 0.006032% | Link: https://www.sec.gov/Archives/edgar/data/1918043/000182372025000004/0001823720-25-000004.txt
 2025-10-28 19:36:41 | Crescat Portfolio Management LLC | 10% Stockholder | Shares: 13745 | Value: $1,291.0 | Percent: 0.006032% | Link: https://www.sec.gov/Archives/edgar/data/1823720/000182372025000004/0001823720-25-000004.txt
+2025-10-28 20:18:02 | HASTINGS CHUCK | Director | Shares: 200000 | Value: $7,016,000.0 | Percent: 0.071509% | Link: https://www.sec.gov/Archives/edgar/data/1899880/000194984625000546/0001949846-25-000546.txt
+2025-10-28 20:18:04 | HASTINGS CHUCK | Director | Shares: 200000 | Value: $7,016,000.0 | Percent: 0.071509% | Link: https://www.sec.gov/Archives/edgar/data/1144879/000194984625000546/0001949846-25-000546.txt
+2025-10-28 20:18:06 | ANDREW MEYER | Officer | Shares: 16665 | Value: $455,787.75 | Percent: 0.027732% | Link: https://www.sec.gov/Archives/edgar/data/1864159/000195004725008226/0001950047-25-008226.txt
+2025-10-28 20:18:07 | ANDREW MEYER | Officer | Shares: 16665 | Value: $455,787.75 | Percent: 0.027732% | Link: https://www.sec.gov/Archives/edgar/data/1817713/000195004725008226/0001950047-25-008226.txt

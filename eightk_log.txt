@@ -7763,3 +7763,12 @@
 2025-10-28 19:45:39 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-10-28T15:41:20-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000226/0001325878-25-000226.txt
 2025-10-28 19:54:48 | 8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer) | 2025-10-28T15:53:42-04:00 | https://www.sec.gov/Archives/edgar/data/1950803/000119312525253439/0001193125-25-253439.txt
 2025-10-28 19:54:48 | 8-K - MADE IN USA INC. (0001977837) (Filer) | 2025-10-28T15:47:03-04:00 | https://www.sec.gov/Archives/edgar/data/1977837/000168316825007806/0001683168-25-007806.txt
+2025-10-28 20:17:46 | 8-K - Community Healthcare Trust Inc (0001631569) (Filer) | 2025-10-28T16:16:43-04:00 | https://www.sec.gov/Archives/edgar/data/1631569/000163156925000092/0001631569-25-000092.txt
+2025-10-28 20:17:49 | 8-K - INGLES MARKETS INC (0000050493) (Filer) | 2025-10-28T16:16:19-04:00 | https://www.sec.gov/Archives/edgar/data/50493/000143774925031973/0001437749-25-031973.txt
+2025-10-28 20:17:51 | 8-K - InvenTrust Properties Corp. (0001307748) (Filer) | 2025-10-28T16:15:58-04:00 | https://www.sec.gov/Archives/edgar/data/1307748/000130774825000181/0001307748-25-000181.txt
+2025-10-28 20:17:52 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-10-28T16:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125039596/0001140361-25-039596.txt
+2025-10-28 20:17:54 | 8-K - Quanex Building Products CORP (0001423221) (Filer) | 2025-10-28T16:15:35-04:00 | https://www.sec.gov/Archives/edgar/data/1423221/000110465925103181/0001104659-25-103181.txt
+2025-10-28 20:17:56 | 8-K - Jazz Pharmaceuticals plc (0001232524) (Filer) | 2025-10-28T16:15:33-04:00 | https://www.sec.gov/Archives/edgar/data/1232524/000162828025046763/0001628280-25-046763.txt
+2025-10-28 20:17:57 | 8-K - Stride, Inc. (0001157408) (Filer) | 2025-10-28T16:15:30-04:00 | https://www.sec.gov/Archives/edgar/data/1157408/000117184325006722/0001171843-25-006722.txt
+2025-10-28 20:17:59 | 8-K - ContextLogic Holdings Inc. (0002064307) (Filer) | 2025-10-28T16:15:28-04:00 | https://www.sec.gov/Archives/edgar/data/2064307/000119312525253517/0001193125-25-253517.txt
+2025-10-28 20:18:00 | 8-K - Caesars Entertainment, Inc. (0001590895) (Filer) | 2025-10-28T16:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1590895/000159089525000129/0001590895-25-000129.txt
