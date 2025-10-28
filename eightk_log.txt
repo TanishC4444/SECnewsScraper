@@ -7720,3 +7720,12 @@
 2025-10-28 12:52:45 | 8-K - Cheniere Energy Partners, L.P. (0001383650) (Filer) | 2025-10-28T08:41:44-04:00 | https://www.sec.gov/Archives/edgar/data/1383650/000138365025000038/0001383650-25-000038.txt
 2025-10-28 12:52:46 | 8-K - Cheniere Energy, Inc. (0000003570) (Filer) | 2025-10-28T08:41:29-04:00 | https://www.sec.gov/Archives/edgar/data/3570/000000357025000105/0000003570-25-000105.txt
 2025-10-28 12:52:47 | 8-K - GLOBAL PARTNERS LP (0001323468) (Filer) | 2025-10-28T08:37:51-04:00 | https://www.sec.gov/Archives/edgar/data/1323468/000110465925102877/0001104659-25-102877.txt
+2025-10-28 13:23:36 | 8-K - Envoy Medical, Inc. (0001840877) (Filer) | 2025-10-28T09:22:49-04:00 | https://www.sec.gov/Archives/edgar/data/1840877/000121390025102828/0001213900-25-102828.txt
+2025-10-28 13:23:38 | 8-K - TRIMAS CORP (0000842633) (Filer) | 2025-10-28T09:19:42-04:00 | https://www.sec.gov/Archives/edgar/data/842633/000084263325000123/0000842633-25-000123.txt
+2025-10-28 13:23:38 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-28T09:18:23-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525252514/0001193125-25-252514.txt
+2025-10-28 13:23:38 | 8-K - United States Commodity Index Funds Trust (0001479247) (Filer) | 2025-10-28T09:13:40-04:00 | https://www.sec.gov/Archives/edgar/data/1479247/000110465925102925/0001104659-25-102925.txt
+2025-10-28 13:23:40 | 8-K - United States Gasoline Fund, LP (0001396878) (Filer) | 2025-10-28T09:11:33-04:00 | https://www.sec.gov/Archives/edgar/data/1396878/000110465925102923/0001104659-25-102923.txt
+2025-10-28 13:23:41 | 8-K - United States Brent Oil Fund, LP (0001472494) (Filer) | 2025-10-28T09:07:56-04:00 | https://www.sec.gov/Archives/edgar/data/1472494/000110465925102921/0001104659-25-102921.txt
+2025-10-28 13:23:42 | 8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer) | 2025-10-28T09:07:19-04:00 | https://www.sec.gov/Archives/edgar/data/1405513/000110465925102920/0001104659-25-102920.txt
+2025-10-28 13:23:45 | 8-K - Celanese Corp (0001306830) (Filer) | 2025-10-28T09:03:15-04:00 | https://www.sec.gov/Archives/edgar/data/1306830/000130683025000203/0001306830-25-000203.txt
+2025-10-28 13:23:46 | 8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer) | 2025-10-28T09:02:17-04:00 | https://www.sec.gov/Archives/edgar/data/1405528/000110465925102915/0001104659-25-102915.txt
