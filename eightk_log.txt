@@ -7749,3 +7749,4 @@
 2025-10-28 16:35:41 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-28T12:19:40-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000197/0001326771-25-000197.txt
 2025-10-28 16:35:44 | 8-K - PROVIDENT FINANCIAL HOLDINGS INC (0001010470) (Filer) | 2025-10-28T12:16:48-04:00 | https://www.sec.gov/Archives/edgar/data/1010470/000093905725000279/0000939057-25-000279.txt
 2025-10-28 16:35:47 | 8-K - NutriBand Inc. (0001676047) (Filer) | 2025-10-28T12:00:00-04:00 | https://www.sec.gov/Archives/edgar/data/1676047/000121390025102930/0001213900-25-102930.txt
+2025-10-28 16:54:35 | 8-K - HPS Corporate Capital Solutions Fund (0001989817) (Filer) | 2025-10-28T12:38:54-04:00 | https://www.sec.gov/Archives/edgar/data/1989817/000198981725000073/0001989817-25-000073.txt
