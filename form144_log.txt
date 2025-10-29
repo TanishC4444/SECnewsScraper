@@ -5636,3 +5636,7 @@
 2025-10-29 16:45:57 | Schwab Charles R. | Officer | Shares: 44750 | Value: $4,206,500.0 | Percent: 0.002465% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000549/0001949846-25-000549.txt
 2025-10-29 16:45:58 | OCAMPO SUSAN | 10% Stockholder | Shares: 8358 | Value: $1,287,132.0 | Percent: 0.011223% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000548/0001949846-25-000548.txt
 2025-10-29 16:45:59 | OCAMPO SUSAN | 10% Stockholder | Shares: 8358 | Value: $1,287,132.0 | Percent: 0.011223% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000548/0001949846-25-000548.txt
+2025-10-29 16:59:53 | Stefan Becker | Officer | Shares: 12100 | Value: $1,104,531.0 | Percent: 0.001413% | Link: https://www.sec.gov/Archives/edgar/data/1825967/000196922325000887/0001969223-25-000887.txt
+2025-10-29 16:59:54 | Stefan Becker | Officer | Shares: 12100 | Value: $1,104,531.0 | Percent: 0.001413% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000887/0001969223-25-000887.txt
+2025-10-29 17:00:00 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $620,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000392/0001974078-25-000392.txt
+2025-10-29 17:00:00 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $620,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000392/0001974078-25-000392.txt
