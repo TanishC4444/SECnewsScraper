@@ -5648,3 +5648,11 @@
 2025-10-29 19:11:12 | Murphy Mark W. | Officer | Shares: 19061 | Value: $3,174,589.1 | Percent: 0.003588% | Link: https://www.sec.gov/Archives/edgar/data/66740/000195917325006598/0001959173-25-006598.txt
 2025-10-29 19:37:17 | Rodden Lori A | Officer | Shares: 7841 | Value: $959,829.56 | Percent: 0.002814% | Link: https://www.sec.gov/Archives/edgar/data/1790524/000195917325006599/0001959173-25-006599.txt
 2025-10-29 19:37:18 | Rodden Lori A | Officer | Shares: 7841 | Value: $959,829.56 | Percent: 0.002814% | Link: https://www.sec.gov/Archives/edgar/data/874766/000195917325006599/0001959173-25-006599.txt
+2025-10-29 20:20:05 | Peter J Rahmer | Officer | Shares: 21394 | Value: $160,435.75 | Percent: 0.012409% | Link: https://www.sec.gov/Archives/edgar/data/1959229/000195004725008255/0001950047-25-008255.txt
+2025-10-29 20:20:06 | Peter J Rahmer | Officer | Shares: 21394 | Value: $160,435.75 | Percent: 0.012409% | Link: https://www.sec.gov/Archives/edgar/data/1812364/000195004725008255/0001950047-25-008255.txt
+2025-10-29 20:20:08 | ARI BOUSBIB | Officer | Shares: 56557 | Value: $12,460,983.24 | Percent: 0.033210% | Link: https://www.sec.gov/Archives/edgar/data/1478242/000195004725008254/0001950047-25-008254.txt
+2025-10-29 20:20:10 | ARI BOUSBIB | Officer | Shares: 56557 | Value: $12,460,983.24 | Percent: 0.033210% | Link: https://www.sec.gov/Archives/edgar/data/1184180/000195004725008254/0001950047-25-008254.txt
+2025-10-29 20:20:11 | SCHULZE RICHARD M | 10% Stockholder | Shares: 62834 | Value: $5,286,852.0 | Percent: 0.029907% | Link: https://www.sec.gov/Archives/edgar/data/1006394/000196794025000082/0001967940-25-000082.txt
+2025-10-29 20:20:12 | SCHULZE RICHARD M | 10% Stockholder | Shares: 62834 | Value: $5,286,852.0 | Percent: 0.029907% | Link: https://www.sec.gov/Archives/edgar/data/764478/000196794025000082/0001967940-25-000082.txt
+2025-10-29 20:20:14 | THOMAS DAVID BRIAN | SVP; GENERAL MANAGER | Shares: 20000 | Value: $146,060.0 | Percent: 0.024702% | Link: https://www.sec.gov/Archives/edgar/data/2025276/000149315225020069/0001493152-25-020069.txt
+2025-10-29 20:20:15 | THOMAS DAVID BRIAN | SVP; GENERAL MANAGER | Shares: 20000 | Value: $146,060.0 | Percent: 0.024702% | Link: https://www.sec.gov/Archives/edgar/data/1718405/000149315225020069/0001493152-25-020069.txt
