@@ -5658,3 +5658,5 @@
 2025-10-29 20:20:15 | THOMAS DAVID BRIAN | SVP; GENERAL MANAGER | Shares: 20000 | Value: $146,060.0 | Percent: 0.024702% | Link: https://www.sec.gov/Archives/edgar/data/1718405/000149315225020069/0001493152-25-020069.txt
 2025-10-29 20:50:49 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $5,197,790.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1197649/000192109425001301/0001921094-25-001301.txt
 2025-10-29 20:50:50 | HUANG JEN HSUN | Officer | Shares: 25000 | Value: $5,197,790.0 | Percent: 0.000103% | Link: https://www.sec.gov/Archives/edgar/data/1045810/000192109425001301/0001921094-25-001301.txt
+2025-10-29 21:24:07 | DCG International Investments Ltd | Affiliate | Shares: 45000 | Value: $193,257.0 | Percent: 0.095494% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000330/0001977454-25-000330.txt
+2025-10-29 21:24:10 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $645,618.0 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000325/0001977454-25-000325.txt
