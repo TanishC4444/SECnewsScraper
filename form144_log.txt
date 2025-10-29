@@ -5662,3 +5662,5 @@
 2025-10-29 21:24:10 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $645,618.0 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000325/0001977454-25-000325.txt
 2025-10-29 21:37:21 | Steven E Cunningham | Officer | Shares: 14874 | Value: $1,795,290.36 | Percent: 0.059972% | Link: https://www.sec.gov/Archives/edgar/data/1575452/000195004725008272/0001950047-25-008272.txt
 2025-10-29 21:37:21 | Steven E Cunningham | Officer | Shares: 14874 | Value: $1,795,290.36 | Percent: 0.059972% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000195004725008272/0001950047-25-008272.txt
+2025-10-29 22:15:30 | Frank McCormick | Director | Shares: 198359 | Value: $13,206,531.76 | Percent: 0.103761% | Link: https://www.sec.gov/Archives/edgar/data/1743881/000162828025047224/0001628280-25-047224.txt
+2025-10-29 22:15:31 | Frank McCormick | Director | Shares: 198359 | Value: $13,206,531.76 | Percent: 0.103761% | Link: https://www.sec.gov/Archives/edgar/data/1257809/000162828025047224/0001628280-25-047224.txt
