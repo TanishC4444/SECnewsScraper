@@ -5640,3 +5640,5 @@
 2025-10-29 16:59:54 | Stefan Becker | Officer | Shares: 12100 | Value: $1,104,531.0 | Percent: 0.001413% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000887/0001969223-25-000887.txt
 2025-10-29 17:00:00 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $620,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/1287040/000197407825000392/0001974078-25-000392.txt
 2025-10-29 17:00:00 | DOWNES SEAN P | Officer | Shares: 20000 | Value: $620,000.0 | Percent: 0.070704% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000392/0001974078-25-000392.txt
+2025-10-29 17:25:42 | Field Darren P. | Officer | Shares: 6500 | Value: $1,098,500.0 | Percent: 0.006826% | Link: https://www.sec.gov/Archives/edgar/data/1705960/000195724425000019/0001957244-25-000019.txt
+2025-10-29 17:25:42 | Field Darren P. | Officer | Shares: 6500 | Value: $1,098,500.0 | Percent: 0.006826% | Link: https://www.sec.gov/Archives/edgar/data/728535/000195724425000019/0001957244-25-000019.txt
