@@ -7889,3 +7889,5 @@
 2025-10-29 13:49:36 | 8-K - Phillips 66 (0001534701) (Filer) | 2025-10-29T09:36:38-04:00 | https://www.sec.gov/Archives/edgar/data/1534701/000153470125000153/0001534701-25-000153.txt
 2025-10-29 13:49:39 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-10-29T09:32:39-04:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025103293/0001213900-25-103293.txt
 2025-10-29 13:49:41 | 8-K - AST SpaceMobile, Inc. (0001780312) (Filer) | 2025-10-29T09:29:18-04:00 | https://www.sec.gov/Archives/edgar/data/1780312/000149315225020005/0001493152-25-020005.txt
+2025-10-29 14:26:56 | 8-K - Blue Foundry Bancorp (0001846017) (Filer) | 2025-10-29T10:12:01-04:00 | https://www.sec.gov/Archives/edgar/data/1846017/000162828025046959/0001628280-25-046959.txt
+2025-10-29 14:26:58 | 8-K - Armada Acquisition Corp. II (0002044009) (Filer) | 2025-10-29T10:05:31-04:00 | https://www.sec.gov/Archives/edgar/data/2044009/000119312525255392/0001193125-25-255392.txt

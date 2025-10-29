@@ -5624,3 +5624,7 @@
 2025-10-29 00:44:16 | BLEGEN THEODORE | Officer | Shares: 47222 | Value: $52,182,671.1 | Percent: 0.098572% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000141503325000004/0001415033-25-000004.txt
 2025-10-29 02:26:22 | Sciammas Maurice | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1360833/000136083325000003/0001360833-25-000003.txt
 2025-10-29 02:26:23 | Sciammas Maurice | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000136083325000003/0001360833-25-000003.txt
+2025-10-29 14:27:00 | Jones Eifion | Officer | Shares: 25000 | Value: $437,500.0 | Percent: 0.011528% | Link: https://www.sec.gov/Archives/edgar/data/1850060/000195917325006594/0001959173-25-006594.txt
+2025-10-29 14:27:01 | Jones Eifion | Officer | Shares: 25000 | Value: $437,500.0 | Percent: 0.011528% | Link: https://www.sec.gov/Archives/edgar/data/1834622/000195917325006594/0001959173-25-006594.txt
+2025-10-29 14:27:02 | BURKE JAMES A | Officer | Shares: 9641 | Value: $1,853,964.3 | Percent: 0.002845% | Link: https://www.sec.gov/Archives/edgar/data/1692819/000195917325006593/0001959173-25-006593.txt
+2025-10-29 14:27:04 | BURKE JAMES A | Officer | Shares: 9641 | Value: $1,853,964.3 | Percent: 0.002845% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006593/0001959173-25-006593.txt
