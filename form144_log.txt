@@ -5622,3 +5622,5 @@
 2025-10-29 00:44:15 | Hsing Michael | Officer | Shares: 302920 | Value: $334,741,746.0 | Percent: 0.632318% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000130867625000003/0001308676-25-000003.txt
 2025-10-29 00:44:16 | BLEGEN THEODORE | Officer | Shares: 47222 | Value: $52,182,671.1 | Percent: 0.098572% | Link: https://www.sec.gov/Archives/edgar/data/1415033/000141503325000004/0001415033-25-000004.txt
 2025-10-29 00:44:16 | BLEGEN THEODORE | Officer | Shares: 47222 | Value: $52,182,671.1 | Percent: 0.098572% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000141503325000004/0001415033-25-000004.txt
+2025-10-29 02:26:22 | Sciammas Maurice | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1360833/000136083325000003/0001360833-25-000003.txt
+2025-10-29 02:26:23 | Sciammas Maurice | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000136083325000003/0001360833-25-000003.txt
