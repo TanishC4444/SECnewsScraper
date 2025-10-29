@@ -5646,3 +5646,5 @@
 2025-10-29 17:41:36 | Stephen James Fitzpatrick | 10% Stockholder | Shares: 2800000 | Value: $13,020,000.0 | Percent: 2.704590% | Link: https://www.sec.gov/Archives/edgar/data/1867102/000110465925103661/0001104659-25-103661.txt
 2025-10-29 19:11:12 | Murphy Mark W. | Officer | Shares: 19061 | Value: $3,174,589.1 | Percent: 0.003588% | Link: https://www.sec.gov/Archives/edgar/data/1575293/000195917325006598/0001959173-25-006598.txt
 2025-10-29 19:11:12 | Murphy Mark W. | Officer | Shares: 19061 | Value: $3,174,589.1 | Percent: 0.003588% | Link: https://www.sec.gov/Archives/edgar/data/66740/000195917325006598/0001959173-25-006598.txt
+2025-10-29 19:37:17 | Rodden Lori A | Officer | Shares: 7841 | Value: $959,829.56 | Percent: 0.002814% | Link: https://www.sec.gov/Archives/edgar/data/1790524/000195917325006599/0001959173-25-006599.txt
+2025-10-29 19:37:18 | Rodden Lori A | Officer | Shares: 7841 | Value: $959,829.56 | Percent: 0.002814% | Link: https://www.sec.gov/Archives/edgar/data/874766/000195917325006599/0001959173-25-006599.txt
