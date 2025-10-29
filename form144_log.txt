@@ -5614,3 +5614,11 @@
 2025-10-28 21:56:02 | DANIEL ODAY | Officer | Shares: 10000 | Value: $1,193,926.0 | Percent: 0.000806% | Link: https://www.sec.gov/Archives/edgar/data/882095/000195004725008239/0001950047-25-008239.txt
 2025-10-28 22:17:10 | THOMAS FITZPATRICK | Director | Shares: 6797 | Value: $122,375.23 | Percent: 0.006489% | Link: https://www.sec.gov/Archives/edgar/data/1418819/000195004725008240/0001950047-25-008240.txt
 2025-10-28 22:17:11 | THOMAS FITZPATRICK | Director | Shares: 6797 | Value: $122,375.23 | Percent: 0.006489% | Link: https://www.sec.gov/Archives/edgar/data/1229996/000195004725008240/0001950047-25-008240.txt
+2025-10-29 00:44:10 | Tseng Saria | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1312593/000131259325000003/0001312593-25-000003.txt
+2025-10-29 00:44:11 | Tseng Saria | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000131259325000003/0001312593-25-000003.txt
+2025-10-29 00:44:12 | Xiao Deming | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1308647/000130864725000003/0001308647-25-000003.txt
+2025-10-29 00:44:13 | Xiao Deming | Officer | Shares: 53328 | Value: $58,930,106.4 | Percent: 0.111317% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000130864725000003/0001308647-25-000003.txt
+2025-10-29 00:44:14 | Hsing Michael | Officer | Shares: 302920 | Value: $334,741,746.0 | Percent: 0.632318% | Link: https://www.sec.gov/Archives/edgar/data/1308676/000130867625000003/0001308676-25-000003.txt
+2025-10-29 00:44:15 | Hsing Michael | Officer | Shares: 302920 | Value: $334,741,746.0 | Percent: 0.632318% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000130867625000003/0001308676-25-000003.txt
+2025-10-29 00:44:16 | BLEGEN THEODORE | Officer | Shares: 47222 | Value: $52,182,671.1 | Percent: 0.098572% | Link: https://www.sec.gov/Archives/edgar/data/1415033/000141503325000004/0001415033-25-000004.txt
+2025-10-29 00:44:16 | BLEGEN THEODORE | Officer | Shares: 47222 | Value: $52,182,671.1 | Percent: 0.098572% | Link: https://www.sec.gov/Archives/edgar/data/1280452/000141503325000004/0001415033-25-000004.txt
