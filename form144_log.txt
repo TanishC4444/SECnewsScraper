@@ -5630,3 +5630,9 @@
 2025-10-29 14:27:04 | BURKE JAMES A | Officer | Shares: 9641 | Value: $1,853,964.3 | Percent: 0.002845% | Link: https://www.sec.gov/Archives/edgar/data/1268406/000195917325006593/0001959173-25-006593.txt
 2025-10-29 15:41:42 | Eric Musser | Officer | Shares: 100000 | Value: $9,017,237.0 | Percent: 0.011674% | Link: https://www.sec.gov/Archives/edgar/data/1323968/000196922325000885/0001969223-25-000885.txt
 2025-10-29 15:41:43 | Eric Musser | Officer | Shares: 100000 | Value: $9,017,237.0 | Percent: 0.011674% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000885/0001969223-25-000885.txt
+2025-10-29 16:45:54 | Michelle Johnston Holthaus | Officer | Shares: 50000 | Value: $2,078,820.41 | Percent: 0.001049% | Link: https://www.sec.gov/Archives/edgar/data/1860540/000196922325000886/0001969223-25-000886.txt
+2025-10-29 16:45:55 | Michelle Johnston Holthaus | Officer | Shares: 50000 | Value: $2,078,820.41 | Percent: 0.001049% | Link: https://www.sec.gov/Archives/edgar/data/50863/000196922325000886/0001969223-25-000886.txt
+2025-10-29 16:45:56 | Schwab Charles R. | Officer | Shares: 44750 | Value: $4,206,500.0 | Percent: 0.002465% | Link: https://www.sec.gov/Archives/edgar/data/923738/000194984625000549/0001949846-25-000549.txt
+2025-10-29 16:45:57 | Schwab Charles R. | Officer | Shares: 44750 | Value: $4,206,500.0 | Percent: 0.002465% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000549/0001949846-25-000549.txt
+2025-10-29 16:45:58 | OCAMPO SUSAN | 10% Stockholder | Shares: 8358 | Value: $1,287,132.0 | Percent: 0.011223% | Link: https://www.sec.gov/Archives/edgar/data/1493594/000194984625000548/0001949846-25-000548.txt
+2025-10-29 16:45:59 | OCAMPO SUSAN | 10% Stockholder | Shares: 8358 | Value: $1,287,132.0 | Percent: 0.011223% | Link: https://www.sec.gov/Archives/edgar/data/1252243/000194984625000548/0001949846-25-000548.txt
