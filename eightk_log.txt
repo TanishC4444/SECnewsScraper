@@ -7960,3 +7960,11 @@
 2025-10-29 21:24:00 | 8-K - AIM ImmunoTech Inc. (0000946644) (Filer) | 2025-10-29T17:16:06-04:00 | https://www.sec.gov/Archives/edgar/data/946644/000149315225020102/0001493152-25-020102.txt
 2025-10-29 21:24:03 | 8-K - Whitestone REIT (0001175535) (Filer) | 2025-10-29T17:15:06-04:00 | https://www.sec.gov/Archives/edgar/data/1175535/000143774925032218/0001437749-25-032218.txt
 2025-10-29 21:24:05 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-29T17:12:20-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008534/0001829126-25-008534.txt
+2025-10-29 21:45:46 | 8-K - Predictive Oncology Inc. (0001446159) (Filer) | 2025-10-29T17:31:02-04:00 | https://www.sec.gov/Archives/edgar/data/1446159/000117184325006772/0001171843-25-006772.txt
+2025-10-29 21:45:47 | 8-K - Coronado Global Resources Inc. (0001770561) (Filer) | 2025-10-29T17:28:25-04:00 | https://www.sec.gov/Archives/edgar/data/1770561/000110465925103813/0001104659-25-103813.txt
+2025-10-29 21:45:49 | 8-K - DAILY JOURNAL CORP (0000783412) (Filer) | 2025-10-29T17:27:06-04:00 | https://www.sec.gov/Archives/edgar/data/783412/000143774925032223/0001437749-25-032223.txt
+2025-10-29 21:45:49 | 8-K - Brixmor Operating Partnership LP (0001630031) (Filer) | 2025-10-29T17:26:43-04:00 | https://www.sec.gov/Archives/edgar/data/1630031/000110465925103809/0001104659-25-103809.txt
+2025-10-29 21:45:51 | 8-K - Brixmor Property Group Inc. (0001581068) (Filer) | 2025-10-29T17:26:43-04:00 | https://www.sec.gov/Archives/edgar/data/1581068/000110465925103809/0001104659-25-103809.txt
+2025-10-29 21:45:53 | 8-K - FLUSHING FINANCIAL CORP (0000923139) (Filer) | 2025-10-29T17:25:13-04:00 | https://www.sec.gov/Archives/edgar/data/923139/000092313925000041/0000923139-25-000041.txt
+2025-10-29 21:45:54 | 8-K - HCM II Acquisition Corp. (0002019804) (Filer) | 2025-10-29T17:24:51-04:00 | https://www.sec.gov/Archives/edgar/data/2019804/000121390025103554/0001213900-25-103554.txt
+2025-10-29 21:45:55 | 8-K - Vistagen Therapeutics, Inc. (0001411685) (Filer) | 2025-10-29T17:24:22-04:00 | https://www.sec.gov/Archives/edgar/data/1411685/000162828025047188/0001628280-25-047188.txt
