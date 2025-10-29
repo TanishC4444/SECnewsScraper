@@ -7894,3 +7894,4 @@
 2025-10-29 14:46:24 | 8-K - Innovative Payment Solutions, Inc. (0001591913) (Filer) | 2025-10-29T10:41:11-04:00 | https://www.sec.gov/Archives/edgar/data/1591913/000137647425000881/0001376474-25-000881.txt
 2025-10-29 14:46:26 | 8-K - KIRBY CORP (0000056047) (Filer) | 2025-10-29T10:39:17-04:00 | https://www.sec.gov/Archives/edgar/data/56047/000119312525255469/0001193125-25-255469.txt
 2025-10-29 14:46:28 | 8-K - Clearfield, Inc. (0000796505) (Filer) | 2025-10-29T10:30:27-04:00 | https://www.sec.gov/Archives/edgar/data/796505/000117184325006755/0001171843-25-006755.txt
+2025-10-29 14:58:46 | 8-K - MidWestOne Financial Group, Inc. (0001412665) (Filer) | 2025-10-29T10:46:41-04:00 | https://www.sec.gov/Archives/edgar/data/1412665/000141266525000145/0001412665-25-000145.txt
