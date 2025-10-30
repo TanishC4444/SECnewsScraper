@@ -5672,3 +5672,7 @@
 2025-10-30 14:40:27 | DAVENPORT FRED B JR | Director | Shares: 5972 | Value: $3,474,992.83 | Percent: 0.021201% | Link: https://www.sec.gov/Archives/edgar/data/1181154/000195917325006605/0001959173-25-006605.txt
 2025-10-30 14:52:53 | Dageville Benoit | Officer | Shares: 25000 | Value: $6,625,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1821737/000195917325006606/0001959173-25-006606.txt
 2025-10-30 14:52:54 | Dageville Benoit | Officer | Shares: 25000 | Value: $6,625,000.0 | Percent: 0.007379% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000195917325006606/0001959173-25-006606.txt
+2025-10-30 15:58:08 | Springer Jon | Officer | Shares: 35435 | Value: $1,116,202.5 | Percent: 0.125273% | Link: https://www.sec.gov/Archives/edgar/data/1492994/000197407825000393/0001974078-25-000393.txt
+2025-10-30 15:58:09 | Springer Jon | Officer | Shares: 35435 | Value: $1,116,202.5 | Percent: 0.125273% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000393/0001974078-25-000393.txt
+2025-10-30 15:58:10 | CHAPMAN JASON | Officer | Shares: 7542 | Value: $727,402.61 | Percent: 0.001689% | Link: https://www.sec.gov/Archives/edgar/data/1966499/000195917325006608/0001959173-25-006608.txt
+2025-10-30 15:58:10 | CHAPMAN JASON | Officer | Shares: 7542 | Value: $727,402.61 | Percent: 0.001689% | Link: https://www.sec.gov/Archives/edgar/data/65984/000195917325006608/0001959173-25-006608.txt
