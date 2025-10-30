@@ -8069,3 +8069,6 @@
 2025-10-30 13:45:32 | 8-K - Beeline Holdings, Inc. (0001534708) (Filer) | 2025-10-30T09:28:16-04:00 | https://www.sec.gov/Archives/edgar/data/1534708/000149315225020162/0001493152-25-020162.txt
 2025-10-30 13:45:34 | 8-K - Alchemy Investments Acquisition Corp 1 (0001901336) (Filer) | 2025-10-30T09:25:43-04:00 | https://www.sec.gov/Archives/edgar/data/1901336/000110465925104072/0001104659-25-104072.txt
 2025-10-30 13:45:36 | 8-K - Dream Finders Homes, Inc. (0001825088) (Filer) | 2025-10-30T09:21:29-04:00 | https://www.sec.gov/Archives/edgar/data/1825088/000162828025047364/0001628280-25-047364.txt
+2025-10-30 13:55:22 | 8-K - BankFinancial CORP (0001303942) (Filer) | 2025-10-30T09:49:07-04:00 | https://www.sec.gov/Archives/edgar/data/1303942/000143774925032313/0001437749-25-032313.txt
+2025-10-30 13:55:24 | 8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer) | 2025-10-30T09:48:36-04:00 | https://www.sec.gov/Archives/edgar/data/1993004/000199300425000186/0001993004-25-000186.txt
+2025-10-30 13:55:26 | 8-K - YORK WATER CO (0000108985) (Filer) | 2025-10-30T09:47:58-04:00 | https://www.sec.gov/Archives/edgar/data/108985/000010898525000089/0000108985-25-000089.txt
