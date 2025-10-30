@@ -8083,3 +8083,10 @@
 2025-10-30 15:12:20 | 8-K - Core Scientific, Inc./tx (0001839341) (Filer) | 2025-10-30T10:55:04-04:00 | https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/0001140361-25-039808.txt
 2025-10-30 15:35:30 | 8-K - NextPlat Corp (0001058307) (Filer) | 2025-10-30T11:25:20-04:00 | https://www.sec.gov/Archives/edgar/data/1058307/000143774925032332/0001437749-25-032332.txt
 2025-10-30 15:35:30 | 8-K - Federal Home Loan Bank of Cincinnati (0001326771) (Filer) | 2025-10-30T11:18:55-04:00 | https://www.sec.gov/Archives/edgar/data/1326771/000132677125000201/0001326771-25-000201.txt
+2025-10-30 16:50:55 | 8-K - LANDSTAR SYSTEM INC (0000853816) (Filer) | 2025-10-30T12:36:22-04:00 | https://www.sec.gov/Archives/edgar/data/853816/000119312525258044/0001193125-25-258044.txt
+2025-10-30 16:50:57 | 8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer) | 2025-10-30T12:30:17-04:00 | https://www.sec.gov/Archives/edgar/data/1959961/000119312525258033/0001193125-25-258033.txt
+2025-10-30 16:50:57 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-10-30T12:16:52-04:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000190/0001331757-25-000190.txt
+2025-10-30 16:50:59 | 8-K - Vivakor, Inc. (0001450704) (Filer) | 2025-10-30T12:14:49-04:00 | https://www.sec.gov/Archives/edgar/data/1450704/000182912625008595/0001829126-25-008595.txt
+2025-10-30 16:51:01 | 8-K - Flutter Entertainment plc (0001635327) (Filer) | 2025-10-30T12:12:03-04:00 | https://www.sec.gov/Archives/edgar/data/1635327/000119312525257976/0001193125-25-257976.txt
+2025-10-30 16:51:03 | 8-K - First Savings Financial Group, Inc. (0001435508) (Filer) | 2025-10-30T12:11:59-04:00 | https://www.sec.gov/Archives/edgar/data/1435508/000110465925104154/0001104659-25-104154.txt
+2025-10-30 16:51:03 | 8-K - FS Specialty Lending Fund (0002065812) (Filer) | 2025-10-30T11:58:39-04:00 | https://www.sec.gov/Archives/edgar/data/2065812/000110465925104139/0001104659-25-104139.txt
