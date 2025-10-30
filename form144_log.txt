@@ -5664,3 +5664,5 @@
 2025-10-29 21:37:21 | Steven E Cunningham | Officer | Shares: 14874 | Value: $1,795,290.36 | Percent: 0.059972% | Link: https://www.sec.gov/Archives/edgar/data/1529864/000195004725008272/0001950047-25-008272.txt
 2025-10-29 22:15:30 | Frank McCormick | Director | Shares: 198359 | Value: $13,206,531.76 | Percent: 0.103761% | Link: https://www.sec.gov/Archives/edgar/data/1743881/000162828025047224/0001628280-25-047224.txt
 2025-10-29 22:15:31 | Frank McCormick | Director | Shares: 198359 | Value: $13,206,531.76 | Percent: 0.103761% | Link: https://www.sec.gov/Archives/edgar/data/1257809/000162828025047224/0001628280-25-047224.txt
+2025-10-30 02:24:05 | Jeffrey R Baker | Officer | Shares: 6398 | Value: $862,450.4 | Percent: 0.001727% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000169986625000007/0001699866-25-000007.txt
+2025-10-30 02:24:06 | Jeffrey R Baker | Officer | Shares: 6398 | Value: $862,450.4 | Percent: 0.001727% | Link: https://www.sec.gov/Archives/edgar/data/1699866/000169986625000007/0001699866-25-000007.txt
