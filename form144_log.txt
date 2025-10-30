@@ -5682,3 +5682,5 @@
 2025-10-30 16:30:14 | Behr Allen C | Officer | Shares: 9042 | Value: $1,367,902.04 | Percent: 0.003939% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325006609/0001959173-25-006609.txt
 2025-10-30 18:00:25 | MUSELES STEVEN A | Officer | Shares: 15003 | Value: $291,183.12 | Percent: 0.025351% | Link: https://www.sec.gov/Archives/edgar/data/1689796/000195917325006613/0001959173-25-006613.txt
 2025-10-30 18:00:26 | MUSELES STEVEN A | Officer | Shares: 15003 | Value: $291,183.12 | Percent: 0.025351% | Link: https://www.sec.gov/Archives/edgar/data/1256324/000195917325006613/0001959173-25-006613.txt
+2025-10-30 18:39:06 | LOVELAND CURTIS A | Director | Shares: 14556 | Value: $416,010.48 | Percent: 0.194903% | Link: https://www.sec.gov/Archives/edgar/data/905223/000195917325006614/0001959173-25-006614.txt
+2025-10-30 18:39:07 | LOVELAND CURTIS A | Director | Shares: 14556 | Value: $416,010.48 | Percent: 0.194903% | Link: https://www.sec.gov/Archives/edgar/data/895456/000195917325006614/0001959173-25-006614.txt
