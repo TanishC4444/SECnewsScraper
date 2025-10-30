@@ -5680,3 +5680,5 @@
 2025-10-30 16:30:11 | Reeve Emma | Director | Shares: 15666 | Value: $1,088,787.0 | Percent: 0.019721% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325006610/0001959173-25-006610.txt
 2025-10-30 16:30:13 | Behr Allen C | Officer | Shares: 9042 | Value: $1,367,902.04 | Percent: 0.003939% | Link: https://www.sec.gov/Archives/edgar/data/1812083/000195917325006609/0001959173-25-006609.txt
 2025-10-30 16:30:14 | Behr Allen C | Officer | Shares: 9042 | Value: $1,367,902.04 | Percent: 0.003939% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325006609/0001959173-25-006609.txt
+2025-10-30 18:00:25 | MUSELES STEVEN A | Officer | Shares: 15003 | Value: $291,183.12 | Percent: 0.025351% | Link: https://www.sec.gov/Archives/edgar/data/1689796/000195917325006613/0001959173-25-006613.txt
+2025-10-30 18:00:26 | MUSELES STEVEN A | Officer | Shares: 15003 | Value: $291,183.12 | Percent: 0.025351% | Link: https://www.sec.gov/Archives/edgar/data/1256324/000195917325006613/0001959173-25-006613.txt
