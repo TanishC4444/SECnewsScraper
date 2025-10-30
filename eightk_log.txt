@@ -8016,3 +8016,13 @@
 2025-10-30 11:27:17 | 8-K - AmpliTech Group, Inc. (0001518461) (Filer) | 2025-10-30T07:15:51-04:00 | https://www.sec.gov/Archives/edgar/data/1518461/000149315225020141/0001493152-25-020141.txt
 2025-10-30 11:27:19 | 8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer) | 2025-10-30T07:15:38-04:00 | https://www.sec.gov/Archives/edgar/data/1720893/000110465925104009/0001104659-25-104009.txt
 2025-10-30 11:27:21 | 8-K - CCC Intelligent Solutions Holdings Inc. (0001818201) (Filer) | 2025-10-30T07:15:25-04:00 | https://www.sec.gov/Archives/edgar/data/1818201/000119312525257407/0001193125-25-257407.txt
+2025-10-30 11:38:44 | 8-K - Ranpak Holdings Corp. (0001712463) (Filer) | 2025-10-30T07:36:41-04:00 | https://www.sec.gov/Archives/edgar/data/1712463/000162828025047326/0001628280-25-047326.txt
+2025-10-30 11:38:46 | 8-K - Hilton Grand Vacations Inc. (0001674168) (Filer) | 2025-10-30T07:36:40-04:00 | https://www.sec.gov/Archives/edgar/data/1674168/000167416825000017/0001674168-25-000017.txt
+2025-10-30 11:38:49 | 8-K - Fox Corp (0001754301) (Filer) | 2025-10-30T07:35:08-04:00 | https://www.sec.gov/Archives/edgar/data/1754301/000162828025047323/0001628280-25-047323.txt
+2025-10-30 11:38:51 | 8-K - TEREX CORP (0000097216) (Filer) | 2025-10-30T07:34:55-04:00 | https://www.sec.gov/Archives/edgar/data/97216/000009721625000157/0000097216-25-000157.txt
+2025-10-30 11:38:54 | 8-K - Westlake Chemical Partners LP (0001604665) (Filer) | 2025-10-30T07:33:19-04:00 | https://www.sec.gov/Archives/edgar/data/1604665/000160466525000038/0001604665-25-000038.txt
+2025-10-30 11:38:56 | 8-K - WESTLAKE CORP (0001262823) (Filer) | 2025-10-30T07:33:09-04:00 | https://www.sec.gov/Archives/edgar/data/1262823/000126282325000061/0001262823-25-000061.txt
+2025-10-30 11:38:59 | 8-K - AMERIPRISE FINANCIAL INC (0000820027) (Filer) | 2025-10-30T07:31:59-04:00 | https://www.sec.gov/Archives/edgar/data/820027/000082002725000077/0000820027-25-000077.txt
+2025-10-30 11:39:01 | 8-K - Cheniere Energy Partners, L.P. (0001383650) (Filer) | 2025-10-30T07:31:37-04:00 | https://www.sec.gov/Archives/edgar/data/1383650/000138365025000042/0001383650-25-000042.txt
+2025-10-30 11:39:03 | 8-K - Cheniere Energy, Inc. (0000003570) (Filer) | 2025-10-30T07:31:07-04:00 | https://www.sec.gov/Archives/edgar/data/3570/000000357025000109/0000003570-25-000109.txt
+2025-10-30 11:39:07 | 8-K - Thryv Holdings, Inc. (0001556739) (Filer) | 2025-10-30T07:30:49-04:00 | https://www.sec.gov/Archives/edgar/data/1556739/000155673925000071/0001556739-25-000071.txt
