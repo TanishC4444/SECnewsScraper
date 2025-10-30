@@ -8158,3 +8158,11 @@
 2025-10-30 21:20:57 | 8-K - INTELLIGENT BIO SOLUTIONS INC. (0001725430) (Filer) | 2025-10-30T17:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/1725430/000149315225020262/0001493152-25-020262.txt
 2025-10-30 21:20:58 | 8-K - Scienture Holdings, Inc. (0001382574) (Filer) | 2025-10-30T17:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/1382574/000149315225020261/0001493152-25-020261.txt
 2025-10-30 21:21:00 | 8-K - Arcosa, Inc. (0001739445) (Filer) | 2025-10-30T17:15:25-04:00 | https://www.sec.gov/Archives/edgar/data/1739445/000173944525000133/0001739445-25-000133.txt
+2025-10-30 21:32:55 | 8-K - enVVeno Medical Corp (0001661053) (Filer) | 2025-10-30T17:28:47-04:00 | https://www.sec.gov/Archives/edgar/data/1661053/000149315225020276/0001493152-25-020276.txt
+2025-10-30 21:32:57 | 8-K - Venu Holding Corp (0001770501) (Filer) | 2025-10-30T17:28:28-04:00 | https://www.sec.gov/Archives/edgar/data/1770501/000149315225020275/0001493152-25-020275.txt
+2025-10-30 21:32:58 | 8-K - NEWMARKET CORP (0001282637) (Filer) | 2025-10-30T17:27:27-04:00 | https://www.sec.gov/Archives/edgar/data/1282637/000128263725000023/0001282637-25-000023.txt
+2025-10-30 21:32:59 | 8-K - Antares Private Credit Fund (0001976336) (Filer) | 2025-10-30T17:26:56-04:00 | https://www.sec.gov/Archives/edgar/data/1976336/000119312525258862/0001193125-25-258862.txt
+2025-10-30 21:33:00 | 8-K - Beneficient (0001775734) (Filer) | 2025-10-30T17:25:30-04:00 | https://www.sec.gov/Archives/edgar/data/1775734/000149315225020271/0001493152-25-020271.txt
+2025-10-30 21:33:01 | 8-K - Stardust Power Inc. (0001831979) (Filer) | 2025-10-30T17:25:29-04:00 | https://www.sec.gov/Archives/edgar/data/1831979/000149315225020272/0001493152-25-020272.txt
+2025-10-30 21:33:03 | 8-K - Mechanics Bancorp (0001518715) (Filer) | 2025-10-30T17:22:20-04:00 | https://www.sec.gov/Archives/edgar/data/1518715/000151871525000177/0001518715-25-000177.txt
+2025-10-30 21:33:04 | 8-K - Mechanics Bancorp (0001518715) (Filer) | 2025-10-30T17:21:28-04:00 | https://www.sec.gov/Archives/edgar/data/1518715/000151871525000176/0001518715-25-000176.txt
