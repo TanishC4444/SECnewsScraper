@@ -5684,3 +5684,9 @@
 2025-10-30 18:00:26 | MUSELES STEVEN A | Officer | Shares: 15003 | Value: $291,183.12 | Percent: 0.025351% | Link: https://www.sec.gov/Archives/edgar/data/1256324/000195917325006613/0001959173-25-006613.txt
 2025-10-30 18:39:06 | LOVELAND CURTIS A | Director | Shares: 14556 | Value: $416,010.48 | Percent: 0.194903% | Link: https://www.sec.gov/Archives/edgar/data/905223/000195917325006614/0001959173-25-006614.txt
 2025-10-30 18:39:07 | LOVELAND CURTIS A | Director | Shares: 14556 | Value: $416,010.48 | Percent: 0.194903% | Link: https://www.sec.gov/Archives/edgar/data/895456/000195917325006614/0001959173-25-006614.txt
+2025-10-30 19:47:13 | Finn Patrick John | Officer | Shares: 17606 | Value: $553,608.35 | Percent: 0.029168% | Link: https://www.sec.gov/Archives/edgar/data/1755970/000195917325006617/0001959173-25-006617.txt
+2025-10-30 19:47:13 | Finn Patrick John | Officer | Shares: 17606 | Value: $553,608.35 | Percent: 0.029168% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006617/0001959173-25-006617.txt
+2025-10-30 19:47:14 | Green Paula | Officer | Shares: 6920 | Value: $217,594.56 | Percent: 0.011464% | Link: https://www.sec.gov/Archives/edgar/data/1753672/000195917325006616/0001959173-25-006616.txt
+2025-10-30 19:47:15 | Green Paula | Officer | Shares: 6920 | Value: $217,594.56 | Percent: 0.011464% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006616/0001959173-25-006616.txt
+2025-10-30 19:47:16 | Laponis Adam | Officer | Shares: 5517 | Value: $173,478.2 | Percent: 0.009140% | Link: https://www.sec.gov/Archives/edgar/data/1827198/000195917325006615/0001959173-25-006615.txt
+2025-10-30 19:47:17 | Laponis Adam | Officer | Shares: 5517 | Value: $173,478.2 | Percent: 0.009140% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006615/0001959173-25-006615.txt
