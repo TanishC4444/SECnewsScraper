@@ -5699,3 +5699,7 @@
 2025-10-30 20:20:47 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 18700 | Value: $1,844,007.0 | Percent: 0.014357% | Link: https://www.sec.gov/Archives/edgar/data/1716837/000195004725008294/0001950047-25-008294.txt
 2025-10-30 20:20:49 | THE WOOD REVOCABLE TRUST U/A DTD 12/01/2017 | Director | Shares: 18700 | Value: $1,844,007.0 | Percent: 0.014357% | Link: https://www.sec.gov/Archives/edgar/data/1428439/000195004725008294/0001950047-25-008294.txt
 2025-10-30 20:38:30 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $618,720.0 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000339/0001977454-25-000339.txt
+2025-10-30 20:58:47 | MICHAEL WEENING | Officer | Shares: 200000 | Value: $13,071,475.0 | Percent: 0.301766% | Link: https://www.sec.gov/Archives/edgar/data/1678385/000195004725008302/0001950047-25-008302.txt
+2025-10-30 20:58:47 | MICHAEL WEENING | Officer | Shares: 200000 | Value: $13,071,475.0 | Percent: 0.301766% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725008302/0001950047-25-008302.txt
+2025-10-30 20:58:49 | SCHULZE RICHARD M | 10% Stockholder | Shares: 74553 | Value: $6,285,391.0 | Percent: 0.035484% | Link: https://www.sec.gov/Archives/edgar/data/1006394/000196794025000083/0001967940-25-000083.txt
+2025-10-30 20:58:50 | SCHULZE RICHARD M | 10% Stockholder | Shares: 74553 | Value: $6,285,391.0 | Percent: 0.035484% | Link: https://www.sec.gov/Archives/edgar/data/764478/000196794025000083/0001967940-25-000083.txt
