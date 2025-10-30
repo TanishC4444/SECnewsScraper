@@ -5715,3 +5715,5 @@
 2025-10-30 21:33:19 | CAFARO DEBRA A | Officer | Shares: 317258 | Value: $23,554,765.13 | Percent: 0.069808% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000385/0001964306-25-000385.txt
 2025-10-30 21:33:30 | ALF OPERATING PARTNERS LTD. | Owner | Shares: 99877 | Value: $3,824,290.0 | Percent: 0.698933% | Link: https://www.sec.gov/Archives/edgar/data/1936172/000119312525258863/0001193125-25-258863.txt
 2025-10-30 21:33:31 | ALF OPERATING PARTNERS LTD. | Owner | Shares: 99877 | Value: $3,824,290.0 | Percent: 0.698933% | Link: https://www.sec.gov/Archives/edgar/data/1791145/000119312525258863/0001193125-25-258863.txt
+2025-10-30 22:10:58 | Marshall Witt | Officer | Shares: 62764 | Value: $9,789,401.5 | Percent: 0.077070% | Link: https://www.sec.gov/Archives/edgar/data/1574095/000195004725008306/0001950047-25-008306.txt
+2025-10-30 22:10:59 | Marshall Witt | Officer | Shares: 62764 | Value: $9,789,401.5 | Percent: 0.077070% | Link: https://www.sec.gov/Archives/edgar/data/1177394/000195004725008306/0001950047-25-008306.txt
