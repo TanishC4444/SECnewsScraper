@@ -8062,3 +8062,10 @@
 2025-10-30 13:21:06 | 8-K - KENNAMETAL INC (0000055242) (Filer) | 2025-10-30T09:08:00-04:00 | https://www.sec.gov/Archives/edgar/data/55242/000162828025047361/0001628280-25-047361.txt
 2025-10-30 13:21:07 | 8-K - Sensei Biotherapeutics, Inc. (0001829802) (Filer) | 2025-10-30T09:05:06-04:00 | https://www.sec.gov/Archives/edgar/data/1829802/000119312525257621/0001193125-25-257621.txt
 2025-10-30 13:21:09 | 8-K - 89bio, Inc. (0001785173) (Filer) | 2025-10-30T09:03:20-04:00 | https://www.sec.gov/Archives/edgar/data/1785173/000119312525257616/0001193125-25-257616.txt
+2025-10-30 13:45:27 | 8-K - CULLEN/FROST BANKERS, INC. (0000039263) (Filer) | 2025-10-30T09:35:50-04:00 | https://www.sec.gov/Archives/edgar/data/39263/000003926325000113/0000039263-25-000113.txt
+2025-10-30 13:45:27 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-10-30T09:33:02-04:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525257674/0001193125-25-257674.txt
+2025-10-30 13:45:29 | 8-K - IF Bancorp, Inc. (0001514743) (Filer) | 2025-10-30T09:32:20-04:00 | https://www.sec.gov/Archives/edgar/data/1514743/000119312525257673/0001193125-25-257673.txt
+2025-10-30 13:45:30 | 8-K - fuboTV Inc. /FL (0001484769) (Filer) | 2025-10-30T09:28:57-04:00 | https://www.sec.gov/Archives/edgar/data/1484769/000149315225020163/0001493152-25-020163.txt
+2025-10-30 13:45:32 | 8-K - Beeline Holdings, Inc. (0001534708) (Filer) | 2025-10-30T09:28:16-04:00 | https://www.sec.gov/Archives/edgar/data/1534708/000149315225020162/0001493152-25-020162.txt
+2025-10-30 13:45:34 | 8-K - Alchemy Investments Acquisition Corp 1 (0001901336) (Filer) | 2025-10-30T09:25:43-04:00 | https://www.sec.gov/Archives/edgar/data/1901336/000110465925104072/0001104659-25-104072.txt
+2025-10-30 13:45:36 | 8-K - Dream Finders Homes, Inc. (0001825088) (Filer) | 2025-10-30T09:21:29-04:00 | https://www.sec.gov/Archives/edgar/data/1825088/000162828025047364/0001628280-25-047364.txt
