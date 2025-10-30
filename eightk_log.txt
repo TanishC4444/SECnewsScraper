@@ -8113,3 +8113,4 @@
 2025-10-30 19:26:55 | 8-K - Capital One Auto Receivables LLC (0001133438) (Filer) | 2025-10-30T15:20:25-04:00 | https://www.sec.gov/Archives/edgar/data/1133438/000119312525258363/0001193125-25-258363.txt
 2025-10-30 19:26:57 | 8-K - FirstCash Holdings, Inc. (0000840489) (Filer) | 2025-10-30T15:19:02-04:00 | https://www.sec.gov/Archives/edgar/data/840489/000084048925000117/0000840489-25-000117.txt
 2025-10-30 19:39:04 | 8-K - VIP Play, Inc. (0001832161) (Filer) | 2025-10-30T15:28:05-04:00 | https://www.sec.gov/Archives/edgar/data/1832161/000149315225020206/0001493152-25-020206.txt
+2025-10-30 19:56:25 | 8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2025-5C2 (0002091562) (Filer) | 2025-10-30T15:47:57-04:00 | https://www.sec.gov/Archives/edgar/data/2091562/000153949725002805/0001539497-25-002805.txt

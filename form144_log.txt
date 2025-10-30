@@ -5690,3 +5690,7 @@
 2025-10-30 19:47:15 | Green Paula | Officer | Shares: 6920 | Value: $217,594.56 | Percent: 0.011464% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006616/0001959173-25-006616.txt
 2025-10-30 19:47:16 | Laponis Adam | Officer | Shares: 5517 | Value: $173,478.2 | Percent: 0.009140% | Link: https://www.sec.gov/Archives/edgar/data/1827198/000195917325006615/0001959173-25-006615.txt
 2025-10-30 19:47:17 | Laponis Adam | Officer | Shares: 5517 | Value: $173,478.2 | Percent: 0.009140% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006615/0001959173-25-006615.txt
+2025-10-30 19:56:28 | Cho Dennis | Officer | Shares: 6515 | Value: $204,859.61 | Percent: 0.010793% | Link: https://www.sec.gov/Archives/edgar/data/1883451/000195917325006619/0001959173-25-006619.txt
+2025-10-30 19:56:29 | Cho Dennis | Officer | Shares: 6515 | Value: $204,859.61 | Percent: 0.010793% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006619/0001959173-25-006619.txt
+2025-10-30 19:56:30 | Leproust Emily M. | Officer | Shares: 31379 | Value: $986,690.69 | Percent: 0.051986% | Link: https://www.sec.gov/Archives/edgar/data/1753655/000195917325006618/0001959173-25-006618.txt
+2025-10-30 19:56:32 | Leproust Emily M. | Officer | Shares: 31379 | Value: $986,690.69 | Percent: 0.051986% | Link: https://www.sec.gov/Archives/edgar/data/1581280/000195917325006618/0001959173-25-006618.txt
