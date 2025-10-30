@@ -5676,3 +5676,7 @@
 2025-10-30 15:58:09 | Springer Jon | Officer | Shares: 35435 | Value: $1,116,202.5 | Percent: 0.125273% | Link: https://www.sec.gov/Archives/edgar/data/891166/000197407825000393/0001974078-25-000393.txt
 2025-10-30 15:58:10 | CHAPMAN JASON | Officer | Shares: 7542 | Value: $727,402.61 | Percent: 0.001689% | Link: https://www.sec.gov/Archives/edgar/data/1966499/000195917325006608/0001959173-25-006608.txt
 2025-10-30 15:58:10 | CHAPMAN JASON | Officer | Shares: 7542 | Value: $727,402.61 | Percent: 0.001689% | Link: https://www.sec.gov/Archives/edgar/data/65984/000195917325006608/0001959173-25-006608.txt
+2025-10-30 16:30:10 | Reeve Emma | Director | Shares: 15666 | Value: $1,088,787.0 | Percent: 0.019721% | Link: https://www.sec.gov/Archives/edgar/data/1680329/000195917325006610/0001959173-25-006610.txt
+2025-10-30 16:30:11 | Reeve Emma | Director | Shares: 15666 | Value: $1,088,787.0 | Percent: 0.019721% | Link: https://www.sec.gov/Archives/edgar/data/1070081/000195917325006610/0001959173-25-006610.txt
+2025-10-30 16:30:13 | Behr Allen C | Officer | Shares: 9042 | Value: $1,367,902.04 | Percent: 0.003939% | Link: https://www.sec.gov/Archives/edgar/data/1812083/000195917325006609/0001959173-25-006609.txt
+2025-10-30 16:30:14 | Behr Allen C | Officer | Shares: 9042 | Value: $1,367,902.04 | Percent: 0.003939% | Link: https://www.sec.gov/Archives/edgar/data/73309/000195917325006609/0001959173-25-006609.txt
