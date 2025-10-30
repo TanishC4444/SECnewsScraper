@@ -8076,3 +8076,4 @@
 2025-10-30 14:16:54 | 8-K - NexMetals Mining Corp. (0000795800) (Filer) | 2025-10-30T10:08:53-04:00 | https://www.sec.gov/Archives/edgar/data/795800/000149315225020167/0001493152-25-020167.txt
 2025-10-30 14:16:55 | 8-K - LOUISIANA-PACIFIC CORP (0000060519) (Filer) | 2025-10-30T10:00:13-04:00 | https://www.sec.gov/Archives/edgar/data/60519/000006051925000027/0000060519-25-000027.txt
 2025-10-30 14:16:56 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-10-30T10:00:07-04:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000228/0001325878-25-000228.txt
+2025-10-30 14:40:24 | 8-K - Core Scientific, Inc./tx (0001839341) (Filer) | 2025-10-30T10:28:59-04:00 | https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804.txt

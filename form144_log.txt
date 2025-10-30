@@ -5668,3 +5668,5 @@
 2025-10-30 02:24:06 | Jeffrey R Baker | Officer | Shares: 6398 | Value: $862,450.4 | Percent: 0.001727% | Link: https://www.sec.gov/Archives/edgar/data/1699866/000169986625000007/0001699866-25-000007.txt
 2025-10-30 11:27:23 | Kelly Aengus | Chief Executive Officer &amp; Executive Director | Shares: 65000 | Value: $8,555,950.0 | Percent: 0.039118% | Link: https://www.sec.gov/Archives/edgar/data/1450289/000095015725000891/0000950157-25-000891.txt
 2025-10-30 11:27:25 | Kelly Aengus | Chief Executive Officer &amp; Executive Director | Shares: 65000 | Value: $8,555,950.0 | Percent: 0.039118% | Link: https://www.sec.gov/Archives/edgar/data/1378789/000095015725000891/0000950157-25-000891.txt
+2025-10-30 14:40:27 | DAVENPORT FRED B JR | Director | Shares: 5972 | Value: $3,474,992.83 | Percent: 0.021201% | Link: https://www.sec.gov/Archives/edgar/data/1668397/000195917325006605/0001959173-25-006605.txt
+2025-10-30 14:40:27 | DAVENPORT FRED B JR | Director | Shares: 5972 | Value: $3,474,992.83 | Percent: 0.021201% | Link: https://www.sec.gov/Archives/edgar/data/1181154/000195917325006605/0001959173-25-006605.txt
