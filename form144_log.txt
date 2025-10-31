@@ -5772,3 +5772,12 @@
 2025-10-31 20:54:45 | ABHISHEK JAIN | Officer | Shares: 9964 | Value: $148,463.6 | Percent: 0.018720% | Link: https://www.sec.gov/Archives/edgar/data/1931277/000195004725008335/0001950047-25-008335.txt
 2025-10-31 20:54:46 | ABHISHEK JAIN | Officer | Shares: 9964 | Value: $148,463.6 | Percent: 0.018720% | Link: https://www.sec.gov/Archives/edgar/data/1217234/000195004725008335/0001950047-25-008335.txt
 2025-10-31 21:12:42 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $634,755.6 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000347/0001977454-25-000347.txt
+2025-10-31 21:26:13 | MICHAEL IVAS | Officer | Shares: 120000 | Value: $16,956,384.0 | Percent: 0.009803% | Link: https://www.sec.gov/Archives/edgar/data/1648860/000195004725008339/0001950047-25-008339.txt
+2025-10-31 21:26:14 | MICHAEL IVAS | Officer | Shares: 120000 | Value: $16,956,384.0 | Percent: 0.009803% | Link: https://www.sec.gov/Archives/edgar/data/820313/000195004725008339/0001950047-25-008339.txt
+2025-10-31 21:26:16 | RYAN AND LAUREN KEETON FAMILY TRUST | Officer | Shares: 32370 | Value: $9,765,407.5 | Percent: 0.022889% | Link: https://www.sec.gov/Archives/edgar/data/1700542/000195004725008338/0001950047-25-008338.txt
+2025-10-31 21:26:17 | RYAN AND LAUREN KEETON FAMILY TRUST | Officer | Shares: 32370 | Value: $9,765,407.5 | Percent: 0.022889% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000195004725008338/0001950047-25-008338.txt
+2025-10-31 21:26:18 | Paolini John F. | Officer | Shares: 82542 | Value: $3,065,800.0 | Percent: 0.182773% | Link: https://www.sec.gov/Archives/edgar/data/1741533/000192109425001307/0001921094-25-001307.txt
+2025-10-31 21:26:19 | Paolini John F. | Officer | Shares: 82542 | Value: $3,065,800.0 | Percent: 0.182773% | Link: https://www.sec.gov/Archives/edgar/data/1730430/000192109425001307/0001921094-25-001307.txt
+2025-10-31 21:26:21 | PAUL D RYAN | Director | Shares: 17767 | Value: $1,143,496.56 | Percent: 0.008527% | Link: https://www.sec.gov/Archives/edgar/data/1769066/000195004725008337/0001950047-25-008337.txt
+2025-10-31 21:26:22 | PAUL D RYAN | Director | Shares: 17767 | Value: $1,143,496.56 | Percent: 0.008527% | Link: https://www.sec.gov/Archives/edgar/data/1754301/000195004725008337/0001950047-25-008337.txt
+2025-10-31 21:26:23 | Digital Currency Group, Inc. | Affiliate | Shares: 7110 | Value: $95,849.91 | Percent: 0.098326% | Link: https://www.sec.gov/Archives/edgar/data/1896677/000165253625000119/0001652536-25-000119.txt
