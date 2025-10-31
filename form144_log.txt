@@ -5725,3 +5725,7 @@
 2025-10-31 13:28:44 | Romney Edgar | Director | Shares: 6697 | Value: $185,038.0 | Percent: 0.022242% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000165495425012392/0001654954-25-012392.txt
 2025-10-31 13:56:45 | Rodriguez Louisa | Officer | Shares: 38125 | Value: $391,734.37 | Percent: 0.000263% | Link: https://www.sec.gov/Archives/edgar/data/1856570/000194984625000551/0001949846-25-000551.txt
 2025-10-31 13:56:46 | Rodriguez Louisa | Officer | Shares: 38125 | Value: $391,734.37 | Percent: 0.000263% | Link: https://www.sec.gov/Archives/edgar/data/1076378/000194984625000551/0001949846-25-000551.txt
+2025-10-31 14:41:15 | Montgomery Neela | Director | Shares: 5833 | Value: $704,772.23 | Percent: 0.003972% | Link: https://www.sec.gov/Archives/edgar/data/1716048/000194984625000552/0001949846-25-000552.txt
+2025-10-31 14:41:16 | Montgomery Neela | Director | Shares: 5833 | Value: $704,772.23 | Percent: 0.003972% | Link: https://www.sec.gov/Archives/edgar/data/1032975/000194984625000552/0001949846-25-000552.txt
+2025-10-31 14:41:18 | Kidd Mark | Officer | Shares: 7306 | Value: $736,590.92 | Percent: 0.002474% | Link: https://www.sec.gov/Archives/edgar/data/1732058/000195917325006622/0001959173-25-006622.txt
+2025-10-31 14:41:19 | Kidd Mark | Officer | Shares: 7306 | Value: $736,590.92 | Percent: 0.002474% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325006622/0001959173-25-006622.txt
