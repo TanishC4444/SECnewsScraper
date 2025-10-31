@@ -8232,3 +8232,4 @@
 2025-10-31 14:18:58 | 8-K - FORD MOTOR CREDIT CO LLC (0000038009) (Filer) | 2025-10-31T10:08:06-04:00 | https://www.sec.gov/Archives/edgar/data/38009/000003800925000042/0000038009-25-000042.txt
 2025-10-31 14:41:12 | 8-K - North Haven Net REIT (0001999784) (Filer) | 2025-10-31T10:31:56-04:00 | https://www.sec.gov/Archives/edgar/data/1999784/000199978425000047/0001999784-25-000047.txt
 2025-10-31 14:41:13 | 8-K - Phio Pharmaceuticals Corp. (0001533040) (Filer) | 2025-10-31T10:30:48-04:00 | https://www.sec.gov/Archives/edgar/data/1533040/000143774925032512/0001437749-25-032512.txt
+2025-10-31 14:52:12 | 8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer) | 2025-10-31T10:46:46-04:00 | https://www.sec.gov/Archives/edgar/data/1893262/000119312525260026/0001193125-25-260026.txt
