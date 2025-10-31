@@ -8176,3 +8176,10 @@
 2025-10-31 10:12:39 | 8-K/A - BEYOND MEAT, INC. (0001655210) (Filer) | 2025-10-30T21:34:12-04:00 | https://www.sec.gov/Archives/edgar/data/1655210/000119312525259119/0001193125-25-259119.txt
 2025-10-31 10:12:41 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-30T21:10:25-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000558/0001564708-25-000558.txt
 2025-10-31 10:12:44 | 8-K - Apollo Commercial Real Estate Finance, Inc. (0001467760) (Filer) | 2025-10-30T19:26:05-04:00 | https://www.sec.gov/Archives/edgar/data/1467760/000119312525258995/0001193125-25-258995.txt
+2025-10-31 10:36:35 | 8-K - LyondellBasell Industries N.V. (0001489393) (Filer) | 2025-10-31T06:32:59-04:00 | https://www.sec.gov/Archives/edgar/data/1489393/000148939325000054/0001489393-25-000054.txt
+2025-10-31 10:36:37 | 8-K - Aon plc (0000315293) (Filer) | 2025-10-31T06:32:39-04:00 | https://www.sec.gov/Archives/edgar/data/315293/000162828025047660/0001628280-25-047660.txt
+2025-10-31 10:36:38 | 8-K - Xenia Hotels & Resorts, Inc. (0001616000) (Filer) | 2025-10-31T06:32:03-04:00 | https://www.sec.gov/Archives/edgar/data/1616000/000162828025047659/0001628280-25-047659.txt
+2025-10-31 10:36:40 | 8-K - OneMain Holdings, Inc. (0001584207) (Filer) | 2025-10-31T06:31:47-04:00 | https://www.sec.gov/Archives/edgar/data/1584207/000158420725000044/0001584207-25-000044.txt
+2025-10-31 10:36:42 | 8-K - NEWELL BRANDS INC. (0000814453) (Filer) | 2025-10-31T06:30:41-04:00 | https://www.sec.gov/Archives/edgar/data/814453/000081445325000104/0000814453-25-000104.txt
+2025-10-31 10:36:44 | 8-K - Emerald Holding, Inc. (0001579214) (Filer) | 2025-10-31T06:26:31-04:00 | https://www.sec.gov/Archives/edgar/data/1579214/000119312525259357/0001193125-25-259357.txt
+2025-10-31 10:36:45 | 8-K - CHEVRON CORP (0000093410) (Filer) | 2025-10-31T06:16:33-04:00 | https://www.sec.gov/Archives/edgar/data/93410/000009341025000103/0000093410-25-000103.txt
