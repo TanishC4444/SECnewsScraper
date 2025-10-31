@@ -5739,3 +5739,5 @@
 2025-10-31 16:56:54 | Halloran Brian N. | Officer | Shares: 6232 | Value: $373,119.85 | Percent: 0.005616% | Link: https://www.sec.gov/Archives/edgar/data/22444/000195917325006625/0001959173-25-006625.txt
 2025-10-31 17:18:20 | Mackenzie Davin A | Director | Shares: 20000 | Value: $203,800.0 | Percent: 0.000544% | Link: https://www.sec.gov/Archives/edgar/data/1302481/000195917325006626/0001959173-25-006626.txt
 2025-10-31 17:18:21 | Mackenzie Davin A | Director | Shares: 20000 | Value: $203,800.0 | Percent: 0.000544% | Link: https://www.sec.gov/Archives/edgar/data/1296774/000195917325006626/0001959173-25-006626.txt
+2025-10-31 17:54:41 | BRUNER JUDY | Director | Shares: 8886 | Value: $2,385,000.0 | Percent: 0.004187% | Link: https://www.sec.gov/Archives/edgar/data/1137789/000195917325006628/0001959173-25-006628.txt
+2025-10-31 17:54:42 | BRUNER JUDY | Director | Shares: 8886 | Value: $2,385,000.0 | Percent: 0.004187% | Link: https://www.sec.gov/Archives/edgar/data/1112668/000195917325006628/0001959173-25-006628.txt
