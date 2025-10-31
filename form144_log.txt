@@ -5735,3 +5735,5 @@
 2025-10-31 16:17:03 | EDWARD SCHLESINGER | Officer | Shares: 20893 | Value: $1,906,486.25 | Percent: 0.002439% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000893/0001969223-25-000893.txt
 2025-10-31 16:43:41 | RUBINSTEIN JONATHAN | Director | Shares: 8173 | Value: $2,043,495.19 | Percent: 0.000076% | Link: https://www.sec.gov/Archives/edgar/data/1209522/000195917325006624/0001959173-25-006624.txt
 2025-10-31 16:43:42 | RUBINSTEIN JONATHAN | Director | Shares: 8173 | Value: $2,043,495.19 | Percent: 0.000076% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325006624/0001959173-25-006624.txt
+2025-10-31 16:56:53 | Halloran Brian N. | Officer | Shares: 6232 | Value: $373,119.85 | Percent: 0.005616% | Link: https://www.sec.gov/Archives/edgar/data/2065999/000195917325006625/0001959173-25-006625.txt
+2025-10-31 16:56:54 | Halloran Brian N. | Officer | Shares: 6232 | Value: $373,119.85 | Percent: 0.005616% | Link: https://www.sec.gov/Archives/edgar/data/22444/000195917325006625/0001959173-25-006625.txt
