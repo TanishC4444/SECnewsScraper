@@ -5733,3 +5733,5 @@
 2025-10-31 16:17:01 | KEETON RYAN S. | Officer | Shares: 40000 | Value: $12,237,080.0 | Percent: 0.028284% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000194984625000554/0001949846-25-000554.txt
 2025-10-31 16:17:03 | EDWARD SCHLESINGER | Officer | Shares: 20893 | Value: $1,906,486.25 | Percent: 0.002439% | Link: https://www.sec.gov/Archives/edgar/data/1658538/000196922325000893/0001969223-25-000893.txt
 2025-10-31 16:17:03 | EDWARD SCHLESINGER | Officer | Shares: 20893 | Value: $1,906,486.25 | Percent: 0.002439% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000893/0001969223-25-000893.txt
+2025-10-31 16:43:41 | RUBINSTEIN JONATHAN | Director | Shares: 8173 | Value: $2,043,495.19 | Percent: 0.000076% | Link: https://www.sec.gov/Archives/edgar/data/1209522/000195917325006624/0001959173-25-006624.txt
+2025-10-31 16:43:42 | RUBINSTEIN JONATHAN | Director | Shares: 8173 | Value: $2,043,495.19 | Percent: 0.000076% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195917325006624/0001959173-25-006624.txt
