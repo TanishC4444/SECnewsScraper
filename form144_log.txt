@@ -5747,3 +5747,7 @@
 2025-10-31 18:46:37 | Emmanuel Caprais | Officer | Shares: 5500 | Value: $1,018,761.7 | Percent: 0.007051% | Link: https://www.sec.gov/Archives/edgar/data/216228/000196922325000894/0001969223-25-000894.txt
 2025-10-31 18:57:27 | Heerma Peter | Officer | Shares: 5591 | Value: $195,685.0 | Percent: 0.006249% | Link: https://www.sec.gov/Archives/edgar/data/1789617/000195917325006629/0001959173-25-006629.txt
 2025-10-31 18:57:28 | Heerma Peter | Officer | Shares: 5591 | Value: $195,685.0 | Percent: 0.006249% | Link: https://www.sec.gov/Archives/edgar/data/1438533/000195917325006629/0001959173-25-006629.txt
+2025-10-31 19:15:31 | Zhernov Mykhailo | Director | Shares: 50000 | Value: $628,270.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/2075518/000010362325000048/0000103623-25-000048.txt
+2025-10-31 19:15:32 | Zhernov Mykhailo | Director | Shares: 50000 | Value: $628,270.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000048/0000103623-25-000048.txt
+2025-10-31 19:15:33 | Sharp Douglas J | Officer | Shares: 160000 | Value: $3,768,837.69 | Percent: 0.035877% | Link: https://www.sec.gov/Archives/edgar/data/1764168/000195917325006630/0001959173-25-006630.txt
+2025-10-31 19:15:34 | Sharp Douglas J | Officer | Shares: 160000 | Value: $3,768,837.69 | Percent: 0.035877% | Link: https://www.sec.gov/Archives/edgar/data/914208/000195917325006630/0001959173-25-006630.txt
