@@ -5741,3 +5741,5 @@
 2025-10-31 17:18:21 | Mackenzie Davin A | Director | Shares: 20000 | Value: $203,800.0 | Percent: 0.000544% | Link: https://www.sec.gov/Archives/edgar/data/1296774/000195917325006626/0001959173-25-006626.txt
 2025-10-31 17:54:41 | BRUNER JUDY | Director | Shares: 8886 | Value: $2,385,000.0 | Percent: 0.004187% | Link: https://www.sec.gov/Archives/edgar/data/1137789/000195917325006628/0001959173-25-006628.txt
 2025-10-31 17:54:42 | BRUNER JUDY | Director | Shares: 8886 | Value: $2,385,000.0 | Percent: 0.004187% | Link: https://www.sec.gov/Archives/edgar/data/1112668/000195917325006628/0001959173-25-006628.txt
+2025-10-31 18:21:09 | Reske James R | Officer | Shares: 33204 | Value: $514,330.0 | Percent: 0.031837% | Link: https://www.sec.gov/Archives/edgar/data/1435648/000143564825000009/0001435648-25-000009.txt
+2025-10-31 18:21:09 | Reske James R | Officer | Shares: 33204 | Value: $514,330.0 | Percent: 0.031837% | Link: https://www.sec.gov/Archives/edgar/data/712537/000143564825000009/0001435648-25-000009.txt
