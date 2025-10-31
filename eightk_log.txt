@@ -8237,3 +8237,4 @@
 2025-10-31 15:30:48 | 8-K - Gaming & Leisure Properties, Inc. (0001575965) (Filer) | 2025-10-31T11:16:25-04:00 | https://www.sec.gov/Archives/edgar/data/1575965/000157596525000049/0001575965-25-000049.txt
 2025-10-31 15:30:49 | 8-K - New Mountain Net Lease Trust (0002033695) (Filer) | 2025-10-31T11:13:33-04:00 | https://www.sec.gov/Archives/edgar/data/2033695/000158064225006861/0001580642-25-006861.txt
 2025-10-31 15:45:00 | 8-K - T1 Energy Inc. (0001992243) (Filer) | 2025-10-31T11:39:41-04:00 | https://www.sec.gov/Archives/edgar/data/1992243/000121390025104500/0001213900-25-104500.txt
+2025-10-31 15:54:07 | 8-K - Fly-E Group, Inc. (0001975940) (Filer) | 2025-10-31T11:45:45-04:00 | https://www.sec.gov/Archives/edgar/data/1975940/000121390025104504/0001213900-25-104504.txt
