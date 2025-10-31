@@ -5763,3 +5763,5 @@
 2025-10-31 20:19:45 | EDWARD GOLDBERG | Officer | Shares: 735505 | Value: $17,386,087.84 | Percent: 0.497219% | Link: https://www.sec.gov/Archives/edgar/data/1880319/000195004725008325/0001950047-25-008325.txt
 2025-10-31 20:19:48 | ELIZABETH H RUTLEDGE | Officer | Shares: 50000 | Value: $17,944,000.0 | Percent: 0.007258% | Link: https://www.sec.gov/Archives/edgar/data/1730107/000195004725008324/0001950047-25-008324.txt
 2025-10-31 20:19:49 | ELIZABETH H RUTLEDGE | Officer | Shares: 50000 | Value: $17,944,000.0 | Percent: 0.007258% | Link: https://www.sec.gov/Archives/edgar/data/4962/000195004725008324/0001950047-25-008324.txt
+2025-10-31 20:36:48 | RODERICK J MACKENZIE | Officer | Shares: 53769 | Value: $207,456.93 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/2045694/000195004725008331/0001950047-25-008331.txt
+2025-10-31 20:36:49 | RODERICK J MACKENZIE | Officer | Shares: 53769 | Value: $207,456.93 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/1451505/000195004725008331/0001950047-25-008331.txt
