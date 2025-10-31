@@ -8166,3 +8166,13 @@
 2025-10-30 21:33:01 | 8-K - Stardust Power Inc. (0001831979) (Filer) | 2025-10-30T17:25:29-04:00 | https://www.sec.gov/Archives/edgar/data/1831979/000149315225020272/0001493152-25-020272.txt
 2025-10-30 21:33:03 | 8-K - Mechanics Bancorp (0001518715) (Filer) | 2025-10-30T17:22:20-04:00 | https://www.sec.gov/Archives/edgar/data/1518715/000151871525000177/0001518715-25-000177.txt
 2025-10-30 21:33:04 | 8-K - Mechanics Bancorp (0001518715) (Filer) | 2025-10-30T17:21:28-04:00 | https://www.sec.gov/Archives/edgar/data/1518715/000151871525000176/0001518715-25-000176.txt
+2025-10-31 10:12:32 | 8-K - Proto Labs Inc (0001443669) (Filer) | 2025-10-31T06:10:27-04:00 | https://www.sec.gov/Archives/edgar/data/1443669/000144366925000011/0001443669-25-000011.txt
+2025-10-31 10:12:34 | 8-K - NETSOL TECHNOLOGIES INC (0001039280) (Filer) | 2025-10-31T06:10:24-04:00 | https://www.sec.gov/Archives/edgar/data/1039280/000149315225020296/0001493152-25-020296.txt
+2025-10-31 10:12:35 | 8-K - Singularity Future Technology Ltd. (0001422892) (Filer) | 2025-10-31T06:03:07-04:00 | https://www.sec.gov/Archives/edgar/data/1422892/000121390025104361/0001213900-25-104361.txt
+2025-10-31 10:12:36 | 8-K - 4D Molecular Therapeutics, Inc. (0001650648) (Filer) | 2025-10-31T06:02:29-04:00 | https://www.sec.gov/Archives/edgar/data/1650648/000119312525259302/0001193125-25-259302.txt
+2025-10-31 10:12:38 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-10-31T06:02:01-04:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325016396/0001062993-25-016396.txt
+2025-10-31 10:12:38 | 8-K/A - WILLIS TOWERS WATSON PLC (0001140536) (Filer) | 2025-10-31T06:00:43-04:00 | https://www.sec.gov/Archives/edgar/data/1140536/000117184325006847/0001171843-25-006847.txt
+2025-10-31 10:12:39 | 8-K - Allison Transmission Holdings Inc (0001411207) (Filer) | 2025-10-30T21:43:33-04:00 | https://www.sec.gov/Archives/edgar/data/1411207/000119312525259124/0001193125-25-259124.txt
+2025-10-31 10:12:39 | 8-K/A - BEYOND MEAT, INC. (0001655210) (Filer) | 2025-10-30T21:34:12-04:00 | https://www.sec.gov/Archives/edgar/data/1655210/000119312525259119/0001193125-25-259119.txt
+2025-10-31 10:12:41 | 8-K - NEWS CORP (0001564708) (Filer) | 2025-10-30T21:10:25-04:00 | https://www.sec.gov/Archives/edgar/data/1564708/000156470825000558/0001564708-25-000558.txt
+2025-10-31 10:12:44 | 8-K - Apollo Commercial Real Estate Finance, Inc. (0001467760) (Filer) | 2025-10-30T19:26:05-04:00 | https://www.sec.gov/Archives/edgar/data/1467760/000119312525258995/0001193125-25-258995.txt
