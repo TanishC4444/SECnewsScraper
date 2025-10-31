@@ -5765,3 +5765,7 @@
 2025-10-31 20:19:49 | ELIZABETH H RUTLEDGE | Officer | Shares: 50000 | Value: $17,944,000.0 | Percent: 0.007258% | Link: https://www.sec.gov/Archives/edgar/data/4962/000195004725008324/0001950047-25-008324.txt
 2025-10-31 20:36:48 | RODERICK J MACKENZIE | Officer | Shares: 53769 | Value: $207,456.93 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/2045694/000195004725008331/0001950047-25-008331.txt
 2025-10-31 20:36:49 | RODERICK J MACKENZIE | Officer | Shares: 53769 | Value: $207,456.93 | Percent: 0.004882% | Link: https://www.sec.gov/Archives/edgar/data/1451505/000195004725008331/0001950047-25-008331.txt
+2025-10-31 20:45:34 | EDWARD PICK | Affiliate | Shares: 100000 | Value: $16,434,440.0 | Percent: 0.006264% | Link: https://www.sec.gov/Archives/edgar/data/1801222/000195004725008334/0001950047-25-008334.txt
+2025-10-31 20:45:35 | EDWARD PICK | Affiliate | Shares: 100000 | Value: $16,434,440.0 | Percent: 0.006264% | Link: https://www.sec.gov/Archives/edgar/data/895421/000195004725008334/0001950047-25-008334.txt
+2025-10-31 20:45:37 | JEFFREY S NIEW | Officer | Shares: 98252 | Value: $2,330,026.53 | Percent: 0.115384% | Link: https://www.sec.gov/Archives/edgar/data/1587523/000195004725008333/0001950047-25-008333.txt
+2025-10-31 20:45:38 | JEFFREY S NIEW | Officer | Shares: 98252 | Value: $2,330,026.53 | Percent: 0.115384% | Link: https://www.sec.gov/Archives/edgar/data/1535760/000195004725008333/0001950047-25-008333.txt
