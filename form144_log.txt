@@ -5781,3 +5781,5 @@
 2025-10-31 21:26:21 | PAUL D RYAN | Director | Shares: 17767 | Value: $1,143,496.56 | Percent: 0.008527% | Link: https://www.sec.gov/Archives/edgar/data/1769066/000195004725008337/0001950047-25-008337.txt
 2025-10-31 21:26:22 | PAUL D RYAN | Director | Shares: 17767 | Value: $1,143,496.56 | Percent: 0.008527% | Link: https://www.sec.gov/Archives/edgar/data/1754301/000195004725008337/0001950047-25-008337.txt
 2025-10-31 21:26:23 | Digital Currency Group, Inc. | Affiliate | Shares: 7110 | Value: $95,849.91 | Percent: 0.098326% | Link: https://www.sec.gov/Archives/edgar/data/1896677/000165253625000119/0001652536-25-000119.txt
+2025-10-31 21:37:10 | Craig Hunsaker | officer | Shares: 100000 | Value: $1,991,000.0 | Percent: 0.067575% | Link: https://www.sec.gov/Archives/edgar/data/1509282/000150928225000006/0001509282-25-000006.txt
+2025-10-31 21:37:12 | Craig Hunsaker | officer | Shares: 100000 | Value: $1,991,000.0 | Percent: 0.067575% | Link: https://www.sec.gov/Archives/edgar/data/1350653/000150928225000006/0001509282-25-000006.txt
