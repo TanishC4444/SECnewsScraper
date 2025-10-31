@@ -8274,3 +8274,7 @@
 2025-10-31 20:36:44 | 8-K - Unite Acquisition 2 Corp. (0001938570) (Filer) | 2025-10-31T16:32:36-04:00 | https://www.sec.gov/Archives/edgar/data/1938570/000121390025104712/0001213900-25-104712.txt
 2025-10-31 20:36:46 | 8-K - FiscalNote Holdings, Inc. (0001823466) (Filer) | 2025-10-31T16:30:53-04:00 | https://www.sec.gov/Archives/edgar/data/1823466/000119312525260854/0001193125-25-260854.txt
 2025-10-31 20:45:31 | 8-K - EBAY INC (0001065088) (Filer) | 2025-10-31T16:41:27-04:00 | https://www.sec.gov/Archives/edgar/data/1065088/000155278125000382/0001552781-25-000382.txt
+2025-10-31 20:54:41 | 8-K/A - HORMEL FOODS CORP /DE/ (0000048465) (Filer) | 2025-10-31T16:53:23-04:00 | https://www.sec.gov/Archives/edgar/data/48465/000004846525000049/0000048465-25-000049.txt
+2025-10-31 20:54:42 | 8-K - Heritage Distilling Holding Company, Inc. (0001788230) (Filer) | 2025-10-31T16:50:56-04:00 | https://www.sec.gov/Archives/edgar/data/1788230/000178823025000168/0001788230-25-000168.txt
+2025-10-31 20:54:43 | 8-K - Vestand Inc. (0001898604) (Filer) | 2025-10-31T16:50:34-04:00 | https://www.sec.gov/Archives/edgar/data/1898604/000149315225020411/0001493152-25-020411.txt
+2025-10-31 20:54:44 | 8-K - Principal Credit Real Estate Income Trust (0002026448) (Filer) | 2025-10-31T16:46:25-04:00 | https://www.sec.gov/Archives/edgar/data/2026448/000202644825000082/0002026448-25-000082.txt
