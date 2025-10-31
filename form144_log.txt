@@ -5753,3 +5753,5 @@
 2025-10-31 19:15:34 | Sharp Douglas J | Officer | Shares: 160000 | Value: $3,768,837.69 | Percent: 0.035877% | Link: https://www.sec.gov/Archives/edgar/data/914208/000195917325006630/0001959173-25-006630.txt
 2025-10-31 19:26:58 | Parham Richelle P | Director | Shares: 7009 | Value: $1,782,273.05 | Percent: 0.008455% | Link: https://www.sec.gov/Archives/edgar/data/1550078/000195917325006631/0001959173-25-006631.txt
 2025-10-31 19:26:59 | Parham Richelle P | Director | Shares: 7009 | Value: $1,782,273.05 | Percent: 0.008455% | Link: https://www.sec.gov/Archives/edgar/data/920148/000195917325006631/0001959173-25-006631.txt
+2025-10-31 19:55:57 | Renaissance Charitable Foundation | Director | Shares: 12255 | Value: $496,817.0 | Percent: 0.023392% | Link: https://www.sec.gov/Archives/edgar/data/1237044/000196922325000895/0001969223-25-000895.txt
+2025-10-31 19:55:58 | Renaissance Charitable Foundation | Director | Shares: 12255 | Value: $496,817.0 | Percent: 0.023392% | Link: https://www.sec.gov/Archives/edgar/data/790359/000196922325000895/0001969223-25-000895.txt
