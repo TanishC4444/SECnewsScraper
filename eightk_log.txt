@@ -8255,3 +8255,13 @@
 2025-10-31 19:37:51 | 8-K/A - Benchmark 2025-V17 Mortgage Trust (0002063065) (Filer) | 2025-10-31T15:32:50-04:00 | https://www.sec.gov/Archives/edgar/data/2063065/000153949725002825/0001539497-25-002825.txt
 2025-10-31 19:37:51 | 8-K - KKR FS Income Trust (0001930679) (Filer) | 2025-10-31T15:30:30-04:00 | https://www.sec.gov/Archives/edgar/data/1930679/000110465925104897/0001104659-25-104897.txt
 2025-10-31 19:46:46 | 8-K - KKR FS Income Trust Select (0001975736) (Filer) | 2025-10-31T15:37:02-04:00 | https://www.sec.gov/Archives/edgar/data/1975736/000110465925104901/0001104659-25-104901.txt
+2025-10-31 20:19:26 | 8-K - BlackRock Monticello Debt Real Estate Investment Trust (0002049595) (Filer) | 2025-10-31T16:18:32-04:00 | https://www.sec.gov/Archives/edgar/data/2049595/000119312525260817/0001193125-25-260817.txt
+2025-10-31 20:19:27 | 8-K - Corebridge Financial, Inc. (0001889539) (Filer) | 2025-10-31T16:17:47-04:00 | https://www.sec.gov/Archives/edgar/data/1889539/000188953925000091/0001889539-25-000091.txt
+2025-10-31 20:19:29 | 8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer) | 2025-10-31T16:16:53-04:00 | https://www.sec.gov/Archives/edgar/data/1895249/000110465925104936/0001104659-25-104936.txt
+2025-10-31 20:19:31 | 8-K - DTE ENERGY CO (0000936340) (Filer) | 2025-10-31T16:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/936340/000093634025000228/0000936340-25-000228.txt
+2025-10-31 20:19:31 | 8-K - DTE Electric Co (0000028385) (Filer) | 2025-10-31T16:15:50-04:00 | https://www.sec.gov/Archives/edgar/data/28385/000093634025000228/0000936340-25-000228.txt
+2025-10-31 20:19:32 | 8-K - Peraso Inc. (0000890394) (Filer) | 2025-10-31T16:15:46-04:00 | https://www.sec.gov/Archives/edgar/data/890394/000121390025104683/0001213900-25-104683.txt
+2025-10-31 20:19:34 | 8-K - NorthWestern Energy Group, Inc. (0001993004) (Filer) | 2025-10-31T16:15:42-04:00 | https://www.sec.gov/Archives/edgar/data/1993004/000199300425000190/0001993004-25-000190.txt
+2025-10-31 20:19:35 | 8-K - Miluna Acquisition Corp (0002077033) (Filer) | 2025-10-31T16:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/2077033/000149315225020385/0001493152-25-020385.txt
+2025-10-31 20:19:36 | 8-K - SOCIETY PASS INCORPORATED. (0001817511) (Filer) | 2025-10-31T16:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/1817511/000149315225020386/0001493152-25-020386.txt
+2025-10-31 20:19:38 | 8-K - FIREFLY NEUROSCIENCE, INC. (0000803578) (Filer) | 2025-10-31T16:15:27-04:00 | https://www.sec.gov/Archives/edgar/data/803578/000121390025104680/0001213900-25-104680.txt

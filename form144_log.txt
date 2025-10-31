@@ -5755,3 +5755,11 @@
 2025-10-31 19:26:59 | Parham Richelle P | Director | Shares: 7009 | Value: $1,782,273.05 | Percent: 0.008455% | Link: https://www.sec.gov/Archives/edgar/data/920148/000195917325006631/0001959173-25-006631.txt
 2025-10-31 19:55:57 | Renaissance Charitable Foundation | Director | Shares: 12255 | Value: $496,817.0 | Percent: 0.023392% | Link: https://www.sec.gov/Archives/edgar/data/1237044/000196922325000895/0001969223-25-000895.txt
 2025-10-31 19:55:58 | Renaissance Charitable Foundation | Director | Shares: 12255 | Value: $496,817.0 | Percent: 0.023392% | Link: https://www.sec.gov/Archives/edgar/data/790359/000196922325000895/0001969223-25-000895.txt
+2025-10-31 20:19:39 | Maggio Paula C | Officer | Shares: 20000 | Value: $548,816.62 | Percent: 0.008939% | Link: https://www.sec.gov/Archives/edgar/data/1293826/000195917325006634/0001959173-25-006634.txt
+2025-10-31 20:19:40 | Maggio Paula C | Officer | Shares: 20000 | Value: $548,816.62 | Percent: 0.008939% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325006634/0001959173-25-006634.txt
+2025-10-31 20:19:42 | DOUGLAS HERRINGTON | Officer | Shares: 22000 | Value: $4,902,920.0 | Percent: 0.000206% | Link: https://www.sec.gov/Archives/edgar/data/1936006/000195004725008326/0001950047-25-008326.txt
+2025-10-31 20:19:43 | DOUGLAS HERRINGTON | Officer | Shares: 22000 | Value: $4,902,920.0 | Percent: 0.000206% | Link: https://www.sec.gov/Archives/edgar/data/1018724/000195004725008326/0001950047-25-008326.txt
+2025-10-31 20:19:44 | EDWARD GOLDBERG | Officer | Shares: 735505 | Value: $17,386,087.84 | Percent: 0.497219% | Link: https://www.sec.gov/Archives/edgar/data/1893007/000195004725008325/0001950047-25-008325.txt
+2025-10-31 20:19:45 | EDWARD GOLDBERG | Officer | Shares: 735505 | Value: $17,386,087.84 | Percent: 0.497219% | Link: https://www.sec.gov/Archives/edgar/data/1880319/000195004725008325/0001950047-25-008325.txt
+2025-10-31 20:19:48 | ELIZABETH H RUTLEDGE | Officer | Shares: 50000 | Value: $17,944,000.0 | Percent: 0.007258% | Link: https://www.sec.gov/Archives/edgar/data/1730107/000195004725008324/0001950047-25-008324.txt
+2025-10-31 20:19:49 | ELIZABETH H RUTLEDGE | Officer | Shares: 50000 | Value: $17,944,000.0 | Percent: 0.007258% | Link: https://www.sec.gov/Archives/edgar/data/4962/000195004725008324/0001950047-25-008324.txt
