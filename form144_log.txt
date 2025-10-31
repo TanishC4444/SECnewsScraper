@@ -5751,3 +5751,5 @@
 2025-10-31 19:15:32 | Zhernov Mykhailo | Director | Shares: 50000 | Value: $628,270.0 | Percent: 0.047659% | Link: https://www.sec.gov/Archives/edgar/data/1951089/000010362325000048/0000103623-25-000048.txt
 2025-10-31 19:15:33 | Sharp Douglas J | Officer | Shares: 160000 | Value: $3,768,837.69 | Percent: 0.035877% | Link: https://www.sec.gov/Archives/edgar/data/1764168/000195917325006630/0001959173-25-006630.txt
 2025-10-31 19:15:34 | Sharp Douglas J | Officer | Shares: 160000 | Value: $3,768,837.69 | Percent: 0.035877% | Link: https://www.sec.gov/Archives/edgar/data/914208/000195917325006630/0001959173-25-006630.txt
+2025-10-31 19:26:58 | Parham Richelle P | Director | Shares: 7009 | Value: $1,782,273.05 | Percent: 0.008455% | Link: https://www.sec.gov/Archives/edgar/data/1550078/000195917325006631/0001959173-25-006631.txt
+2025-10-31 19:26:59 | Parham Richelle P | Director | Shares: 7009 | Value: $1,782,273.05 | Percent: 0.008455% | Link: https://www.sec.gov/Archives/edgar/data/920148/000195917325006631/0001959173-25-006631.txt
