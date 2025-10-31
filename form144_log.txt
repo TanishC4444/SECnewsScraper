@@ -5729,3 +5729,7 @@
 2025-10-31 14:41:16 | Montgomery Neela | Director | Shares: 5833 | Value: $704,772.23 | Percent: 0.003972% | Link: https://www.sec.gov/Archives/edgar/data/1032975/000194984625000552/0001949846-25-000552.txt
 2025-10-31 14:41:18 | Kidd Mark | Officer | Shares: 7306 | Value: $736,590.92 | Percent: 0.002474% | Link: https://www.sec.gov/Archives/edgar/data/1732058/000195917325006622/0001959173-25-006622.txt
 2025-10-31 14:41:19 | Kidd Mark | Officer | Shares: 7306 | Value: $736,590.92 | Percent: 0.002474% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325006622/0001959173-25-006622.txt
+2025-10-31 16:17:00 | KEETON RYAN S. | Officer | Shares: 40000 | Value: $12,237,080.0 | Percent: 0.028284% | Link: https://www.sec.gov/Archives/edgar/data/1700542/000194984625000554/0001949846-25-000554.txt
+2025-10-31 16:17:01 | KEETON RYAN S. | Officer | Shares: 40000 | Value: $12,237,080.0 | Percent: 0.028284% | Link: https://www.sec.gov/Archives/edgar/data/1690820/000194984625000554/0001949846-25-000554.txt
+2025-10-31 16:17:03 | EDWARD SCHLESINGER | Officer | Shares: 20893 | Value: $1,906,486.25 | Percent: 0.002439% | Link: https://www.sec.gov/Archives/edgar/data/1658538/000196922325000893/0001969223-25-000893.txt
+2025-10-31 16:17:03 | EDWARD SCHLESINGER | Officer | Shares: 20893 | Value: $1,906,486.25 | Percent: 0.002439% | Link: https://www.sec.gov/Archives/edgar/data/24741/000196922325000893/0001969223-25-000893.txt
