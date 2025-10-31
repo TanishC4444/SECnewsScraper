@@ -5717,3 +5717,7 @@
 2025-10-30 21:33:31 | ALF OPERATING PARTNERS LTD. | Owner | Shares: 99877 | Value: $3,824,290.0 | Percent: 0.698933% | Link: https://www.sec.gov/Archives/edgar/data/1791145/000119312525258863/0001193125-25-258863.txt
 2025-10-30 22:10:58 | Marshall Witt | Officer | Shares: 62764 | Value: $9,789,401.5 | Percent: 0.077070% | Link: https://www.sec.gov/Archives/edgar/data/1574095/000195004725008306/0001950047-25-008306.txt
 2025-10-30 22:10:59 | Marshall Witt | Officer | Shares: 62764 | Value: $9,789,401.5 | Percent: 0.077070% | Link: https://www.sec.gov/Archives/edgar/data/1177394/000195004725008306/0001950047-25-008306.txt
+2025-10-31 12:55:59 | Kelly Julie | Director | Shares: 6697 | Value: $185,038.0 | Percent: 0.022242% | Link: https://www.sec.gov/Archives/edgar/data/1847223/000165495425012391/0001654954-25-012391.txt
+2025-10-31 12:56:00 | Kelly Julie | Director | Shares: 6697 | Value: $185,038.0 | Percent: 0.022242% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000165495425012391/0001654954-25-012391.txt
+2025-10-31 12:56:01 | Fox Lynne P. | Director | Shares: 8949 | Value: $247,260.87 | Percent: 0.029722% | Link: https://www.sec.gov/Archives/edgar/data/1848474/000165495425012390/0001654954-25-012390.txt
+2025-10-31 12:56:03 | Fox Lynne P. | Director | Shares: 8949 | Value: $247,260.87 | Percent: 0.029722% | Link: https://www.sec.gov/Archives/edgar/data/1823608/000165495425012390/0001654954-25-012390.txt
