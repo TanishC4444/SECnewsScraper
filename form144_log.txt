@@ -5833,3 +5833,5 @@
 2025-11-03 20:51:17 | YOUNG MORRIS S | Officer | Shares: 80000 | Value: $691,848.0 | Percent: 0.173442% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000076490025000039/0000764900-25-000039.txt
 2025-11-03 21:00:26 | Corbin Charles R. Jr. | Officer | Shares: 30426 | Value: $1,272,171.27 | Percent: 0.035568% | Link: https://www.sec.gov/Archives/edgar/data/1691396/000195917325006690/0001959173-25-006690.txt
 2025-11-03 21:00:27 | Corbin Charles R. Jr. | Officer | Shares: 30426 | Value: $1,272,171.27 | Percent: 0.035568% | Link: https://www.sec.gov/Archives/edgar/data/1674168/000195917325006690/0001959173-25-006690.txt
+2025-11-03 21:25:31 | CAMERON TURTLE | Director | Shares: 90000 | Value: $2,201,400.0 | Percent: 0.149004% | Link: https://www.sec.gov/Archives/edgar/data/1758363/000195004725008390/0001950047-25-008390.txt
+2025-11-03 21:25:32 | CAMERON TURTLE | Director | Shares: 90000 | Value: $2,201,400.0 | Percent: 0.149004% | Link: https://www.sec.gov/Archives/edgar/data/1636282/000195004725008390/0001950047-25-008390.txt
