@@ -5841,3 +5841,9 @@
 2025-11-03 21:37:40 | Mahesh Chatta Aditya | Chief Risk Officer | Shares: 100000 | Value: $1,015,000.0 | Percent: 0.000660% | Link: https://www.sec.gov/Archives/edgar/data/891478/000095010325014157/0000950103-25-014157.txt
 2025-11-03 21:37:41 | CAFARO DEBRA A | Officer | Shares: 20644 | Value: $1,524,690.62 | Percent: 0.004395% | Link: https://www.sec.gov/Archives/edgar/data/1215188/000196430625000386/0001964306-25-000386.txt
 2025-11-03 21:37:42 | CAFARO DEBRA A | Officer | Shares: 20644 | Value: $1,524,690.62 | Percent: 0.004395% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000386/0001964306-25-000386.txt
+2025-11-03 21:46:59 | MICHAEL WEENING | Officer | Shares: 74000 | Value: $4,989,102.2 | Percent: 0.111653% | Link: https://www.sec.gov/Archives/edgar/data/1678385/000195004725008415/0001950047-25-008415.txt
+2025-11-03 21:46:59 | MICHAEL WEENING | Officer | Shares: 74000 | Value: $4,989,102.2 | Percent: 0.111653% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725008415/0001950047-25-008415.txt
+2025-11-03 21:47:01 | MAARTEN WENSVEEN | Officer | Shares: 22830 | Value: $1,560,601.73 | Percent: 0.092535% | Link: https://www.sec.gov/Archives/edgar/data/1766117/000195004725008414/0001950047-25-008414.txt
+2025-11-03 21:47:02 | MAARTEN WENSVEEN | Officer | Shares: 22830 | Value: $1,560,601.73 | Percent: 0.092535% | Link: https://www.sec.gov/Archives/edgar/data/1262976/000195004725008414/0001950047-25-008414.txt
+2025-11-03 21:47:02 | DCG International Investments Ltd | Affiliate | Shares: 14000 | Value: $56,000.0 | Percent: 0.029709% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000356/0001977454-25-000356.txt
+2025-11-03 21:47:05 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $608,946.0 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000353/0001977454-25-000353.txt
