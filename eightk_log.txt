@@ -8323,3 +8323,6 @@
 2025-11-03 11:48:57 | 8-K - Liquidia Corp (0001819576) (Filer) | 2025-11-03T06:46:28-05:00 | https://www.sec.gov/Archives/edgar/data/1819576/000110465925105199/0001104659-25-105199.txt
 2025-11-03 11:48:58 | 8-K - Kenvue Inc. (0001944048) (Filer) | 2025-11-03T06:44:14-05:00 | https://www.sec.gov/Archives/edgar/data/1944048/000194404825000194/0001944048-25-000194.txt
 2025-11-03 11:48:59 | 8-K - Kosmos Energy Ltd. (0001509991) (Filer) | 2025-11-03T06:42:57-05:00 | https://www.sec.gov/Archives/edgar/data/1509991/000150999125000069/0001509991-25-000069.txt
+2025-11-03 11:58:07 | 8-K - Kontoor Brands, Inc. (0001760965) (Filer) | 2025-11-03T06:57:05-05:00 | https://www.sec.gov/Archives/edgar/data/1760965/000176096525000100/0001760965-25-000100.txt
+2025-11-03 11:58:09 | 8-K - Pediatrix Medical Group, Inc. (0000893949) (Filer) | 2025-11-03T06:50:26-05:00 | https://www.sec.gov/Archives/edgar/data/893949/000119312525261626/0001193125-25-261626.txt
+2025-11-03 11:58:10 | 8-K - Information Services Group Inc. (0001371489) (Filer) | 2025-11-03T06:49:39-05:00 | https://www.sec.gov/Archives/edgar/data/1371489/000110465925105204/0001104659-25-105204.txt
