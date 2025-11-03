@@ -5801,3 +5801,7 @@
 2025-11-03 16:22:51 | MOEHN MICHAEL L | Officer | Shares: 6500 | Value: $659,360.0 | Percent: 0.002404% | Link: https://www.sec.gov/Archives/edgar/data/1002910/000195917325006645/0001959173-25-006645.txt
 2025-11-03 16:57:21 | Castagnetto Michael D. | Officer | Shares: 45266 | Value: $6,866,673.53 | Percent: 0.038316% | Link: https://www.sec.gov/Archives/edgar/data/1797376/000195917325006650/0001959173-25-006650.txt
 2025-11-03 16:57:22 | Castagnetto Michael D. | Officer | Shares: 45266 | Value: $6,866,673.53 | Percent: 0.038316% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000195917325006650/0001959173-25-006650.txt
+2025-11-03 17:19:05 | ROCHE VINCENT | Officer | Shares: 10000 | Value: $2,349,500.0 | Percent: 0.002033% | Link: https://www.sec.gov/Archives/edgar/data/1201872/000195917325006657/0001959173-25-006657.txt
+2025-11-03 17:19:06 | ROCHE VINCENT | Officer | Shares: 10000 | Value: $2,349,500.0 | Percent: 0.002033% | Link: https://www.sec.gov/Archives/edgar/data/6281/000195917325006657/0001959173-25-006657.txt
+2025-11-03 17:19:08 | Meaney William L | Officer | Shares: 69125 | Value: $7,086,003.75 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1566391/000195917325006654/0001959173-25-006654.txt
+2025-11-03 17:19:09 | Meaney William L | Officer | Shares: 69125 | Value: $7,086,003.75 | Percent: 0.023405% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325006654/0001959173-25-006654.txt
