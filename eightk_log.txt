@@ -8326,3 +8326,13 @@
 2025-11-03 11:58:07 | 8-K - Kontoor Brands, Inc. (0001760965) (Filer) | 2025-11-03T06:57:05-05:00 | https://www.sec.gov/Archives/edgar/data/1760965/000176096525000100/0001760965-25-000100.txt
 2025-11-03 11:58:09 | 8-K - Pediatrix Medical Group, Inc. (0000893949) (Filer) | 2025-11-03T06:50:26-05:00 | https://www.sec.gov/Archives/edgar/data/893949/000119312525261626/0001193125-25-261626.txt
 2025-11-03 11:58:10 | 8-K - Information Services Group Inc. (0001371489) (Filer) | 2025-11-03T06:49:39-05:00 | https://www.sec.gov/Archives/edgar/data/1371489/000110465925105204/0001104659-25-105204.txt
+2025-11-03 12:49:16 | 8-K - Anteris Technologies Global Corp. (0002011514) (Filer) | 2025-11-03T07:45:33-05:00 | https://www.sec.gov/Archives/edgar/data/2011514/000114036125040087/0001140361-25-040087.txt
+2025-11-03 12:49:18 | 8-K - Rein Therapeutics, Inc. (0001420565) (Filer) | 2025-11-03T07:45:11-05:00 | https://www.sec.gov/Archives/edgar/data/1420565/000119312525261706/0001193125-25-261706.txt
+2025-11-03 12:49:18 | 8-K - FOSTER L B CO (0000352825) (Filer) | 2025-11-03T07:38:56-05:00 | https://www.sec.gov/Archives/edgar/data/352825/000035282525000132/0000352825-25-000132.txt
+2025-11-03 12:49:20 | 8-K - Kalaris Therapeutics, Inc. (0001754068) (Filer) | 2025-11-03T07:38:37-05:00 | https://www.sec.gov/Archives/edgar/data/1754068/000119312525261697/0001193125-25-261697.txt
+2025-11-03 12:49:24 | 8-K - Resolute Holdings Management, Inc. (0002039497) (Filer) | 2025-11-03T07:36:27-05:00 | https://www.sec.gov/Archives/edgar/data/2039497/000110465925105256/0001104659-25-105256.txt
+2025-11-03 12:49:27 | 8-K - CompoSecure, Inc. (0001823144) (Filer) | 2025-11-03T07:36:05-05:00 | https://www.sec.gov/Archives/edgar/data/1823144/000110465925105255/0001104659-25-105255.txt
+2025-11-03 12:49:29 | 8-K - HNI CORP (0000048287) (Filer) | 2025-11-03T07:35:17-05:00 | https://www.sec.gov/Archives/edgar/data/48287/000095010325014111/0000950103-25-014111.txt
+2025-11-03 12:49:32 | 8-K - TG THERAPEUTICS, INC. (0001001316) (Filer) | 2025-11-03T07:34:54-05:00 | https://www.sec.gov/Archives/edgar/data/1001316/000143774925032658/0001437749-25-032658.txt
+2025-11-03 12:49:34 | 8-K - Genie Energy Ltd. (0001528356) (Filer) | 2025-11-03T07:34:06-05:00 | https://www.sec.gov/Archives/edgar/data/1528356/000143774925032656/0001437749-25-032656.txt
+2025-11-03 12:49:37 | 8-K - Pyxis Oncology, Inc. (0001782223) (Filer) | 2025-11-03T07:33:23-05:00 | https://www.sec.gov/Archives/edgar/data/1782223/000119312525261689/0001193125-25-261689.txt
