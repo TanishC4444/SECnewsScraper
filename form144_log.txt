@@ -5809,3 +5809,5 @@
 2025-11-03 17:36:50 | EINAR ROOSILEHT | OFFICER | Shares: 70000 | Value: $1,188,895.04 | Percent: 0.079001% | Link: https://www.sec.gov/Archives/edgar/data/1793659/000162828025048042/0001628280-25-048042.txt
 2025-11-03 17:36:53 | Shulman Douglas H. | Officer | Shares: 35000 | Value: $2,083,800.0 | Percent: 0.029729% | Link: https://www.sec.gov/Archives/edgar/data/1726926/000195917325006659/0001959173-25-006659.txt
 2025-11-03 17:36:54 | Shulman Douglas H. | Officer | Shares: 35000 | Value: $2,083,800.0 | Percent: 0.029729% | Link: https://www.sec.gov/Archives/edgar/data/1584207/000195917325006659/0001959173-25-006659.txt
+2025-11-03 17:46:54 | Sparks Scott Andrew | Officer | Shares: 40000 | Value: $270,400.0 | Percent: 0.027196% | Link: https://www.sec.gov/Archives/edgar/data/1640450/000195917325006664/0001959173-25-006664.txt
+2025-11-03 17:46:55 | Sparks Scott Andrew | Officer | Shares: 40000 | Value: $270,400.0 | Percent: 0.027196% | Link: https://www.sec.gov/Archives/edgar/data/866829/000195917325006664/0001959173-25-006664.txt
