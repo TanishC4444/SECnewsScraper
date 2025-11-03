@@ -5861,3 +5861,7 @@
 2025-11-03 22:18:02 | Michael A Smith | Officer | Shares: 27130 | Value: $4,985,054.0 | Percent: 0.012721% | Link: https://www.sec.gov/Archives/edgar/data/1104506/000162828025048341/0001628280-25-048341.txt
 2025-11-03 22:18:03 | Shafer Andrew | Officer | Shares: 29797 | Value: $67,970.0 | Percent: 0.012321% | Link: https://www.sec.gov/Archives/edgar/data/1999254/000197248125000261/0001972481-25-000261.txt
 2025-11-03 22:18:04 | Shafer Andrew | Officer | Shares: 29797 | Value: $67,970.0 | Percent: 0.012321% | Link: https://www.sec.gov/Archives/edgar/data/1392380/000197248125000261/0001972481-25-000261.txt
+2025-11-03 22:36:40 | LUKE SCRIVANICH | Officer | Shares: 9765 | Value: $170,419.76 | Percent: 0.004375% | Link: https://www.sec.gov/Archives/edgar/data/1556374/000195004725008418/0001950047-25-008418.txt
+2025-11-03 22:36:41 | LUKE SCRIVANICH | Officer | Shares: 9765 | Value: $170,419.76 | Percent: 0.004375% | Link: https://www.sec.gov/Archives/edgar/data/912093/000195004725008418/0001950047-25-008418.txt
+2025-11-03 22:36:43 | Stephan H. Fluhler | Chief Information Officer | Shares: 5689 | Value: $203,381.75 | Percent: 0.009947% | Link: https://www.sec.gov/Archives/edgar/data/1608347/000160834725000010/0001608347-25-000010.txt
+2025-11-03 22:36:44 | Stephan H. Fluhler | Chief Information Officer | Shares: 5689 | Value: $203,381.75 | Percent: 0.009947% | Link: https://www.sec.gov/Archives/edgar/data/712534/000160834725000010/0001608347-25-000010.txt
