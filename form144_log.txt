@@ -5829,3 +5829,5 @@
 2025-11-03 20:41:10 | Austin Willis | CEO | Shares: 7900 | Value: $1,014,044.0 | Percent: 0.116012% | Link: https://www.sec.gov/Archives/edgar/data/1018164/000162828025048175/0001628280-25-048175.txt
 2025-11-03 20:41:10 | Matthew Demchyk | Former officer | Shares: 6818 | Value: $308,309.96 | Percent: 0.002409% | Link: https://www.sec.gov/Archives/edgar/data/1766801/000162828025048172/0001628280-25-048172.txt
 2025-11-03 20:41:10 | Matthew Demchyk | Former officer | Shares: 6818 | Value: $308,309.96 | Percent: 0.002409% | Link: https://www.sec.gov/Archives/edgar/data/1575965/000162828025048172/0001628280-25-048172.txt
+2025-11-03 20:51:16 | YOUNG MORRIS S | Officer | Shares: 80000 | Value: $691,848.0 | Percent: 0.173442% | Link: https://www.sec.gov/Archives/edgar/data/1078582/000076490025000039/0000764900-25-000039.txt
+2025-11-03 20:51:17 | YOUNG MORRIS S | Officer | Shares: 80000 | Value: $691,848.0 | Percent: 0.173442% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000076490025000039/0000764900-25-000039.txt
