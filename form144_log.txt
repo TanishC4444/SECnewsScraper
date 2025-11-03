@@ -5847,3 +5847,7 @@
 2025-11-03 21:47:02 | MAARTEN WENSVEEN | Officer | Shares: 22830 | Value: $1,560,601.73 | Percent: 0.092535% | Link: https://www.sec.gov/Archives/edgar/data/1262976/000195004725008414/0001950047-25-008414.txt
 2025-11-03 21:47:02 | DCG International Investments Ltd | Affiliate | Shares: 14000 | Value: $56,000.0 | Percent: 0.029709% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000356/0001977454-25-000356.txt
 2025-11-03 21:47:05 | DCG International Investments Ltd | Affiliate | Shares: 12000 | Value: $608,946.0 | Percent: 0.100947% | Link: https://www.sec.gov/Archives/edgar/data/1977454/000197745425000353/0001977454-25-000353.txt
+2025-11-03 21:56:04 | Howard Welgus | Director | Shares: 10000 | Value: $252,668.51 | Percent: 0.008164% | Link: https://www.sec.gov/Archives/edgar/data/1801050/000162828025048335/0001628280-25-048335.txt
+2025-11-03 21:56:05 | Howard Welgus | Director | Shares: 10000 | Value: $252,668.51 | Percent: 0.008164% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025048335/0001628280-25-048335.txt
+2025-11-03 21:56:07 | Mansueto Joseph D | Officer | Shares: 100000 | Value: $21,195,430.0 | Percent: 0.243136% | Link: https://www.sec.gov/Archives/edgar/data/1324069/000192109425001313/0001921094-25-001313.txt
+2025-11-03 21:56:08 | Mansueto Joseph D | Officer | Shares: 100000 | Value: $21,195,430.0 | Percent: 0.243136% | Link: https://www.sec.gov/Archives/edgar/data/1289419/000192109425001313/0001921094-25-001313.txt
