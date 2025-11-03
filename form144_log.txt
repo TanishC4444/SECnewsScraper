@@ -5821,3 +5821,5 @@
 2025-11-03 18:46:47 | DANIEL VIDAL | OFFICER | Shares: 9000 | Value: $14,097.07 | Percent: 0.011173% | Link: https://www.sec.gov/Archives/edgar/data/1476840/000162828025048079/0001628280-25-048079.txt
 2025-11-03 18:46:49 | Amy Klimek | Officer | Shares: 11528 | Value: $257,286.0 | Percent: 0.014188% | Link: https://www.sec.gov/Archives/edgar/data/1674931/000162828025048071/0001628280-25-048071.txt
 2025-11-03 18:46:50 | Amy Klimek | Officer | Shares: 11528 | Value: $257,286.0 | Percent: 0.014188% | Link: https://www.sec.gov/Archives/edgar/data/110471/000162828025048071/0001628280-25-048071.txt
+2025-11-03 19:28:25 | Heath Lynnette R | Officer | Shares: 32943 | Value: $3,723,188.01 | Percent: 0.020416% | Link: https://www.sec.gov/Archives/edgar/data/1739413/000195917325006673/0001959173-25-006673.txt
+2025-11-03 19:28:26 | Heath Lynnette R | Officer | Shares: 32943 | Value: $3,723,188.01 | Percent: 0.020416% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325006673/0001959173-25-006673.txt
