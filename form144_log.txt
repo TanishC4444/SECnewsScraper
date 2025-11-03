@@ -5789,3 +5789,5 @@
 2025-11-01 03:03:22 | Hession David | Officer | Shares: 12493 | Value: $1,691,200.1 | Percent: 0.040877% | Link: https://www.sec.gov/Archives/edgar/data/868780/000095013025000227/0000950130-25-000227.txt
 2025-11-03 11:40:03 | Gat Amnon | Officer | Shares: 16000 | Value: $66,640.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1968258/000197640825000341/0001976408-25-000341.txt
 2025-11-03 11:40:04 | Gat Amnon | Officer | Shares: 16000 | Value: $66,640.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1871321/000197640825000341/0001976408-25-000341.txt
+2025-11-03 15:10:24 | Berthelot Michael J | Director | Shares: 6000 | Value: $212,100.0 | Percent: 0.012559% | Link: https://www.sec.gov/Archives/edgar/data/1047340/000094039625000002/0000940396-25-000002.txt
+2025-11-03 15:10:25 | Berthelot Michael J | Director | Shares: 6000 | Value: $212,100.0 | Percent: 0.012559% | Link: https://www.sec.gov/Archives/edgar/data/940396/000094039625000002/0000940396-25-000002.txt
