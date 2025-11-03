@@ -5865,3 +5865,9 @@
 2025-11-03 22:36:41 | LUKE SCRIVANICH | Officer | Shares: 9765 | Value: $170,419.76 | Percent: 0.004375% | Link: https://www.sec.gov/Archives/edgar/data/912093/000195004725008418/0001950047-25-008418.txt
 2025-11-03 22:36:43 | Stephan H. Fluhler | Chief Information Officer | Shares: 5689 | Value: $203,381.75 | Percent: 0.009947% | Link: https://www.sec.gov/Archives/edgar/data/1608347/000160834725000010/0001608347-25-000010.txt
 2025-11-03 22:36:44 | Stephan H. Fluhler | Chief Information Officer | Shares: 5689 | Value: $203,381.75 | Percent: 0.009947% | Link: https://www.sec.gov/Archives/edgar/data/712534/000160834725000010/0001608347-25-000010.txt
+2025-11-03 22:55:41 | PAUL A MCNAB | Officer | Shares: 12617 | Value: $219,607.72 | Percent: 0.005653% | Link: https://www.sec.gov/Archives/edgar/data/1619901/000195004725008419/0001950047-25-008419.txt
+2025-11-03 22:55:42 | PAUL A MCNAB | Officer | Shares: 12617 | Value: $219,607.72 | Percent: 0.005653% | Link: https://www.sec.gov/Archives/edgar/data/912093/000195004725008419/0001950047-25-008419.txt
+2025-11-03 22:55:43 | Masaru Matsuda | Officer | Shares: 7208 | Value: $178,155.0 | Percent: 0.005884% | Link: https://www.sec.gov/Archives/edgar/data/1798679/000162828025048407/0001628280-25-048407.txt
+2025-11-03 22:55:44 | Masaru Matsuda | Officer | Shares: 7208 | Value: $178,155.0 | Percent: 0.005884% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025048407/0001628280-25-048407.txt
+2025-11-03 22:55:45 | Todd Franklin Watanabe | Officer | Shares: 11547 | Value: $285,399.0 | Percent: 0.009427% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000162828025048401/0001628280-25-048401.txt
+2025-11-03 22:55:45 | Todd Franklin Watanabe | Officer | Shares: 11547 | Value: $285,399.0 | Percent: 0.009427% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025048401/0001628280-25-048401.txt
