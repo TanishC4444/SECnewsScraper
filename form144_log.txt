@@ -5871,3 +5871,11 @@
 2025-11-03 22:55:44 | Masaru Matsuda | Officer | Shares: 7208 | Value: $178,155.0 | Percent: 0.005884% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025048407/0001628280-25-048407.txt
 2025-11-03 22:55:45 | Todd Franklin Watanabe | Officer | Shares: 11547 | Value: $285,399.0 | Percent: 0.009427% | Link: https://www.sec.gov/Archives/edgar/data/1801061/000162828025048401/0001628280-25-048401.txt
 2025-11-03 22:55:45 | Todd Franklin Watanabe | Officer | Shares: 11547 | Value: $285,399.0 | Percent: 0.009427% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025048401/0001628280-25-048401.txt
+2025-11-03 23:30:53 | Brendan Mulligan | Officer | Shares: 9526 | Value: $474,775.84 | Percent: 0.002290% | Link: https://www.sec.gov/Archives/edgar/data/2073801/000207380125000004/0002073801-25-000004.txt
+2025-11-03 23:30:54 | Brendan Mulligan | Officer | Shares: 9526 | Value: $474,775.84 | Percent: 0.002290% | Link: https://www.sec.gov/Archives/edgar/data/1579878/000207380125000004/0002073801-25-000004.txt
+2025-11-03 23:30:55 | Kris Rasmussen | Officer | Shares: 73738 | Value: $3,675,101.92 | Percent: 0.017729% | Link: https://www.sec.gov/Archives/edgar/data/2073592/000207359225000004/0002073592-25-000004.txt
+2025-11-03 23:30:56 | Kris Rasmussen | Officer | Shares: 73738 | Value: $3,675,101.92 | Percent: 0.017729% | Link: https://www.sec.gov/Archives/edgar/data/1579878/000207359225000004/0002073592-25-000004.txt
+2025-11-03 23:30:57 | Praveer Melwani | Officer | Shares: 16092 | Value: $802,025.28 | Percent: 0.003869% | Link: https://www.sec.gov/Archives/edgar/data/2073590/000207359025000004/0002073590-25-000004.txt
+2025-11-03 23:30:58 | Praveer Melwani | Officer | Shares: 16092 | Value: $802,025.28 | Percent: 0.003869% | Link: https://www.sec.gov/Archives/edgar/data/1579878/000207359025000004/0002073590-25-000004.txt
+2025-11-03 23:30:59 | ROTHBERG JONATHAN M | Director | Shares: 100502 | Value: $309,366.0 | Percent: 0.044431% | Link: https://www.sec.gov/Archives/edgar/data/1804176/000197415825000069/0001974158-25-000069.txt
+2025-11-03 23:31:01 | ROTHBERG JONATHAN M | Director | Shares: 100502 | Value: $309,366.0 | Percent: 0.044431% | Link: https://www.sec.gov/Archives/edgar/data/1076352/000197415825000069/0001974158-25-000069.txt
