@@ -5797,3 +5797,5 @@
 2025-11-03 15:33:55 | Robusto Dino | Officer | Shares: 6250 | Value: $283,000.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325006636/0001959173-25-006636.txt
 2025-11-03 15:47:03 | Zales Samuel | Officer | Shares: 10000 | Value: $349,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1718790/000195917325006641/0001959173-25-006641.txt
 2025-11-03 15:47:04 | Zales Samuel | Officer | Shares: 10000 | Value: $349,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006641/0001959173-25-006641.txt
+2025-11-03 16:22:50 | MOEHN MICHAEL L | Officer | Shares: 6500 | Value: $659,360.0 | Percent: 0.002404% | Link: https://www.sec.gov/Archives/edgar/data/1190105/000195917325006645/0001959173-25-006645.txt
+2025-11-03 16:22:51 | MOEHN MICHAEL L | Officer | Shares: 6500 | Value: $659,360.0 | Percent: 0.002404% | Link: https://www.sec.gov/Archives/edgar/data/1002910/000195917325006645/0001959173-25-006645.txt
