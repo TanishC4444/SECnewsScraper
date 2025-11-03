@@ -5835,3 +5835,9 @@
 2025-11-03 21:00:27 | Corbin Charles R. Jr. | Officer | Shares: 30426 | Value: $1,272,171.27 | Percent: 0.035568% | Link: https://www.sec.gov/Archives/edgar/data/1674168/000195917325006690/0001959173-25-006690.txt
 2025-11-03 21:25:31 | CAMERON TURTLE | Director | Shares: 90000 | Value: $2,201,400.0 | Percent: 0.149004% | Link: https://www.sec.gov/Archives/edgar/data/1758363/000195004725008390/0001950047-25-008390.txt
 2025-11-03 21:25:32 | CAMERON TURTLE | Director | Shares: 90000 | Value: $2,201,400.0 | Percent: 0.149004% | Link: https://www.sec.gov/Archives/edgar/data/1636282/000195004725008390/0001950047-25-008390.txt
+2025-11-03 21:37:36 | Hopkinson Craig C. | Officer | Shares: 9000 | Value: $273,441.5 | Percent: 0.005451% | Link: https://www.sec.gov/Archives/edgar/data/1730048/000196430625000387/0001964306-25-000387.txt
+2025-11-03 21:37:37 | Hopkinson Craig C. | Officer | Shares: 9000 | Value: $273,441.5 | Percent: 0.005451% | Link: https://www.sec.gov/Archives/edgar/data/1520262/000196430625000387/0001964306-25-000387.txt
+2025-11-03 21:37:39 | Mahesh Chatta Aditya | Chief Risk Officer | Shares: 100000 | Value: $1,015,000.0 | Percent: 0.000660% | Link: https://www.sec.gov/Archives/edgar/data/1706941/000095010325014157/0000950103-25-014157.txt
+2025-11-03 21:37:40 | Mahesh Chatta Aditya | Chief Risk Officer | Shares: 100000 | Value: $1,015,000.0 | Percent: 0.000660% | Link: https://www.sec.gov/Archives/edgar/data/891478/000095010325014157/0000950103-25-014157.txt
+2025-11-03 21:37:41 | CAFARO DEBRA A | Officer | Shares: 20644 | Value: $1,524,690.62 | Percent: 0.004395% | Link: https://www.sec.gov/Archives/edgar/data/1215188/000196430625000386/0001964306-25-000386.txt
+2025-11-03 21:37:42 | CAFARO DEBRA A | Officer | Shares: 20644 | Value: $1,524,690.62 | Percent: 0.004395% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000386/0001964306-25-000386.txt
