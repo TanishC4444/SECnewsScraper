@@ -5791,3 +5791,7 @@
 2025-11-03 11:40:04 | Gat Amnon | Officer | Shares: 16000 | Value: $66,640.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1871321/000197640825000341/0001976408-25-000341.txt
 2025-11-03 15:10:24 | Berthelot Michael J | Director | Shares: 6000 | Value: $212,100.0 | Percent: 0.012559% | Link: https://www.sec.gov/Archives/edgar/data/1047340/000094039625000002/0000940396-25-000002.txt
 2025-11-03 15:10:25 | Berthelot Michael J | Director | Shares: 6000 | Value: $212,100.0 | Percent: 0.012559% | Link: https://www.sec.gov/Archives/edgar/data/940396/000094039625000002/0000940396-25-000002.txt
+2025-11-03 15:33:51 | Kidd Mark | Officer | Shares: 6000 | Value: $615,060.0 | Percent: 0.002032% | Link: https://www.sec.gov/Archives/edgar/data/1732058/000195917325006638/0001959173-25-006638.txt
+2025-11-03 15:33:52 | Kidd Mark | Officer | Shares: 6000 | Value: $615,060.0 | Percent: 0.002032% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325006638/0001959173-25-006638.txt
+2025-11-03 15:33:54 | Robusto Dino | Officer | Shares: 6250 | Value: $283,000.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/1348889/000195917325006636/0001959173-25-006636.txt
+2025-11-03 15:33:55 | Robusto Dino | Officer | Shares: 6250 | Value: $283,000.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325006636/0001959173-25-006636.txt
