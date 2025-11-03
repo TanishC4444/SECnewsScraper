@@ -5811,3 +5811,9 @@
 2025-11-03 17:36:54 | Shulman Douglas H. | Officer | Shares: 35000 | Value: $2,083,800.0 | Percent: 0.029729% | Link: https://www.sec.gov/Archives/edgar/data/1584207/000195917325006659/0001959173-25-006659.txt
 2025-11-03 17:46:54 | Sparks Scott Andrew | Officer | Shares: 40000 | Value: $270,400.0 | Percent: 0.027196% | Link: https://www.sec.gov/Archives/edgar/data/1640450/000195917325006664/0001959173-25-006664.txt
 2025-11-03 17:46:55 | Sparks Scott Andrew | Officer | Shares: 40000 | Value: $270,400.0 | Percent: 0.027196% | Link: https://www.sec.gov/Archives/edgar/data/866829/000195917325006664/0001959173-25-006664.txt
+2025-11-03 18:27:12 | Howse Curtis | Officer | Shares: 12086 | Value: $894,605.72 | Percent: 0.003356% | Link: https://www.sec.gov/Archives/edgar/data/1839722/000195917325006667/0001959173-25-006667.txt
+2025-11-03 18:27:13 | Howse Curtis | Officer | Shares: 12086 | Value: $894,605.72 | Percent: 0.003356% | Link: https://www.sec.gov/Archives/edgar/data/1601712/000195917325006667/0001959173-25-006667.txt
+2025-11-03 18:27:14 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $818,400.0 | Percent: 0.013408% | Link: https://www.sec.gov/Archives/edgar/data/1687897/000195917325006666/0001959173-25-006666.txt
+2025-11-03 18:27:15 | Miosi Salvatore A | Officer | Shares: 30000 | Value: $818,400.0 | Percent: 0.013408% | Link: https://www.sec.gov/Archives/edgar/data/876437/000195917325006666/0001959173-25-006666.txt
+2025-11-03 18:27:17 | Azzurro Capital Inc. | 10% Stockholder | Shares: 20000 | Value: $168,400.0 | Percent: 0.182134% | Link: https://www.sec.gov/Archives/edgar/data/1349132/000162828025048055/0001628280-25-048055.txt
+2025-11-03 18:27:18 | Azzurro Capital Inc. | 10% Stockholder | Shares: 20000 | Value: $168,400.0 | Percent: 0.182134% | Link: https://www.sec.gov/Archives/edgar/data/1133311/000162828025048055/0001628280-25-048055.txt
