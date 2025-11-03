@@ -5795,3 +5795,5 @@
 2025-11-03 15:33:52 | Kidd Mark | Officer | Shares: 6000 | Value: $615,060.0 | Percent: 0.002032% | Link: https://www.sec.gov/Archives/edgar/data/1020569/000195917325006638/0001959173-25-006638.txt
 2025-11-03 15:33:54 | Robusto Dino | Officer | Shares: 6250 | Value: $283,000.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/1348889/000195917325006636/0001959173-25-006636.txt
 2025-11-03 15:33:55 | Robusto Dino | Officer | Shares: 6250 | Value: $283,000.0 | Percent: 0.002309% | Link: https://www.sec.gov/Archives/edgar/data/21175/000195917325006636/0001959173-25-006636.txt
+2025-11-03 15:47:03 | Zales Samuel | Officer | Shares: 10000 | Value: $349,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1718790/000195917325006641/0001959173-25-006641.txt
+2025-11-03 15:47:04 | Zales Samuel | Officer | Shares: 10000 | Value: $349,800.0 | Percent: 0.011759% | Link: https://www.sec.gov/Archives/edgar/data/1494259/000195917325006641/0001959173-25-006641.txt
