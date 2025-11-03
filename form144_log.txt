@@ -5825,3 +5825,7 @@
 2025-11-03 19:28:26 | Heath Lynnette R | Officer | Shares: 32943 | Value: $3,723,188.01 | Percent: 0.020416% | Link: https://www.sec.gov/Archives/edgar/data/1720635/000195917325006673/0001959173-25-006673.txt
 2025-11-03 19:39:22 | MATT PLAVAN | OFFICER | Shares: 150000 | Value: $78,993.17 | Percent: 0.100068% | Link: https://www.sec.gov/Archives/edgar/data/1802457/000162828025048130/0001628280-25-048130.txt
 2025-11-03 19:39:23 | MATT PLAVAN | OFFICER | Shares: 150000 | Value: $78,993.17 | Percent: 0.100068% | Link: https://www.sec.gov/Archives/edgar/data/1326765/000162828025048130/0001628280-25-048130.txt
+2025-11-03 20:41:09 | Austin Willis | CEO | Shares: 7900 | Value: $1,014,044.0 | Percent: 0.116012% | Link: https://www.sec.gov/Archives/edgar/data/1453104/000162828025048175/0001628280-25-048175.txt
+2025-11-03 20:41:10 | Austin Willis | CEO | Shares: 7900 | Value: $1,014,044.0 | Percent: 0.116012% | Link: https://www.sec.gov/Archives/edgar/data/1018164/000162828025048175/0001628280-25-048175.txt
+2025-11-03 20:41:10 | Matthew Demchyk | Former officer | Shares: 6818 | Value: $308,309.96 | Percent: 0.002409% | Link: https://www.sec.gov/Archives/edgar/data/1766801/000162828025048172/0001628280-25-048172.txt
+2025-11-03 20:41:10 | Matthew Demchyk | Former officer | Shares: 6818 | Value: $308,309.96 | Percent: 0.002409% | Link: https://www.sec.gov/Archives/edgar/data/1575965/000162828025048172/0001628280-25-048172.txt
