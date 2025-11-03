@@ -5787,3 +5787,5 @@
 2025-10-31 22:45:08 | Mitchell P. Rales | Dir; Chmn. of Exec. Comm. | Shares: 600000 | Value: $128,406,000.0 | Percent: 0.084944% | Link: https://www.sec.gov/Archives/edgar/data/313616/000119312525261101/0001193125-25-261101.txt
 2025-11-01 03:03:21 | Hession David | Officer | Shares: 12493 | Value: $1,691,200.1 | Percent: 0.040877% | Link: https://www.sec.gov/Archives/edgar/data/1769146/000095013025000227/0000950130-25-000227.txt
 2025-11-01 03:03:22 | Hession David | Officer | Shares: 12493 | Value: $1,691,200.1 | Percent: 0.040877% | Link: https://www.sec.gov/Archives/edgar/data/868780/000095013025000227/0000950130-25-000227.txt
+2025-11-03 11:40:03 | Gat Amnon | Officer | Shares: 16000 | Value: $66,640.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1968258/000197640825000341/0001976408-25-000341.txt
+2025-11-03 11:40:04 | Gat Amnon | Officer | Shares: 16000 | Value: $66,640.0 | Percent: 0.022734% | Link: https://www.sec.gov/Archives/edgar/data/1871321/000197640825000341/0001976408-25-000341.txt
