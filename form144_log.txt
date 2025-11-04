@@ -5895,3 +5895,9 @@
 2025-11-04 15:17:25 | WEBER MARK | Officer | Shares: 51187 | Value: $5,902,372.97 | Percent: 0.084177% | Link: https://www.sec.gov/Archives/edgar/data/277509/000130292825000004/0001302928-25-000004.txt
 2025-11-04 15:17:28 | Cardoso Marcelo | Officer | Shares: 70000 | Value: $2,030,000.0 | Percent: 0.047500% | Link: https://www.sec.gov/Archives/edgar/data/1769387/000195917325006702/0001959173-25-006702.txt
 2025-11-04 15:17:29 | Cardoso Marcelo | Officer | Shares: 70000 | Value: $2,030,000.0 | Percent: 0.047500% | Link: https://www.sec.gov/Archives/edgar/data/912766/000195917325006702/0001959173-25-006702.txt
+2025-11-04 15:38:20 | Romo Tammy | Director | Shares: 11756 | Value: $2,399,032.11 | Percent: 0.013377% | Link: https://www.sec.gov/Archives/edgar/data/1558014/000195917325006708/0001959173-25-006708.txt
+2025-11-04 15:38:21 | Romo Tammy | Director | Shares: 11756 | Value: $2,399,032.11 | Percent: 0.013377% | Link: https://www.sec.gov/Archives/edgar/data/70318/000195917325006708/0001959173-25-006708.txt
+2025-11-04 15:38:23 | COLVIN DONALD A | Director | Shares: 23050 | Value: $404,300.0 | Percent: 0.010327% | Link: https://www.sec.gov/Archives/edgar/data/1228888/000197407825000396/0001974078-25-000396.txt
+2025-11-04 15:38:24 | COLVIN DONALD A | Director | Shares: 23050 | Value: $404,300.0 | Percent: 0.010327% | Link: https://www.sec.gov/Archives/edgar/data/912093/000197407825000396/0001974078-25-000396.txt
+2025-11-04 15:38:25 | Gulliver Kate | Officer | Shares: 9612 | Value: $982,346.4 | Percent: 0.008993% | Link: https://www.sec.gov/Archives/edgar/data/1950170/000195917325006706/0001959173-25-006706.txt
+2025-11-04 15:38:26 | Gulliver Kate | Officer | Shares: 9612 | Value: $982,346.4 | Percent: 0.008993% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006706/0001959173-25-006706.txt
