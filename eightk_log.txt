@@ -8621,3 +8621,7 @@
 2025-11-04 22:24:54 | 8-K - CompoSecure, Inc. (0001823144) (Filer) | 2025-11-04T17:20:32-05:00 | https://www.sec.gov/Archives/edgar/data/1823144/000110465925106425/0001104659-25-106425.txt
 2025-11-04 22:24:55 | 8-K - Fly-E Group, Inc. (0001975940) (Filer) | 2025-11-04T17:20:23-05:00 | https://www.sec.gov/Archives/edgar/data/1975940/000121390025106260/0001213900-25-106260.txt
 2025-11-04 22:24:56 | 8-K - Cryoport, Inc. (0001124524) (Filer) | 2025-11-04T17:18:14-05:00 | https://www.sec.gov/Archives/edgar/data/1124524/000110465925106421/0001104659-25-106421.txt
+2025-11-04 22:40:29 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-11-04T17:31:04-05:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925106447/0001104659-25-106447.txt
+2025-11-04 22:40:30 | 8-K - FG Nexus Inc. (0001591890) (Filer) | 2025-11-04T17:30:01-05:00 | https://www.sec.gov/Archives/edgar/data/1591890/000149315225020768/0001493152-25-020768.txt
+2025-11-04 22:40:32 | 8-K - Turn Therapeutics Inc. (0002023016) (Filer) | 2025-11-04T17:26:39-05:00 | https://www.sec.gov/Archives/edgar/data/2023016/000121390025106265/0001213900-25-106265.txt
+2025-11-04 22:40:35 | 8-K - FOXO TECHNOLOGIES INC. (0001812360) (Filer) | 2025-11-04T17:26:16-05:00 | https://www.sec.gov/Archives/edgar/data/1812360/000149315225020766/0001493152-25-020766.txt
