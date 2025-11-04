@@ -5881,3 +5881,5 @@
 2025-11-03 23:31:01 | ROTHBERG JONATHAN M | Director | Shares: 100502 | Value: $309,366.0 | Percent: 0.044431% | Link: https://www.sec.gov/Archives/edgar/data/1076352/000197415825000069/0001974158-25-000069.txt
 2025-11-03 23:42:29 | Shaunt Voskanian | Officer | Shares: 26741 | Value: $1,332,771.44 | Percent: 0.006430% | Link: https://www.sec.gov/Archives/edgar/data/2073591/000207359125000004/0002073591-25-000004.txt
 2025-11-03 23:42:31 | Shaunt Voskanian | Officer | Shares: 26741 | Value: $1,332,771.44 | Percent: 0.006430% | Link: https://www.sec.gov/Archives/edgar/data/1579878/000207359125000004/0002073591-25-000004.txt
+2025-11-04 02:04:51 | George Robert Kurtz | CEO | Shares: 6975 | Value: $3,835,506.0 | Percent: 0.002779% | Link: https://www.sec.gov/Archives/edgar/data/1778564/000196858225001022/0001968582-25-001022.txt
+2025-11-04 02:04:52 | George Robert Kurtz | CEO | Shares: 6975 | Value: $3,835,506.0 | Percent: 0.002779% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001022/0001968582-25-001022.txt
