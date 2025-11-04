@@ -8557,3 +8557,5 @@
 2025-11-04 18:45:55 | 8-K - URBAN ONE, INC. (0001041657) (Filer) | 2025-11-04T13:31:03-05:00 | https://www.sec.gov/Archives/edgar/data/1041657/000104165725000056/0001041657-25-000056.txt
 2025-11-04 18:45:57 | 8-K - Scilex Holding Co (0001820190) (Filer) | 2025-11-04T13:21:50-05:00 | https://www.sec.gov/Archives/edgar/data/1820190/000119312525264143/0001193125-25-264143.txt
 2025-11-04 19:15:20 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-11-04T14:06:15-05:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000257/0001331465-25-000257.txt
+2025-11-04 19:39:26 | 8-K - Carter Bankshares, Inc. (0001829576) (Filer) | 2025-11-04T14:35:53-05:00 | https://www.sec.gov/Archives/edgar/data/1829576/000182957625000071/0001829576-25-000071.txt
+2025-11-04 19:39:26 | 8-K/A - HeartCore Enterprises, Inc. (0001892322) (Filer) | 2025-11-04T14:30:34-05:00 | https://www.sec.gov/Archives/edgar/data/1892322/000149315225020708/0001493152-25-020708.txt
