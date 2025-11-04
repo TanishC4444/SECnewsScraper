@@ -8457,3 +8457,13 @@
 2025-11-03 22:36:33 | 8-K - Mid-America Apartments, L.P. (0001581776) (Filer) | 2025-11-03T17:25:14-05:00 | https://www.sec.gov/Archives/edgar/data/1581776/000119312525262830/0001193125-25-262830.txt
 2025-11-03 22:36:36 | 8-K - MID AMERICA APARTMENT COMMUNITIES INC. (0000912595) (Filer) | 2025-11-03T17:25:14-05:00 | https://www.sec.gov/Archives/edgar/data/912595/000119312525262830/0001193125-25-262830.txt
 2025-11-03 22:36:38 | 8-K - Investar Holding Corp (0001602658) (Filer) | 2025-11-03T17:25:11-05:00 | https://www.sec.gov/Archives/edgar/data/1602658/000143774925032815/0001437749-25-032815.txt
+2025-11-04 11:15:17 | 8-K - Ingredion Inc (0001046257) (Filer) | 2025-11-04T06:12:33-05:00 | https://www.sec.gov/Archives/edgar/data/1046257/000162828025048508/0001628280-25-048508.txt
+2025-11-04 11:15:18 | 8-K - Ingredion Inc (0001046257) (Filer) | 2025-11-04T06:11:30-05:00 | https://www.sec.gov/Archives/edgar/data/1046257/000162828025048507/0001628280-25-048507.txt
+2025-11-04 11:15:20 | 8-K - Intuitive Machines, Inc. (0001844452) (Filer) | 2025-11-04T06:08:04-05:00 | https://www.sec.gov/Archives/edgar/data/1844452/000119312525263400/0001193125-25-263400.txt
+2025-11-04 11:15:20 | 8-K - Novelis Inc. (0001304280) (Filer) | 2025-11-04T06:07:26-05:00 | https://www.sec.gov/Archives/edgar/data/1304280/000130428025000052/0001304280-25-000052.txt
+2025-11-04 11:15:21 | 8-K - 22nd Century Group, Inc. (0001347858) (Filer) | 2025-11-04T06:06:37-05:00 | https://www.sec.gov/Archives/edgar/data/1347858/000149315225020668/0001493152-25-020668.txt
+2025-11-04 11:15:23 | 8-K - Eve Holding, Inc. (0001823652) (Filer) | 2025-11-04T06:05:59-05:00 | https://www.sec.gov/Archives/edgar/data/1823652/000155485525001922/0001554855-25-001922.txt
+2025-11-04 11:15:25 | 8-K - Myseum, Inc. (0001648960) (Filer) | 2025-11-04T06:05:51-05:00 | https://www.sec.gov/Archives/edgar/data/1648960/000121390025105543/0001213900-25-105543.txt
+2025-11-04 11:15:27 | 8-K - Archer-Daniels-Midland Co (0000007084) (Filer) | 2025-11-04T06:05:51-05:00 | https://www.sec.gov/Archives/edgar/data/7084/000000708425000049/0000007084-25-000049.txt
+2025-11-04 11:15:28 | 8-K - CRAWFORD UNITED Corp (0000047307) (Filer) | 2025-11-04T06:05:25-05:00 | https://www.sec.gov/Archives/edgar/data/47307/000143774925032859/0001437749-25-032859.txt
+2025-11-04 11:15:29 | 8-K - DENNY'S Corp (0000852772) (Filer) | 2025-11-04T06:05:19-05:00 | https://www.sec.gov/Archives/edgar/data/852772/000119312525263393/0001193125-25-263393.txt
