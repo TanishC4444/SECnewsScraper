@@ -5972,3 +5972,5 @@
 2025-11-04 22:25:00 | James Leddy | Officer | Shares: 22000 | Value: $1,366,200.0 | Percent: 0.054073% | Link: https://www.sec.gov/Archives/edgar/data/1517175/000162828025048953/0001628280-25-048953.txt
 2025-11-04 23:23:32 | Amy Schwetz | Self | Shares: 47000 | Value: $3,334,890.78 | Percent: 0.036973% | Link: https://www.sec.gov/Archives/edgar/data/1647437/000162828025049071/0001628280-25-049071.txt
 2025-11-04 23:23:33 | Amy Schwetz | Self | Shares: 47000 | Value: $3,334,890.78 | Percent: 0.036973% | Link: https://www.sec.gov/Archives/edgar/data/30625/000162828025049071/0001628280-25-049071.txt
+2025-11-04 23:35:46 | Carl Russo | Officer | Shares: 395000 | Value: $25,280,000.0 | Percent: 0.595988% | Link: https://www.sec.gov/Archives/edgar/data/1483757/000196858225001024/0001968582-25-001024.txt
+2025-11-04 23:35:47 | Carl Russo | Officer | Shares: 395000 | Value: $25,280,000.0 | Percent: 0.595988% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000196858225001024/0001968582-25-001024.txt
