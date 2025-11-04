@@ -8526,3 +8526,7 @@
 2025-11-04 13:57:04 | 8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer) | 2025-11-04T08:50:23-05:00 | https://www.sec.gov/Archives/edgar/data/1939433/000193943325000152/0001939433-25-000152.txt
 2025-11-04 13:57:05 | 8-K - Esperion Therapeutics, Inc. (0001434868) (Filer) | 2025-11-04T08:49:31-05:00 | https://www.sec.gov/Archives/edgar/data/1434868/000162828025048557/0001628280-25-048557.txt
 2025-11-04 13:57:07 | 8-K - OMNIQ Corp. (0000278165) (Filer) | 2025-11-04T08:45:26-05:00 | https://www.sec.gov/Archives/edgar/data/278165/000117184325006947/0001171843-25-006947.txt
+2025-11-04 14:21:17 | 8-K - SYNOPSYS INC (0000883241) (Filer) | 2025-11-04T09:15:40-05:00 | https://www.sec.gov/Archives/edgar/data/883241/000119312525263692/0001193125-25-263692.txt
+2025-11-04 14:21:18 | 8-K - Tango Therapeutics, Inc. (0001819133) (Filer) | 2025-11-04T09:10:44-05:00 | https://www.sec.gov/Archives/edgar/data/1819133/000119312525263684/0001193125-25-263684.txt
+2025-11-04 14:21:20 | 8-K - Ondas Holdings Inc. (0001646188) (Filer) | 2025-11-04T09:04:02-05:00 | https://www.sec.gov/Archives/edgar/data/1646188/000121390025105664/0001213900-25-105664.txt
+2025-11-04 14:21:22 | 8-K - American Bitcoin Corp. (0001755953) (Filer) | 2025-11-04T09:00:28-05:00 | https://www.sec.gov/Archives/edgar/data/1755953/000119312525263668/0001193125-25-263668.txt
