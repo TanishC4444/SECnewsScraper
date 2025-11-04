@@ -5945,3 +5945,11 @@
 2025-11-04 21:29:30 | Mehta Sanjay | Officer | Shares: 6330 | Value: $1,124,571.05 | Percent: 0.004042% | Link: https://www.sec.gov/Archives/edgar/data/97210/000195917325006735/0001959173-25-006735.txt
 2025-11-04 21:29:32 | Hartung Michael P | Officer | Shares: 15000 | Value: $933,898.1 | Percent: 0.004056% | Link: https://www.sec.gov/Archives/edgar/data/1820263/000195917325006734/0001959173-25-006734.txt
 2025-11-04 21:29:34 | Hartung Michael P | Officer | Shares: 15000 | Value: $933,898.1 | Percent: 0.004056% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325006734/0001959173-25-006734.txt
+2025-11-04 21:41:27 | Melissa Napier | Officer | Shares: 13011 | Value: $223,626.59 | Percent: 0.002720% | Link: https://www.sec.gov/Archives/edgar/data/2093210/000162828025048912/0001628280-25-048912.txt
+2025-11-04 21:41:28 | Melissa Napier | Officer | Shares: 13011 | Value: $223,626.59 | Percent: 0.002720% | Link: https://www.sec.gov/Archives/edgar/data/23217/000162828025048912/0001628280-25-048912.txt
+2025-11-04 21:41:30 | JOHN HILDEBRANDT | Officer | Shares: 10000 | Value: $1,151,040.0 | Percent: 0.032374% | Link: https://www.sec.gov/Archives/edgar/data/1235793/000195004725008455/0001950047-25-008455.txt
+2025-11-04 21:41:31 | JOHN HILDEBRANDT | Officer | Shares: 10000 | Value: $1,151,040.0 | Percent: 0.032374% | Link: https://www.sec.gov/Archives/edgar/data/1041803/000195004725008455/0001950047-25-008455.txt
+2025-11-04 21:41:32 | JORDAN SWEETNAM | Officer | Shares: 35305 | Value: $2,922,194.85 | Percent: 0.007811% | Link: https://www.sec.gov/Archives/edgar/data/2067199/000195004725008454/0001950047-25-008454.txt
+2025-11-04 21:41:33 | JORDAN SWEETNAM | Officer | Shares: 35305 | Value: $2,922,194.85 | Percent: 0.007811% | Link: https://www.sec.gov/Archives/edgar/data/1065088/000195004725008454/0001950047-25-008454.txt
+2025-11-04 21:41:36 | JRH REVOCABLE TRUST U/A DTD 07/14/2015 | Director | Shares: 20000 | Value: $207,800.0 | Percent: 0.037990% | Link: https://www.sec.gov/Archives/edgar/data/1791816/000195004725008453/0001950047-25-008453.txt
+2025-11-04 21:41:37 | JRH REVOCABLE TRUST U/A DTD 07/14/2015 | Director | Shares: 20000 | Value: $207,800.0 | Percent: 0.037990% | Link: https://www.sec.gov/Archives/edgar/data/1517375/000195004725008453/0001950047-25-008453.txt
