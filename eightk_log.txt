@@ -8559,3 +8559,5 @@
 2025-11-04 19:15:20 | 8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer) | 2025-11-04T14:06:15-05:00 | https://www.sec.gov/Archives/edgar/data/1331465/000133146525000257/0001331465-25-000257.txt
 2025-11-04 19:39:26 | 8-K - Carter Bankshares, Inc. (0001829576) (Filer) | 2025-11-04T14:35:53-05:00 | https://www.sec.gov/Archives/edgar/data/1829576/000182957625000071/0001829576-25-000071.txt
 2025-11-04 19:39:26 | 8-K/A - HeartCore Enterprises, Inc. (0001892322) (Filer) | 2025-11-04T14:30:34-05:00 | https://www.sec.gov/Archives/edgar/data/1892322/000149315225020708/0001493152-25-020708.txt
+2025-11-04 19:49:06 | 8-K - LifeMD, Inc. (0000948320) (Filer) | 2025-11-04T14:48:10-05:00 | https://www.sec.gov/Archives/edgar/data/948320/000149315225020713/0001493152-25-020713.txt
+2025-11-04 19:49:06 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-11-04T14:43:50-05:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000192/0001331757-25-000192.txt

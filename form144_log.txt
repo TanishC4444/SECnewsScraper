@@ -5923,3 +5923,7 @@
 2025-11-04 18:16:20 | Haddon Julie | Former Director | Shares: 50653 | Value: $184,376.92 | Percent: 0.014780% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325006712/0001959173-25-006712.txt
 2025-11-04 19:15:22 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,240,471.96 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1298675/000197249025000018/0001972490-25-000018.txt
 2025-11-04 19:15:22 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,240,471.96 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1185498/000197249025000018/0001972490-25-000018.txt
+2025-11-04 19:49:09 | Carfora Dawn | Director | Shares: 100000 | Value: $269,139.59 | Percent: 0.044214% | Link: https://www.sec.gov/Archives/edgar/data/1842799/000195917325006720/0001959173-25-006720.txt
+2025-11-04 19:49:10 | Carfora Dawn | Director | Shares: 100000 | Value: $269,139.59 | Percent: 0.044214% | Link: https://www.sec.gov/Archives/edgar/data/1804176/000195917325006720/0001959173-25-006720.txt
+2025-11-04 19:49:11 | FISACKERLY HALEY | Officer | Shares: 5136 | Value: $495,631.44 | Percent: 0.001150% | Link: https://www.sec.gov/Archives/edgar/data/1057598/000195917325006719/0001959173-25-006719.txt
+2025-11-04 19:49:12 | FISACKERLY HALEY | Officer | Shares: 5136 | Value: $495,631.44 | Percent: 0.001150% | Link: https://www.sec.gov/Archives/edgar/data/65984/000195917325006719/0001959173-25-006719.txt
