@@ -5887,3 +5887,7 @@
 2025-11-04 03:16:39 | Liang Minsong | Director | Shares: 10000 | Value: $310,000.0 | Percent: 0.014804% | Link: https://www.sec.gov/Archives/edgar/data/1477641/000198798225000003/0001987982-25-000003.txt
 2025-11-04 14:21:24 | PRAW ALBERT Z | Officer | Shares: 20284 | Value: $1,265,315.0 | Percent: 0.032841% | Link: https://www.sec.gov/Archives/edgar/data/1063463/000196530125000159/0001965301-25-000159.txt
 2025-11-04 14:21:25 | PRAW ALBERT Z | Officer | Shares: 20284 | Value: $1,265,315.0 | Percent: 0.032841% | Link: https://www.sec.gov/Archives/edgar/data/795266/000196530125000159/0001965301-25-000159.txt
+2025-11-04 14:54:59 | Gibson Christopher | Officer | Shares: 40000 | Value: $208,400.0 | Percent: 0.009361% | Link: https://www.sec.gov/Archives/edgar/data/1856369/000195917325006701/0001959173-25-006701.txt
+2025-11-04 14:55:00 | Gibson Christopher | Officer | Shares: 40000 | Value: $208,400.0 | Percent: 0.009361% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006701/0001959173-25-006701.txt
+2025-11-04 14:55:01 | Harris Timothy J | Officer | Shares: 10543 | Value: $1,012,866.01 | Percent: 0.007760% | Link: https://www.sec.gov/Archives/edgar/data/1776844/000195917325006700/0001959173-25-006700.txt
+2025-11-04 14:55:02 | Harris Timothy J | Officer | Shares: 10543 | Value: $1,012,866.01 | Percent: 0.007760% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006700/0001959173-25-006700.txt

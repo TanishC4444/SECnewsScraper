@@ -8533,3 +8533,8 @@
 2025-11-04 14:42:25 | 8-K - New ERA Energy & Digital, Inc. (0002028336) (Filer) | 2025-11-04T09:26:06-05:00 | https://www.sec.gov/Archives/edgar/data/2028336/000121390025105681/0001213900-25-105681.txt
 2025-11-04 14:42:27 | 8-K - SunCoke Energy, Inc. (0001514705) (Filer) | 2025-11-04T09:24:54-05:00 | https://www.sec.gov/Archives/edgar/data/1514705/000151470525000034/0001514705-25-000034.txt
 2025-11-04 14:42:29 | 8-K - Otter Tail Corp (0001466593) (Filer) | 2025-11-04T09:23:00-05:00 | https://www.sec.gov/Archives/edgar/data/1466593/000146659325000119/0001466593-25-000119.txt
+2025-11-04 14:54:52 | 8-K/A - Kinetic Seas Inc. (0001945619) (Filer) | 2025-11-04T09:53:18-05:00 | https://www.sec.gov/Archives/edgar/data/1945619/000168316825007944/0001683168-25-007944.txt
+2025-11-04 14:54:54 | 8-K - WESTLAKE CORP (0001262823) (Filer) | 2025-11-04T09:51:45-05:00 | https://www.sec.gov/Archives/edgar/data/1262823/000119312525263753/0001193125-25-263753.txt
+2025-11-04 14:54:55 | 8-K - Main Street Capital CORP (0001396440) (Filer) | 2025-11-04T09:50:34-05:00 | https://www.sec.gov/Archives/edgar/data/1396440/000139644025000174/0001396440-25-000174.txt
+2025-11-04 14:54:55 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-11-04T09:49:43-05:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525263748/0001193125-25-263748.txt
+2025-11-04 14:54:57 | 8-K - Wayfair Inc. (0001616707) (Filer) | 2025-11-04T09:43:04-05:00 | https://www.sec.gov/Archives/edgar/data/1616707/000119312525263738/0001193125-25-263738.txt
