@@ -8521,3 +8521,8 @@
 2025-11-04 13:45:24 | 8-K - LGI Homes, Inc. (0001580670) (Filer) | 2025-11-04T08:31:08-05:00 | https://www.sec.gov/Archives/edgar/data/1580670/000158067025000074/0001580670-25-000074.txt
 2025-11-04 13:45:27 | 8-K - NNN REIT, INC. (0000751364) (Filer) | 2025-11-04T08:30:27-05:00 | https://www.sec.gov/Archives/edgar/data/751364/000119312525263635/0001193125-25-263635.txt
 2025-11-04 13:45:29 | 8-K - Oxford Square Capital Corp. (0001259429) (Filer) | 2025-11-04T08:22:02-05:00 | https://www.sec.gov/Archives/edgar/data/1259429/000121390025105636/0001213900-25-105636.txt
+2025-11-04 13:57:01 | 8-K - Prelude Therapeutics Inc (0001678660) (Filer) | 2025-11-04T08:53:18-05:00 | https://www.sec.gov/Archives/edgar/data/1678660/000092963825004115/0000929638-25-004115.txt
+2025-11-04 13:57:03 | 8-K - ECD Automotive Design, Inc. (0001922858) (Filer) | 2025-11-04T08:51:34-05:00 | https://www.sec.gov/Archives/edgar/data/1922858/000121390025105657/0001213900-25-105657.txt
+2025-11-04 13:57:04 | 8-K - Cohen & Steers Income Opportunities REIT, Inc. (0001939433) (Filer) | 2025-11-04T08:50:23-05:00 | https://www.sec.gov/Archives/edgar/data/1939433/000193943325000152/0001939433-25-000152.txt
+2025-11-04 13:57:05 | 8-K - Esperion Therapeutics, Inc. (0001434868) (Filer) | 2025-11-04T08:49:31-05:00 | https://www.sec.gov/Archives/edgar/data/1434868/000162828025048557/0001628280-25-048557.txt
+2025-11-04 13:57:07 | 8-K - OMNIQ Corp. (0000278165) (Filer) | 2025-11-04T08:45:26-05:00 | https://www.sec.gov/Archives/edgar/data/278165/000117184325006947/0001171843-25-006947.txt
