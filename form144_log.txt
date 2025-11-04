@@ -5883,3 +5883,5 @@
 2025-11-03 23:42:31 | Shaunt Voskanian | Officer | Shares: 26741 | Value: $1,332,771.44 | Percent: 0.006430% | Link: https://www.sec.gov/Archives/edgar/data/1579878/000207359125000004/0002073591-25-000004.txt
 2025-11-04 02:04:51 | George Robert Kurtz | CEO | Shares: 6975 | Value: $3,835,506.0 | Percent: 0.002779% | Link: https://www.sec.gov/Archives/edgar/data/1778564/000196858225001022/0001968582-25-001022.txt
 2025-11-04 02:04:52 | George Robert Kurtz | CEO | Shares: 6975 | Value: $3,835,506.0 | Percent: 0.002779% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001022/0001968582-25-001022.txt
+2025-11-04 03:16:38 | Liang Minsong | Director | Shares: 10000 | Value: $310,000.0 | Percent: 0.014804% | Link: https://www.sec.gov/Archives/edgar/data/1987982/000198798225000003/0001987982-25-000003.txt
+2025-11-04 03:16:39 | Liang Minsong | Director | Shares: 10000 | Value: $310,000.0 | Percent: 0.014804% | Link: https://www.sec.gov/Archives/edgar/data/1477641/000198798225000003/0001987982-25-000003.txt
