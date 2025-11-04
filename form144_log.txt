@@ -5927,3 +5927,5 @@
 2025-11-04 19:49:10 | Carfora Dawn | Director | Shares: 100000 | Value: $269,139.59 | Percent: 0.044214% | Link: https://www.sec.gov/Archives/edgar/data/1804176/000195917325006720/0001959173-25-006720.txt
 2025-11-04 19:49:11 | FISACKERLY HALEY | Officer | Shares: 5136 | Value: $495,631.44 | Percent: 0.001150% | Link: https://www.sec.gov/Archives/edgar/data/1057598/000195917325006719/0001959173-25-006719.txt
 2025-11-04 19:49:12 | FISACKERLY HALEY | Officer | Shares: 5136 | Value: $495,631.44 | Percent: 0.001150% | Link: https://www.sec.gov/Archives/edgar/data/65984/000195917325006719/0001959173-25-006719.txt
+2025-11-04 19:58:13 | Glat Neil | Former Director | Shares: 143000 | Value: $485,945.01 | Percent: 0.041724% | Link: https://www.sec.gov/Archives/edgar/data/1819303/000195917325006721/0001959173-25-006721.txt
+2025-11-04 19:58:14 | Glat Neil | Former Director | Shares: 143000 | Value: $485,945.01 | Percent: 0.041724% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325006721/0001959173-25-006721.txt

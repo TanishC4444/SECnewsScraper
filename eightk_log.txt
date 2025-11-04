@@ -8561,3 +8561,4 @@
 2025-11-04 19:39:26 | 8-K/A - HeartCore Enterprises, Inc. (0001892322) (Filer) | 2025-11-04T14:30:34-05:00 | https://www.sec.gov/Archives/edgar/data/1892322/000149315225020708/0001493152-25-020708.txt
 2025-11-04 19:49:06 | 8-K - LifeMD, Inc. (0000948320) (Filer) | 2025-11-04T14:48:10-05:00 | https://www.sec.gov/Archives/edgar/data/948320/000149315225020713/0001493152-25-020713.txt
 2025-11-04 19:49:06 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-11-04T14:43:50-05:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000192/0001331757-25-000192.txt
+2025-11-04 19:58:12 | 8-K - GREENE COUNTY BANCORP INC (0001070524) (Filer) | 2025-11-04T14:51:57-05:00 | https://www.sec.gov/Archives/edgar/data/1070524/000114036125040321/0001140361-25-040321.txt
