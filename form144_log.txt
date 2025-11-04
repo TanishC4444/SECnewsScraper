@@ -5911,3 +5911,13 @@
 2025-11-04 16:52:35 | Bradley Jack A. | Director | Shares: 66492 | Value: $598,428.0 | Percent: 0.228568% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000280/0001973379-25-000280.txt
 2025-11-04 17:08:02 | Gary Fischer | Officer | Shares: 102910 | Value: $871,647.7 | Percent: 0.223111% | Link: https://www.sec.gov/Archives/edgar/data/1257647/000162828025048621/0001628280-25-048621.txt
 2025-11-04 17:08:03 | Gary Fischer | Officer | Shares: 102910 | Value: $871,647.7 | Percent: 0.223111% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000162828025048621/0001628280-25-048621.txt
+2025-11-04 18:16:09 | Lee Anthony P | Director | Shares: 66000 | Value: $6,913,500.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1834988/000195917325006715/0001959173-25-006715.txt
+2025-11-04 18:16:10 | Lee Anthony P | Director | Shares: 66000 | Value: $6,913,500.0 | Percent: 0.010476% | Link: https://www.sec.gov/Archives/edgar/data/1315098/000195917325006715/0001959173-25-006715.txt
+2025-11-04 18:16:12 | Carfora Dawn | Director | Shares: 12009 | Value: $33,144.84 | Percent: 0.005310% | Link: https://www.sec.gov/Archives/edgar/data/1842799/000195917325006714/0001959173-25-006714.txt
+2025-11-04 18:16:13 | Carfora Dawn | Director | Shares: 12009 | Value: $33,144.84 | Percent: 0.005310% | Link: https://www.sec.gov/Archives/edgar/data/1804176/000195917325006714/0001959173-25-006714.txt
+2025-11-04 18:16:14 | Golden Properties Ltd | Affiliate | Shares: 1500000 | Value: $6,172,500.0 | Percent: 1.506762% | Link: https://www.sec.gov/Archives/edgar/data/1662466/000147793225007888/0001477932-25-007888.txt
+2025-11-04 18:16:15 | Golden Properties Ltd | Affiliate | Shares: 1500000 | Value: $6,172,500.0 | Percent: 1.506762% | Link: https://www.sec.gov/Archives/edgar/data/1590715/000147793225007888/0001477932-25-007888.txt
+2025-11-04 18:16:17 | Hudson Susan Claire | Officer | Shares: 10667 | Value: $746,842.37 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/1929781/000195917325006713/0001959173-25-006713.txt
+2025-11-04 18:16:18 | Hudson Susan Claire | Officer | Shares: 10667 | Value: $746,842.37 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/30625/000195917325006713/0001959173-25-006713.txt
+2025-11-04 18:16:19 | Haddon Julie | Former Director | Shares: 50653 | Value: $184,376.92 | Percent: 0.014780% | Link: https://www.sec.gov/Archives/edgar/data/1862034/000195917325006712/0001959173-25-006712.txt
+2025-11-04 18:16:20 | Haddon Julie | Former Director | Shares: 50653 | Value: $184,376.92 | Percent: 0.014780% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325006712/0001959173-25-006712.txt
