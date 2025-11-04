@@ -8592,3 +8592,13 @@
 2025-11-04 21:41:23 | 8-K - PAR PACIFIC HOLDINGS, INC. (0000821483) (Filer) | 2025-11-04T16:36:26-05:00 | https://www.sec.gov/Archives/edgar/data/821483/000162828025048903/0001628280-25-048903.txt
 2025-11-04 21:41:24 | 8-K - GLADSTONE INVESTMENT CORPORATION\DE (0001321741) (Filer) | 2025-11-04T16:35:55-05:00 | https://www.sec.gov/Archives/edgar/data/1321741/000132174125000023/0001321741-25-000023.txt
 2025-11-04 21:41:26 | 8-K - 3D SYSTEMS CORP (0000910638) (Filer) | 2025-11-04T16:35:11-05:00 | https://www.sec.gov/Archives/edgar/data/910638/000162828025048900/0001628280-25-048900.txt
+2025-11-04 21:50:40 | 8-K - Churchill Capital Corp X/Cayman (0002007825) (Filer) | 2025-11-04T16:48:52-05:00 | https://www.sec.gov/Archives/edgar/data/2007825/000119312525264893/0001193125-25-264893.txt
+2025-11-04 21:50:40 | 8-K - ProShares Trust II (0001415311) (Filer) | 2025-11-04T16:47:32-05:00 | https://www.sec.gov/Archives/edgar/data/1415311/000119312525264886/0001193125-25-264886.txt
+2025-11-04 21:50:42 | 8-K - Apex Treasury Corp (0002079253) (Filer) | 2025-11-04T16:46:53-05:00 | https://www.sec.gov/Archives/edgar/data/2079253/000121390025106192/0001213900-25-106192.txt
+2025-11-04 21:50:42 | 8-K - Sixth Street Lending Partners (0001925309) (Filer) | 2025-11-04T16:46:51-05:00 | https://www.sec.gov/Archives/edgar/data/1925309/000119312525264885/0001193125-25-264885.txt
+2025-11-04 21:50:44 | 8-K - GXO Logistics, Inc. (0001852244) (Filer) | 2025-11-04T16:46:39-05:00 | https://www.sec.gov/Archives/edgar/data/1852244/000185224425000103/0001852244-25-000103.txt
+2025-11-04 21:50:45 | 8-K - California Resources Corp (0001609253) (Filer) | 2025-11-04T16:45:30-05:00 | https://www.sec.gov/Archives/edgar/data/1609253/000160925325000086/0001609253-25-000086.txt
+2025-11-04 21:50:47 | 8-K - SLR Investment Corp. (0001418076) (Filer) | 2025-11-04T16:45:27-05:00 | https://www.sec.gov/Archives/edgar/data/1418076/000117184325006978/0001171843-25-006978.txt
+2025-11-04 21:50:49 | 8-K - Chord Energy Corp (0001486159) (Filer) | 2025-11-04T16:45:07-05:00 | https://www.sec.gov/Archives/edgar/data/1486159/000148615925000042/0001486159-25-000042.txt
+2025-11-04 21:50:50 | 8-K - Super League Enterprise, Inc. (0001621672) (Filer) | 2025-11-04T16:44:42-05:00 | https://www.sec.gov/Archives/edgar/data/1621672/000143774925033047/0001437749-25-033047.txt
+2025-11-04 21:50:52 | 8-K - Great Elm Capital Corp. (0001675033) (Filer) | 2025-11-04T16:42:11-05:00 | https://www.sec.gov/Archives/edgar/data/1675033/000119312525264872/0001193125-25-264872.txt
