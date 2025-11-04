@@ -5901,3 +5901,5 @@
 2025-11-04 15:38:24 | COLVIN DONALD A | Director | Shares: 23050 | Value: $404,300.0 | Percent: 0.010327% | Link: https://www.sec.gov/Archives/edgar/data/912093/000197407825000396/0001974078-25-000396.txt
 2025-11-04 15:38:25 | Gulliver Kate | Officer | Shares: 9612 | Value: $982,346.4 | Percent: 0.008993% | Link: https://www.sec.gov/Archives/edgar/data/1950170/000195917325006706/0001959173-25-006706.txt
 2025-11-04 15:38:26 | Gulliver Kate | Officer | Shares: 9612 | Value: $982,346.4 | Percent: 0.008993% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006706/0001959173-25-006706.txt
+2025-11-04 15:51:09 | Lazzaris Diane | Officer | Shares: 7522 | Value: $1,965,122.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/1428491/000194984625000556/0001949846-25-000556.txt
+2025-11-04 15:51:10 | Lazzaris Diane | Officer | Shares: 7522 | Value: $1,965,122.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/929008/000194984625000556/0001949846-25-000556.txt
