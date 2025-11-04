@@ -8564,3 +8564,4 @@
 2025-11-04 19:58:12 | 8-K - GREENE COUNTY BANCORP INC (0001070524) (Filer) | 2025-11-04T14:51:57-05:00 | https://www.sec.gov/Archives/edgar/data/1070524/000114036125040321/0001140361-25-040321.txt
 2025-11-04 20:26:40 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-11-04T15:07:12-05:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000205/0001325814-25-000205.txt
 2025-11-04 20:26:42 | 8-K - Lafayette Square USA, Inc. (0001849089) (Filer) | 2025-11-04T14:58:12-05:00 | https://www.sec.gov/Archives/edgar/data/1849089/000110465925106196/0001104659-25-106196.txt
+2025-11-04 20:53:11 | 8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer) | 2025-11-04T15:51:39-05:00 | https://www.sec.gov/Archives/edgar/data/1325878/000132587825000231/0001325878-25-000231.txt
