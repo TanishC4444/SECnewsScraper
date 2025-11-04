@@ -5891,3 +5891,7 @@
 2025-11-04 14:55:00 | Gibson Christopher | Officer | Shares: 40000 | Value: $208,400.0 | Percent: 0.009361% | Link: https://www.sec.gov/Archives/edgar/data/1601830/000195917325006701/0001959173-25-006701.txt
 2025-11-04 14:55:01 | Harris Timothy J | Officer | Shares: 10543 | Value: $1,012,866.01 | Percent: 0.007760% | Link: https://www.sec.gov/Archives/edgar/data/1776844/000195917325006700/0001959173-25-006700.txt
 2025-11-04 14:55:02 | Harris Timothy J | Officer | Shares: 10543 | Value: $1,012,866.01 | Percent: 0.007760% | Link: https://www.sec.gov/Archives/edgar/data/1018963/000195917325006700/0001959173-25-006700.txt
+2025-11-04 15:17:25 | WEBER MARK | Officer | Shares: 51187 | Value: $5,902,372.97 | Percent: 0.084177% | Link: https://www.sec.gov/Archives/edgar/data/1302928/000130292825000004/0001302928-25-000004.txt
+2025-11-04 15:17:25 | WEBER MARK | Officer | Shares: 51187 | Value: $5,902,372.97 | Percent: 0.084177% | Link: https://www.sec.gov/Archives/edgar/data/277509/000130292825000004/0001302928-25-000004.txt
+2025-11-04 15:17:28 | Cardoso Marcelo | Officer | Shares: 70000 | Value: $2,030,000.0 | Percent: 0.047500% | Link: https://www.sec.gov/Archives/edgar/data/1769387/000195917325006702/0001959173-25-006702.txt
+2025-11-04 15:17:29 | Cardoso Marcelo | Officer | Shares: 70000 | Value: $2,030,000.0 | Percent: 0.047500% | Link: https://www.sec.gov/Archives/edgar/data/912766/000195917325006702/0001959173-25-006702.txt
