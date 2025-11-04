@@ -5905,3 +5905,7 @@
 2025-11-04 15:51:10 | Lazzaris Diane | Officer | Shares: 7522 | Value: $1,965,122.5 | Percent: 0.015463% | Link: https://www.sec.gov/Archives/edgar/data/929008/000194984625000556/0001949846-25-000556.txt
 2025-11-04 16:33:11 | CHUANG PATRICK T | Senior VP Memory Design | Shares: 40000 | Value: $364,000.0 | Percent: 0.137501% | Link: https://www.sec.gov/Archives/edgar/data/2009849/000197337925000279/0001973379-25-000279.txt
 2025-11-04 16:33:11 | CHUANG PATRICK T | Senior VP Memory Design | Shares: 40000 | Value: $364,000.0 | Percent: 0.137501% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000279/0001973379-25-000279.txt
+2025-11-04 16:52:33 | Akerib Avidan | Officer | Shares: 190000 | Value: $1,729,000.0 | Percent: 0.653131% | Link: https://www.sec.gov/Archives/edgar/data/1932651/000197337925000281/0001973379-25-000281.txt
+2025-11-04 16:52:34 | Akerib Avidan | Officer | Shares: 190000 | Value: $1,729,000.0 | Percent: 0.653131% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000281/0001973379-25-000281.txt
+2025-11-04 16:52:35 | Bradley Jack A. | Director | Shares: 66492 | Value: $598,428.0 | Percent: 0.228568% | Link: https://www.sec.gov/Archives/edgar/data/1637363/000197337925000280/0001973379-25-000280.txt
+2025-11-04 16:52:35 | Bradley Jack A. | Director | Shares: 66492 | Value: $598,428.0 | Percent: 0.228568% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000280/0001973379-25-000280.txt
