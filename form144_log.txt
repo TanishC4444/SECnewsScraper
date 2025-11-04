@@ -5941,3 +5941,7 @@
 2025-11-04 21:11:56 | RICHARD D FAIRBANK | Officer | Shares: 103487 | Value: $22,838,052.79 | Percent: 0.016278% | Link: https://www.sec.gov/Archives/edgar/data/927628/000195004725008430/0001950047-25-008430.txt
 2025-11-04 21:11:58 | JENNIFER B WUAMETT | Officer | Shares: 8372 | Value: $1,733,055.91 | Percent: 0.003327% | Link: https://www.sec.gov/Archives/edgar/data/1597265/000195004725008428/0001950047-25-008428.txt
 2025-11-04 21:11:59 | JENNIFER B WUAMETT | Officer | Shares: 8372 | Value: $1,733,055.91 | Percent: 0.003327% | Link: https://www.sec.gov/Archives/edgar/data/1413447/000195004725008428/0001950047-25-008428.txt
+2025-11-04 21:29:29 | Mehta Sanjay | Officer | Shares: 6330 | Value: $1,124,571.05 | Percent: 0.004042% | Link: https://www.sec.gov/Archives/edgar/data/1775135/000195917325006735/0001959173-25-006735.txt
+2025-11-04 21:29:30 | Mehta Sanjay | Officer | Shares: 6330 | Value: $1,124,571.05 | Percent: 0.004042% | Link: https://www.sec.gov/Archives/edgar/data/97210/000195917325006735/0001959173-25-006735.txt
+2025-11-04 21:29:32 | Hartung Michael P | Officer | Shares: 15000 | Value: $933,898.1 | Percent: 0.004056% | Link: https://www.sec.gov/Archives/edgar/data/1820263/000195917325006734/0001959173-25-006734.txt
+2025-11-04 21:29:34 | Hartung Michael P | Officer | Shares: 15000 | Value: $933,898.1 | Percent: 0.004056% | Link: https://www.sec.gov/Archives/edgar/data/866374/000195917325006734/0001959173-25-006734.txt
