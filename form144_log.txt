@@ -5921,3 +5921,5 @@
 2025-11-04 18:16:18 | Hudson Susan Claire | Officer | Shares: 10667 | Value: $746,842.37 | Percent: 0.008392% | Link: https://www.sec.gov/Archives/edgar/data/30625/000195917325006713/0001959173-25-006713.txt
 2025-11-04 18:16:19 | Haddon Julie | Former Director | Shares: 50653 | Value: $184,376.92 | Percent: 0.014780% | Link: https://www.sec.gov/Archives/edgar/data/1862034/000195917325006712/0001959173-25-006712.txt
 2025-11-04 18:16:20 | Haddon Julie | Former Director | Shares: 50653 | Value: $184,376.92 | Percent: 0.014780% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325006712/0001959173-25-006712.txt
+2025-11-04 19:15:22 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,240,471.96 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1298675/000197249025000018/0001972490-25-000018.txt
+2025-11-04 19:15:22 | MARR CHRISTOPHER P | Officer | Shares: 87604 | Value: $3,240,471.96 | Percent: 0.038417% | Link: https://www.sec.gov/Archives/edgar/data/1185498/000197249025000018/0001972490-25-000018.txt
