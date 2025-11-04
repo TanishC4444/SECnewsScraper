@@ -5909,3 +5909,5 @@
 2025-11-04 16:52:34 | Akerib Avidan | Officer | Shares: 190000 | Value: $1,729,000.0 | Percent: 0.653131% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000281/0001973379-25-000281.txt
 2025-11-04 16:52:35 | Bradley Jack A. | Director | Shares: 66492 | Value: $598,428.0 | Percent: 0.228568% | Link: https://www.sec.gov/Archives/edgar/data/1637363/000197337925000280/0001973379-25-000280.txt
 2025-11-04 16:52:35 | Bradley Jack A. | Director | Shares: 66492 | Value: $598,428.0 | Percent: 0.228568% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000280/0001973379-25-000280.txt
+2025-11-04 17:08:02 | Gary Fischer | Officer | Shares: 102910 | Value: $871,647.7 | Percent: 0.223111% | Link: https://www.sec.gov/Archives/edgar/data/1257647/000162828025048621/0001628280-25-048621.txt
+2025-11-04 17:08:03 | Gary Fischer | Officer | Shares: 102910 | Value: $871,647.7 | Percent: 0.223111% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000162828025048621/0001628280-25-048621.txt
