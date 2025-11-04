@@ -8611,3 +8611,13 @@
 2025-11-04 21:59:39 | 8-K - RAYONIER ADVANCED MATERIALS INC. (0001597672) (Filer) | 2025-11-04T16:52:00-05:00 | https://www.sec.gov/Archives/edgar/data/1597672/000159767225000045/0001597672-25-000045.txt
 2025-11-04 21:59:41 | 8-K - Trulieve Cannabis Corp. (0001754195) (Filer) | 2025-11-04T16:51:48-05:00 | https://www.sec.gov/Archives/edgar/data/1754195/000175419525000062/0001754195-25-000062.txt
 2025-11-04 21:59:41 | 8-K - HYSTER-YALE, INC. (0001173514) (Filer) | 2025-11-04T16:51:11-05:00 | https://www.sec.gov/Archives/edgar/data/1173514/000117351425000125/0001173514-25-000125.txt
+2025-11-04 22:24:41 | 8-K - Kodiak Gas Services, Inc. (0001767042) (Filer) | 2025-11-04T17:23:54-05:00 | https://www.sec.gov/Archives/edgar/data/1767042/000176704225000077/0001767042-25-000077.txt
+2025-11-04 22:24:42 | 8-K - NexPoint Real Estate Finance, Inc. (0001786248) (Filer) | 2025-11-04T17:23:37-05:00 | https://www.sec.gov/Archives/edgar/data/1786248/000143774925033072/0001437749-25-033072.txt
+2025-11-04 22:24:43 | 8-K - Allison Transmission Holdings Inc (0001411207) (Filer) | 2025-11-04T17:23:09-05:00 | https://www.sec.gov/Archives/edgar/data/1411207/000119312525265028/0001193125-25-265028.txt
+2025-11-04 22:24:46 | 8-K - GLOBAL PAYMENTS INC (0001123360) (Filer) | 2025-11-04T17:22:38-05:00 | https://www.sec.gov/Archives/edgar/data/1123360/000112336025000080/0001123360-25-000080.txt
+2025-11-04 22:24:48 | 8-K - Limbach Holdings, Inc. (0001606163) (Filer) | 2025-11-04T17:22:03-05:00 | https://www.sec.gov/Archives/edgar/data/1606163/000162828025049017/0001628280-25-049017.txt
+2025-11-04 22:24:49 | 8-K - BWX Technologies, Inc. (0001486957) (Filer) | 2025-11-04T17:21:15-05:00 | https://www.sec.gov/Archives/edgar/data/1486957/000110465925106427/0001104659-25-106427.txt
+2025-11-04 22:24:52 | 8-K - Bloom Energy Corp (0001664703) (Filer) | 2025-11-04T17:20:54-05:00 | https://www.sec.gov/Archives/edgar/data/1664703/000162828025049016/0001628280-25-049016.txt
+2025-11-04 22:24:54 | 8-K - CompoSecure, Inc. (0001823144) (Filer) | 2025-11-04T17:20:32-05:00 | https://www.sec.gov/Archives/edgar/data/1823144/000110465925106425/0001104659-25-106425.txt
+2025-11-04 22:24:55 | 8-K - Fly-E Group, Inc. (0001975940) (Filer) | 2025-11-04T17:20:23-05:00 | https://www.sec.gov/Archives/edgar/data/1975940/000121390025106260/0001213900-25-106260.txt
+2025-11-04 22:24:56 | 8-K - Cryoport, Inc. (0001124524) (Filer) | 2025-11-04T17:18:14-05:00 | https://www.sec.gov/Archives/edgar/data/1124524/000110465925106421/0001104659-25-106421.txt

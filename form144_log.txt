@@ -5966,3 +5966,7 @@
 2025-11-04 21:59:44 | TRACY T. CONERLY | Director | Shares: 8000 | Value: $297,721.6 | Percent: 0.013252% | Link: https://www.sec.gov/Archives/edgar/data/36146/000195004725008456/0001950047-25-008456.txt
 2025-11-04 21:59:46 | Jackson DeLu | Former Officer | Shares: 153608 | Value: $1,240,652.7 | Percent: 0.020079% | Link: https://www.sec.gov/Archives/edgar/data/1967217/000195917325006740/0001959173-25-006740.txt
 2025-11-04 21:59:46 | Jackson DeLu | Former Officer | Shares: 153608 | Value: $1,240,652.7 | Percent: 0.020079% | Link: https://www.sec.gov/Archives/edgar/data/1703056/000195917325006740/0001959173-25-006740.txt
+2025-11-04 22:24:57 | Shane Eleniak | Officer | Shares: 50000 | Value: $3,266,850.0 | Percent: 0.075442% | Link: https://www.sec.gov/Archives/edgar/data/1886143/000195004725008458/0001950047-25-008458.txt
+2025-11-04 22:24:57 | Shane Eleniak | Officer | Shares: 50000 | Value: $3,266,850.0 | Percent: 0.075442% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000195004725008458/0001950047-25-008458.txt
+2025-11-04 22:24:59 | James Leddy | Officer | Shares: 22000 | Value: $1,366,200.0 | Percent: 0.054073% | Link: https://www.sec.gov/Archives/edgar/data/1686807/000162828025048953/0001628280-25-048953.txt
+2025-11-04 22:25:00 | James Leddy | Officer | Shares: 22000 | Value: $1,366,200.0 | Percent: 0.054073% | Link: https://www.sec.gov/Archives/edgar/data/1517175/000162828025048953/0001628280-25-048953.txt
