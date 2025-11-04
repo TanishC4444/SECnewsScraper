@@ -8504,3 +8504,11 @@
 2025-11-04 12:26:20 | 8-K - Nuveen Churchill Direct Lending Corp. (0001737924) (Filer) | 2025-11-04T07:16:19-05:00 | https://www.sec.gov/Archives/edgar/data/1737924/000173792425000017/0001737924-25-000017.txt
 2025-11-04 12:26:21 | 8-K12G3 - Verano Holdings Corp. (0001848416) (Filer) | 2025-11-04T07:15:49-05:00 | https://www.sec.gov/Archives/edgar/data/1848416/000149315225020684/0001493152-25-020684.txt
 2025-11-04 12:26:22 | 8-K - Xometry, Inc. (0001657573) (Filer) | 2025-11-04T07:15:29-05:00 | https://www.sec.gov/Archives/edgar/data/1657573/000119312525263549/0001193125-25-263549.txt
+2025-11-04 13:10:16 | 8-K - Cohen & Co Inc. (0001270436) (Filer) | 2025-11-04T08:08:51-05:00 | https://www.sec.gov/Archives/edgar/data/1270436/000110465925105946/0001104659-25-105946.txt
+2025-11-04 13:10:17 | 8-K - APPLIED DNA SCIENCES INC (0000744452) (Filer) | 2025-11-04T08:08:48-05:00 | https://www.sec.gov/Archives/edgar/data/744452/000110465925105945/0001104659-25-105945.txt
+2025-11-04 13:10:17 | 8-K - Uniti Group Inc. (0002020795) (Filer) | 2025-11-04T08:05:49-05:00 | https://www.sec.gov/Archives/edgar/data/2020795/000162828025048540/0001628280-25-048540.txt
+2025-11-04 13:10:19 | 8-K - Roadzen Inc. (0001868640) (Filer) | 2025-11-04T08:05:25-05:00 | https://www.sec.gov/Archives/edgar/data/1868640/000149315225020690/0001493152-25-020690.txt
+2025-11-04 13:10:20 | 8-K - Harmony Biosciences Holdings, Inc. (0001802665) (Filer) | 2025-11-04T08:05:15-05:00 | https://www.sec.gov/Archives/edgar/data/1802665/000110465925105942/0001104659-25-105942.txt
+2025-11-04 13:10:22 | 8-K - BALL Corp (0000009389) (Filer) | 2025-11-04T08:05:10-05:00 | https://www.sec.gov/Archives/edgar/data/9389/000000938925000048/0000009389-25-000048.txt
+2025-11-04 13:10:24 | 8-K - EXAGEN INC. (0001274737) (Filer) | 2025-11-04T08:03:27-05:00 | https://www.sec.gov/Archives/edgar/data/1274737/000127473725000069/0001274737-25-000069.txt
+2025-11-04 13:10:25 | 8-K - Portillo's Inc. (0001871509) (Filer) | 2025-11-04T08:02:59-05:00 | https://www.sec.gov/Archives/edgar/data/1871509/000187150925000151/0001871509-25-000151.txt
