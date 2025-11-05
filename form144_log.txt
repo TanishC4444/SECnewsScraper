@@ -6054,3 +6054,7 @@
 2025-11-05 22:25:47 | CAFARO DEBRA A | Officer | Shares: 19250 | Value: $1,449,348.1 | Percent: 0.004098% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000392/0001964306-25-000392.txt
 2025-11-05 22:25:48 | SHAWN M. SODERBERG | Officer | Shares: 36666 | Value: $5,169,920.67 | Percent: 0.015503% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725008508/0001950047-25-008508.txt
 2025-11-05 22:25:49 | SHAWN M. SODERBERG | Officer | Shares: 36666 | Value: $5,169,920.67 | Percent: 0.015503% | Link: https://www.sec.gov/Archives/edgar/data/1591851/000195004725008508/0001950047-25-008508.txt
+2025-11-05 22:40:51 | Parang Touraj | Officer | Shares: 9500 | Value: $111,910.95 | Percent: 0.015427% | Link: https://www.sec.gov/Archives/edgar/data/1983441/000197407825000401/0001974078-25-000401.txt
+2025-11-05 22:40:51 | Parang Touraj | Officer | Shares: 9500 | Value: $111,910.95 | Percent: 0.015427% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000401/0001974078-25-000401.txt
+2025-11-05 22:40:53 | CHANG DAVID C | Director | Shares: 100000 | Value: $906,000.0 | Percent: 0.216802% | Link: https://www.sec.gov/Archives/edgar/data/1188184/000194984625000563/0001949846-25-000563.txt
+2025-11-05 22:40:54 | CHANG DAVID C | Director | Shares: 100000 | Value: $906,000.0 | Percent: 0.216802% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000194984625000563/0001949846-25-000563.txt

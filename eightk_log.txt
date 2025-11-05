@@ -8795,3 +8795,10 @@
 2025-11-05 22:25:39 | 8-K - Stabilis Solutions, Inc. (0001043186) (Filer) | 2025-11-05T17:16:17-05:00 | https://www.sec.gov/Archives/edgar/data/1043186/000143774925033393/0001437749-25-033393.txt
 2025-11-05 22:25:40 | 8-K - Dragonfly Energy Holdings Corp. (0001847986) (Filer) | 2025-11-05T17:15:50-05:00 | https://www.sec.gov/Archives/edgar/data/1847986/000149315225020907/0001493152-25-020907.txt
 2025-11-05 22:25:41 | 8-K - CARVER BANCORP INC (0001016178) (Filer) | 2025-11-05T17:15:39-05:00 | https://www.sec.gov/Archives/edgar/data/1016178/000110465925107105/0001104659-25-107105.txt
+2025-11-05 22:40:43 | 8-K - LifeMD, Inc. (0000948320) (Filer) | 2025-11-05T17:27:46-05:00 | https://www.sec.gov/Archives/edgar/data/948320/000149315225020913/0001493152-25-020913.txt
+2025-11-05 22:40:44 | 8-K - Viking Acquisition Corp I (0002080023) (Filer) | 2025-11-05T17:27:00-05:00 | https://www.sec.gov/Archives/edgar/data/2080023/000121390025106726/0001213900-25-106726.txt
+2025-11-05 22:40:45 | 8-K - MultiSensor AI Holdings, Inc. (0001863990) (Filer) | 2025-11-05T17:26:39-05:00 | https://www.sec.gov/Archives/edgar/data/1863990/000110465925107120/0001104659-25-107120.txt
+2025-11-05 22:40:47 | 8-K - MoonLake Immunotherapeutics (0001821586) (Filer) | 2025-11-05T17:26:12-05:00 | https://www.sec.gov/Archives/edgar/data/1821586/000121390025106723/0001213900-25-106723.txt
+2025-11-05 22:40:48 | 8-K - Ralliant Corp (0002041385) (Filer) | 2025-11-05T17:26:03-05:00 | https://www.sec.gov/Archives/edgar/data/2041385/000204138525000067/0002041385-25-000067.txt
+2025-11-05 22:40:49 | 8-K - Blue Owl Technology Finance Corp. (0001747777) (Filer) | 2025-11-05T17:25:59-05:00 | https://www.sec.gov/Archives/edgar/data/1747777/000119312525267287/0001193125-25-267287.txt
+2025-11-05 22:40:51 | 8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer) | 2025-11-05T17:25:29-05:00 | https://www.sec.gov/Archives/edgar/data/1651721/000119312525267284/0001193125-25-267284.txt
