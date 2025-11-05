@@ -8738,3 +8738,13 @@
 2025-11-05 20:55:53 | 8-K - JONES FINANCIAL COMPANIES LLLP (0000815917) (Filer) | 2025-11-05T15:52:28-05:00 | https://www.sec.gov/Archives/edgar/data/815917/000119312525266808/0001193125-25-266808.txt
 2025-11-05 20:55:56 | 8-K - IPC Alternative Real Estate Income Trust, Inc. (0001959961) (Filer) | 2025-11-05T15:51:48-05:00 | https://www.sec.gov/Archives/edgar/data/1959961/000119312525266807/0001193125-25-266807.txt
 2025-11-05 20:55:58 | 8-K - ConnectM Technology Solutions, Inc. (0001895249) (Filer) | 2025-11-05T15:50:57-05:00 | https://www.sec.gov/Archives/edgar/data/1895249/000110465925106964/0001104659-25-106964.txt
+2025-11-05 21:16:37 | 8-K - CONMED Corp (0000816956) (Filer) | 2025-11-05T16:15:19-05:00 | https://www.sec.gov/Archives/edgar/data/816956/000081695625000054/0000816956-25-000054.txt
+2025-11-05 21:16:38 | 8-K - Cytek Biosciences, Inc. (0001831915) (Filer) | 2025-11-05T16:15:17-05:00 | https://www.sec.gov/Archives/edgar/data/1831915/000119312525266973/0001193125-25-266973.txt
+2025-11-05 21:16:40 | 8-K - Senseonics Holdings, Inc. (0001616543) (Filer) | 2025-11-05T16:15:16-05:00 | https://www.sec.gov/Archives/edgar/data/1616543/000110465925107004/0001104659-25-107004.txt
+2025-11-05 21:16:41 | 8-K - Crescent Energy Co (0001866175) (Filer) | 2025-11-05T16:15:09-05:00 | https://www.sec.gov/Archives/edgar/data/1866175/000162828025049580/0001628280-25-049580.txt
+2025-11-05 21:16:43 | 8-K - Penumbra Inc (0001321732) (Filer) | 2025-11-05T16:15:00-05:00 | https://www.sec.gov/Archives/edgar/data/1321732/000132173225000108/0001321732-25-000108.txt
+2025-11-05 21:16:46 | 8-K - Clearwater Analytics Holdings, Inc. (0001866368) (Filer) | 2025-11-05T16:14:55-05:00 | https://www.sec.gov/Archives/edgar/data/1866368/000186636825000029/0001866368-25-000029.txt
+2025-11-05 21:16:47 | 8-K - RENASANT CORP (0000715072) (Filer) | 2025-11-05T16:14:30-05:00 | https://www.sec.gov/Archives/edgar/data/715072/000071507225000231/0000715072-25-000231.txt
+2025-11-05 21:16:50 | 8-K - Sprout Social, Inc. (0001517375) (Filer) | 2025-11-05T16:14:21-05:00 | https://www.sec.gov/Archives/edgar/data/1517375/000151737525000139/0001517375-25-000139.txt
+2025-11-05 21:16:51 | 8-K - Twin Hospitality Group Inc. (0002011954) (Filer) | 2025-11-05T16:13:50-05:00 | https://www.sec.gov/Archives/edgar/data/2011954/000162828025049573/0001628280-25-049573.txt
+2025-11-05 21:16:53 | 8-K - SkyWater Technology, Inc (0001819974) (Filer) | 2025-11-05T16:13:48-05:00 | https://www.sec.gov/Archives/edgar/data/1819974/000181997425000044/0001819974-25-000044.txt

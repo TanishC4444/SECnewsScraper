@@ -6020,3 +6020,9 @@
 2025-11-05 20:46:32 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000036/0001976415-25-000036.txt
 2025-11-05 20:46:32 | Kashani Ali | Officer | Shares: 13310 | Value: $154,740.73 | Percent: 0.021614% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000399/0001974078-25-000399.txt
 2025-11-05 20:46:32 | Kashani Ali | Officer | Shares: 13310 | Value: $154,740.73 | Percent: 0.021614% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000399/0001974078-25-000399.txt
+2025-11-05 21:16:55 | KENNETH M BATE | Director | Shares: 16575 | Value: $8,027,353.72 | Percent: 0.072981% | Link: https://www.sec.gov/Archives/edgar/data/1210238/000195004725008473/0001950047-25-008473.txt
+2025-11-05 21:16:56 | KENNETH M BATE | Director | Shares: 16575 | Value: $8,027,353.72 | Percent: 0.072981% | Link: https://www.sec.gov/Archives/edgar/data/1157601/000195004725008473/0001950047-25-008473.txt
+2025-11-05 21:16:58 | PATRICK FRANCIS MINOGUE | Former Affiliate | Shares: 7000 | Value: $4,550.0 | Percent: 0.000515% | Link: https://www.sec.gov/Archives/edgar/data/1999803/000195004725008472/0001950047-25-008472.txt
+2025-11-05 21:16:59 | PATRICK FRANCIS MINOGUE | Former Affiliate | Shares: 7000 | Value: $4,550.0 | Percent: 0.000515% | Link: https://www.sec.gov/Archives/edgar/data/1418135/000195004725008472/0001950047-25-008472.txt
+2025-11-05 21:17:01 | Sweet Julie Spellman | Officer | Shares: 5917 | Value: $1,440,079.46 | Percent: 0.000899% | Link: https://www.sec.gov/Archives/edgar/data/1487630/000196922325000913/0001969223-25-000913.txt
+2025-11-05 21:17:03 | Sweet Julie Spellman | Officer | Shares: 5917 | Value: $1,440,079.46 | Percent: 0.000899% | Link: https://www.sec.gov/Archives/edgar/data/1467373/000196922325000913/0001969223-25-000913.txt
