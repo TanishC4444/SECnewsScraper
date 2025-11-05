@@ -5998,3 +5998,5 @@
 2025-11-05 16:55:21 | POWELL BRADLEY S | Former Officer | Shares: 12340 | Value: $1,696,648.9 | Percent: 0.009092% | Link: https://www.sec.gov/Archives/edgar/data/746515/000195917325006747/0001959173-25-006747.txt
 2025-11-05 17:34:51 | Smith Phillip R | Director | Shares: 6200 | Value: $240,312.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/1602281/000194984625000561/0001949846-25-000561.txt
 2025-11-05 17:34:53 | Smith Phillip R | Director | Shares: 6200 | Value: $240,312.0 | Percent: 0.000950% | Link: https://www.sec.gov/Archives/edgar/data/1130310/000194984625000561/0001949846-25-000561.txt
+2025-11-05 17:45:00 | JACKMAN WORTHING | Director | Shares: 6349 | Value: $2,859,898.52 | Percent: 0.004258% | Link: https://www.sec.gov/Archives/edgar/data/1229832/000195917325006749/0001959173-25-006749.txt
+2025-11-05 17:45:01 | JACKMAN WORTHING | Director | Shares: 6349 | Value: $2,859,898.52 | Percent: 0.004258% | Link: https://www.sec.gov/Archives/edgar/data/1050915/000195917325006749/0001959173-25-006749.txt
