@@ -5982,3 +5982,5 @@
 2025-11-05 02:48:40 | Heather Hasson | Director | Shares: 23356 | Value: $172,528.61 | Percent: 0.015069% | Link: https://www.sec.gov/Archives/edgar/data/1843821/000162828025049186/0001628280-25-049186.txt
 2025-11-05 14:48:00 | Tan Fiona | Officer | Shares: 6347 | Value: $638,127.38 | Percent: 0.005938% | Link: https://www.sec.gov/Archives/edgar/data/1867558/000195917325006741/0001959173-25-006741.txt
 2025-11-05 14:48:01 | Tan Fiona | Officer | Shares: 6347 | Value: $638,127.38 | Percent: 0.005938% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006741/0001959173-25-006741.txt
+2025-11-05 14:57:32 | Mehta Sanjay | Officer | Shares: 6331 | Value: $1,139,580.0 | Percent: 0.004043% | Link: https://www.sec.gov/Archives/edgar/data/1775135/000195917325006745/0001959173-25-006745.txt
+2025-11-05 14:57:32 | Mehta Sanjay | Officer | Shares: 6331 | Value: $1,139,580.0 | Percent: 0.004043% | Link: https://www.sec.gov/Archives/edgar/data/97210/000195917325006745/0001959173-25-006745.txt
