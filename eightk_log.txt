@@ -8717,3 +8717,5 @@
 2025-11-05 16:36:44 | 8-K - Shepherd's Finance, LLC (0001544190) (Filer) | 2025-11-05T11:21:18-05:00 | https://www.sec.gov/Archives/edgar/data/1544190/000149315225020826/0001493152-25-020826.txt
 2025-11-05 16:55:18 | 8-K - CHS INC (0000823277) (Filer) | 2025-11-05T11:45:32-05:00 | https://www.sec.gov/Archives/edgar/data/823277/000082327725000039/0000823277-25-000039.txt
 2025-11-05 17:15:25 | 8-K - TCW Steel City Senior Lending BDC (0002043133) (Filer) | 2025-11-05T11:59:39-05:00 | https://www.sec.gov/Archives/edgar/data/2043133/000119312525266294/0001193125-25-266294.txt
+2025-11-05 17:34:46 | 8-K/A - Turning Point Brands, Inc. (0001290677) (Filer) | 2025-11-05T12:30:16-05:00 | https://www.sec.gov/Archives/edgar/data/1290677/000143774925033241/0001437749-25-033241.txt
+2025-11-05 17:34:48 | 8-K - Karat Packaging Inc. (0001758021) (Filer) | 2025-11-05T12:22:21-05:00 | https://www.sec.gov/Archives/edgar/data/1758021/000175802125000005/0001758021-25-000005.txt
