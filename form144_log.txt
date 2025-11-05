@@ -5980,3 +5980,5 @@
 2025-11-05 02:48:38 | Sarah Oughtred | Officer | Shares: 22745 | Value: $168,015.2 | Percent: 0.014675% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025049188/0001628280-25-049188.txt
 2025-11-05 02:48:39 | Heather Hasson | Director | Shares: 23356 | Value: $172,528.61 | Percent: 0.015069% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025049186/0001628280-25-049186.txt
 2025-11-05 02:48:40 | Heather Hasson | Director | Shares: 23356 | Value: $172,528.61 | Percent: 0.015069% | Link: https://www.sec.gov/Archives/edgar/data/1843821/000162828025049186/0001628280-25-049186.txt
+2025-11-05 14:48:00 | Tan Fiona | Officer | Shares: 6347 | Value: $638,127.38 | Percent: 0.005938% | Link: https://www.sec.gov/Archives/edgar/data/1867558/000195917325006741/0001959173-25-006741.txt
+2025-11-05 14:48:01 | Tan Fiona | Officer | Shares: 6347 | Value: $638,127.38 | Percent: 0.005938% | Link: https://www.sec.gov/Archives/edgar/data/1616707/000195917325006741/0001959173-25-006741.txt
