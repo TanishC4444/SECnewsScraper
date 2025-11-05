@@ -5994,3 +5994,5 @@
 2025-11-05 16:36:50 | SLAYEN HOWARD T | Director | Shares: 6000 | Value: $150,840.0 | Percent: 0.019996% | Link: https://www.sec.gov/Archives/edgar/data/1040470/000194984625000560/0001949846-25-000560.txt
 2025-11-05 16:36:52 | Schlosser John W | Officer | Shares: 18498 | Value: $503,515.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1570469/000196530125000160/0001965301-25-000160.txt
 2025-11-05 16:36:53 | Schlosser John W | Officer | Shares: 18498 | Value: $503,515.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1506307/000196530125000160/0001965301-25-000160.txt
+2025-11-05 16:55:20 | POWELL BRADLEY S | Former Officer | Shares: 12340 | Value: $1,696,648.9 | Percent: 0.009092% | Link: https://www.sec.gov/Archives/edgar/data/1201470/000195917325006747/0001959173-25-006747.txt
+2025-11-05 16:55:21 | POWELL BRADLEY S | Former Officer | Shares: 12340 | Value: $1,696,648.9 | Percent: 0.009092% | Link: https://www.sec.gov/Archives/edgar/data/746515/000195917325006747/0001959173-25-006747.txt
