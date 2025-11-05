@@ -6002,3 +6002,5 @@
 2025-11-05 17:45:01 | JACKMAN WORTHING | Director | Shares: 6349 | Value: $2,859,898.52 | Percent: 0.004258% | Link: https://www.sec.gov/Archives/edgar/data/1050915/000195917325006749/0001959173-25-006749.txt
 2025-11-05 19:19:23 | Onopchenko Laura Diane | Former Director | Shares: 7500 | Value: $30,000.0 | Percent: 0.002188% | Link: https://www.sec.gov/Archives/edgar/data/1825118/000195917325006752/0001959173-25-006752.txt
 2025-11-05 19:19:24 | Onopchenko Laura Diane | Former Director | Shares: 7500 | Value: $30,000.0 | Percent: 0.002188% | Link: https://www.sec.gov/Archives/edgar/data/1484769/000195917325006752/0001959173-25-006752.txt
+2025-11-05 19:51:07 | SADLER ROBERT E JR | Director | Shares: 10000 | Value: $1,838,600.0 | Percent: 0.006026% | Link: https://www.sec.gov/Archives/edgar/data/1245786/000195917325006754/0001959173-25-006754.txt
+2025-11-05 19:51:07 | SADLER ROBERT E JR | Director | Shares: 10000 | Value: $1,838,600.0 | Percent: 0.006026% | Link: https://www.sec.gov/Archives/edgar/data/36270/000195917325006754/0001959173-25-006754.txt
