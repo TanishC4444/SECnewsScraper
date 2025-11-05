@@ -8728,3 +8728,7 @@
 2025-11-05 19:19:21 | 8-K - Capital One Auto Receivables LLC (0001133438) (Filer) | 2025-11-05T14:12:58-05:00 | https://www.sec.gov/Archives/edgar/data/1133438/000119312525266558/0001193125-25-266558.txt
 2025-11-05 19:41:34 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-11-05T14:30:27-05:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525266590/0001193125-25-266590.txt
 2025-11-05 19:51:06 | 8-K - GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES (0001572386) (Filer) | 2025-11-05T14:46:01-05:00 | https://www.sec.gov/Archives/edgar/data/1572386/000149315225020848/0001493152-25-020848.txt
+2025-11-05 20:31:16 | 8-K - Nexscient, Inc. (0001976663) (Filer) | 2025-11-05T15:26:56-05:00 | https://www.sec.gov/Archives/edgar/data/1976663/000147793225007927/0001477932-25-007927.txt
+2025-11-05 20:31:18 | 8-K - Liberty Media Corp (0001560385) (Filer) | 2025-11-05T15:22:49-05:00 | https://www.sec.gov/Archives/edgar/data/1560385/000156038525000027/0001560385-25-000027.txt
+2025-11-05 20:31:18 | 8-K - GM Financial Consumer Automobile Receivables Trust 2025-4 (0002084404) (Filer) | 2025-11-05T15:08:14-05:00 | https://www.sec.gov/Archives/edgar/data/2084404/000119312525266689/0001193125-25-266689.txt
+2025-11-05 20:31:18 | 8-K - AFS SENSUB CORP. (0001347185) (Filer) | 2025-11-05T15:08:14-05:00 | https://www.sec.gov/Archives/edgar/data/1347185/000119312525266689/0001193125-25-266689.txt

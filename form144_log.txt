@@ -6006,3 +6006,11 @@
 2025-11-05 19:51:07 | SADLER ROBERT E JR | Director | Shares: 10000 | Value: $1,838,600.0 | Percent: 0.006026% | Link: https://www.sec.gov/Archives/edgar/data/36270/000195917325006754/0001959173-25-006754.txt
 2025-11-05 20:00:15 | Silbert Barry E. | 10% Stockholder | Shares: 6431 | Value: $15,563.02 | Percent: 0.270961% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000034/0001976415-25-000034.txt
 2025-11-05 20:00:17 | Silbert Barry E. | 10% Stockholder | Shares: 6431 | Value: $15,563.02 | Percent: 0.270961% | Link: https://www.sec.gov/Archives/edgar/data/1852039/000197641525000034/0001976415-25-000034.txt
+2025-11-05 20:31:21 | Kirk R Wilson | Officer | Shares: 14800 | Value: $1,021,000.0 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/1654776/000196922325000912/0001969223-25-000912.txt
+2025-11-05 20:31:22 | Kirk R Wilson | Officer | Shares: 14800 | Value: $1,021,000.0 | Percent: 0.011643% | Link: https://www.sec.gov/Archives/edgar/data/30625/000196922325000912/0001969223-25-000912.txt
+2025-11-05 20:31:24 | Utzschneider Lisa | Officer | Shares: 12180 | Value: $124,663.52 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1842718/000195917325006759/0001959173-25-006759.txt
+2025-11-05 20:31:25 | Utzschneider Lisa | Officer | Shares: 12180 | Value: $124,663.52 | Percent: 0.007256% | Link: https://www.sec.gov/Archives/edgar/data/1651659/000195917325006759/0001959173-25-006759.txt
+2025-11-05 20:31:28 | Wortham Byron | Officer | Shares: 6600 | Value: $198,060.0 | Percent: 0.088373% | Link: https://www.sec.gov/Archives/edgar/data/1709433/000194984625000562/0001949846-25-000562.txt
+2025-11-05 20:31:29 | Wortham Byron | Officer | Shares: 6600 | Value: $198,060.0 | Percent: 0.088373% | Link: https://www.sec.gov/Archives/edgar/data/895456/000194984625000562/0001949846-25-000562.txt
+2025-11-05 20:31:31 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000035/0001976415-25-000035.txt
+2025-11-05 20:31:32 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000035/0001976415-25-000035.txt
