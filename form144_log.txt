@@ -6036,3 +6036,7 @@
 2025-11-05 21:41:35 | MACIEJ KURZYMSKI | Officer | Shares: 13105 | Value: $1,888,349.25 | Percent: 0.005541% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725008499/0001950047-25-008499.txt
 2025-11-05 21:41:37 | STEVEN STEIN | Officer | Shares: 5233 | Value: $534,812.6 | Percent: 0.002666% | Link: https://www.sec.gov/Archives/edgar/data/1673776/000195004725008498/0001950047-25-008498.txt
 2025-11-05 21:41:38 | STEVEN STEIN | Officer | Shares: 5233 | Value: $534,812.6 | Percent: 0.002666% | Link: https://www.sec.gov/Archives/edgar/data/879169/000195004725008498/0001950047-25-008498.txt
+2025-11-05 21:50:52 | EDDY ZERVIGON | Director | Shares: 20000 | Value: $2,825,582.0 | Percent: 0.008456% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725008503/0001950047-25-008503.txt
+2025-11-05 21:50:53 | EDDY ZERVIGON | Director | Shares: 20000 | Value: $2,825,582.0 | Percent: 0.008456% | Link: https://www.sec.gov/Archives/edgar/data/1286288/000195004725008503/0001950047-25-008503.txt
+2025-11-05 21:50:56 | ANIRUDH DEVGAN | Officer | Shares: 5550 | Value: $1,819,279.46 | Percent: 0.002039% | Link: https://www.sec.gov/Archives/edgar/data/1591933/000195004725008502/0001950047-25-008502.txt
+2025-11-05 21:50:58 | ANIRUDH DEVGAN | Officer | Shares: 5550 | Value: $1,819,279.46 | Percent: 0.002039% | Link: https://www.sec.gov/Archives/edgar/data/813672/000195004725008502/0001950047-25-008502.txt
