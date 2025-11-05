@@ -6048,3 +6048,9 @@
 2025-11-05 22:00:04 | Larrick Lindsay B | Officer | Shares: 22669 | Value: $566,738.0 | Percent: 0.026760% | Link: https://www.sec.gov/Archives/edgar/data/1838406/000192109425001318/0001921094-25-001318.txt
 2025-11-05 22:00:06 | ERIC TANZBERGER | Officer | Shares: 80800 | Value: $6,587,640.16 | Percent: 0.057640% | Link: https://www.sec.gov/Archives/edgar/data/1243196/000195004725008504/0001950047-25-008504.txt
 2025-11-05 22:00:07 | ERIC TANZBERGER | Officer | Shares: 80800 | Value: $6,587,640.16 | Percent: 0.057640% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725008504/0001950047-25-008504.txt
+2025-11-05 22:25:43 | Ian G. H. Ashken | Director | Shares: 292000 | Value: $7,892,760.0 | Percent: 0.120661% | Link: https://www.sec.gov/Archives/edgar/data/1590714/000196858225001029/0001968582-25-001029.txt
+2025-11-05 22:25:44 | Ian G. H. Ashken | Director | Shares: 292000 | Value: $7,892,760.0 | Percent: 0.120661% | Link: https://www.sec.gov/Archives/edgar/data/1093725/000196858225001029/0001968582-25-001029.txt
+2025-11-05 22:25:46 | CAFARO DEBRA A | Officer | Shares: 19250 | Value: $1,449,348.1 | Percent: 0.004098% | Link: https://www.sec.gov/Archives/edgar/data/1215188/000196430625000392/0001964306-25-000392.txt
+2025-11-05 22:25:47 | CAFARO DEBRA A | Officer | Shares: 19250 | Value: $1,449,348.1 | Percent: 0.004098% | Link: https://www.sec.gov/Archives/edgar/data/740260/000196430625000392/0001964306-25-000392.txt
+2025-11-05 22:25:48 | SHAWN M. SODERBERG | Officer | Shares: 36666 | Value: $5,169,920.67 | Percent: 0.015503% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725008508/0001950047-25-008508.txt
+2025-11-05 22:25:49 | SHAWN M. SODERBERG | Officer | Shares: 36666 | Value: $5,169,920.67 | Percent: 0.015503% | Link: https://www.sec.gov/Archives/edgar/data/1591851/000195004725008508/0001950047-25-008508.txt
