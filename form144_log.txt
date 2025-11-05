@@ -6032,3 +6032,7 @@
 2025-11-05 21:32:04 | Digital Currency Group, Inc. | Affiliate | Shares: 6615 | Value: $14,156.1 | Percent: 0.057899% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000127/0001652536-25-000127.txt
 2025-11-05 21:32:06 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $81,082.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1468316/000195004725008495/0001950047-25-008495.txt
 2025-11-05 21:32:07 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $81,082.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1211583/000195004725008495/0001950047-25-008495.txt
+2025-11-05 21:41:33 | MACIEJ KURZYMSKI | Officer | Shares: 13105 | Value: $1,888,349.25 | Percent: 0.005541% | Link: https://www.sec.gov/Archives/edgar/data/2067410/000195004725008499/0001950047-25-008499.txt
+2025-11-05 21:41:35 | MACIEJ KURZYMSKI | Officer | Shares: 13105 | Value: $1,888,349.25 | Percent: 0.005541% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000195004725008499/0001950047-25-008499.txt
+2025-11-05 21:41:37 | STEVEN STEIN | Officer | Shares: 5233 | Value: $534,812.6 | Percent: 0.002666% | Link: https://www.sec.gov/Archives/edgar/data/1673776/000195004725008498/0001950047-25-008498.txt
+2025-11-05 21:41:38 | STEVEN STEIN | Officer | Shares: 5233 | Value: $534,812.6 | Percent: 0.002666% | Link: https://www.sec.gov/Archives/edgar/data/879169/000195004725008498/0001950047-25-008498.txt
