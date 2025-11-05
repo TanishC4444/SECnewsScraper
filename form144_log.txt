@@ -5975,3 +5975,4 @@
 2025-11-04 23:35:46 | Carl Russo | Officer | Shares: 395000 | Value: $25,280,000.0 | Percent: 0.595988% | Link: https://www.sec.gov/Archives/edgar/data/1483757/000196858225001024/0001968582-25-001024.txt
 2025-11-04 23:35:47 | Carl Russo | Officer | Shares: 395000 | Value: $25,280,000.0 | Percent: 0.595988% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000196858225001024/0001968582-25-001024.txt
 2025-11-04 23:54:18 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 20537 | Value: $542,998.0 | Percent: 0.046791% | Link: https://www.sec.gov/Archives/edgar/data/846617/000089914025001203/0000899140-25-001203.txt
+2025-11-05 01:06:36 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 20537 | Value: $542,998.0 | Percent: 0.046791% | Link: https://www.sec.gov/Archives/edgar/data/1085393/000089914025001203/0000899140-25-001203.txt
