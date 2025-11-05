@@ -6058,3 +6058,5 @@
 2025-11-05 22:40:51 | Parang Touraj | Officer | Shares: 9500 | Value: $111,910.95 | Percent: 0.015427% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000401/0001974078-25-000401.txt
 2025-11-05 22:40:53 | CHANG DAVID C | Director | Shares: 100000 | Value: $906,000.0 | Percent: 0.216802% | Link: https://www.sec.gov/Archives/edgar/data/1188184/000194984625000563/0001949846-25-000563.txt
 2025-11-05 22:40:54 | CHANG DAVID C | Director | Shares: 100000 | Value: $906,000.0 | Percent: 0.216802% | Link: https://www.sec.gov/Archives/edgar/data/1051627/000194984625000563/0001949846-25-000563.txt
+2025-11-05 22:49:47 | Jay Sidhu | Director | Shares: 200000 | Value: $13,550,000.0 | Percent: 0.632441% | Link: https://www.sec.gov/Archives/edgar/data/1488813/000196922325000917/0001969223-25-000917.txt
+2025-11-05 22:49:47 | Jay Sidhu | Director | Shares: 200000 | Value: $13,550,000.0 | Percent: 0.632441% | Link: https://www.sec.gov/Archives/edgar/data/1222371/000196922325000917/0001969223-25-000917.txt
