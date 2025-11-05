@@ -5988,3 +5988,9 @@
 2025-11-05 15:21:30 | Guyer William | Officer | Shares: 20000 | Value: $1,422,000.0 | Percent: 0.018981% | Link: https://www.sec.gov/Archives/edgar/data/1088856/000197325125000086/0001973251-25-000086.txt
 2025-11-05 15:39:18 | Michael  C. Chase | Officer | Shares: 13144 | Value: $506,833.0 | Percent: 0.007038% | Link: https://www.sec.gov/Archives/edgar/data/1937046/000193704625000003/0001937046-25-000003.txt
 2025-11-05 15:39:20 | Michael  C. Chase | Officer | Shares: 13144 | Value: $506,833.0 | Percent: 0.007038% | Link: https://www.sec.gov/Archives/edgar/data/1479094/000193704625000003/0001937046-25-000003.txt
+2025-11-05 16:36:46 | Zeidel Darren | Officer | Shares: 8800 | Value: $3,031,815.23 | Percent: 0.004094% | Link: https://www.sec.gov/Archives/edgar/data/1782945/000195917325006746/0001959173-25-006746.txt
+2025-11-05 16:36:48 | Zeidel Darren | Officer | Shares: 8800 | Value: $3,031,815.23 | Percent: 0.004094% | Link: https://www.sec.gov/Archives/edgar/data/315293/000195917325006746/0001959173-25-006746.txt
+2025-11-05 16:36:49 | SLAYEN HOWARD T | Director | Shares: 6000 | Value: $150,840.0 | Percent: 0.019996% | Link: https://www.sec.gov/Archives/edgar/data/1203324/000194984625000560/0001949846-25-000560.txt
+2025-11-05 16:36:50 | SLAYEN HOWARD T | Director | Shares: 6000 | Value: $150,840.0 | Percent: 0.019996% | Link: https://www.sec.gov/Archives/edgar/data/1040470/000194984625000560/0001949846-25-000560.txt
+2025-11-05 16:36:52 | Schlosser John W | Officer | Shares: 18498 | Value: $503,515.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1570469/000196530125000160/0001965301-25-000160.txt
+2025-11-05 16:36:53 | Schlosser John W | Officer | Shares: 18498 | Value: $503,515.0 | Percent: 0.000832% | Link: https://www.sec.gov/Archives/edgar/data/1506307/000196530125000160/0001965301-25-000160.txt
