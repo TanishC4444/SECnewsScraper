@@ -8726,3 +8726,4 @@
 2025-11-05 19:19:20 | 8-K - GCI Liberty, Inc. (0002057463) (Filer) | 2025-11-05T14:14:22-05:00 | https://www.sec.gov/Archives/edgar/data/2057463/000205746325000014/0002057463-25-000014.txt
 2025-11-05 19:19:20 | 8-K - Capital One Prime Auto Receivables Trust 2025-1 (0002089663) (Filer) | 2025-11-05T14:12:58-05:00 | https://www.sec.gov/Archives/edgar/data/2089663/000119312525266558/0001193125-25-266558.txt
 2025-11-05 19:19:21 | 8-K - Capital One Auto Receivables LLC (0001133438) (Filer) | 2025-11-05T14:12:58-05:00 | https://www.sec.gov/Archives/edgar/data/1133438/000119312525266558/0001193125-25-266558.txt
+2025-11-05 19:41:34 | 8-K - ExchangeRight Income Fund (0001771514) (Filer) | 2025-11-05T14:30:27-05:00 | https://www.sec.gov/Archives/edgar/data/1771514/000119312525266590/0001193125-25-266590.txt
