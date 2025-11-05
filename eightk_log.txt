@@ -8732,3 +8732,6 @@
 2025-11-05 20:31:18 | 8-K - Liberty Media Corp (0001560385) (Filer) | 2025-11-05T15:22:49-05:00 | https://www.sec.gov/Archives/edgar/data/1560385/000156038525000027/0001560385-25-000027.txt
 2025-11-05 20:31:18 | 8-K - GM Financial Consumer Automobile Receivables Trust 2025-4 (0002084404) (Filer) | 2025-11-05T15:08:14-05:00 | https://www.sec.gov/Archives/edgar/data/2084404/000119312525266689/0001193125-25-266689.txt
 2025-11-05 20:31:18 | 8-K - AFS SENSUB CORP. (0001347185) (Filer) | 2025-11-05T15:08:14-05:00 | https://www.sec.gov/Archives/edgar/data/1347185/000119312525266689/0001193125-25-266689.txt
+2025-11-05 20:46:26 | 8-K - Stonepeak-Plus Infrastructure Fund LP (0002045458) (Filer) | 2025-11-05T15:39:50-05:00 | https://www.sec.gov/Archives/edgar/data/2045458/000204545825000014/0002045458-25-000014.txt
+2025-11-05 20:46:29 | 8-K - GERMAN AMERICAN BANCORP, INC. (0000714395) (Filer) | 2025-11-05T15:35:54-05:00 | https://www.sec.gov/Archives/edgar/data/714395/000071439525000052/0000714395-25-000052.txt
+2025-11-05 20:46:29 | 8-K/A - General Enterprise Ventures, Inc. (0000894556) (Filer) | 2025-11-05T15:31:15-05:00 | https://www.sec.gov/Archives/edgar/data/894556/000164033425001979/0001640334-25-001979.txt

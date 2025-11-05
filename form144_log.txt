@@ -6014,3 +6014,9 @@
 2025-11-05 20:31:29 | Wortham Byron | Officer | Shares: 6600 | Value: $198,060.0 | Percent: 0.088373% | Link: https://www.sec.gov/Archives/edgar/data/895456/000194984625000562/0001949846-25-000562.txt
 2025-11-05 20:31:31 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000035/0001976415-25-000035.txt
 2025-11-05 20:31:32 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000035/0001976415-25-000035.txt
+2025-11-05 20:46:31 | STRYKER RONDA E | Director | Shares: 520000 | Value: $184,600,000.0 | Percent: 0.136016% | Link: https://www.sec.gov/Archives/edgar/data/1242914/000124291425000005/0001242914-25-000005.txt
+2025-11-05 20:46:31 | STRYKER RONDA E | Director | Shares: 520000 | Value: $184,600,000.0 | Percent: 0.136016% | Link: https://www.sec.gov/Archives/edgar/data/310764/000124291425000005/0001242914-25-000005.txt
+2025-11-05 20:46:32 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000036/0001976415-25-000036.txt
+2025-11-05 20:46:32 | Silbert Barry E. | 10% Stockholder | Shares: 12947 | Value: $27,586.17 | Percent: 0.113321% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000197641525000036/0001976415-25-000036.txt
+2025-11-05 20:46:32 | Kashani Ali | Officer | Shares: 13310 | Value: $154,740.73 | Percent: 0.021614% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000399/0001974078-25-000399.txt
+2025-11-05 20:46:32 | Kashani Ali | Officer | Shares: 13310 | Value: $154,740.73 | Percent: 0.021614% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000399/0001974078-25-000399.txt
