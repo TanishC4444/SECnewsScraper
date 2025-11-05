@@ -5976,3 +5976,7 @@
 2025-11-04 23:35:47 | Carl Russo | Officer | Shares: 395000 | Value: $25,280,000.0 | Percent: 0.595988% | Link: https://www.sec.gov/Archives/edgar/data/1406666/000196858225001024/0001968582-25-001024.txt
 2025-11-04 23:54:18 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 20537 | Value: $542,998.0 | Percent: 0.046791% | Link: https://www.sec.gov/Archives/edgar/data/846617/000089914025001203/0000899140-25-001203.txt
 2025-11-05 01:06:36 | BASSWOOD CAPITAL MANAGEMENT, LLC | Director | Shares: 20537 | Value: $542,998.0 | Percent: 0.046791% | Link: https://www.sec.gov/Archives/edgar/data/1085393/000089914025001203/0000899140-25-001203.txt
+2025-11-05 02:48:37 | Sarah Oughtred | Officer | Shares: 22745 | Value: $168,015.2 | Percent: 0.014675% | Link: https://www.sec.gov/Archives/edgar/data/2029049/000162828025049188/0001628280-25-049188.txt
+2025-11-05 02:48:38 | Sarah Oughtred | Officer | Shares: 22745 | Value: $168,015.2 | Percent: 0.014675% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025049188/0001628280-25-049188.txt
+2025-11-05 02:48:39 | Heather Hasson | Director | Shares: 23356 | Value: $172,528.61 | Percent: 0.015069% | Link: https://www.sec.gov/Archives/edgar/data/1846576/000162828025049186/0001628280-25-049186.txt
+2025-11-05 02:48:40 | Heather Hasson | Director | Shares: 23356 | Value: $172,528.61 | Percent: 0.015069% | Link: https://www.sec.gov/Archives/edgar/data/1843821/000162828025049186/0001628280-25-049186.txt
