@@ -6040,3 +6040,11 @@
 2025-11-05 21:50:53 | EDDY ZERVIGON | Director | Shares: 20000 | Value: $2,825,582.0 | Percent: 0.008456% | Link: https://www.sec.gov/Archives/edgar/data/1286288/000195004725008503/0001950047-25-008503.txt
 2025-11-05 21:50:56 | ANIRUDH DEVGAN | Officer | Shares: 5550 | Value: $1,819,279.46 | Percent: 0.002039% | Link: https://www.sec.gov/Archives/edgar/data/1591933/000195004725008502/0001950047-25-008502.txt
 2025-11-05 21:50:58 | ANIRUDH DEVGAN | Officer | Shares: 5550 | Value: $1,819,279.46 | Percent: 0.002039% | Link: https://www.sec.gov/Archives/edgar/data/813672/000195004725008502/0001950047-25-008502.txt
+2025-11-05 21:59:58 | ROBERT GENDRON | Officer | Shares: 5374 | Value: $505,156.0 | Percent: 0.016321% | Link: https://www.sec.gov/Archives/edgar/data/1654669/000195004725008505/0001950047-25-008505.txt
+2025-11-05 21:59:59 | ROBERT GENDRON | Officer | Shares: 5374 | Value: $505,156.0 | Percent: 0.016321% | Link: https://www.sec.gov/Archives/edgar/data/751978/000195004725008505/0001950047-25-008505.txt
+2025-11-05 22:00:01 | Jeggle Helmut Wolfgang | Director | Shares: 150000 | Value: $15,514,500.0 | Percent: 0.062382% | Link: https://www.sec.gov/Archives/edgar/data/1982614/000205629625000013/0002056296-25-000013.txt
+2025-11-05 22:00:02 | Jeggle Helmut Wolfgang | Director | Shares: 150000 | Value: $15,514,500.0 | Percent: 0.062382% | Link: https://www.sec.gov/Archives/edgar/data/1776985/000205629625000013/0002056296-25-000013.txt
+2025-11-05 22:00:04 | Larrick Lindsay B | Officer | Shares: 22669 | Value: $566,738.0 | Percent: 0.026760% | Link: https://www.sec.gov/Archives/edgar/data/1953916/000192109425001318/0001921094-25-001318.txt
+2025-11-05 22:00:04 | Larrick Lindsay B | Officer | Shares: 22669 | Value: $566,738.0 | Percent: 0.026760% | Link: https://www.sec.gov/Archives/edgar/data/1838406/000192109425001318/0001921094-25-001318.txt
+2025-11-05 22:00:06 | ERIC TANZBERGER | Officer | Shares: 80800 | Value: $6,587,640.16 | Percent: 0.057640% | Link: https://www.sec.gov/Archives/edgar/data/1243196/000195004725008504/0001950047-25-008504.txt
+2025-11-05 22:00:07 | ERIC TANZBERGER | Officer | Shares: 80800 | Value: $6,587,640.16 | Percent: 0.057640% | Link: https://www.sec.gov/Archives/edgar/data/89089/000195004725008504/0001950047-25-008504.txt
