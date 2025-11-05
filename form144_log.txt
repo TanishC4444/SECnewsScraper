@@ -6026,3 +6026,9 @@
 2025-11-05 21:16:59 | PATRICK FRANCIS MINOGUE | Former Affiliate | Shares: 7000 | Value: $4,550.0 | Percent: 0.000515% | Link: https://www.sec.gov/Archives/edgar/data/1418135/000195004725008472/0001950047-25-008472.txt
 2025-11-05 21:17:01 | Sweet Julie Spellman | Officer | Shares: 5917 | Value: $1,440,079.46 | Percent: 0.000899% | Link: https://www.sec.gov/Archives/edgar/data/1487630/000196922325000913/0001969223-25-000913.txt
 2025-11-05 21:17:03 | Sweet Julie Spellman | Officer | Shares: 5917 | Value: $1,440,079.46 | Percent: 0.000899% | Link: https://www.sec.gov/Archives/edgar/data/1467373/000196922325000913/0001969223-25-000913.txt
+2025-11-05 21:32:00 | Digital Currency Group, Inc. | Affiliate | Shares: 5100 | Value: $59,670.0 | Percent: 0.070529% | Link: https://www.sec.gov/Archives/edgar/data/1896677/000165253625000129/0001652536-25-000129.txt
+2025-11-05 21:32:02 | Digital Currency Group, Inc. | Affiliate | Shares: 6615 | Value: $14,156.1 | Percent: 0.057899% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000127/0001652536-25-000127.txt
+2025-11-05 21:32:03 | Digital Currency Group, Inc. | Affiliate | Shares: 5100 | Value: $59,670.0 | Percent: 0.070529% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000129/0001652536-25-000129.txt
+2025-11-05 21:32:04 | Digital Currency Group, Inc. | Affiliate | Shares: 6615 | Value: $14,156.1 | Percent: 0.057899% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000127/0001652536-25-000127.txt
+2025-11-05 21:32:06 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $81,082.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1468316/000195004725008495/0001950047-25-008495.txt
+2025-11-05 21:32:07 | ROSTISLAV RAYKOV | Director | Shares: 10000 | Value: $81,082.0 | Percent: 0.035930% | Link: https://www.sec.gov/Archives/edgar/data/1211583/000195004725008495/0001950047-25-008495.txt
