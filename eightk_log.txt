@@ -8634,3 +8634,7 @@
 2025-11-05 11:11:48 | 8-K - Owens Corning (0001370946) (Filer) | 2025-11-05T06:02:24-05:00 | https://www.sec.gov/Archives/edgar/data/1370946/000137094625000239/0001370946-25-000239.txt
 2025-11-05 11:11:50 | 8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer) | 2025-11-05T06:02:06-05:00 | https://www.sec.gov/Archives/edgar/data/1498148/000106299325016466/0001062993-25-016466.txt
 2025-11-05 11:11:52 | 8-K - AVIENT CORP (0001122976) (Filer) | 2025-11-05T06:01:41-05:00 | https://www.sec.gov/Archives/edgar/data/1122976/000112297625000086/0001122976-25-000086.txt
+2025-11-05 11:28:40 | 8-K - Bunge Global SA (0001996862) (Filer) | 2025-11-05T06:22:55-05:00 | https://www.sec.gov/Archives/edgar/data/1996862/000162828025049208/0001628280-25-049208.txt
+2025-11-05 11:28:42 | 8-K - Trulieve Cannabis Corp. (0001754195) (Filer) | 2025-11-05T06:19:24-05:00 | https://www.sec.gov/Archives/edgar/data/1754195/000175419525000064/0001754195-25-000064.txt
+2025-11-05 11:28:43 | 8-K - Targa Resources Corp. (0001389170) (Filer) | 2025-11-05T06:15:29-05:00 | https://www.sec.gov/Archives/edgar/data/1389170/000119312525265621/0001193125-25-265621.txt
+2025-11-05 11:28:45 | 8-K - HUMANA INC (0000049071) (Filer) | 2025-11-05T06:11:16-05:00 | https://www.sec.gov/Archives/edgar/data/49071/000004907125000055/0000049071-25-000055.txt
