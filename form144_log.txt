@@ -6084,3 +6084,5 @@
 2025-11-06 15:39:33 | Bradley Jack A. | Director | Shares: 58968 | Value: $529,533.0 | Percent: 0.202704% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000285/0001973379-25-000285.txt
 2025-11-06 15:39:35 | Wiener Adam | Director | Shares: 6000 | Value: $216,240.0 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325006770/0001959173-25-006770.txt
 2025-11-06 15:39:36 | Wiener Adam | Director | Shares: 6000 | Value: $216,240.0 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325006770/0001959173-25-006770.txt
+2025-11-06 16:13:27 | Frey Daniel S. | Officer | Shares: 25000 | Value: $6,956,254.49 | Percent: 0.011208% | Link: https://www.sec.gov/Archives/edgar/data/1751992/000195917325006771/0001959173-25-006771.txt
+2025-11-06 16:13:28 | Frey Daniel S. | Officer | Shares: 25000 | Value: $6,956,254.49 | Percent: 0.011208% | Link: https://www.sec.gov/Archives/edgar/data/86312/000195917325006771/0001959173-25-006771.txt
