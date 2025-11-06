@@ -6138,3 +6138,7 @@
 2025-11-06 22:01:07 | RONALD J DANIELS | Director | Shares: 61031 | Value: $3,888,999.07 | Percent: 0.031670% | Link: https://www.sec.gov/Archives/edgar/data/1164475/000195004725008535/0001950047-25-008535.txt
 2025-11-06 22:01:08 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1994805/000162828025050285/0001628280-25-050285.txt
 2025-11-06 22:01:09 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025050285/0001628280-25-050285.txt
+2025-11-06 22:27:16 | WAYNE DONALD | Officer | Shares: 14000 | Value: $6,213,332.2 | Percent: 0.009389% | Link: https://www.sec.gov/Archives/edgar/data/1101864/000195917325006789/0001959173-25-006789.txt
+2025-11-06 22:27:17 | WAYNE DONALD | Officer | Shares: 14000 | Value: $6,213,332.2 | Percent: 0.009389% | Link: https://www.sec.gov/Archives/edgar/data/1050915/000195917325006789/0001959173-25-006789.txt
+2025-11-06 22:27:19 | Silbert Barry E. | 10% Stockholder | Shares: 5858 | Value: $159,465.0 | Percent: 0.004645% | Link: https://www.sec.gov/Archives/edgar/data/1976415/000197641525000043/0001976415-25-000043.txt
+2025-11-06 22:27:20 | Silbert Barry E. | 10% Stockholder | Shares: 5858 | Value: $159,465.0 | Percent: 0.004645% | Link: https://www.sec.gov/Archives/edgar/data/1725210/000197641525000043/0001976415-25-000043.txt
