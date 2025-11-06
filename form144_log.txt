@@ -6098,3 +6098,5 @@
 2025-11-06 19:50:50 | Ducey Gerald A JR | Officer | Shares: 7653 | Value: $3,413,882.4 | Percent: 0.005132% | Link: https://www.sec.gov/Archives/edgar/data/1050915/000195917325006777/0001959173-25-006777.txt
 2025-11-06 19:50:52 | Morris Scott James | Officer | Shares: 63135 | Value: $3,485,384.98 | Percent: 0.129353% | Link: https://www.sec.gov/Archives/edgar/data/1623963/000195917325006776/0001959173-25-006776.txt
 2025-11-06 19:50:53 | Morris Scott James | Officer | Shares: 63135 | Value: $3,485,384.98 | Percent: 0.129353% | Link: https://www.sec.gov/Archives/edgar/data/1611647/000195917325006776/0001959173-25-006776.txt
+2025-11-06 19:59:46 | Jeffrey Van Os | None | Shares: 18436 | Value: $700,000.0 | Percent: 0.006469% | Link: https://www.sec.gov/Archives/edgar/data/2095885/000121390025107095/0001213900-25-107095.txt
+2025-11-06 19:59:47 | Jeffrey Van Os | None | Shares: 18436 | Value: $700,000.0 | Percent: 0.006469% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000121390025107095/0001213900-25-107095.txt
