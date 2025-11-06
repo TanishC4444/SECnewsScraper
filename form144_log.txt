@@ -6080,3 +6080,7 @@
 2025-11-06 15:16:45 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,822,000.0 | Percent: 0.043160% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006768/0001959173-25-006768.txt
 2025-11-06 15:16:46 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,599,000.0 | Percent: 0.108967% | Link: https://www.sec.gov/Archives/edgar/data/1718348/000194984625000564/0001949846-25-000564.txt
 2025-11-06 15:16:47 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,599,000.0 | Percent: 0.108967% | Link: https://www.sec.gov/Archives/edgar/data/1629019/000194984625000564/0001949846-25-000564.txt
+2025-11-06 15:39:31 | Bradley Jack A. | Director | Shares: 58968 | Value: $529,533.0 | Percent: 0.202704% | Link: https://www.sec.gov/Archives/edgar/data/1637363/000197337925000285/0001973379-25-000285.txt
+2025-11-06 15:39:33 | Bradley Jack A. | Director | Shares: 58968 | Value: $529,533.0 | Percent: 0.202704% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000285/0001973379-25-000285.txt
+2025-11-06 15:39:35 | Wiener Adam | Director | Shares: 6000 | Value: $216,240.0 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1856314/000195917325006770/0001959173-25-006770.txt
+2025-11-06 15:39:36 | Wiener Adam | Director | Shares: 6000 | Value: $216,240.0 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325006770/0001959173-25-006770.txt
