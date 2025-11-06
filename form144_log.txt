@@ -6108,3 +6108,13 @@
 2025-11-06 20:30:17 | Brown William P | Officer | Shares: 6666 | Value: $1,866,721.39 | Percent: 0.002484% | Link: https://www.sec.gov/Archives/edgar/data/1048286/000195779925000229/0001957799-25-000229.txt
 2025-11-06 20:45:10 | Freeman Angela K. | Officer | Shares: 49884 | Value: $7,467,892.31 | Percent: 0.042225% | Link: https://www.sec.gov/Archives/edgar/data/1563847/000195917325006780/0001959173-25-006780.txt
 2025-11-06 20:45:10 | Freeman Angela K. | Officer | Shares: 49884 | Value: $7,467,892.31 | Percent: 0.042225% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000195917325006780/0001959173-25-006780.txt
+2025-11-06 21:13:19 | Tupper Colleen | Officer | Shares: 30000 | Value: $1,215,753.81 | Percent: 0.094904% | Link: https://www.sec.gov/Archives/edgar/data/1862082/000195917325006782/0001959173-25-006782.txt
+2025-11-06 21:13:20 | Tupper Colleen | Officer | Shares: 30000 | Value: $1,215,753.81 | Percent: 0.094904% | Link: https://www.sec.gov/Archives/edgar/data/1267565/000195917325006782/0001959173-25-006782.txt
+2025-11-06 21:13:21 | Bell Bernice | Officer | Shares: 10000 | Value: $102,150.03 | Percent: 0.000932% | Link: https://www.sec.gov/Archives/edgar/data/1665177/000195917325006781/0001959173-25-006781.txt
+2025-11-06 21:13:24 | Bell Bernice | Officer | Shares: 10000 | Value: $102,150.03 | Percent: 0.000932% | Link: https://www.sec.gov/Archives/edgar/data/1423689/000195917325006781/0001959173-25-006781.txt
+2025-11-06 21:13:25 | NATHAN D MANNING | Former officer | Shares: 99518 | Value: $12,018,781.62 | Percent: 0.015208% | Link: https://www.sec.gov/Archives/edgar/data/1828573/000195004725008523/0001950047-25-008523.txt
+2025-11-06 21:13:27 | NATHAN D MANNING | Former officer | Shares: 99518 | Value: $12,018,781.62 | Percent: 0.015208% | Link: https://www.sec.gov/Archives/edgar/data/833444/000195004725008523/0001950047-25-008523.txt
+2025-11-06 21:13:28 | JOHN ORNELL | Director | Shares: 6233 | Value: $243,120.66 | Percent: 0.004102% | Link: https://www.sec.gov/Archives/edgar/data/1186875/000195004725008522/0001950047-25-008522.txt
+2025-11-06 21:13:29 | JOHN ORNELL | Director | Shares: 6233 | Value: $243,120.66 | Percent: 0.004102% | Link: https://www.sec.gov/Archives/edgar/data/1109354/000195004725008522/0001950047-25-008522.txt
+2025-11-06 21:13:31 | SCHELLER WALTER J | Chief Executive Officer Director | Shares: 18966 | Value: $1,422,450.0 | Percent: 0.036078% | Link: https://www.sec.gov/Archives/edgar/data/1691303/000197337925000286/0001973379-25-000286.txt
+2025-11-06 21:13:32 | SCHELLER WALTER J | Chief Executive Officer Director | Shares: 18966 | Value: $1,422,450.0 | Percent: 0.036078% | Link: https://www.sec.gov/Archives/edgar/data/1494489/000197337925000286/0001973379-25-000286.txt
