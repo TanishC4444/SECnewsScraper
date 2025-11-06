@@ -6146,3 +6146,7 @@
 2025-11-06 22:42:15 | Digital Currency Group, Inc. | Affiliate | Shares: 6152 | Value: $13,718.96 | Percent: 0.053846% | Link: https://www.sec.gov/Archives/edgar/data/1748945/000165253625000132/0001652536-25-000132.txt
 2025-11-06 22:42:16 | Digital Currency Group, Inc. | Affiliate | Shares: 6152 | Value: $13,718.96 | Percent: 0.053846% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000132/0001652536-25-000132.txt
 2025-11-06 22:42:17 | Digital Currency Group, Inc. | Affiliate | Shares: 6950 | Value: $78,819.95 | Percent: 0.096113% | Link: https://www.sec.gov/Archives/edgar/data/1652536/000165253625000131/0001652536-25-000131.txt
+2025-11-06 22:51:08 | Patrick Burnett | Officer | Shares: 17250 | Value: $417,145.0 | Percent: 0.014083% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025050344/0001628280-25-050344.txt
+2025-11-06 22:51:09 | Patrick Burnett | Officer | Shares: 17250 | Value: $417,145.0 | Percent: 0.014083% | Link: https://www.sec.gov/Archives/edgar/data/1741987/000162828025050344/0001628280-25-050344.txt
+2025-11-06 22:51:10 | Gregory B. Willis | Officer | Shares: 23481 | Value: $1,496,679.0 | Percent: 0.021009% | Link: https://www.sec.gov/Archives/edgar/data/1511961/000196858225001034/0001968582-25-001034.txt
+2025-11-06 22:51:11 | Gregory B. Willis | Officer | Shares: 23481 | Value: $1,496,679.0 | Percent: 0.021009% | Link: https://www.sec.gov/Archives/edgar/data/1487712/000196858225001034/0001968582-25-001034.txt
