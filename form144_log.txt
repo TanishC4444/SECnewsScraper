@@ -6106,3 +6106,5 @@
 2025-11-06 20:30:17 | VASHIST RAJESH | Officer | Shares: 10000 | Value: $3,289,500.0 | Percent: 0.038462% | Link: https://www.sec.gov/Archives/edgar/data/1339076/000197325125000087/0001973251-25-000087.txt
 2025-11-06 20:30:17 | Brown William P | Officer | Shares: 6666 | Value: $1,866,721.39 | Percent: 0.002484% | Link: https://www.sec.gov/Archives/edgar/data/1760858/000195779925000229/0001957799-25-000229.txt
 2025-11-06 20:30:17 | Brown William P | Officer | Shares: 6666 | Value: $1,866,721.39 | Percent: 0.002484% | Link: https://www.sec.gov/Archives/edgar/data/1048286/000195779925000229/0001957799-25-000229.txt
+2025-11-06 20:45:10 | Freeman Angela K. | Officer | Shares: 49884 | Value: $7,467,892.31 | Percent: 0.042225% | Link: https://www.sec.gov/Archives/edgar/data/1563847/000195917325006780/0001959173-25-006780.txt
+2025-11-06 20:45:10 | Freeman Angela K. | Officer | Shares: 49884 | Value: $7,467,892.31 | Percent: 0.042225% | Link: https://www.sec.gov/Archives/edgar/data/1043277/000195917325006780/0001959173-25-006780.txt
