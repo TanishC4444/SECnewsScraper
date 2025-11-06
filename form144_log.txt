@@ -6118,3 +6118,9 @@
 2025-11-06 21:13:29 | JOHN ORNELL | Director | Shares: 6233 | Value: $243,120.66 | Percent: 0.004102% | Link: https://www.sec.gov/Archives/edgar/data/1109354/000195004725008522/0001950047-25-008522.txt
 2025-11-06 21:13:31 | SCHELLER WALTER J | Chief Executive Officer Director | Shares: 18966 | Value: $1,422,450.0 | Percent: 0.036078% | Link: https://www.sec.gov/Archives/edgar/data/1691303/000197337925000286/0001973379-25-000286.txt
 2025-11-06 21:13:32 | SCHELLER WALTER J | Chief Executive Officer Director | Shares: 18966 | Value: $1,422,450.0 | Percent: 0.036078% | Link: https://www.sec.gov/Archives/edgar/data/1494489/000197337925000286/0001973379-25-000286.txt
+2025-11-06 21:30:11 | Erin Mistry | Former Officer | Shares: 13908 | Value: $152,503.0 | Percent: 0.018631% | Link: https://www.sec.gov/Archives/edgar/data/1962774/000162828025050229/0001628280-25-050229.txt
+2025-11-06 21:30:12 | Erin Mistry | Former Officer | Shares: 13908 | Value: $152,503.0 | Percent: 0.018631% | Link: https://www.sec.gov/Archives/edgar/data/1410098/000162828025050229/0001628280-25-050229.txt
+2025-11-06 21:30:13 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1994805/000162828025050225/0001628280-25-050225.txt
+2025-11-06 21:30:14 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1722482/000162828025050225/0001628280-25-050225.txt
+2025-11-06 21:30:15 | THE PER ARTUR BERGMAN REVOCABLE TRUST | Director | Shares: 440000 | Value: $3,550,800.0 | Percent: 0.298507% | Link: https://www.sec.gov/Archives/edgar/data/1769490/000195004725008531/0001950047-25-008531.txt
+2025-11-06 21:30:16 | THE PER ARTUR BERGMAN REVOCABLE TRUST | Director | Shares: 440000 | Value: $3,550,800.0 | Percent: 0.298507% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725008531/0001950047-25-008531.txt
