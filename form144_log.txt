@@ -6066,3 +6066,5 @@
 2025-11-05 23:36:41 | Chen Goldberg | Officer | Shares: 19180 | Value: $2,268,994.0 | Percent: 0.005177% | Link: https://www.sec.gov/Archives/edgar/data/1769628/000205805625000004/0002058056-25-000004.txt
 2025-11-05 23:45:57 | PK GIVING TRUST | Affiliate | Shares: 842288 | Value: $449,714,409.0 | Percent: 0.335633% | Link: https://www.sec.gov/Archives/edgar/data/1984948/000196858225001031/0001968582-25-001031.txt
 2025-11-05 23:45:59 | PK GIVING TRUST | Affiliate | Shares: 842288 | Value: $449,714,409.0 | Percent: 0.335633% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001031/0001968582-25-001031.txt
+2025-11-06 01:12:56 | DK GIVING TRUST | Affiliate | Shares: 1111538 | Value: $593,472,369.0 | Percent: 0.442923% | Link: https://www.sec.gov/Archives/edgar/data/1984947/000196858225001033/0001968582-25-001033.txt
+2025-11-06 01:12:57 | DK GIVING TRUST | Affiliate | Shares: 1111538 | Value: $593,472,369.0 | Percent: 0.442923% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001033/0001968582-25-001033.txt
