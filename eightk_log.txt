@@ -8908,3 +8908,5 @@
 2025-11-06 19:21:23 | 8-K - CAMPBELL FUND TRUST (0001043951) (Filer) | 2025-11-06T14:06:46-05:00 | https://www.sec.gov/Archives/edgar/data/1043951/000114036125040738/0001140361-25-040738.txt
 2025-11-06 19:21:23 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-11-06T13:59:24-05:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000194/0001331757-25-000194.txt
 2025-11-06 19:41:23 | 8-K - Yotta Acquisition Corp (0001907730) (Filer) | 2025-11-06T14:35:13-05:00 | https://www.sec.gov/Archives/edgar/data/1907730/000182912625008894/0001829126-25-008894.txt
+2025-11-06 19:50:46 | 8-K - Macquarie Infrastructure Fund, L.P. (0002079966) (Filer) | 2025-11-06T14:48:03-05:00 | https://www.sec.gov/Archives/edgar/data/2079966/000121390025107090/0001213900-25-107090.txt
+2025-11-06 19:50:47 | 8-K - AgEagle Aerial Systems Inc. (0000008504) (Filer) | 2025-11-06T14:41:50-05:00 | https://www.sec.gov/Archives/edgar/data/8504/000149315225021038/0001493152-25-021038.txt

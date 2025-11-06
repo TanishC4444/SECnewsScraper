@@ -6094,3 +6094,7 @@
 2025-11-06 17:42:36 | Ramsey R. Scott | Officer | Shares: 13322 | Value: $2,732,412.25 | Percent: 0.015158% | Link: https://www.sec.gov/Archives/edgar/data/70318/000195917325006775/0001959173-25-006775.txt
 2025-11-06 19:21:26 | FRADKIN STEVEN L | Affilate | Shares: 9376 | Value: $1,201,909.0 | Percent: 0.004958% | Link: https://www.sec.gov/Archives/edgar/data/1214324/000121432425000009/0001214324-25-000009.txt
 2025-11-06 19:21:27 | FRADKIN STEVEN L | Affilate | Shares: 9376 | Value: $1,201,909.0 | Percent: 0.004958% | Link: https://www.sec.gov/Archives/edgar/data/73124/000121432425000009/0001214324-25-000009.txt
+2025-11-06 19:50:49 | Ducey Gerald A JR | Officer | Shares: 7653 | Value: $3,413,882.4 | Percent: 0.005132% | Link: https://www.sec.gov/Archives/edgar/data/1979521/000195917325006777/0001959173-25-006777.txt
+2025-11-06 19:50:50 | Ducey Gerald A JR | Officer | Shares: 7653 | Value: $3,413,882.4 | Percent: 0.005132% | Link: https://www.sec.gov/Archives/edgar/data/1050915/000195917325006777/0001959173-25-006777.txt
+2025-11-06 19:50:52 | Morris Scott James | Officer | Shares: 63135 | Value: $3,485,384.98 | Percent: 0.129353% | Link: https://www.sec.gov/Archives/edgar/data/1623963/000195917325006776/0001959173-25-006776.txt
+2025-11-06 19:50:53 | Morris Scott James | Officer | Shares: 63135 | Value: $3,485,384.98 | Percent: 0.129353% | Link: https://www.sec.gov/Archives/edgar/data/1611647/000195917325006776/0001959173-25-006776.txt
