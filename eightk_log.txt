@@ -8802,3 +8802,12 @@
 2025-11-05 22:40:48 | 8-K - Ralliant Corp (0002041385) (Filer) | 2025-11-05T17:26:03-05:00 | https://www.sec.gov/Archives/edgar/data/2041385/000204138525000067/0002041385-25-000067.txt
 2025-11-05 22:40:49 | 8-K - Blue Owl Technology Finance Corp. (0001747777) (Filer) | 2025-11-05T17:25:59-05:00 | https://www.sec.gov/Archives/edgar/data/1747777/000119312525267287/0001193125-25-267287.txt
 2025-11-05 22:40:51 | 8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer) | 2025-11-05T17:25:29-05:00 | https://www.sec.gov/Archives/edgar/data/1651721/000119312525267284/0001193125-25-267284.txt
+2025-11-06 11:11:10 | 8-K - Enovis CORP (0001420800) (Filer) | 2025-11-06T06:09:24-05:00 | https://www.sec.gov/Archives/edgar/data/1420800/000142080025000038/0001420800-25-000038.txt
+2025-11-06 11:11:11 | 8-K - Privia Health Group, Inc. (0001759655) (Filer) | 2025-11-06T06:09:22-05:00 | https://www.sec.gov/Archives/edgar/data/1759655/000175965525000108/0001759655-25-000108.txt
+2025-11-06 11:11:12 | 8-K - Arhaus, Inc. (0001875444) (Filer) | 2025-11-06T06:06:08-05:00 | https://www.sec.gov/Archives/edgar/data/1875444/000187544425000144/0001875444-25-000144.txt
+2025-11-06 11:11:14 | 8-K - DuPont de Nemours, Inc. (0001666700) (Filer) | 2025-11-06T06:05:02-05:00 | https://www.sec.gov/Archives/edgar/data/1666700/000166670025000058/0001666700-25-000058.txt
+2025-11-06 11:11:15 | 8-K - Ocean Power Technologies, Inc. (0001378140) (Filer) | 2025-11-06T06:04:19-05:00 | https://www.sec.gov/Archives/edgar/data/1378140/000149315225020955/0001493152-25-020955.txt
+2025-11-06 11:11:17 | 8-K - DIH HOLDING US, INC. (0001883788) (Filer) | 2025-11-06T06:03:40-05:00 | https://www.sec.gov/Archives/edgar/data/1883788/000149315225020954/0001493152-25-020954.txt
+2025-11-06 11:11:19 | 8-K - BeOne Medicines Ltd. (0001651308) (Filer) | 2025-11-06T06:03:35-05:00 | https://www.sec.gov/Archives/edgar/data/1651308/000162828025049821/0001628280-25-049821.txt
+2025-11-06 11:11:20 | 8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer) | 2025-11-06T06:03:32-05:00 | https://www.sec.gov/Archives/edgar/data/1295947/000129594725000037/0001295947-25-000037.txt
+2025-11-06 11:11:22 | 8-K - YETI Holdings, Inc. (0001670592) (Filer) | 2025-11-06T06:03:29-05:00 | https://www.sec.gov/Archives/edgar/data/1670592/000167059225000046/0001670592-25-000046.txt
