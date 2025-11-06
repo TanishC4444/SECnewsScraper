@@ -8970,3 +8970,6 @@
 2025-11-06 22:27:13 | 8-K - Goldman Sachs BDC, Inc. (0001572694) (Filer) | 2025-11-06T17:21:26-05:00 | https://www.sec.gov/Archives/edgar/data/1572694/000119312525270134/0001193125-25-270134.txt
 2025-11-06 22:27:13 | 8-K - BlackRock Monticello Debt Real Estate Investment Trust (0002049595) (Filer) | 2025-11-06T17:18:33-05:00 | https://www.sec.gov/Archives/edgar/data/2049595/000119312525270117/0001193125-25-270117.txt
 2025-11-06 22:27:15 | 8-K - Streamex Corp. (0001530766) (Filer) | 2025-11-06T17:17:54-05:00 | https://www.sec.gov/Archives/edgar/data/1530766/000149315225021102/0001493152-25-021102.txt
+2025-11-06 22:42:07 | 8-K - Aeva Technologies, Inc. (0001789029) (Filer) | 2025-11-06T17:29:09-05:00 | https://www.sec.gov/Archives/edgar/data/1789029/000119312525270161/0001193125-25-270161.txt
+2025-11-06 22:42:10 | 8-K - TXNM ENERGY INC (0001108426) (Filer) | 2025-11-06T17:27:30-05:00 | https://www.sec.gov/Archives/edgar/data/1108426/000110842625000112/0001108426-25-000112.txt
+2025-11-06 22:42:10 | 8-K - TEXAS NEW MEXICO POWER CO (0000022767) (Filer) | 2025-11-06T17:27:30-05:00 | https://www.sec.gov/Archives/edgar/data/22767/000110842625000112/0001108426-25-000112.txt
