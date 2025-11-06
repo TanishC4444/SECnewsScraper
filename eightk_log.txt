@@ -8904,3 +8904,4 @@
 2025-11-06 18:46:27 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-11-06T13:20:33-05:00 | https://www.sec.gov/Archives/edgar/data/1325814/000132581425000207/0001325814-25-000207.txt
 2025-11-06 18:46:27 | 8-K/A - Healthier Choices Management Corp. (0000844856) (Filer) | 2025-11-06T13:17:21-05:00 | https://www.sec.gov/Archives/edgar/data/844856/000149315225021023/0001493152-25-021023.txt
 2025-11-06 18:46:28 | 8-K - TRANSCONTINENTAL REALTY INVESTORS INC (0000733590) (Filer) | 2025-11-06T13:14:57-05:00 | https://www.sec.gov/Archives/edgar/data/733590/000073359025000027/0000733590-25-000027.txt
+2025-11-06 18:59:22 | 8-K - Westin Acquisition Corp (0002076192) (Filer) | 2025-11-06T13:50:54-05:00 | https://www.sec.gov/Archives/edgar/data/2076192/000121390025107058/0001213900-25-107058.txt
