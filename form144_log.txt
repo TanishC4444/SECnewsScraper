@@ -6132,3 +6132,9 @@
 2025-11-06 21:42:27 | Laura A Linynsky | Director | Shares: 10000 | Value: $216,150.0 | Percent: 0.011645% | Link: https://www.sec.gov/Archives/edgar/data/893949/000162828025050236/0001628280-25-050236.txt
 2025-11-06 21:51:59 | Guy Gianluca | 10% Stockholder | Shares: 1500000 | Value: $2,325,000.0 | Percent: 5.290626% | Link: https://www.sec.gov/Archives/edgar/data/2014394/000196530125000161/0001965301-25-000161.txt
 2025-11-06 21:52:00 | Guy Gianluca | 10% Stockholder | Shares: 1500000 | Value: $2,325,000.0 | Percent: 5.290626% | Link: https://www.sec.gov/Archives/edgar/data/1865506/000196530125000161/0001965301-25-000161.txt
+2025-11-06 22:01:03 | Richard Creamer | Officer | Shares: 15848 | Value: $653,240.34 | Percent: 0.031513% | Link: https://www.sec.gov/Archives/edgar/data/1926974/000162828025050289/0001628280-25-050289.txt
+2025-11-06 22:01:04 | Richard Creamer | Officer | Shares: 15848 | Value: $653,240.34 | Percent: 0.031513% | Link: https://www.sec.gov/Archives/edgar/data/821483/000162828025050289/0001628280-25-050289.txt
+2025-11-06 22:01:06 | RONALD J DANIELS | Director | Shares: 61031 | Value: $3,888,999.07 | Percent: 0.031670% | Link: https://www.sec.gov/Archives/edgar/data/1743881/000195004725008535/0001950047-25-008535.txt
+2025-11-06 22:01:07 | RONALD J DANIELS | Director | Shares: 61031 | Value: $3,888,999.07 | Percent: 0.031670% | Link: https://www.sec.gov/Archives/edgar/data/1164475/000195004725008535/0001950047-25-008535.txt
+2025-11-06 22:01:08 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1994805/000162828025050285/0001628280-25-050285.txt
+2025-11-06 22:01:09 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1787306/000162828025050285/0001628280-25-050285.txt
