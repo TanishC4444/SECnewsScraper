@@ -6068,3 +6068,5 @@
 2025-11-05 23:45:59 | PK GIVING TRUST | Affiliate | Shares: 842288 | Value: $449,714,409.0 | Percent: 0.335633% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001031/0001968582-25-001031.txt
 2025-11-06 01:12:56 | DK GIVING TRUST | Affiliate | Shares: 1111538 | Value: $593,472,369.0 | Percent: 0.442923% | Link: https://www.sec.gov/Archives/edgar/data/1984947/000196858225001033/0001968582-25-001033.txt
 2025-11-06 01:12:57 | DK GIVING TRUST | Affiliate | Shares: 1111538 | Value: $593,472,369.0 | Percent: 0.442923% | Link: https://www.sec.gov/Archives/edgar/data/1535527/000196858225001033/0001968582-25-001033.txt
+2025-11-06 02:51:35 | MARY K BUSH | Director | Shares: 36000 | Value: $5,141,562.48 | Percent: 0.015221% | Link: https://www.sec.gov/Archives/edgar/data/1664703/000119312525267629/0001193125-25-267629.txt
+2025-11-06 02:51:36 | MARY K BUSH | Director | Shares: 36000 | Value: $5,141,562.48 | Percent: 0.015221% | Link: https://www.sec.gov/Archives/edgar/data/1041956/000119312525267629/0001193125-25-267629.txt
