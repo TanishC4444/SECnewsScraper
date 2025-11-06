@@ -8910,3 +8910,5 @@
 2025-11-06 19:41:23 | 8-K - Yotta Acquisition Corp (0001907730) (Filer) | 2025-11-06T14:35:13-05:00 | https://www.sec.gov/Archives/edgar/data/1907730/000182912625008894/0001829126-25-008894.txt
 2025-11-06 19:50:46 | 8-K - Macquarie Infrastructure Fund, L.P. (0002079966) (Filer) | 2025-11-06T14:48:03-05:00 | https://www.sec.gov/Archives/edgar/data/2079966/000121390025107090/0001213900-25-107090.txt
 2025-11-06 19:50:47 | 8-K - AgEagle Aerial Systems Inc. (0000008504) (Filer) | 2025-11-06T14:41:50-05:00 | https://www.sec.gov/Archives/edgar/data/8504/000149315225021038/0001493152-25-021038.txt
+2025-11-06 20:30:09 | 8-K - BLUSKY AI INC. (0001416090) (Filer) | 2025-11-06T15:16:55-05:00 | https://www.sec.gov/Archives/edgar/data/1416090/000149315225021050/0001493152-25-021050.txt
+2025-11-06 20:30:10 | 8-K - Kentucky First Federal Bancorp (0001297341) (Filer) | 2025-11-06T15:09:46-05:00 | https://www.sec.gov/Archives/edgar/data/1297341/000121390025107110/0001213900-25-107110.txt

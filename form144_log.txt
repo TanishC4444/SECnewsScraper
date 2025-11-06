@@ -6100,3 +6100,9 @@
 2025-11-06 19:50:53 | Morris Scott James | Officer | Shares: 63135 | Value: $3,485,384.98 | Percent: 0.129353% | Link: https://www.sec.gov/Archives/edgar/data/1611647/000195917325006776/0001959173-25-006776.txt
 2025-11-06 19:59:46 | Jeffrey Van Os | None | Shares: 18436 | Value: $700,000.0 | Percent: 0.006469% | Link: https://www.sec.gov/Archives/edgar/data/2095885/000121390025107095/0001213900-25-107095.txt
 2025-11-06 19:59:47 | Jeffrey Van Os | None | Shares: 18436 | Value: $700,000.0 | Percent: 0.006469% | Link: https://www.sec.gov/Archives/edgar/data/1829311/000121390025107095/0001213900-25-107095.txt
+2025-11-06 20:30:12 | KOPIT LEVIEN MEREDITH A. | Officer | Shares: 16972 | Value: $1,012,943.68 | Percent: 0.010505% | Link: https://www.sec.gov/Archives/edgar/data/1640075/000195917325006778/0001959173-25-006778.txt
+2025-11-06 20:30:13 | KOPIT LEVIEN MEREDITH A. | Officer | Shares: 16972 | Value: $1,012,943.68 | Percent: 0.010505% | Link: https://www.sec.gov/Archives/edgar/data/71691/000195917325006778/0001959173-25-006778.txt
+2025-11-06 20:30:15 | VASHIST RAJESH | Officer | Shares: 10000 | Value: $3,289,500.0 | Percent: 0.038462% | Link: https://www.sec.gov/Archives/edgar/data/1451809/000197325125000087/0001973251-25-000087.txt
+2025-11-06 20:30:17 | VASHIST RAJESH | Officer | Shares: 10000 | Value: $3,289,500.0 | Percent: 0.038462% | Link: https://www.sec.gov/Archives/edgar/data/1339076/000197325125000087/0001973251-25-000087.txt
+2025-11-06 20:30:17 | Brown William P | Officer | Shares: 6666 | Value: $1,866,721.39 | Percent: 0.002484% | Link: https://www.sec.gov/Archives/edgar/data/1760858/000195779925000229/0001957799-25-000229.txt
+2025-11-06 20:30:17 | Brown William P | Officer | Shares: 6666 | Value: $1,866,721.39 | Percent: 0.002484% | Link: https://www.sec.gov/Archives/edgar/data/1048286/000195779925000229/0001957799-25-000229.txt
