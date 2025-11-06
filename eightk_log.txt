@@ -8932,3 +8932,13 @@
 2025-11-06 21:30:07 | 8-K - Morgan Stanley Direct Lending Fund (0001782524) (Filer) | 2025-11-06T16:28:58-05:00 | https://www.sec.gov/Archives/edgar/data/1782524/000119312525269710/0001193125-25-269710.txt
 2025-11-06 21:30:08 | 8-K - Coherus Oncology, Inc. (0001512762) (Filer) | 2025-11-06T16:28:57-05:00 | https://www.sec.gov/Archives/edgar/data/1512762/000110465925107780/0001104659-25-107780.txt
 2025-11-06 21:30:10 | 8-K - Seer, Inc. (0001726445) (Filer) | 2025-11-06T16:28:51-05:00 | https://www.sec.gov/Archives/edgar/data/1726445/000119312525269705/0001193125-25-269705.txt
+2025-11-06 21:42:08 | 8-K - MARKETWISE, INC. (0001805651) (Filer) | 2025-11-06T16:41:38-05:00 | https://www.sec.gov/Archives/edgar/data/1805651/000180565125000010/0001805651-25-000010.txt
+2025-11-06 21:42:08 | 8-K - Principal Credit Real Estate Income Trust (0002026448) (Filer) | 2025-11-06T16:41:32-05:00 | https://www.sec.gov/Archives/edgar/data/2026448/000202644825000084/0002026448-25-000084.txt
+2025-11-06 21:42:10 | 8-K - Concentra Group Holdings Parent, Inc. (0002014596) (Filer) | 2025-11-06T16:40:09-05:00 | https://www.sec.gov/Archives/edgar/data/2014596/000201459625000045/0002014596-25-000045.txt
+2025-11-06 21:42:12 | 8-K - MidCap Financial Investment Corp (0001278752) (Filer) | 2025-11-06T16:40:04-05:00 | https://www.sec.gov/Archives/edgar/data/1278752/000119312525269805/0001193125-25-269805.txt
+2025-11-06 21:42:14 | 8-K - Expensify, Inc. (0001476840) (Filer) | 2025-11-06T16:38:12-05:00 | https://www.sec.gov/Archives/edgar/data/1476840/000147684025000139/0001476840-25-000139.txt
+2025-11-06 21:42:16 | 8-K - Mueller Water Products, Inc. (0001350593) (Filer) | 2025-11-06T16:38:00-05:00 | https://www.sec.gov/Archives/edgar/data/1350593/000135059325000057/0001350593-25-000057.txt
+2025-11-06 21:42:17 | 8-K - LGL GROUP INC (0000061004) (Filer) | 2025-11-06T16:35:40-05:00 | https://www.sec.gov/Archives/edgar/data/61004/000143774925033629/0001437749-25-033629.txt
+2025-11-06 21:42:18 | 8-K - MRC GLOBAL INC. (0001439095) (Filer) | 2025-11-06T16:35:35-05:00 | https://www.sec.gov/Archives/edgar/data/1439095/000119312525269775/0001193125-25-269775.txt
+2025-11-06 21:42:20 | 8-K - NUSCALE POWER Corp (0001822966) (Filer) | 2025-11-06T16:35:07-05:00 | https://www.sec.gov/Archives/edgar/data/1822966/000182296625000173/0001822966-25-000173.txt
+2025-11-06 21:42:21 | 8-K - Drilling Tools International Corp (0001884516) (Filer) | 2025-11-06T16:34:39-05:00 | https://www.sec.gov/Archives/edgar/data/1884516/000119312525269770/0001193125-25-269770.txt

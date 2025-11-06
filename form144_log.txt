@@ -6124,3 +6124,9 @@
 2025-11-06 21:30:14 | Todd Edwards | officer | Shares: 29131 | Value: $732,925.88 | Percent: 0.023782% | Link: https://www.sec.gov/Archives/edgar/data/1722482/000162828025050225/0001628280-25-050225.txt
 2025-11-06 21:30:15 | THE PER ARTUR BERGMAN REVOCABLE TRUST | Director | Shares: 440000 | Value: $3,550,800.0 | Percent: 0.298507% | Link: https://www.sec.gov/Archives/edgar/data/1769490/000195004725008531/0001950047-25-008531.txt
 2025-11-06 21:30:16 | THE PER ARTUR BERGMAN REVOCABLE TRUST | Director | Shares: 440000 | Value: $3,550,800.0 | Percent: 0.298507% | Link: https://www.sec.gov/Archives/edgar/data/1517413/000195004725008531/0001950047-25-008531.txt
+2025-11-06 21:42:23 | RORY READ | Officer | Shares: 258214 | Value: $1,931,647.29 | Percent: 0.181302% | Link: https://www.sec.gov/Archives/edgar/data/1569345/000195004725008534/0001950047-25-008534.txt
+2025-11-06 21:42:24 | RORY READ | Officer | Shares: 258214 | Value: $1,931,647.29 | Percent: 0.181302% | Link: https://www.sec.gov/Archives/edgar/data/1528597/000195004725008534/0001950047-25-008534.txt
+2025-11-06 21:42:24 | Kashani Ali | Officer | Shares: 16170 | Value: $174,267.32 | Percent: 0.026259% | Link: https://www.sec.gov/Archives/edgar/data/1983489/000197407825000405/0001974078-25-000405.txt
+2025-11-06 21:42:24 | Kashani Ali | Officer | Shares: 16170 | Value: $174,267.32 | Percent: 0.026259% | Link: https://www.sec.gov/Archives/edgar/data/1832483/000197407825000405/0001974078-25-000405.txt
+2025-11-06 21:42:26 | Laura A Linynsky | Director | Shares: 10000 | Value: $216,150.0 | Percent: 0.011645% | Link: https://www.sec.gov/Archives/edgar/data/1543891/000162828025050236/0001628280-25-050236.txt
+2025-11-06 21:42:27 | Laura A Linynsky | Director | Shares: 10000 | Value: $216,150.0 | Percent: 0.011645% | Link: https://www.sec.gov/Archives/edgar/data/893949/000162828025050236/0001628280-25-050236.txt
