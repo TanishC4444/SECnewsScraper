@@ -8881,3 +8881,5 @@
 2025-11-06 14:45:10 | 8-K - Lipocine Inc. (0001535955) (Filer) | 2025-11-06T09:40:26-05:00 | https://www.sec.gov/Archives/edgar/data/1535955/000149315225021008/0001493152-25-021008.txt
 2025-11-06 14:45:10 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-11-06T09:27:24-05:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525268278/0001193125-25-268278.txt
 2025-11-06 14:54:38 | 8-K - YORK WATER CO (0000108985) (Filer) | 2025-11-06T09:47:01-05:00 | https://www.sec.gov/Archives/edgar/data/108985/000010898525000091/0000108985-25-000091.txt
+2025-11-06 15:16:37 | 8-K - Apple iSports Group, Inc. (0001134982) (Filer) | 2025-11-06T10:11:55-05:00 | https://www.sec.gov/Archives/edgar/data/1134982/000147793225007933/0001477932-25-007933.txt
+2025-11-06 15:16:39 | 8-K - Vera Therapeutics, Inc. (0001831828) (Filer) | 2025-11-06T09:59:49-05:00 | https://www.sec.gov/Archives/edgar/data/1831828/000119312525268331/0001193125-25-268331.txt

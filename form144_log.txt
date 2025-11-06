@@ -6074,3 +6074,9 @@
 2025-11-06 13:29:00 | Anderson Peter | Chief Commercial Officer | Shares: 197965 | Value: $26,454,062.95 | Percent: 0.119138% | Link: https://www.sec.gov/Archives/edgar/data/1378789/000095015725000926/0000950157-25-000926.txt
 2025-11-06 14:45:12 | Klein Roger M. | 10% Stockholder | Shares: 9000 | Value: $96,210.0 | Percent: 0.577491% | Link: https://www.sec.gov/Archives/edgar/data/1651175/000165117525000002/0001651175-25-000002.txt
 2025-11-06 14:45:13 | Klein Roger M. | 10% Stockholder | Shares: 9000 | Value: $96,210.0 | Percent: 0.577491% | Link: https://www.sec.gov/Archives/edgar/data/1403708/000165117525000002/0001651175-25-000002.txt
+2025-11-06 15:16:41 | CHUANG PATRICK T | Senior VP Memory Design | Shares: 40000 | Value: $359,200.0 | Percent: 0.137501% | Link: https://www.sec.gov/Archives/edgar/data/2009849/000197337925000284/0001973379-25-000284.txt
+2025-11-06 15:16:42 | CHUANG PATRICK T | Senior VP Memory Design | Shares: 40000 | Value: $359,200.0 | Percent: 0.137501% | Link: https://www.sec.gov/Archives/edgar/data/1126741/000197337925000284/0001973379-25-000284.txt
+2025-11-06 15:16:44 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,822,000.0 | Percent: 0.043160% | Link: https://www.sec.gov/Archives/edgar/data/1654375/000195917325006768/0001959173-25-006768.txt
+2025-11-06 15:16:45 | Canty Trecia M | Officer | Shares: 50000 | Value: $1,822,000.0 | Percent: 0.043160% | Link: https://www.sec.gov/Archives/edgar/data/1534504/000195917325006768/0001959173-25-006768.txt
+2025-11-06 15:16:46 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,599,000.0 | Percent: 0.108967% | Link: https://www.sec.gov/Archives/edgar/data/1718348/000194984625000564/0001949846-25-000564.txt
+2025-11-06 15:16:47 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,599,000.0 | Percent: 0.108967% | Link: https://www.sec.gov/Archives/edgar/data/1629019/000194984625000564/0001949846-25-000564.txt
