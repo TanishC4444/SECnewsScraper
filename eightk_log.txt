@@ -8907,3 +8907,4 @@
 2025-11-06 18:59:22 | 8-K - Westin Acquisition Corp (0002076192) (Filer) | 2025-11-06T13:50:54-05:00 | https://www.sec.gov/Archives/edgar/data/2076192/000121390025107058/0001213900-25-107058.txt
 2025-11-06 19:21:23 | 8-K - CAMPBELL FUND TRUST (0001043951) (Filer) | 2025-11-06T14:06:46-05:00 | https://www.sec.gov/Archives/edgar/data/1043951/000114036125040738/0001140361-25-040738.txt
 2025-11-06 19:21:23 | 8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer) | 2025-11-06T13:59:24-05:00 | https://www.sec.gov/Archives/edgar/data/1331757/000133175725000194/0001331757-25-000194.txt
+2025-11-06 19:41:23 | 8-K - Yotta Acquisition Corp (0001907730) (Filer) | 2025-11-06T14:35:13-05:00 | https://www.sec.gov/Archives/edgar/data/1907730/000182912625008894/0001829126-25-008894.txt
