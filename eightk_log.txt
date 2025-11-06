@@ -8878,3 +8878,5 @@
 2025-11-06 14:26:49 | 8-K - Upland Software, Inc. (0001505155) (Filer) | 2025-11-06T09:07:13-05:00 | https://www.sec.gov/Archives/edgar/data/1505155/000150515525000104/0001505155-25-000104.txt
 2025-11-06 14:26:51 | 8-K - Niagen Bioscience, Inc. (0001386570) (Filer) | 2025-11-06T09:05:53-05:00 | https://www.sec.gov/Archives/edgar/data/1386570/000138657025000025/0001386570-25-000025.txt
 2025-11-06 14:26:52 | 8-K - SAGA COMMUNICATIONS INC (0000886136) (Filer) | 2025-11-06T09:05:28-05:00 | https://www.sec.gov/Archives/edgar/data/886136/000110465925107466/0001104659-25-107466.txt
+2025-11-06 14:45:10 | 8-K - Lipocine Inc. (0001535955) (Filer) | 2025-11-06T09:40:26-05:00 | https://www.sec.gov/Archives/edgar/data/1535955/000149315225021008/0001493152-25-021008.txt
+2025-11-06 14:45:10 | 8-K - Federal Home Loan Bank of Pittsburgh (0001330399) (Filer) | 2025-11-06T09:27:24-05:00 | https://www.sec.gov/Archives/edgar/data/1330399/000119312525268278/0001193125-25-268278.txt
