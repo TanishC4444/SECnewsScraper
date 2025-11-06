@@ -6086,3 +6086,7 @@
 2025-11-06 15:39:36 | Wiener Adam | Director | Shares: 6000 | Value: $216,240.0 | Percent: 0.006158% | Link: https://www.sec.gov/Archives/edgar/data/1712170/000195917325006770/0001959173-25-006770.txt
 2025-11-06 16:13:27 | Frey Daniel S. | Officer | Shares: 25000 | Value: $6,956,254.49 | Percent: 0.011208% | Link: https://www.sec.gov/Archives/edgar/data/1751992/000195917325006771/0001959173-25-006771.txt
 2025-11-06 16:13:28 | Frey Daniel S. | Officer | Shares: 25000 | Value: $6,956,254.49 | Percent: 0.011208% | Link: https://www.sec.gov/Archives/edgar/data/86312/000195917325006771/0001959173-25-006771.txt
+2025-11-06 17:27:04 | CONNORS MICHAEL P | Officer | Shares: 493703 | Value: $2,796,827.5 | Percent: 1.031037% | Link: https://www.sec.gov/Archives/edgar/data/1371489/000195917325006774/0001959173-25-006774.txt
+2025-11-06 17:27:05 | CONNORS MICHAEL P | Officer | Shares: 493703 | Value: $2,796,827.5 | Percent: 1.031037% | Link: https://www.sec.gov/Archives/edgar/data/1249201/000195917325006774/0001959173-25-006774.txt
+2025-11-06 17:27:07 | Maniv Eldad | Officer | Shares: 424861 | Value: $1,414,787.13 | Percent: 0.147407% | Link: https://www.sec.gov/Archives/edgar/data/1952049/000197640825000344/0001976408-25-000344.txt
+2025-11-06 17:27:08 | Maniv Eldad | Officer | Shares: 424861 | Value: $1,414,787.13 | Percent: 0.147407% | Link: https://www.sec.gov/Archives/edgar/data/1840502/000197640825000344/0001976408-25-000344.txt
