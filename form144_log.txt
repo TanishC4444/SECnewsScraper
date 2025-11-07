@@ -6224,3 +6224,7 @@
 2025-11-07 21:45:27 | JAMES REINHART &amp; MICHELE REINHART TR COSTANOA FAMILY TRUST 22-JUL-15 AS AMENDED | Officer | Shares: 200000 | Value: $1,589,840.0 | Percent: 0.191804% | Link: https://www.sec.gov/Archives/edgar/data/1484778/000195004725008574/0001950047-25-008574.txt
 2025-11-07 21:45:28 | Assaf Ginzburg | CFO | Shares: 20000 | Value: $2,266,000.0 | Percent: 0.032905% | Link: https://www.sec.gov/Archives/edgar/data/1361024/000196858225001041/0001968582-25-001041.txt
 2025-11-07 21:45:30 | Assaf Ginzburg | CFO | Shares: 20000 | Value: $2,266,000.0 | Percent: 0.032905% | Link: https://www.sec.gov/Archives/edgar/data/1296445/000196858225001041/0001968582-25-001041.txt
+2025-11-07 21:54:35 | Eckstein Adina | Officer | Shares: 20000 | Value: $1,480,000.0 | Percent: 0.026763% | Link: https://www.sec.gov/Archives/edgar/data/1874702/000195917325006821/0001959173-25-006821.txt
+2025-11-07 21:54:37 | Eckstein Adina | Officer | Shares: 20000 | Value: $1,480,000.0 | Percent: 0.026763% | Link: https://www.sec.gov/Archives/edgar/data/1691421/000195917325006821/0001959173-25-006821.txt
+2025-11-07 21:54:39 | Knutson Jeffrey Scott (TWIN) | Officer | Shares: 11610 | Value: $185,760.0 | Percent: 0.080680% | Link: https://www.sec.gov/Archives/edgar/data/1341537/000143774925033880/0001437749-25-033880.txt
+2025-11-07 21:54:40 | Knutson Jeffrey Scott (TWIN) | Officer | Shares: 11610 | Value: $185,760.0 | Percent: 0.080680% | Link: https://www.sec.gov/Archives/edgar/data/100378/000143774925033880/0001437749-25-033880.txt
