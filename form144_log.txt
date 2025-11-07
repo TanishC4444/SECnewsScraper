@@ -6156,3 +6156,5 @@
 2025-11-07 01:07:27 | SYLEBRA CAPITAL LLC | Director | Shares: 13211 | Value: $2,267,427.74 | Percent: 0.728065% | Link: https://www.sec.gov/Archives/edgar/data/1114995/000200307425000019/0002003074-25-000019.txt
 2025-11-07 01:07:29 | Bridger Management, LLC (1) | Shareholder | Shares: 200000 | Value: $4,920,000.0 | Percent: 0.017432% | Link: https://www.sec.gov/Archives/edgar/data/1166309/000090266425004764/0000902664-25-004764.txt
 2025-11-07 01:07:30 | Bridger Management, LLC (1) | Shareholder | Shares: 200000 | Value: $4,920,000.0 | Percent: 0.017432% | Link: https://www.sec.gov/Archives/edgar/data/818686/000090266425004764/0000902664-25-004764.txt
+2025-11-07 02:47:36 | Sean McCarthy | CEO | Shares: 101793 | Value: $461,909.0 | Percent: 0.061725% | Link: https://www.sec.gov/Archives/edgar/data/1654058/000162828025050396/0001628280-25-050396.txt
+2025-11-07 02:47:37 | Sean McCarthy | CEO | Shares: 101793 | Value: $461,909.0 | Percent: 0.061725% | Link: https://www.sec.gov/Archives/edgar/data/1501989/000162828025050396/0001628280-25-050396.txt
