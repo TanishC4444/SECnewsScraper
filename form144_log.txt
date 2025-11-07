@@ -6162,3 +6162,5 @@
 2025-11-07 12:53:01 | Steiner Sharon | Officer | Shares: 29143 | Value: $599,180.08 | Percent: 0.081305% | Link: https://www.sec.gov/Archives/edgar/data/1762301/000197640825000345/0001976408-25-000345.txt
 2025-11-07 14:28:32 | Emmert Mark A | Director | Shares: 5400 | Value: $726,516.0 | Percent: 0.003918% | Link: https://www.sec.gov/Archives/edgar/data/1434857/000196530125000162/0001965301-25-000162.txt
 2025-11-07 14:28:33 | Emmert Mark A | Director | Shares: 5400 | Value: $726,516.0 | Percent: 0.003918% | Link: https://www.sec.gov/Archives/edgar/data/746515/000196530125000162/0001965301-25-000162.txt
+2025-11-07 14:44:17 | BEINDORFF MICHAEL A | Director | Shares: 54107 | Value: $365,222.25 | Percent: 0.426000% | Link: https://www.sec.gov/Archives/edgar/data/1309611/000194984625000567/0001949846-25-000567.txt
+2025-11-07 14:44:18 | BEINDORFF MICHAEL A | Director | Shares: 54107 | Value: $365,222.25 | Percent: 0.426000% | Link: https://www.sec.gov/Archives/edgar/data/849146/000194984625000567/0001949846-25-000567.txt
