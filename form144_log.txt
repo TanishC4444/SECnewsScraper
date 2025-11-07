@@ -6228,3 +6228,7 @@
 2025-11-07 21:54:37 | Eckstein Adina | Officer | Shares: 20000 | Value: $1,480,000.0 | Percent: 0.026763% | Link: https://www.sec.gov/Archives/edgar/data/1691421/000195917325006821/0001959173-25-006821.txt
 2025-11-07 21:54:39 | Knutson Jeffrey Scott (TWIN) | Officer | Shares: 11610 | Value: $185,760.0 | Percent: 0.080680% | Link: https://www.sec.gov/Archives/edgar/data/1341537/000143774925033880/0001437749-25-033880.txt
 2025-11-07 21:54:40 | Knutson Jeffrey Scott (TWIN) | Officer | Shares: 11610 | Value: $185,760.0 | Percent: 0.080680% | Link: https://www.sec.gov/Archives/edgar/data/100378/000143774925033880/0001437749-25-033880.txt
+2025-11-07 22:13:13 | NANCY GRAY | Director | Shares: 6571 | Value: $1,350,011.95 | Percent: 0.033386% | Link: https://www.sec.gov/Archives/edgar/data/1714949/000195004725008580/0001950047-25-008580.txt
+2025-11-07 22:13:14 | NANCY GRAY | Director | Shares: 6571 | Value: $1,350,011.95 | Percent: 0.033386% | Link: https://www.sec.gov/Archives/edgar/data/886163/000195004725008580/0001950047-25-008580.txt
+2025-11-07 22:13:16 | Keith Rupert Murdoch | Chairman Emeritus | Shares: 168756 | Value: $11,088,956.76 | Percent: 0.080992% | Link: https://www.sec.gov/Archives/edgar/data/1754301/000162828025050706/0001628280-25-050706.txt
+2025-11-07 22:13:17 | Keith Rupert Murdoch | Chairman Emeritus | Shares: 168756 | Value: $11,088,956.76 | Percent: 0.080992% | Link: https://www.sec.gov/Archives/edgar/data/1024835/000162828025050706/0001628280-25-050706.txt
