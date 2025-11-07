@@ -9029,3 +9029,11 @@
 2025-11-07 13:51:47 | 8-K - ASSURED GUARANTY LTD (0001273813) (Filer) | 2025-11-07T08:45:19-05:00 | https://www.sec.gov/Archives/edgar/data/1273813/000127381325000056/0001273813-25-000056.txt
 2025-11-07 14:01:25 | 8-K - Velocity Financial, Inc. (0001692376) (Filer) | 2025-11-07T08:58:06-05:00 | https://www.sec.gov/Archives/edgar/data/1692376/000119312525271180/0001193125-25-271180.txt
 2025-11-07 14:01:26 | 8-K - Cantor Equity Partners III, Inc. (0002034268) (Filer) | 2025-11-07T08:53:01-05:00 | https://www.sec.gov/Archives/edgar/data/2034268/000121390025107383/0001213900-25-107383.txt
+2025-11-07 14:28:20 | 8-K - Professional Diversity Network, Inc. (0001546296) (Filer) | 2025-11-07T09:27:11-05:00 | https://www.sec.gov/Archives/edgar/data/1546296/000143774925033739/0001437749-25-033739.txt
+2025-11-07 14:28:22 | 8-K - Summit Therapeutics Inc. (0001599298) (Filer) | 2025-11-07T09:23:15-05:00 | https://www.sec.gov/Archives/edgar/data/1599298/000159929825000166/0001599298-25-000166.txt
+2025-11-07 14:28:23 | 8-K - Spirit Aviation Holdings, Inc. (0001498710) (Filer) | 2025-11-07T09:16:32-05:00 | https://www.sec.gov/Archives/edgar/data/1498710/000095010325014454/0000950103-25-014454.txt
+2025-11-07 14:28:25 | 8-K - Trump Media & Technology Group Corp. (0001849635) (Filer) | 2025-11-07T09:15:39-05:00 | https://www.sec.gov/Archives/edgar/data/1849635/000114036125040969/0001140361-25-040969.txt
+2025-11-07 14:28:27 | 8-K - MAIA Biotechnology, Inc. (0001878313) (Filer) | 2025-11-07T09:15:37-05:00 | https://www.sec.gov/Archives/edgar/data/1878313/000149315225021195/0001493152-25-021195.txt
+2025-11-07 14:28:27 | 8-K - TIAA REAL ESTATE ACCOUNT (0000946155) (Filer) | 2025-11-07T09:11:24-05:00 | https://www.sec.gov/Archives/edgar/data/946155/000094615525000030/0000946155-25-000030.txt
+2025-11-07 14:28:29 | 8-K - OPAL Fuels Inc. (0001842279) (Filer) | 2025-11-07T09:11:10-05:00 | https://www.sec.gov/Archives/edgar/data/1842279/000162828025050443/0001628280-25-050443.txt
+2025-11-07 14:28:30 | 8-K - Rain Enhancement Technologies Holdco, Inc. (0002028293) (Filer) | 2025-11-07T09:11:00-05:00 | https://www.sec.gov/Archives/edgar/data/2028293/000121390025107392/0001213900-25-107392.txt
