@@ -6178,3 +6178,5 @@
 2025-11-07 17:31:39 | RHOADS ANN D | Director | Shares: 8000 | Value: $647,681.0 | Percent: 0.005977% | Link: https://www.sec.gov/Archives/edgar/data/1237831/000197407825000407/0001974078-25-000407.txt
 2025-11-07 17:31:40 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,004,500.0 | Percent: 0.637167% | Link: https://www.sec.gov/Archives/edgar/data/1718348/000194984625000569/0001949846-25-000569.txt
 2025-11-07 17:31:41 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,004,500.0 | Percent: 0.637167% | Link: https://www.sec.gov/Archives/edgar/data/1629019/000194984625000569/0001949846-25-000569.txt
+2025-11-07 19:25:36 | LABELLE MICHAEL E | Officer | Shares: 13422 | Value: $965,310.24 | Percent: 0.008475% | Link: https://www.sec.gov/Archives/edgar/data/1419045/000197309725000027/0001973097-25-000027.txt
+2025-11-07 19:25:37 | LABELLE MICHAEL E | Officer | Shares: 13422 | Value: $965,310.24 | Percent: 0.008475% | Link: https://www.sec.gov/Archives/edgar/data/1037540/000197309725000027/0001973097-25-000027.txt
