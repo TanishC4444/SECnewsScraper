@@ -6172,3 +6172,5 @@
 2025-11-07 16:41:58 | Eckstein Adina | Officer | Shares: 20000 | Value: $1,440,867.79 | Percent: 0.026763% | Link: https://www.sec.gov/Archives/edgar/data/1691421/000195917325006796/0001959173-25-006796.txt
 2025-11-07 16:41:58 | Reiss Rena Hozore | Officer | Shares: 5483 | Value: $1,574,224.25 | Percent: 0.002043% | Link: https://www.sec.gov/Archives/edgar/data/1497635/000195917325006795/0001959173-25-006795.txt
 2025-11-07 16:41:58 | Reiss Rena Hozore | Officer | Shares: 5483 | Value: $1,574,224.25 | Percent: 0.002043% | Link: https://www.sec.gov/Archives/edgar/data/1048286/000195917325006795/0001959173-25-006795.txt
+2025-11-07 17:14:06 | HART MATTHEW J | Director | Shares: 19627 | Value: $1,251,734.09 | Percent: 0.017561% | Link: https://www.sec.gov/Archives/edgar/data/1487712/000195917325006797/0001959173-25-006797.txt
+2025-11-07 17:14:07 | HART MATTHEW J | Director | Shares: 19627 | Value: $1,251,734.09 | Percent: 0.017561% | Link: https://www.sec.gov/Archives/edgar/data/1188272/000195917325006797/0001959173-25-006797.txt

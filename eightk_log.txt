@@ -9048,3 +9048,4 @@
 2025-11-07 16:18:24 | 8-K - JLL Income Property Trust, Inc. (0001314152) (Filer) | 2025-11-07T10:57:24-05:00 | https://www.sec.gov/Archives/edgar/data/1314152/000131415225000175/0001314152-25-000175.txt
 2025-11-07 16:18:25 | 8-K - New Mountain Net Lease Trust (0002033695) (Filer) | 2025-11-07T10:55:29-05:00 | https://www.sec.gov/Archives/edgar/data/2033695/000158064225007106/0001580642-25-007106.txt
 2025-11-07 16:41:54 | 8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer) | 2025-11-07T11:32:32-05:00 | https://www.sec.gov/Archives/edgar/data/713676/000071367625000136/0000713676-25-000136.txt
+2025-11-07 17:13:50 | 8-K - Federal Home Loan Bank of Des Moines (0001325814) (Filer) | 2025-11-07T12:05:34-05:00 | https://www.sec.gov/Archives/edgar/data/1325814/000162828025050518/0001628280-25-050518.txt
