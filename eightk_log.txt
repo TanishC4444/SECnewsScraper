@@ -9090,3 +9090,12 @@
 2025-11-07 21:24:54 | 8-K - Mallinckrodt plc (0001567892) (Filer) | 2025-11-07T16:19:52-05:00 | https://www.sec.gov/Archives/edgar/data/1567892/000162828025050666/0001628280-25-050666.txt
 2025-11-07 21:24:56 | 8-K - New Mountain Guardian IV BDC, L.L.C. (0001925531) (Filer) | 2025-11-07T16:19:35-05:00 | https://www.sec.gov/Archives/edgar/data/1925531/000158064225007151/0001580642-25-007151.txt
 2025-11-07 21:24:58 | 8-K - Lazydays Holdings, Inc. (0001721741) (Filer) | 2025-11-07T16:16:50-05:00 | https://www.sec.gov/Archives/edgar/data/1721741/000149315225021275/0001493152-25-021275.txt
+2025-11-07 21:36:01 | 8-K - Foghorn Therapeutics Inc. (0001822462) (Filer) | 2025-11-07T16:33:40-05:00 | https://www.sec.gov/Archives/edgar/data/1822462/000162828025050683/0001628280-25-050683.txt
+2025-11-07 21:36:06 | 8-K - Coca-Cola Consolidated, Inc. (0000317540) (Filer) | 2025-11-07T16:32:52-05:00 | https://www.sec.gov/Archives/edgar/data/317540/000162828025050682/0001628280-25-050682.txt
+2025-11-07 21:36:10 | 8-K - AMPCO PITTSBURGH CORP (0000006176) (Filer) | 2025-11-07T16:32:32-05:00 | https://www.sec.gov/Archives/edgar/data/6176/000119312525272459/0001193125-25-272459.txt
+2025-11-07 21:36:13 | 8-K - Digital Turbine, Inc. (0000317788) (Filer) | 2025-11-07T16:32:23-05:00 | https://www.sec.gov/Archives/edgar/data/317788/000162828025050680/0001628280-25-050680.txt
+2025-11-07 21:36:13 | 8-K - NORTHERN STATES POWER CO /WI/ (0000072909) (Filer) | 2025-11-07T16:32:04-05:00 | https://www.sec.gov/Archives/edgar/data/72909/000007290325000259/0000072903-25-000259.txt
+2025-11-07 21:36:16 | 8-K - XCEL ENERGY INC (0000072903) (Filer) | 2025-11-07T16:32:04-05:00 | https://www.sec.gov/Archives/edgar/data/72903/000007290325000259/0000072903-25-000259.txt
+2025-11-07 21:36:18 | 8-K - Wayfair Inc. (0001616707) (Filer) | 2025-11-07T16:31:24-05:00 | https://www.sec.gov/Archives/edgar/data/1616707/000119312525272454/0001193125-25-272454.txt
+2025-11-07 21:36:21 | 8-K - Apollo Global Management, Inc. (0001858681) (Filer) | 2025-11-07T16:31:20-05:00 | https://www.sec.gov/Archives/edgar/data/1858681/000119312525272452/0001193125-25-272452.txt
+2025-11-07 21:36:23 | 8-K - Booking Holdings Inc. (0001075531) (Filer) | 2025-11-07T16:30:55-05:00 | https://www.sec.gov/Archives/edgar/data/1075531/000110465925108511/0001104659-25-108511.txt

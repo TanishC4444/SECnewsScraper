@@ -6214,3 +6214,7 @@
 2025-11-07 21:25:06 | Saia John G. | Officer | Shares: 8996 | Value: $865,865.0 | Percent: 0.007137% | Link: https://www.sec.gov/Archives/edgar/data/1576280/000192109425001327/0001921094-25-001327.txt
 2025-11-07 21:25:08 | JESUS VICENTE GONZALEZ HERRERA | Officer | Shares: 40000 | Value: $408,904.0 | Percent: 0.002757% | Link: https://www.sec.gov/Archives/edgar/data/2018689/000195004725008555/0001950047-25-008555.txt
 2025-11-07 21:25:09 | JESUS VICENTE GONZALEZ HERRERA | Officer | Shares: 40000 | Value: $408,904.0 | Percent: 0.002757% | Link: https://www.sec.gov/Archives/edgar/data/1076378/000195004725008555/0001950047-25-008555.txt
+2025-11-07 21:36:26 | Taylor Stephen Charles | Director | Shares: 11152 | Value: $324,051.0 | Percent: 0.088915% | Link: https://www.sec.gov/Archives/edgar/data/1316004/000100027525000152/0001000275-25-000152.txt
+2025-11-07 21:36:27 | Taylor Stephen Charles | Director | Shares: 11152 | Value: $324,051.0 | Percent: 0.088915% | Link: https://www.sec.gov/Archives/edgar/data/1084991/000100027525000152/0001000275-25-000152.txt
+2025-11-07 21:36:30 | JOSEPH J CORASANTI | Director | Shares: 9720 | Value: $1,470,139.31 | Percent: 0.006185% | Link: https://www.sec.gov/Archives/edgar/data/1222114/000195004725008563/0001950047-25-008563.txt
+2025-11-07 21:36:31 | JOSEPH J CORASANTI | Director | Shares: 9720 | Value: $1,470,139.31 | Percent: 0.006185% | Link: https://www.sec.gov/Archives/edgar/data/820318/000195004725008563/0001950047-25-008563.txt
