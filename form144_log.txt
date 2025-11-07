@@ -6174,3 +6174,7 @@
 2025-11-07 16:41:58 | Reiss Rena Hozore | Officer | Shares: 5483 | Value: $1,574,224.25 | Percent: 0.002043% | Link: https://www.sec.gov/Archives/edgar/data/1048286/000195917325006795/0001959173-25-006795.txt
 2025-11-07 17:14:06 | HART MATTHEW J | Director | Shares: 19627 | Value: $1,251,734.09 | Percent: 0.017561% | Link: https://www.sec.gov/Archives/edgar/data/1487712/000195917325006797/0001959173-25-006797.txt
 2025-11-07 17:14:07 | HART MATTHEW J | Director | Shares: 19627 | Value: $1,251,734.09 | Percent: 0.017561% | Link: https://www.sec.gov/Archives/edgar/data/1188272/000195917325006797/0001959173-25-006797.txt
+2025-11-07 17:31:38 | RHOADS ANN D | Director | Shares: 8000 | Value: $647,681.0 | Percent: 0.005977% | Link: https://www.sec.gov/Archives/edgar/data/1250252/000197407825000407/0001974078-25-000407.txt
+2025-11-07 17:31:39 | RHOADS ANN D | Director | Shares: 8000 | Value: $647,681.0 | Percent: 0.005977% | Link: https://www.sec.gov/Archives/edgar/data/1237831/000197407825000407/0001974078-25-000407.txt
+2025-11-07 17:31:40 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,004,500.0 | Percent: 0.637167% | Link: https://www.sec.gov/Archives/edgar/data/1718348/000194984625000569/0001949846-25-000569.txt
+2025-11-07 17:31:41 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,004,500.0 | Percent: 0.637167% | Link: https://www.sec.gov/Archives/edgar/data/1629019/000194984625000569/0001949846-25-000569.txt
