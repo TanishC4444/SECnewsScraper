@@ -6232,3 +6232,11 @@
 2025-11-07 22:13:14 | NANCY GRAY | Director | Shares: 6571 | Value: $1,350,011.95 | Percent: 0.033386% | Link: https://www.sec.gov/Archives/edgar/data/886163/000195004725008580/0001950047-25-008580.txt
 2025-11-07 22:13:16 | Keith Rupert Murdoch | Chairman Emeritus | Shares: 168756 | Value: $11,088,956.76 | Percent: 0.080992% | Link: https://www.sec.gov/Archives/edgar/data/1754301/000162828025050706/0001628280-25-050706.txt
 2025-11-07 22:13:17 | Keith Rupert Murdoch | Chairman Emeritus | Shares: 168756 | Value: $11,088,956.76 | Percent: 0.080992% | Link: https://www.sec.gov/Archives/edgar/data/1024835/000162828025050706/0001628280-25-050706.txt
+2025-11-07 22:33:20 | STEBBINS PAUL H | Director | Shares: 7000 | Value: $1,941,730.0 | Percent: 0.006523% | Link: https://www.sec.gov/Archives/edgar/data/1274494/000095015725000929/0000950157-25-000929.txt
+2025-11-07 22:33:21 | STEBBINS PAUL H | Director | Shares: 7000 | Value: $1,941,730.0 | Percent: 0.006523% | Link: https://www.sec.gov/Archives/edgar/data/1236725/000095015725000929/0000950157-25-000929.txt
+2025-11-07 22:33:22 | Logos Global Master Fund LP | Director | Shares: 415000 | Value: $2,851,050.0 | Percent: 0.728533% | Link: https://www.sec.gov/Archives/edgar/data/1831371/000117893725000059/0001178937-25-000059.txt
+2025-11-07 22:33:23 | Logos Global Master Fund LP | Director | Shares: 415000 | Value: $2,851,050.0 | Percent: 0.728533% | Link: https://www.sec.gov/Archives/edgar/data/1807120/000117893725000059/0001178937-25-000059.txt
+2025-11-07 22:33:25 | BLAIN A TIFFANY | Officer | Shares: 8656 | Value: $812,997.49 | Percent: 0.053411% | Link: https://www.sec.gov/Archives/edgar/data/1323719/000196922325000927/0001969223-25-000927.txt
+2025-11-07 22:33:26 | BLAIN A TIFFANY | Officer | Shares: 8656 | Value: $812,997.49 | Percent: 0.053411% | Link: https://www.sec.gov/Archives/edgar/data/811596/000196922325000927/0001969223-25-000927.txt
+2025-11-07 22:33:28 | Kevin Mitchell | Officer | Shares: 30000 | Value: $4,139,100.0 | Percent: 0.007446% | Link: https://www.sec.gov/Archives/edgar/data/1663211/000162828025050716/0001628280-25-050716.txt
+2025-11-07 22:33:29 | Kevin Mitchell | Officer | Shares: 30000 | Value: $4,139,100.0 | Percent: 0.007446% | Link: https://www.sec.gov/Archives/edgar/data/1534701/000162828025050716/0001628280-25-050716.txt
