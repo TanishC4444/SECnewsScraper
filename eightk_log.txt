@@ -9060,3 +9060,4 @@
 2025-11-07 19:25:33 | 8-K - CITIZENS & NORTHERN CORP (0000810958) (Filer) | 2025-11-07T14:10:30-05:00 | https://www.sec.gov/Archives/edgar/data/810958/000110465925108359/0001104659-25-108359.txt
 2025-11-07 19:36:26 | 8-K - Bright Mountain Media, Inc. (0001568385) (Filer) | 2025-11-07T14:32:37-05:00 | https://www.sec.gov/Archives/edgar/data/1568385/000119312525272009/0001193125-25-272009.txt
 2025-11-07 19:36:28 | 8-K - A-Mark Precious Metals, Inc. (0001591588) (Filer) | 2025-11-07T14:29:30-05:00 | https://www.sec.gov/Archives/edgar/data/1591588/000119312525272000/0001193125-25-272000.txt
+2025-11-07 19:45:41 | 8-K - Velocity Financial, Inc. (0001692376) (Filer) | 2025-11-07T14:41:35-05:00 | https://www.sec.gov/Archives/edgar/data/1692376/000119312525272032/0001193125-25-272032.txt

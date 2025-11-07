@@ -6180,3 +6180,7 @@
 2025-11-07 17:31:41 | Petrie Michael F. | Officer | Shares: 50000 | Value: $1,004,500.0 | Percent: 0.637167% | Link: https://www.sec.gov/Archives/edgar/data/1629019/000194984625000569/0001949846-25-000569.txt
 2025-11-07 19:25:36 | LABELLE MICHAEL E | Officer | Shares: 13422 | Value: $965,310.24 | Percent: 0.008475% | Link: https://www.sec.gov/Archives/edgar/data/1419045/000197309725000027/0001973097-25-000027.txt
 2025-11-07 19:25:37 | LABELLE MICHAEL E | Officer | Shares: 13422 | Value: $965,310.24 | Percent: 0.008475% | Link: https://www.sec.gov/Archives/edgar/data/1037540/000197309725000027/0001973097-25-000027.txt
+2025-11-07 19:45:44 | McBride Kelly P | Former Officer | Shares: 9251 | Value: $37,945.71 | Percent: 0.005400% | Link: https://www.sec.gov/Archives/edgar/data/1978292/000195917325006804/0001959173-25-006804.txt
+2025-11-07 19:45:45 | McBride Kelly P | Former Officer | Shares: 9251 | Value: $37,945.71 | Percent: 0.005400% | Link: https://www.sec.gov/Archives/edgar/data/1857154/000195917325006804/0001959173-25-006804.txt
+2025-11-07 19:45:47 | BOYD WILLIAM R | Officer | Shares: 20000 | Value: $1,607,315.99 | Percent: 0.025601% | Link: https://www.sec.gov/Archives/edgar/data/1186738/000118673825000003/0001186738-25-000003.txt
+2025-11-07 19:45:48 | BOYD WILLIAM R | Officer | Shares: 20000 | Value: $1,607,315.99 | Percent: 0.025601% | Link: https://www.sec.gov/Archives/edgar/data/906553/000118673825000003/0001186738-25-000003.txt
