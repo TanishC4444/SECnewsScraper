@@ -9072,3 +9072,4 @@
 2025-11-07 20:31:55 | 8-K - Commonwealth Credit Partners BDC I, Inc. (0001841514) (Filer) | 2025-11-07T15:30:01-05:00 | https://www.sec.gov/Archives/edgar/data/1841514/000119312525272185/0001193125-25-272185.txt
 2025-11-07 20:31:55 | 8-K - John Hancock Comvest Private Income Fund (0001987221) (Filer) | 2025-11-07T15:27:19-05:00 | https://www.sec.gov/Archives/edgar/data/1987221/000119312525272175/0001193125-25-272175.txt
 2025-11-07 20:31:57 | 8-K - Columbia Seligman Premium Technology Growth Fund, Inc. (0001471420) (Filer) | 2025-11-07T15:19:59-05:00 | https://www.sec.gov/Archives/edgar/data/1471420/000119312525272149/0001193125-25-272149.txt
+2025-11-07 20:53:16 | 8-K - Ares Real Estate Income Trust Inc. (0001327978) (Filer) | 2025-11-07T15:48:56-05:00 | https://www.sec.gov/Archives/edgar/data/1327978/000132797825000074/0001327978-25-000074.txt
