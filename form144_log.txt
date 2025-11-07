@@ -6204,3 +6204,7 @@
 2025-11-07 20:43:50 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $13,055,809.0 | Percent: 0.016368% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000088/0001973251-25-000088.txt
 2025-11-07 20:53:18 | Gatling John A. | Former Officer | Shares: 8087 | Value: $270,822.31 | Percent: 0.006250% | Link: https://www.sec.gov/Archives/edgar/data/1789832/000195917325006810/0001959173-25-006810.txt
 2025-11-07 20:53:20 | Gatling John A. | Former Officer | Shares: 8087 | Value: $270,822.31 | Percent: 0.006250% | Link: https://www.sec.gov/Archives/edgar/data/1702312/000195917325006810/0001959173-25-006810.txt
+2025-11-07 21:08:15 | Dana Boyle | Officer | Shares: 29004 | Value: $727,581.46 | Percent: 0.033340% | Link: https://www.sec.gov/Archives/edgar/data/2074453/000195004725008552/0001950047-25-008552.txt
+2025-11-07 21:08:16 | Dana Boyle | Officer | Shares: 29004 | Value: $727,581.46 | Percent: 0.033340% | Link: https://www.sec.gov/Archives/edgar/data/1819576/000195004725008552/0001950047-25-008552.txt
+2025-11-07 21:08:19 | NIMRATA K HUNT | Officer | Shares: 9425 | Value: $6,629,059.61 | Percent: 0.011803% | Link: https://www.sec.gov/Archives/edgar/data/1800619/000195004725008550/0001950047-25-008550.txt
+2025-11-07 21:08:20 | NIMRATA K HUNT | Officer | Shares: 9425 | Value: $6,629,059.61 | Percent: 0.011803% | Link: https://www.sec.gov/Archives/edgar/data/874716/000195004725008550/0001950047-25-008550.txt
