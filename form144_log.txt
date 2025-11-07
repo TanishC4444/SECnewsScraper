@@ -6166,3 +6166,5 @@
 2025-11-07 14:44:18 | BEINDORFF MICHAEL A | Director | Shares: 54107 | Value: $365,222.25 | Percent: 0.426000% | Link: https://www.sec.gov/Archives/edgar/data/849146/000194984625000567/0001949846-25-000567.txt
 2025-11-07 14:53:52 | Shen Yalin | Officer | Shares: 101581 | Value: $15,316.2 | Percent: 0.088809% | Link: https://www.sec.gov/Archives/edgar/data/2061386/000206138625000005/0002061386-25-000005.txt
 2025-11-07 14:53:53 | Shen Yalin | Officer | Shares: 101581 | Value: $15,316.2 | Percent: 0.088809% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000206138625000005/0002061386-25-000005.txt
+2025-11-07 15:46:25 | Blecharczyk Nathan | Officer | Shares: 11539 | Value: $1,442,375.0 | Percent: 0.002713% | Link: https://www.sec.gov/Archives/edgar/data/1834147/000195917325006793/0001959173-25-006793.txt
+2025-11-07 15:46:26 | Blecharczyk Nathan | Officer | Shares: 11539 | Value: $1,442,375.0 | Percent: 0.002713% | Link: https://www.sec.gov/Archives/edgar/data/1559720/000195917325006793/0001959173-25-006793.txt
