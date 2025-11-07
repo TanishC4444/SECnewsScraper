@@ -8983,3 +8983,10 @@
 2025-11-07 11:14:40 | 8-K - Baker Hughes Co (0001701605) (Filer) | 2025-11-07T06:02:12-05:00 | https://www.sec.gov/Archives/edgar/data/1701605/000119312525270813/0001193125-25-270813.txt
 2025-11-07 11:14:42 | 8-K - CHART INDUSTRIES INC (0000892553) (Filer) | 2025-11-07T06:01:53-05:00 | https://www.sec.gov/Archives/edgar/data/892553/000119312525270810/0001193125-25-270810.txt
 2025-11-07 11:14:43 | 8-K - Claritev Corp (0001793229) (Filer) | 2025-11-07T06:00:35-05:00 | https://www.sec.gov/Archives/edgar/data/1793229/000179322925000168/0001793229-25-000168.txt
+2025-11-07 11:40:48 | 8-K - CNH Industrial N.V. (0001567094) (Filer) | 2025-11-07T06:39:28-05:00 | https://www.sec.gov/Archives/edgar/data/1567094/000156709425000009/0001567094-25-000009.txt
+2025-11-07 11:40:50 | 8-K - DraftKings Inc. (0001883685) (Filer) | 2025-11-07T06:35:19-05:00 | https://www.sec.gov/Archives/edgar/data/1883685/000188368525000035/0001883685-25-000035.txt
+2025-11-07 11:40:51 | 8-K - Delek Logistics Partners, LP (0001552797) (Filer) | 2025-11-07T06:31:55-05:00 | https://www.sec.gov/Archives/edgar/data/1552797/000162828025050410/0001628280-25-050410.txt
+2025-11-07 11:40:53 | 8-K - Delek US Holdings, Inc. (0001694426) (Filer) | 2025-11-07T06:31:31-05:00 | https://www.sec.gov/Archives/edgar/data/1694426/000162828025050409/0001628280-25-050409.txt
+2025-11-07 11:40:54 | 8-K - Global Net Lease, Inc. (0001526113) (Filer) | 2025-11-07T06:31:12-05:00 | https://www.sec.gov/Archives/edgar/data/1526113/000110465925108103/0001104659-25-108103.txt
+2025-11-07 11:40:56 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-11-07T06:30:33-05:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925108102/0001104659-25-108102.txt
+2025-11-07 11:40:58 | 8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer) | 2025-11-07T06:30:28-05:00 | https://www.sec.gov/Archives/edgar/data/1278021/000119312525270945/0001193125-25-270945.txt
