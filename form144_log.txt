@@ -6158,3 +6158,5 @@
 2025-11-07 01:07:30 | Bridger Management, LLC (1) | Shareholder | Shares: 200000 | Value: $4,920,000.0 | Percent: 0.017432% | Link: https://www.sec.gov/Archives/edgar/data/818686/000090266425004764/0000902664-25-004764.txt
 2025-11-07 02:47:36 | Sean McCarthy | CEO | Shares: 101793 | Value: $461,909.0 | Percent: 0.061725% | Link: https://www.sec.gov/Archives/edgar/data/1654058/000162828025050396/0001628280-25-050396.txt
 2025-11-07 02:47:37 | Sean McCarthy | CEO | Shares: 101793 | Value: $461,909.0 | Percent: 0.061725% | Link: https://www.sec.gov/Archives/edgar/data/1501989/000162828025050396/0001628280-25-050396.txt
+2025-11-07 12:53:00 | Steiner Sharon | Officer | Shares: 29143 | Value: $599,180.08 | Percent: 0.081305% | Link: https://www.sec.gov/Archives/edgar/data/1968713/000197640825000345/0001976408-25-000345.txt
+2025-11-07 12:53:01 | Steiner Sharon | Officer | Shares: 29143 | Value: $599,180.08 | Percent: 0.081305% | Link: https://www.sec.gov/Archives/edgar/data/1762301/000197640825000345/0001976408-25-000345.txt
