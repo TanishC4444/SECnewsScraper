@@ -6240,3 +6240,7 @@
 2025-11-07 22:33:26 | BLAIN A TIFFANY | Officer | Shares: 8656 | Value: $812,997.49 | Percent: 0.053411% | Link: https://www.sec.gov/Archives/edgar/data/811596/000196922325000927/0001969223-25-000927.txt
 2025-11-07 22:33:28 | Kevin Mitchell | Officer | Shares: 30000 | Value: $4,139,100.0 | Percent: 0.007446% | Link: https://www.sec.gov/Archives/edgar/data/1663211/000162828025050716/0001628280-25-050716.txt
 2025-11-07 22:33:29 | Kevin Mitchell | Officer | Shares: 30000 | Value: $4,139,100.0 | Percent: 0.007446% | Link: https://www.sec.gov/Archives/edgar/data/1534701/000162828025050716/0001628280-25-050716.txt
+2025-11-07 22:44:15 | L Catterton, L.P. | Affiliate | Shares: 63868 | Value: $1,407,012.04 | Percent: 0.062645% | Link: https://www.sec.gov/Archives/edgar/data/1917736/000162828025050738/0001628280-25-050738.txt
+2025-11-07 22:44:16 | L Catterton, L.P. | Affiliate | Shares: 63868 | Value: $1,407,012.04 | Percent: 0.062645% | Link: https://www.sec.gov/Archives/edgar/data/1758488/000162828025050738/0001628280-25-050738.txt
+2025-11-07 22:44:18 | OLEG RYABOY | Former Officer | Shares: 9710 | Value: $471,629.27 | Percent: 0.041007% | Link: https://www.sec.gov/Archives/edgar/data/1945827/000195004725008583/0001950047-25-008583.txt
+2025-11-07 22:44:19 | OLEG RYABOY | Former Officer | Shares: 9710 | Value: $471,629.27 | Percent: 0.041007% | Link: https://www.sec.gov/Archives/edgar/data/1443669/000195004725008583/0001950047-25-008583.txt
