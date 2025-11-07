@@ -6164,3 +6164,5 @@
 2025-11-07 14:28:33 | Emmert Mark A | Director | Shares: 5400 | Value: $726,516.0 | Percent: 0.003918% | Link: https://www.sec.gov/Archives/edgar/data/746515/000196530125000162/0001965301-25-000162.txt
 2025-11-07 14:44:17 | BEINDORFF MICHAEL A | Director | Shares: 54107 | Value: $365,222.25 | Percent: 0.426000% | Link: https://www.sec.gov/Archives/edgar/data/1309611/000194984625000567/0001949846-25-000567.txt
 2025-11-07 14:44:18 | BEINDORFF MICHAEL A | Director | Shares: 54107 | Value: $365,222.25 | Percent: 0.426000% | Link: https://www.sec.gov/Archives/edgar/data/849146/000194984625000567/0001949846-25-000567.txt
+2025-11-07 14:53:52 | Shen Yalin | Officer | Shares: 101581 | Value: $15,316.2 | Percent: 0.088809% | Link: https://www.sec.gov/Archives/edgar/data/2061386/000206138625000005/0002061386-25-000005.txt
+2025-11-07 14:53:53 | Shen Yalin | Officer | Shares: 101581 | Value: $15,316.2 | Percent: 0.088809% | Link: https://www.sec.gov/Archives/edgar/data/1959726/000206138625000005/0002061386-25-000005.txt
