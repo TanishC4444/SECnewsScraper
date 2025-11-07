@@ -8990,3 +8990,6 @@
 2025-11-07 11:40:54 | 8-K - Global Net Lease, Inc. (0001526113) (Filer) | 2025-11-07T06:31:12-05:00 | https://www.sec.gov/Archives/edgar/data/1526113/000110465925108103/0001104659-25-108103.txt
 2025-11-07 11:40:56 | 8-K - Babcock & Wilcox Enterprises, Inc. (0001630805) (Filer) | 2025-11-07T06:30:33-05:00 | https://www.sec.gov/Archives/edgar/data/1630805/000110465925108102/0001104659-25-108102.txt
 2025-11-07 11:40:58 | 8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer) | 2025-11-07T06:30:28-05:00 | https://www.sec.gov/Archives/edgar/data/1278021/000119312525270945/0001193125-25-270945.txt
+2025-11-07 11:50:00 | 8-K - Atmus Filtration Technologies Inc. (0001921963) (Filer) | 2025-11-07T06:47:33-05:00 | https://www.sec.gov/Archives/edgar/data/1921963/000192196325000132/0001921963-25-000132.txt
+2025-11-07 11:50:01 | 8-K - Brookfield Asset Management Ltd. (0001937926) (Filer) | 2025-11-07T06:45:30-05:00 | https://www.sec.gov/Archives/edgar/data/1937926/000117184325007121/0001171843-25-007121.txt
+2025-11-07 11:50:03 | 8-K - GRAHAM CORP (0000716314) (Filer) | 2025-11-07T06:45:21-05:00 | https://www.sec.gov/Archives/edgar/data/716314/000119312525270961/0001193125-25-270961.txt
