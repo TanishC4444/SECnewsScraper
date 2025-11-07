@@ -6190,3 +6190,9 @@
 2025-11-07 20:15:32 | Fluor Corp | Director | Shares: 110936472 | Value: $3,600,997,881.0 | Percent: 66.167799% | Link: https://www.sec.gov/Archives/edgar/data/1124198/000112419825000084/0001124198-25-000084.txt
 2025-11-07 20:15:34 | GREENBERG ANDREA | Former Officer | Shares: 8500 | Value: $638,447.22 | Percent: 0.029880% | Link: https://www.sec.gov/Archives/edgar/data/1795250/000195917325006805/0001959173-25-006805.txt
 2025-11-07 20:15:35 | GREENBERG ANDREA | Former Officer | Shares: 8500 | Value: $638,447.22 | Percent: 0.029880% | Link: https://www.sec.gov/Archives/edgar/data/1653193/000195917325006805/0001959173-25-006805.txt
+2025-11-07 20:31:59 | Craig Jonathan M. | Officer | Shares: 35188 | Value: $3,355,028.0 | Percent: 0.001938% | Link: https://www.sec.gov/Archives/edgar/data/1733065/000194984625000572/0001949846-25-000572.txt
+2025-11-07 20:32:00 | Craig Jonathan M. | Officer | Shares: 35188 | Value: $3,355,028.0 | Percent: 0.001938% | Link: https://www.sec.gov/Archives/edgar/data/316709/000194984625000572/0001949846-25-000572.txt
+2025-11-07 20:32:02 | Venker Eric | Officer | Shares: 200000 | Value: $4,043,960.0 | Percent: 0.029288% | Link: https://www.sec.gov/Archives/edgar/data/1801917/000196530125000165/0001965301-25-000165.txt
+2025-11-07 20:32:03 | Venker Eric | Officer | Shares: 200000 | Value: $4,043,960.0 | Percent: 0.029288% | Link: https://www.sec.gov/Archives/edgar/data/1635088/000196530125000165/0001965301-25-000165.txt
+2025-11-07 20:32:04 | Wilson Steven K. | Officer | Shares: 25000 | Value: $313,241.09 | Percent: 0.025475% | Link: https://www.sec.gov/Archives/edgar/data/1779980/000195917325006808/0001959173-25-006808.txt
+2025-11-07 20:32:05 | Wilson Steven K. | Officer | Shares: 25000 | Value: $313,241.09 | Percent: 0.025475% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325006808/0001959173-25-006808.txt
