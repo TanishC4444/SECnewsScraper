@@ -6208,3 +6208,9 @@
 2025-11-07 21:08:16 | Dana Boyle | Officer | Shares: 29004 | Value: $727,581.46 | Percent: 0.033340% | Link: https://www.sec.gov/Archives/edgar/data/1819576/000195004725008552/0001950047-25-008552.txt
 2025-11-07 21:08:19 | NIMRATA K HUNT | Officer | Shares: 9425 | Value: $6,629,059.61 | Percent: 0.011803% | Link: https://www.sec.gov/Archives/edgar/data/1800619/000195004725008550/0001950047-25-008550.txt
 2025-11-07 21:08:20 | NIMRATA K HUNT | Officer | Shares: 9425 | Value: $6,629,059.61 | Percent: 0.011803% | Link: https://www.sec.gov/Archives/edgar/data/874716/000195004725008550/0001950047-25-008550.txt
+2025-11-07 21:25:01 | Ezra Uzi Yemin | Officer | Shares: 30000 | Value: $1,290,000.0 | Percent: 0.049873% | Link: https://www.sec.gov/Archives/edgar/data/1694426/000196858225001040/0001968582-25-001040.txt
+2025-11-07 21:25:02 | Ezra Uzi Yemin | Officer | Shares: 30000 | Value: $1,290,000.0 | Percent: 0.049873% | Link: https://www.sec.gov/Archives/edgar/data/1361091/000196858225001040/0001968582-25-001040.txt
+2025-11-07 21:25:05 | Saia John G. | Officer | Shares: 8996 | Value: $865,865.0 | Percent: 0.007137% | Link: https://www.sec.gov/Archives/edgar/data/1737840/000192109425001327/0001921094-25-001327.txt
+2025-11-07 21:25:06 | Saia John G. | Officer | Shares: 8996 | Value: $865,865.0 | Percent: 0.007137% | Link: https://www.sec.gov/Archives/edgar/data/1576280/000192109425001327/0001921094-25-001327.txt
+2025-11-07 21:25:08 | JESUS VICENTE GONZALEZ HERRERA | Officer | Shares: 40000 | Value: $408,904.0 | Percent: 0.002757% | Link: https://www.sec.gov/Archives/edgar/data/2018689/000195004725008555/0001950047-25-008555.txt
+2025-11-07 21:25:09 | JESUS VICENTE GONZALEZ HERRERA | Officer | Shares: 40000 | Value: $408,904.0 | Percent: 0.002757% | Link: https://www.sec.gov/Archives/edgar/data/1076378/000195004725008555/0001950047-25-008555.txt
