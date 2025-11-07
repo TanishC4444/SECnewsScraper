@@ -6196,3 +6196,9 @@
 2025-11-07 20:32:03 | Venker Eric | Officer | Shares: 200000 | Value: $4,043,960.0 | Percent: 0.029288% | Link: https://www.sec.gov/Archives/edgar/data/1635088/000196530125000165/0001965301-25-000165.txt
 2025-11-07 20:32:04 | Wilson Steven K. | Officer | Shares: 25000 | Value: $313,241.09 | Percent: 0.025475% | Link: https://www.sec.gov/Archives/edgar/data/1779980/000195917325006808/0001959173-25-006808.txt
 2025-11-07 20:32:05 | Wilson Steven K. | Officer | Shares: 25000 | Value: $313,241.09 | Percent: 0.025475% | Link: https://www.sec.gov/Archives/edgar/data/1771515/000195917325006808/0001959173-25-006808.txt
+2025-11-07 20:43:45 | Spinelli Stephen M | Officer | Shares: 19000 | Value: $788,500.0 | Percent: 0.053275% | Link: https://www.sec.gov/Archives/edgar/data/1812385/000181238525000004/0001812385-25-000004.txt
+2025-11-07 20:43:46 | Spinelli Stephen M | Officer | Shares: 19000 | Value: $788,500.0 | Percent: 0.053275% | Link: https://www.sec.gov/Archives/edgar/data/69633/000181238525000004/0001812385-25-000004.txt
+2025-11-07 20:43:47 | Hwang Tim | Director | Shares: 7695 | Value: $19,960.83 | Percent: 0.004695% | Link: https://www.sec.gov/Archives/edgar/data/1937743/000195917325006809/0001959173-25-006809.txt
+2025-11-07 20:43:48 | Hwang Tim | Director | Shares: 7695 | Value: $19,960.83 | Percent: 0.004695% | Link: https://www.sec.gov/Archives/edgar/data/1823466/000195917325006809/0001959173-25-006809.txt
+2025-11-07 20:43:50 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $13,055,809.0 | Percent: 0.016368% | Link: https://www.sec.gov/Archives/edgar/data/1640147/000197325125000088/0001973251-25-000088.txt
+2025-11-07 20:43:50 | Speiser Michael L | Affiliate | Shares: 50741 | Value: $13,055,809.0 | Percent: 0.016368% | Link: https://www.sec.gov/Archives/edgar/data/1433644/000197325125000088/0001973251-25-000088.txt
