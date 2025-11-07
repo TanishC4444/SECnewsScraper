@@ -6244,3 +6244,5 @@
 2025-11-07 22:44:16 | L Catterton, L.P. | Affiliate | Shares: 63868 | Value: $1,407,012.04 | Percent: 0.062645% | Link: https://www.sec.gov/Archives/edgar/data/1758488/000162828025050738/0001628280-25-050738.txt
 2025-11-07 22:44:18 | OLEG RYABOY | Former Officer | Shares: 9710 | Value: $471,629.27 | Percent: 0.041007% | Link: https://www.sec.gov/Archives/edgar/data/1945827/000195004725008583/0001950047-25-008583.txt
 2025-11-07 22:44:19 | OLEG RYABOY | Former Officer | Shares: 9710 | Value: $471,629.27 | Percent: 0.041007% | Link: https://www.sec.gov/Archives/edgar/data/1443669/000195004725008583/0001950047-25-008583.txt
+2025-11-07 23:58:12 | Batten John H | Officer | Shares: 90000 | Value: $1,440,000.0 | Percent: 0.625425% | Link: https://www.sec.gov/Archives/edgar/data/1226982/000143774925033909/0001437749-25-033909.txt
+2025-11-07 23:58:13 | Batten John H | Officer | Shares: 90000 | Value: $1,440,000.0 | Percent: 0.625425% | Link: https://www.sec.gov/Archives/edgar/data/100378/000143774925033909/0001437749-25-033909.txt
