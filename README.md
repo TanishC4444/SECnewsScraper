@@ -771,4 +771,312 @@ count = 1  # Latest filing only (prevents duplicate processing)
 ## Output Format
 
 **Email Structure:**
-<img width="1242" height="1214" alt="image" src="https://github.com/user-attachments/assets/679918b4-cbb3-4150-9291-787299471678" />
+<img width="678" height="1290" alt="image" src="https://github.com/user-attachments/assets/4c3c11b9-4b4c-4de2-80cc-6a78dc0493bd" />
+
+**Visual Design:**
+- Gradient headers with form-specific colors
+- Dark theme charts with white text for readability
+- Color-coded signals (green, yellow, orange, red)
+- Responsive HTML layout for mobile compatibility
+- Embedded charts with unique Content-IDs
+
+## Use Cases
+
+**Investment Research:**
+- Monitor IPO pipeline via S-1/MEF and EFFECT filings
+- Track insider sentiment through Form 144 analysis
+- Identify material corporate events via 8-K alerts
+- Assess ESG compliance through SD disclosures
+
+**Compliance Monitoring:**
+- Automated tracking of regulatory filings
+- Real-time alerts for material events
+- Historical audit trail via log files
+- Supply chain transparency monitoring (conflict minerals)
+
+**Competitive Intelligence:**
+- Track competitor filings and corporate actions
+- Monitor market entry (IPOs) and exits (bankruptcies)
+- Leadership changes and strategic pivots
+- Financial performance through 8-K earnings releases
+
+## Performance Characteristics
+
+**Execution Time:**
+- Single form type query: 2-5 seconds
+- Complete 7-form scan: 15-30 seconds
+- Chart generation per ticker: 3-5 seconds
+- Email compilation and send: 2-3 seconds
+- Total runtime: 30-60 seconds per execution
+
+**Rate Limiting:**
+- SEC EDGAR: No enforced limits (respectful 15-minute polling)
+- Yahoo Finance: No explicit limits for yfinance library
+- SMTP Gmail: 500 emails per day limit (not approached)
+
+**Data Volume:**
+- Average email size: 500KB - 2MB (depends on number of charts)
+- Log file growth: ~50-200 lines per day
+- Annual log size: ~20,000-75,000 lines (~2-7 MB)
+
+## Error Handling
+
+**Network Failures:**
+```python
+try:
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+except requests.exceptions.RequestException as e:
+    print(f"Failed to fetch {url}: {e}")
+    continue  # Skip this filing, continue with others
+```
+
+**Parsing Errors:**
+```python
+try:
+    data = parse_form144(txt_url)
+    if not data:
+        print(f"Failed to parse Form 144: {txt_url}")
+        continue
+except Exception as e:
+    print(f"Error parsing Form 144: {e}")
+    continue
+```
+
+**Ticker Resolution Failures:**
+```python
+ticker = get_ticker_from_name(company_name)
+if not ticker:
+    print(f"Could not resolve ticker for {company_name}")
+    # Continue without stock data
+    stock_html = ""
+    chart_base64 = None
+```
+
+**Chart Generation Failures:**
+```python
+try:
+    chart_base64, stock_html = get_stock_data_and_chart(ticker)
+except Exception as e:
+    print(f"Error generating chart for {ticker}: {e}")
+    chart_base64 = None
+    stock_html = "<p>Stock data unavailable</p>"
+```
+
+**Graceful Degradation:**
+- If stock data unavailable, filing still processed without charts
+- If ticker resolution fails, proceeds with company name only
+- If specific item parsing fails, other items still processed
+- Email sent even if some components fail
+
+## Logging and Debugging
+
+**Console Output:**
+```python
+print(f"\nChecking filings for form type: {form.upper()}")
+print(f"Already notified for {entry_id}")
+print(f"Added {filing_data['form_type']} filing for {filing_data['company']}")
+print(f"\nSending batch email with {len(all_filings)} filings...")
+print("✅ Batch email sent successfully!")
+```
+
+**File-Based Logging:**
+```python
+# 8-K processing log
+log_to_file8k(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | {f['title']} | {f['updated']} | {txt_url}")
+
+# Form 144 log with complete details
+log_entry = (f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | "
+            f"{data['issuer']} | {data['relationship']} | "
+            f"Shares: {data['shares_sold']} | "
+            f"Value: ${data['market_value']:,} | "
+            f"Percent: {data['pct_of_company']}% | "
+            f"Link: {txt_url}")
+log_form144(log_entry)
+
+# SD filing log
+log_entry = (f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} | "
+            f"{company_name} | "
+            f"DRC Status: {sd_data['drc_status']} | "
+            f"Minerals: {', '.join(sd_data['minerals'])} | "
+            f"Link: {txt_url}")
+log_sd_filing(log_entry)
+```
+
+## Maintenance
+
+**Log File Rotation:**
+```bash
+# Manual log cleanup (run periodically)
+# Keep last 1000 lines of each log
+tail -1000 notified_log.txt > notified_log.tmp && mv notified_log.tmp notified_log.txt
+tail -1000 eightk_log.txt > eightk_log.tmp && mv eightk_log.tmp eightk_log.txt
+tail -1000 form144_log.txt > form144_log.tmp && mv form144_log.tmp form144_log.txt
+tail -1000 s1mef_log.txt > s1mef_log.tmp && mv s1mef_log.tmp s1mef_log.txt
+tail -1000 sd_log.txt > sd_log.tmp && mv sd_log.tmp sd_log.txt
+```
+
+**Dependency Updates:**
+```bash
+# Update all dependencies to latest compatible versions
+pip install --upgrade requests beautifulsoup4 lxml yfinance matplotlib pandas pytz
+
+# Test after updates
+python main.py
+```
+
+**GitHub Actions Monitoring:**
+- Check Actions tab for failed runs
+- Review logs for parsing errors or API failures
+- Monitor email delivery success
+- Verify log file commits are occurring
+
+## Troubleshooting
+
+**No emails received:**
+1. Check GitHub Actions run logs for errors
+2. Verify EMAIL_PASSWORD secret is set correctly
+3. Confirm Gmail App Password is valid (not revoked)
+4. Check spam/junk folder
+5. Verify notified_log.txt isn't blocking all filings
+
+**Duplicate notifications:**
+1. Check if notified_log.txt was corrupted or reset
+2. Verify entry_id format matches between runs
+3. Ensure git commit/push is succeeding in workflow
+
+**Missing stock data:**
+1. Yahoo Finance API may be rate limiting
+2. Ticker resolution failing for company name
+3. Company may not be publicly traded
+4. Check yfinance library for deprecation warnings
+
+**Chart rendering issues:**
+1. Verify matplotlib backend is non-interactive (Agg)
+2. Check DPI and figure size settings
+3. Ensure white text color is applied to all labels
+4. Verify base64 encoding is correct
+
+**EFFECT filings showing N-2:**
+```python
+# Already filtered in code
+if underlying_form and underlying_form.upper() == "N-2":
+    print(f"Skipping N-2 EFFECT filing: {f['title']}")
+    continue
+```
+
+## Future Enhancements
+
+**Potential Features:**
+- **SMS Alerts**: Twilio integration for critical filings (VERY BEARISH signals)
+- **Database Storage**: Migrate from log files to SQLite/PostgreSQL for better querying
+- **Web Dashboard**: Flask/Django interface for viewing filing history and analytics
+- **Sentiment Analysis**: NLP on 8-K item descriptions for deeper signal detection
+- **Options Flow**: Integrate unusual options activity correlated with filings
+- **Slack/Discord Webhooks**: Team notifications via popular messaging platforms
+- **Custom Filters**: User-defined watchlists for specific companies or sectors
+- **Historical Analysis**: Backfill historical filings for trend analysis
+- **Machine Learning**: Predict stock price impact based on filing patterns
+- **Portfolio Integration**: Connect with brokerage APIs for automated trading signals
+
+**Technical Improvements:**
+- Async HTTP requests for faster parallel processing
+- Redis caching for ticker resolution and stock data
+- Docker containerization for consistent execution environment
+- Comprehensive test suite with mock SEC responses
+- CI/CD pipeline with automated testing
+- Structured logging with log levels and rotation
+- Prometheus metrics for monitoring and alerting
+
+## Legal and Compliance
+
+**SEC Data Usage:**
+- All data sourced from public SEC EDGAR system
+- No authentication required for public filings
+- User-Agent header identifies scraper per SEC guidelines
+- Respectful polling intervals to avoid overloading SEC servers
+
+**Email Disclaimer:**
+- Data provided for informational purposes only
+- Not investment advice or recommendation to buy/sell securities
+- Users should conduct independent research and consult financial advisors
+- Past performance does not guarantee future results
+
+**Data Accuracy:**
+- Stock data from Yahoo Finance may have delays or errors
+- Ticker resolution may fail for newly public companies
+- Parsing logic may not capture all nuances of complex filings
+- Users should verify critical information with primary sources
+
+## Repository Statistics
+
+**Commit History:**
+- 2,750+ commits (mostly automated log updates)
+- Single contributor
+- Active development and maintenance
+- Regular GitHub Actions executions during market hours
+
+**File Structure:**
+```
+SECnewsScraper/
+├── .github/
+│   └── workflows/
+│       └── scraper.yml           # GitHub Actions workflow
+├── main.py                        # Core application logic (2000+ lines)
+├── notified_log.txt              # Master notification tracking
+├── eightk_log.txt                # 8-K processing history
+├── form144_log.txt               # Form 144 processing history
+├── s1mef_log.txt                 # S-1/MEF processing history
+├── sd_log.txt                    # SD processing history
+├── effect_filings_log.txt        # EFFECT processing history
+├── EIGHTK_LOG_FILE               # Legacy log file
+└── README.md                     # This documentation
+```
+
+## Development Setup
+
+**Local Execution:**
+```bash
+# Clone repository
+git clone https://github.com/TanishC4444/SECnewsScraper.git
+cd SECnewsScraper
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install requests beautifulsoup4 lxml yfinance matplotlib pandas pytz
+
+# Set environment variable
+export EMAIL_PASSWORD="your_gmail_app_password"
+
+# Run scraper
+python main.py
+```
+
+**Testing Without Email:**
+```python
+# Comment out email sending in main.py
+if all_filings:
+    print(f"\nWould send batch email with {len(all_filings)} filings")
+    # send_batch_email(all_filings, all_charts)
+    
+    # Still mark as notified for testing
+    for filing in all_filings:
+        save_notified(filing['entry_id'])
+```
+
+## Contact and Support
+
+**Developer:** TanishC4444  
+**Email:** tanishchauhan4444@gmail.com  
+**Repository:** https://github.com/TanishC4444/SECnewsScraper
+
+For issues, feature requests, or questions, please open a GitHub issue or contact the developer directly.
+
+---
+
+**Last Updated:** December 2024  
+**Python Version:** 3.11+  
+**License:** Not specified (personal project)
