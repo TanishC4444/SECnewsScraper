@@ -1,177 +1,204 @@
-# SEC News Scraper
-
 <div align="center">
 
-**From raw EDGAR filings to decision-ready email briefings—automatically.**
+<img src="assets/sec-intelligence-hero.jpg" alt="SEC News Scraper — filings transformed into market intelligence and email alerts" width="100%" />
+
+# SEC News Scraper
+
+### Regulatory filings in. Decision-ready intelligence out.
+
+An automated Python pipeline that monitors live SEC EDGAR feeds, understands five high-signal filing types, enriches them with market data, and delivers polished email briefings—with no dashboard to babysit.
 
 [![SEC Filing Monitor](https://github.com/TanishC4444/SECnewsScraper/actions/workflows/sec_monitor.yml/badge.svg)](https://github.com/TanishC4444/SECnewsScraper/actions/workflows/sec_monitor.yml)
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
-![Data Source](https://img.shields.io/badge/Data-SEC%20EDGAR-003968)
-![Automation](https://img.shields.io/badge/Automation-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+[![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+![Forms monitored](https://img.shields.io/badge/Forms_Monitored-5-00B8D9?style=flat-square)
+![Schedule](https://img.shields.io/badge/Schedule-Every_5_Minutes-2EA44F?style=flat-square&logo=githubactions&logoColor=white)
+![Source](https://img.shields.io/badge/Source-SEC_EDGAR-0B1F33?style=flat-square)
 
-[Overview](#overview) · [Architecture](#architecture) · [How It Works](#how-it-works) · [Setup](#setup) · [Engineering](#engineering-deep-dive)
+[Explore the pipeline](#-the-pipeline) · [See the filing intelligence](#-filing-intelligence) · [Run it locally](#-quick-start) · [Review the engineering](#-engineering-deep-dive)
 
 </div>
 
 ---
 
-## Overview
+## The project, at a glance
 
-SEC News Scraper is an automated Python monitoring pipeline for selected [SEC EDGAR](https://www.sec.gov/edgar/search-and-access) filings. On each run, it retrieves the newest filing from five form-specific Atom feeds, rejects filings that were already reported, applies form-aware parsing and rule-based classification, enriches the result with Yahoo Finance data, renders stock charts, and delivers one consolidated HTML email.
+| | |
+|---|---|
+| **Problem** | Critical filings are public, but turning raw regulatory documents into timely, readable context is repetitive and fragmented. |
+| **Solution** | A scheduled ingestion → classification → enrichment → visualization → notification pipeline. |
+| **Coverage** | `8-K` · `Form 144` · `S-1MEF` · `EFFECT` · `SD` |
+| **Output** | One consolidated HTML email with filing signals, market context, charts, and direct SEC source links. |
+| **Runtime** | Python 3.10 on GitHub Actions, scheduled every five minutes and available on demand. |
+| **State** | CIK/accession-based deduplication persisted through repository log files. |
 
-The project connects regulatory data ingestion, document parsing, market-data enrichment, visualization, stateful automation, and multipart email delivery in a single end-to-end workflow.
+> [!NOTE]
+> This project produces deterministic research heuristics—not financial advice. Every briefing links back to the original SEC filing for verification.
 
-> [!IMPORTANT]
-> The classifications produced by this project are deterministic heuristics—not financial advice, investment recommendations, or a substitute for reading the original filing.
+## Why it stands out
 
-## What It Monitors
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Filing | What the pipeline extracts | Implemented filtering / classification |
-|---|---|---|
-| **8-K** | Recognized Item sections and their filing text | Maps 20 Item codes to `NEUTRAL`, `WATCH`, `MAJOR WATCH`, `BEARISH`, or `VERY BEARISH`; skips filings without a recognized, non-empty Item section |
-| **Form 144** | Issuer, seller, relationship, shares, market value, shares outstanding | Processes proposed sales above **5,000 shares**; calculates the sale as a percentage of shares outstanding and classifies officer/director vs. other sales |
-| **S-1MEF** | Company and filing metadata | Labels the filing as an IPO registration amendment and includes source links |
-| **EFFECT** | Underlying registration form and effective date | Reads the filing's primary XML document, explains known underlying forms, and skips `N-2` registrations |
-| **SD** | Conflict-mineral terms, DRC-status phrases, supplier references, smelter/refiner mentions | Produces rule-based ESG/compliance labels from filing text |
+### Form-aware intelligence
 
-Every eligible filing can also receive ticker resolution, price and volume history, performance metrics, fundamentals, a four-quarter income-statement table, and an inline 30-day chart when Yahoo Finance data is available.
+Each filing type follows its own extraction and classification path. The system does more than announce that a filing exists—it surfaces the fields and events that make that form useful.
 
-## Key Features
+</td>
+<td width="50%" valign="top">
 
-- **Form-aware parsing** — separate extraction paths for event reports, insider-sale notices, registration effectiveness notices, IPO amendments, and conflict-minerals disclosures.
-- **Explainable signals** — explicit lookup tables and thresholds make every classification traceable to code.
-- **Market context** — automatically resolves a probable ticker and retrieves pricing, volume, valuation, beta, range, and quarterly financial data.
-- **Email-native visualization** — builds a dark price/volume chart with Matplotlib, encodes it in memory, and embeds it using a unique MIME Content-ID.
-- **Batch delivery** — combines all newly discovered filings into one styled HTML briefing instead of sending one message per form.
-- **Persistent deduplication** — derives an ID from form, CIK, and accession number, then records successful notifications in `notified_log.txt`.
-- **Scheduled operation** — GitHub Actions runs the monitor every five minutes and supports manual dispatch.
-- **Graceful enrichment fallback** — a filing can still be reported when ticker lookup or market-data enrichment is unavailable.
+### Explainable signals
 
-## Architecture
+8-K Item codes, insider-sale thresholds, EFFECT metadata, and conflict-mineral phrases map to explicit rules. The logic is inspectable, fast, and deterministic.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Market context built in
+
+Company names are resolved to probable tickers, then enriched with price history, fundamentals, quarterly income data, and a generated price/volume chart when data is available.
+
+</td>
+<td width="50%" valign="top">
+
+### Stateful serverless automation
+
+Scheduled GitHub Actions runs preserve notification state by committing updated logs, allowing a stateless runner to remember what has already been delivered.
+
+</td>
+</tr>
+</table>
+
+## The pipeline
+
+The operational path is intentionally linear: retrieve, reject duplicates, understand the filing, add market context, then notify.
 
 ```mermaid
-flowchart LR
-    A["GitHub Actions<br/>every 5 minutes"] --> B["SEC current-filings<br/>Atom feeds"]
-    B --> C["XML feed parser"]
-    C --> D{"Already in<br/>notified_log?"}
-    D -- Yes --> E["Skip"]
-    D -- No --> F{"Form type"}
+flowchart TB
+    Trigger["⏱ GitHub Actions<br/>scheduled every 5 minutes"]
+    Feeds["🏛 SEC EDGAR<br/>5 current-filings Atom feeds"]
+    Parse["🔎 Parse feed metadata<br/>title · URL · filed time"]
+    Seen{"Already<br/>notified?"}
+    Route["🧭 Route by form type"]
+    Signals["🧠 Extract fields<br/>and classify signals"]
+    Market["📈 Resolve ticker<br/>and fetch market context"]
+    Render["🎨 Build HTML cards<br/>and in-memory charts"]
+    Email["✉️ Send one consolidated<br/>multipart email"]
+    Persist["💾 Save notification IDs<br/>and audit logs"]
 
-    F -->|8-K| G["Item extraction<br/>and severity rules"]
-    F -->|144| H["Sale fields<br/>and threshold rules"]
-    F -->|EFFECT| I["Underlying form<br/>and effective date"]
-    F -->|S-1MEF| J["IPO amendment<br/>metadata"]
-    F -->|SD| K["Mineral and<br/>DRC phrase detection"]
+    Trigger --> Feeds --> Parse --> Seen
+    Seen -- Yes --> Stop["Skip duplicate"]
+    Seen -- No --> Route --> Signals --> Market --> Render --> Email --> Persist
 
-    G --> L["Company → ticker search"]
-    H --> L
-    I --> L
-    J --> L
-    K --> L
-
-    L --> M["yfinance fundamentals<br/>and price history"]
-    M --> N["Matplotlib PNG<br/>in memory"]
-    N --> O["Consolidated HTML +<br/>MIME chart attachments"]
-    O --> P["Gmail SMTP over TLS"]
-    P --> Q["Persist notification<br/>and form-specific logs"]
-    Q --> R["Workflow commits<br/>updated *.txt files"]
+    classDef source fill:#0B1F33,stroke:#2F81F7,color:#FFFFFF
+    classDef process fill:#102A43,stroke:#00B8D9,color:#FFFFFF
+    classDef decision fill:#3A2E10,stroke:#D4A72C,color:#FFFFFF
+    classDef output fill:#0F3D2E,stroke:#2EA44F,color:#FFFFFF
+    class Trigger,Feeds source
+    class Parse,Route,Signals,Market,Render process
+    class Seen decision
+    class Email,Persist output
 ```
 
-### Runtime workflow
-
-1. Load processed filing IDs from `notified_log.txt` into a set.
-2. Query the SEC current-filings Atom endpoint for the newest `EFFECT`, `S-1MEF`, `8-k`, `144`, and `SD` filing.
-3. Build a stable identifier from the form type, CIK, and accession number.
-4. Route unseen filings through their form-specific parser and eligibility rules.
-5. Resolve the company name to a probable Yahoo Finance ticker.
-6. Fetch market history and fundamentals; generate the price/volume chart in memory.
-7. Assemble form-specific HTML cards and one batch email.
-8. Send the multipart message through Gmail SMTP with STARTTLS.
-9. After delivery returns successfully, append notification IDs and form-specific audit entries.
-10. In GitHub Actions, commit changed `*.txt` state files back to the repository.
-
-## Engineering Deep Dive
-
-### 1. SEC ingestion and identity
-
-`get_filings()` calls the SEC's current-filings endpoint with `output=atom` and parses entries with `xml.etree.ElementTree`. The checked-in entry point requests `count=1`, so each run examines the newest filing for each configured form—not the full recent history.
-
-The deduplication key is normally:
+### What one automation run actually does
 
 ```text
-<form>-<CIK>-<accession-number>
+01  Load notified_log.txt into memory
+02  Request the newest filing for each configured form
+03  Derive <form>-<CIK>-<accession> identity keys
+04  Skip keys that have already been delivered
+05  Run the matching form-specific parser and eligibility rules
+06  Resolve a probable ticker and request Yahoo Finance data
+07  Generate a 30-day price / volume chart in memory
+08  Compile every new filing into one HTML briefing
+09  Send through Gmail SMTP with STARTTLS
+10  Persist IDs and form-specific logs after successful delivery
 ```
 
-Using a set for previously notified IDs gives constant-time membership checks. The state is deliberately written only after the batch email completes, which favors retrying over silently losing a notification when delivery fails.
+## Filing intelligence
 
-### 2. 8-K event classification
+| Filing | What the code reads | Signal logic and filtering |
+|:---:|---|---|
+| **8-K** | Recognized Item sections and filing text | Maps 20 Item codes to `NEUTRAL`, `WATCH`, `MAJOR WATCH`, `BEARISH`, or `VERY BEARISH`. Unrecognized or empty sections are skipped. |
+| **144** | Issuer, seller, relationship, shares, market value, and shares outstanding | Processes proposed sales above **5,000 shares**; calculates ownership impact and separates officer/director sales from other relationships. |
+| **S-1MEF** | Company and filing metadata | Presents the filing as an IPO registration amendment with timing context and original filing links. |
+| **EFFECT** | Underlying registration form and effective date | Reads the filing's primary XML, explains recognized form types, and filters out `N-2` registrations. |
+| **SD** | Mineral terms, DRC phrases, supplier references, and smelter/refiner mentions | Produces rule-based ESG/compliance labels for tin, tantalum, tungsten, gold, and sourcing status. |
 
-The 8-K path converts the filing index URL to the raw `.txt` submission, removes markup, normalizes whitespace, and extracts Item sections with a boundary-aware regular expression. Recognized Item numbers are mapped to human-readable descriptions and fixed severity labels.
+### 8-K severity model
 
-The overall filing signal escalates to the strongest category found: `VERY BEARISH` outranks `BEARISH`, which outranks watch-level and neutral events. This is transparent and fast, but it classifies the reported Item code—not the semantic tone of the company's narrative.
-
-### 3. Form 144 arithmetic
-
-`parse_form144()` extracts XML-like tags from the raw submission and uses `Decimal` to calculate:
+The system uses the strongest recognized event in the filing as its overall signal:
 
 ```text
-percentage of company = proposed shares sold / shares outstanding × 100
+VERY BEARISH  >  BEARISH  >  WATCH / MAJOR WATCH  >  NEUTRAL
 ```
 
-The main workflow ignores proposed sales of 5,000 shares or fewer. Officer/director sales are separated into minor, insider, and major-insider tiers at `0.1%` and `1.0%`; other relationships receive an institutional-sale label.
+Examples grounded in the lookup table include bankruptcy (`1.03`) and financial restatement (`4.02`) as `VERY BEARISH`, new debt (`2.03`) as `BEARISH`, leadership change (`5.02`) as `WATCH`, and financial statements (`9.01`) as `NEUTRAL`.
 
-### 4. EFFECT and SD parsing
+### Form 144 ownership impact
 
-For EFFECT filings, the code derives the CIK and accession number from the SEC URL, requests `xslEFFECTX01/primary_doc.xml`, and extracts the underlying form and effective date. It uses Beautiful Soup and regex as a fallback when strict XML parsing fails.
-
-The SD parser lowers the raw filing text and searches for mineral synonyms, DRC-status phrases, supplier references, and smelter/refiner language. This makes the result explainable and inexpensive, while also making it sensitive to phrasing and negation.
-
-### 5. Market enrichment and visualization
-
-Ticker resolution uses Yahoo Finance's search endpoint. `yfinance` then supplies:
-
-- 5-day, 1-month, 3-month, and 1-year price history;
-- current/previous price context, market capitalization, volume, P/E, price-to-book, dividend yield, and beta;
-- day and 52-week ranges;
-- the four most recent quarterly income-statement columns when available.
-
-Matplotlib renders a two-panel 30-day price and volume figure. The PNG never needs a temporary file: it is written to `BytesIO`, Base64-encoded, and later attached to the email with a per-filing Content-ID.
-
-### 6. Email composition
-
-Each parser returns a common record containing `form_type`, `company`, `html_content`, and `entry_id`. This small shared contract lets the orchestration layer aggregate heterogeneous filings without coupling the batch email builder to every parser's internal fields.
-
-The final message uses `multipart/related` for inline charts and `multipart/alternative` for plain-text and HTML bodies. Form-specific cards include filing context, signal colors, market information when available, and direct SEC links.
-
-## Repository Structure
+The parser uses `Decimal` arithmetic rather than binary floating point for the core percentage calculation:
 
 ```text
-SECnewsScraper/
-├── .github/
-│   └── workflows/
-│       └── sec_monitor.yml       # Scheduled and manual automation
-├── main.py                       # Ingestion, parsing, enrichment, charts, email
-├── notified_log.txt              # Cross-run deduplication state
-├── eightk_log.txt                # Processed 8-K history
-├── form144_log.txt               # Processed Form 144 history
-├── s1mef_log.txt                 # S-1MEF notification history
-├── sd_log.txt                    # Processed SD history
-├── effect_filings_log.txt        # Reserved/legacy EFFECT log file
-├── EIGHTK_LOG_FILE               # Legacy 8-K log artifact
-└── README.md
+proposed shares sold
+──────────────────── × 100 = percentage of shares outstanding
+ shares outstanding
 ```
 
-The application is currently implemented as a single Python module. That keeps deployment simple, but the parser, enrichment, presentation, transport, and orchestration concerns would be natural module boundaries as the project grows.
+Officer/director sales cross signal tiers at `0.1%` and `1.0%`. Other relationships receive a separate institutional-sale classification.
 
-## Setup
+### EFFECT and SD interpretation
 
-### Prerequisites
+- **EFFECT:** derives the CIK and accession from the SEC URL, reads `primary_doc.xml`, and extracts the underlying registration form plus effective date. Beautiful Soup and regex provide a fallback when strict XML parsing fails.
+- **SD:** normalizes filing text and looks for mineral synonyms, DRC-status language, supplier frequency, and smelter/refiner references. The output is useful for triage, but remains sensitive to phrasing and negation.
 
-- Python **3.10** (the version used by the workflow)
-- A Gmail account with an app password for SMTP authentication
+## Market-data enrichment
+
+Once a company is resolved to a probable ticker, the pipeline requests:
+
+| Category | Data used in the briefing |
+|---|---|
+| **Price history** | 5-day, 1-month, 3-month, and 1-year windows |
+| **Performance** | Latest move plus 3-month and 1-year-window changes |
+| **Fundamentals** | Market cap, volume, trailing P/E, price-to-book, dividend yield, and beta |
+| **Trading ranges** | Daily and 52-week high / low values |
+| **Financials** | Up to four recent quarterly columns for revenue, net income, gross profit, and operating income |
+| **Visualization** | A dark two-panel 30-day closing-price and volume chart |
+
+The generated PNG stays in memory: Matplotlib writes to `BytesIO`, the image is Base64-encoded, and the mailer attaches it with a unique MIME Content-ID. If ticker resolution or market data fails, filing delivery can continue without the chart.
+
+## Email delivery design
+
+Every parser produces the same compact record contract:
+
+```python
+{
+    "form_type": "8-K",
+    "company": "Example Corp",
+    "html_content": "<div>...</div>",
+    "entry_id": "8-k-<CIK>-<accession>"
+}
+```
+
+That common shape decouples the batch composer from form-specific parsing. The final message uses:
+
+- `multipart/related` for the HTML briefing and inline chart assets;
+- `multipart/alternative` for plain-text and HTML bodies;
+- per-chart Content-IDs to prevent attachment collisions;
+- Gmail SMTP with STARTTLS for transport;
+- a subject line summarizing filing counts by type.
+
+## Quick start
+
+### Requirements
+
+- Python **3.10**
+- Gmail with an app password
 - Network access to SEC EDGAR and Yahoo Finance
 
-### 1. Clone and create an environment
+### Install
 
 ```bash
 git clone https://github.com/TanishC4444/SECnewsScraper.git
@@ -179,128 +206,190 @@ cd SECnewsScraper
 
 python -m venv .venv
 source .venv/bin/activate
-```
 
-Windows PowerShell activation:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-### 2. Install the dependencies used by the code
-
-The repository does not currently include a dependency manifest. Install the same packages used by the GitHub Actions workflow:
-
-```bash
 python -m pip install --upgrade pip
 python -m pip install requests beautifulsoup4 yfinance matplotlib pandas pytz
 ```
 
-### 3. Configure email and SEC identity
+<details>
+<summary><strong>Windows PowerShell equivalent</strong></summary>
 
-Set the SMTP password in your shell:
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install requests beautifulsoup4 yfinance matplotlib pandas pytz
+```
+
+</details>
+
+> [!NOTE]
+> The repository does not currently include a dependency manifest. The packages above mirror the checked-in GitHub Actions workflow.
+
+### Configure
+
+Set the Gmail app password in your environment:
 
 ```bash
 export EMAIL_PASSWORD="your-gmail-app-password"
 ```
 
-PowerShell:
+Then update these values near the top of `main.py`:
 
-```powershell
-$env:EMAIL_PASSWORD = "your-gmail-app-password"
-```
-
-Before running, update these configuration values near the top of `main.py` for your environment:
-
-- `EMAIL_ADDRESS` — authenticated Gmail sender;
-- `RECIPIENT_EMAIL` — destination address;
-- `headers["User-Agent"]` — a descriptive SEC User-Agent with your contact information.
+| Setting | Purpose |
+|---|---|
+| `EMAIL_ADDRESS` | Gmail account used to authenticate and send |
+| `RECIPIENT_EMAIL` | Destination for the compiled briefing |
+| `headers["User-Agent"]` | Descriptive SEC client identity with your contact information |
 
 > [!CAUTION]
-> The current source includes a fallback value when `EMAIL_PASSWORD` is absent. Remove that fallback and rotate any exposed credential before deploying or sharing a fork. Use only an environment variable or repository secret.
+> The current source contains a fallback value when `EMAIL_PASSWORD` is absent. Remove that fallback and rotate any exposed credential before deploying or sharing a fork. Store the replacement only in an environment variable or repository secret.
 
-### 4. Run locally
+### Run
 
 ```bash
 python main.py
 ```
 
-The script prints progress for each form. If it finds eligible unseen filings, it sends one batch message and updates the local log files; otherwise it exits with `No new filings found.`
+When eligible unseen filings exist, the script sends one batch email and updates local logs. Otherwise, it exits with `No new filings found.`
 
-## GitHub Actions Automation
+## Automation, without the guesswork
 
-The checked-in workflow can be launched manually or on this UTC cron schedule:
+The repository's workflow has two entry points:
 
-```yaml
-schedule:
-  - cron: '*/5 * * * *'
+```mermaid
+flowchart LR
+    Schedule["Cron<br/>*/5 * * * *"] --> Job["SEC Filing Monitor"]
+    Manual["Actions tab<br/>Run workflow"] --> Job
+    Job --> Checkout["Checkout repository"]
+    Checkout --> Python["Set up Python 3.10"]
+    Python --> Install["Install runtime packages"]
+    Install --> Run["Run main.py<br/>with EMAIL_PASSWORD"]
+    Run --> Commit["Commit changed *.txt logs<br/>using [skip ci]"]
 ```
 
-That expression requests a run every five minutes, every day. Scheduled GitHub Actions runs can be delayed, and the code itself does not restrict execution to market hours.
+The cron expression requests a run every five minutes, every day, in UTC. GitHub may delay scheduled executions, and the Python code does not restrict runs to stock-market hours.
 
-To enable email delivery:
+### Enable it in a fork
 
-1. Open **Settings → Secrets and variables → Actions** in your fork.
-2. Create a repository secret named `EMAIL_PASSWORD`.
-3. Ensure the workflow has permission to push the updated `*.txt` logs.
-4. Run **SEC Filing Monitor** manually once and review the output before relying on the schedule.
+1. Open **Settings → Secrets and variables → Actions**.
+2. Add a repository secret named `EMAIL_PASSWORD`.
+3. In **Settings → Actions → General**, allow the workflow to write repository contents so it can persist changed logs.
+4. Open **Actions → SEC Filing Monitor → Run workflow**.
+5. Review the first run and received email before relying on the schedule.
 
-The workflow checks out the repository, installs the runtime packages, runs `main.py`, and commits changed text logs with `[skip ci]` to avoid a push-triggered loop.
+The final commit step stages only `*.txt`, writes `Update SEC logs [skip ci]` when state changed, and pushes it back to the active branch.
 
-## Design Decisions and Tradeoffs
+## Repository map
 
-| Decision | Benefit | Tradeoff |
+```text
+SECnewsScraper/
+├── .github/workflows/
+│   └── sec_monitor.yml       scheduled + manual automation
+├── assets/
+│   └── sec-intelligence-hero.jpg
+├── main.py                   complete ingestion-to-email pipeline
+├── notified_log.txt          cross-run deduplication state
+├── eightk_log.txt            processed 8-K history
+├── form144_log.txt           processed Form 144 history
+├── s1mef_log.txt             S-1MEF notification history
+├── sd_log.txt                processed SD history
+├── effect_filings_log.txt    reserved / legacy EFFECT log
+├── EIGHTK_LOG_FILE           legacy 8-K artifact
+└── README.md
+```
+
+## Engineering deep dive
+
+<details open>
+<summary><strong>Identity, deduplication, and delivery semantics</strong></summary>
+
+`notified_log.txt` is loaded into a set, giving constant-time membership checks. A filing is normally identified by form type, CIK, and accession number. IDs are written only after the consolidated SMTP send returns successfully, favoring a retry over silently losing an alert after a failed delivery.
+
+This is an at-least-once design, not a transaction: simultaneous workflow runs could still race before either one persists its ID.
+
+</details>
+
+<details>
+<summary><strong>Parsing strategy</strong></summary>
+
+- SEC current-filings feeds use `xml.etree.ElementTree`.
+- 8-K documents are cleaned and split into Item sections with a boundary-aware regex.
+- Form 144 reads XML-like tags and validates the numeric fields needed for its ratio.
+- EFFECT attempts strict XML first, then HTML/text fallback parsing.
+- SD uses normalized text and transparent phrase/synonym matching.
+
+The approach is deployment-light and explainable. Its tradeoff is that document-layout changes and nuanced prose can outgrow regex and lexical rules.
+
+</details>
+
+<details>
+<summary><strong>Why the application is currently one module</strong></summary>
+
+A single `main.py` minimizes deployment ceremony: the workflow installs packages and runs one file. As the project grows, SEC clients, form parsers, market enrichment, templates, SMTP transport, configuration, and orchestration are clear module boundaries that would improve isolated testing and reuse.
+
+</details>
+
+## Decisions and tradeoffs
+
+| Design choice | What it buys | What it costs |
 |---|---|---|
-| Latest filing only (`count=1`) | Small, predictable workload per scheduled run | Bursts between runs can cause filings to be missed |
-| Flat files as durable state | Zero database or service setup | Repository growth, write contention, and limited querying |
-| Synchronous requests | Straight-line control flow and simple debugging | SEC and market requests are serialized, increasing runtime |
-| Rule-based signal labels | Fast, explainable, deterministic results | Filing context, nuanced language, and negation may be missed |
-| Company-name ticker search | Adds market context without maintaining a symbol map | The top Yahoo result can be wrong or absent |
-| Single-file application | Easy deployment in one workflow step | Parsing, presentation, and transport are tightly coupled |
-| Inline MIME charts | Rich self-contained briefings | Larger messages and varying email-client CSS support |
-| Commit logs back to Git | State survives stateless CI runners | Automation requires branch write access and may conflict with concurrent runs |
+| Latest filing only (`count=1`) | Small, predictable work per scheduled run | A burst between runs can be missed |
+| Flat-file state committed to Git | No database or hosted state service | Repository growth, concurrency risk, limited querying |
+| Synchronous requests | Straightforward control flow and debugging | SEC and market calls are serialized |
+| Deterministic heuristics | Fast, explainable classifications | Narrative nuance and negation may be missed |
+| Company-name ticker search | Market context without a maintained symbol map | The top result can be absent or incorrect |
+| One Python module | Extremely simple deployment | Tight coupling between parsing, UI, transport, and orchestration |
+| Inline MIME charts | Rich, self-contained email reports | Larger messages and uneven email-client CSS support |
 
-## Reliability and Current Constraints
+## Current boundaries
 
-- Individual 8-K, Form 144, and SD processing blocks catch broad exceptions and continue, while feed retrieval and final SMTP errors can still fail the run.
-- HTTP requests are not consistently configured with timeouts, retries, backoff, or explicit SEC throttling.
-- The SD and 8-K analyzers are lexical/rule-based; their labels should be treated as triage hints.
-- Yahoo Finance is an enrichment dependency, not the system of record. Always verify the linked SEC filing.
-- `notified_log.txt` is updated after email delivery, providing at-least-once behavior across failed sends but no transactional protection against concurrent workflow runs.
-- There is currently no automated test suite, package manifest, database, command-line interface, or historical backfill mode.
-- The project monitors the newest filing in each feed globally; it does not implement company watchlists.
+- Feed retrieval and final SMTP failures can fail the whole run; form-level 8-K, 144, and SD errors are isolated more locally.
+- Requests are not consistently protected by timeouts, retries, exponential backoff, or explicit rate control.
+- The system monitors the newest filing globally for each form, not a custom company watchlist.
+- There is no automated test suite, pinned dependency manifest, CLI, database, historical backfill, or concurrency lock.
+- Yahoo Finance is optional enrichment—not the source of record.
+- All signal labels should be verified against the linked filing before use.
 
-## Skills Demonstrated
+## Engineering skills demonstrated
 
-| Area | Evidence in the implementation |
+| Discipline | Concrete evidence |
 |---|---|
-| **Data engineering** | Multi-source ingestion, normalization, enrichment, batching, and persisted processing state |
-| **Document parsing** | Atom/XML traversal, HTML fallback parsing, regex extraction, entity decoding, and filing-specific schemas |
-| **Financial data handling** | Exact percentage arithmetic with `Decimal`, historical price windows, financial-statement metrics, and valuation data |
-| **Automation / DevOps** | Cron-based GitHub Actions workflow, secret injection, stateless runner setup, and state commits |
-| **Data visualization** | Programmatic price/volume charts, performance annotations, dark-theme styling, and in-memory image encoding |
-| **Systems integration** | SEC EDGAR, Yahoo Finance search, `yfinance`, Gmail SMTP, TLS, MIME, and embedded assets |
-| **Reliability design** | Deduplication keys, post-delivery state writes, form-level exception isolation, and enrichment fallback paths |
-| **Product communication** | Filing explanations, severity hierarchy, source links, readable timestamps, and consolidated email UX |
+| **Data engineering** | Multi-source ingestion, normalization, routing, enrichment, batching, and persistent processing state |
+| **Document parsing** | Atom/XML traversal, HTML fallback parsing, regex extraction, entity decoding, and form-specific schemas |
+| **Financial computing** | `Decimal` percentage arithmetic, price windows, fundamentals, and quarterly statement metrics |
+| **Visualization** | Programmatic price/volume charts, annotations, dark-theme styling, and in-memory image handling |
+| **Systems integration** | SEC EDGAR, Yahoo search, `yfinance`, Gmail SMTP, TLS, MIME, and embedded assets |
+| **Automation / DevOps** | Cron scheduling, secrets injection, ephemeral-runner setup, and persisted state commits |
+| **Reliability design** | Stable identity keys, post-send state writes, error isolation, and enrichment fallback paths |
+| **Information design** | Filing explanations, severity hierarchy, source links, timestamps, and a consolidated briefing experience |
 
-## Resume-Ready Highlights
+## Resume-ready impact
 
-- Built an end-to-end Python pipeline that transforms live SEC EDGAR Atom feeds and filing documents into structured, form-aware email intelligence.
-- Implemented dedicated parsers and explainable classification rules for 8-K, Form 144, S-1MEF, EFFECT, and SD filings.
-- Integrated Yahoo Finance enrichment and generated in-memory Matplotlib price/volume charts embedded directly in multipart HTML email.
-- Designed persistent CIK/accession-based deduplication for recurring stateless GitHub Actions runs and automated state commits.
-- Combined heterogeneous filing outputs behind a shared record contract to deliver one consolidated notification per run.
+> **SEC News Scraper — Python, SEC EDGAR, Yahoo Finance, Matplotlib, GitHub Actions**
+>
+> - Engineered an automated regulatory-intelligence pipeline that converts live SEC Atom feeds and raw filing documents into consolidated, form-aware email briefings.
+> - Implemented dedicated extraction and explainable classification logic for 8-K, Form 144, S-1MEF, EFFECT, and SD filings.
+> - Integrated market fundamentals and historical pricing, generating in-memory Matplotlib charts embedded directly in multipart MIME email.
+> - Designed CIK/accession-based deduplication and Git-backed persistence for recurring runs on stateless GitHub Actions infrastructure.
 
-## Responsible Use
+## High-value next steps
 
-- Identify your client with an accurate contact-bearing User-Agent and follow the SEC's published [fair-access guidance](https://www.sec.gov/about/developer-resources).
-- Verify all classifications and market data against the original SEC document.
-- Protect SMTP credentials with environment variables or GitHub Actions secrets.
-- Do not treat the project's labels as investment advice or automated trading signals.
+```text
+Security      Remove credential fallbacks and centralize configuration
+Quality       Add pinned dependencies and fixture-driven parser tests
+Reliability   Add timeouts, retries, backoff, rate control, and concurrency protection
+Coverage      Process feed windows safely instead of only count=1
+Architecture  Separate clients, parsers, enrichment, templates, and transport
+State         Move notification history to a transactional store
+```
 
-## Roadmap Grounded in the Current Design
+## Responsible use
 
-The most valuable next engineering steps are to add a pinned dependency manifest, remove all credential fallbacks, split the single module into testable components, add fixture-based parser tests, introduce request timeouts/retries and SEC-aware rate control, process more than one recent filing safely, and move durable state from committed logs to a transactional store.
+- Identify automated clients accurately and follow the SEC's [developer and fair-access guidance](https://www.sec.gov/about/developer-resources).
+- Treat Yahoo Finance as contextual enrichment and the SEC filing as the authoritative source.
+- Keep SMTP credentials in environment variables or GitHub Actions secrets.
+- Do not interpret heuristic labels as investment advice or automated trading instructions.
 
 ## License
 
@@ -310,6 +399,8 @@ No license file is currently included. Unless a license is added, normal copyrig
 
 <div align="center">
 
-Built with Python, public regulatory data, and an automation-first mindset.
+### Built to turn regulatory noise into a readable signal.
+
+**Python · SEC EDGAR · Yahoo Finance · Matplotlib · GitHub Actions · SMTP**
 
 </div>
