@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sec-intelligence-hero.jpg" alt="SEC News Scraper — filings transformed into market intelligence and email alerts" width="100%" />
+<img src="https://images.unsplash.com/photo-1773266110858-acb9b6c43b15?auto=format&fit=crop&w=1800&h=600&q=82" alt="Real financial-market data displayed on a trading screen" width="100%" />\n<sub>Real photography by <a href="https://unsplash.com/photos/financial-stock-market-data-displayed-on-a-screen-EuIqk6LpUU0">Daniel Brzdęk on Unsplash</a>.</sub>
 
 # SEC News Scraper
 
